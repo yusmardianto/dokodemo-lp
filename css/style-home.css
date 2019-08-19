@@ -215,15 +215,35 @@ body {
 
 .testimony-text {
   background: rgba(255, 255, 255, 0.5);
-  padding: 1em;
+  padding: 1.5em 1em;
   margin-right: 1em;
-  margin-bottom: 1em;
-  min-height: 300px;
+  min-height: 320px;
 }
 
 .testimony-author {
   color: #505458;
   padding: 1em;
+}
+
+.slick-dots li button::before {
+  padding: 1em;
+  background: white;
+  border: 5px solid white;
+  content: "";
+  opacity: 1 !important;
+  border-radius: 50px;
+  -webkit-box-shadow: 0px 0px 3px -1px rgba(0,0,0,0.75);
+-moz-box-shadow: 0px 0px 3px -1px rgba(0,0,0,0.75);
+box-shadow: 0px 0px 3px -1px rgba(0,0,0,0.75);
+}
+
+.slick-dots li.slick-active button::before {
+  padding: 1em;
+  background: #1885d9;
+  border: 5px solid white;
+  content: "";
+  opacity: 1 !important;
+  border-radius: 50px;
 }
 
 @media (max-width: 768px) {
@@ -249,5 +269,15 @@ body {
   }
   .benefit-content.right {
     padding-left: 0;
+  }
+
+  .testimony-text{
+    min-height: 250px !important;
+  }
+}
+
+@media (max-width: 1200px) {
+  .testimony-text {
+    min-height: 385px;
   }
 }

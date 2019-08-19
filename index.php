@@ -165,23 +165,39 @@
             <div class="testimony-slider">
                 <div class="testimony-item">
                     <div class="testimony-text">The traffic jam to my office is quite stressful. My house is so far from the office and I have to take a very crowded bus. Every day I spend about 4 hours on the road, constantly like that. I’m so grateful when my company finally use Dokodemo-Kerja and implemented a remote work system in the office. With Dokodemo-Kerja, I can work anywhere I want now. I can also use the 4 hours i used to waste for commute and do something more productive.</div>
-                    <span class="testimony-author"><strong>Rafid</strong> - Front End Developer</span>
+                    <p class="testimony-author"><strong>Rafid</strong> - Front End Developer</p>
                 </div>
                 <div class="testimony-item">
                     <div class="testimony-text">I’ve always wanted to go back to university to finish my degree. With Dokodemo-Kerja, I can prove my manager that I’m still able to work 8 hours every day. Some days, I work in the morning, and the other days, I work at night. Now, I can continue my study and still be able to work. Dokodemo-Kerja has helped me increasing the quality of my life. Thank you.</div>
-                    <span class="testimony-author"><strong>Angga</strong> - Designer</span>
+                    <p class="testimony-author"><strong>Angga</strong> - Designer</p>
                 </div>
                 <div class="testimony-item">
                     <div class="testimony-text">Sometimes I noticed my staffs were having a break too long on prayer time. I just want everyone to have fair working hours, no matter what religion they believe in, but it’s difficult for me to discuss about it. Since we use Dokodemo-Kerja, all employees have fair working hours. If it’s time to have a praying break, they always stop the record and start again when they get back to work. Dokodemo-Kerja helps our company so much to stay productive.</div>
-                    <span class="testimony-author"><strong>Mizuho Yamada</strong> - Manager of Back Office</span>
+                    <p class="testimony-author"><strong>Mizuho Yamada</strong> - Manager of Back Office</p>
                 </div>
                 <div class="testimony-item">
                     <div class="testimony-text">The traffic jam to my office is quite stressful. My house is so far from the office and I have to take a very crowded bus. Every day I spend about 4 hours on the road, constantly like that. I’m so grateful when my company finally use Dokodemo-Kerja and implemented a remote work system in the office. With Dokodemo-Kerja, I can work anywhere I want now. I can also use the 4 hours i used to waste for commute and do something more productive.</div>
-                    <span class="testimony-author"><strong>Rafid</strong> - Front End Developer</span>
+                    <p class="testimony-author"><strong>Rafid</strong> - Front End Developer</p>
+                </div>
+                <div class="testimony-item">
+                    <div class="testimony-text">I’ve always wanted to go back to university to finish my degree. With Dokodemo-Kerja, I can prove my manager that I’m still able to work 8 hours every day. Some days, I work in the morning, and the other days, I work at night. Now, I can continue my study and still be able to work. Dokodemo-Kerja has helped me increasing the quality of my life. Thank you.</div>
+                    <p class="testimony-author"><strong>Angga</strong> - Designer</p>
+                </div>
+                <div class="testimony-item">
+                    <div class="testimony-text">Sometimes I noticed my staffs were having a break too long on prayer time. I just want everyone to have fair working hours, no matter what religion they believe in, but it’s difficult for me to discuss about it. Since we use Dokodemo-Kerja, all employees have fair working hours. If it’s time to have a praying break, they always stop the record and start again when they get back to work. Dokodemo-Kerja helps our company so much to stay productive.</div>
+                    <p class="testimony-author"><strong>Mizuho Yamada</strong> - Manager of Back Office</p>
                 </div>
                 <div class="testimony-item">
                     <div class="testimony-text">The traffic jam to my office is quite stressful. My house is so far from the office and I have to take a very crowded bus. Every day I spend about 4 hours on the road, constantly like that. I’m so grateful when my company finally use Dokodemo-Kerja and implemented a remote work system in the office. With Dokodemo-Kerja, I can work anywhere I want now. I can also use the 4 hours i used to waste for commute and do something more productive.</div>
-                    <span class="testimony-author"><strong>Rafid</strong> - Front End Developer</span>
+                    <p class="testimony-author"><strong>Rafid</strong> - Front End Developer</p>
+                </div>
+                <div class="testimony-item">
+                    <div class="testimony-text">I’ve always wanted to go back to university to finish my degree. With Dokodemo-Kerja, I can prove my manager that I’m still able to work 8 hours every day. Some days, I work in the morning, and the other days, I work at night. Now, I can continue my study and still be able to work. Dokodemo-Kerja has helped me increasing the quality of my life. Thank you.</div>
+                    <p class="testimony-author"><strong>Angga</strong> - Designer</p>
+                </div>
+                <div class="testimony-item">
+                    <div class="testimony-text">Sometimes I noticed my staffs were having a break too long on prayer time. I just want everyone to have fair working hours, no matter what religion they believe in, but it’s difficult for me to discuss about it. Since we use Dokodemo-Kerja, all employees have fair working hours. If it’s time to have a praying break, they always stop the record and start again when they get back to work. Dokodemo-Kerja helps our company so much to stay productive.</div>
+                    <p class="testimony-author"><strong>Mizuho Yamada</strong> - Manager of Back Office</p>
                 </div>
             </div>
         </div>
@@ -199,6 +215,19 @@
             slidesToScroll: 3,
             arrows: false,
             dots: true,
+            responsive: [{
+                breakpoint: 992,
+                settings: {
+                    slidesToShow: 2,
+                    slidesToScroll: 2
+                }
+            }, {
+                breakpoint: 768,
+                settings: {
+                    slidesToShow: 1,
+                    slidesToScroll: 1
+                }
+            }, ]
         });
     </script>
 </body>

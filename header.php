@@ -1,4 +1,4 @@
-<nav class="navbar navbar-expand-lg navbar-light">
+<nav class="navbar navbar-expand-lg navbar-dark">
     <div class="container">
         <a class="navbar-brand" href="#">
             <img src="img/logo.png" width="85" height="85" alt="">
@@ -34,12 +34,12 @@
             </ul>
             <div class="mx-auto">
                 <p class="text-center">Language</p>
-                <div class="switch-language">
-                    <input type="radio" id="radio-one" name="switch-one" value="yes" checked />
+                <a href="#" class="switch-language">
+                    <input type="radio" id="radio-one" name="switch-one" value="yes" disabled checked />
                     <label for="radio-one">ENG</label>
-                    <input type="radio" id="radio-two" name="switch-one" value="no" />
+                    <input type="radio" id="radio-two" name="switch-one" value="no" disabled />
                     <label for="radio-two">IND</label>
-                </div>
+                </a>
             </div>
         </div>
     </div>
