@@ -1,0 +1,253 @@
+@font-face {
+  font-family: "Khula";
+  src: url("../fonts/Khula-Regular.ttf");
+}
+
+@font-face {
+  font-family: "Khula";
+  src: url("../fonts/Khula-Bold.ttf");
+  font-weight: bold;
+}
+
+@font-face {
+  font-family: "Khula";
+  src: url("../fonts/Khula-Light.ttf");
+  font-weight: 200;
+}
+
+@font-face {
+  font-family: "Khula";
+  src: url("../fonts/Khula-SemiBold.ttf");
+  font-weight: 600;
+}
+
+body {
+  font-family: "Khula";
+}
+
+.top-section {
+  background: url("../img/home/bg.jpg");
+  color: white;
+  /* padding-bottom: 3em; */
+}
+
+.top-section .navbar li a {
+  color: white !important;
+}
+
+.banner-header-text {
+  text-align: center;
+  letter-spacing: 1.1px;
+  line-height: 1.5;
+}
+
+.advantages-item {
+  display: flex;
+  align-items: flex-start;
+  font-size: 27px;
+  font-weight: bold;
+  padding: 0.75em 3em 1em 0;
+  justify-content: center;
+}
+
+.advantages-item:last-of-type {
+  padding-right: 0;
+}
+
+.btn-sign-up,
+.btn-sign-up:hover {
+  color: white;
+  display: block;
+  line-height: 1;
+  width: 200px;
+  text-align: center;
+  font-weight: normal;
+  background: rgb(243, 177, 22);
+  background: linear-gradient(
+    180deg,
+    rgba(243, 177, 22, 1) 0%,
+    rgba(205, 148, 15, 1) 100%
+  );
+  padding: 1em 0 0.7em;
+  text-decoration: none;
+  border-radius: 5px;
+  letter-spacing: 1px;
+  margin: 0 auto;
+}
+
+.bottom-arrow-wrapper {
+  display: flex;
+  justify-content: center;
+  position: relative;
+  top: 35px;
+}
+
+.benefits-features {
+  padding: 2em 0;
+  padding-top: 5em;
+}
+
+.section-title {
+  text-align: center;
+  font-weight: 600;
+  font-size: 30px;
+  letter-spacing: 0.2px;
+  color: #505458;
+}
+
+.features {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 1em;
+}
+
+.features p {
+  text-align: center;
+  color: #505458;
+  font-size: 16px;
+  font-weight: normal;
+  padding: 2em 2em;
+}
+
+.feature-img-wrapper {
+  margin-top: 2em;
+  min-height: 110px;
+  display: flex;
+  align-items: flex-end;
+}
+
+.feature-1,
+.feature-2,
+.feature-3 {
+  border-bottom: 1px solid #419bf9;
+}
+
+.feature-1,
+.feature-2,
+.feature-4,
+.feature-5 {
+  border-right: 1px solid #419bf9;
+}
+
+.btn-learn-more,
+.btn-learn-more:hover,
+.btn-more-features,
+.btn-more-features:hover {
+  color: white;
+  display: block;
+  line-height: 1.5;
+
+  width: 200px;
+  font-weight: normal;
+  text-align: center;
+  background: rgb(24, 138, 226);
+  background: linear-gradient(
+    180deg,
+    rgba(24, 138, 226, 1) 0%,
+    rgba(22, 116, 188, 1) 100%
+  );
+  padding: 1em 0 0.7em 0;
+  text-decoration: none;
+  border-radius: 5px;
+  letter-spacing: 1px;
+  margin: 2em auto;
+}
+
+.benefit-title {
+  color: #505458;
+  font-size: 19px;
+  letter-spacing: 0.1px;
+  font-weight: 600;
+  margin-bottom: 10px;
+}
+
+.blue-separator {
+  width: 100px;
+  border-bottom: 3px solid #188ae2;
+  margin: 0;
+}
+
+.benefit-desc {
+  font-size: 14px;
+  line-height: 23px;
+  color: #505458;
+  padding-top: 15px;
+}
+
+.benefit-content {
+  max-width: 450px;
+  padding: 2em 5% 0 5%;
+}
+
+.benefit-content.right {
+  padding-left: 16%;
+}
+
+.dokodemo-user-float {
+  position: absolute;
+  bottom: 0;
+  left: -20vh;
+  width: 80%;
+}
+
+.dokodemo-desc {
+  padding: 2em 0;
+}
+
+.dokodemo-desc p {
+  text-align: center;
+  font-size: 14px;
+  color: #505458;
+  max-width: 600px;
+  line-height: 23px;
+  margin: 0 auto;
+}
+
+.user-testimony {
+  margin-top: 5em;
+  padding: 2em 0;
+  background: url("../img/home/bg-testimoni.jpg");
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+}
+
+.testimony-text {
+  background: rgba(255, 255, 255, 0.5);
+  padding: 1em;
+  margin-right: 1em;
+  margin-bottom: 1em;
+  min-height: 300px;
+}
+
+.testimony-author {
+  color: #505458;
+  padding: 1em;
+}
+
+@media (max-width: 768px) {
+  .advantages-item {
+    padding: 0.5em 10%;
+    justify-content: flex-start;
+  }
+  .feature-1,
+  .feature-2,
+  .feature-3 {
+    border-bottom: none;
+  }
+
+  .feature-1,
+  .feature-2,
+  .feature-4,
+  .feature-5 {
+    border-right: none;
+  }
+
+  .benefit-content {
+    padding-left: 0%;
+  }
+  .benefit-content.right {
+    padding-left: 0;
+  }
+}

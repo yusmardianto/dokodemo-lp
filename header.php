@@ -1,0 +1,46 @@
+<nav class="navbar navbar-expand-lg navbar-light">
+    <div class="container">
+        <a class="navbar-brand" href="#">
+            <img src="img/logo.png" width="85" height="85" alt="">
+        </a>
+        <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+            <span class="navbar-toggler-icon"></span>
+        </button>
+        <div class="collapse navbar-collapse" id="navbarNav">
+            <ul class="navbar-nav">
+                <li class="nav-item active">
+                    <a class="nav-link" href="#">Home</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="#">About Dokodemo-Kerja</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="#">Feature Tours</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="#">Pricing</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="#">Trial</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="#">Contact Us</a>
+                </li>
+
+                <li class="nav-item flex-column">
+
+                </li>
+
+            </ul>
+            <div class="mx-auto">
+                <p class="text-center">Language</p>
+                <div class="switch-language">
+                    <input type="radio" id="radio-one" name="switch-one" value="yes" checked />
+                    <label for="radio-one">ENG</label>
+                    <input type="radio" id="radio-two" name="switch-one" value="no" />
+                    <label for="radio-two">IND</label>
+                </div>
+            </div>
+        </div>
+    </div>
+</nav>
