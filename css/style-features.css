@@ -1,0 +1,263 @@
+@font-face {
+  font-family: "Khula";
+  src: url("../fonts/Khula-Regular.ttf");
+}
+
+@font-face {
+  font-family: "Khula";
+  src: url("../fonts/Khula-Bold.ttf");
+  font-weight: bold;
+}
+
+@font-face {
+  font-family: "Khula";
+  src: url("../fonts/Khula-Light.ttf");
+  font-weight: 200;
+}
+
+@font-face {
+  font-family: "Khula";
+  src: url("../fonts/Khula-SemiBold.ttf");
+  font-weight: 600;
+}
+
+@font-face {
+  font-family: "Font Awesome";
+  src: url("../css/webfonts/fa-solid-900.ttf");
+}
+
+body {
+  font-family: "Khula";
+  color: #505458;
+}
+
+.nav-item .nav-link {
+  color: black !important;
+}
+
+.features-item {
+  position: relative;
+  margin-top: 4em;
+}
+
+.features-number {
+  font-size: 83px;
+  position: absolute;
+  font-weight: 600;
+  color: #fdf0d1;
+  top: -40px;
+  left: -20px;
+  z-index: 0;
+}
+
+.features-title {
+  font-size: 15px;
+  font-weight: 600;
+  line-height: 24px;
+  letter-spacing: 0.5px;
+  position: relative;
+}
+
+.features-desc {
+  font-size: 15px;
+  line-height: 24px;
+  letter-spacing: 0.5px;
+  position: relative;
+}
+
+.case-studies {
+  background: url("../img/features/bg.jpg");
+  padding: 2em 0;
+  margin-top: 2em;
+}
+
+.case-studies h2 {
+  color: white;
+  font-size: 19px;
+  text-align: center;
+  font-weight: 600;
+  letter-spacing: 0.3px;
+}
+
+.btn-see-case,
+.btn-see-case:hover {
+  color: white;
+  display: block;
+  line-height: 1;
+  width: 250px;
+  text-align: center;
+  font-weight: normal;
+  background: rgb(243, 177, 22);
+  background: linear-gradient(
+    180deg,
+    rgba(243, 177, 22, 1) 0%,
+    rgba(205, 148, 15, 1) 100%
+  );
+  padding: 1em 0 0.7em;
+  text-decoration: none;
+  border-radius: 5px;
+  letter-spacing: 1px;
+  margin: 1.5em auto 0;
+}
+
+.screenshots {
+  background: #06669a;
+}
+
+.img-slide-screenshot {
+  max-width: 100%;
+  height: 100%;
+  max-height: 300px;
+  margin: 0 auto;
+  object-position: center;
+  object-fit: cover;
+  padding: 1em 3px;
+}
+
+.slick-prev {
+  left: 100px;
+  z-index: 10;
+}
+.slick-next {
+  right: 100px;
+}
+
+.slick-next::before {
+  font-family: "Font Awesome";
+  content: "\f105";
+  color: #ffca13;
+  font-size: 80px;
+  line-height: 0;
+}
+
+.slick-prev::before {
+  font-family: "Font Awesome";
+  content: "\f104";
+  color: #ffca13;
+  font-size: 80px;
+  line-height: 0;
+}
+
+.user-role {
+  background: #f3f3f3;
+  padding-bottom: 3em;
+}
+
+.employee-role {
+  padding: 2em 0;
+}
+.program-sample {
+  background: url("../img/features/bg-roles.jpg") no-repeat;
+  background-position: center;
+  background-size: cover;
+}
+
+.img-doko {
+  padding: 4em;
+}
+
+.employee-feature-list {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  padding-left: 2em;
+}
+
+.employee-feature-list p {
+  font-size: 17px;
+}
+
+.employee-feature-list ul {
+  /* margin: 0; */
+  padding: 0;
+  list-style: none;
+}
+
+.employee-feature-list ul li {
+  margin-top: 10px;
+  background: url("../img/features/yellow-hexa.png");
+  background-repeat: no-repeat;
+  padding-left: 30px;
+}
+
+.manager-role {
+  background: white;
+  padding: 2em 0;
+}
+
+.screenshot-item {
+  padding: 0 2em;
+}
+
+.screenshot-item p {
+  padding: 15px 5px 0;
+  margin-bottom: 10px;
+}
+
+.blue-separator {
+  width: 100px;
+  border-bottom: 3px solid #188ae2;
+  margin: 0;
+  margin-bottom: 2em;
+  margin-left: 5px;
+}
+
+.manager-activity-list {
+  list-style: none;
+}
+
+.manager-activity-list li {
+  margin-top: 5px;
+  background: url("../img/features/yellow-hexa.png");
+  background-repeat: no-repeat;
+  padding-left: 30px;
+}
+
+.user-testimony {
+  padding: 2em 0;
+  background: url("../img/home/bg-testimoni.jpg");
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+}
+
+.testimony-text {
+  background: rgba(255, 255, 255, 0.5);
+  padding: 1.5em 1em;
+  margin-right: 1em;
+  min-height: 320px;
+}
+
+.testimony-author {
+  color: #505458;
+  padding: 1em;
+}
+
+.slick-dots li button::before {
+  padding: 1em;
+  background: white;
+  border: 5px solid white;
+  content: "";
+  opacity: 1 !important;
+  border-radius: 50px;
+  -webkit-box-shadow: 0px 0px 3px -1px rgba(0, 0, 0, 0.75);
+  -moz-box-shadow: 0px 0px 3px -1px rgba(0, 0, 0, 0.75);
+  box-shadow: 0px 0px 3px -1px rgba(0, 0, 0, 0.75);
+}
+
+.slick-dots li.slick-active button::before {
+  padding: 1em;
+  background: #1885d9;
+  border: 5px solid white;
+  content: "";
+  opacity: 1 !important;
+  border-radius: 50px;
+}
+
+.section-title {
+    text-align: center;
+    font-weight: 600;
+    font-size: 30px;
+    letter-spacing: 0.2px;
+    color: #505458;
+  }

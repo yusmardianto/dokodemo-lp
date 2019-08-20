@@ -1,4 +1,14 @@
-<nav class="navbar navbar-expand-lg navbar-dark">
+<?php 
+    function active($current_page){
+        $url_array =  explode('/', $_SERVER['REQUEST_URI']) ;
+        $url = end($url_array);  
+        if($current_page == $url){
+            echo 'active'; 
+        }
+    } 
+?>
+
+<nav class="navbar navbar-expand-lg navbar-light">
     <div class="container">
         <a class="navbar-brand" href="#">
             <img src="img/logo.png" width="85" height="85" alt="">
@@ -8,22 +18,22 @@
         </button>
         <div class="collapse navbar-collapse" id="navbarNav">
             <ul class="navbar-nav">
-                <li class="nav-item active">
+                <li class="nav-item <?php active('') ?>">
                     <a class="nav-link" href="#">Home</a>
                 </li>
-                <li class="nav-item">
+                <li class="nav-item <?php active('about.php') ?>">
                     <a class="nav-link" href="#">About Dokodemo-Kerja</a>
                 </li>
-                <li class="nav-item">
+                <li class="nav-item <?php active('features.php') ?>">
                     <a class="nav-link" href="#">Feature Tours</a>
                 </li>
-                <li class="nav-item">
+                <li class="nav-item <?php active('pricing.php') ?>">
                     <a class="nav-link" href="#">Pricing</a>
                 </li>
-                <li class="nav-item">
+                <li class="nav-item <?php active('trial.php') ?>">
                     <a class="nav-link" href="#">Trial</a>
                 </li>
-                <li class="nav-item">
+                <li class="nav-item <?php active('contact-us.php') ?>">
                     <a class="nav-link" href="#">Contact Us</a>
                 </li>
 

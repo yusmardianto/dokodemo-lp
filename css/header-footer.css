@@ -1,9 +1,21 @@
+.fs-15 {
+  font-size: 15px;
+}
+
 .fs-18 {
   font-size: 18px;
 }
 
+.fs-23{
+  font-size: 23px;
+}
+
 .fs-27 {
   font-size: 27px;
+}
+
+.fw-semibold{
+  font-weight: 600;
 }
 
 .navbar {
