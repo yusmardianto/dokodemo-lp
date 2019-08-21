@@ -19,22 +19,22 @@
         <div class="collapse navbar-collapse" id="navbarNav">
             <ul class="navbar-nav">
                 <li class="nav-item <?php active('') ?>">
-                    <a class="nav-link" href="#">Home</a>
+                    <a class="nav-link" href="/">Home</a>
                 </li>
                 <li class="nav-item <?php active('about.php') ?>">
-                    <a class="nav-link" href="#">About Dokodemo-Kerja</a>
+                    <a class="nav-link" href="about.php">About Dokodemo-Kerja</a>
                 </li>
                 <li class="nav-item <?php active('features.php') ?>">
-                    <a class="nav-link" href="#">Feature Tours</a>
+                    <a class="nav-link" href="features.php">Feature Tours</a>
                 </li>
                 <li class="nav-item <?php active('pricing.php') ?>">
-                    <a class="nav-link" href="#">Pricing</a>
+                    <a class="nav-link" href="pricing.php">Pricing</a>
                 </li>
                 <li class="nav-item <?php active('trial.php') ?>">
-                    <a class="nav-link" href="#">Trial</a>
+                    <a class="nav-link" href="trial.php">Trial</a>
                 </li>
                 <li class="nav-item <?php active('contact-us.php') ?>">
-                    <a class="nav-link" href="#">Contact Us</a>
+                    <a class="nav-link" href="contact-us.php">Contact Us</a>
                 </li>
 
                 <li class="nav-item flex-column">

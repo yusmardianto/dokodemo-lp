@@ -10,7 +10,7 @@
     <link rel="stylesheet" href="css/slick-theme.css" />
     <link rel="stylesheet" href="css/header-footer.css" />
     <link rel="stylesheet" href="css/style-features.css" />
-    <title>Dokodemo Kerja</title>
+    <title>Features - Dokodemo Kerja</title>
 </head>
 
 <body>
