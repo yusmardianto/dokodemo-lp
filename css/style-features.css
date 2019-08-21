@@ -261,3 +261,10 @@ body {
     letter-spacing: 0.2px;
     color: #505458;
   }
+  
+  
+@media (max-width: 576px) {
+	.features-section{margin-top:20px}
+	.features-number{left: 0;}
+	.program-sample{margin-bottom: 20px;}
+}

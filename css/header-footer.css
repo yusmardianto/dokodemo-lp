@@ -20,6 +20,7 @@
 
 .navbar {
   padding: 2.3em 1em;
+  max-height: 164px;
 }
 
 .nav-item {
@@ -35,6 +36,7 @@
 .navbar-expand-lg .navbar-nav .nav-link {
   padding-right: 40px;
   font-size: 18px;
+  color: #000;
 }
 
 .switch-language,
@@ -87,6 +89,7 @@
 .switch-language label:last-of-type {
   border-radius: 0 4px 4px 0;
 }
+.txt-lang{font-size:15px}
 
 footer {
   background: url("../img/bg-footer.jpg");
@@ -126,6 +129,15 @@ footer {
 }
 
 @media (max-width: 992px) {
+  .navbar {
+    max-height: unset;
+	border-bottom: 1px solid #fdf0d1;
+    padding-top: 10px;
+    padding-bottom: 10px;
+  }
+  .navbar-nav{
+	margin-top: 10px;
+  }
   footer img {
     display: block;
     margin: 0 auto;

@@ -207,3 +207,8 @@ body {
   letter-spacing: 1px;
   margin: 0em auto;
 }
+
+@media (max-width: 576px) {
+  .plans-enterprise{text-align:left}
+  .plans-enterprise .plan-watermark{left:40px;top: 20px;}
+}

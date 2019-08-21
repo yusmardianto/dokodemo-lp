@@ -9,7 +9,7 @@
   <link href="fonts/font-awesome/css/font-awesome.min.css" rel="stylesheet">
   <link rel="stylesheet" href="css/header-footer.css" />
   <link rel="stylesheet" href="css/style.css" />
-  <title>Trial</title>
+  <title>Contact Us</title>
 </head>
 
 <body class="not-home">
@@ -26,10 +26,15 @@
 		  </div>
 	  </div>
 	</section>
-	
-	<div class="container">
+	<br/><br/>
+	<div class="container dokodemo-customoption">
 	  <div class="row">
 		  <div class="col-md-8 offset-md-2">
+			<div class="semibold fs-18 subtitle-contact">What would you like to know about Dokodemo-Kerja?</div>
+			<select class="contact-type">
+				<option value="Request Free Trial" selected>Request Free Trial</option>
+				<option value="Others">Others</option>
+			</select>
 			<form class="dokodemo-form">
 			  <div class="form-group row align-items-center">
 				<label for="name" class="col-sm-3 col-form-label">Name</label>
@@ -55,6 +60,12 @@
 				  <input type="email" class="form-control" id="inputEmail3" placeholder="Email">
 				</div>
 			  </div>
+			  <div class="form-group row ">
+				<label for="inputEmail3" class="col-sm-3 col-form-label">Message</label>
+				<div class="col-sm-9">
+				  <textarea class="form-control" placeholder="Write down your message here, we would love to hear from you..."></textarea>
+				</div>
+			  </div>
 			  <div class="form-group row mt-top">
 				<div class="col-sm-12 text-center">
 				  <script src="https://www.google.com/recaptcha/api.js" async defer></script>
@@ -72,10 +83,18 @@
 		  </div>
 	  </div>
 	</div>
-	<br/><br/><br/>
+	<br/>
 	<?php include 'footer.php' ?>
 	<script src="js/jquery-3.4.1.min.js"></script>
     <script src="js/bootstrap.min.js"></script>
+	<link href="https://cdnjs.cloudflare.com/ajax/libs/select2/4.0.7/css/select2.min.css" rel="stylesheet" />
+	<script src="https://cdnjs.cloudflare.com/ajax/libs/select2/4.0.7/js/select2.min.js"></script>
+	<script>
+		$(document).ready(function() {
+			$('.contact-type').select2();
+		});
+	</script>
+
 </body>
 
 </html>

@@ -52,11 +52,11 @@
             <a href="#" class="btn-sign-up">Sign Up Now</a>
             <small class="text-center d-block py-4">*No credit card required</small>
             <div class="bottom-arrow-wrapper">
-                <a href="#"><img src="img/home/down.png" /></a>
+                <a href="#benefits" class="smooth"><img src="img/home/down.png" /></a>
             </div>
         </div>
     </section>
-    <section class="benefits-features">
+    <section id="benefits" class="benefits-features">
         <h1 class="section-title pb-4">BENEFITS AND FEATURES</h1>
         <div class="container pt-4">
             <div class="row">
@@ -229,6 +229,20 @@
                 }
             }, ]
         });
+		$(function() {
+			$('.smooth').click(function() {
+			  if (location.pathname.replace(/^\//,'') == this.pathname.replace(/^\//,'') && location.hostname == this.hostname) {
+				var target = $(this.hash);
+				target = target.length ? target : $('[name=' + this.hash.slice(1) +']');
+				if (target.length) {
+				  $('html, body').animate({
+					scrollTop: target.offset().top
+				  }, 1000);
+				  return false;
+				}
+			  }
+			});
+		});
     </script>
 </body>
 

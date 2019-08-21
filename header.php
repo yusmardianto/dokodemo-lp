@@ -43,7 +43,7 @@
 
             </ul>
             <div class="mx-auto">
-                <p class="text-center">Language</p>
+                <p class="text-center txt-lang">Language</p>
                 <a href="#" class="switch-language">
                     <input type="radio" id="radio-one" name="switch-one" value="yes" disabled checked />
                     <label for="radio-one">ENG</label>
