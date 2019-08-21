@@ -34,6 +34,7 @@
 .navbar-brand,
 .navbar-expand-lg .navbar-nav .nav-link {
   padding-right: 40px;
+  font-size: 18px;
 }
 
 .switch-language,
@@ -154,4 +155,8 @@ footer {
   .navbar .container {
     max-width: 1200px;
   }
+}
+
+.not-home .navbar-dark .navbar-nav .nav-link {
+    color: #000
 }

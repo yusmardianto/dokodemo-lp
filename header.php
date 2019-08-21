@@ -10,7 +10,7 @@
 
 <nav class="navbar navbar-expand-lg navbar-light">
     <div class="container">
-        <a class="navbar-brand" href="#">
+        <a class="navbar-brand" href="index.php">
             <img src="img/logo.png" width="85" height="85" alt="">
         </a>
         <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
@@ -18,8 +18,8 @@
         </button>
         <div class="collapse navbar-collapse" id="navbarNav">
             <ul class="navbar-nav">
-                <li class="nav-item <?php active('') ?>">
-                    <a class="nav-link" href="#">Home</a>
+                <li class="nav-item <?php active('index.php') ?>">
+                    <a class="nav-link" href="index.php">Home</a>
                 </li>
                 <li class="nav-item <?php active('about.php') ?>">
                     <a class="nav-link" href="#">About Dokodemo-Kerja</a>
@@ -31,10 +31,10 @@
                     <a class="nav-link" href="#">Pricing</a>
                 </li>
                 <li class="nav-item <?php active('trial.php') ?>">
-                    <a class="nav-link" href="#">Trial</a>
+                    <a class="nav-link" href="trial.php">Trial</a>
                 </li>
                 <li class="nav-item <?php active('contact-us.php') ?>">
-                    <a class="nav-link" href="#">Contact Us</a>
+                    <a class="nav-link" href="contact-us.php">Contact Us</a>
                 </li>
 
                 <li class="nav-item flex-column">

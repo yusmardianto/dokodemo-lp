@@ -16,8 +16,8 @@
 
 <body>
     <section class="top-section">
+	<?php include 'header.php' ?>
         <div class="container">
-            <?php include 'header.php' ?>
             <div class="row">
                 <div class="col-md-8 offset-md-2">
                     <h1 class="banner-header-text"><strong>Do you know who your most

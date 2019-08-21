@@ -7,11 +7,11 @@
             <div class="col-lg-7">
                 <div class="footer-menu">
                     <ul class="footer-menu-list">
-                        <li><a href="#">Home</a></li>
+                        <li><a href="index.php">Home</a></li>
                         <li><a href="#">About Dokodemo-Kerja</a></li>
                         <li><a href="#">Feature Tours</a></li>
                         <li><a href="#">Pricing</a></li>
-                        <li><a href="#">Trial</a></li>
+                        <li><a href="trial.php">Trial</a></li>
                         <li><a href="#">Contact Us</a></li>
                     </ul>
                 </div>
