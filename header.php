@@ -22,13 +22,13 @@
                     <a class="nav-link" href="index.php">Home</a>
                 </li>
                 <li class="nav-item <?php active('about.php') ?>">
-                    <a class="nav-link" href="#">About Dokodemo-Kerja</a>
+                    <a class="nav-link" href="about.php">About Dokodemo-Kerja</a>
                 </li>
                 <li class="nav-item <?php active('features.php') ?>">
-                    <a class="nav-link" href="#">Feature Tours</a>
+                    <a class="nav-link" href="features.php">Feature Tours</a>
                 </li>
                 <li class="nav-item <?php active('pricing.php') ?>">
-                    <a class="nav-link" href="#">Pricing</a>
+                    <a class="nav-link" href="pricing.php">Pricing</a>
                 </li>
                 <li class="nav-item <?php active('trial.php') ?>">
                     <a class="nav-link" href="trial.php">Trial</a>

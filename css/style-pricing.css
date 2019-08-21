@@ -1,0 +1,209 @@
+@font-face {
+  font-family: "Khula";
+  src: url("../fonts/Khula-Regular.ttf");
+}
+
+@font-face {
+  font-family: "Khula";
+  src: url("../fonts/Khula-Bold.ttf");
+  font-weight: bold;
+}
+
+@font-face {
+  font-family: "Khula";
+  src: url("../fonts/Khula-Light.ttf");
+  font-weight: 200;
+}
+
+@font-face {
+  font-family: "Khula";
+  src: url("../fonts/Khula-SemiBold.ttf");
+  font-weight: 600;
+}
+
+body {
+  font-family: "Khula";
+}
+
+.banner {
+  position: relative;
+}
+
+.plans-item {
+  padding-top: 3em;
+}
+
+.plan-watermark {
+  color: #fdf0d1;
+  position: absolute;
+  font-size: 53px;
+  font-weight: 600;
+  z-index: 0;
+  left: 40px;
+  top: 20px;
+  user-select: none;
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  line-height: 1;
+}
+
+.plan-title {
+  font-weight: 600;
+  background: rgb(24, 138, 226);
+  background: linear-gradient(
+    180deg,
+    rgba(24, 138, 226, 1) 0%,
+    rgba(22, 116, 188, 1) 100%
+  );
+  color: white;
+  line-height: 1;
+  padding: 4px 3em 0;
+  display: inline-block;
+  position: relative;
+}
+
+.price {
+  display: flex;
+  margin-top: 1em;
+  margin-left: 0.5em;
+  position: relative;
+}
+
+.price .rp,
+.price .per-month {
+  font-size: 15px;
+  font-weight: 600;
+}
+
+.price .price-number {
+  font-size: 75px;
+  line-height: 1.1;
+  font-weight: 600;
+  color: #2c7ca7;
+  padding-left: 10px;
+}
+
+.price .per-month {
+  align-self: flex-end;
+  line-height: 3.9;
+}
+
+.plan-benefits {
+  list-style: none;
+  padding-left: 0.5em;
+}
+
+.plan-benefits li {
+  margin-top: 7px;
+  background: url("../img/pricing/check.png");
+  background-repeat: no-repeat;
+  padding-left: 30px;
+}
+
+.additional-fee {
+  display: flex;
+  font-weight: 600;
+}
+
+.additional-fee .price-number {
+  color: #2c7ca7;
+  font-size: 45px;
+  padding-left: 0.5em;
+  line-height: 1.1;
+}
+
+.additional-fee .per-month {
+  align-self: flex-end;
+  line-height: 3.8;
+  padding-left: 0.5em;
+}
+
+.plans-enterprise {
+  padding-top: 3em;
+  text-align: center;
+  font-weight: 600;
+  position: relative;
+}
+
+.plans-enterprise .plan-watermark {
+  color: #fdf0d1;
+  font-size: 53px;
+  font-weight: 600;
+  z-index: 0;
+  position: absolute;
+  left: 0;
+  top: 38px;
+  margin: 0 auto;
+  width: 100%;
+  user-select: none;
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+}
+
+.plans-enterprise .plan-contact-us {
+  display: flex;
+  justify-content: space-evenly;
+  align-items: center;
+  position: relative;
+}
+
+.btn-request-trial,
+.btn-request-trial:hover {
+  color: white;
+  display: block;
+  line-height: 1;
+  width: 200px;
+  text-align: center;
+  font-weight: normal;
+  background: rgb(243, 177, 22);
+  background: linear-gradient(
+    180deg,
+    rgba(243, 177, 22, 1) 0%,
+    rgba(205, 148, 15, 1) 100%
+  );
+  padding: 1em 0 0.7em;
+  text-decoration: none;
+  border-radius: 5px;
+  letter-spacing: 1px;
+  margin: 2em auto;
+}
+
+.read-testimony{
+    background: url("../img/pricing/bg-testimony.jpg");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    padding: 2em 0;
+}
+
+.read-testimony h3{
+    font-size: 19px;
+    font-weight: 600;
+    color: white;
+    text-align: center;
+    padding-bottom: .5em;
+    letter-spacing: .3px;
+}
+
+.btn-read-testimony,
+.btn-read-testimony:hover {
+  color: white;
+  display: block;
+  line-height: 1;
+  width: 200px;
+  text-align: center;
+  font-weight: normal;
+  background: rgb(243, 177, 22);
+  background: linear-gradient(
+    180deg,
+    rgba(243, 177, 22, 1) 0%,
+    rgba(205, 148, 15, 1) 100%
+  );
+  padding: 1em 0 0.7em;
+  text-decoration: none;
+  border-radius: 5px;
+  letter-spacing: 1px;
+  margin: 0em auto;
+}
