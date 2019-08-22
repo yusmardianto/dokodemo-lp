@@ -45,8 +45,8 @@
                 <div class="col-md-6 offset-md-3">
                     <div class="hr-managers">
                         <h1>To Whom?</h1>
-                        <h2>HR AND MANAGERS</h2>
-                        <p class="fw-semibold">Dokodemo-Kerja will give you total control of your employee's activity.
+                        <h2>HR and Managers</h2>
+                        <p class="fw-semibold" style="font-size: 18px;">Dokodemo-Kerja will give you total control of your employee's activity.
                             You don't need to know where they are, but you know what they are doing.</p>
                     </div>
                 </div>

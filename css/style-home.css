@@ -156,7 +156,7 @@ body {
 
 .benefit-title {
   color: #505458;
-  font-size: 19px;
+  font-size: 20px;
   letter-spacing: 0.1px;
   font-weight: 600;
   margin-bottom: 10px;
@@ -169,14 +169,14 @@ body {
 }
 
 .benefit-desc {
-  font-size: 14px;
+  font-size: 16px;
   line-height: 23px;
   color: #505458;
   padding-top: 15px;
 }
 
 .benefit-content {
-  max-width: 450px;
+  max-width: 500px;
   padding: 2em 5% 0 5%;
 }
 
@@ -197,7 +197,7 @@ body {
 
 .dokodemo-desc p {
   text-align: center;
-  font-size: 14px;
+  font-size: 16px;
   color: #505458;
   max-width: 600px;
   line-height: 23px;
