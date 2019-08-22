@@ -37,7 +37,7 @@
                 </div>
             </div>
             <div class="col-lg-3">
-                <img src="img/logo_logique.png" class="img-fluid" />
+                <img src="img/logo_logique.png" class="img-fluid logique-logo" />
             </div>
         </div>
 

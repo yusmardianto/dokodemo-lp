@@ -9,6 +9,7 @@
   <link href="fonts/font-awesome/css/font-awesome.min.css" rel="stylesheet">
   <link rel="stylesheet" href="css/header-footer.css" />
   <link rel="stylesheet" href="css/style.css" />
+  <link rel="shortcut icon" type="image/x-icon" href="favicon.ico">
   <title>Contact Us</title>
 </head>
 

@@ -35,7 +35,7 @@
 .navbar-brand,
 .navbar-expand-lg .navbar-nav .nav-link {
   padding-right: 40px;
-  font-size: 18px;
+  font-size: 16px;
   color: #000;
 }
 
@@ -89,7 +89,7 @@
 .switch-language label:last-of-type {
   border-radius: 0 4px 4px 0;
 }
-.txt-lang{font-size:15px}
+.txt-lang{font-size:15px;display:none}
 
 footer {
   background: url("../img/bg-footer.jpg");
@@ -127,8 +127,10 @@ footer {
 .footer-contact-item a span{
   padding-left: 10px;
 }
+.logique-logo{width: 175px;float: right;}
 
 @media (max-width: 992px) {
+  .logique-logo{float: none;}
   .navbar {
     max-height: unset;
 	border-bottom: 1px solid #fdf0d1;

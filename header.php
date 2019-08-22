@@ -25,7 +25,7 @@
                     <a class="nav-link" href="about.php">About Dokodemo-Kerja</a>
                 </li>
                 <li class="nav-item <?php active('features.php') ?>">
-                    <a class="nav-link" href="features.php">Feature Tours</a>
+                    <a class="nav-link" href="features.php">Feature Tour</a>
                 </li>
                 <li class="nav-item <?php active('pricing.php') ?>">
                     <a class="nav-link" href="pricing.php">Pricing</a>

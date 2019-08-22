@@ -10,6 +10,7 @@
     <link rel="stylesheet" href="css/slick-theme.css" />
     <link rel="stylesheet" href="css/header-footer.css" />
     <link rel="stylesheet" href="css/style-pricing.css" />
+	<link rel="shortcut icon" type="image/x-icon" href="favicon.ico">
     <title>Pricing - Dokodemo Kerja</title>
 </head>
 

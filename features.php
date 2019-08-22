@@ -10,6 +10,7 @@
     <link rel="stylesheet" href="css/slick-theme.css" />
     <link rel="stylesheet" href="css/header-footer.css" />
     <link rel="stylesheet" href="css/style-features.css" />
+	<link rel="shortcut icon" type="image/x-icon" href="favicon.ico">
     <title>Features - Dokodemo Kerja</title>
 </head>
 
@@ -21,7 +22,7 @@
                 <div class="col-lg-6 col-md-8 offset-lg-3 offset-md-2">
                     <h1 class="fw-semibold fs-23 text-center mb-4">FEATURES</h1>
                     <p class="fw-semibold text-center">Dokodemo-Kerja is a profitable work system solution for both employees and companies. With an efficient work system, Dokodemo-Kerja can help companies concentrate on increasing productivity while at the same time, providing flexibility for their employees.</p>
-                    <div class="row pt-4">
+                    <div class="row">
                         <div class="col-lg-6 features-item">
                             <span class="features-number">01</span>
                             <h2 class="features-title">Track time and monitor tasks.</h2>

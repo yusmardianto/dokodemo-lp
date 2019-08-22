@@ -10,6 +10,7 @@
     <link rel="stylesheet" href="css/slick-theme.css" />
     <link rel="stylesheet" href="css/header-footer.css" />
     <link rel="stylesheet" href="css/style-about.css" />
+	<link rel="shortcut icon" type="image/x-icon" href="favicon.ico">
     <title>Features - Dokodemo Kerja</title>
 </head>
 

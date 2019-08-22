@@ -68,7 +68,7 @@ body {
 .case-studies {
   background: url("../img/features/bg.jpg");
   padding: 2em 0;
-  margin-top: 2em;
+  margin-top: 2.5em;
 }
 
 .case-studies h2 {
@@ -154,6 +154,9 @@ body {
 
 .img-doko {
   padding: 4em;
+  max-width: 80%;
+  display: block;
+  margin: auto;
 }
 
 .employee-feature-list {

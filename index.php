@@ -10,7 +10,7 @@
     <link rel="stylesheet" href="css/slick-theme.css" />
     <link rel="stylesheet" href="css/header-footer.css" />
     <link rel="stylesheet" href="css/style-home.css" />
-
+	<link rel="shortcut icon" type="image/x-icon" href="favicon.ico">
     <title>Dokodemo Kerja</title>
 </head>
 
