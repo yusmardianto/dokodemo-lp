@@ -23,9 +23,9 @@
                         </a>
                     </span>
                     <span class="footer-contact-item">
-                        <a href="mailto:info@logique.co.id">
+                        <a href="mailto:sales@dokodemo-kerja.com">
                             <img src="img/mail.png">
-                            <span>info@logique.co.id</span>
+                            <span>sales@dokodemo-kerja.com</span>
                         </a>
                     </span>
                     <span class="footer-contact-item">

@@ -49,7 +49,7 @@
                 </div>
             </div>
             <p class="fs-27 text-center">Try out the <strong>30 days Free Trial</strong></p>
-            <a href="contact-us-php" class="btn-sign-up">Sign Up Now</a>
+            <a href="trial.php" class="btn-sign-up">Sign Up Now</a>
             <small class="text-center d-block py-4">*No credit card required</small>
             <div class="bottom-arrow-wrapper">
                 <a href="#benefits" class="smooth"><img src="img/home/down.png" /></a>
