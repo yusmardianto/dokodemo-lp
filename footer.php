@@ -9,7 +9,7 @@
                     <ul class="footer-menu-list">
                         <li><a href="index.php">Home</a></li>
                         <li><a href="about.php">About Dokodemo-Kerja</a></li>
-                        <li><a href="features.php">Feature Tours</a></li>
+                        <li><a href="features.php">Feature Tour</a></li>
                         <li><a href="pricing.php">Pricing</a></li>
                         <li><a href="trial.php">Trial</a></li>
                         <li><a href="contact-us.php">Contact Us</a></li>

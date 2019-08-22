@@ -128,8 +128,10 @@ footer {
   padding-left: 10px;
 }
 .logique-logo{width: 175px;float: right;}
+.footer-contact-item img{width:20px}
 
 @media (max-width: 992px) {
+  .footer-contact-item img{width:unset}
   .logique-logo{float: none;}
   .navbar {
     max-height: unset;
