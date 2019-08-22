@@ -255,16 +255,33 @@ body {
 }
 
 .section-title {
-    text-align: center;
-    font-weight: 600;
-    font-size: 30px;
-    letter-spacing: 0.2px;
-    color: #505458;
-  }
-  
-  
+  text-align: center;
+  font-weight: 600;
+  font-size: 30px;
+  letter-spacing: 0.2px;
+  color: #505458;
+}
+
+.dl-guide img {
+  position: relative;
+  top: 0;
+  transition: all 0.1s linear;
+}
+
+.dl-guide:hover img{
+  top: -4px;
+  box-shadow: 0 0 10px -2px #000;
+}
+
+
 @media (max-width: 576px) {
-	.features-section{margin-top:20px}
-	.features-number{left: 0;}
-	.program-sample{margin-bottom: 20px;}
+  .features-section {
+    margin-top: 20px;
+  }
+  .features-number {
+    left: 0;
+  }
+  .program-sample {
+    margin-bottom: 20px;
+  }
 }

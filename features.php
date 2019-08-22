@@ -178,13 +178,13 @@
                 </div>
                 <div class="col-md-4"></div>
                 <div class="col-md-4 offset-md-2 col-10 offset-1 py-2">
-                    <a href="#">
-                        <img src="img/features/manual-guide.jpg" class="img-fluid mx-auto d-block" />
+                    <a href="http://dokodemo-web.test/pdf/manual-guide.pdf" class="dl-guide">
+                        <img src="img/manual.png" class="img-fluid mx-auto d-block" />
                     </a>
                 </div>
                 <div class="col-md-4 col-10 offset-md-0 offset-1 py-2">
-                    <a href="#">
-                        <img src="img/features/install-guide.jpg" class="img-fluid mx-auto d-block" />
+                    <a href="http://dokodemo-web.test/pdf/install-guide.pdf" class="dl-guide">
+                        <img src="img/install.png" class="img-fluid mx-auto d-block" />
                     </a>
                 </div>
             </div>
