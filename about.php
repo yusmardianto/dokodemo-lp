@@ -93,7 +93,7 @@
                 <div class="col-md-6 employee-benefits-item">
                     <img src="img/about/chair.png" />
                     <div class="employee-benefits-desc pl-4">
-                        <h3>1.Parental Leave</h3>
+                        <h3>1. Parental Leave</h3>
                         <p>
 
                             One of the most common concern for employers and employees alike is maternity leave. Employees will be gone for at least 6 weeks or more, and even then, would they still have their job? Using Dokodemo-Kerja, the employee can rest assured, knowing that they can still keep their job, and work from the comfort of their own home.</p>
@@ -102,7 +102,7 @@
                 <div class="col-md-6 employee-benefits-item">
                     <img src="img/about/first_aid_kit.png" />
                     <div class="employee-benefits-desc pl-4">
-                        <h3>2.Medical Leave</h3>
+                        <h3>2. Medical Leave</h3>
                         <p>
 
                             Some employees might feel pressured to go to the office despite their medical illness in fear of losing their job. There have been many cases where people are unwilling to take &quot;sick leave&quot; and go to the office with high fever or a cold, disregard their, and their co-worker&apos;s health. Some people even fall into medical debts for losing their job due to a temporary disability.
@@ -121,7 +121,7 @@
                 <div class="col-md-6 employee-benefits-item">
                     <img src="img/about/coffee.png" />
                     <div class="employee-benefits-desc pl-4">
-                        <h3>4.Break Time</h3>
+                        <h3>4. Break Time</h3>
                         <p>
                             It is perhaps a bit unfair to treat every employee equally if half of them spends most of their work time smoking, watching entertainment videos, taking hours of lunch breaks, or pray longer than necessary. With Dokodemo-Kerja, you can accurately track their breaks and working hours, as they can pause the time tracker when they are not really working.</p>
                     </div>
@@ -136,4 +136,6 @@
         </a>
     </section>
     <?php include "footer.php" ?>
+	<script src="js/jquery-3.4.1.min.js"></script>
+    <script src="js/bootstrap.min.js"></script>
 </body>

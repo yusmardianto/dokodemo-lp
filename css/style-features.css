@@ -275,6 +275,8 @@ body {
 
 
 @media (max-width: 576px) {
+  .slick-next {right: 25px;top: 50%;}
+  .slick-prev {left: 5px;}
   .features-section {
     margin-top: 20px;
   }

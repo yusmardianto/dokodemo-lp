@@ -37,7 +37,7 @@ body {
 .top-content .img-bg {
   object-fit: cover;
   width: 100%;
-  height: 380px;
+  height: 410px;
   position: absolute;
 }
 
@@ -190,4 +190,10 @@ body {
   border-radius: 5px;
   letter-spacing: 1px;
   margin: 0em auto;
+}
+@media (max-width: 576px) {
+	.top-content .img-bg{height: 200px;position: relative;}
+	.about-us-left {margin-top:0;}
+	.hr-manager-benefits {padding-bottom: 0;}
+	.employee-benefits-desc h3{padding-bottom: 5px;}
 }
