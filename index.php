@@ -32,19 +32,19 @@
                 <div class="col-md-3">
                     <div class="advantages-item">
                         <img src="img/home/done.png" class="pr-2" />
-                        <span>Cost Effective</span>
+                        <div>Cost Effective <br/><span style="font-size: 20px;display: block;">1 juta ~ / Month</span></div>
                     </div>
                 </div>
                 <div class="col-md-5">
                     <div class="advantages-item">
                         <img src="img/home/done.png" class="pr-2" />
-                        <span>No minimum contract period</span>
+                        <span>No minimum <br/>contract period</span>
                     </div>
                 </div>
                 <div class="col-md-3">
                     <div class="advantages-item">
                         <img src="img/home/done.png" class="pr-2" />
-                        <span>Easy Setup</span>
+                        <div>Easy Setup<br/><span style="font-size: 20px;display: block;">You can start today</span></div>
                     </div>
                 </div>
             </div>

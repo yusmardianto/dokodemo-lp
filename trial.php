@@ -27,27 +27,33 @@
 			  <div class="col-md-8 offset-md-2">
 				<form class="dokodemo-form">
 				  <div class="form-group row align-items-center">
-					<label for="name" class="col-sm-3 col-form-label">Name</label>
+					<label for="name" class="col-sm-3 col-form-label">Name <span style="color:red">*</span></label>
 					<div class="col-sm-9">
-					  <input type="text" class="form-control" id="name" placeholder="Your Full Name">
+					  <input type="text" class="form-control" id="name" placeholder="Your Full Name" required>
 					</div>
 				  </div>
 				  <div class="form-group row align-items-center">
-					<label for="company" class="col-sm-3 col-form-label">Company</label>
+					<label for="company" class="col-sm-3 col-form-label">Company <span style="color:red">*</span></label>
 					<div class="col-sm-9">
-					  <input type="text" class="form-control" id="company" placeholder="Your Company Name">
+					  <input type="text" class="form-control" id="company" placeholder="Your Company Name" required>
 					</div>
 				  </div>
 				  <div class="form-group row align-items-center">
-					<label for="Phone" class="col-sm-3 col-form-label">Phone Number</label>
+					<label for="Phone" class="col-sm-3 col-form-label">Phone Number <span style="color:red">*</span></label>
 					<div class="col-sm-9">
-					  <input type="number" class="form-control" id="Phone" placeholder="ex 0833 4075 6762">
+					  <input type="text" class="form-control" id="Phone" placeholder="ex 0833 4075 6762" pattern="[0-9]*" required>
 					</div>
 				  </div>
 				  <div class="form-group row align-items-center">
-					<label for="inputEmail3" class="col-sm-3 col-form-label">Email</label>
+					<label for="inputEmail3" class="col-sm-3 col-form-label">Email <span style="color:red">*</span></label>
 					<div class="col-sm-9">
-					  <input type="email" class="form-control" id="inputEmail3" placeholder="Email">
+					  <input type="email" class="form-control" id="inputEmail3" placeholder="Email" required>
+					</div>
+				  </div>
+				  <div class="form-group row align-items-center">
+					<label for="domain" class="col-sm-3 col-form-label">Domain</label>
+					<div class="col-sm-9">
+					  <input type="text" class="form-control" id="domain" placeholder="Your Domain">
 					</div>
 				  </div>
 				  <div class="form-group row mt-top">
@@ -66,6 +72,8 @@
 				</form>
 			  </div>
 		  </div>
+		  <br/>
+		  <div class="semibold fs-18 subtitle-contact" style="margin-bottom:0;">We will set up your trial environment within 3 working days and come back to you with the login info</div>
 	  </div>
 	</section>
 	

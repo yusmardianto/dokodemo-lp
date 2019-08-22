@@ -21,7 +21,7 @@
         <div class="container">
             <div class="row align-items-end">
                 <div class="col-lg-6 about-us-left">
-                    <h1>ABOUT US</h1>
+                    <h1>ABOUT DOKODEMO-KERJA</h1>
                     <p class="about-us-desc">Dokodemo-Kerja is a Human Resource tool developed by PT Logique Digital Indonesia, a digital solution company based in Jakarta, Indonesia. This program was made to help employees achieve their best potential.
                         <br /><br />
                         The name Dokodemo-Kerja comes from 2 languages: "Dokodemo": anywhere (Japanese) and "Kerja": to work (Indonesian), which translates into "Work Anywhere". It means that with this program, you or your employee would not be restrained to a cubicle or an office at all times.</p>

@@ -34,10 +34,11 @@
                         <li>Time Tracking</li>
                         <li>Screenshot Monitoring</li>
                         <li>1 Screenshot per 10 minutes</li>
-                        <li>Screenshots saved for 2 months <strong>For 10 users</strong></li>
+                        <li>Screenshots saved for 2 months</li>
+						<li><strong>For 10 users</strong></li>
                     </ul>
 
-                    <p class="pt-2"><strong>If the number of user is above 10 then every user will charged:</strong></p>
+                    <p class="pt-2"><strong>If the number of user is above 10 then additional charge is (for 1 more user)</strong></p>
                     <div class="additional-fee">
                         <span class="plus-rp">+Rp.</span>
                         <span class="price-number">50.000</span>
@@ -55,10 +56,11 @@
                     <ul class="plan-benefits">
                         <li>Time Tracking</li>
                         <li>Screenshot Monitoring</li>
-                        <li>1 Screenshot per minute</li>
-                        <li>Screenshots saved for 6 months <strong>For 10 users</strong></li>
+                        <li>1 Screenshot per 3 minutes</li>
+                        <li>Screenshots saved for 6 months</li>
+						<li><strong>For 10 users</strong></li>
                     </ul>
-                    <p class="pt-2"><strong>If the number of user is above 10 then every user will charged:</strong></p>
+                    <p class="pt-2"><strong>If the number of user is above 10 then additional charge is (for 1 more user)</strong></p>
                     <div class="additional-fee">
                         <span class="plus-rp">+Rp.</span>
                         <span class="price-number">75.000</span>
