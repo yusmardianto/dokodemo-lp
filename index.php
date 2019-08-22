@@ -49,7 +49,7 @@
                 </div>
             </div>
             <p class="fs-27 text-center">Try out the <strong>30 days Free Trial</strong></p>
-            <a href="#" class="btn-sign-up">Sign Up Now</a>
+            <a href="contact-us-php" class="btn-sign-up">Sign Up Now</a>
             <small class="text-center d-block py-4">*No credit card required</small>
             <div class="bottom-arrow-wrapper">
                 <a href="#benefits" class="smooth"><img src="img/home/down.png" /></a>
@@ -97,7 +97,7 @@
                     <p>Perfect management for Overtime work</p>
                 </div>
             </div>
-            <a href="#" class="btn-learn-more">Learn More</a>
+            <a href="features.php" class="btn-learn-more">Learn More</a>
         </div>
         <div class="container p-md-0 position-relative">
             <div class="row no-gutters ">
@@ -152,14 +152,14 @@
         <h1 class="section-title">WHAT IS DOKODEMO KERJA?</h1>
         <p>Your company can now implement remote work system for employees anywhere and anytime.
             Employees are freed from the saturation and tight working atmosphere in the office.</p>
-        <a href="#" class="btn-more-features">More Features</a>
+        <a href="features.php" class="btn-more-features">More Features</a>
     </section>
     <section class="youtube-wrapper container">
         <div class="embed-responsive embed-responsive-16by9">
             <iframe class="embed-responsive-item" width="811" height="417" src="https://www.youtube.com/embed/Y8kU7CmCvso" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
         </div>
     </section>
-    <section class="user-testimony">
+    <section class="user-testimony" id="testimony">
         <h1 class="section-title">USER TESTIMONY</h1>
         <div class="container">
             <div class="testimony-slider">

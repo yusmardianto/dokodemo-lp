@@ -131,7 +131,7 @@
     </section>
     <section class="read-testimony">
         <h3>Wonder what other user are saying?</h3>
-        <a href="/" class="btn-read-testimony">
+        <a href="index.php#testimony" class="btn-read-testimony">
             Read user testimony
         </a>
     </section>
