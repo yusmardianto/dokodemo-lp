@@ -13,7 +13,7 @@
 	<link rel="shortcut icon" type="image/x-icon" href="favicon.ico">
     <title>Dokodemo Kerja</title>
 </head>
-
+<?php $page = ''; ?>
 <body>
     <section class="top-section">
 	<?php include 'header.php' ?>

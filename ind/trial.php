@@ -12,7 +12,7 @@
 	<link rel="shortcut icon" type="image/x-icon" href="favicon.ico">
 	<title>Trial</title>
 </head>
-
+<?php $page = 'trial.php'; ?>
 <body class="not-home">
 	<?php include 'header.php' ?>
 	<section class="trial-top">

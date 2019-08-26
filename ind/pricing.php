@@ -13,7 +13,7 @@
     <link rel="shortcut icon" type="image/x-icon" href="favicon.ico">
     <title>Pricing - Dokodemo Kerja</title>
 </head>
-
+<?php $page = 'pricing.php'; ?>
 <body>
     <?php include "header.php" ?>
     <section class="banner">

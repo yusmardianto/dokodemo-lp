@@ -58,6 +58,10 @@
   display: none;
 }
 
+.switch-language label.active {
+	background-color: #f3b116;
+    color: white;
+}
 .switch-language label {
   background-color: #e4e4e4;
   color: rgba(0, 0, 0, 0.6);
@@ -80,14 +84,6 @@
   background-color: #f3b116;
   color: white;
   box-shadow: none;
-}
-
-.switch-language label:first-of-type {
-  border-radius: 4px 0 0 4px;
-}
-
-.switch-language label:last-of-type {
-  border-radius: 0 4px 4px 0;
 }
 .txt-lang{font-size:15px;display:none}
 

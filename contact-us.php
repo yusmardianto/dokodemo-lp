@@ -12,7 +12,7 @@
   <link rel="shortcut icon" type="image/x-icon" href="favicon.ico">
   <title>Contact Us</title>
 </head>
-
+<?php $page = 'contact-us.php'; ?>
 <body class="not-home">
 	<?php include 'header.php' ?>
 	<section class="contact-top text-center">
@@ -32,11 +32,14 @@
 	  <div class="row">
 		  <div class="col-md-8 offset-md-2">
 			<div class="semibold fs-18 subtitle-contact">What would you like to know about Dokodemo-Kerja?</div>
-			<select class="contact-type" required>
-				<option value="Request Free Trial" selected>Request Free Trial</option>
-				<option value="Others">Others</option>
-			</select>
 			<form class="dokodemo-form">
+			  <select class="contact-type" required>
+				<option value="Request Free Trial" selected>Request Free Trial</option>
+				<option value="Enterprise plan">Enterprise plan</option>
+				<option value="Partnership">Partnership</option>
+				<option value="Investment">Investment</option>
+				<option value="How To Use">How To Use</option>
+			  </select>
 			  <div class="form-group row align-items-center">
 				<label for="name" class="col-sm-3 col-form-label">Name <span style="color:red">*</span></label>
 				<div class="col-sm-9">

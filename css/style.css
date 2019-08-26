@@ -174,7 +174,8 @@ strong {
 	width: 100%!important;
     height: auto;
     font-size: 18px;
-	font-weight:600
+	font-weight:600;
+	margin-bottom: 40px;
 }
 .dokodemo-customoption .select2-container .select2-selection--single{height: auto!important;}
 .dokodemo-customoption .select2-container .select2-selection--single .select2-selection__rendered{padding-top: 7px;padding-left: 0!important;}
@@ -241,7 +242,7 @@ strong {
 @media (max-width: 767px){
 	.dl-guide {display:block;margin-bottom: 20px;}
 	.mt-top {margin-top: 20px;}
-	.trial-top{padding: 10px 0 40px 0;}
+	.trial-top{padding: 20px 0 40px 0;}
 	.dokodemo-form .form-control {font-size: 18px;}
 	.trial-top .dokodemo-form {margin-top: 0;}
 }

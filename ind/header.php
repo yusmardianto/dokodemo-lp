@@ -10,7 +10,7 @@
 
 <nav class="navbar navbar-expand-lg navbar-light">
     <div class="container">
-        <a class="navbar-brand" href="index.php">
+        <a class="navbar-brand" href="/ind/">
             <img src="/img/logo.png" width="85" height="85" alt="">
         </a>
         <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
@@ -19,7 +19,7 @@
         <div class="collapse navbar-collapse" id="navbarNav">
             <ul class="navbar-nav">
                 <li class="nav-item <?php active('index.php') ?>">
-                    <a class="nav-link" href="/ind/index.php">Home</a>
+                    <a class="nav-link" href="/ind/">Home</a>
                 </li>
                 <li class="nav-item <?php active('about.php') ?>">
                     <a class="nav-link" href="/ind/about.php">About Dokodemo-Kerja</a>
@@ -44,12 +44,10 @@
             </ul>
             <div class="mx-auto">
                 <p class="text-center txt-lang">Language</p>
-                <a href="#" class="switch-language">
-                    <input type="radio" id="radio-one" name="switch-one" value="yes" disabled />
-                    <label for="radio-one">ENG</label>
-                    <input type="radio" id="radio-two" name="switch-one" value="no" disabled checked/>
-                    <label for="radio-two">IND</label>
-                </a>
+                <div class="switch-language">
+                    <a href="/<?php echo $page;?>"><label for="radio-one">ENG</label></a>
+                    <a href="#"><label class="active" for="radio-two">IND</label></a>
+                </div>
             </div>
         </div>
     </div>
