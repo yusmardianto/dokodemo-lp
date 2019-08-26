@@ -5,10 +5,10 @@
 	<meta charset="UTF-8" />
 	<meta name="viewport" content="width=device-width, initial-scale=1.0" />
 	<meta http-equiv="X-UA-Compatible" content="ie=edge" />
-	<link rel="stylesheet" href="css/bootstrap.min.css" />
-	<link href="fonts/font-awesome/css/font-awesome.min.css" rel="stylesheet">
-	<link rel="stylesheet" href="css/header-footer.css" />
-	<link rel="stylesheet" href="css/style.css" />
+	<link rel="stylesheet" href="/css/bootstrap.min.css" />
+	<link href="/fonts/font-awesome/css/font-awesome.min.css" rel="stylesheet">
+	<link rel="stylesheet" href="/css/header-footer.css" />
+	<link rel="stylesheet" href="/css/style.css" />
 	<link rel="shortcut icon" type="image/x-icon" href="favicon.ico">
 	<title>Trial</title>
 </head>
@@ -19,7 +19,7 @@
 		<div class="container">
 			<div class="row">
 				<div class="ls-title col text-center gray fs-30 bold uppercase">
-					Request Free Trial
+					Coba Trial Gratis
 				</div>
 			</div>
 			<br />
@@ -27,19 +27,19 @@
 				<div class="col-md-8 offset-md-2">
 					<form class="dokodemo-form">
 						<div class="form-group row align-items-center">
-							<label for="name" class="col-sm-3 col-form-label">Name <span style="color:red">*</span></label>
+							<label for="name" class="col-sm-3 col-form-label">Nama <span style="color:red">*</span></label>
 							<div class="col-sm-9">
-								<input type="text" class="form-control" id="name" placeholder="Your Full Name" required>
+								<input type="text" class="form-control" id="name" placeholder="Nama Lengkap" required>
 							</div>
 						</div>
 						<div class="form-group row align-items-center">
-							<label for="company" class="col-sm-3 col-form-label">Company <span style="color:red">*</span></label>
+							<label for="company" class="col-sm-3 col-form-label">Perusahaan <span style="color:red">*</span></label>
 							<div class="col-sm-9">
-								<input type="text" class="form-control" id="company" placeholder="Your Company Name" required>
+								<input type="text" class="form-control" id="company" placeholder="Nama Perusahaan" required>
 							</div>
 						</div>
 						<div class="form-group row align-items-center">
-							<label for="Phone" class="col-sm-3 col-form-label">Phone Number <span style="color:red">*</span></label>
+							<label for="Phone" class="col-sm-3 col-form-label">Nomor Telp <span style="color:red">*</span></label>
 							<div class="col-sm-9">
 								<input type="text" class="form-control" id="Phone" placeholder="ex 0833 4075 6762" pattern="[0-9]*" required>
 							</div>
@@ -53,7 +53,7 @@
 						<div class="form-group row align-items-center">
 							<label for="domain" class="col-sm-3 col-form-label">Domain</label>
 							<div class="col-sm-9">
-								<input type="text" class="form-control" id="domain" placeholder="Your Domain">
+								<input type="text" class="form-control" id="domain" placeholder="Domain">
 							</div>
 						</div>
 						<div class="form-group row mt-top">
@@ -65,7 +65,7 @@
 						<div class="form-group row mt-top">
 							<div class="col-sm-12 text-center">
 								<button type="submit" class="btn btn-submit">
-									Submit
+									Kirim
 								</button>
 							</div>
 						</div>
@@ -73,7 +73,7 @@
 				</div>
 			</div>
 			<br />
-			<div class="semibold fs-18 subtitle-contact" style="margin-bottom:0;">We will set up your trial environment within 3 working days and come back to you with the login info</div>
+			<!-- <div class="semibold fs-18 subtitle-contact" style="margin-bottom:0;">We will set up your trial environment within 3 working days and come back to you with the login info</div> -->
 		</div>
 	</section>
 
@@ -81,12 +81,12 @@
 		<div class="row">
 			<div class="col-md-5 offset-md-1">
 				<a href="pdf/manual-guide.pdf" target="_blank" aria-label="Manual Guide" class="dl-guide">
-					<img src="img/manual.png" class="d-block img-fluid m-auto" />
+					<img src="/img/manual.png" class="d-block img-fluid m-auto" />
 				</a>
 			</div>
 			<div class="col-md-5">
 				<a href="pdf/install-guide.pdf" target="_blank" aria-label="Install Guide" class="dl-guide">
-					<img src="img/install.png" class="d-block img-fluid m-auto" />
+					<img src="/img/install.png" class="d-block img-fluid m-auto" />
 				</a>
 			</div>
 		</div>
@@ -208,8 +208,8 @@
 	</div>
 	<br /><br /><br />
 	<?php include 'footer.php' ?>
-	<script src="js/jquery-3.4.1.min.js"></script>
-	<script src="js/bootstrap.min.js"></script>
+	<script src="/js/jquery-3.4.1.min.js"></script>
+	<script src="/js/bootstrap.min.js"></script>
 </body>
 
 </html>
