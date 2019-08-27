@@ -9,7 +9,7 @@
 	$config = include('../config/app.php');
 	
 	require '../action/c-contact-us.php';
-	
+
 	$page = 'contact-us.php';
 ?>
 
@@ -71,7 +71,7 @@
 				<?php }?>
 
 				<form class="dokodemo-form" action="" method="POST">
-					<select class="contact-type" required>
+					<select name="subject" class="contact-type" required>
 						<option value="Coba Gratis 30 Hari" <?= !empty($errors) &&  $_POST['subject'] == 'Coba Gratis 30 Hari'? 'selected' : ''?>>Coba Gratis 30 Hari</option>
 						<option value="Enterprise plan" <?= !empty($errors) &&  $_POST['subject'] == 'Enterprise plan'? 'selected' : ''?>>Enterprise plan</option>
 						<option value="Partnership" <?= !empty($errors) &&  $_POST['subject'] == 'Partnership'? 'selected' : ''?>>Partnership</option>
