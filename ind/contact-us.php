@@ -14,7 +14,10 @@
 </head>
 <?php $page = 'contact-us.php'; ?>
 <body class="not-home">
-	<?php include 'header.php' ?>
+	<?php 
+		require "../action/c-contact-us.php";
+        include 'header.php';
+	?>
 	<section class="contact-top text-center">
 		<div class="container">
 			<div class="row">
@@ -32,48 +35,71 @@
 		<div class="row">
 			<div class="col-md-8 offset-md-2">
 				<div class="semibold fs-18 subtitle-contact">Apa yang ingin anda tanyakan tentang Dokodemo-Kerja?</div>
-				<form class="dokodemo-form">
+
+				<?php
+					if (!is_null($success)) {
+					?>
+						<div class="alert alert-success alert-dismissible" role="alert">
+							<button type="button" class="close" data-dismiss="alert" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+							Pesan anda <strong>berhasil</strong> dikirim
+						</div>
+					<?php }?>
+
+					<?php
+					if (!empty($errors)) {
+					?>
+					<div class="alert alert-danger alert-dismissible" role="alert">
+					<button type="button" class="close" data-dismiss="alert" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+					<?php
+						foreach ($errors as $key => $value) {
+						echo $value."<br>";
+						}
+					?>
+					</div>
+				<?php }?>
+
+				<form class="dokodemo-form" action="" method="POST">
 					<select class="contact-type" required>
-						<option value="Coba Gratis 30 Hari" selected>Coba Gratis 30 Hari</option>
-						<option value="Enterprise plan">Enterprise plan</option>
-						<option value="Partnership">Partnership</option>
-						<option value="Investment">Investment</option>
-						<option value="Cara Penggunaan">Cara Penggunaan</option>
+						<option value="Coba Gratis 30 Hari" <?= !empty($errors) &&  $_POST['subject'] == 'Coba Gratis 30 Hari'? 'selected' : ''?>>Coba Gratis 30 Hari</option>
+						<option value="Enterprise plan" <?= !empty($errors) &&  $_POST['subject'] == 'Enterprise plan'? 'selected' : ''?>>Enterprise plan</option>
+						<option value="Partnership" <?= !empty($errors) &&  $_POST['subject'] == 'Partnership'? 'selected' : ''?>>Partnership</option>
+						<option value="Investment" <?= !empty($errors) &&  $_POST['subject'] == 'Investment'? 'selected' : ''?>>Investment</option>
+						<option value="Cara Penggunaan" <?= !empty($errors) &&  $_POST['subject'] == 'Cara Penggunaan'? 'selected' : ''?>>Cara Penggunaan</option>
 					</select>
 					<div class="form-group row align-items-center">
 						<label for="name" class="col-sm-3 col-form-label">Nama <span style="color:red">*</span></label>
 						<div class="col-sm-9">
-							<input type="text" class="form-control" id="name" placeholder="Nama Lengkap" required>
+							<input type="text" class="form-control" name="name" id="name" value="<?= !empty($errors) ? $_POST['name'] : ''?>" placeholder="Nama Lengkap" required>
 						</div>
 					</div>
 					<div class="form-group row align-items-center">
 						<label for="company" class="col-sm-3 col-form-label">Perusahaan <span style="color:red">*</span></label>
 						<div class="col-sm-9">
-							<input type="text" class="form-control" id="company" placeholder="Nama Perusahaan" required>
+							<input type="text" name="company" class="form-control" id="company" value="<?= !empty($errors) ? $_POST['company'] : ''?>" placeholder="Nama Perusahaan" required>
 						</div>
 					</div>
 					<div class="form-group row align-items-center">
 						<label for="Phone" class="col-sm-3 col-form-label">Nomor Telp <span style="color:red">*</span></label>
 						<div class="col-sm-9">
-							<input type="number" class="form-control" id="Phone" placeholder="ex 0833 4075 6762" required>
+							<input type="number" name="phone_number" value="<?= !empty($errors) ? $_POST['phone_number'] : ''?>" class="form-control" id="Phone" placeholder="ex 0833 4075 6762" required>
 						</div>
 					</div>
 					<div class="form-group row align-items-center">
 						<label for="inputEmail3" class="col-sm-3 col-form-label">Email <span style="color:red">*</span></label>
 						<div class="col-sm-9">
-							<input type="email" class="form-control" id="inputEmail3" placeholder="Email" required>
+							<input type="email" name="email" value="<?= !empty($errors) ? $_POST['email'] : ''?>" class="form-control" id="inputEmail3" placeholder="Email" required>
 						</div>
 					</div>
 					<div class="form-group row ">
 						<label for="inputEmail3" class="col-sm-3 col-form-label">Pesan</label>
 						<div class="col-sm-9">
-							<textarea class="form-control" placeholder="Tuliskan pesanmu disini..."></textarea>
+							<textarea class="form-control" name="message" placeholder="Tuliskan pesanmu disini..."><?= !empty($errors) ? $_POST['message'] : ''?></textarea>
 						</div>
 					</div>
 					<div class="form-group row mt-top">
 						<div class="col-sm-12 text-center">
 							<script src="https://www.google.com/recaptcha/api.js" async defer></script>
-							<div class="g-recaptcha" data-sitekey="your_site_key"></div>
+							<div class="g-recaptcha" data-sitekey="<?= $config['site_key']?>"></div>
 						</div>
 					</div>
 					<div class="form-group row mt-top">
