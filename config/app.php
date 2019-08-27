@@ -10,15 +10,15 @@
             "password" => "b42f6787a1f5d5",
             'debug' => 2,
             //default inquiry email 
-            "inquiry_email" => "info@hajime-indonesia.co.id",
-            "trial_email" => "info@hajime-indonesia.co.id",
+            "inquiry_email" => "sales@dokodemo-kerja.com",
+            "trial_email" => "sales@dokodemo-kerja.com",
              // -- set it false to use mailtrap
             "sendmail" => false,
         ],
-
+        
         // -- captcha --
-        'site_key' => '',
-        'secret_key' => '',
+        'site_key' => '6LeIxAcTAAAAAJcZVRqyHh71UMIEGNQ_MXjiZKhI',
+        'secret_key' => '6LeIxAcTAAAAAGG-vFI1TnRWxMZNFuojJ4WifJWe',
 
     ];
 ?>
