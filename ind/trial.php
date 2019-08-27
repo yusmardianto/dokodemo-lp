@@ -1,3 +1,19 @@
+
+<?php 
+ 	ini_set('display_errors', 'On');
+    error_reporting(E_ALL);
+
+    // Load Composer's autoloader
+    require '../vendor/autoload.php';
+
+    // Load config
+	$config = include('../config/app.php');
+	
+	require '../action/c-trial.php';
+	
+	$page = 'trial.php'; 
+?>
+
 <!DOCTYPE html>
 <html lang="en">
 
@@ -12,10 +28,7 @@
 	<link rel="shortcut icon" type="image/x-icon" href="favicon.ico">
 	<title>Trial</title>
 </head>
-<?php 
-    include '../action/c-trial.php';
-	$page = 'trial.php'; 
-	?>
+
 <body class="not-home">
 	<?php include 'header.php' ?>
 	<section class="trial-top">

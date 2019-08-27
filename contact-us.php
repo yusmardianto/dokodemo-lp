@@ -1,3 +1,18 @@
+<?php 
+	ini_set('display_errors', 'On');
+	error_reporting(E_ALL);
+
+	// Load Composer's autoloader
+	require 'vendor/autoload.php';
+
+	// Load config
+	$config = include('config/app.php');
+	
+	require 'action/c-contact-us.php';
+	
+	$page = 'contact-us.php';
+?>
+
 <!DOCTYPE html>
 <html lang="en"></html>
 
@@ -12,10 +27,7 @@
   <link rel="shortcut icon" type="image/x-icon" href="favicon.ico">
   <title>Contact Us</title>
 </head>
-<?php 
-	require 'action/c-contact-us.php';
-	$page = 'contact-us.php';
-?>
+
 <body class="not-home">
 	<?php include 'header.php' ?>
 	<section class="contact-top text-center">

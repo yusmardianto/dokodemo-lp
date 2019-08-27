@@ -1,16 +1,7 @@
 <?php  
-    ini_set('display_errors', 'On');
-    error_reporting(E_ALL);
-
     use PHPMailer\PHPMailer\PHPMailer;
     use PHPMailer\PHPMailer\Exception;
-
-    // Load Composer's autoloader
-    require '../vendor/autoload.php';
-
-    // Load config
-    $config = include('config/app.php');
-
+ 
     $name = "";
     $company = "";
     $email = "";
@@ -485,7 +476,5 @@
             $errors[] = 'Recaptcha incorect.! please try again';
         }
     }
-
-
 
 ?>
