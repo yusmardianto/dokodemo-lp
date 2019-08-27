@@ -6,8 +6,8 @@
             "secure" => 'tls',
             "host" => "smtp.mailtrap.io",
             "port" => 25,
-            "username" => "5cacef86d45cf4",
-            "password" => "416a563d057d48",
+            "username" => "60d9b1e1c6dbe6",
+            "password" => "b42f6787a1f5d5",
             'debug' => 2,
             //default inquiry email 
             "inquiry_email" => "sales@dokodemo-kerja.com",
