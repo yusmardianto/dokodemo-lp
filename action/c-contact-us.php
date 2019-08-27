@@ -26,7 +26,7 @@
         $required_fields['message'] = 'You are required to enter a Message.';
         $required_fields['subject'] = 'You are required to enter a Subject.';
 
-        //Check for a valid phone number
+        // Check for a valid phone number
         if (isset($_POST['phone_number'])) {
             $phone_number = $_POST['phone_number'];
             $pattern = "/^[0-9\_]{7,20}/";
@@ -48,7 +48,10 @@
         $captcha = $_POST['g-recaptcha-response'];
         $verify = file_get_contents('https://www.google.com/recaptcha/api/siteverify?secret='.$config["secret_key"].'&response='.$_POST['g-recaptcha-response']);
         $response = json_decode($verify);
+
         if ($response->success) {
+
+          if (empty($errors)) {
             $phone_number = $_POST['phone_number'];
             $name_field = filter_var($_POST['name'], FILTER_SANITIZE_STRING);
             $company_field = filter_var($_POST['company'], FILTER_SANITIZE_STRING);
@@ -449,33 +452,32 @@
                 //Server settings
                 $mail = new PHPMailer();                    // create a new object
     
-                 if ($config['email']['sendmail'] == true) {
-                     $mail->isSendmail();
-                 } else {
-                     $mail->isSMTP();                            // Set mailer to use SMTP
-                     $mail->Host         = $config['email']['host'];        // Specify main and backup SMTP servers
-                     $mail->SMTPAuth     = $config['email']['auth'];                    // Enable SMTP authentication
-                     // $mail->SMTPDebug    = $config['email']['debug'];                       // Enable verbose debug output
-                     $mail->Username     = $config['email']['username'];                    // SMTP username
-                     $mail->Password     = $config['email']['password'];                     // SMTP password
-                     $mail->SMTPSecure   = $config['email']['secure'];                // Enable TLS encryption, `ssl` also accepted
-                     $mail->Port         = $config['email']['port'];                  // TCP port to connect to
-                 }
-                
-                 $mail->setFrom($email_field,$name_field);            // Mail Form
-                 $mail->addAddress($config['email']['inquiry_email']);          // Name is optional
-                 $mail->isHTML(true);        
-                 $mail->CharSet   = "UTF-8";
-                 $mail->Subject = $subject_field;
-                 $mail->Body    = $body;
-                 $mail->AltBody = date('Y').'. All rights reserved.';
-                 $mail->send();
-                 $success = 'Message has been sent';
+                if ($config['email']['sendmail'] == true) {
+                    $mail->isSendmail();
+                } else {
+                    $mail->isSMTP();                            // Set mailer to use SMTP
+                    $mail->Host         = $config['email']['host'];        // Specify main and backup SMTP servers
+                    $mail->SMTPAuth     = $config['email']['auth'];                    // Enable SMTP authentication
+                    // $mail->SMTPDebug    = $config['email']['debug'];                       // Enable verbose debug output
+                    $mail->Username     = $config['email']['username'];                    // SMTP username
+                    $mail->Password     = $config['email']['password'];                     // SMTP password
+                    $mail->SMTPSecure   = $config['email']['secure'];                // Enable TLS encryption, `ssl` also accepted
+                    $mail->Port         = $config['email']['port'];                  // TCP port to connect to
+                }
+              
+                $mail->setFrom($email_field,$name_field);            // Mail Form
+                $mail->addAddress($config['email']['inquiry_email']);          // Name is optional
+                $mail->isHTML(true);        
+                $mail->CharSet   = "UTF-8";
+                $mail->Subject = $subject_field;
+                $mail->Body    = $body;
+                $mail->AltBody = date('Y').'. All rights reserved.';
+                $mail->send();
+                $success = 'Message has been sent';
             } catch (Exception $e) {
                 $errors[] =  "Message could not be sent. Mailer Error: {$mail->ErrorInfo}";
             }
-     
-            
+          }
         } else {
             $errors[] = 'Recaptcha incorect.! please try again';
         }
