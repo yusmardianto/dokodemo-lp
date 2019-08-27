@@ -52,41 +52,41 @@
 					<?php }?>
 
 
-					<form class="dokodemo-form">
+					<form class="dokodemo-form" action="" method="POST">
 						<div class="form-group row align-items-center">
 							<label for="name" class="col-sm-3 col-form-label">Nama <span style="color:red">*</span></label>
 							<div class="col-sm-9">
-								<input type="text" class="form-control" id="name" placeholder="Nama Lengkap" required>
+								<input type="text" class="form-control" id="name" name="name" value="<?= !empty($errors) ? $_POST['name'] : ''?>" placeholder="Nama Lengkap" required>
 							</div>
 						</div>
 						<div class="form-group row align-items-center">
 							<label for="company" class="col-sm-3 col-form-label">Perusahaan <span style="color:red">*</span></label>
 							<div class="col-sm-9">
-								<input type="text" class="form-control" id="company" placeholder="Nama Perusahaan" required>
+								<input type="text" class="form-control" id="company" name="company" value="<?= !empty($errors) ? $_POST['company'] : ''?>" placeholder="Nama Perusahaan" required>
 							</div>
 						</div>
 						<div class="form-group row align-items-center">
 							<label for="Phone" class="col-sm-3 col-form-label">Nomor Telp <span style="color:red">*</span></label>
 							<div class="col-sm-9">
-								<input type="text" class="form-control" id="Phone" placeholder="ex 0833 4075 6762" pattern="[0-9]*" required>
+								<input type="text" class="form-control" id="Phone" name="phone_number" value="<?= !empty($errors) ? $_POST['phone_number'] : ''?>" placeholder="ex 0833 4075 6762" pattern="[0-9]*" required>
 							</div>
 						</div>
 						<div class="form-group row align-items-center">
 							<label for="inputEmail3" class="col-sm-3 col-form-label">Email <span style="color:red">*</span></label>
 							<div class="col-sm-9">
-								<input type="email" class="form-control" id="inputEmail3" placeholder="Email" required>
+								<input type="email" class="form-control" id="inputEmail3" name="email" value="<?= !empty($errors) ? $_POST['email'] : ''?>" placeholder="Email" required>
 							</div>
 						</div>
 						<div class="form-group row align-items-center">
 							<label for="domain" class="col-sm-3 col-form-label">Domain</label>
 							<div class="col-sm-9">
-								<input type="text" class="form-control" id="domain" placeholder="Domain">
+								<input type="text" class="form-control" id="domain" name="domain" value="<?= !empty($errors) ? $_POST['domain'] : ''?>" placeholder="Domain">
 							</div>
 						</div>
 						<div class="form-group row mt-top">
 							<div class="col-sm-12 text-center">
 								<script src="https://www.google.com/recaptcha/api.js" async defer></script>
-								<div class="g-recaptcha" data-sitekey="your_site_key"></div>
+								<div class="g-recaptcha" data-sitekey="<?= $config['site_key']?>"></div>
 							</div>
 						</div>
 						<div class="form-group row mt-top">
