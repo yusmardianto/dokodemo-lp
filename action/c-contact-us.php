@@ -459,15 +459,18 @@
                     $mail->Port         = $config['email']['port'];                  // TCP port to connect to
                 }
               
-                $mail->setFrom($email_field,$name_field);            // Mail Form
+                $mail->setFrom($config['email']['inquiry_email']);            // Mail Form
                 $mail->addAddress($config['email']['inquiry_email']);          // Name is optional
                 $mail->isHTML(true);        
                 $mail->CharSet   = "UTF-8";
                 $mail->Subject = $subject_field;
                 $mail->Body    = $body;
                 $mail->AltBody = date('Y').'. All rights reserved.';
+                $mail->addReplyTo($email_field, $name_field);
                 $mail->send();
+
                 $success = 'Message has been sent';
+                
             } catch (Exception $e) {
                 $errors[] =  "Message could not be sent. Mailer Error: {$mail->ErrorInfo}";
             }
