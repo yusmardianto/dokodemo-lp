@@ -13,7 +13,7 @@
 	<title>Trial</title>
 </head>
 <?php 
-    require '../action/c-trial.php';
+    include '../action/c-trial.php';
 	$page = 'trial.php'; 
 	?>
 <body class="not-home">
