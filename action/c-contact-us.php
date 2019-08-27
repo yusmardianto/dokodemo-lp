@@ -62,7 +62,7 @@
               <head>
                 <meta name="viewport" content="width=device-width" />
                 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
-                <title>Graha Mirai Email</title>
+                <title>Dokodemo Email</title>
                 <style>
                   /* -------------------------------------
                       GLOBAL RESETS
@@ -377,8 +377,8 @@
                               <table role="presentation" border="0" cellpadding="0" cellspacing="0">
                                 <tr>
                                   <td>
-                                    <p>Hi there, this is message from Graha Mirai Site</p>
-                                   
+                                    <p>Hi there, this is message from Dokodemo</p>
+                                    <p>you have an inquiry email from :</p>
                                     <!--
                                     <p>you have an inquiry email from :</p>
                                     <table role="presentation" border="0" cellpadding="0" cellspacing="0" class="btn btn-primary">
@@ -397,8 +397,13 @@
                                       </tbody>
                                     </table>
                                     -->
+
                                     <p>Name : '.$name_field.'</p>
-                                    <p>HP : '.$phone_number.'</p>
+                                    <p>Phone Number : '.$phone_number.'</p>
+                                    <p>Company : '.$company_field.'</p>
+                                    <hr>
+                                    <h1>'.$subject_field.'</h1>
+                                    <hr>
                                     <p>Message : <br>'.$message_field.'</p>
                                   </td>
                                 </tr>
@@ -413,6 +418,7 @@
                         <!-- START FOOTER -->
                         <div class="footer">
                           <table role="presentation" border="0" cellpadding="0" cellspacing="0">
+
                             <!--
                             <tr>
                               <td class="content-block">
@@ -421,9 +427,10 @@
                               </td>
                             </tr>
                             -->
+
                             <tr>
                               <td class="content-block powered-by">
-                                Powered by <a href="#">Logique</a>.
+                                Powered by <a href="#">PT Logique Digital Indonesia</a>.
                               </td>
                             </tr>
                           </table>
