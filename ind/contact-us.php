@@ -12,12 +12,12 @@
 	<link rel="shortcut icon" type="image/x-icon" href="favicon.ico">
 	<title>Contact Us</title>
 </head>
-<?php $page = 'contact-us.php'; ?>
+<?php 
+	require "../action/c-contact-us.php";
+	$page = 'contact-us.php'; 
+?>
 <body class="not-home">
-	<?php 
-		require "../action/c-contact-us.php";
-        include 'header.php';
-	?>
+	<?php include 'header.php' ?>
 	<section class="contact-top text-center">
 		<div class="container">
 			<div class="row">
