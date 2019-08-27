@@ -13,7 +13,7 @@
 	<title>Contact Us</title>
 </head>
 <?php 
-	require "../action/c-contact-us.php";
+	require '../action/c-contact-us.php';
 	$page = 'contact-us.php'; 
 ?>
 <body class="not-home">
@@ -99,12 +99,12 @@
 					<div class="form-group row mt-top">
 						<div class="col-sm-12 text-center">
 							<script src="https://www.google.com/recaptcha/api.js" async defer></script>
-							<div class="g-recaptcha" data-sitekey="<?= $config['site_key']?>"></div>
+							<div class="g-recaptcha" data-sitekey="<?= $config['site_key']?>" data-callback="enableBtn"></div>
 						</div>
 					</div>
 					<div class="form-group row mt-top">
 						<div class="col-sm-12 text-center">
-							<button type="submit" class="btn btn-submit">
+							<button type="submit" class="btn btn-submit" id="submit-btn">
 								Kirim
 							</button>
 						</div>
@@ -124,8 +124,15 @@
 	<link href="https://cdnjs.cloudflare.com/ajax/libs/select2/4.0.7/css/select2.min.css" rel="stylesheet" />
 	<script src="https://cdnjs.cloudflare.com/ajax/libs/select2/4.0.7/js/select2.min.js"></script>
 	<script>
+
+		document.getElementById("submit-btn").disabled = true;
+		function enableBtn(){
+			document.getElementById("submit-btn").disabled = false;
+		}
+
 		$(document).ready(function() {
 			$('.contact-type').select2();
+			$('#submit-btn').attr('disabled', true);
 		});
 	</script>
 

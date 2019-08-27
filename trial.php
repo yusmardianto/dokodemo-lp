@@ -12,7 +12,10 @@
 	<link rel="shortcut icon" type="image/x-icon" href="favicon.ico">
 	<title>Trial</title>
 </head>
-<?php $page = 'trial.php'; ?>
+<?php 
+	require 'action/c-trial.php';
+	$page = 'trial.php'; 
+	?>
 <body class="not-home">
 	<?php include 'header.php' ?>
 	<section class="trial-top">
@@ -25,46 +28,69 @@
 			<br />
 			<div class="row">
 				<div class="col-md-8 offset-md-2">
-					<form class="dokodemo-form">
+
+					<?php
+						if (!is_null($success)) {
+						?>
+							<div class="alert alert-success alert-dismissible" role="alert">
+								<button type="button" class="close" data-dismiss="alert" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+								Pesan anda <strong>berhasil</strong> dikirim
+							</div>
+						<?php }?>
+
+						<?php
+						if (!empty($errors)) {
+						?>
+						<div class="alert alert-danger alert-dismissible" role="alert">
+						<button type="button" class="close" data-dismiss="alert" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+						<?php
+							foreach ($errors as $key => $value) {
+							echo $value."<br>";
+							}
+						?>
+						</div>
+					<?php }?>
+
+					<form class="dokodemo-form" action="" method="POST">
 						<div class="form-group row align-items-center">
 							<label for="name" class="col-sm-3 col-form-label">Name <span style="color:red">*</span></label>
 							<div class="col-sm-9">
-								<input type="text" class="form-control" id="name" placeholder="Your Full Name" required>
+								<input type="text" class="form-control" id="name"  name="name" value="<?= !empty($errors) ? $_POST['name'] : ''?>" placeholder="Your Full Name" required>
 							</div>
 						</div>
 						<div class="form-group row align-items-center">
 							<label for="company" class="col-sm-3 col-form-label">Company <span style="color:red">*</span></label>
 							<div class="col-sm-9">
-								<input type="text" class="form-control" id="company" placeholder="Your Company Name" required>
+								<input type="text" class="form-control" id="company" name="company" value="<?= !empty($errors) ? $_POST['company'] : ''?>" placeholder="Your Company Name" required>
 							</div>
 						</div>
 						<div class="form-group row align-items-center">
 							<label for="Phone" class="col-sm-3 col-form-label">Phone Number <span style="color:red">*</span></label>
 							<div class="col-sm-9">
-								<input type="text" class="form-control" id="Phone" placeholder="ex 0833 4075 6762" pattern="[0-9]*" required>
+								<input type="text" class="form-control" id="Phone" name="phone_number" value="<?= !empty($errors) ? $_POST['phone_number'] : ''?>" placeholder="ex 0833 4075 6762" pattern="[0-9]*" required>
 							</div>
 						</div>
 						<div class="form-group row align-items-center">
 							<label for="inputEmail3" class="col-sm-3 col-form-label">Email <span style="color:red">*</span></label>
 							<div class="col-sm-9">
-								<input type="email" class="form-control" id="inputEmail3" placeholder="Email" required>
+								<input type="email" class="form-control" id="inputEmail3" name="email" value="<?= !empty($errors) ? $_POST['email'] : ''?>" placeholder="Email" required>
 							</div>
 						</div>
 						<div class="form-group row align-items-center">
 							<label for="domain" class="col-sm-3 col-form-label">Domain</label>
 							<div class="col-sm-9">
-								<input type="text" class="form-control" id="domain" placeholder="Your Domain">
+								<input type="text" class="form-control" id="domain" name="domain" value="<?= !empty($errors) ? $_POST['domain'] : ''?>" placeholder="Your Domain">
 							</div>
 						</div>
 						<div class="form-group row mt-top">
 							<div class="col-sm-12 text-center">
 								<script src="https://www.google.com/recaptcha/api.js" async defer></script>
-								<div class="g-recaptcha" data-sitekey="your_site_key"></div>
+								<div class="g-recaptcha" data-sitekey="<?= $config['site_key']?>" data-callback="enableBtn"></div>
 							</div>
 						</div>
 						<div class="form-group row mt-top">
 							<div class="col-sm-12 text-center">
-								<button type="submit" class="btn btn-submit">
+								<button type="submit" id="submit-btn" class="btn btn-submit">
 									Submit
 								</button>
 							</div>
@@ -210,6 +236,12 @@
 	<?php include 'footer.php' ?>
 	<script src="js/jquery-3.4.1.min.js"></script>
 	<script src="js/bootstrap.min.js"></script>
+	<script>
+		document.getElementById("submit-btn").disabled = true;
+		function enableBtn(){
+			document.getElementById("submit-btn").disabled = false;
+		}
+	</script>
 </body>
 
 </html>

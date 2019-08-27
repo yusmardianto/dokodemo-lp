@@ -12,7 +12,10 @@
 	<link rel="shortcut icon" type="image/x-icon" href="favicon.ico">
 	<title>Trial</title>
 </head>
-<?php $page = 'trial.php'; ?>
+<?php 
+    require '../action/c-trial.php';
+	$page = 'trial.php'; 
+	?>
 <body class="not-home">
 	<?php include 'header.php' ?>
 	<section class="trial-top">
@@ -25,6 +28,30 @@
 			<br />
 			<div class="row">
 				<div class="col-md-8 offset-md-2">
+
+					<?php
+						if (!is_null($success)) {
+						?>
+							<div class="alert alert-success alert-dismissible" role="alert">
+								<button type="button" class="close" data-dismiss="alert" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+								Pesan anda <strong>berhasil</strong> dikirim
+							</div>
+						<?php }?>
+
+						<?php
+						if (!empty($errors)) {
+						?>
+						<div class="alert alert-danger alert-dismissible" role="alert">
+							<button type="button" class="close" data-dismiss="alert" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+							<?php
+								foreach ($errors as $key => $value) {
+								echo $value."<br>";
+								}
+							?>
+						</div>
+					<?php }?>
+
+
 					<form class="dokodemo-form">
 						<div class="form-group row align-items-center">
 							<label for="name" class="col-sm-3 col-form-label">Nama <span style="color:red">*</span></label>
