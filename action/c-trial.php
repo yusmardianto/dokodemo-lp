@@ -6,7 +6,7 @@
     $company = "";
     $email = "";
     $phone_number = "";
-    $domain = "";
+    // $domain = "";
     $errors = array();
     $success = null;
 
@@ -16,7 +16,7 @@
         $required_fields['company'] = 'You are required to enter your Company.';
         $required_fields['phone_number'] = 'You are required to enter a phone number.';
         $required_fields['email'] = 'You are required to enter your E-mail Address.';
-        $required_fields['domain'] = 'You are required to enter Domain.';
+        // $required_fields['domain'] = 'You are required to enter Domain.';
 
         // Check for a valid phone number
         if (isset($_POST['phone_number'])) {
@@ -49,7 +49,7 @@
             $company_field = filter_var($_POST['company'], FILTER_SANITIZE_STRING);
             $email = str_replace(array("\r", "\n", "%0a", "%0d"), '', $_POST['email']);
             $email_field = filter_var($email, FILTER_VALIDATE_EMAIL);
-            $domain_field = filter_var($_POST['domain'], FILTER_SANITIZE_STRING);
+            // $domain_field = filter_var($_POST['domain'], FILTER_SANITIZE_STRING);
             $subject_field = "Request Free Trial";
 
             $body = '<!doctype html>
@@ -398,7 +398,6 @@
                                     <p>Name : '.$name_field.'</p>
                                     <p>Phone Number : '.$phone_number.'</p>
                                     <p>Company : '.$company_field.'</p>
-                                    <p>Domain : '.$domain_field.'</p>
                                   </td>
                                 </tr>
                               </table>

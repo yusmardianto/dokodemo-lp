@@ -89,12 +89,12 @@
 								<input type="email" class="form-control" id="inputEmail3" name="email" value="<?= !empty($errors) ? $_POST['email'] : ''?>" placeholder="Email" required>
 							</div>
 						</div>
-						<div class="form-group row align-items-center">
+						<!-- <div class="form-group row align-items-center">
 							<label for="domain" class="col-sm-3 col-form-label">Domain</label>
 							<div class="col-sm-9">
 								<input type="text" class="form-control" id="domain" name="domain" value="<?= !empty($errors) ? $_POST['domain'] : ''?>" placeholder="Your Domain">
 							</div>
-						</div>
+						</div> -->
 						<div class="form-group row mt-top">
 							<div class="col-sm-12 text-center">
 								<script src="https://www.google.com/recaptcha/api.js" async defer></script>
