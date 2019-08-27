@@ -6,7 +6,7 @@
     use PHPMailer\PHPMailer\Exception;
 
     // Load Composer's autoloader
-    require './vendor/autoload.php';
+    require '../vendor/autoload.php';
 
     // Load config
     $config = include('config/app.php');
@@ -485,5 +485,7 @@
             $errors[] = 'Recaptcha incorect.! please try again';
         }
     }
+
+
 
 ?>
