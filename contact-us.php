@@ -36,7 +36,6 @@
 		  <div class="col-md-8 offset-md-2">
 			<div class="semibold fs-18 subtitle-contact">What would you like to know about Dokodemo-Kerja?</div>
 			
-			
 			<?php
             if (!is_null($success)) {
             ?>
