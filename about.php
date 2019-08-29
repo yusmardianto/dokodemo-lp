@@ -172,7 +172,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
     </section>
     <section class="read-testimony">
         <h3>Wonder what other user are saying?</h3>
-        <a href="index.php#testimony" class="btn-read-testimony">
+        <a href="index.php#testimony" class="btn-read-testimony" id="btn-read-testimony">
             Read user testimony
         </a>
     </section>

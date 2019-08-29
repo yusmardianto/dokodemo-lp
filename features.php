@@ -90,7 +90,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
     </section>
     <section class="case-studies">
         <h2>Wonder how you can use all these features? Read the case studies in our About Us page</h2>
-        <a href="about.php" class="btn-see-case">See Case Studies</a>
+        <a href="about.php" class="btn-see-case" id='btn-see-case'>See Case Studies</a>
     </section>
     <section class="screenshots">
         <div class="container-fluid">

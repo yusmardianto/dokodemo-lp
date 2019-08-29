@@ -117,6 +117,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 						<option value="Partnership" <?= !empty($errors) &&  $_POST['subject'] == 'Partnership'? 'selected' : ''?>>Partnership</option>
 						<option value="Investment" <?= !empty($errors) &&  $_POST['subject'] == 'Investment'? 'selected' : ''?>>Investment</option>
 						<option value="Cara Penggunaan" <?= !empty($errors) &&  $_POST['subject'] == 'Cara Penggunaan'? 'selected' : ''?>>Cara Penggunaan</option>
+						<option value="Lainnya" <?= !empty($errors) &&  $_POST['subject'] == 'Lainnya'? 'selected' : ''?>>Lainnya</option>
 					</select>
 					<div class="form-group row align-items-center">
 						<label for="name" class="col-sm-3 col-form-label">Nama <span style="color:red">*</span></label>

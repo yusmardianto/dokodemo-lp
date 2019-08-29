@@ -90,7 +90,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
     </section>
     <section class="case-studies">
         <h2>Bertanya-tanya bagaimana Anda dapat menggunakan semua fitur ini? Baca studi kasus di halaman Tentang Kami</h2>
-        <a href="about.php" class="btn-see-case">Lihat Studi Kasus</a>
+        <a href="about.php" class="btn-see-case" id='btn-see-case'>Lihat Studi Kasus</a>
     </section>
     <section class="screenshots">
         <div class="container-fluid">
@@ -213,19 +213,19 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
         <div class="container">
             <div class="row">
                 <div class="col-md-4 offset-md-4 py-2">
-                    <a href="/ind/trial.php">
-                        <img src="/img/features/free-trial.jpg" class="img-fluid mx-auto d-block" />
+                    <a href="/ind/trial.php" id="trial-img">
+                        <img src="/img/features/free-trial.jpg" alt="free-trial" class="img-fluid mx-auto d-block" />
                     </a>
                 </div>
                 <div class="col-md-4"></div>
                 <div class="col-md-4 offset-md-2 col-10 offset-1 py-2">
-                    <a href="http://dokodemo-web.test/pdf/manual-guide.pdf" class="dl-guide">
-                        <img src="/img/manual.png" class="img-fluid mx-auto d-block" />
+                    <a href="http://dokodemo-web.test/pdf/manual-guide.pdf" id="manual-guide-img" class="dl-guide">
+                        <img src="/img/manual.png" alt="manual-guide" class="img-fluid mx-auto d-block" />
                     </a>
                 </div>
                 <div class="col-md-4 col-10 offset-md-0 offset-1 py-2">
-                    <a href="http://dokodemo-web.test/pdf/install-guide.pdf" class="dl-guide">
-                        <img src="/img/install.png" class="img-fluid mx-auto d-block" />
+                    <a href="http://dokodemo-web.test/pdf/install-guide.pdf" id="install-guide-img" class="dl-guide">
+                        <img src="/img/install.png" alt="install-guide" class="img-fluid mx-auto d-block" />
                     </a>
                 </div>
             </div>

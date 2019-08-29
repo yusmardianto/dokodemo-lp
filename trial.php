@@ -138,12 +138,12 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 						<div class="form-group row mt-top">
 							<div class="col-sm-12 text-center">
 								<script src="https://www.google.com/recaptcha/api.js" async defer></script>
-								<div class="g-recaptcha" data-sitekey="<?= $config['site_key']?>" data-callback="enableBtn"></div>
+								<div class="g-recaptcha" data-sitekey="<?= $config['site_key']?>" data-callback="enableBtnTrial"></div>
 							</div>
 						</div>
 						<div class="form-group row mt-top">
 							<div class="col-sm-12 text-center">
-								<button type="submit" id="submit-btn" class="btn btn-submit">
+								<button type="submit" id="submit-btn-trial" class="btn btn-submit">
 									Submit
 								</button>
 							</div>
@@ -171,7 +171,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 		</div>
 		<div class="row mt-top">
 			<div class="mt-top ls-title col text-center gray fs-30 bold uppercase">
-				Frequently Ask Question
+			Frequently Asked Questions
 			</div>
 		</div>
 		<div class="row mt-top">
@@ -290,9 +290,9 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 	<script src="js/jquery-3.4.1.min.js"></script>
 	<script src="js/bootstrap.min.js"></script>
 	<script>
-		document.getElementById("submit-btn").disabled = true;
-		function enableBtn(){
-			document.getElementById("submit-btn").disabled = false;
+		document.getElementById("submit-btn-trial").disabled = true;
+		function enableBtnTrial(){
+			document.getElementById("submit-btn-trial").disabled = false;
 		}
 	</script>
 </body>

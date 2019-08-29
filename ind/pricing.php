@@ -117,7 +117,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                         <a href="mailto:sales@dokodemo-kerja.com"><img src="/img/pricing/mail.png" /></a>
                         <a href="https://api.whatsapp.com/send?phone=62811870321" target="_blank"><img src="/img/pricing/whatsapp.png" /></a>
                     </div>
-                    <a href="/ind/trial.php" class="btn-request-trial">
+                    <a href="/ind/trial.php" class="btn-request-trial" id="btn-request-trial">
                         Coba Gratis
                     </a>
                 </div>
@@ -126,7 +126,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
     </section>
     <section class="read-testimony">
         <h3>Ingin tahu apa yang dikatakan orang lain?</h3>
-        <a href="index.php#testimony" class="btn-read-testimony">
+        <a href="index.php#testimony" class="btn-read-testimony" id="btn-read-testimony">
             Baca Ulasan Pelanggan
         </a>
     </section>

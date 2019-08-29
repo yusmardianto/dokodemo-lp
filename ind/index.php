@@ -87,7 +87,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                 </div>
             </div>
             <p class="fs-27 text-center">Coba <strong> 30 hari Gratis</strong></p>
-            <a href="trial.php" class="btn-sign-up">Daftar Sekarang</a>
+            <a href="trial.php" class="btn-sign-up" id="btn-trial">Daftar Sekarang</a>
             <small class="text-center d-block py-4">*Tidak perlu Kartu Kredit</small>
             <div class="bottom-arrow-wrapper">
                 <a href="#benefits" class="smooth"><img src="/img/home/down.png" /></a>
@@ -135,7 +135,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                     <p>Sistem Management yang mudah untuk kerja Overtime</p>
                 </div>
             </div>
-            <a href="features.php" class="btn-learn-more">Lihat Lebih</a>
+            <a href="features.php" class="btn-learn-more" id="btn-learn-more">Lihat Lebih</a>
         </div>
         <div class="container p-md-0 position-relative">
             <div class="row no-gutters ">
@@ -186,7 +186,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
     <section class="dokodemo-desc">
         <h1 class="section-title">APA ITU DOKODEMO KERJA?</h1>
         <p>Sekarang perusahaan Anda dapat menerapkan sistem kerja remote untuk karyawan di mana pun dan kapan pun. Mereka pun terbebaskan dari kejenuhan dan ketatnya suasana kerja dalam kantor.</p>
-        <a href="features.php" class="btn-more-features">Lihat Fitur</a>
+        <a href="features.php" class="btn-more-features" id="btn-more-features">Lihat Fitur</a>
     </section>
     <section class="youtube-wrapper container">
         <div class="embed-responsive embed-responsive-16by9">
@@ -210,24 +210,24 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                     <p class="testimony-author"><strong>Mizuho Yamada</strong> - Manager of Back Office</p>
                 </div>
                 <div class="testimony-item">
-                    <div class="testimony-text">Macetnya lalu lintas menuju kantor saya cukup membuat saya stress. Lelah dan stress saya menjadi bertambah, sebab rumah dengan kantor saya memiliki jarak yang cukup jauh. Setiap harinya saya menghabiskan waktu selama empat jam di jalan, terus menerus seperti itu. Pada akhirnya, perusahaan saya menggunakan Dokodemo-Kerja dan menerapkan sistem kerja remote di kantor. Dengan Dokodemo-Kerja saya bisa bekerja secara fleksibel.</div>
-                    <p class="testimony-author"><strong>Rafid</strong> - Front End Developer</p>
+                    <div class="testimony-text">Sangat sulit bagi saya untuk memantau seluruh karyawan untuk tidak membuka sosial media, youtube, dan bermain games. Setelah saya menggunakan Dokodemo-Kerja, saya dapat memantau seluruh karyawan yang membuka sosial media, youtube dan bermain games dari screen capture laptop masing-masing. Sekarang, para karyawan menon-aktifkan Dokodemo-Kerja apabila mereka sedang istirahat ataupun bermain games. Aktivitas tersebut tidak dihitung sebagai jam kerja mereka.</div>
+                    <p class="testimony-author"><strong>Kevin</strong> - Staff HR</p>
                 </div>
                 <div class="testimony-item">
-                    <div class="testimony-text">Saya ingin melanjutkan pendidikan ke jenjang yang lebih tinggi. Dengan Dokodemo-Kerja saya bisa membuktikan bahwa saya benar-benar bekerja selama delapan jam setiap harinya. Saya bekerja di waktu siang untuk beberapa hari. Pada hari-hari selanjutnya, saya bekerja di waktu malam. Dokodemo-Kerja membuat kualitas hidup saya meningkat.</div>
-                    <p class="testimony-author"><strong>Angga</strong> - Designer</p>
+                    <div class="testimony-text">Melakukan monitoring terhadap karyawan remote cukup sulit. Perbedaan tempat dan jarak yang jauh membuat saya sulit untuk memantau karyawan. Semenjak menggunakan Dokodemo-Kerja, saya dapat memantau karyawan dengan lebih baik. Saya bisa mengetahui produktivitas dan jam kerja mereka. Terimakasih Dokodemo-Kerja.</div>
+                    <p class="testimony-author"><strong>Arie</strong> - HR</p>
                 </div>
                 <div class="testimony-item">
-                    <div class="testimony-text">Saya merasa sungkan untuk menegur karyawan yang menggunakan waktu untuk beribadah terlalu lama. Saya ingin berlaku adil terhadap seluruh karyawan, apapun agama yang mereka anut. Sekarang jam kerja yang adil dapat diberlakukan kepada seluruh karyawan. Saya merasa terbantu oleh Dokodemo-Kerja.</div>
-                    <p class="testimony-author"><strong>Mizuho Yamada</strong> - Manager of Back Office</p>
+                    <div class="testimony-text">Saya kira, bekerja secara full remote adalah sesuatu yang mustahil. Sebab, perusahaan akan sulit untuk memantau kinerja karyawan. Tapi anggapan saya berubah ketika saya mengenal Dokodemo-Kerja. Oleh karena sistem ini, perusahaan di tempat saya bekerja memperbolehkan karyawan untuk bekerja secara remote. Saya sangat bahagia sekali. Akhirnya saya dapat bekerja sembari mengurus anak di rumah.</div>
+                    <p class="testimony-author"><strong>Sisca</strong> - Programmer</p>
                 </div>
                 <div class="testimony-item">
-                    <div class="testimony-text">Macetnya lalu lintas menuju kantor saya cukup membuat saya stress. Lelah dan stress saya menjadi bertambah, sebab rumah dengan kantor saya memiliki jarak yang cukup jauh. Setiap harinya saya menghabiskan waktu selama empat jam di jalan, terus menerus seperti itu. Pada akhirnya, perusahaan saya menggunakan Dokodemo-Kerja dan menerapkan sistem kerja remote di kantor. Dengan Dokodemo-Kerja saya bisa bekerja secara fleksibel.</div>
-                    <p class="testimony-author"><strong>Rafid</strong> - Front End Developer</p>
+                    <div class="testimony-text">Seringkali saya menegur para karyawan yang terlalu lama keluar untuk merokok. Alasannya, mereka tidak bekerja sesuai dengan jam kerja yang seharusnya berlaku. Kedua, saya ingin jam kerja yang adil dapat berlaku untuk seluruh karyawan. Setelah menggunakan Dokodemo-Kerja, sudah tidak ada lagi karyawan menggunakan waktu merokok terlalu lama. Saya pun dapat dengan mudah mengalkulasi jam kerja karyawan.</div>
+                    <p class="testimony-author"><strong>Tiara</strong> - Staff HR</p>
                 </div>
                 <div class="testimony-item">
-                    <div class="testimony-text">Saya ingin melanjutkan pendidikan ke jenjang yang lebih tinggi. Dengan Dokodemo-Kerja saya bisa membuktikan bahwa saya benar-benar bekerja selama delapan jam setiap harinya. Saya bekerja di waktu siang untuk beberapa hari. Pada hari-hari selanjutnya, saya bekerja di waktu malam. Dokodemo-Kerja membuat kualitas hidup saya meningkat.</div>
-                    <p class="testimony-author"><strong>Angga</strong> - Designer</p>
+                    <div class="testimony-text">Saya tidak bisa bekerja secara on site karena ibu saya sakit. Saya kira, saya harus merelakan pekerjaan saya disaat-saat seperti ini. Namun, Dokodemo-Kerja dapat membantu saya untuk tetap bekerja profesional dengan sistem kerja remote.</div>
+                    <p class="testimony-author"><strong>Bobby Susanto </strong> - Programmer</p>
                 </div>
                 <div class="testimony-item">
                     <div class="testimony-text">Saya merasa sungkan untuk menegur karyawan yang menggunakan waktu untuk beribadah terlalu lama. Saya ingin berlaku adil terhadap seluruh karyawan, apapun agama yang mereka anut. Sekarang jam kerja yang adil dapat diberlakukan kepada seluruh karyawan. Saya merasa terbantu oleh Dokodemo-Kerja.</div>
