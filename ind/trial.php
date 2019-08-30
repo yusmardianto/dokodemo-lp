@@ -93,13 +93,13 @@ $page = 'trial.php';
 	<?php include 'header.php' ?>
 	<section class="intro-section text-center px-4">
 		<h1 class="banner-text-white">Isilah <a class="yellow-link" href="#form-trial">formulir</a> dibawah untuk mendapatkan 30-hari sesi percobaan<br><br><b>ATAU</b><br><br>Coba Sendiri Secara Online Sekarang!</h1>
-		<a href="https://demo.dokodemo-kerja.com" class="btn-demo" id="btn-demo"><b>Coba Demo Online</b></a>
+		<a href="https://demo.dokodemo-kerja.com" class="btn-demo bold uppercase" id="btn-demo"><b>Coba Demo Online</b></a>
 	</section>
-	<section class="trial-top">
+	<section class="trial-top" id="form-trial">
 		<div class="container">
 			<div class="row">
 				<div class="ls-title col text-center gray fs-30 bold uppercase mt-4">
-					Coba Trial Gratis
+					Request Trial Gratis
 				</div>
 			</div>
 			<br />

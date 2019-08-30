@@ -73,9 +73,9 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 	<?php include 'header.php' ?>
 	<section class="intro-section text-center">
 		<h1 class="banner-text-white">Fill out the <a class="yellow-link" href="#form-trial">form</a> below to get a 30-Days Trial<br><br><b>OR</b><br><br>Check out the demo environment first</h1>
-		<a href="https://demo.dokodemo-kerja.com" class="btn-demo" id="btn-demo">Try Demo Here</a>
+		<a href="https://demo.dokodemo-kerja.com" class="btn-demo bold uppercase" id="btn-demo">Try Demo Here</a>
 	</section>
-	<section class="trial-top">
+	<section class="trial-top" id="form-trial">
 		<div class="container">
 			<div class="row">
 				<div class="ls-title col text-center gray fs-30 bold uppercase">
@@ -108,7 +108,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 						</div>
 					<?php }?>
 
-					<form class="dokodemo-form" id="form-trial" action="" method="POST">
+					<form class="dokodemo-form"  action="" method="POST">
 						<div class="form-group row align-items-center">
 							<label for="name" class="col-sm-3 col-form-label">Name <span style="color:red">*</span></label>
 							<div class="col-sm-9">
