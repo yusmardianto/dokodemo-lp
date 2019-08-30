@@ -162,11 +162,6 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 
 	<div class="container">
 		<div class="row">
-			<div class="col-md-10 offset-md-1">
-				<div class="btn-try-now">
-					<a href="https://demo.dokodemo-kerja.com" class="d-block text-center">Try Demo Now</a>
-				</div>
-			</div> 
 			<div class="col-md-5 offset-md-1">
 				<a href="pdf/manual-guide.pdf" target="_blank" aria-label="Manual Guide" class="dl-guide">
 					<img src="img/manual.png" class="d-block img-fluid m-auto" />
