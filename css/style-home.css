@@ -225,6 +225,10 @@ body {
   padding: 1em;
 }
 
+.slick-dots li{
+  margin: 0 10px;
+}
+
 .slick-dots li button::before {
   padding: 1em;
   background: white;

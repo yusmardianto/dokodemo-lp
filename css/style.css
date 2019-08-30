@@ -110,6 +110,45 @@ strong {
 .ls-title{letter-spacing:1.33px}
 
 .trial-top{background:url(../img/trial-bg.png) no-repeat;background-size:cover;padding:60px 0;background-position: center;}
+.intro-section{
+  padding: 4em 0 2em; 
+  background: url("../img/home/bg.jpg");
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+}
+.btn-demo,
+.btn-demo:hover {
+  color: white;
+  display: block;
+  line-height: 1;
+  width: 200px;
+  text-align: center;
+  font-weight: normal;
+  background: rgb(243, 177, 22);
+  background: linear-gradient(
+    180deg,
+    rgba(243, 177, 22, 1) 0%,
+    rgba(205, 148, 15, 1) 100%
+  );
+  padding: 1em 0 0.7em;
+  text-decoration: none;
+  border-radius: 5px;
+  letter-spacing: 1px;
+  margin: 2em auto;
+}
+.banner-text-white{
+  color: white;
+  text-align: center;
+  font-weight: bold;
+  font-size: 30px;
+}
+
+.yellow-link,
+.yellow-link:hover{
+  text-decoration: underline;
+  color: #ffcc13;
+}
 .g-recaptcha > div {margin:auto}
 .dokodemo-form .col-form-label{font-size:18px;font-weight: 600;}
 .dokodemo-form .form-control{font-size:14px;margin-top: 3px;border: 0;border-bottom: 1px solid #979797;border-radius: 0;background: transparent;padding: 10px 0 10px 0;height: auto;}
@@ -237,7 +276,26 @@ strong {
     resize: none;
 }
 .subtitle-contact{text-align:center;color:#4f5458;margin-bottom:40px}
+.btn-try-now{
+  padding: 1em 0;
+  background: #ffcc13;
+  margin-bottom: 1em;
+}
 
+.btn-try-now:hover{
+  background: #f7c513;
+}
+
+.btn-try-now a{
+  padding-top: 5px;
+  color: black;
+  font-weight: bold;
+  text-transform: uppercase;
+}
+
+.btn-try-now a:hover{
+  text-decoration: none;
+}
 
 @media (max-width: 767px){
 	.dl-guide {display:block;margin-bottom: 20px;}

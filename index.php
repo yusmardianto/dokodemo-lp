@@ -86,8 +86,8 @@
                             productive employee is?</strong></h1>
 
                 </div>
-                <div class="col-12">
-                    <p class="text-center fs-18">Track your employee's activity with Dokodemo-Kerja. A program that captures your screen every 10 minutes at random.</p>
+                <div class="col-12 mt-4">
+                    <p class="text-center fs-18">Track your employee's activity with Dokodemo-Kerja. <br>A program that captures your screen every 10 minutes at random.</p>
                 </div>
             </div>
             <div class="row justify-content-center">
@@ -212,8 +212,7 @@
     </section>
     <section class="dokodemo-desc">
         <h1 class="section-title">WHAT IS DOKODEMO KERJA?</h1>
-        <p>Your company can now implement remote work system for employees anywhere and anytime.
-            Employees are freed from the saturation and tight working atmosphere in the office.</p>
+        <p>Dokodemo-Kerja is a Human Resource tool that can be used to manage work hours and monitor your employees. Your company can now implement remote work system anytime and anywhere.</p>
         <a href="features.php" class="btn-more-features" id="btn-more-features">More Features</a>
     </section>
     <section class="youtube-wrapper container">

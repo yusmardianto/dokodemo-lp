@@ -91,10 +91,14 @@ $page = 'trial.php';
 	<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-WT4MCDL" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 	<!-- End Google Tag Manager (noscript) -->
 	<?php include 'header.php' ?>
+	<section class="intro-section text-center px-4">
+		<h1 class="banner-text-white">Isilah <a class="yellow-link" href="#form-trial">formulir</a> dibawah untuk mendapatkan 30-hari sesi percobaan<br><br><b>ATAU</b><br><br>Coba Sendiri Secara Online Sekarang!</h1>
+		<a href="https://demo.dokodemo-kerja.com" class="btn-demo" id="btn-demo"><b>Coba Demo Online</b></a>
+	</section>
 	<section class="trial-top">
 		<div class="container">
 			<div class="row">
-				<div class="ls-title col text-center gray fs-30 bold uppercase">
+				<div class="ls-title col text-center gray fs-30 bold uppercase mt-4">
 					Coba Trial Gratis
 				</div>
 			</div>

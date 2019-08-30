@@ -143,11 +143,10 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                 <div class="col-md-6 employee-benefits-item">
                     <img src="img/about/first_aid_kit.png" />
                     <div class="employee-benefits-desc pl-4">
-                        <h3>2. Medical Leave</h3>
+                        <h3>2. External factors</h3>
                         <p>
-
-                            Some employees might feel pressured to go to the office despite their medical illness in fear of losing their job. There have been many cases where people are unwilling to take &quot;sick leave&quot; and go to the office with high fever or a cold, disregard their, and their co-worker&apos;s health. Some people even fall into medical debts for losing their job due to a temporary disability.
-                            <br><strong>By using this program, they can work from home, and in a hospital as they or their family members get treated</strong></p>
+                        Disasters always come at the most unexpected time. Whether it's floods, thunderstorms, car accidents, flat tires, children falling ill, road maintenance, the list goes on. In situations like these, employees are forced to not go to the office or even be late for hours.
+                        <br><strong>With Dokodemo-Kerja, employees no longer need to worry about being stuck in traffic, being late, or transportation breaking down, because they can now work from home.</strong></p>
                     </div>
                 </div>
                 <div class="col-md-6 employee-benefits-item">

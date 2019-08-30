@@ -82,7 +82,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                 <div class="col-md-3">
                     <div class="advantages-item">
                         <img src="/img/home/done.png" class="pr-2" />
-                        <div>Mudah Dipasang<br /><span style="font-size: 20px;display: block;"></span></div>
+                        <div>Mudah Dipasang<br /><span style="font-size: 20px;display: block;">Anda bisa mulai sekarang</span></div>
                     </div>
                 </div>
             </div>
@@ -185,7 +185,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
     </section>
     <section class="dokodemo-desc">
         <h1 class="section-title">APA ITU DOKODEMO KERJA?</h1>
-        <p>Sekarang perusahaan Anda dapat menerapkan sistem kerja remote untuk karyawan di mana pun dan kapan pun. Mereka pun terbebaskan dari kejenuhan dan ketatnya suasana kerja dalam kantor.</p>
+        <p>Dokodemo-Kerja adalah alat Sumber Daya Manusia yang dapat digunakan untuk mengelola jam kerja dan memantau karyawan Anda. Perusahaan Anda sekarang dapat menerapkan sistem kerja jarak jauh kapan saja dan di mana saja.</p>
         <a href="features.php" class="btn-more-features" id="btn-more-features">Lihat Fitur</a>
     </section>
     <section class="youtube-wrapper container">

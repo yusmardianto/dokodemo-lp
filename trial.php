@@ -71,6 +71,10 @@
 height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 <!-- End Google Tag Manager (noscript) -->
 	<?php include 'header.php' ?>
+	<section class="intro-section text-center">
+		<h1 class="banner-text-white">Fill out the <a class="yellow-link" href="#form-trial">form</a> below to get a 30-Days Trial<br><br><b>OR</b><br><br>Check out the demo environment first</h1>
+		<a href="https://demo.dokodemo-kerja.com" class="btn-demo" id="btn-demo">Try Demo Here</a>
+	</section>
 	<section class="trial-top">
 		<div class="container">
 			<div class="row">
@@ -104,7 +108,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 						</div>
 					<?php }?>
 
-					<form class="dokodemo-form" action="" method="POST">
+					<form class="dokodemo-form" id="form-trial" action="" method="POST">
 						<div class="form-group row align-items-center">
 							<label for="name" class="col-sm-3 col-form-label">Name <span style="color:red">*</span></label>
 							<div class="col-sm-9">
@@ -158,6 +162,11 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 
 	<div class="container">
 		<div class="row">
+			<div class="col-md-10 offset-md-1">
+				<div class="btn-try-now">
+					<a href="https://demo.dokodemo-kerja.com" class="d-block text-center">Try Demo Now</a>
+				</div>
+			</div> 
 			<div class="col-md-5 offset-md-1">
 				<a href="pdf/manual-guide.pdf" target="_blank" aria-label="Manual Guide" class="dl-guide">
 					<img src="img/manual.png" class="d-block img-fluid m-auto" />

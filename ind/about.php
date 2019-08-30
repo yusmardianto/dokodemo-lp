@@ -142,11 +142,11 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                 <div class="col-md-6 employee-benefits-item">
                     <img src="/img/about/first_aid_kit.png" />
                     <div class="employee-benefits-desc pl-4">
-                        <h3>2. Medical Leave</h3>
+                        <h3>2. Faktor External</h3>
                         <p>
-                            Beberapa karyawan mungkin merasa tertekan untuk pergi ke kantor meskipun mereka sakit karena takut kehilangan pekerjaan. Ada banyak kasus di mana orang tidak mau mengambil "cuti sakit" dan pergi ke kantor dengan demam tinggi atau pilek, mengabaikan kesehatan mereka, dan rekan kerja mereka. Beberapa orang bahkan jatuh ke dalam hutang karena kehilangan pekerjaan mereka yang diakibatkan oleh cacat sementara.
-                            <br><strong>
-                                Dengan menggunakan program ini, mereka juga dapat bekerja dari rumah, dan di rumah sakit ketika mereka atau anggota keluarga mereka dirawat.</strong></p>
+                        Musibah selalu datang secara tiba-tiba. Baik itu anak sakit, banjir, hujan badai, kecelakaan mobil, ban bocor, perbaikan jalan, dlsb. Pada situasi seperti ini, karyawan terpaksa tidak ke kantor atau bahkan terlambat selama berjam-jam.
+                        <br><strong>
+                        Dengan Dokodemo-Kerja, karyawan tidak perlu lagi khawatir terjebak kemacetan, terlambat, ataupun transportasi mogok, karena sudah bisa bekerja dari rumah.</strong></p>
                     </div>
                 </div>
                 <div class="col-md-6 employee-benefits-item">
