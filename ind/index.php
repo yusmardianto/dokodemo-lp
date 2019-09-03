@@ -86,7 +86,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                     </div>
                 </div>
             </div>
-            <p class="fs-27 text-center">Coba <strong> 30 hari Gratis</strong></p>
+            <p class="fs-27 text-center">Coba <strong> Demo</strong></p>
             <a href="trial.php" class="btn-sign-up" id="btn-trial">Daftar Sekarang</a>
             <small class="text-center d-block py-4">*Tidak perlu Kartu Kredit</small>
             <div class="bottom-arrow-wrapper">

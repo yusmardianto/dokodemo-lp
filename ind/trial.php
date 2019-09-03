@@ -3,7 +3,7 @@ ini_set('display_errors', 'On');
 error_reporting(E_ALL);
 
 // Load Composer's autoloader
-require '../vendor/autoload.php';
+// require '../vendor/autoload.php';
 
 // Load config
 $config = include('../config/app.php');
@@ -95,7 +95,7 @@ $page = 'trial.php';
 		<h1 class="banner-text-white">Isilah <a class="yellow-link" href="#form-trial">formulir</a> dibawah untuk mendapatkan 30-hari sesi percobaan<br><br><b>ATAU</b><br><br>Coba Sendiri Secara Online Sekarang!</h1>
 		<a href="https://demo.dokodemo-kerja.com" class="btn-demo bold uppercase" id="btn-demo"><b>Coba Demo Online</b></a>
 	</section>
-	<section class="trial-top" id="form-trial">
+	<!-- <section class="trial-top" id="form-trial">
 		<div class="container">
 			<div class="row">
 				<div class="ls-title col text-center gray fs-30 bold uppercase mt-4">
@@ -154,12 +154,12 @@ $page = 'trial.php';
 								<input type="email" class="form-control" id="inputEmail3" name="email" value="<?= !empty($errors) ? $_POST['email'] : '' ?>" placeholder="Email" required>
 							</div>
 						</div>
-						<!-- <div class="form-group row align-items-center">
+						<div class="form-group row align-items-center">
 							<label for="domain" class="col-sm-3 col-form-label">Domain</label>
 							<div class="col-sm-9">
 								<input type="text" class="form-control" id="domain" name="domain" value="<?= !empty($errors) ? $_POST['domain'] : '' ?>" placeholder="Domain">
 							</div>
-						</div> -->
+						</div>
 						<div class="form-group row mt-top">
 							<div class="col-sm-12 text-center">
 								<script src="https://www.google.com/recaptcha/api.js" async defer></script>
@@ -179,10 +179,10 @@ $page = 'trial.php';
 			<br />
 			<!-- <div class="semibold fs-18 subtitle-contact" style="margin-bottom:0;">We will set up your trial environment within 3 working days and come back to you with the login info</div> -->
 		</div>
-	</section>
+	</section> -->
 
 	<div class="container">
-		<div class="row">
+		<div class="row mt-5">
 			<div class="col-md-5 offset-md-1">
 				<a href="/pdf/manual-guide.pdf" id="manual-guide" target="_blank" aria-label="Manual Guide" class="dl-guide">
 					<img src="/img/manual.png" class="d-block img-fluid m-auto" />

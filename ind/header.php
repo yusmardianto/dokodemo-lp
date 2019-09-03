@@ -46,7 +46,7 @@
                 <p class="text-center txt-lang">Language</p>
                 <div class="switch-language">
                     <a href="/<?php echo $page;?>"><label for="radio-one">ENG</label></a>
-                    <a href="#"><label class="active" for="radio-two">IND</label></a>
+                    <a href="dashboard/"><label class="active" for="radio-two">IND</label></a>
                 </div>
             </div>
         </div>

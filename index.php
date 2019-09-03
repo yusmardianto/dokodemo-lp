@@ -110,7 +110,8 @@
                     </div>
                 </div>
             </div>
-            <p class="fs-27 text-center">Try out the <strong>30 days Free Trial</strong></p>
+            <!-- <strong class="fs-27 text-center">Try out the <strong>30 days Free Trial</strong></p> -->
+            <p class="fs-27 text-center">Try the <strong>Demo</strong></p>
             <a href="trial.php" class="btn-sign-up" id="btn-sign-up">Sign Up Now</a>
             <small class="text-center d-block py-4">*No credit card required</small>
             <div class="bottom-arrow-wrapper">

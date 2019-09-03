@@ -96,7 +96,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                     <ul class="plan-benefits">
                         <li>Pelacak Waktu</li>
                         <li>Screenshot Monitoring</li>
-                        <li>1 screenshot per menit</li>
+                        <li>1 Screenshot per 3 menit</li>
                         <li>Screenshots disimpan selama 6 bulan</li>
                         <li><strong>Untuk 10 orang pengguna</strong></li>
                     </ul>
