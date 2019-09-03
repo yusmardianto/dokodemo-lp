@@ -29,6 +29,7 @@
 	<link href="fonts/font-awesome/css/font-awesome.min.css" rel="stylesheet">
 	<link rel="stylesheet" href="css/header-footer.css" />
 	<link rel="stylesheet" href="css/style.css" />
+	<link rel="stylesheet" href="css/style-trial.css" />
 	<link rel="shortcut icon" type="image/x-icon" href="favicon.ico">
 	<title>Dokodemo-Kerja | Trial</title>
 	<!-- Google Tag Manager -->
@@ -71,9 +72,120 @@
 height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 <!-- End Google Tag Manager (noscript) -->
 	<?php include 'header.php' ?>
-	<section class="intro-section text-center">
-		<h1 class="banner-text-white">Fill out the <a class="yellow-link" href="#form-trial">form</a> below to get a 30-Days Trial<br><br><b>OR</b><br><br>Check out the demo environment first</h1>
-		<a href="https://demo.dokodemo-kerja.com" class="btn-demo bold uppercase" id="btn-demo">Try Demo Here</a>
+	<section class="intro-section text-center px-4">
+		<h1 class="banner-text-white">Try the Free Demo First</h1>
+		<a href="https://demo.dokodemo-kerja.com" class="btn btn-trial-contact bold uppercase" id="btn-demo">Click Here</a>
+		<a>
+			<p class="trial-header-content">Download the Full Documentation</p>
+		</a>
+	</section>
+	<section id="trial-content">
+		<div class="container">
+			<div class="row mt-5">
+				<div class="col-md-6">
+					<h3 class="trial-title">How To Use Dokodemo-Kerja</h3>
+					<iframe src="http://www.youtube.com/embed/W7qWa52k-nE"
+   				width="520" height="280" frameborder="0" allowfullscreen></iframe>
+				</div>
+				<div class="col-md-6 download-container">
+					<h3 class="download-title">Download Links</h3>
+					<a href="https://demo.dokodemo-kerja.com" class="btn btn-download bold uppercase" id="btn-demo"><i class="fa fa-download icon-download"></i>Windows</a>
+					<a href="https://demo.dokodemo-kerja.com" class="btn btn-download bold uppercase" id="btn-demo"><i class="fa fa-download icon-download"></i>IOS</a>
+					<a href="https://demo.dokodemo-kerja.com" class="btn btn-download bold uppercase" id="btn-demo"><i class="fa fa-download icon-download"></i>Linux</a>
+					<a href="pdf/install-guide.pdf" target="_blank" aria-label="Install Guide" class="dl-guide">
+						<img src="img/install.png" class="d-block img-fluid m-auto" />
+					</a>
+				</div>
+			</div>
+			<div class="row mt-5">
+					<div class="col-md-12">
+						<nav>
+							<div class="nav nav-tabs" id="nav-tab" role="tablist">
+								<a class="nav-item nav-link active trial-tab" id="nav-home-tab" data-toggle="tab" href="#nav-home" role="tab" aria-controls="nav-home" aria-selected="true">
+									<span class="trial-tabfont">Admin</span>
+								</a>
+								<a class="nav-item nav-link trial-tab" id="nav-profile-tab" data-toggle="tab" href="#nav-profile" role="tab" aria-controls="nav-profile" aria-selected="false">
+									<span class="trial-tabfont">Staff</span>
+								</a>
+							</div>
+						</nav>
+						<div class="tab-content" id="nav-tabContent">
+							<div class="tab-pane fade show active" id="nav-home" role="tabpanel" aria-labelledby="nav-home-tab">
+								<div class="trial-tab-container mt-5">
+									<h2>1. Access Demo Environment</h2>
+									<div class="pl-4 mb-5">
+										<p class="trial-tab-content">Click this link to access the Demo page</p>
+										<p class="trial-tab-content">Click "Home"</p>
+										<img src="/img/trial/admin-1.png" />
+										<p class="trial-tab-content">Login with provided email and password</p>
+										<img src="/img/trial/admin-2.png" />
+									</div>
+									<h2>2. Add New Staff</h2>
+									<div class="pl-4">
+										<p class="trial-tab-content">Click the "Staff" button</p>
+										<img src="/img/trial/admin-3.png" class="mb-3"/>
+										<p class="trial-tab-content">Click "Add Staff"</p>
+										<img src="/img/trial/admin-4.png" class="mb-3"/>
+										<p class="trial-tab-content">Fill in the Staff information</p>
+										<img src="/img/trial/admin-5.png" class="mb-3"/>
+										<p class="trial-tab-content">The staff will be drafted in the demo environment and an email will be sent to the staff's email.</p>
+										<img src="/img/trial/admin-6.png" class="mb-5" />
+										<p class="trial-tab-content q-title">
+											If you have more questions, get in touch with us or download the full documentation
+										</p>
+										<a href="https://demo.dokodemo-kerja.com" class="btn btn-trial-contact bold uppercase" id="btn-demo">Contact Us</a>
+										<p class="trial-tab-content q-title" style="color:blue; text-decoration:underline">
+											Download the documentation
+										</p>
+									</div>
+								</div>
+							</div>
+							<div class="tab-pane fade" id="nav-profile" role="tabpanel" aria-labelledby="nav-profile-tab">
+								<div class="trial-tab-container mt-5">
+									<h2>1. Access Demo Environment</h2>
+									<div class="pl-4 mb-5">
+										<p class="trial-tab-content">Extract folder demo dan cari program Dokodemo-Kerja</p>
+										<img src="/img/trial/staff-1.png" class="mb-3"/>
+										<p class="trial-tab-content">Run that application</p>
+										<img src="/img/trial/staff-2.png" class="mb-3"/>
+									</div>
+									<h2>2. Using Dokodemo-Kerja</h2>
+									<div class="pl-4">
+										<p class="trial-tab-content">Login dengan credential yang diterima di email, atau login dengan:</p>
+										<p class="trial-tab-content bold">ID: sales@dokodemo-kerja.com </p>
+										<p class="trial-tab-content bold">Password: Dokodemo-123</p>
+										<img src="/img/trial/staff-3.png" class="mb-3"/>
+										<p class="trial-tab-content">Pilih Project dan tekan tombol Play</p>
+										<img src="/img/trial/staff-4.png" class="mb-3"/>
+										<p class="trial-tab-content">Untuk menghentikan project, tekan tombol pause</p>
+										<img src="/img/trial/staff-5.png" class="mb-3"/>
+									</div>
+									<h2>3. Using Homepage</h2>
+									<div class="pl-4">
+										<p class="trial-tab-content">The website homepage can be accessed by clicking the "Website" button</p>
+										<img src="/img/trial/staff-6.png" class="mb-3"/>
+										<p class="trial-tab-content">You can view the Screen record and how long you've worked. The icon inside the green bar is to manually edit your work hour.</p>
+										<img src="/img/trial/staff-7.png" class="mb-3"/>
+										<p class="trial-tab-content q-title">
+											If you have more questions, get in touch with us or download the full documentation
+										</p>
+										<div class="row">
+											<div class="col-md-6">
+												<a href="https://demo.dokodemo-kerja.com" class="btn btn-trial-contact bold uppercase" id="btn-demo">Contact Us</a>
+											</div>
+											<div class="col-md-6">
+												<a href="pdf/install-guide.pdf" target="_blank" aria-label="Install Guide" class="dl-guide">
+													<img src="img/install.png" class="d-block m-auto img-thumbnail img-trial-download" />
+												</a>
+											</div>
+										</div>
+									</div>
+								</div>
+							</div>
+						</div>
+					</div>
+			</div>
+		</div>
 	</section>
 	<!-- <section class="trial-top" id="form-trial">
 		<div class="container">
@@ -160,7 +272,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 		</div>
 	</section> -->
 
-	<div class="container">
+	<!-- <div class="container">
 		<div class="row mt-5">
 			<div class="col-md-5 offset-md-1">
 				<a href="pdf/manual-guide.pdf" target="_blank" aria-label="Manual Guide" class="dl-guide">
@@ -288,7 +400,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 				</div>
 			</div>
 		</div>
-	</div>
+	</div> -->
 	<br /><br /><br />
 	<?php include 'footer.php' ?>
 	<script src="js/jquery-3.4.1.min.js"></script>
