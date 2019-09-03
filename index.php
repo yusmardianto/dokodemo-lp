@@ -94,7 +94,7 @@
                 <div class="col-md-3">
                     <div class="advantages-item">
                         <img src="img/home/done.png" class="pr-2" />
-                        <div>Cost Effective <br /><span style="font-size: 20px;display: block;">1 juta ~ / Month</span></div>
+                        <div>Cost Effective <br /><span style="font-size: 22px;display: block;">1 juta ~ / Month</span></div>
                     </div>
                 </div>
                 <div class="col-md-5">
@@ -106,13 +106,13 @@
                 <div class="col-md-3">
                     <div class="advantages-item">
                         <img src="img/home/done.png" class="pr-2" />
-                        <div>Easy Setup<br /><span style="font-size: 20px;display: block;">You can start today</span></div>
+                        <div>Easy Setup<br /><span style="font-size: 22px;display: block;">You can start today</span></div>
                     </div>
                 </div>
             </div>
             <!-- <strong class="fs-27 text-center">Try out the <strong>30 days Free Trial</strong></p> -->
-            <p class="fs-27 text-center">Try the <strong>Demo</strong></p>
-            <a href="trial.php" class="btn-sign-up" id="btn-sign-up">Sign Up Now</a>
+            <p class="fs-27 text-center">Try the <strong>Demo</strong> Now</p>
+            <a href="trial.php" class="btn-sign-up" id="btn-sign-up">Click Here</a>
             <small class="text-center d-block py-4">*No credit card required</small>
             <div class="bottom-arrow-wrapper">
                 <a href="#benefits" class="smooth"><img src="img/home/down.png" /></a>

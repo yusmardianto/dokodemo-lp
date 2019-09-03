@@ -1,32 +1,32 @@
 @font-face {
-  font-family: "Khula";
-  src: url("../fonts/Khula-Regular.ttf");
+  font-family: 'Khula';
+  src: url('../fonts/Khula-Regular.ttf');
 }
 
 @font-face {
-  font-family: "Khula";
-  src: url("../fonts/Khula-Bold.ttf");
+  font-family: 'Khula';
+  src: url('../fonts/Khula-Bold.ttf');
   font-weight: bold;
 }
 
 @font-face {
-  font-family: "Khula";
-  src: url("../fonts/Khula-Light.ttf");
+  font-family: 'Khula';
+  src: url('../fonts/Khula-Light.ttf');
   font-weight: 200;
 }
 
 @font-face {
-  font-family: "Khula";
-  src: url("../fonts/Khula-SemiBold.ttf");
+  font-family: 'Khula';
+  src: url('../fonts/Khula-SemiBold.ttf');
   font-weight: 600;
 }
 
 body {
-  font-family: "Khula";
+  font-family: 'Khula';
 }
 
 .top-section {
-  background: url("../img/home/bg.jpg");
+  background: url('../img/home/bg.jpg');
   color: white;
   /* padding-bottom: 3em; */
 }
@@ -44,7 +44,7 @@ body {
 .advantages-item {
   display: flex;
   align-items: flex-start;
-  font-size: 27px;
+  font-size: 29px;
   font-weight: bold;
   padding: 0.75em 3em 1em 0;
   justify-content: center;
@@ -90,7 +90,7 @@ body {
 .section-title {
   text-align: center;
   font-weight: 600;
-  font-size: 30px;
+  font-size: 32px;
   letter-spacing: 0.2px;
   color: #505458;
 }
@@ -105,7 +105,7 @@ body {
 .features p {
   text-align: center;
   color: #505458;
-  font-size: 16px;
+  font-size: 18px;
   font-weight: normal;
   padding: 2em 2em;
 }
@@ -156,7 +156,7 @@ body {
 
 .benefit-title {
   color: #505458;
-  font-size: 20px;
+  font-size: 22px;
   letter-spacing: 0.1px;
   font-weight: 600;
   margin-bottom: 10px;
@@ -169,8 +169,8 @@ body {
 }
 
 .benefit-desc {
-  font-size: 16px;
-  line-height: 23px;
+  font-size: 20px;
+  line-height: 35px;
   color: #505458;
   padding-top: 15px;
 }
@@ -197,7 +197,7 @@ body {
 
 .dokodemo-desc p {
   text-align: center;
-  font-size: 16px;
+  font-size: 18px;
   color: #505458;
   max-width: 600px;
   line-height: 23px;
@@ -207,7 +207,7 @@ body {
 .user-testimony {
   margin-top: 5em;
   padding: 2em 0;
-  background: url("../img/home/bg-testimoni.jpg");
+  background: url('../img/home/bg-testimoni.jpg');
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
@@ -225,7 +225,7 @@ body {
   padding: 1em;
 }
 
-.slick-dots li{
+.slick-dots li {
   margin: 0 10px;
 }
 
@@ -233,19 +233,19 @@ body {
   padding: 1em;
   background: white;
   border: 5px solid white;
-  content: "";
+  content: '';
   opacity: 1 !important;
   border-radius: 50px;
-  -webkit-box-shadow: 0px 0px 3px -1px rgba(0,0,0,0.75);
--moz-box-shadow: 0px 0px 3px -1px rgba(0,0,0,0.75);
-box-shadow: 0px 0px 3px -1px rgba(0,0,0,0.75);
+  -webkit-box-shadow: 0px 0px 3px -1px rgba(0, 0, 0, 0.75);
+  -moz-box-shadow: 0px 0px 3px -1px rgba(0, 0, 0, 0.75);
+  box-shadow: 0px 0px 3px -1px rgba(0, 0, 0, 0.75);
 }
 
 .slick-dots li.slick-active button::before {
   padding: 1em;
   background: #1885d9;
   border: 5px solid white;
-  content: "";
+  content: '';
   opacity: 1 !important;
   border-radius: 50px;
 }
@@ -275,7 +275,7 @@ box-shadow: 0px 0px 3px -1px rgba(0,0,0,0.75);
     padding-left: 0;
   }
 
-  .testimony-text{
+  .testimony-text {
     min-height: 250px !important;
   }
 }
@@ -287,10 +287,17 @@ box-shadow: 0px 0px 3px -1px rgba(0,0,0,0.75);
 }
 
 @media (max-width: 576px) {
-  .features{padding: 0 0 15px 0;}
-  .feature-img-wrapper{margin-top: 0;}
-  .features p{padding: 10px;margin-bottom: 0;}
-  .banner-header-text{
-    margin-top:20px
+  .features {
+    padding: 0 0 15px 0;
+  }
+  .feature-img-wrapper {
+    margin-top: 0;
+  }
+  .features p {
+    padding: 10px;
+    margin-bottom: 0;
+  }
+  .banner-header-text {
+    margin-top: 20px;
   }
 }

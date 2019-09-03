@@ -1,20 +1,20 @@
 .fs-15 {
-  font-size: 15px;
+  font-size: 17px;
 }
 
 .fs-18 {
-  font-size: 18px;
+  font-size: 20px;
 }
 
-.fs-23{
-  font-size: 23px;
+.fs-23 {
+  font-size: 25px;
 }
 
 .fs-27 {
-  font-size: 27px;
+  font-size: 29px;
 }
 
-.fw-semibold{
+.fw-semibold {
   font-weight: 600;
 }
 
@@ -35,7 +35,7 @@
 .navbar-brand,
 .navbar-expand-lg .navbar-nav .nav-link {
   padding-right: 40px;
-  font-size: 16px;
+  font-size: 18px;
   color: #000;
 }
 
@@ -47,7 +47,6 @@
   text-decoration: none;
 }
 
-
 .switch-language input {
   position: absolute !important;
   clip: rect(0, 0, 0, 0);
@@ -58,15 +57,14 @@
   display: none;
 }
 
-
 .switch-language label.active {
-	background-color: #f3b116;
-    color: white;
+  background-color: #f3b116;
+  color: white;
 }
 .switch-language label {
   background-color: #e4e4e4;
   color: rgba(0, 0, 0, 0.6);
-  font-size: 14px;
+  font-size: 16px;
   line-height: 1;
   text-align: center;
   padding: 8px 16px;
@@ -77,14 +75,13 @@
   transition: all 0.1s ease-in-out;
 }
 
-.switch-language a:first-child label{
+.switch-language a:first-child label {
   border-radius: 5px 0 0 5px;
 }
 
-.switch-language a:nth-child(2) label{
+.switch-language a:nth-child(2) label {
   border-radius: 0 5px 5px 0;
 }
-
 
 .switch-language label:hover {
   cursor: pointer;
@@ -95,10 +92,13 @@
   color: white;
   box-shadow: none;
 }
-.txt-lang{font-size:15px;display:none}
+.txt-lang {
+  font-size: 17px;
+  display: none;
+}
 
 footer {
-  background: url("../img/bg-footer.jpg");
+  background: url('../img/bg-footer.jpg');
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
@@ -112,41 +112,50 @@ footer {
   justify-content: space-between;
 }
 
-.footer-menu-list li a ,
+.footer-menu-list li a,
 .footer-menu-list li a:hover {
   color: white;
   text-decoration: none;
 }
 
-.footer-contact{
+.footer-contact {
   display: flex;
   justify-content: space-between;
 }
 
-.footer-contact-item a ,
+.footer-contact-item a,
 .footer-contact-item a:hover {
-  font-size: 14px;
+  font-size: 16px;
   color: white;
   text-decoration: none;
 }
 
-.footer-contact-item a span{
+.footer-contact-item a span {
   padding-left: 10px;
 }
-.logique-logo{width: 175px;float: right;}
-.footer-contact-item img{width:20px}
+.logique-logo {
+  width: 175px;
+  float: right;
+}
+.footer-contact-item img {
+  width: 20px;
+}
 
 @media (max-width: 992px) {
-  .footer-contact-item img{width:unset}
-  .logique-logo{float: none;}
+  .footer-contact-item img {
+    width: unset;
+  }
+  .logique-logo {
+    float: none;
+  }
   .navbar {
     max-height: unset;
-	border-bottom: 1px solid #fdf0d1;
+    border-bottom: 1px solid #fdf0d1;
     padding-top: 10px;
     padding-bottom: 10px;
   }
-  .navbar-nav{
-	margin-top: 10px;
+  .navbar-nav {
+    margin-top: 10px;
   }
   footer img {
     display: block;
@@ -157,19 +166,19 @@ footer {
     text-align: center;
   }
 
-  .footer-contact{
+  .footer-contact {
     justify-content: center;
   }
 
-  .footer-contact-item{
-    padding: .5em 1em 2em;
+  .footer-contact-item {
+    padding: 0.5em 1em 2em;
   }
-  .footer-contact-item a span{
+  .footer-contact-item a span {
     display: none;
   }
 
   .footer-menu-list li {
-    padding: .5em 0;
+    padding: 0.5em 0;
   }
 }
 
@@ -180,5 +189,5 @@ footer {
 }
 
 .not-home .navbar-dark .navbar-nav .nav-link {
-    color: #000
+  color: #000;
 }

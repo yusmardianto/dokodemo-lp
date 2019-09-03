@@ -87,7 +87,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                     <div class="hr-managers">
                         <h1>Untuk Siapa dan Bagaimana?</h1>
                         <h2>HR and Managers</h2>
-                        <p class="fw-semibold" style="font-size: 18px;">Dokodemo-Kerja akan memberi Anda kendali penuh atas aktivitas karyawan Anda. Anda tidak perlu tahu di mana mereka berada, tetapi Anda tahu apa yang mereka lakukan.</p>
+                        <p class="fw-semibold" style="font-size: 20px;">Dokodemo-Kerja akan memberi Anda kendali penuh atas aktivitas karyawan Anda. Anda tidak perlu tahu di mana mereka berada, tetapi Anda tahu apa yang mereka lakukan.</p>
                     </div>
                 </div>
             </div>

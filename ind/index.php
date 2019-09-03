@@ -70,7 +70,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                 <div class="col-md-3">
                     <div class="advantages-item">
                         <img src="/img/home/done.png" class="pr-2" />
-                        <div>Harga Murah <br /><span style="font-size: 20px;display: block;">1 juta ~ / Bulan</span></div>
+                        <div>Harga Murah <br /><span style="font-size: 22px;display: block;">1 juta ~ / Bulan</span></div>
                     </div>
                 </div>
                 <div class="col-md-5">
@@ -82,12 +82,12 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                 <div class="col-md-3">
                     <div class="advantages-item">
                         <img src="/img/home/done.png" class="pr-2" />
-                        <div>Mudah Dipasang<br /><span style="font-size: 20px;display: block;">Anda bisa mulai sekarang</span></div>
+                        <div>Mudah Dipasang<br /><span style="font-size: 22px;display: block;">Anda bisa mulai sekarang</span></div>
                     </div>
                 </div>
             </div>
-            <p class="fs-27 text-center">Coba <strong> Demo</strong></p>
-            <a href="trial.php" class="btn-sign-up" id="btn-trial">Daftar Sekarang</a>
+            <p class="fs-27 text-center">Coba <strong>Demo</strong> Sekarang</p>
+            <a href="trial.php" class="btn-sign-up" id="btn-trial">Klik Disini</a>
             <small class="text-center d-block py-4">*Tidak perlu Kartu Kredit</small>
             <div class="bottom-arrow-wrapper">
                 <a href="#benefits" class="smooth"><img src="/img/home/down.png" /></a>

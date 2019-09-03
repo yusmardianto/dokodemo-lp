@@ -1,33 +1,33 @@
 @font-face {
-  font-family: "Khula";
-  src: url("../fonts/Khula-Regular.ttf");
+  font-family: 'Khula';
+  src: url('../fonts/Khula-Regular.ttf');
 }
 
 @font-face {
-  font-family: "Khula";
-  src: url("../fonts/Khula-Bold.ttf");
+  font-family: 'Khula';
+  src: url('../fonts/Khula-Bold.ttf');
   font-weight: bold;
 }
 
 @font-face {
-  font-family: "Khula";
-  src: url("../fonts/Khula-Light.ttf");
+  font-family: 'Khula';
+  src: url('../fonts/Khula-Light.ttf');
   font-weight: 200;
 }
 
 @font-face {
-  font-family: "Khula";
-  src: url("../fonts/Khula-SemiBold.ttf");
+  font-family: 'Khula';
+  src: url('../fonts/Khula-SemiBold.ttf');
   font-weight: 600;
 }
 
 @font-face {
-  font-family: "Font Awesome";
-  src: url("../css/webfonts/fa-solid-900.ttf");
+  font-family: 'Font Awesome';
+  src: url('../css/webfonts/fa-solid-900.ttf');
 }
 
 body {
-  font-family: "Khula";
+  font-family: 'Khula';
   color: #505458;
 }
 
@@ -41,7 +41,7 @@ body {
 }
 
 .features-number {
-  font-size: 83px;
+  font-size: 85px;
   position: absolute;
   font-weight: 600;
   color: #fdf0d1;
@@ -51,7 +51,7 @@ body {
 }
 
 .features-title {
-  font-size: 18px;
+  font-size: 20px;
   font-weight: 600;
   line-height: 24px;
   letter-spacing: 0.5px;
@@ -59,21 +59,21 @@ body {
 }
 
 .features-desc {
-  font-size: 15px;
+  font-size: 17px;
   line-height: 24px;
   letter-spacing: 0.5px;
   position: relative;
 }
 
 .case-studies {
-  background: url("../img/features/bg.jpg");
+  background: url('../img/features/bg.jpg');
   padding: 2em 0;
   margin-top: 2.5em;
 }
 
 .case-studies h2 {
   color: white;
-  font-size: 19px;
+  font-size: 21px;
   text-align: center;
   font-weight: 600;
   letter-spacing: 0.3px;
@@ -123,18 +123,18 @@ body {
 }
 
 .slick-next::before {
-  font-family: "Font Awesome";
-  content: "\f105";
+  font-family: 'Font Awesome';
+  content: '\f105';
   color: #ffca13;
-  font-size: 80px;
+  font-size: 82px;
   line-height: 0;
 }
 
 .slick-prev::before {
-  font-family: "Font Awesome";
-  content: "\f104";
+  font-family: 'Font Awesome';
+  content: '\f104';
   color: #ffca13;
-  font-size: 80px;
+  font-size: 82px;
   line-height: 0;
 }
 
@@ -147,7 +147,7 @@ body {
   padding: 2em 0;
 }
 .program-sample {
-  background: url("../img/features/bg-roles.jpg") no-repeat;
+  background: url('../img/features/bg-roles.jpg') no-repeat;
   background-position: center;
   background-size: cover;
 }
@@ -167,7 +167,7 @@ body {
 }
 
 .employee-feature-list p {
-  font-size: 17px;
+  font-size: 19px;
 }
 
 .employee-feature-list ul {
@@ -178,7 +178,7 @@ body {
 
 .employee-feature-list ul li {
   margin-top: 10px;
-  background: url("../img/features/yellow-hexa.png");
+  background: url('../img/features/yellow-hexa.png');
   background-repeat: no-repeat;
   padding-left: 30px;
 }
@@ -211,14 +211,14 @@ body {
 
 .manager-activity-list li {
   margin-top: 5px;
-  background: url("../img/features/yellow-hexa.png");
+  background: url('../img/features/yellow-hexa.png');
   background-repeat: no-repeat;
   padding-left: 30px;
 }
 
 .user-testimony {
   padding: 2em 0;
-  background: url("../img/home/bg-testimoni.jpg");
+  background: url('../img/home/bg-testimoni.jpg');
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
@@ -240,7 +240,7 @@ body {
   padding: 1em;
   background: white;
   border: 5px solid white;
-  content: "";
+  content: '';
   opacity: 1 !important;
   border-radius: 50px;
   -webkit-box-shadow: 0px 0px 3px -1px rgba(0, 0, 0, 0.75);
@@ -252,7 +252,7 @@ body {
   padding: 1em;
   background: #1885d9;
   border: 5px solid white;
-  content: "";
+  content: '';
   opacity: 1 !important;
   border-radius: 50px;
 }
@@ -260,7 +260,7 @@ body {
 .section-title {
   text-align: center;
   font-weight: 600;
-  font-size: 30px;
+  font-size: 32px;
   letter-spacing: 0.2px;
   color: #505458;
 }
@@ -271,15 +271,19 @@ body {
   transition: all 0.1s linear;
 }
 
-.dl-guide:hover img{
+.dl-guide:hover img {
   top: -4px;
   box-shadow: 0 0 10px -2px #000;
 }
 
-
 @media (max-width: 576px) {
-  .slick-next {right: 25px;top: 50%;}
-  .slick-prev {left: 5px;}
+  .slick-next {
+    right: 25px;
+    top: 50%;
+  }
+  .slick-prev {
+    left: 5px;
+  }
   .features-section {
     margin-top: 20px;
   }

@@ -76,7 +76,7 @@
                     background-color: #f6f6f6;
                     font-family: sans-serif;
                     -webkit-font-smoothing: antialiased;
-                    font-size: 14px;
+                    font-size: 16px;
                     line-height: 1.4;
                     margin: 0;
                     padding: 0;
@@ -90,7 +90,7 @@
                     width: 100%; }
                     table td {
                       font-family: sans-serif;
-                      font-size: 14px;
+                      font-size: 16px;
                       vertical-align: top; 
                   }
                   /* -------------------------------------
@@ -144,7 +144,7 @@
                     .footer span,
                     .footer a {
                       color: #999999;
-                      font-size: 12px;
+                      font-size: 14px;
                       text-align: center; 
                   }
                   /* -------------------------------------
@@ -162,7 +162,7 @@
                     margin-bottom: 30px; 
                   }
                   h1 {
-                    font-size: 35px;
+                    font-size: 37px;
                     font-weight: 300;
                     text-align: center;
                     text-transform: capitalize; 
@@ -171,7 +171,7 @@
                   ul,
                   ol {
                     font-family: sans-serif;
-                    font-size: 14px;
+                    font-size: 16px;
                     font-weight: normal;
                     margin: 0;
                     margin-bottom: 15px; 
@@ -210,7 +210,7 @@
                       color: #3498db;
                       cursor: pointer;
                       display: inline-block;
-                      font-size: 14px;
+                      font-size: 16px;
                       font-weight: bold;
                       margin: 0;
                       padding: 12px 25px;
@@ -277,7 +277,7 @@
                   ------------------------------------- */
                   @media only screen and (max-width: 620px) {
                     table[class=body] h1 {
-                      font-size: 28px !important;
+                      font-size: 30px !important;
                       margin-bottom: 10px !important; 
                     }
                     table[class=body] p,
@@ -286,7 +286,7 @@
                     table[class=body] td,
                     table[class=body] span,
                     table[class=body] a {
-                      font-size: 16px !important; 
+                      font-size: 18px !important; 
                     }
                     table[class=body] .wrapper,
                     table[class=body] .article {
