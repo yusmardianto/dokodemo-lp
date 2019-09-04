@@ -24,6 +24,7 @@ $page = 'trial.php';
 	<meta name="keywords" content="menyingkirkan karyawan yang berkinerja buruk, menyingkirkan karyawan yang malas, meningkatkan produktivitas, uji coba dokodemo, dokodemo gratis, alat jam gratis, alat manajemen gratis, alat bisnis kecil, alat anggaran rendah, alat anggaran rendah, alat manajemen anggaran rendah, alat manajemen anggaran rendah, uji coba 30 hari, pelacak waktu gratis, pelacak waktu karyawan gratis, pelacak jam kerja gratis, pelacak tangkapan layar, tangkapan layar perangkat lunak monitor karyawan murah">
 	<meta name="author" content="PT. Logique Digital Indonesia">
 	<meta name="google-site-verification" content="Xc9SFJQZdKYLsrWvrxEjLLTA-nyrnNPQTXQoMxs4gKI" />
+		<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
 	<link rel="stylesheet" href="/css/bootstrap.min.css" />
 	<link href="/fonts/font-awesome/css/font-awesome.min.css" rel="stylesheet">
 	<link rel="stylesheet" href="/css/header-footer.css" />
@@ -95,7 +96,7 @@ $page = 'trial.php';
 	<section class="intro-section text-center px-4">
 		<h1 class="banner-text-white">Coba Demo Gratis Dulu</h1>
 		<a href="https://demo.dokodemo-kerja.com" class="btn btn-trial-contact bold uppercase" id="btn-demo">Klik Disini</a>
-		<a>
+		<a href="https://www.logique.co.id/pdf/install-guide.pdf" target="_blank">
 			<p class="trial-header-content">Download Dokumentasi Pemakaian Lengkap</p>
 		</a>
 	</section>
@@ -181,25 +182,24 @@ $page = 'trial.php';
 				</div>
 			</div>
 			<br />
-			<!-- <div class="semibold fs-18 subtitle-contact" style="margin-bottom:0;">We will set up your trial environment within 3 working days and come back to you with the login info</div> -->
+			<div class="semibold fs-18 subtitle-contact" style="margin-bottom:0;">We will set up your trial environment within 3 working days and come back to you with the login info</div> -->
 		</div>
-	</section> -->
+	</section> 
 <section id="trial-content">
 		<div class="container">
-			<div class="row mt-5">
-				<div class="col-md-6">
-					<h3 class="trial-title">Cara Menggunakan Dokodemo-Kerja</h3>
-					<iframe src="http://www.youtube.com/embed/W7qWa52k-nE"
-   				width="520" height="280" frameborder="0" allowfullscreen></iframe>
-				</div>
+			<div class="row mt-5 mb-5">
 				<div class="col-md-6 download-container">
 					<h3 class="download-title">Download Links</h3>
 					<a href="https://demo.dokodemo-kerja.com" class="btn btn-download bold uppercase" id="btn-demo"><i class="fa fa-download icon-download"></i>Windows</a>
 					<a href="https://demo.dokodemo-kerja.com" class="btn btn-download bold uppercase" id="btn-demo"><i class="fa fa-download icon-download"></i>IOS</a>
 					<a href="https://demo.dokodemo-kerja.com" class="btn btn-download bold uppercase" id="btn-demo"><i class="fa fa-download icon-download"></i>Linux</a>
-					<a href="pdf/install-guide.pdf" target="_blank" aria-label="Install Guide" class="dl-guide">
+					<a href="https://www.logique.co.id/pdf/install-guide.pdf" target="_blank" aria-label="Install Guide" class="dl-guide">
 						<img src="../img/install.png" class="d-block img-fluid m-auto" />
 					</a>
+				</div>
+				<div class="col-md-6 tutor-container mb-5">
+					<h3 class="trial-title">Cara Menggunakan Dokodemo-Kerja</h3>
+					<iframe src="http://www.youtube.com/embed/W7qWa52k-nE" class="trial-iframe" frameborder="0" allowfullscreen></iframe>
 				</div>
 			</div>
 			<div class="row mt-5">
@@ -221,26 +221,28 @@ $page = 'trial.php';
 									<div class="pl-4 mb-5">
 										<p class="trial-tab-content">Tekan Link ini untuk mengakses halaman admin Dokodemo-Kerja.</p>
 										<p class="trial-tab-content">Tekan "Home"</p>
-										<img src="/img/trial/admin-1.png" />
+										<img src="/img/trial/admin-1.png" class ="mb-3 img-fluid" />
 										<p class="trial-tab-content">Login dengan email dan password yang tersedia.</p>
-										<img src="/img/trial/admin-2.png" />
+										<img src="/img/trial/admin-2.png" class ="mb-3 img-fluid" />
 									</div>
 									<h2>2. Menambah Staff</h2>
 									<div class="pl-4">
 										<p class="trial-tab-content">Tekan tombol "Staff"</p>
-										<img src="/img/trial/admin-3.png" class="mb-3"/>
+										<img src="/img/trial/admin-3.png" class="mb-3 img-fluid"/>
 										<p class="trial-tab-content">Tekan tombol "Add Staff"</p>
-										<img src="/img/trial/admin-4.png" class="mb-3"/>
+										<img src="/img/trial/admin-4.png" class="mb-3 img-fluid"/>
 										<p class="trial-tab-content">Isi Informasi staff</p>
-										<img src="/img/trial/admin-5.png" class="mb-3"/>
+										<img src="/img/trial/admin-5.png" class="mb-3 img-fluid"/>
 										<p class="trial-tab-content">Staff akan terdaftar di demo environment dan sebuah email akan dikirimkan kepada staff.</p>
-										<img src="/img/trial/admin-6.png" class="mb-5" />
+										<img src="/img/trial/admin-6.png" class="mb-5 img-fluid" />
 										<p class="trial-tab-content q-title">
 											Jika ada pertanyaan, hubungilah kami atau unduh dokumentasi pemakaiannya
 										</p>
 										<a href="https://demo.dokodemo-kerja.com" class="btn btn-trial-contact bold uppercase" id="btn-demo">Hubungi Kami</a>
 										<p class="trial-tab-content q-title" style="color:blue; text-decoration:underline">
+										<a href="https://www.logique.co.id/pdf/install-guide.pdf" target="_blank">
 											Download Dokumentasi Pemakaian Demo
+										</a>
 										</p>
 									</div>
 								</div>
@@ -250,28 +252,28 @@ $page = 'trial.php';
 									<h2>1. Download Aplikasi Dokodemo-Kerja</h2>
 									<div class="pl-4 mb-5">
 										<p class="trial-tab-content">Extract folder demo dan cari program Dokodemo-Kerja</p>
-										<img src="/img/trial/staff-1.png" class="mb-3"/>
+										<img src="/img/trial/staff-1.png" class="mb-3 img-fluid"/>
 										<p class="trial-tab-content">Run Aplikasi tersebut</p>
-										<img src="/img/trial/staff-2.png" class="mb-3"/>
+										<img src="/img/trial/staff-2.png" class="mb-3 img-fluid"/>
 									</div>
 									<h2>2. Menggunakan Dokodemo-Kerja</h2>
 									<div class="pl-4">
 										<p class="trial-tab-content">Login dengan credential yang diterima di email, atau login dengan:</p>
 										<p class="trial-tab-content bold">ID: sales@dokodemo-kerja.com </p>
 										<p class="trial-tab-content bold">Password: Dokodemo-123</p>
-										<img src="/img/trial/staff-3.png" class="mb-3"/>
+										<img src="/img/trial/staff-3.png" class="mb-3 img-fluid"/>
 										<p class="trial-tab-content">Pilih Project dan tekan tombol Play</p>
-										<img src="/img/trial/staff-4.png" class="mb-3"/>
+										<img src="/img/trial/staff-4.png" class="mb-3 img-fluid"/>
 										<p class="trial-tab-content">Untuk menghentikan project, tekan tombol pause</p>
-										<img src="/img/trial/staff-5.png" class="mb-3"/>
+										<img src="/img/trial/staff-5.png" class="mb-3 img-fluid"/>
 									</div>
 									<h2>3. Menggunakan Homepage</h2>
 									<div class="pl-4">
 										<p class="trial-tab-content">Homepage website dapat diakses melalui tombol "Website"</p>
-										<img src="/img/trial/staff-6.png" class="mb-3"/>
+										<img src="/img/trial/staff-6.png" class="mb-3 img-fluid"/>
 										<p class="trial-tab-content">Anda bisa melihat hasil tangkapan layar serta berapa lama anda telah bekerja. 
 										Icon yang ada di dalam kolom hijau adalah untuk mengubah waktu secara manual.</p>
-										<img src="/img/trial/staff-7.png" class="mb-3"/>
+										<img src="/img/trial/staff-7.png" class="mb-3 img-fluid"/>
 										<p class="trial-tab-content q-title">
 											Jika ada pertanyaan, hubungilah kami atau unduh dokumentasi pemakaiannya
 										</p>
@@ -280,7 +282,7 @@ $page = 'trial.php';
 												<a href="https://demo.dokodemo-kerja.com" class="btn btn-trial-contact bold uppercase" id="btn-demo">Hubungi Kami</a>
 											</div>
 											<div class="col-md-6">
-												<a href="pdf/install-guide.pdf" target="_blank" aria-label="Install Guide" class="dl-guide">
+												<a href="https://www.logique.co.id/pdf/manual-guide.pdf " target="_blank" aria-label="Install Guide" class="dl-guide">
 													<img src="../img/install.png" class="d-block m-auto img-thumbnail img-trial-download" />
 												</a>
 											</div>
