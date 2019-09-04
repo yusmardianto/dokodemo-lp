@@ -92,7 +92,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 					if (!is_null($success)) {
 					?>
 						<div class="alert alert-success alert-dismissible" role="alert">
-							<button type="button" class="close" data-dismiss="alert" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+							<button type="button" id="btn-close" class="close" data-dismiss="alert" aria-label="Close"><span aria-hidden="true">&times;</span></button>
 							Pesan anda <strong>berhasil</strong> dikirim
 						</div>
 					<?php }?>
@@ -101,7 +101,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 					if (!empty($errors)) {
 					?>
 					<div class="alert alert-danger alert-dismissible" role="alert">
-					<button type="button" class="close" data-dismiss="alert" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+					<button type="button" class="close" id="btn-close-2" data-dismiss="alert" aria-label="Close"><span aria-hidden="true">&times;</span></button>
 					<?php
 						foreach ($errors as $key => $value) {
 						echo $value."<br>";
