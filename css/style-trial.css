@@ -1,5 +1,8 @@
 .trial-title {
   font-weight: 600;
+  font-size: 2.5rem;
+  text-align: center;
+  margin: 3rem 0 4rem 0;
 }
 
 .trial-header-content {
@@ -15,6 +18,18 @@
 .download-title {
   text-decoration: underline;
   font-weight: 600;
+}
+
+.nav-tabs-trial .nav-item.show .nav-link,
+.nav-tabs-trial .nav-link.active {
+  background-color: #f6f6f6;
+  border: 5px solid;
+  border-color: #fff #fff #0077c7;
+}
+
+.nav-tabs-trial .nav-link:hover,
+.nav-tabs-trial .nav-link:hover {
+  border-color: #fff #fff #dee2e6;
 }
 
 .btn-download,
@@ -54,6 +69,10 @@
   margin: 0 auto;
   font-size: 28px;
   color: #000;
+}
+
+.trial-tab-container {
+  margin-top: 5rem;
 }
 
 .trial-tab-content {
@@ -114,15 +133,19 @@
   .trial-tabfont {
     font-size: 24px;
   }
-  .tab-content-title {
+  /* .tab-content-title {
     font-size: 22px;
+  } */
+  .content-section-title {
+    font-size: 1.4rem;
   }
   .trial-title {
     font-size: 24px;
   }
   .trial-iframe {
     width: 100%;
-    height: 100%;
+    height: 300px;
+    max-height: 340px;
   }
 }
 
