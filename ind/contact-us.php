@@ -3,7 +3,7 @@
 	error_reporting(E_ALL);
 
 	// Load Composer's autoloader
-	require '../vendor/autoload.php';
+	// require '../vendor/autoload.php';
 
 	// Load config
 	$config = include('../config/app.php');

@@ -93,7 +93,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 				</div>
 				<div class="col-md-6 tutor-container">
 					<h3 class="trial-title">How To Use Dokodemo-Kerja</h3>
-					<iframe src="http://www.youtube.com/embed/W7qWa52k-nE" class="trial-iframe" frameborder="0" allowfullscreen></iframe>
+					<iframe src="https://www.youtube.com/embed/Qyz0FtNbVbI" class="trial-iframe" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 				</div>
 			</div>
 			<div class="row mt-5">
@@ -135,7 +135,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 										<a href="https://demo.dokodemo-kerja.com" class="btn btn-trial-contact bold uppercase" id="btn-demo">Contact Us</a>
 										<p class="trial-tab-content q-title" style="color:blue; text-decoration:underline">
 											<a href=" https://www.logique.co.id/pdf/install-guide.pdf" target="_blank">
-												Download the documentation
+												Download the manual guide
 											</a>
 										</p>
 									</div>
@@ -170,16 +170,12 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 										<p class="trial-tab-content q-title">
 											If you have more questions, get in touch with us or download the full documentation
 										</p>
-										<div class="row">
-											<div class="col-md-6">
-												<a href="https://demo.dokodemo-kerja.com" class="btn btn-trial-contact bold uppercase" id="btn-demo">Contact Us</a>
-											</div>
-											<div class="col-md-6">
-												<a href=" https://www.logique.co.id/pdf/manual-guide.pdf" target="_blank" aria-label="Install Guide" class="dl-guide">
-													<img src="img/install.png" class="d-block m-auto img-thumbnail img-trial-download" />
-												</a>
-											</div>
-										</div>
+										<a href="https://demo.dokodemo-kerja.com" class="btn btn-trial-contact bold uppercase" id="btn-demo">Contact Us</a>
+										<p class="trial-tab-content q-title" style="color:blue; text-decoration:underline">
+											<a href="https://www.logique.co.id/pdf/manual-guide.pdf" target="_blank">
+												Download the install guide
+											</a>
+										</p>
 									</div>
 								</div>
 							</div>

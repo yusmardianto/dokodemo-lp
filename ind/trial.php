@@ -198,7 +198,7 @@ $page = 'trial.php';
 				</div>
 				<div class="col-md-6 tutor-container mb-5">
 					<h3 class="trial-title">Cara Menggunakan Dokodemo-Kerja</h3>
-					<iframe src="http://www.youtube.com/embed/W7qWa52k-nE" class="trial-iframe" frameborder="0" allowfullscreen></iframe>
+					<iframe src="https://www.youtube.com/embed/Qyz0FtNbVbI" class="trial-iframe" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 				</div>
 			</div>
 			<div class="row mt-5">
@@ -240,7 +240,7 @@ $page = 'trial.php';
 										<a href="https://demo.dokodemo-kerja.com" class="btn btn-trial-contact bold uppercase" id="btn-demo">Hubungi Kami</a>
 										<p class="trial-tab-content q-title" style="color:blue; text-decoration:underline">
 										<a href="https://www.logique.co.id/pdf/install-guide.pdf" target="_blank">
-											Download Dokumentasi Pemakaian Demo
+											Download Panduan Manual Dokodemo
 										</a>
 										</p>
 									</div>
@@ -276,16 +276,12 @@ $page = 'trial.php';
 										<p class="trial-tab-content q-title">
 											Jika ada pertanyaan, hubungilah kami atau unduh dokumentasi pemakaiannya
 										</p>
-										<div class="row">
-											<div class="col-md-6">
-												<a href="https://demo.dokodemo-kerja.com" class="btn btn-trial-contact bold uppercase" id="btn-demo">Hubungi Kami</a>
-											</div>
-											<div class="col-md-6">
-												<a href="https://www.logique.co.id/pdf/manual-guide.pdf " target="_blank" aria-label="Install Guide" class="dl-guide">
-													<img src="../img/install.png" class="d-block m-auto img-thumbnail img-trial-download" />
-												</a>
-											</div>
-										</div>
+										<a href="https://demo.dokodemo-kerja.com" class="btn btn-trial-contact bold uppercase" id="btn-demo">Hubungi Kami</a>
+										<p class="trial-tab-content q-title" style="color:blue; text-decoration:underline">
+										<a href="https://www.logique.co.id/pdf/manual-guide.pdf" target="_blank">
+											Download Panduan Manual Dokodemo
+										</a>
+										
 									</div>
 								</div>
 							</div>
