@@ -74,7 +74,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 	<?php include 'header.php' ?>
 	<section class="intro-section text-center px-4">
 		<h1 class="banner-text-white">Try the Free Demo First</h1>
-		<a href="https://demo.dokodemo-kerja.com" class="btn btn-trial-contact bold uppercase" id="btn-demo">Click Here</a>
+		<a href="https://demo.dokodemo-kerja.com" class="btn btn-trial-contact bold uppercase" target="_blank" id="btn-demo">Click Here</a>
 		<a href="https://www.logique.co.id/pdf/manual-guide.pdf" target="_blank">
 			<p class="trial-header-content">Download the Full Documentation</p>
 		</a>
