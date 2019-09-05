@@ -3,7 +3,7 @@
 
 <head>
     <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+   <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
 	<meta name="description" itemprop="description" content="Dokodemo adalah solusi murah untuk menghemat uang Anda. Tentukan siapa siapa yang pantas dibayar lebih tinggi, siapa yang berhak atas bonus, dan siapa yang benar-benar pantas mendapatkan promosi. Gunakan dokodemo-kerja dan rasakan perbedaannya.">
     <meta name="keywords" content="platform manajer pengguna yang murah, perangkat lunak manajemen orang murah, perangkat lunak manajemen orang, dokodemo, dokodemo-kerja, perangkat lunak perusahaan, perangkat lunak perusahaan murah, alat manajemen orang yang efektif, alat manajemen murah">

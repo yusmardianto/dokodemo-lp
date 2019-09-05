@@ -19,13 +19,12 @@
 
 <head>
 	<meta charset="UTF-8" />
-	<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+	<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
 	<meta http-equiv="X-UA-Compatible" content="ie=edge" />
 	<meta name="description" itemprop="description" content="No more slacking off, use dokodemo kerja to weed out the lazy ones and keep your best employees. Reward the achievers and experience the improvement in productivity. Free 30 days trial and special price for enterprise scalei.">
     <meta name="keywords" content="weed out underperforming employees, get rid of lazy employees, increase productivity, dokodemo trial, dokodemo free, free hr tool, free management tool, small business tool, low budget tool, low budget hr tool, low budget management tool, 30 days trial, free time tracker, free employee time tracker, free man hour tracker, screenshot tracker, screenshot employee monitor software cheap">
     <meta name="author" content="PT. Logique Digital Indonesia">
 	<meta name="google-site-verification" content="Xc9SFJQZdKYLsrWvrxEjLLTA-nyrnNPQTXQoMxs4gKI" />
-	<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
 	<link rel="stylesheet" href="css/bootstrap.min.css" />
 	<link href="fonts/font-awesome/css/font-awesome.min.css" rel="stylesheet">
 	<link rel="stylesheet" href="css/header-footer.css" />
@@ -76,7 +75,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 	<section class="intro-section text-center px-4">
 		<h1 class="banner-text-white">Try the Free Demo First</h1>
 		<a href="https://demo.dokodemo-kerja.com" class="btn btn-trial-contact bold uppercase" id="btn-demo">Click Here</a>
-		<a href=" https://www.logique.co.id/pdf/install-guide.pdf" target="_blank">
+		<a href="https://www.logique.co.id/pdf/manual-guide.pdf" target="_blank">
 			<p class="trial-header-content">Download the Full Documentation</p>
 		</a>
 	</section>
@@ -89,7 +88,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 					<a href="https://demo.dokodemo-kerja.com" class="btn btn-download bold uppercase" id="btn-demo"><i class="fa fa-download icon-download"></i>IOS</a>
 					<a href="https://demo.dokodemo-kerja.com" class="btn btn-download bold uppercase" id="btn-demo"><i class="fa fa-download icon-download"></i>Linux</a>
 					<a href="https://www.logique.co.id/pdf/install-guide.pdf" target="_blank" aria-label="Install Guide" class="dl-guide">
-						<img src="img/install.png" class="d-block img-fluid m-auto" />
+						<img src="img/install.png" class="d-block img-fluid img-border m-auto" />
 					</a>
 				</div>
 				<div class="col-md-6 tutor-container">
@@ -116,20 +115,20 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 									<div class="pl-4 mb-5">
 										<p class="trial-tab-content">Click this link to access the Demo page</p>
 										<p class="trial-tab-content">Click "Home"</p>
-										<img src="/img/trial/admin-1.png" class="img-fluid mb-3" />
+										<img src="/img/trial/admin-1.png" class="img-fluid img-border mb-3" />
 										<p class="trial-tab-content">Login with provided email and password</p>
-										<img src="/img/trial/admin-2.png" class="img-fluid mb-3" />
+										<img src="/img/trial/admin-2.png" class="img-fluid img-border mb-3" />
 									</div>
 									<h2 class="tab-content-title">2. Add New Staff</h2>
 									<div class="pl-4">
 										<p class="trial-tab-content">Click the "Staff" button</p>
-										<img src="/img/trial/admin-3.png" class="mb-3 img-fluid" />
+										<img src="/img/trial/admin-3.png" class="mb-3 img-fluid img-border" />
 										<p class="trial-tab-content">Click "Add Staff"</p>
-										<img src="/img/trial/admin-4.png" class="mb-3 img-fluid" />
+										<img src="/img/trial/admin-4.png" class="mb-3 img-fluid img-border" />
 										<p class="trial-tab-content">Fill in the Staff information</p>
-										<img src="/img/trial/admin-5.png" class="mb-3 img-fluid" />
+										<img src="/img/trial/admin-5.png" class="mb-3 img-fluid img-border" />
 										<p class="trial-tab-content">The staff will be drafted in the demo environment and an email will be sent to the staff's email.</p>
-										<img src="/img/trial/admin-6.png" class="mb-5 img-fluid" />
+										<img src="/img/trial/admin-6.png" class="mb-5 img-fluid img-border" />
 										<p class="trial-tab-content q-title">
 											If you have more questions, get in touch with us or download the full documentation
 										</p>
@@ -147,27 +146,27 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 									<h2 class="tab-content-title">1. Access Demo Environment</h2>
 									<div class="pl-4 mb-5">
 										<p class="trial-tab-content">Extract folder demo dan cari program Dokodemo-Kerja</p>
-										<img src="/img/trial/staff-1.png" class="mb-3 img-fluid"/>
+										<img src="/img/trial/staff-1.png" class="mb-3 img-fluid img-border"/>
 										<p class="trial-tab-content">Run that application</p>
-										<img src="/img/trial/staff-2.png" class="mb-3 img-fluid"/>
+										<img src="/img/trial/staff-2.png" class="mb-3 img-fluid img-border"/>
 									</div>
 									<h2 class="tab-content-title">2. Using Dokodemo-Kerja</h2>
 									<div class="pl-4">
 										<p class="trial-tab-content">Login dengan credential yang diterima di email, atau login dengan:</p>
 										<p class="trial-tab-content bold">ID: sales@dokodemo-kerja.com </p>
 										<p class="trial-tab-content bold">Password: Dokodemo-123</p>
-										<img src="/img/trial/staff-3.png" class="mb-3 img-fluid"/>
+										<img src="/img/trial/staff-3.png" class="mb-3 img-fluid img-border"/>
 										<p class="trial-tab-content">Pilih Project dan tekan tombol Play</p>
-										<img src="/img/trial/staff-4.png" class="mb-3 img-fluid"/>
+										<img src="/img/trial/staff-4.png" class="mb-3 img-fluid img-border"/>
 										<p class="trial-tab-content">Untuk menghentikan project, tekan tombol pause</p>
-										<img src="/img/trial/staff-5.png" class="mb-3 img-fluid"/>
+										<img src="/img/trial/staff-5.png" class="mb-3 img-fluid img-border"/>
 									</div>
 									<h2 class="tab-content-title">3. Using Homepage</h2>
 									<div class="pl-4">
 										<p class="trial-tab-content">The website homepage can be accessed by clicking the "Website" button</p>
-										<img src="/img/trial/staff-6.png" class="mb-3 img-fluid"/>
+										<img src="/img/trial/staff-6.png" class="mb-3 img-fluid img-border"/>
 										<p class="trial-tab-content">You can view the Screen record and how long you've worked. The icon inside the green bar is to manually edit your work hour.</p>
-										<img src="/img/trial/staff-7.png" class="mb-3 img-fluid"/>
+										<img src="/img/trial/staff-7.png" class="mb-3 img-fluid img-border"/>
 										<p class="trial-tab-content q-title">
 											If you have more questions, get in touch with us or download the full documentation
 										</p>
@@ -278,12 +277,12 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 		<div class="row mt-5">
 			<div class="col-md-5 offset-md-1">
 				<a href="pdf/manual-guide.pdf" target="_blank" aria-label="Manual Guide" class="dl-guide">
-					<img src="img/manual.png" class="d-block img-fluid m-auto" />
+					<img src="img/manual.png" class="d-block img-fluid img-border m-auto" />
 				</a>
 			</div>
 			<div class="col-md-5">
 				<a href="pdf/install-guide.pdf" target="_blank" aria-label="Install Guide" class="dl-guide">
-					<img src="img/install.png" class="d-block img-fluid m-auto" />
+					<img src="img/install.png" class="d-block img-fluid img-border m-auto" />
 				</a>
 			</div>
 		</div>

@@ -3,7 +3,7 @@
 
 <head>
     <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
 	<meta name="description" itemprop="description" content="Dokodemo-Kerja dibangun oleh PT Logique Digital Indonesia untuk menghasilkan laporan produktivitas secara akurat. Tujuan dari program ini adalah untuk mempromosikan budaya kerja yang sehat dan produktif yang ditujukan untuk kota berpenduduk padat.">
     <meta name="keywords" content="Perangkat lunak yang berfungsi jarak jauh, alat kerja jarak jauh, sistem kerja jarak jauh, penerapan kerja jarak jauh, enabler kerja jarak jauh, memungkinkan budaya kerja jarak jauh, budaya kerja jarak jauh, bekerja sambil bepergian, logique, pt logique, logique digital indonesia, pelacakan waktu, pelacak waktu, pelacak jam kerja, pelacakan jam kerja, perangkat lunak enterprise, perangkat lunak screenshot enterprise">

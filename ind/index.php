@@ -3,7 +3,7 @@
 
 <head>
     <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
 	<meta name="description" itemprop="description" content="Dokodemo-Kerja adalah program yang memantau produktivitas karyawan Anda dengan menangkap layar desktop secara acak setiap sepuluh atau tiga menit. Tingkatkan produktivitas Anda dengan Dokodemo-Kerja.">
     <meta name="keywords" content="dokodemo, dokodemo-kerja, dokodemo kerja, bekerja di mana-mana, bekerja kapan saja, bekerja di mana saja, alat manajemen proyek, perangkat lunak manajemen proyek, perangkat sumber daya manusia, perangkat lunak sumber daya manusia, perangkat lunak pemantauan, alat pemantauan, desktop monitor, monitor dengan privasi, pemantauan res rendah , pemantauan resolusi rendah, pelacak waktu, produk logique, pt logique">

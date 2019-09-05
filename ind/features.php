@@ -3,7 +3,7 @@
 
 <head>
     <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
 	<meta name="description" itemprop="description" content="Dokodemo-Kerja adalah sistem yang memungkinkan fitur pelacakan waktu, laporan waktu yang akurat, manajemen jam kerja, navigasi yang mudah, dan alat pemantauan yang fleksibel yang menguntungkan baik karyawan maupun pengusaha.">
     <meta name="keywords" content="dokodemo, dokodemo-kerja, dokodemo kerja, pemantauan layar, monitor sceen, monitor karyawan, pemantauan karyawan, pelacak waktu, jam dalam perangkat lunak, perangkat lunak absensi, alat absensi, kalkulator jam kerja, kelola karyawan, alat untuk manajer, alat untuk jam, manajer pemberitahuan, alat produktivitas, penambah produktivitas, pengelola kinerja, pengelolaan kinerja, monitor kinerja, software clock in, fitur absensi">

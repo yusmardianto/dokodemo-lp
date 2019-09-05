@@ -3,7 +3,7 @@
 
 <head>
     <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
 	<meta name="description" itemprop="description" content="Dokodemo-Kerja is built by PT Logique Digital Indonesia to accurately generate productivity report. The purpose of this program is to promote healthy and productive work culture aimed at highly populated city.">
     <meta name="keywords" content="Remote working software, remote working tool, remote working system, implementing remote working, remote working enabler, enabling remote working culture, remote culture, work on the road, logique, pt logique, logique digital indonesia, time tracking, time tracker, work hour tracker, work hour tracking, screenshot software enterprise">

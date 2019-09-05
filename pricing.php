@@ -3,7 +3,7 @@
 
 <head>
     <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
 	<meta name="description" itemprop="description" content="Dokodemo is a cheap solution to save your money on overpaying your employees. Easily determine who deserves to be paid more, who deserves that bonus, and who really deserves a promotion. Use this tool and feel the difference.">
     <meta name="keywords" content="cheap user manager platform, cheap people management software, people management software, dokodemo, dokodemo-kerja, enterprise software, cheap enterprise software, effective people management tool, management tool cheap">
