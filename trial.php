@@ -145,20 +145,20 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 								<div class="trial-tab-container mt-5">
 									<h2 class="tab-content-title">1. Access Demo Environment</h2>
 									<div class="pl-4 mb-5">
-										<p class="trial-tab-content">Extract folder demo dan cari program Dokodemo-Kerja</p>
+										<p class="trial-tab-content">Extract demo's folder and find Dokodemo-Kerja programs</p>
 										<img src="/img/trial/staff-1.png" class="mb-3 img-fluid img-border"/>
 										<p class="trial-tab-content">Run that application</p>
 										<img src="/img/trial/staff-2.png" class="mb-3 img-fluid img-border"/>
 									</div>
 									<h2 class="tab-content-title">2. Using Dokodemo-Kerja</h2>
 									<div class="pl-4">
-										<p class="trial-tab-content">Login dengan credential yang diterima di email, atau login dengan:</p>
+										<p class="trial-tab-content">Login with credential that has been sent to email, atau login with:</p>
 										<p class="trial-tab-content bold">ID: sales@dokodemo-kerja.com </p>
 										<p class="trial-tab-content bold">Password: Dokodemo-123</p>
 										<img src="/img/trial/staff-3.png" class="mb-3 img-fluid img-border"/>
-										<p class="trial-tab-content">Pilih Project dan tekan tombol Play</p>
+										<p class="trial-tab-content">Choose project and press Play button</p>
 										<img src="/img/trial/staff-4.png" class="mb-3 img-fluid img-border"/>
-										<p class="trial-tab-content">Untuk menghentikan project, tekan tombol pause</p>
+										<p class="trial-tab-content">To stop project, press Pause button</p>
 										<img src="/img/trial/staff-5.png" class="mb-3 img-fluid img-border"/>
 									</div>
 									<h2 class="tab-content-title">3. Using Homepage</h2>
