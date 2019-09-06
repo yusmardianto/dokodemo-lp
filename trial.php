@@ -97,7 +97,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 			</div>
 			<div class="row mt-5">
 					<div class="col-md-12">
-							<h3 class="trial-title">Cara Menggunakan Dokodemo-Kerja</h3>
+							<h3 class="trial-title">How To Use Dokodemo-Kerja</h3>
 					</div>
 					<div class="col-md-12 tab-tutor-container">
 						<nav>
@@ -118,7 +118,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 										<p class="trial-tab-content">Click this link to access the Demo page</p>
 										<p class="trial-tab-content">Click "Home"</p>
 										<img src="/img/trial/admin-1.png" class="img-fluid img-border mb-3" />
-										<p class="trial-tab-content">Login with provided email and password</p>
+										<p class="trial-tab-content">Login with the provided email and password</p>
 										<img src="/img/trial/admin-2.png" class="img-fluid img-border mb-3" />
 									</div>
 									<h2 class="tab-content-title content-section-title">2. Add New Staff</h2>
