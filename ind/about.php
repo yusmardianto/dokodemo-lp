@@ -171,7 +171,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
     </section>
     <section class="read-testimony">
         <h3>Ingin tahu apa yang dikatakan orang lain?</h3>
-        <a href="index.php#testimony" class="btn-read-testimony" id="btn-read-testimony">
+        <a href="index.php#testimony" class="btn-read-testimony" id="btn-read-testimony-id">
         Baca Ulasan Pelanggan
         </a>
     </section>

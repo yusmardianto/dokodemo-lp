@@ -94,7 +94,7 @@ $page = 'trial.php';
 	<?php include 'header.php' ?>
 	<section class="intro-section text-center px-4">
 		<h1 class="banner-text-white">Coba Demo Gratis Dulu</h1>
-		<a href="https://demo.dokodemo-kerja.com" class="btn btn-trial-contact bold uppercase" target="_blank" id="btn-demo">Klik Disini</a>
+		<a href="https://demo.dokodemo-kerja.com" class="btn btn-trial-contact bold uppercase" target="_blank" id="btn-demo-trial-id">Klik Disini</a>
 		<a href="https://www.logique.co.id/pdf/manual-guide.pdf" target="_blank">
 			<p class="trial-header-content">Download Dokumentasi Pemakaian Lengkap</p>
 		</a>
@@ -189,11 +189,11 @@ $page = 'trial.php';
 			<div class="row mt-5 mb-5">
 				<div class="col-md-6 download-container">
 					<h3 class="download-title">Download Links</h3>
-					<a href="https://demo.dokodemo-kerja.com" class="btn btn-download bold uppercase" id="btn-demo"><i class="fa fa-download icon-download"></i>Windows</a>
-					<a href="https://demo.dokodemo-kerja.com" class="btn btn-download bold uppercase" id="btn-demo"><i class="fa fa-download icon-download"></i>IOS</a>
-					<a href="https://demo.dokodemo-kerja.com" class="btn btn-download bold uppercase" id="btn-demo"><i class="fa fa-download icon-download"></i>Linux</a>
+					<a href="https://demo.dokodemo-kerja.com/files/Dokodemo-Kerja%20(Windows)%20demo%20v1.0.4.zip" class="btn btn-download bold uppercase" id="btn-download-windows-id"><i class="fa fa-download icon-download"></i>Windows</a>
+					<a href="https://demo.dokodemo-kerja.com/files/Dokodemo-Kerja%20(Mac)%20demo%20v1.0.4.zip" class="btn btn-download bold uppercase" id="btn-download-ios-id"><i class="fa fa-download icon-download"></i>IOS</a>
+					<a href="https://demo.dokodemo-kerja.com/files/Dokodemo-Kerja%20(Linux)%20demo%20v1.0.4.zip" class="btn btn-download bold uppercase" id="btn-download-linux-id"><i class="fa fa-download icon-download"></i>Linux</a>
 					<a href="https://www.logique.co.id/pdf/install-guide.pdf" target="_blank" aria-label="Install Guide" class="dl-guide">
-						<img src="../img/install.png" class="d-block img-fluid img-border m-auto" />
+						<img src="../img/install.png" class="d-block img-fluid img-border m-auto" id="trial-install-guide" />
 					</a>
 				</div>
 				<div class="col-md-6 tutor-container mt-4 mb-3">
@@ -220,7 +220,7 @@ $page = 'trial.php';
 								<div class="trial-tab-container">
 									<h2 class="content-section-title">1. Akses Demo Environment</h2>
 									<div class="pl-4 mb-5">
-										<p class="trial-tab-content">Tekan Link ini untuk mengakses halaman admin Dokodemo-Kerja.</p>
+										<p class="trial-tab-content">Tekan <a href="https://demo.dokodemo-kerja.com/" target="_blank">Link ini</a> untuk mengakses halaman admin Dokodemo-Kerja.</p>
 										<p class="trial-tab-content">Tekan "Home"</p>
 										<img src="/img/trial/admin-1.png" class ="mb-3 img-fluid img-border" />
 										<p class="trial-tab-content">Login dengan email dan password yang tersedia.</p>
@@ -239,7 +239,7 @@ $page = 'trial.php';
 										<p class="trial-tab-content q-title mt-5">
 											Jika ada pertanyaan, hubungilah kami atau unduh dokumentasi pemakaiannya
 										</p>
-										<a href="https://demo.dokodemo-kerja.com" class="btn btn-trial-contact bold uppercase" id="btn-demo">Hubungi Kami</a>
+										<a href="/ind/contact-us.php" class="btn btn-trial-contact bold uppercase" id="btn-contact-us-id">Hubungi Kami</a>
 										<p class="trial-tab-content q-title" style="color:blue; text-decoration:underline">
 										<a href="https://www.logique.co.id/pdf/install-guide.pdf" target="_blank">
 											Download Panduan Manual Dokodemo
@@ -278,7 +278,7 @@ $page = 'trial.php';
 										<p class="trial-tab-content q-title mt-5">
 											Jika ada pertanyaan, hubungilah kami atau unduh dokumentasi pemakaiannya
 										</p>
-										<a href="https://demo.dokodemo-kerja.com" class="btn btn-trial-contact bold uppercase" id="btn-demo">Hubungi Kami</a>
+										<a href="/ind/contact-us.php" class="btn btn-trial-contact bold uppercase" id="btn-contact-us-id-staff">Hubungi Kami</a>
 										<p class="trial-tab-content q-title mt-5" style="color:blue; text-decoration:underline">
 										<a href="https://www.logique.co.id/pdf/manual-guide.pdf" target="_blank">
 											Download Panduan Manual Dokodemo

@@ -113,9 +113,9 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                     <span class="plan-title mx-auto">ENTERPRISE PLAN</span>
                     <p class="pt-3 position-relative">Hubungi kami untuk detail harga</p>
                     <div class="plan-contact-us">
-                        <a href="tel:02122708935"><img src="/img/pricing/call.png" /></a>
-                        <a href="mailto:sales@dokodemo-kerja.com"><img src="/img/pricing/mail.png" /></a>
-                        <a href="https://api.whatsapp.com/send?phone=62811870321" target="_blank"><img src="/img/pricing/whatsapp.png" /></a>
+                        <a href="tel:02122708935"><img src="/img/pricing/call.png" id="call-id" /></a>
+                        <a href="mailto:sales@dokodemo-kerja.com"><img src="/img/pricing/mail.png" id="mail-id" /></a>
+                        <a href="https://api.whatsapp.com/send?phone=62811870321" target="_blank"><img src="/img/pricing/whatsapp.png" id="whatsapp-id" /></a>
                     </div>
                     <a href="/ind/trial.php" class="btn-request-trial" id="btn-request-trial">
                         Coba Gratis

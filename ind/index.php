@@ -87,7 +87,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                 </div>
             </div>
             <p class="fs-27 text-center">Coba <strong>Demo</strong> Sekarang</p>
-            <a href="trial.php" class="btn-sign-up" id="btn-trial">Klik Disini</a>
+            <a href="trial.php" class="btn-sign-up" id="btn-sign-up-id">Klik Disini</a>
             <small class="text-center d-block py-4">*Tidak perlu Kartu Kredit</small>
             <div class="bottom-arrow-wrapper">
                 <a href="#benefits" class="smooth"><img src="/img/home/down.png" /></a>
@@ -135,7 +135,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                     <p>Sistem Management yang mudah untuk kerja Overtime</p>
                 </div>
             </div>
-            <a href="features.php" class="btn-learn-more" id="btn-learn-more">Lihat Lebih</a>
+            <a href="features.php" class="btn-learn-more" id="btn-learn-more-id">Lihat Lebih</a>
         </div>
         <div class="container p-md-0 position-relative">
             <div class="row no-gutters ">
@@ -186,7 +186,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
     <section class="dokodemo-desc">
         <h1 class="section-title">APA ITU DOKODEMO KERJA?</h1>
         <p>Dokodemo-Kerja adalah alat Sumber Daya Manusia yang dapat digunakan untuk mengelola jam kerja dan memantau karyawan Anda. Perusahaan Anda sekarang dapat menerapkan sistem kerja jarak jauh kapan saja dan di mana saja.</p>
-        <a href="features.php" class="btn-more-features" id="btn-more-features">Lihat Fitur</a>
+        <a href="features.php" class="btn-more-features" id="btn-more-features-id">Lihat Fitur</a>
     </section>
     <section class="youtube-wrapper container">
         <div class="embed-responsive embed-responsive-16by9">

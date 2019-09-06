@@ -35,21 +35,21 @@
                         </div>
                         <div class="col-md-12" style="text-align:center; margin-top:15px;">
                             <span class="footer-contact-item">
-                                <a href="tel:02122708935">
+                                <a href="tel:02122708935" id="footer-phone">
                                     <!-- <img src="img/call.png"> -->
                                     <i class="fa fa-2x fa-phone"></i>
                                     <!-- <span>(021) 22708935 / 36</span> -->
                                 </a>
                             </span>
                             <span class="footer-contact-item">
-                                <a href="mailto:sales@dokodemo-kerja.com">
+                                <a href="mailto:sales@dokodemo-kerja.com" id="footer-mail">
                                     <i class="fa fa-2x fa-envelope"></i>
                                     <!-- <img src="img/mail.png"> -->
                                     <!-- <span>sales@dokodemo-kerja.com</span> -->
                                 </a>
                             </span>
                             <span class="footer-contact-item">
-                                <a href="https://api.whatsapp.com/send?phone=62811870321" target="_blank">
+                                <a href="https://api.whatsapp.com/send?phone=62811870321" target="_blank" id="footer-whatsapp">
                                 <i class="fa fa-2x fa-whatsapp"></i>
                                     <!-- <img src="img/whatsapp.png"> -->
                                     <!-- <span>0811-870-321</span> -->

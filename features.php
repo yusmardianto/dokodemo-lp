@@ -214,18 +214,18 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
             <div class="row">
                 <div class="col-md-4 offset-md-4 py-2">
                     <a href="trial.php">
-                        <img src="img/features/free-trial.jpg" class="img-fluid mx-auto d-block" />
+                        <img src="img/features/free-trial.jpg" class="img-fluid mx-auto d-block" id="features-free-trial" />
                     </a>
                 </div>
                 <div class="col-md-4"></div>
                 <div class="col-md-4 offset-md-2 col-10 offset-1 py-2">
                     <a href="http://dokodemo-web.test/pdf/manual-guide.pdf" class="dl-guide">
-                        <img src="img/manual.png" class="img-fluid mx-auto d-block" />
+                        <img src="img/manual.png" class="img-fluid mx-auto d-block" id="features-manual-guide" />
                     </a>
                 </div>
                 <div class="col-md-4 col-10 offset-md-0 offset-1 py-2">
                     <a href="http://dokodemo-web.test/pdf/install-guide.pdf" class="dl-guide">
-                        <img src="img/install.png" class="img-fluid mx-auto d-block" />
+                        <img src="img/install.png" class="img-fluid mx-auto d-block" id="features-install-guide" />
                     </a>
                 </div>
             </div>

@@ -84,11 +84,11 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 			<div class="row mt-5 mb-5">
 				<div class="col-md-6 download-container">
 					<h3 class="download-title">Download Links</h3>
-					<a href="https://demo.dokodemo-kerja.com" class="btn btn-download bold uppercase" id="btn-demo"><i class="fa fa-download icon-download"></i>Windows</a>
-					<a href="https://demo.dokodemo-kerja.com" class="btn btn-download bold uppercase" id="btn-demo"><i class="fa fa-download icon-download"></i>IOS</a>
-					<a href="https://demo.dokodemo-kerja.com" class="btn btn-download bold uppercase" id="btn-demo"><i class="fa fa-download icon-download"></i>Linux</a>
+					<a href="https://demo.dokodemo-kerja.com/files/Dokodemo-Kerja%20(Windows)%20demo%20v1.0.4.zip" class="btn btn-download bold uppercase" id="btn-download-windows"><i class="fa fa-download icon-download"></i>Windows</a>
+					<a href="https://demo.dokodemo-kerja.com/files/Dokodemo-Kerja%20(Mac)%20demo%20v1.0.4.zip" class="btn btn-download bold uppercase" id="btn-download-ios"><i class="fa fa-download icon-download"></i>IOS</a>
+					<a href="https://demo.dokodemo-kerja.com/files/Dokodemo-Kerja%20(Linux)%20demo%20v1.0.4.zip" class="btn btn-download bold uppercase" id="btn-download-linux"><i class="fa fa-download icon-download"></i>Linux</a>
 					<a href="https://www.logique.co.id/pdf/install-guide.pdf" target="_blank" aria-label="Install Guide" class="dl-guide">
-						<img src="img/install.png" class="d-block img-fluid img-border m-auto" />
+						<img src="img/install.png" class="d-block img-fluid img-border m-auto" id="trial-install-guide" />
 					</a>
 				</div>
 				<div class="col-md-6 tutor-container mt-4 mb-3">
@@ -115,7 +115,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 								<div class="trial-tab-container">
 									<h2 class="tab-content-title content-section-title">1. Access Demo Environment</h2>
 									<div class="pl-4 mb-5">
-										<p class="trial-tab-content">Click this link to access the Demo page</p>
+										<p class="trial-tab-content">Click <a href="https://demo.dokodemo-kerja.com/" target="_blank">this link</a> to access the Demo page</p>
 										<p class="trial-tab-content">Click "Home"</p>
 										<img src="/img/trial/admin-1.png" class="img-fluid img-border mb-3" />
 										<p class="trial-tab-content">Login with the provided email and password</p>
@@ -134,7 +134,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 										<p class="trial-tab-content q-title mt-5">
 											If you have more questions, get in touch with us or download the full documentation
 										</p>
-										<a href="https://demo.dokodemo-kerja.com" class="btn btn-trial-contact bold uppercase" id="btn-demo">Contact Us</a>
+										<a href="/contact-us.php" class="btn btn-trial-contact bold uppercase" id="btn-contact-us">Contact Us</a>
 										<p class="trial-tab-content q-title" style="color:blue; text-decoration:underline">
 											<a href=" https://www.logique.co.id/pdf/install-guide.pdf" target="_blank">
 												Download the manual guide
@@ -172,7 +172,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 										<p class="trial-tab-content q-title mt-5">
 											If you have more questions, get in touch with us or download the full documentation
 										</p>
-										<a href="https://demo.dokodemo-kerja.com" class="btn btn-trial-contact bold uppercase" id="btn-demo">Contact Us</a>
+										<a href="/contact-us.php" class="btn btn-trial-contact bold uppercase" id="btn-contact-us-staff">Contact Us</a>
 										<p class="trial-tab-content q-title" style="color:blue; text-decoration:underline">
 											<a href="https://www.logique.co.id/pdf/manual-guide.pdf" target="_blank">
 												Download the install guide
