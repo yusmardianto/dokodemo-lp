@@ -10,10 +10,12 @@
     <meta name="author" content="PT. Logique Digital Indonesia">
     <meta name="google-site-verification" content="Xc9SFJQZdKYLsrWvrxEjLLTA-nyrnNPQTXQoMxs4gKI" />
     <link rel="stylesheet" href="css/bootstrap.min.css" />
+    <link href="fonts/font-awesome/css/font-awesome.min.css" rel="stylesheet">
     <link rel="stylesheet" href="css/slick.css" />
     <link rel="stylesheet" href="css/slick-theme.css" />
     <link rel="stylesheet" href="css/header-footer.css" />
     <link rel="stylesheet" href="css/style-home.css" />
+    <link href="fonts/font-awesome/css/font-awesome.min.css" rel="stylesheet">
     <link rel="shortcut icon" type="image/x-icon" href="favicon.ico">
     <title>Dokodemo-Kerja | Home</title>
     <!-- Google Tag Manager -->
@@ -86,34 +88,49 @@
                             productive employee is?</strong></h1>
 
                 </div>
-                <div class="col-12 mt-4">
-                    <p class="text-center fs-18">Track your employee's activity with Dokodemo-Kerja. <br>A program that captures your screen every 10 minutes at random.</p>
+                <div class="col-12">
+                    <p class="text-center fs-18 subbanner-header-text">Track your employee's activity with Dokodemo-Kerja. <br>A program that captures your screen every 10 minutes at random.</p>
                 </div>
             </div>
             <div class="row justify-content-center">
-                <div class="col-md-3">
+                <div class="col-md-4">
                     <div class="advantages-item">
-                        <img src="img/home/done.png" class="pr-2" />
-                        <div>Cost Effective <br /><span style="font-size: 22px;display: block;">1 juta ~ / Month</span></div>
+                        <img src="/img/home/done.png" class="pr-2 header-icon-verified" />
+                        <div>
+                            <span class="header-feature">Cost Effective</span>
+                            <br />
+                            <span class="header-subfeature">1 juta ~ / Month</span></div>
+                        </div>
+                </div>
+                <div class="col-md-4">
+                    <div class="advantages-item">
+                        <img src="/img/home/done.png" class="pr-2 header-icon-verified" />
+                        <div>
+                        <span class="header-feature">No Minimum</span>
+                        <br />
+                        <span class="header-subfeature">Contract Period</span>
+                        </div>
                     </div>
                 </div>
-                <div class="col-md-5">
+                <div class="col-md-4">
                     <div class="advantages-item">
-                        <img src="img/home/done.png" class="pr-2" />
-                        <span>No minimum <br />contract period</span>
-                    </div>
-                </div>
-                <div class="col-md-3">
-                    <div class="advantages-item">
-                        <img src="img/home/done.png" class="pr-2" />
-                        <div>Easy Setup<br /><span style="font-size: 22px;display: block;">You can start today</span></div>
+                        <img src="/img/home/done.png" class="pr-2 header-icon-verified" />
+                        <div>
+                            <span class="header-feature">Easy Setup</span>
+                            <br />
+                            <span class="header-subfeature">You can start today</span>
+                        </div>
                     </div>
                 </div>
             </div>
             <!-- <strong class="fs-27 text-center">Try out the <strong>30 days Free Trial</strong></p> -->
-            <p class="fs-27 text-center">Try the <strong>Demo</strong> Now</p>
-            <a href="trial.php" class="btn-sign-up" id="btn-sign-up">Click Here</a>
-            <small class="text-center d-block py-4">*No credit card required</small>
+            <div class="row">
+                <div class="col-md-12">
+                    <p class="fs-27 text-center header-demo-text">Try the <strong>Demo</strong> Now</p>
+                    <a href="trial.php" class="btn-sign-up btn-try-demo" id="btn-sign-up">Click Here</a>
+                    <span class="text-center d-block py-4 fs-medium header-subdemo-text">*No credit card required</span>
+                </div>
+            </div>
             <div class="bottom-arrow-wrapper">
                 <a href="#benefits" class="smooth"><img src="img/home/down.png" /></a>
             </div>
@@ -139,13 +156,13 @@
                     <div class="feature-img-wrapper">
                         <img src="img/home/corkboard.png" />
                     </div>
-                    <p>You can implement Flexible Working Rule</p>
+                    <p>Real Time Monitoring of what they are working on</p>
                 </div>
                 <div class="col-md-4 features feature-4">
                     <div class="feature-img-wrapper">
                         <img src="img/home/chart.png" class="pr-3" />
                     </div>
-                    <p>Analyzing Working timeby staff, department, projects</p>
+                    <p>Analyze Working time by staff, department, projects</p>
                 </div>
                 <div class="col-md-4 features feature-5">
                     <div class="feature-img-wrapper">
@@ -266,7 +283,12 @@
         </div>
 
     </section>
-
+    <section class="user-demo">
+        <p class="fs-27 text-center header-demo-text">Try the <strong>Demo</strong> Now</p>
+        <a href="trial.php" class="btn-sign-up btn-try-demo" id="btn-sign-up">Click Here</a>
+        <span class="text-center d-block py-4 fs-medium header-subdemo-text">*No credit card required</span>
+    </section>
+    
     <?php include 'footer.php' ?>
     <script src="js/jquery-3.4.1.min.js"></script>
     <script src="js/bootstrap.min.js"></script>

@@ -113,6 +113,8 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 				<form class="dokodemo-form" action="" method="POST">
 					<select name="subject" class="contact-type" required>
 						<!-- <option value="Coba Gratis 30 Hari" <?= !empty($errors) &&  $_POST['subject'] == 'Coba Gratis 30 Hari'? 'selected' : ''?>>Coba Gratis 30 Hari</option> -->
+						<option value="Beli Light Plan" <?= !empty($errors) &&  $_POST['subject'] == 'Beli Light Plan'? 'selected' : ''?>>Pembelian Light Plan</option>
+						<option value="Beli Standard Plan" <?= !empty($errors) &&  $_POST['subject'] == 'Beli Standard Plan'? 'selected' : ''?>>Pembelian Standard Plan</option>
 						<option value="Enterprise plan" <?= !empty($errors) &&  $_POST['subject'] == 'Enterprise plan'? 'selected' : ''?>>Enterprise plan</option>
 						<option value="Partnership" <?= !empty($errors) &&  $_POST['subject'] == 'Partnership'? 'selected' : ''?>>Partnership</option>
 						<option value="Investment" <?= !empty($errors) &&  $_POST['subject'] == 'Investment'? 'selected' : ''?>>Investment</option>

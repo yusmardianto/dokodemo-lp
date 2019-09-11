@@ -62,13 +62,20 @@ body {
   display: inline-block;
   position: relative;
   font-size: 20px;
+  width: 100%;
+  text-align: center;
+  padding: 20px;
+  border-top-left-radius: 15px;
+  border-top-right-radius: 15px;
 }
 
 .price {
-  display: flex;
+  display: block;
   margin-top: 1em;
   margin-left: 0.5em;
   position: relative;
+  text-align: center;
+  margin: 2rem auto 1rem auto;
 }
 
 .price .rp,
@@ -207,6 +214,60 @@ body {
   border-radius: 5px;
   letter-spacing: 1px;
   margin: 0em auto;
+}
+
+.btn-price-try-demo,
+.btn-price-try-demo:hover {
+  color: rgba(22, 138, 226, 1) 100%;
+  border: 2px ridge rgb(123, 138, 226);
+  display: block;
+  line-height: 1;
+  width: 100%;
+  text-align: center;
+  font-weight: bold;
+  padding: 1em 0 0.7em;
+  text-decoration: none;
+  border-radius: 5px;
+  letter-spacing: 1px;
+  margin: 0em auto;
+  text-transform: uppercase;
+}
+
+.btn-price-buy-plan,
+.btn-price-buy-plan:hover {
+  color: white;
+  display: block;
+  border: 2px ridge rgb(22, 116, 188);
+  line-height: 1;
+  width: 100%;
+  text-align: center;
+  font-weight: bold;
+  background: linear-gradient(
+    180deg,
+    rgba(24, 138, 226, 1) 0%,
+    rgba(22, 116, 188, 1) 100%
+  );
+  padding: 1em 0 0.7em;
+  text-decoration: none;
+  border-radius: 5px;
+  letter-spacing: 1px;
+  margin: 0em auto;
+  text-transform: uppercase;
+}
+
+.price-ent-contact-text {
+  font-weight: bold;
+  text-align: center;
+  padding-top: 32px;
+}
+
+.price-ent-contact-icon {
+  text-align: center;
+  margin-bottom: 35px;
+}
+
+.price-ent-contact-icon a {
+  padding: 0 10px;
 }
 
 @media (max-width: 576px) {

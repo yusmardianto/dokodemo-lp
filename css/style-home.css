@@ -301,3 +301,162 @@ body {
     margin-top: 20px;
   }
 }
+
+.user-demo {
+  margin-top: 3rem;
+}
+
+.btn-try-demo {
+  text-transform: uppercase;
+  font-weight: bold !important;
+}
+
+.fs-medium {
+  font-size: medium;
+}
+
+.header-subfeature {
+  font-size: 22px;
+  display: block;
+}
+
+@media screen and (max-width: 1024px) {
+  .banner-header-text {
+    font-size: 35px;
+  }
+  .subbanner-header-text {
+    font-size: 18px;
+  }
+  .header-feature {
+    font-size: 21px;
+  }
+  .header-subfeature {
+    font-size: 16px;
+  }
+  .header-icon-verified {
+    width: 32px;
+    margin-top: 10px;
+  }
+  .header-demo-text {
+    font-size: 24px;
+  }
+  .header-subdemo-text {
+    font-size: 14px;
+  }
+  .btn-try-demo {
+    width: 170px;
+    font-size: 14px;
+  }
+  .section-title {
+    font-size: 28px;
+  }
+  .features p {
+    font-size: 16px;
+  }
+  .benefit-desc {
+    font-size: 18px;
+  }
+  .benefit-content {
+    padding: 0em 5% 0 5%;
+  }
+  .btn-learn-more {
+    margin: 3em auto;
+  }
+  .dokodemo-desc p {
+    font-size: 16px;
+    margin: 15px auto;
+  }
+  .testimony-text {
+    font-size: 16px;
+    min-height: 360px;
+  }
+}
+
+@media screen and (max-width: 768px) {
+  .banner-header-text {
+    font-size: 25px;
+  }
+  .subbanner-header-text {
+    font-size: 16px;
+  }
+  .header-icon-verified {
+    width: 28px;
+    margin-top: 12px;
+  }
+  .header-feature {
+    font-size: 18px;
+  }
+  .header-subfeature {
+    font-size: 14px;
+  }
+  .header-demo-text {
+    font-size: 20px;
+  }
+  .btn-try-demo {
+    width: 160px;
+    font-size: 13px;
+  }
+  .section-title {
+    font-size: 28px;
+    padding-bottom: 0 !important;
+  }
+  .benefit-content.right {
+    padding-left: 8%;
+  }
+  .benefit-title {
+    font-size: 18px;
+  }
+  .benefit-desc {
+    font-size: 13px;
+  }
+  .benefit-content {
+    padding: 1em 5%;
+  }
+  .dokodemo-desc p {
+    font-size: 15px;
+  }
+  .btn-learn-more {
+    margin: 2em auto;
+    font-size: 14px;
+    width: 150px;
+  }
+  .btn-learn-more {
+    margin: 0em auto 3em auto;
+    font-size: 14px;
+    width: 150px;
+  }
+  .btn-more-features {
+    width: 150px;
+    font-size: 14px;
+  }
+  .testimony-text {
+    font-size: 14px;
+  }
+}
+
+@media screen and (max-width: 425px) {
+  .advantages-item {
+    padding: 10px 0% 0 0;
+    justify-content: center;
+  }
+  .header-feature {
+    font-size: 22px;
+  }
+  .header-subfeature {
+    font-size: 16px;
+  }
+  .header-demo-text {
+    font-size: 20px;
+    margin-top: 40px;
+  }
+  .dokodemo-desc p {
+    font-size: 14px;
+    width: 90%;
+  }
+}
+
+@media screen and (max-width: 375px) {
+  .slick-dots li {
+    width: 18px;
+  }
+}

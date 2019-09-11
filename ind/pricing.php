@@ -10,6 +10,7 @@
     <meta name="author" content="PT. Logique Digital Indonesia">
 	<meta name="google-site-verification" content="Xc9SFJQZdKYLsrWvrxEjLLTA-nyrnNPQTXQoMxs4gKI" />
     <link rel="stylesheet" href="/css/bootstrap.min.css" />
+    <link href="/fonts/font-awesome/css/font-awesome.min.css" rel="stylesheet">
     <link rel="stylesheet" href="/css/slick.css" />
     <link rel="stylesheet" href="/css/slick-theme.css" />
     <link rel="stylesheet" href="/css/header-footer.css" />
@@ -61,14 +62,26 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
     </section>
     <section class="price-plans">
         <div class="container">
-            <div class="row">
-                <div class="col-md-4 offset-md-2 plans-item">
-                    <span class="plan-watermark">LIGHT PLAN</span>
+            <div class="row mb-5 mt-5">
+                 <div class="col-md-4 plans-item">
+                    <!-- <span class="plan-watermark">LIGHT PLAN</span> -->
                     <span class="plan-title">LIGHT PLAN</span>
                     <div class="price">
                         <span class="rp">Rp. </span>
-                        <span class="price-number">1 Juta</span>
-                        <span class="per-month">/ bulan</span>
+                        <span class="price-number">1M</span>
+                        <span class="per-month">/ Month</span>
+                    </div>
+                    <div class="row mb-5">
+                        <div class="col-md-6">
+                            <a href="/ind/trial.php" class="btn-price-try-demo" id="btn-price-try-demo">
+                                Coba Demo
+                            </a>
+                        </div>
+                        <div class="col-md-6">
+                            <a href="/ind/contact-us.php" class="btn-price-buy-plan" id="btn-price-buy-plan">
+                                Beli Plan
+                            </a>
+                        </div>
                     </div>
                     <ul class="plan-benefits">
                         <li>Pelacak Waktu</li>
@@ -82,16 +95,28 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                     <div class="additional-fee">
                         <span class="plus-rp">+Rp.</span>
                         <span class="price-number">50.000</span>
-                        <span class="per-month">/ bulan</span>
+                        <span class="per-month">/ Month</span>
                     </div>
                 </div>
                 <div class="col-md-4 plans-item">
-                    <span class="plan-watermark">STANDARD PLAN</span>
+                    <!-- <span class="plan-watermark">STANDARD PLAN</span> -->
                     <span class="plan-title">STANDARD PLAN</span>
                     <div class="price">
                         <span class="rp">Rp. </span>
-                        <span class="price-number">3 Juta</span>
-                        <span class="per-month">/ bulan</span>
+                        <span class="price-number">3M</span>
+                        <span class="per-month">/ Bulan</span>
+                    </div>
+                    <div class="row mb-5">
+                        <div class="col-md-6">
+                            <a href="/ind/trial.php" class="btn-price-try-demo" id="btn-price-try-demo">
+                                Coba Demo
+                            </a>
+                        </div>
+                        <div class="col-md-6">
+                            <a href="/ind/contact-us.php" class="btn-price-buy-plan" id="btn-price-buy-plan">
+                                Beli Plan
+                            </a>
+                        </div>
                     </div>
                     <ul class="plan-benefits">
                         <li>Pelacak Waktu</li>
@@ -104,23 +129,42 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                     <div class="additional-fee">
                         <span class="plus-rp">+Rp.</span>
                         <span class="price-number">75.000</span>
-                        <span class="per-month">/ bulan</span>
+                        <span class="per-month">/ Bulan</span>
                     </div>
                 </div>
-                <div class="col-md-6 offset-md-3 plans-enterprise">
+                 <div class="col-md-4 plans-item">
                     <!-- <span class="plan-watermark">STANDARD PLAN</span> -->
-                    <span class="plan-watermark">ENTERPRISE PLAN</span>
-                    <span class="plan-title mx-auto">ENTERPRISE PLAN</span>
-                    <p class="pt-3 position-relative">Hubungi kami untuk detail harga</p>
-                    <div class="plan-contact-us">
-                        <a href="tel:02122708935"><img src="/img/pricing/call.png" id="call-id" /></a>
-                        <a href="mailto:sales@dokodemo-kerja.com"><img src="/img/pricing/mail.png" id="mail-id" /></a>
-                        <a href="https://api.whatsapp.com/send?phone=62811870321" target="_blank"><img src="/img/pricing/whatsapp.png" id="whatsapp-id" /></a>
+                    <span class="plan-title">ENTERPRISE PLAN</span>
+                    <p class="position-relative price-ent-contact-text">Hubungi kami untuk detail harga</p>
+                    <div class="plan-contact-us price-ent-contact-icon">
+                        <a href="tel:02122708935"><img src="../img/pricing/call.png" id="call"/></a>
+                        <a href="mailto:sales@dokodemo-kerja.com"><img src="../img/pricing/mail.png" id="mail" /></a>
+                        <a href="https://api.whatsapp.com/send?phone=62811870321" target="_blank"><img src="../img/pricing/whatsapp.png" id="whatsapp" /></a>
                     </div>
-                    <a href="/ind/trial.php" class="btn-request-trial" id="btn-request-trial">
-                        Coba Gratis
-                    </a>
+                    <div class="row mb-5">
+                        <div class="col-md-12">
+                            <a href="/ind/contact-us.php" class="btn-price-try-demo" id="btn-price-try-demo">
+                                Kontak Kami
+                            </a>
+                        </div>
+                    </div>
+                    <ul class="plan-benefits">
+						<li><strong>Pelacak Waktu</strong></li>
+						<li><strong>Screenshot Monitoring</strong></li>
+						<li><strong>1 Screenshot per (#) menit</strong></li>
+						<li><strong>Screenshot disimpan selama (#) bulan</strong></li>
+						<li><strong>Untuk (#) pengguna</strong></li>
+						<li><strong>+ Fitur Tambahan</strong></li>
+                    </ul>
+                    <p class="mt-5 text-center"><strong>(#): sesuai permintaan</strong></p>
+                    <!-- <p class="pt-2"><strong>If the number of user is above 10 then additional charge is (for 1 more user)</strong></p>
+                    <div class="additional-fee">
+                        <span class="plus-rp">+Rp.</span>
+                        <span class="price-number">75.000</span>
+                        <span class="per-month">/ Month</span>
+                    </div> -->
                 </div>
+                
             </div>
         </div>
     </section>

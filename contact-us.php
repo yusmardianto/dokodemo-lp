@@ -21,10 +21,11 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
   <meta http-equiv="X-UA-Compatible" content="ie=edge" />
   <meta name="description" itemprop="description" content="Contact our marketing team to get a free dokodemo trial. We provide free trials, training support, pre-sales consultation, and we are ready to answer any questions you might have regarding our product. ">
-  <meta name="keywords" content="dokodemo, dokodemo-kerja, enterprise program, monitoring program, reporting tool, request free trial, dokodemo email, dokodemo help, dokodemo contact, dokodemo sales, dokodemo marketing, request training, know your employee, startup tool, logique contact person, dokodemo contact person, what is dokodemo, what is remote working">
+  <meta name="keywords" content="dokodemo, dokodemo-kerja, enterprise program, monitoring program, reporting tool, Buy Light Plan, dokodemo email, dokodemo help, dokodemo contact, dokodemo sales, dokodemo marketing, request training, know your employee, startup tool, logique contact person, dokodemo contact person, what is dokodemo, what is remote working">
   <meta name="author" content="PT. Logique Digital Indonesia">
   <meta name="google-site-verification" content="Xc9SFJQZdKYLsrWvrxEjLLTA-nyrnNPQTXQoMxs4gKI" />
   <link rel="stylesheet" href="css/bootstrap.min.css" />
+    <link href="fonts/font-awesome/css/font-awesome.min.css" rel="stylesheet">
   <link href="fonts/font-awesome/css/font-awesome.min.css" rel="stylesheet">
   <link rel="stylesheet" href="css/header-footer.css" />
   <link rel="stylesheet" href="css/style.css" />
@@ -113,7 +114,8 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 			<form class="dokodemo-form" action="" method="POST">
 
 			  <select name="subject" class="contact-type" required>
-				<option value="Request Free Trial" <?= !empty($errors) &&  $_POST['subject'] == 'Request Free Trial'? 'selected' : ''?>>Request Free Trial</option>
+				<option value="Buy Light Plan" <?= !empty($errors) &&  $_POST['subject'] == 'Buy Light Plan'? 'selected' : ''?>>Buy Light Plan</option>
+				<option value="Buy Standard Plan" <?= !empty($errors) &&  $_POST['subject'] == 'Buy Standard Plan'? 'selected' : ''?>>Buy Standard Plan</option>
 				<option value="Enterprise plan" <?= !empty($errors) &&  $_POST['subject'] == 'Enterprise plan'? 'selected' : ''?>>Enterprise plan</option>
 				<option value="Partnership" <?= !empty($errors) &&  $_POST['subject'] == 'Partnership'? 'selected' : ''?>>Partnership</option>
 				<option value="Investment" <?= !empty($errors) &&  $_POST['subject'] == 'Investment'? 'selected' : ''?>>Investment</option>

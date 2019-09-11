@@ -9,6 +9,7 @@
     <meta name="keywords" content="dokodemo, dokodemo-kerja, dokodemo kerja, bekerja di mana-mana, bekerja kapan saja, bekerja di mana saja, alat manajemen proyek, perangkat lunak manajemen proyek, perangkat sumber daya manusia, perangkat lunak sumber daya manusia, perangkat lunak pemantauan, alat pemantauan, desktop monitor, monitor dengan privasi, pemantauan res rendah , pemantauan resolusi rendah, pelacak waktu, produk logique, pt logique">
 	<meta name="google-site-verification" content="Xc9SFJQZdKYLsrWvrxEjLLTA-nyrnNPQTXQoMxs4gKI" />
     <link rel="stylesheet" href="/css/bootstrap.min.css" />
+    <link href="/fonts/font-awesome/css/font-awesome.min.css" rel="stylesheet">
     <link rel="stylesheet" href="/css/slick.css" />
     <link rel="stylesheet" href="/css/slick-theme.css" />
     <link rel="stylesheet" href="/css/header-footer.css" />
@@ -63,32 +64,47 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 
                 </div>
                 <div class="col-12">
-                    <p class="text-center fs-18">Lacak aktivitas karyawan Anda dengan Dokodemo-Kerja. <br>Sebuah program yang me-screenshot layar Anda setiap 10 menit secara acak.</p>
+                    <p class="text-center fs-18 subbanner-header-text">Lacak aktivitas karyawan Anda dengan Dokodemo-Kerja. <br>Sebuah program yang me-screenshot layar Anda setiap 10 menit secara acak.</p>
                 </div>
             </div>
             <div class="row justify-content-center">
-                <div class="col-md-3">
+                <div class="col-md-4">
                     <div class="advantages-item">
-                        <img src="/img/home/done.png" class="pr-2" />
-                        <div>Harga Murah <br /><span style="font-size: 22px;display: block;">1 juta ~ / Bulan</span></div>
+                        <img src="/img/home/done.png" class="pr-2 header-icon-verified" />
+                        <div>
+                            <span class="header-feature">Harga Murah</span>
+                            <br />
+                            <span class="header-subfeature">1 juta ~ / Bulan</span></div>
+                        </div>
+                </div>
+                <div class="col-md-4">
+                    <div class="advantages-item">
+                        <img src="/img/home/done.png" class="pr-2 header-icon-verified" />
+                        <div>
+                        <span class="header-feature">Tidak Ada</span>
+                        <br />
+                        <span class="header-subfeature">Kontrak Minimum</span>
+                        </div>
                     </div>
                 </div>
-                <div class="col-md-5">
+                <div class="col-md-4">
                     <div class="advantages-item">
-                        <img src="/img/home/done.png" class="pr-2" />
-                        <span>Tidak Ada <br />Kontrak Minimum</span>
-                    </div>
-                </div>
-                <div class="col-md-3">
-                    <div class="advantages-item">
-                        <img src="/img/home/done.png" class="pr-2" />
-                        <div>Mudah Dipasang<br /><span style="font-size: 22px;display: block;">Anda bisa mulai sekarang</span></div>
+                        <img src="/img/home/done.png" class="pr-2 header-icon-verified" />
+                        <div>
+                            <span class="header-feature">Mudah Dipasang</span>
+                            <br />
+                            <span class="header-subfeature">Anda bisa mulai sekarang</span>
+                        </div>
                     </div>
                 </div>
             </div>
-            <p class="fs-27 text-center">Coba <strong>Demo</strong> Sekarang</p>
-            <a href="trial.php" class="btn-sign-up" id="btn-sign-up-id">Klik Disini</a>
-            <small class="text-center d-block py-4">*Tidak perlu Kartu Kredit</small>
+            <div class="row">
+                <div class="col-md-12">
+                    <p class="fs-27 text-center header-demo-text">Coba <strong>Demo</strong> Sekarang</p>
+                    <a href="trial.php" class="btn-sign-up btn-try-demo" id="btn-sign-up-id">Klik Disini</a>
+                    <span class="text-center d-block py-4 fs-medium header-subdemo-text">*Tidak perlu Kartu Kredit</span>
+                </div>
+            </div>
             <div class="bottom-arrow-wrapper">
                 <a href="#benefits" class="smooth"><img src="/img/home/down.png" /></a>
             </div>
@@ -237,6 +253,11 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
             </div>
         </div>
 
+    </section>
+    <section class="user-demo">
+        <p class="fs-27 text-center header-demo-text">Coba <strong>Demo</strong> Sekarang</p>
+        <a href="trial.php" class="btn-sign-up btn-try-demo" id="btn-sign-up-id">Klik Disini</a>
+        <span class="text-center d-block py-4 fs-medium header-subdemo-text">*Tidak perlu Kartu Kredit</span>
     </section>
 
     <?php include 'footer.php' ?>
