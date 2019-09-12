@@ -58,7 +58,13 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 <!-- End Google Tag Manager (noscript) -->
     <?php include "header.php" ?>
     <section class="banner">
-        <img src="img/pricing/bg.jpg" class="img-fluid" />
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-12">
+                    <img src="img/pricing/bg.jpg" class="img-fluid" />
+                </div>
+            </div>
+        </div>
     </section>
     <section class="price-plans">
         <div class="container">
@@ -154,11 +160,11 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                             </div>
                         </div>
                         <ul class="plan-benefits">
-                            <li><strong>Time Tracking</strong></li>
-                            <li><strong>Screenshot Monitoring</strong></li>
-                            <li><strong>1 screenshot per (#) minutes</strong></li>
-                            <li><strong>Screenshot saved for (#) months</strong></li>
-                            <li><strong>For (#) users</strong></li>
+                            <li>Time Tracking</li>
+                            <li>Screenshot Monitoring</li>
+                            <li>1 screenshot per (#) minutes</li>
+                            <li>Screenshot saved for (#) months</li>
+                            <li>For (#) users</li>
                             <li><strong>+ Custom features</strong></li>
                         </ul>
                         <p class="mt-5 text-center"><strong>(#): set upon request</strong></p>

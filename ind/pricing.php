@@ -58,7 +58,13 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 <!-- End Google Tag Manager (noscript) -->
     <?php include "header.php" ?>
     <section class="banner">
-        <img src="/img/pricing/bg.jpg" class="img-fluid" />
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-12">
+                    <img src="/img/pricing/bg.jpg" class="img-fluid" />
+                </div>
+            </div>
+        </div>
     </section>
     <section class="price-plans">
         <div class="container">
@@ -154,11 +160,11 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                             </div>
                         </div>
                         <ul class="plan-benefits">
-                            <li><strong>Pelacak Waktu</strong></li>
-                            <li><strong>Screenshot Monitoring</strong></li>
-                            <li><strong>1 Screenshot per (#) menit</strong></li>
-                            <li><strong>Screenshot disimpan selama (#) bulan</strong></li>
-                            <li><strong>Untuk (#) pengguna</strong></li>
+                            <li>Pelacak Waktu</li>
+                            <li>Screenshot Monitoring</li>
+                            <li>1 Screenshot per (#) menit</li>
+                            <li>Screenshot disimpan selama (#) bulan</li>
+                            <li>Untuk (#) pengguna</li>
                             <li><strong>+ Fitur Tambahan</strong></li>
                         </ul>
                         <p class="mt-5 text-center"><strong>(#): sesuai permintaan</strong></p>
