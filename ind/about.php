@@ -119,7 +119,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                         Retensi karyawan adalah bagian penting dari pertumbuhan organisasi. Dengan menghargai semua karyawan yang tepat, itu akan mengurangi tingkat pengunduran diri. Dokodemo-Kerja dapat membantu Anda menentukan karyawan yang layak dijaga.
                     </p>
                 </div>
-                <div class="col-md-10 offset-md-1">
+                <div class="col-md-10 offset-md-1 about-resp-config">
                     <p class="text-center fw-semibold pt-4">Alasan paling umum bagi karyawan untuk berhenti adalah perjalanan panjang, Kurangnya keseimbangan kerja / hidup, dan gaji / tunjangan yang buruk. Dengan membiarkan mereka bekerja dari jarak jauh dengan persyaratan mereka, mereka akan melihat bahwa ada manfaat nyata yang bekerja untuk Anda.</p>
                 </div>
             </div>
@@ -129,7 +129,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
         <div class="container">
             <h2 class="text-center fs-30">EMPLOYEES</h2>
             <div class="row">
-                <div class="col-md-10 offset-md-1">
+                <div class="col-md-10 offset-md-1 about-resp-config">
                     <p class="fw-semibold text-center">Di masa pertumbuhan yang cepat, menjaga keseimbangan kehidupan kerja menjadi tantangan. Berikut adalah jenis masalah umum yang mungkin menghambat jam kerja karyawan, dan bagaimana Dokodemo-Kerja memecahkan beberapa masalah tersebut.</p>
                 </div>
                 <div class="col-md-6 employee-benefits-item">

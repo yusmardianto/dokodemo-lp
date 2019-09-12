@@ -73,7 +73,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 	<?php include 'header.php' ?>
 	<section class="contact-top text-center">
 	  <div class="container">
-		  <div class="row">
+		  <div class="row contact-resp-settings">
 			  <div class="col-sm-12 fs-30 uppercase bold" style="margin-bottom:20px">
 				Contact Us
 			  </div>
@@ -86,7 +86,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 	<br/><br/>
 	<div class="container dokodemo-customoption">
 	  <div class="row">
-		  <div class="col-md-8 offset-md-2">
+		  <div class="col-md-8 offset-md-2 contact-resp-settings">
 			<div class="semibold fs-18 subtitle-contact">What would you like to know about Dokodemo-Kerja?</div>
 			
 			<?php

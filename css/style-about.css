@@ -207,3 +207,40 @@ body {
     padding-bottom: 5px;
   }
 }
+
+@media screen and (max-width: 1024px) {
+  .about-us-right {
+    padding: 0.9em;
+  }
+}
+
+@media screen and (max-width: 768px) {
+  .about-us-right {
+    padding: 2em;
+  }
+}
+
+@media screen and (max-width: 425px) {
+  .benefits-item {
+    margin-top: 1.2em;
+    padding: 0 2em;
+  }
+  .about-resp-config {
+    padding: 0 2em;
+  }
+  .about-resp-config p {
+    text-align: justify !important;
+  }
+  .employee-benefits-item {
+    padding: 0 2em;
+  }
+  .employee-benefits-desc p {
+    text-align: justify;
+  }
+  .read-testimony {
+    padding: 2em;
+  }
+  .read-testimony h3 {
+    font-size: 18px;
+  }
+}

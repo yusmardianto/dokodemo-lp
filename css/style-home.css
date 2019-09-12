@@ -439,6 +439,13 @@ body {
     padding: 10px 0% 0 0;
     justify-content: center;
   }
+  .features p {
+    font-size: 16px;
+    margin-top: 15px;
+  }
+  .benefit-desc {
+    font-size: 14px;
+  }
   .header-feature {
     font-size: 22px;
   }
@@ -452,11 +459,57 @@ body {
   .dokodemo-desc p {
     font-size: 14px;
     width: 90%;
+    text-align: justify;
   }
 }
 
 @media screen and (max-width: 375px) {
+  .banner-header-text {
+    font-size: 22px;
+  }
+  .subbanner-header-text {
+    font-size: 14px;
+  }
+  .header-subfeature {
+    font-size: 14px;
+  }
+  .features {
+    padding: 15px;
+  }
+  .features p {
+    font-size: 16px;
+    margin-top: 15px;
+  }
+  .benefit-desc {
+    font-size: 14px;
+  }
+  .dokodemo-desc {
+    padding: 2em 1em;
+  }
+  .dokodemo-desc p {
+    font-size: 14px;
+    width: 90%;
+    text-align: justify;
+  }
   .slick-dots li {
     width: 18px;
+  }
+}
+
+@media screen and (max-width: 320px) {
+  .features p {
+    font-size: 14px;
+    margin-top: 15px;
+  }
+  .benefits-features {
+    padding: 2em 1em;
+    padding-top: 5em;
+  }
+  .section-title {
+    font-size: 24px;
+    padding-bottom: 0 !important;
+  }
+  .slick-dots li {
+    width: 12px;
   }
 }

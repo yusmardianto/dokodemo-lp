@@ -119,7 +119,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                         Employee retention is an important part of an organization&apos;s growth. By rewarding all the right employees, it would reduce the resignation rate. Dokodemo-Kerja can help you determine the employees worth keeping.
                     </p>
                 </div>
-                <div class="col-md-10 offset-md-1">
+                <div class="col-md-10 offset-md-1 about-resp-config">
                     <p class="text-center fw-semibold pt-4">The most common reasons for employees to quit are Long commutes, Lack of work/life balance, and Poor salary/benefits. By letting them work remotely on their terms, they will see that there is an actual benefit working for you.</p>
                 </div>
             </div>
@@ -129,7 +129,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
         <div class="container">
             <h2 class="text-center fs-30">EMPLOYEES</h2>
             <div class="row">
-                <div class="col-md-10 offset-md-1">
+                <div class="col-md-10 offset-md-1 about-resp-config">
                     <p class="fw-semibold text-center">In times of rapid growth, keeping a work-life balance has became a challenge. Here are the common types of problems that might hinder an employee's working-hour, and how Dokodemo-Kerja solves some of those problems.</p>
                 </div>
                 <div class="col-md-6 employee-benefits-item">

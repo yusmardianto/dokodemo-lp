@@ -62,101 +62,107 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
     </section>
     <section class="price-plans">
         <div class="container">
-            <div class="row mb-5 mt-5">
-                <div class="col-md-4 plans-item">
+            <div class="row mb-5 mt-5 pricing-container">
+                <div class="col-lg-4 col-md-6 plans-item">
                     <!-- <span class="plan-watermark">LIGHT PLAN</span> -->
                     <span class="plan-title">LIGHT PLAN</span>
-                    <div class="price">
-                        <span class="rp">Rp. </span>
-                        <span class="price-number">1M</span>
-                        <span class="per-month">/ Month</span>
-                    </div>
-                    <div class="row mb-5">
-                        <div class="col-md-6">
-                            <a href="/trial.php" class="btn-price-try-demo" id="btn-price-try-demo">
-                                Try Demo
-                            </a>
+                    <div class="plan-content-container">
+                        <div class="price">
+                            <span class="rp">Rp. </span>
+                            <span class="price-number">1M</span>
+                            <span class="per-month">/ Month</span>
                         </div>
-                        <div class="col-md-6">
-                            <a href="/contact-us.php" class="btn-price-buy-plan" id="btn-price-buy-plan">
-                                Buy Plan
-                            </a>
+                        <div class="row mb-5">
+                            <div class="col-md-6 plan-btn-left">
+                                <a href="/trial.php" class="btn-price-try-demo" id="btn-price-try-demo">
+                                    Try Demo
+                                </a>
+                            </div>
+                            <div class="col-md-6 plan-btn-right">
+                                <a href="/contact-us.php" class="btn-price-buy-plan" id="btn-price-buy-plan">
+                                    Buy Plan
+                                </a>
+                            </div>
                         </div>
-                    </div>
-                    <ul class="plan-benefits">
-                        <li>Time Tracking</li>
-                        <li>Screenshot Monitoring</li>
-                        <li>1 Screenshot per 10 minutes</li>
-                        <li>Screenshots saved for 2 months</li>
-						<li><strong>For 10 users</strong></li>
-                    </ul>
-
-                    <p class="pt-2"><strong>If the number of user is above 10 then additional charge is (for 1 more user)</strong></p>
-                    <div class="additional-fee">
-                        <span class="plus-rp">+Rp.</span>
-                        <span class="price-number">50.000</span>
-                        <span class="per-month">/ Month</span>
+                        <ul class="plan-benefits">
+                            <li>Time Tracking</li>
+                            <li>Screenshot Monitoring</li>
+                            <li>1 Screenshot per 10 minutes</li>
+                            <li>Screenshots saved for 2 months</li>
+                            <li><strong>For 10 users</strong></li>
+                        </ul>
+    
+                        <p class="pt-2"><strong>If the number of user is above 10 then additional charge is (for 1 more user)</strong></p>
+                        <div class="additional-fee">
+                            <span class="plus-rp">+Rp.</span>
+                            <span class="price-number">50.000</span>
+                            <span class="per-month">/ Month</span>
+                        </div>
                     </div>
                 </div>
-                <div class="col-md-4 plans-item">
+                <div class="col-lg-4 col-md-6 plans-item">
                     <!-- <span class="plan-watermark">STANDARD PLAN</span> -->
                     <span class="plan-title">STANDARD PLAN</span>
-                    <div class="price">
-                        <span class="rp">Rp. </span>
-                        <span class="price-number">3M</span>
-                        <span class="per-month">/ Month</span>
-                    </div>
-                    <div class="row mb-5">
-                        <div class="col-md-6">
-                            <a href="/trial.php" class="btn-price-try-demo" id="btn-price-try-demo">
-                                Try Demo
-                            </a>
+                    <div class="plan-content-container">
+                        <div class="price">
+                            <span class="rp">Rp. </span>
+                            <span class="price-number">3M</span>
+                            <span class="per-month">/ Month</span>
                         </div>
-                        <div class="col-md-6">
-                            <a href="/contact-us.php" class="btn-price-buy-plan" id="btn-price-buy-plan">
-                                Buy Plan
-                            </a>
+                        <div class="row mb-5">
+                            <div class="col-md-6 plan-btn-left">
+                                <a href="/trial.php" class="btn-price-try-demo" id="btn-price-try-demo">
+                                    Try Demo
+                                </a>
+                            </div>
+                            <div class="col-md-6 plan-btn-right">
+                                <a href="/contact-us.php" class="btn-price-buy-plan" id="btn-price-buy-plan">
+                                    Buy Plan
+                                </a>
+                            </div>
                         </div>
-                    </div>
-                    <ul class="plan-benefits">
-                        <li>Time Tracking</li>
-                        <li>Screenshot Monitoring</li>
-                        <li>1 Screenshot per 3 minutes</li>
-                        <li>Screenshots saved for 6 months</li>
-						<li><strong>For 10 users</strong></li>
-                    </ul>
-                    <p class="pt-2"><strong>If the number of user is above 10 then additional charge is (for 1 more user)</strong></p>
-                    <div class="additional-fee">
-                        <span class="plus-rp">+Rp.</span>
-                        <span class="price-number">75.000</span>
-                        <span class="per-month">/ Month</span>
+                        <ul class="plan-benefits">
+                            <li>Time Tracking</li>
+                            <li>Screenshot Monitoring</li>
+                            <li>1 Screenshot per 3 minutes</li>
+                            <li>Screenshots saved for 6 months</li>
+                            <li><strong>For 10 users</strong></li>
+                        </ul>
+                        <p class="pt-2"><strong>If the number of user is above 10 then additional charge is (for 1 more user)</strong></p>
+                        <div class="additional-fee">
+                            <span class="plus-rp">+Rp.</span>
+                            <span class="price-number">75.000</span>
+                            <span class="per-month">/ Month</span>
+                        </div>
                     </div>
                 </div>
-                 <div class="col-md-4 plans-item">
+                 <div class="col-lg-4 col-md-6 plans-item">
                     <!-- <span class="plan-watermark">STANDARD PLAN</span> -->
                     <span class="plan-title">ENTERPRISE PLAN</span>
-                    <p class="position-relative price-ent-contact-text">Contact us for pricing detail</p>
-                    <div class="plan-contact-us price-ent-contact-icon">
-                        <a href="tel:02122708935"><img src="img/pricing/call.png" id="call"/></a>
-                        <a href="mailto:sales@dokodemo-kerja.com"><img src="img/pricing/mail.png" id="mail" /></a>
-                        <a href="https://api.whatsapp.com/send?phone=62811870321" target="_blank"><img src="img/pricing/whatsapp.png" id="whatsapp" /></a>
-                    </div>
-                    <div class="row mb-5">
-                        <div class="col-md-12">
-                            <a href="/contact-us.php" class="btn-price-try-demo" id="btn-price-try-demo">
-                                Contact Us
-                            </a>
+                    <div class="plan-content-container">
+                        <p class="position-relative price-ent-contact-text">Contact us for pricing detail</p>
+                        <div class="plan-contact-us price-ent-contact-icon">
+                            <a href="tel:02122708935"><img src="img/pricing/call.png" id="call"/></a>
+                            <a href="mailto:sales@dokodemo-kerja.com"><img src="img/pricing/mail.png" id="mail" /></a>
+                            <a href="https://api.whatsapp.com/send?phone=62811870321" target="_blank"><img src="img/pricing/whatsapp.png" id="whatsapp" /></a>
                         </div>
+                        <div class="row mb-5">
+                            <div class="col-md-12">
+                                <a href="/contact-us.php" class="btn-price-try-demo" id="btn-price-try-demo">
+                                    Contact Us
+                                </a>
+                            </div>
+                        </div>
+                        <ul class="plan-benefits">
+                            <li><strong>Time Tracking</strong></li>
+                            <li><strong>Screenshot Monitoring</strong></li>
+                            <li><strong>1 screenshot per (#) minutes</strong></li>
+                            <li><strong>Screenshot saved for (#) months</strong></li>
+                            <li><strong>For (#) users</strong></li>
+                            <li><strong>+ Custom features</strong></li>
+                        </ul>
+                        <p class="mt-5 text-center"><strong>(#): set upon request</strong></p>
                     </div>
-                    <ul class="plan-benefits">
-						<li><strong>Time Tracking</strong></li>
-						<li><strong>Screenshot Monitoring</strong></li>
-						<li><strong>1 screenshot per (#) minutes</strong></li>
-						<li><strong>Screenshot saved for (#) months</strong></li>
-						<li><strong>For (#) users</strong></li>
-						<li><strong>+ Custom features</strong></li>
-                    </ul>
-                    <p class="mt-5 text-center"><strong>(#): set upon request</strong></p>
                     <!-- <p class="pt-2"><strong>If the number of user is above 10 then additional charge is (for 1 more user)</strong></p>
                     <div class="additional-fee">
                         <span class="plus-rp">+Rp.</span>

@@ -152,3 +152,9 @@
 .img-border {
   border: 1px solid #000;
 }
+
+@media screen and (max-width: 768px) {
+  .download-container {
+    padding: 15px 45px;
+  }
+}

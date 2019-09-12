@@ -157,6 +157,18 @@ body {
   position: relative;
 }
 
+.plan-content-container {
+  padding: 0 1em;
+}
+
+.plan-btn-left {
+  padding-right: 7px;
+}
+
+.plan-btn-right {
+  padding-left: 7px;
+}
+
 .btn-request-trial,
 .btn-request-trial:hover {
   color: white;
@@ -278,5 +290,26 @@ body {
     left: 40px;
     top: 20px;
     width: auto;
+  }
+}
+
+@media screen and (max-width: 425px) {
+  .plan-btn-left {
+    padding-right: 15px;
+  }
+  .plan-btn-right {
+    padding-left: 15px;
+  }
+  .btn-price-buy-plan {
+    margin-top: 15px;
+  }
+  .read-testimony {
+    padding: 2em;
+  }
+  .read-testimony h3 {
+    font-size: 18px;
+  }
+  .pricing-container {
+    margin-top: 0 !important;
   }
 }

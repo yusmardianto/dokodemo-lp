@@ -432,3 +432,9 @@ strong {
     margin-top: 0;
   }
 }
+
+@media screen and (max-width: 425px) {
+  .contact-resp-settings {
+    padding: 0 2em;
+  }
+}

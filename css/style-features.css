@@ -294,3 +294,22 @@ body {
     margin-bottom: 20px;
   }
 }
+
+@media screen and (max-width: 425px) {
+  .features-resp-config {
+    padding: 1em 2em;
+  }
+  .features-resp-config p {
+    text-align: justify !important;
+  }
+  .case-studies,
+  .employee-feature-list {
+    padding: 2em;
+  }
+  .manager-activity-list {
+    padding-right: 2em;
+  }
+  .manager-activity-list li {
+    text-align: justify;
+  }
+}

@@ -62,101 +62,107 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
     </section>
     <section class="price-plans">
         <div class="container">
-            <div class="row mb-5 mt-5">
-                 <div class="col-md-4 plans-item">
+            <div class="row mb-5 mt-5 pricing-container">
+                 <div class="col-lg-4 col-md-6 plans-item">
                     <!-- <span class="plan-watermark">LIGHT PLAN</span> -->
                     <span class="plan-title">LIGHT PLAN</span>
-                    <div class="price">
-                        <span class="rp">Rp. </span>
-                        <span class="price-number">1M</span>
-                        <span class="per-month">/ Month</span>
-                    </div>
-                    <div class="row mb-5">
-                        <div class="col-md-6">
-                            <a href="/ind/trial.php" class="btn-price-try-demo" id="btn-price-try-demo">
-                                Coba Demo
-                            </a>
+                    <div class="plan-content-container">
+                        <div class="price">
+                            <span class="rp">Rp. </span>
+                            <span class="price-number">1M</span>
+                            <span class="per-month">/ Month</span>
                         </div>
-                        <div class="col-md-6">
-                            <a href="/ind/contact-us.php" class="btn-price-buy-plan" id="btn-price-buy-plan">
-                                Beli Plan
-                            </a>
+                        <div class="row mb-5">
+                            <div class="col-md-6 plan-btn-left">
+                                <a href="/ind/trial.php" class="btn-price-try-demo" id="btn-price-try-demo">
+                                    Coba Demo
+                                </a>
+                            </div>
+                            <div class="col-md-6 plan-btn-right">
+                                <a href="/ind/contact-us.php" class="btn-price-buy-plan" id="btn-price-buy-plan">
+                                    Beli Plan
+                                </a>
+                            </div>
                         </div>
-                    </div>
-                    <ul class="plan-benefits">
-                        <li>Pelacak Waktu</li>
-                        <li>Screenshot Monitoring</li>
-                        <li>1 Screenshot per 10 menit</li>
-                        <li>Screenshots disimpan selama 2 bulan</li>
-                        <li><strong>Untuk 10 orang pengguna</strong></li>
-                    </ul>
-
-                    <p class="pt-2"><strong>Jika ada lebih dari 10 pengguna, maka setiap pengguna dikenakan biaya</strong></p>
-                    <div class="additional-fee">
-                        <span class="plus-rp">+Rp.</span>
-                        <span class="price-number">50.000</span>
-                        <span class="per-month">/ Month</span>
+                        <ul class="plan-benefits">
+                            <li>Pelacak Waktu</li>
+                            <li>Screenshot Monitoring</li>
+                            <li>1 Screenshot per 10 menit</li>
+                            <li>Screenshots disimpan selama 2 bulan</li>
+                            <li><strong>Untuk 10 orang pengguna</strong></li>
+                        </ul>
+    
+                        <p class="pt-2"><strong>Jika ada lebih dari 10 pengguna, maka setiap pengguna dikenakan biaya</strong></p>
+                        <div class="additional-fee">
+                            <span class="plus-rp">+Rp.</span>
+                            <span class="price-number">50.000</span>
+                            <span class="per-month">/ Month</span>
+                        </div>
                     </div>
                 </div>
-                <div class="col-md-4 plans-item">
+                <div class="col-lg-4 col-md-6 plans-item">
                     <!-- <span class="plan-watermark">STANDARD PLAN</span> -->
                     <span class="plan-title">STANDARD PLAN</span>
-                    <div class="price">
-                        <span class="rp">Rp. </span>
-                        <span class="price-number">3M</span>
-                        <span class="per-month">/ Bulan</span>
-                    </div>
-                    <div class="row mb-5">
-                        <div class="col-md-6">
-                            <a href="/ind/trial.php" class="btn-price-try-demo" id="btn-price-try-demo">
-                                Coba Demo
-                            </a>
+                    <div class="plan-content-container">
+                        <div class="price">
+                            <span class="rp">Rp. </span>
+                            <span class="price-number">3M</span>
+                            <span class="per-month">/ Bulan</span>
                         </div>
-                        <div class="col-md-6">
-                            <a href="/ind/contact-us.php" class="btn-price-buy-plan" id="btn-price-buy-plan">
-                                Beli Plan
-                            </a>
+                        <div class="row mb-5">
+                            <div class="col-md-6 plan-btn-left">
+                                <a href="/ind/trial.php" class="btn-price-try-demo" id="btn-price-try-demo">
+                                    Coba Demo
+                                </a>
+                            </div>
+                            <div class="col-md-6 plan-btn-right">
+                                <a href="/ind/contact-us.php" class="btn-price-buy-plan" id="btn-price-buy-plan">
+                                    Beli Plan
+                                </a>
+                            </div>
                         </div>
-                    </div>
-                    <ul class="plan-benefits">
-                        <li>Pelacak Waktu</li>
-                        <li>Screenshot Monitoring</li>
-                        <li>1 Screenshot per 3 menit</li>
-                        <li>Screenshots disimpan selama 6 bulan</li>
-                        <li><strong>Untuk 10 orang pengguna</strong></li>
-                    </ul>
-                    <p class="pt-2"><strong>Jika ada lebih dari 10 pengguna, maka setiap pengguna dikenakan biaya</strong></p>
-                    <div class="additional-fee">
-                        <span class="plus-rp">+Rp.</span>
-                        <span class="price-number">75.000</span>
-                        <span class="per-month">/ Bulan</span>
+                        <ul class="plan-benefits">
+                            <li>Pelacak Waktu</li>
+                            <li>Screenshot Monitoring</li>
+                            <li>1 Screenshot per 3 menit</li>
+                            <li>Screenshots disimpan selama 6 bulan</li>
+                            <li><strong>Untuk 10 orang pengguna</strong></li>
+                        </ul>
+                        <p class="pt-2"><strong>Jika ada lebih dari 10 pengguna, maka setiap pengguna dikenakan biaya</strong></p>
+                        <div class="additional-fee">
+                            <span class="plus-rp">+Rp.</span>
+                            <span class="price-number">75.000</span>
+                            <span class="per-month">/ Bulan</span>
+                        </div>
                     </div>
                 </div>
-                 <div class="col-md-4 plans-item">
+                 <div class="col-lg-4 col-md-6 plans-item">
                     <!-- <span class="plan-watermark">STANDARD PLAN</span> -->
                     <span class="plan-title">ENTERPRISE PLAN</span>
-                    <p class="position-relative price-ent-contact-text">Hubungi kami untuk detail harga</p>
-                    <div class="plan-contact-us price-ent-contact-icon">
-                        <a href="tel:02122708935"><img src="../img/pricing/call.png" id="call"/></a>
-                        <a href="mailto:sales@dokodemo-kerja.com"><img src="../img/pricing/mail.png" id="mail" /></a>
-                        <a href="https://api.whatsapp.com/send?phone=62811870321" target="_blank"><img src="../img/pricing/whatsapp.png" id="whatsapp" /></a>
-                    </div>
-                    <div class="row mb-5">
-                        <div class="col-md-12">
-                            <a href="/ind/contact-us.php" class="btn-price-try-demo" id="btn-price-try-demo">
-                                Kontak Kami
-                            </a>
+                    <div class="plan-content-container">
+                        <p class="position-relative price-ent-contact-text">Hubungi kami untuk detail harga</p>
+                        <div class="plan-contact-us price-ent-contact-icon">
+                            <a href="tel:02122708935"><img src="../img/pricing/call.png" id="call"/></a>
+                            <a href="mailto:sales@dokodemo-kerja.com"><img src="../img/pricing/mail.png" id="mail" /></a>
+                            <a href="https://api.whatsapp.com/send?phone=62811870321" target="_blank"><img src="../img/pricing/whatsapp.png" id="whatsapp" /></a>
                         </div>
+                        <div class="row mb-5">
+                            <div class="col-md-12">
+                                <a href="/ind/contact-us.php" class="btn-price-try-demo" id="btn-price-try-demo">
+                                    Kontak Kami
+                                </a>
+                            </div>
+                        </div>
+                        <ul class="plan-benefits">
+                            <li><strong>Pelacak Waktu</strong></li>
+                            <li><strong>Screenshot Monitoring</strong></li>
+                            <li><strong>1 Screenshot per (#) menit</strong></li>
+                            <li><strong>Screenshot disimpan selama (#) bulan</strong></li>
+                            <li><strong>Untuk (#) pengguna</strong></li>
+                            <li><strong>+ Fitur Tambahan</strong></li>
+                        </ul>
+                        <p class="mt-5 text-center"><strong>(#): sesuai permintaan</strong></p>
                     </div>
-                    <ul class="plan-benefits">
-						<li><strong>Pelacak Waktu</strong></li>
-						<li><strong>Screenshot Monitoring</strong></li>
-						<li><strong>1 Screenshot per (#) menit</strong></li>
-						<li><strong>Screenshot disimpan selama (#) bulan</strong></li>
-						<li><strong>Untuk (#) pengguna</strong></li>
-						<li><strong>+ Fitur Tambahan</strong></li>
-                    </ul>
-                    <p class="mt-5 text-center"><strong>(#): sesuai permintaan</strong></p>
                     <!-- <p class="pt-2"><strong>If the number of user is above 10 then additional charge is (for 1 more user)</strong></p>
                     <div class="additional-fee">
                         <span class="plus-rp">+Rp.</span>

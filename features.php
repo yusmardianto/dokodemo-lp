@@ -60,7 +60,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
     <section class="features-section">
         <div class="container">
             <div class="row">
-                <div class="col-md-8 offset-md-2">
+                <div class="col-md-8 offset-md-2 features-resp-config">
                     <h1 class="fw-semibold fs-23 text-center mb-4">FEATURES</h1>
                     <p class="fw-semibold text-center">Dokodemo-Kerja is a profitable work system solution for both employees and companies. With an efficient work system, Dokodemo-Kerja can help companies concentrate on increasing productivity while at the same time, providing flexibility for their employees.</p>
                     <div class="row">
