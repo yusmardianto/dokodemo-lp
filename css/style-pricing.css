@@ -296,7 +296,7 @@ body {
   }
 }
 
-@media screen and (max-width: 425px) {
+@media screen and (max-width: 767px) {
   .plan-btn-left {
     padding-right: 15px;
   }
@@ -306,6 +306,9 @@ body {
   .btn-price-buy-plan {
     margin-top: 15px;
   }
+}
+
+@media screen and (max-width: 425px) {
   .read-testimony {
     padding: 2em;
   }
