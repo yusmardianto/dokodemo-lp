@@ -213,12 +213,11 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
     <section class="guides py-2">
         <div class="container">
             <div class="row">
-                <div class="col-md-4 offset-md-4 py-2">
+                <!-- <div class="col-md-4 offset-md-4 py-2">
                     <a href="/ind/trial.php" id="trial-img">
                         <img src="/img/features/free-trial.jpg" alt="free-trial" class="img-fluid mx-auto d-block" id="features-free-trial-id" />
                     </a>
-                </div>
-                <div class="col-md-4"></div>
+                </div> -->
                 <div class="col-md-4 offset-md-2 col-10 offset-1 py-2">
                     <a href="http://dokodemo-web.test/pdf/manual-guide.pdf" id="manual-guide-img" class="dl-guide">
                         <img src="/img/manual.png" alt="manual-guide" class="img-fluid mx-auto d-block" id="features-free-trial-id" />

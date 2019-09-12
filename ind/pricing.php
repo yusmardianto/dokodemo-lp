@@ -86,7 +86,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                             </div>
                             <div class="col-md-6 plan-btn-right">
                                 <a href="/ind/contact-us.php" class="btn-price-buy-plan" id="btn-price-buy-plan">
-                                    Beli Plan
+                                    Beli Paket
                                 </a>
                             </div>
                         </div>
@@ -123,7 +123,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                             </div>
                             <div class="col-md-6 plan-btn-right">
                                 <a href="/ind/contact-us.php" class="btn-price-buy-plan" id="btn-price-buy-plan">
-                                    Beli Plan
+                                    Beli Paket
                                 </a>
                             </div>
                         </div>
@@ -155,7 +155,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                         <div class="row mb-5">
                             <div class="col-md-12">
                                 <a href="/ind/contact-us.php" class="btn-price-try-demo" id="btn-price-try-demo">
-                                    Kontak Kami
+                                    Hubungi Kami
                                 </a>
                             </div>
                         </div>
