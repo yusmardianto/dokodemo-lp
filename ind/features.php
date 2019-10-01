@@ -15,6 +15,8 @@
     <link rel="stylesheet" href="/css/slick-theme.css" />
     <link rel="stylesheet" href="/css/header-footer.css" />
     <link rel="stylesheet" href="/css/style-features.css" />
+    <link rel="stylesheet" href="/js/magnific-popup.css" />
+
     <link rel="shortcut icon" type="image/x-icon" href="favicon.ico">
     <title>Dokodemo-Kerja | Fitur</title>
 	<!-- Google Tag Manager -->
@@ -95,13 +97,37 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
     </section>
     <section class="screenshots">
         <div class="container-fluid">
-            <div class="screenshot-slide">
-                <div><img src="/img/features/screen-1.jpg" class="img-slide-screenshot" /></div>
-                <div><img src="/img/features/screen-2.jpg" class="img-slide-screenshot" /></div>
-                <div><img src="/img/features/screen-3.jpg" class="img-slide-screenshot" /></div>
-                <div><img src="/img/features/screen-1.jpg" class="img-slide-screenshot" /></div>
-                <div><img src="/img/features/screen-2.jpg" class="img-slide-screenshot" /></div>
-                <div><img src="/img/features/screen-3.jpg" class="img-slide-screenshot" /></div>
+             <div class="screenshot-slide zoom-gallery">
+                <div>
+                    <a href="/img/features/screen-1.jpg" data-source="/img/features/screen-1.jpg" title="Screenshots aktivitas kerja">
+                        <img src="/img/features/screen-1.jpg" class="img-slide-screenshot modal-hover-opacity"/>
+                    </a>
+                </div>
+                <div>
+                    <a href="/img/features/screen-2.jpg" data-source="/img/features/screen-2.jpg" title="Indikator Jam Kerja Harian">
+                        <img src="/img/features/screen-2.jpg" class="img-slide-screenshot modal-hover-opacity"/>
+                    </a>
+                </div>
+                <div>
+                    <a href="/img/features/screen-3.jpg" data-source="/img/features/screen-3.jpg" title="Pengaturan Staff">
+                        <img src="/img/features/screen-3.jpg" class="img-slide-screenshot modal-hover-opacity"/>
+                    </a>
+                </div>
+                <div>
+                    <a href="/img/features/screen-1.jpg" data-source="/img/features/screen-1.jpg" title="Screenshots aktivitas kerja">
+                        <img src="/img/features/screen-1.jpg" class="img-slide-screenshot modal-hover-opacity"/>
+                    </a>
+                </div>
+                <div>
+                    <a href="/img/features/screen-2.jpg" data-source="/img/features/screen-2.jpg" title="Indikator Jam Kerja Harian">
+                        <img src="/img/features/screen-2.jpg" class="img-slide-screenshot modal-hover-opacity"/>
+                    </a>
+                </div>
+                <div>
+                    <a href="/img/features/screen-3.jpg" data-source="/img/features/screen-3.jpg" title="Pengaturan Staff">
+                        <img src="/img/features/screen-3.jpg" class="img-slide-screenshot modal-hover-opacity"/>
+                    </a>
+                </div>
             </div>
         </div>
     </section>
@@ -127,24 +153,32 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
             <div class="manager-role">
                 <h3 class="text-center"><strong>MANAGER / HR</strong></h3>
                 <p class="text-center"><strong></strong>Dengan mudah melacak jam kerja semua orang dan kegiatan mereka</p>
-                <div class="row">
+                <div class="row zoom-gallery">
                     <div class="col-md-6 screenshot-item">
-                        <img src="/img/features/d_4.jpg" class="img-fluid" />
+                        <a href="/img/features/d_4.jpg" data-source="/img/features/d_4.jpg" title="Indikator Jam Kerja Harian">
+                            <img src="/img/features/d_4.jpg" class="img-fluid modal-hover-opacity"/>
+                        </a>
                         <p class="fw-semibold">Indikator Jam Kerja Harian</p>
                         <hr class="blue-separator">
                     </div>
                     <div class="col-md-6 screenshot-item">
-                        <img src="/img/features/d_5.jpg" class="img-fluid" />
+                        <a href="/img/features/d_5.jpg" data-source="/img/features/d_5.jpg" title="Ringkasan Jam Kerja Mingguan">
+                            <img src="/img/features/d_5.jpg" class="img-fluid modal-hover-opacity"/>
+                        </a>
                         <p class="fw-semibold">Ringkasan Jam Kerja Mingguan</p>
                         <hr class="blue-separator">
                     </div>
                     <div class="col-md-6 screenshot-item">
-                        <img src="/img/features/d_6.jpg" class="img-fluid" />
+                         <a href="/img/features/d_6.jpg" data-source="/img/features/d_6.jpg" title="Screenshots aktivitas kerja">
+                            <img src="/img/features/d_6.jpg" class="img-fluid modal-hover-opacity"/>
+                        </a>
                         <p class="fw-semibold">Screenshots aktivitas kerja</p>
                         <hr class="blue-separator">
                     </div>
                     <div class="col-md-6 screenshot-item">
-                        <img src="/img/features/edit-time.jpg" class="img-fluid" />
+                         <a href="/img/features/edit-time.jpg" data-source="/img/features/edit-time.jpg" title="Kelola Riwayat dan Pengeditan Jam Kerja">
+                            <img src="/img/features/edit-time.jpg" class="img-fluid modal-hover-opacity"/>
+                        </a>
                         <p class="fw-semibold">Kelola Riwayat dan Pengeditan Jam Kerja</p>
                         <hr class="blue-separator">
                     </div>
@@ -236,6 +270,8 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
     <script src="/js/jquery-3.4.1.min.js"></script>
     <script src="/js/bootstrap.min.js"></script>
     <script src="/js/slick.min.js"></script>
+    <script src="/js/jquery.magnific-popup.min.js"></script>
+
     <script>
         $(".screenshot-slide").slick({
             infinite: true,
@@ -275,6 +311,34 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                 }
             }, ]
         });
+    </script>
+     <script>
+    $(document).ready(function() {
+        $('.zoom-gallery').magnificPopup({
+            delegate: 'a',
+            type: 'image',
+            closeOnContentClick: false,
+            closeBtnInside: false,
+            mainClass: 'mfp-with-zoom mfp-img-mobile',
+            image: {
+                verticalFit: true,
+                titleSrc: function(item) {
+                    return item.el.attr('title') + ' &middot; <a class="image-source-link" href="'+item.el.attr('data-source')+'" target="_blank">Full Image</a>';
+                }
+            },
+            gallery: {
+                enabled: false
+            },
+            zoom: {
+                enabled: true,
+                duration: 300, // don't foget to change the duration also in CSS
+                opener: function(element) {
+                    return element.find('img');
+                }
+            }
+            
+        });
+    });
     </script>
 </body>
 

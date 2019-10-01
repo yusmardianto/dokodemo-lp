@@ -15,6 +15,8 @@
     <link rel="stylesheet" href="css/slick-theme.css" />
     <link rel="stylesheet" href="css/header-footer.css" />
     <link rel="stylesheet" href="css/style-features.css" />
+    <link rel="stylesheet" href="js/magnific-popup.css" />
+
 	<link rel="shortcut icon" type="image/x-icon" href="favicon.ico">
     <title>Dokodemo-Kerja | Feature</title>
 	<!-- Google Tag Manager -->
@@ -95,13 +97,37 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
     </section>
     <section class="screenshots">
         <div class="container-fluid">
-            <div class="screenshot-slide">
-                <div><img src="img/features/screen-1.jpg" class="img-slide-screenshot" /></div>
-                <div><img src="img/features/screen-2.jpg" class="img-slide-screenshot" /></div>
-                <div><img src="img/features/screen-3.jpg" class="img-slide-screenshot" /></div>
-                <div><img src="img/features/screen-1.jpg" class="img-slide-screenshot" /></div>
-                <div><img src="img/features/screen-2.jpg" class="img-slide-screenshot" /></div>
-                <div><img src="img/features/screen-3.jpg" class="img-slide-screenshot" /></div>
+            <div class="screenshot-slide zoom-gallery">
+                <div>
+                    <a href="img/features/screen-1.jpg" data-source="img/features/screen-1.jpg" title="Daily Working Screen Capture">
+                        <img src="img/features/screen-1.jpg" class="img-slide-screenshot modal-hover-opacity"/>
+                    </a>
+                </div>
+                <div>
+                    <a href="img/features/screen-2.jpg" data-source="img/features/screen-2.jpg" title="Daily Working Hours Bars">
+                        <img src="img/features/screen-2.jpg" class="img-slide-screenshot modal-hover-opacity"/>
+                    </a>
+                </div>
+                <div>
+                    <a href="img/features/screen-3.jpg" data-source="img/features/screen-3.jpg" title="Staff Management">
+                        <img src="img/features/screen-3.jpg" class="img-slide-screenshot modal-hover-opacity"/>
+                    </a>
+                </div>
+                <div>
+                    <a href="img/features/screen-1.jpg" data-source="img/features/screen-1.jpg" title="Daily Working Screen Capture">
+                        <img src="img/features/screen-1.jpg" class="img-slide-screenshot modal-hover-opacity"/>
+                    </a>
+                </div>
+                <div>
+                    <a href="img/features/screen-2.jpg" data-source="img/features/screen-2.jpg" title="Daily Working Hours Bars">
+                        <img src="img/features/screen-2.jpg" class="img-slide-screenshot modal-hover-opacity"/>
+                    </a>
+                </div>
+                <div>
+                    <a href="img/features/screen-3.jpg" data-source="img/features/screen-3.jpg" title="Staff Management">
+                        <img src="img/features/screen-3.jpg" class="img-slide-screenshot modal-hover-opacity"/>
+                    </a>
+                </div>
             </div>
         </div>
     </section>
@@ -127,24 +153,32 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
             <div class="manager-role">
                 <h3 class="text-center"><strong>MANAGER / HR</strong></h3>
                 <p class="text-center"><strong>Easily track everyone's</strong> working hours and their <strong>activities</strong></p>
-                <div class="row">
+                <div class="row zoom-gallery">
                     <div class="col-md-6 screenshot-item">
-                        <img src="img/features/d_4.jpg" class="img-fluid" />
+                        <a href="img/features/d_4.jpg" data-source="img/features/d_4.jpg" title="Daily Working Hours Bars">
+                            <img src="img/features/d_4.jpg" class="img-fluid modal-hover-opacity"/>
+                        </a>
                         <p class="fw-semibold">Daily Working Hours Bars</p>
                         <hr class="blue-separator">
                     </div>
                     <div class="col-md-6 screenshot-item">
-                        <img src="img/features/d_5.jpg" class="img-fluid" />
+                        <a href="img/features/d_5.jpg" data-source="img/features/d_5.jpg" title="Weekly Working Hours Summary">
+                            <img src="img/features/d_5.jpg" class="img-fluid modal-hover-opacity"/>
+                        </a>
                         <p class="fw-semibold">Weekly Working Hours Summary</p>
                         <hr class="blue-separator">
                     </div>
                     <div class="col-md-6 screenshot-item">
-                        <img src="img/features/d_6.jpg" class="img-fluid" />
-                        <p class="fw-semibold">Daily Working Hours Bars</p>
+                         <a href="img/features/d_6.jpg" data-source="img/features/d_6.jpg" title="Daily Working Screen Capture">
+                            <img src="img/features/d_6.jpg" class="img-fluid modal-hover-opacity"/>
+                        </a>
+                        <p class="fw-semibold">Daily Working Screen Capture</p>
                         <hr class="blue-separator">
                     </div>
                     <div class="col-md-6 screenshot-item">
-                        <img src="img/features/edit-time.jpg" class="img-fluid" />
+                         <a href="img/features/edit-time.jpg" data-source="img/features/edit-time.jpg" title="Manage Users' Editing Working Hours History">
+                            <img src="img/features/edit-time.jpg" class="img-fluid modal-hover-opacity"/>
+                        </a>
                         <p class="fw-semibold">Manage Users' Editing Working Hours History</p>
                         <hr class="blue-separator">
                     </div>
@@ -230,12 +264,19 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                 </div>
             </div>
         </div>
-
     </section>
+    <!-- <div id="modal01" class="modal-box">
+        <span class="close"  onclick="onClose()" style="cursor:pointer;">&times;&nbsp;&nbsp;&nbsp;&nbsp;</span>
+        <div class="modal-box-content">
+            <img id="img01" style="min-width:100%; max-width:150%; margin:0 auto;">
+        </div>
+    </div> -->
     <?php include "footer.php" ?>
     <script src="js/jquery-3.4.1.min.js"></script>
     <script src="js/bootstrap.min.js"></script>
     <script src="js/slick.min.js"></script>
+    <script src="js/jquery.magnific-popup.min.js"></script>
+    
     <script>
         $(".screenshot-slide").slick({
             infinite: true,
@@ -276,6 +317,43 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
             }, ]
         });
     </script>
+    <script>
+    $(document).ready(function() {
+        $('.zoom-gallery').magnificPopup({
+            delegate: 'a',
+            type: 'image',
+            closeOnContentClick: false,
+            closeBtnInside: false,
+            mainClass: 'mfp-with-zoom mfp-img-mobile',
+            image: {
+                verticalFit: true,
+                titleSrc: function(item) {
+                    return item.el.attr('title') + ' &middot; <a class="image-source-link" href="'+item.el.attr('data-source')+'" target="_blank">image source</a>';
+                }
+            },
+            gallery: {
+                enabled: false
+            },
+            zoom: {
+                enabled: true,
+                duration: 300, // don't foget to change the duration also in CSS
+                opener: function(element) {
+                    return element.find('img');
+                }
+            }
+            
+        });
+    });
+    </script>
+    <!-- <script>
+    function onClick(element) {
+        document.getElementById("img01").src = element.src;
+        document.getElementById("modal01").style.display = "block";
+    }
+    function onClose() {
+        document.getElementById("modal01").style.display = "none";
+    }
+    </script> -->
 </body>
 
 </html>
