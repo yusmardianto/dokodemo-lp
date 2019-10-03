@@ -132,9 +132,9 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                             <li>Screenshot Monitoring</li>
                             <li>1 Screenshot per 3 minutes</li>
                             <li>Screenshots saved for 6 months</li>
-                            <li><strong>For 10 users</strong></li>
+                            <li><strong>For 20 users</strong></li>
                         </ul>
-                        <p class="pt-2"><strong>If the number of user is above 10 then additional charge is (for 1 more user)</strong></p>
+                        <p class="pt-2"><strong>If the number of user is above 20 then additional charge is (for 1 more user)</strong></p>
                         <div class="additional-fee">
                             <span class="plus-rp">+Rp.</span>
                             <span class="price-number">75.000</span>
@@ -150,7 +150,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                         <div class="plan-contact-us price-ent-contact-icon">
                             <a href="tel:02122708935"><img src="img/pricing/call.png" id="call"/></a>
                             <a href="mailto:sales@dokodemo-kerja.com"><img src="img/pricing/mail.png" id="mail" /></a>
-                            <a href="https://api.whatsapp.com/send?phone=62811870321" target="_blank"><img src="img/pricing/whatsapp.png" id="whatsapp" /></a>
+                            <a href="https://api.whatsapp.com/send?phone=62811870321&text=Hello, I want to know more about Enterprise Plan of Dokodemo-Kerja." target="_blank"><img src="img/pricing/whatsapp.png" id="whatsapp" /></a>
                         </div>
                         <div class="row mb-5">
                             <div class="col-md-12">

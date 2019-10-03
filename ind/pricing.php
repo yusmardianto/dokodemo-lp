@@ -132,9 +132,9 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                             <li>Screenshot Monitoring</li>
                             <li>1 Screenshot per 3 menit</li>
                             <li>Screenshots disimpan selama 6 bulan</li>
-                            <li><strong>Untuk 10 orang pengguna</strong></li>
+                            <li><strong>Untuk 20 orang pengguna</strong></li>
                         </ul>
-                        <p class="pt-2"><strong>Jika ada lebih dari 10 pengguna, maka setiap pengguna dikenakan biaya</strong></p>
+                        <p class="pt-2"><strong>Jika ada lebih dari 20 pengguna, maka setiap pengguna dikenakan biaya</strong></p>
                         <div class="additional-fee">
                             <span class="plus-rp">+Rp.</span>
                             <span class="price-number">75.000</span>
@@ -150,7 +150,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                         <div class="plan-contact-us price-ent-contact-icon">
                             <a href="tel:02122708935"><img src="../img/pricing/call.png" id="call"/></a>
                             <a href="mailto:sales@dokodemo-kerja.com"><img src="../img/pricing/mail.png" id="mail" /></a>
-                            <a href="https://api.whatsapp.com/send?phone=62811870321" target="_blank"><img src="../img/pricing/whatsapp.png" id="whatsapp" /></a>
+                            <a href="https://api.whatsapp.com/send?phone=62811870321&text=Halo, saya ingin bertanya tentang Enterprise Plan Dokodemo-Kerja." target="_blank"><img src="../img/pricing/whatsapp.png" id="whatsapp" /></a>
                         </div>
                         <div class="row mb-5">
                             <div class="col-md-12">
