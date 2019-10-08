@@ -392,7 +392,8 @@ body {
   .header-demo-text {
     font-size: 20px;
   }
-  .btn-try-demo {
+  .btn-try-demo,
+  .btn-try-demo:hover {
     width: 160px;
     font-size: 13px;
   }
