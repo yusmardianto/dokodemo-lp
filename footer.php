@@ -38,7 +38,7 @@
             </div>
             <div class="col-lg-3">
                 <a href="https://www.logique.co.id/" target="_blank">
-                    <img src="img/logo_logique.png" class="img-fluid" />
+                    <img src="img/logo_logique.png" class="img-fluid logique-logo" />
                 </a>
             </div>
         </div>

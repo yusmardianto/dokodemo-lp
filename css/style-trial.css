@@ -171,6 +171,9 @@
 
 @media only screen and (max-width: 425px) {
   .hide-button-on-mobile {
+    display: block;
+  }
+  .speech-bubble {
     display: none;
   }
 }
