@@ -4,6 +4,8 @@
         $url = end($url_array);  
         if($current_page == $url){
             echo 'active'; 
+        } else {
+            echo 'Not Found';
         }
     } 
 ?>

@@ -91,6 +91,16 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
             </div>
         </div>
     </section>
+    <section class="hide-button-on-mobile">
+        <span id="popup-text">
+            <div class="speech-bubble">
+                Hubungi kami melalui Whatsapp
+            </div>
+        </span>
+        <a href="https://api.whatsapp.com/send?phone=62811870321&text=Halo, saya ingin bertanya tentang software Dokodemo-Kerja" target="_blank">
+            <img src="../img/whatsapp.svg" id="fixedbutton"/>
+        </a>
+    </section>
     <section class="case-studies">
         <h2>Bertanya-tanya bagaimana Anda dapat menggunakan semua fitur ini? Baca studi kasus di halaman Tentang Kami</h2>
         <a href="about.php" class="btn-see-case" id='btn-see-case'>Lihat Studi Kasus</a>
@@ -339,6 +349,16 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
             
         });
     });
+    </script>
+    <script>
+        var element = document.getElementById("popup-text");
+
+        var t=setTimeout(openPopUp,5000);
+        function openPopUp() {
+        element = document.getElementById("popup-text");
+        element.style.visibility = "visible";
+        element.style.opacity = "1";
+        }
     </script>
 </body>
 

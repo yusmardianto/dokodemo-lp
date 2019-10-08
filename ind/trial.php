@@ -188,7 +188,7 @@ $page = 'trial.php';
 		<div class="container">
 			<div class="row mt-5 mb-5">
 				<div class="col-md-6 download-container">
-					<h3 class="download-title">Download Links</h3>
+					<h3 class="download-title">Download Links :</h3>
 					<a href="https://demo.dokodemo-kerja.com/files/Dokodemo-Kerja%20(Windows)%20demo%20v1.0.4.zip" class="btn btn-download bold uppercase" id="btn-download-windows-id"><i class="fa fa-download icon-download"></i>Windows</a>
 					<a href="https://demo.dokodemo-kerja.com/files/Dokodemo-Kerja%20(Mac)%20demo%20v1.0.4.zip" class="btn btn-download bold uppercase" id="btn-download-ios-id"><i class="fa fa-download icon-download"></i>IOS</a>
 					<a href="https://demo.dokodemo-kerja.com/files/Dokodemo-Kerja%20(Linux)%20demo%20v1.0.4.zip" class="btn btn-download bold uppercase" id="btn-download-linux-id"><i class="fa fa-download icon-download"></i>Linux</a>
@@ -292,6 +292,16 @@ $page = 'trial.php';
 			</div>
 		</div>
 	</section>
+	<section class="hide-button-on-mobile">
+        <span id="popup-text">
+            <div class="speech-bubble">
+                Hubungi kami melalui Whatsapp
+            </div>
+        </span>
+        <a href="https://api.whatsapp.com/send?phone=62811870321&text=Halo, saya ingin bertanya tentang software Dokodemo-Kerja" target="_blank">
+            <img src="../img/whatsapp.svg" id="fixedbutton"/>
+        </a>
+    </section>
 	<!-- <div class="container">
 		<div class="row mt-5">
 			<div class="col-md-5 offset-md-1">
@@ -549,6 +559,16 @@ $page = 'trial.php';
 			document.getElementById("submit-btn-trial").disabled = false;
 		}
 	</script>
+	<script>
+        var element = document.getElementById("popup-text");
+
+        var t=setTimeout(openPopUp,5000);
+        function openPopUp() {
+        element = document.getElementById("popup-text");
+        element.style.visibility = "visible";
+        element.style.opacity = "1";
+        }
+    </script>
 </body>
 
 </html>

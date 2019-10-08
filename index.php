@@ -136,6 +136,16 @@
             </div>
         </div>
     </section>
+    <section class="hide-button-on-mobile">
+        <span id="popup-text">
+            <div class="speech-bubble">
+                Chat us on Whatsapp
+            </div>
+        </span>
+        <a href="https://api.whatsapp.com/send?phone=62811870321&text=Halo, saya ingin bertanya tentang software Dokodemo-Kerja" target="_blank">
+            <img src="../img/whatsapp.svg" id="fixedbutton"/>
+        </a>
+    </section>
     <section id="benefits" class="benefits-features">
         <h1 class="section-title pb-4">BENEFITS AND FEATURES</h1>
         <div class="container pt-4">
@@ -328,6 +338,16 @@
                 }
             });
         });
+    </script>
+    <script>
+        var element = document.getElementById("popup-text");
+
+        var t=setTimeout(openPopUp,5000);
+        function openPopUp() {
+        element = document.getElementById("popup-text");
+        element.style.visibility = "visible";
+        element.style.opacity = "1";
+        }
     </script>
 </body>
 

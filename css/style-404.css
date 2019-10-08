@@ -1,0 +1,23 @@
+.container-404 {
+  display: grid;
+}
+.element {
+  justify-self: center;
+  align-self: center;
+}
+
+/* just aesthetics */
+.container-404 {
+  width: 90vw;
+  height: 90vh;
+  margin: auto;
+}
+
+.element {
+  width: 50vw;
+  height: 50vh;
+  line-height: 50vh;
+  text-align: center;
+  margin: 0 auto;
+  font-size: 32px;
+}
