@@ -97,7 +97,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 	<div class="container dokodemo-customoption">
 	  <div class="row">
 		  <div class="col-md-8 offset-md-2 contact-resp-settings">
-			<div class="semibold fs-18 subtitle-contact">What would you like to know about Dokodemo-Kerja?</div>
+			<div class="semibold fs-18 subtitle-contact">To buy Dokodemo-Kerja, choose a plan and fill in the form below.</div>
 			
 			<?php
             if (!is_null($success)) {

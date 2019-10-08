@@ -96,7 +96,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 	<div class="container dokodemo-customoption">
 		<div class="row">
 			<div class="col-md-8 offset-md-2 contact-resp-settings">
-				<div class="semibold fs-18 subtitle-contact">Apa yang ingin anda tanyakan tentang Dokodemo-Kerja?</div>
+				<div class="semibold fs-18 subtitle-contact">Untuk membeli Dokodemo-Kerja, pilihlah paket yang diinginkan dan isi formulir di bawah ini.</div>
 
 				<?php
 					if (!is_null($success)) {

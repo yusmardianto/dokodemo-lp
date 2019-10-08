@@ -224,6 +224,16 @@ footer {
     width: 75px;
     height: auto;
   }
+  .footer-menu-list li a,
+  .footer-menu-list li a:hover {
+    color: white;
+    text-decoration: none;
+    font-size: 12px;
+  }
+  .footer-contact-item a span {
+    padding-left: 10px;
+    font-size: 12px;
+  }
 }
 
 @media screen and (max-width: 768px) {
