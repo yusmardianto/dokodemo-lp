@@ -101,6 +101,37 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
             <img src="../img/whatsapp.svg" id="fixedbutton"/>
         </a>
     </section>
+    <section>
+        <div class="modal fade" id="myModal" tabindex="-1" role="dialog" aria-labelledby="exampleModalCenterTitle" aria-hidden="true">
+            <div class="modal-dialog modal-dialog-centered" role="document">
+                <div class="modal-content">
+                <div class="modal-header survey-pop-header">
+                    <h5 class="modal-title survey-pop-title" id="exampleModalLongTitle">Promo Dokodemo-Kerja!</h5>
+                    <button type="button" class="close survey-close" data-dismiss="modal" aria-label="Close">
+                    <span aria-hidden="true">&times;</span>
+                    </button>
+                </div>
+                <div class="modal-body survey-pop-body">
+                    <p>
+                       Dapatkan harga spesial untuk pengisian Survey Produktivitas Karyawan!
+                    </p>
+                    <div class="mb-3">
+                        <a href="https://surveys.hotjar.com/s?siteId=1474442&surveyId=143432" target="_blank">
+                            <button type="button" class="btn btn-warning survey-pop-btn-promo" id="survey-btn">Jawab Survey</button>
+                        </a>
+                    </div>
+                    <div>
+                        <button type="button" class="btn btn-light" data-dismiss="modal">Nanti Saja</button>
+                    </div>
+                </div>
+                <!-- <div class="modal-footer">
+                    <button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button>
+                    <button type="button" class="btn btn-primary">Save changes</button>
+                </div> -->
+                </div>
+            </div>
+        </div>
+    </section>
     <section class="case-studies">
         <h2>Bertanya-tanya bagaimana Anda dapat menggunakan semua fitur ini? Baca studi kasus di halaman Tentang Kami</h2>
         <a href="about.php" class="btn-see-case" id='btn-see-case'>Lihat Studi Kasus</a>
@@ -359,6 +390,11 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
         element.style.visibility = "visible";
         element.style.opacity = "1";
         }
+    </script>
+    <script>
+        setTimeout(function() {
+            $('#myModal').modal();
+        }, 4000);
     </script>
 </body>
 

@@ -146,6 +146,37 @@
             <img src="../img/whatsapp.svg" id="fixedbutton"/>
         </a>
     </section>
+    <section>
+        <div class="modal fade" id="myModal" tabindex="-1" role="dialog" aria-labelledby="exampleModalCenterTitle" aria-hidden="true">
+            <div class="modal-dialog modal-dialog-centered" role="document">
+                <div class="modal-content">
+                <div class="modal-header survey-pop-header">
+                    <h5 class="modal-title survey-pop-title" id="exampleModalLongTitle">Dokodemo-Kerja Promotion!</h5>
+                    <button type="button" class="close survey-close" data-dismiss="modal" aria-label="Close">
+                    <span aria-hidden="true">&times;</span>
+                    </button>
+                </div>
+                <div class="modal-body survey-pop-body">
+                    <p>
+                        Get a special price after participating in our survey on employee's productivity
+                    </p>
+                    <div class="mb-3">
+                        <a href="https://surveys.hotjar.com/s?siteId=1474442&surveyId=143507" target="_blank">
+                            <button type="button" class="btn btn-warning survey-pop-btn-promo" id="survey-btn">Get Promotion</button>
+                        </a>
+                    </div>
+                    <div>
+                        <button type="button" class="btn btn-light" data-dismiss="modal">Ask me later</button>
+                    </div>
+                </div>
+                <!-- <div class="modal-footer">
+                    <button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button>
+                    <button type="button" class="btn btn-primary">Save changes</button>
+                </div> -->
+                </div>
+            </div>
+        </div>
+    </section>
     <section id="benefits" class="benefits-features">
         <h1 class="section-title pb-4">BENEFITS AND FEATURES</h1>
         <div class="container pt-4">
@@ -348,6 +379,11 @@
         element.style.visibility = "visible";
         element.style.opacity = "1";
         }
+    </script>
+    <script>
+        setTimeout(function() {
+            $('#myModal').modal();
+        }, 4000);
     </script>
 </body>
 
