@@ -322,7 +322,7 @@ $page = 'trial.php';
                         </a>
                     </div>
                     <div>
-                        <button type="button" class="btn btn-light" data-dismiss="modal">Nanti Saja</button>
+                      <span data-dismiss="modal" style="cursor:pointer;">Nanti Saja</span>
                     </div>
                 </div>
                 <!-- <div class="modal-footer">

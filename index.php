@@ -166,7 +166,7 @@
                         </a>
                     </div>
                     <div>
-                        <button type="button" class="btn btn-light" data-dismiss="modal">Ask me later</button>
+                        <span data-dismiss="modal" style="cursor:pointer;">Ask me later</span>
                     </div>
                 </div>
                 <!-- <div class="modal-footer">
