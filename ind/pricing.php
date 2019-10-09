@@ -86,7 +86,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                         <div class="price">
                             <span class="rp">Rp. </span>
                             <span class="price-number">1 JT</span>
-                            <span class="per-month">/ Month</span>
+                            <span class="per-month">/ Bulan</span>
                         </div>
                         <div class="row mb-5">
                             <div class="col-md-6 plan-btn-left">
@@ -112,7 +112,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                         <div class="additional-fee">
                             <span class="plus-rp">+Rp.</span>
                             <span class="price-number">50.000</span>
-                            <span class="per-month">/ Month</span>
+                            <span class="per-month">/ Bulan</span>
                         </div>
                     </div>
                 </div>
