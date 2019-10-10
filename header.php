@@ -36,7 +36,7 @@
                 <li class="nav-item <?php active('trial.php') ?>">
                     <a class="nav-link" href="trial.php">Trial</a>
                 </li>
-                <li class="nav-item <?php active('contact-us.php') ?>">
+                <li class="nav-item">
                     <a class="nav-link" target="_blank"
                         href="https://www.logique.co.id/blog/category/dokodemo-kerja/">Blog</a>
                 </li>
