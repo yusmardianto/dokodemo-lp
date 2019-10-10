@@ -12,6 +12,7 @@
                         <li><a href="#">Feature Tours</a></li>
                         <li><a href="#">Pricing</a></li>
                         <li><a href="#">Trial</a></li>
+                        <li><a href="https://www.logique.co.id/blog/category/dokodemo-kerja/" target="_blank">Blog</a></li>
                         <li><a href="#">Contact Us</a></li>
                     </ul>
                 </div>
