@@ -24,6 +24,13 @@ $page = 'trial.php';
 	<meta name="keywords" content="menyingkirkan karyawan yang berkinerja buruk, menyingkirkan karyawan yang malas, meningkatkan produktivitas, uji coba dokodemo, dokodemo gratis, alat jam gratis, alat manajemen gratis, alat bisnis kecil, alat anggaran rendah, alat anggaran rendah, alat manajemen anggaran rendah, alat manajemen anggaran rendah, uji coba 30 hari, pelacak waktu gratis, pelacak waktu karyawan gratis, pelacak jam kerja gratis, pelacak tangkapan layar, tangkapan layar perangkat lunak monitor karyawan murah">
 	<meta name="author" content="PT. Logique Digital Indonesia">
 	<meta name="google-site-verification" content="Xc9SFJQZdKYLsrWvrxEjLLTA-nyrnNPQTXQoMxs4gKI" />
+	<meta property="og:title" content="Kerja Remote | Kerja Dari Rumah | Dokodemo-Kerja">
+    <meta property="og:type" content="website">
+    <meta property="og:site_name" content="Dokodemo-Kerja">
+    <meta property="og:url" content="https://dokodemo-kerja.com">
+    <meta property="og:image" content="/img/dokodemo-og.jpg">
+    <meta property="og:description" content="Dokodemo-Kerja merupakan software atau desktop app dari LOGIQUE bagi karyawan yang kerja remote atau di luar kantor. Aplikasi ini mampu merekam dan kalkulasi jam kerja karyawan secara akurat, dilengkapi fitur screencapture otomatis. Dengan begitu, karyawan Anda menjadi lebih produktif.">
+    
 	<link rel="stylesheet" href="/css/bootstrap.min.css" />
 	<link href="/fonts/font-awesome/css/font-awesome.min.css" rel="stylesheet">
 	<link rel="stylesheet" href="/css/header-footer.css" />

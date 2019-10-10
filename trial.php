@@ -25,6 +25,13 @@
     <meta name="keywords" content="weed out underperforming employees, get rid of lazy employees, increase productivity, dokodemo trial, dokodemo free, free hr tool, free management tool, small business tool, low budget tool, low budget hr tool, low budget management tool, 30 days trial, free time tracker, free employee time tracker, free man hour tracker, screenshot tracker, screenshot employee monitor software cheap">
     <meta name="author" content="PT. Logique Digital Indonesia">
 	<meta name="google-site-verification" content="Xc9SFJQZdKYLsrWvrxEjLLTA-nyrnNPQTXQoMxs4gKI" />
+	<meta property="og:title" content="Kerja Remote | Kerja Dari Rumah | Dokodemo-Kerja">
+    <meta property="og:type" content="website">
+    <meta property="og:site_name" content="Dokodemo-Kerja">
+    <meta property="og:url" content="https://dokodemo-kerja.com">
+    <meta property="og:image" content="/img/dokodemo-og.jpg">
+    <meta property="og:description" content="Dokodemo-Kerja merupakan software atau desktop app dari LOGIQUE bagi karyawan yang kerja remote atau di luar kantor. Aplikasi ini mampu merekam dan kalkulasi jam kerja karyawan secara akurat, dilengkapi fitur screencapture otomatis. Dengan begitu, karyawan Anda menjadi lebih produktif.">
+    
 	<link rel="stylesheet" href="css/bootstrap.min.css" />
   <link href="fonts/font-awesome/css/font-awesome.min.css" rel="stylesheet">
 	<link rel="stylesheet" href="css/header-footer.css" />

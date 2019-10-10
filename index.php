@@ -9,6 +9,12 @@
     <meta name="keywords" content="dokodemo, dokodemo-kerja, dokodemo kerja, work everywhere, work whenever, work wherever, project management tool, project management software, human resource tool, human resource software, monitoring software, monitoring tool, monitor desktop, monitor with privacy, low res monitoring, low resolution monitoring, time tracker, logique product, pt logique">
     <meta name="author" content="PT. Logique Digital Indonesia">
     <meta name="google-site-verification" content="Xc9SFJQZdKYLsrWvrxEjLLTA-nyrnNPQTXQoMxs4gKI" />
+    <meta property="og:title" content="Kerja Remote | Kerja Dari Rumah | Dokodemo-Kerja">
+    <meta property="og:type" content="website">
+    <meta property="og:site_name" content="Dokodemo-Kerja">
+    <meta property="og:url" content="https://dokodemo-kerja.com">
+    <meta property="og:image" content="/img/dokodemo-og.jpg">
+    <meta property="og:description" content="Dokodemo-Kerja merupakan software atau desktop app dari LOGIQUE bagi karyawan yang kerja remote atau di luar kantor. Aplikasi ini mampu merekam dan kalkulasi jam kerja karyawan secara akurat, dilengkapi fitur screencapture otomatis. Dengan begitu, karyawan Anda menjadi lebih produktif.">
     <link rel="stylesheet" href="css/bootstrap.min.css" />
     <link href="fonts/font-awesome/css/font-awesome.min.css" rel="stylesheet">
     <link rel="stylesheet" href="css/slick.css" />
@@ -89,7 +95,7 @@
 
                 </div>
                 <div class="col-12">
-                    <p class="text-center fs-18 subbanner-header-text">Track your employee's activity with Dokodemo-Kerja. <br>A program that captures your screen every 10 minutes at random.</p>
+                    <p class="text-center fs-18 subbanner-header-text">Track employee working hours with a program that randomly takes a desktop screenshot every 10 minutes.</p>
                 </div>
             </div>
             <div class="row justify-content-center">
@@ -185,37 +191,37 @@
                     <div class="feature-img-wrapper">
                         <img src="img/home/clock.png" class="pr-3" />
                     </div>
-                    <p>Time Tracking with evidence</p>
+                    <p>Evidence-based time tracking</p>
                 </div>
                 <div class="col-md-4 features feature-2">
                     <div class="feature-img-wrapper">
                         <img src="img/home/coffee.png" class="pl-3" />
                     </div>
-                    <p>You can implement Flexible Working Rule</p>
+                    <p>Allows for Flexible Working Hours</p>
                 </div>
                 <div class="col-md-4 features feature-3">
                     <div class="feature-img-wrapper">
                         <img src="img/home/corkboard.png" />
                     </div>
-                    <p>Real Time Monitoring of what they are working on</p>
+                    <p>Real Time Monitoring of Employee Activities</p>
                 </div>
                 <div class="col-md-4 features feature-4">
                     <div class="feature-img-wrapper">
                         <img src="img/home/chart.png" class="pr-3" />
                     </div>
-                    <p>Analyze Working time by staff, department, projects</p>
+                    <p>Working Hour Evaluation by HR Department</p>
                 </div>
                 <div class="col-md-4 features feature-5">
                     <div class="feature-img-wrapper">
                         <img src="img/home/notepad.png" class="pl-3" />
                     </div>
-                    <p>You can edit time, leave notes, and notification</p>
+                    <p>Easy-to-Use Time Editing System with Staff Notifications</p>
                 </div>
                 <div class="col-md-4 features feature-6">
                     <div class="feature-img-wrapper">
                         <img src="img/home/work.png" />
                     </div>
-                    <p>Perfect management for Overtime work</p>
+                    <p>Perfect for Managing Overtime Working Hours</p>
                 </div>
             </div>
             <a href="features.php" class="btn-learn-more" id="btn-learn-more">Learn More</a>
@@ -228,10 +234,9 @@
                 </div>
                 <div class="col-md-6 d-flex align-items-center">
                     <div class="benefit-content right">
-                        <p class="benefit-title">Work Anytime Anywhere</p>
+                        <p class="benefit-title">Work Anytime & Anywhere</p>
                         <hr class="blue-separator">
-                        <p class="benefit-desc">Do you really need a face-to-face meeting at the office everyday?
-                            Can your boss explain logically why you need to work at the office from 8 am to 5 pm? </p>
+                        <p class="benefit-desc">Ask yourself: is being physically present at the office really required in regards to overall levels of productivity? Is there a logical explanation as to why you need to work at a specified location from 8AM to 5PM every day, if all of your work is conducted through the use of a laptop, anyway? </p>
                     </div>
 
                 </div>
@@ -241,10 +246,9 @@
             <div class="row no-gutters">
                 <div class="col-md-6 order-2 order-md-1 d-flex align-items-center">
                     <div class="benefit-content">
-                        <p class="benefit-title">Maximize the productivity of your team</p>
+                        <p class="benefit-title">Maximize your Team’s Productivity</p>
                         <hr class="blue-separator">
-                        <p class="benefit-desc">Work comfortably, flexibly and effectively to boost the work result.
-                            Eliminate all wasteful and painful effort to show up at the office in the traffic jam</p>
+                        <p class="benefit-desc">Work comfortably, flexibly and effectively so as to boost results. Eliminate all of the wasteful and inconvenient elements that inevitably come with navigating through the morning traffic on the way to your office. </p>
                     </div>
 
                 </div>
@@ -258,10 +262,9 @@
                 </div>
                 <div class="col-md-6 d-flex align-items-center">
                     <div class="benefit-content right">
-                        <p class="benefit-title">Improve work efficiency</p>
+                        <p class="benefit-title">Improve the Efficiency of Your Work</p>
                         <hr class="blue-separator">
-                        <p class="benefit-desc">By having an accurate record of how long it takes to finish a task,
-                            Everyone can self-evaluate to do better.</p>
+                        <p class="benefit-desc">Through having an accurate record of the time it takes to finish a single task, everyone can self-evaluate their work more easily, and hence, improve upon it in the future. </p>
                     </div>
 
                 </div>
@@ -271,7 +274,7 @@
     </section>
     <section class="dokodemo-desc">
         <h1 class="section-title">WHAT IS DOKODEMO KERJA?</h1>
-        <p>Dokodemo-Kerja is a Human Resource tool that can be used to manage work hours and monitor your employees. Your company can now implement remote work system anytime and anywhere.</p>
+        <p>Dokodemo Kerja is a Human Resources oriented tool used to manage and monitor employee working hours. Your company can now work flexibly through implement systems of remote working. Work Anytime & Anywhere with Dokodemo-Kerja.</p>
         <a href="features.php" class="btn-more-features" id="btn-more-features">More Features</a>
     </section>
     <section class="youtube-wrapper container">
@@ -284,35 +287,36 @@
         <div class="container">
             <div class="testimony-slider">
                 <div class="testimony-item">
-                    <div class="testimony-text">The traffic jam to my office is quite stressful. My house is so far from the office and I have to take a very crowded bus. Every day I spend about 4 hours on the road, constantly like that. I’m so grateful when my company finally use Dokodemo-Kerja and implemented a remote work system in the office. With Dokodemo-Kerja, I can work anywhere I want now. I also can use the 4 hours road to do something more productive.</div>
+                    <div class="testimony-text">The traffic jam that I experience every morning I leave for work can be stressful, to say the least. My house is quite far from the office and I have to take a crowded bus to get there. Everyday totals to about 4 hours on the road. That’s why I was so grateful when my company finally decided to use Dokodemo-Kerja and implemented systems of remote working in my office. With this new application, I can work anywhere I choose, and can further assign those 4 hours that would be otherwise wasted on being stuck in traffic,on productive activities. </div>
                     <p class="testimony-author"><strong>Rafid</strong> - Front End Developer</p>
                 </div>
                 <div class="testimony-item">
-                    <div class="testimony-text">I’ve always wanted to go back to university to finish my degree. With Dokodemo-Kerja, I can prove my manager that I’m still able to work 8 hours every day. Some days, I work in the morning, and the other days, I work at night. Now, I can continue my study and still be able to work. Dokodemo-Kerja has helped me increasing the quality of my life. Thank you.</div>
+                    <div class="testimony-text">I’ve always wanted to go back to university to finish my degree. Through Dokodemo-Kerja, I can prove to my manager that I am still able to work for 8 hours every day. Somedays, I work in the morning, and other times, I work at night. I can now continue my studies while still being gainfully employed. Dokodemo-Kerja has increased the quality of my life. Thank you.</div>
                     <p class="testimony-author"><strong>Angga</strong> - Designer</p>
                 </div>
                 <div class="testimony-item">
-                    <div class="testimony-text">Sometimes I noticed my staffs were having a break too long on prayer time. I just want everyone to have fair working hours, no matter what religion they believe in, but it’s difficult for me to discuss about it. Since we use Dokodemo-Kerja, all employees have fair working hours. If it’s time to have a praying break, they always stop the record and start again when they get back to work. Dokodemo-Kerja helps our company so much to stay productive.</div>
+                    <div class="testimony-text">On occasion, I’ve noticed that some of my employees were having unusually long breaks during their allotted prayer time. I just want everyone to have fair working hours, no matter their religion, but it’s difficult for me to talk about this specific issue. Since we have implemented Dokodemo-Kerja, all of my employees now have fair working hours. When it comes time for their prayer break, they will always 
+stop their Dokodemo-Kerja and start it once again when returning to work. Indeed, the application helps our company stay productive.</div>
                     <p class="testimony-author"><strong>Mizuho Yamada</strong> - Manager of Back Office</p>
                 </div>
                 <div class="testimony-item">
-                    <div class="testimony-text">It used to be so difficult for me to ask employees to stop spending too much time on social media, orYoutube, or playing games on working hours. Dokodemo-Kerja helps me so much with it. Its feature of capturing each employee’s computer screen at certain times makes them able to manage their working time. Now, everyone stops Dokodemo-Kerja if they want to check their social media or playing games, because those activities aren’t counted as their working hours.</div>
+                    <div class="testimony-text">It used to be so difficult to get my employees to stop spending their working hours browsing social media, watching YouTube videos or even playing games. In this respect, Dokodemo-Kerja has become an indispensable tool. Its ability to capture the desktop activities of each employee makes them manage their working hours in a more efficient manner. Now, when engaging in activities other than work, employees will pause their Dokodemo-Kerja.</div>
                     <p class="testimony-author"><strong>Kevin</strong> - Staff HR</p>
                 </div>
                 <div class="testimony-item">
-                    <div class="testimony-text">I used to think that working full time remotely was absurd. I mean, if everyone is working remotely, how do we know if they are working fairly on working hours? But since we use Dokodemo-Kerja, we never worry about it anymore. This smart system makes it possible for us to monitor the working hours spent by all employees and how they spent it. Dokodemo-Kerja is indeed helping our company.</div>
+                    <div class="testimony-text">I used to think that working remotely full time was absurd. I mean, if everybody is working remotely, how do we know if they are honestly putting in any working hours? But ever since we’ve implemented Dokodemo-Kerja, we haven’t had to worry about such problems anymore. Such a system makes it possible for us to monitor how each of our employees spend their working hours. Dokodemo-Kerja has indeed helped our company for the better. </div>
                     <p class="testimony-author"><strong>Arie</strong> - HR</p>
                 </div>
                 <div class="testimony-item">
-                    <div class="testimony-text">Dokodemo-Kerja has changed the way I work in the most productive way possible. I’m a new mom and I don’t think I can trust my newborn son with some kind of a babysitter while I work at the office. I’m really happy because with Dokodemo-Kerja, the company lets me work at home. Now I can still work and be with my baby 24 hours every day.</div>
+                    <div class="testimony-text">Dokodemo-Kerja has productively changed the way I work for the better. I’m a new mom and have reservations about trusting my newborn son with a babysitter while working at the office. I’m really happy with Dokodemo-Kerja in this regard as now, my company allows me to work from Home. Now, I can work while taking care of my baby throughout the day.</div>
                     <p class="testimony-author"><strong>Sisca</strong> - Programmer</p>
                 </div>
                 <div class="testimony-item">
-                    <div class="testimony-text">I often reprimand employees who go out too long to smoke. The reason is that they don’t work according to working hours that should apply. I just want fair working hours to apply to all employees. After using the Dokodemo-Kerja, there are no more employees using the time to smoke too long. I can easily calculate employee work hours too.</div>
+                    <div class="testimony-text">I often have to reprimand employees who take lengthy smoking breaks. On such occasions, they are not working according to their agreed upon hours. I simply want my employees to work in a reasonable manner. After using Dokodemo-Kerja, employees now carefully regard the time that they use at work smoking. I can also easily calculate their overall working hours, as well.</div>
                     <p class="testimony-author"><strong>Tiara</strong> - Staff HR</p>
                 </div>
                 <div class="testimony-item">
-                    <div class="testimony-text">My mother is ill, and I thought I had to give up my job because I needed to stay home to take care of her. But, I’m very grateful now, Dokodemo-Kerja has made it possible for me to work remotely from home. I can still be there for my mother while also working professionally at the same time.</div>
+                    <div class="testimony-text">Because of my mother’s illness, I thought I was faced with the choice of staying home and taking care of her, or my job. Because of Dokodemo-Kerja, it is now possible for me to work remotely from home. I can still tend to my mother, while working as a full time employee.</div>
                     <p class="testimony-author"><strong>Bobby Susanto </strong> - Programmer</p>
                 </div>
                 <div class="testimony-item">

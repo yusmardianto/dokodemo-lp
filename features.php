@@ -9,6 +9,12 @@
     <meta name="keywords" content="dokodemo, dokodemo-kerja, dokodemo kerja, screen monitoring, sceen monitor, monitor employee, employee monitoring, time tracker, clock in, clock in software, attendance software, attendance tool, work hour calculator,  manage employees, tool for managers, tool for hr, notification manager, productivity tool, productivity enhancer">
     <meta name="author" content="PT. Logique Digital Indonesia">
 	<meta name="google-site-verification" content="Xc9SFJQZdKYLsrWvrxEjLLTA-nyrnNPQTXQoMxs4gKI" />
+    <meta property="og:title" content="Kerja Remote | Kerja Dari Rumah | Dokodemo-Kerja">
+    <meta property="og:type" content="website">
+    <meta property="og:site_name" content="Dokodemo-Kerja">
+    <meta property="og:url" content="https://dokodemo-kerja.com">
+    <meta property="og:image" content="/img/dokodemo-og.jpg">
+    <meta property="og:description" content="Dokodemo-Kerja merupakan software atau desktop app dari LOGIQUE bagi karyawan yang kerja remote atau di luar kantor. Aplikasi ini mampu merekam dan kalkulasi jam kerja karyawan secara akurat, dilengkapi fitur screencapture otomatis. Dengan begitu, karyawan Anda menjadi lebih produktif.">
     <link rel="stylesheet" href="css/bootstrap.min.css" />
     <link href="fonts/font-awesome/css/font-awesome.min.css" rel="stylesheet">
     <link rel="stylesheet" href="css/slick.css" />
@@ -64,27 +70,27 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
             <div class="row">
                 <div class="col-md-8 offset-md-2 features-resp-config">
                     <h1 class="fw-semibold fs-23 text-center mb-4">FEATURES</h1>
-                    <p class="fw-semibold text-center">Dokodemo-Kerja is a profitable work system solution for both employees and companies. With an efficient work system, Dokodemo-Kerja can help companies concentrate on increasing productivity while at the same time, providing flexibility for their employees.</p>
+                    <p class="fw-semibold text-center">Dokodemo-Kerja is a time-management oriented solution for both employers and employees alike. Through its efficient monitoring and management capabilities, Dokodemo-Kerja can further help companies improve their levels of productivity, while at the same time provide flexible working hours for employees. </p>
                     <div class="row">
                         <div class="col-lg-6 features-item">
                             <span class="features-number">01</span>
-                            <h2 class="features-title">Track time and monitor tasks.</h2>
-                            <p class="features-desc">Takes a screen capture of the employee's work activity on their computer screen in random times and directly sends it to the management team.</p>
+                            <h2 class="features-title">Track Working Hours and Monitor Tasks</h2>
+                            <p class="features-desc">Dokodemo-Kerja takes low-resolution screenshotsof your employee’s desktop activities during random intervals when the application is switched on and then sends the images directly to the management team.</p>
                         </div>
                         <div class="col-lg-6 features-item">
                             <span class="features-number">02</span>
                             <h2 class="features-title">Get accurate time reports</h2>
-                            <p class="features-desc">Accurately calculates the total working hours of employees, including break times, based on employee’s real work activities. All with just one easy click.</p>
+                            <p class="features-desc">Dokodemo-Kerja is able to accurately calculate and compare total employee working and resting hours, putting the data into an easy-to-read format, all with just one click. </p>
                         </div>
                         <div class="col-lg-6 features-item">
                             <span class="features-number">03</span>
-                            <h2 class="features-title">Manage employee's man-hours</h2>
-                            <p class="features-desc">Manages the total man-hours spent by employees to do a particular project, so companies are able to predict a proper deadline or milestones that caters to the employee's ability.</p>
+                            <h2 class="features-title">Manage your Employee’s Man-Hours</h2>
+                            <p class="features-desc">Tracks the total man-hours spent by each employee on each individual task, so that your company can more easily predict and arrange target deadlines in line with your employee’s capabilities</p>
                         </div>
                         <div class="col-lg-6 features-item">
                             <span class="features-number">04</span>
-                            <h2 class="features-title">All in one screen</h2>
-                            <p class="features-desc">Displays the total working hours of all employees in a single screen display, making it more efficient for the company to determine the performance of all employees transparently.</p>
+                            <h2 class="features-title">All in One Screen </h2>
+                            <p class="features-desc">Displays total employee working hours in an easy-to-read on-screen format, improving the efficiency with which HR can evaluate performance.</p>
                         </div>
                     </div>
                 </div>
@@ -182,10 +188,10 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                     <h3><strong>EMPLOYEE</strong></h3>
                     <p>Easily "<strong>Start</strong>" and "<strong>Stop</strong>" the application</p>
                     <ul>
-                        <li>Users are allowed to work anywhere, anytime</li>
-                        <li>Users should stop recording when they are taking a break</li>
-                        <li>Users just should work for 40 hours per week</li>
-                        <li>Users can choose work-type or project name</li>
+                        <li>Users are allowed flexible working hours, now being able to work anywhere, at any time.</li>
+                        <li>Users must stop recording when they take breaks, so as to accurately calculate their working hours </li>
+                        <li>Users should work for 40 hours per week</li>
+                        <li>Users can easily manage their responsibilities by work-type and project-name</li>
                     </ul>
                 </div>
             </div>
@@ -227,15 +233,15 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                 <div class="row">
                     <div class="col-md-6">
                         <ul class="manager-activity-list">
-                            <li>HR assigns one staff to monitor Dokodemo-Kerja</li>
-                            <li>He / She takes care of everyone&apos;s green bar and comments</li>
-                            <li>If there are 3 same images (screen shots) in a row, HR confirms with the staff</li>
+                            <li>HR can assign one staff member to easily monitor all Dokodemo-Kerja related activities</li>
+                            <li>He/ Shecan take care of each employee’s 'green bar' and comments </li>
+                            <li>If 3 employee screenshots show the same image in arrow, HR can then take further action</li>
                         </ul>
                     </div>
                     <div class="col-md-6">
                         <ul class="manager-activity-list">
-                            <li>If anyone forgets to stop recording Dokodemo-Kerja when they don&apos;t work, HR asks them to edit working hours and approve it</li>
-                            <li>Manage notification, confirm, and regularly respond to staffs&apos; comments </li>
+                            <li>If the possibility of an employee forgetting to stop his or her Dokodemo arises, HR can ask them to edit their working hours</li>
+                            <li>Manage and confirm notificationsand staff comments</li>
                         </ul>
                     </div>
                 </div>

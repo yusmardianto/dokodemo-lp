@@ -8,6 +8,12 @@
 	<meta name="description" itemprop="description" content="Dokodemo-Kerja adalah program yang memantau produktivitas karyawan Anda dengan menangkap layar desktop secara acak setiap sepuluh atau tiga menit. Tingkatkan produktivitas Anda dengan Dokodemo-Kerja.">
     <meta name="keywords" content="dokodemo, dokodemo-kerja, dokodemo kerja, bekerja di mana-mana, bekerja kapan saja, bekerja di mana saja, alat manajemen proyek, perangkat lunak manajemen proyek, perangkat sumber daya manusia, perangkat lunak sumber daya manusia, perangkat lunak pemantauan, alat pemantauan, desktop monitor, monitor dengan privasi, pemantauan res rendah , pemantauan resolusi rendah, pelacak waktu, produk logique, pt logique">
 	<meta name="google-site-verification" content="Xc9SFJQZdKYLsrWvrxEjLLTA-nyrnNPQTXQoMxs4gKI" />
+    <meta property="og:title" content="Kerja Remote | Kerja Dari Rumah | Dokodemo-Kerja">
+    <meta property="og:type" content="website">
+    <meta property="og:site_name" content="Dokodemo-Kerja">
+    <meta property="og:url" content="https://dokodemo-kerja.com">
+    <meta property="og:image" content="/img/dokodemo-og.jpg">
+    <meta property="og:description" content="Dokodemo-Kerja merupakan software atau desktop app dari LOGIQUE bagi karyawan yang kerja remote atau di luar kantor. Aplikasi ini mampu merekam dan kalkulasi jam kerja karyawan secara akurat, dilengkapi fitur screencapture otomatis. Dengan begitu, karyawan Anda menjadi lebih produktif.">
     <link rel="stylesheet" href="/css/bootstrap.min.css" />
     <link href="/fonts/font-awesome/css/font-awesome.min.css" rel="stylesheet">
     <link rel="stylesheet" href="/css/slick.css" />
