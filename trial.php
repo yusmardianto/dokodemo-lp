@@ -194,7 +194,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 		</div>
 	</section>
 	<section class="hide-button-on-mobile">
-        <span id="popup-text hide-popup-mobile">
+        <span id="popup-text" class="hide-popup-mobile">
             <div class="speech-bubble">
                 Chat us on Whatsapp
             </div>
