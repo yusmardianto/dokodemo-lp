@@ -75,7 +75,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                         <div class="col-lg-6 features-item">
                             <span class="features-number">01</span>
                             <h2 class="features-title">Track Working Hours and Monitor Tasks</h2>
-                            <p class="features-desc">Dokodemo-Kerja takes low-resolution screenshotsof your employee’s desktop activities during random intervals when the application is switched on and then sends the images directly to the management team.</p>
+                            <p class="features-desc">Dokodemo-Kerja takes low-resolution screenshots of your employee’s desktop activities during random intervals when the application is switched on and then sends the images directly to the management team.</p>
                         </div>
                         <div class="col-lg-6 features-item">
                             <span class="features-number">02</span>
