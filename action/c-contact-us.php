@@ -17,7 +17,7 @@
         $required_fields['company'] = 'You are required to enter your Company.';
         $required_fields['phone_number'] = 'You are required to enter a phone number.';
         $required_fields['email'] = 'You are required to enter your E-mail Address.';
-        $required_fields['message'] = 'You are required to enter a Message.';
+        // $required_fields['message'] = 'You are required to enter a Message.';
         $required_fields['subject'] = 'You are required to enter a Subject.';
 
         // Check for a valid phone number
