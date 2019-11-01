@@ -9,7 +9,7 @@
     <meta name="keywords" content="cheap user manager platform, cheap people management software, people management software, dokodemo, dokodemo-kerja, enterprise software, cheap enterprise software, effective people management tool, management tool cheap">
     <meta name="author" content="PT. Logique Digital Indonesia">
 	<meta name="google-site-verification" content="Xc9SFJQZdKYLsrWvrxEjLLTA-nyrnNPQTXQoMxs4gKI" />
-    <meta property="og:title" content="Kerja Remote | Kerja Dari Rumah | Dokodemo-Kerja">
+    <meta property="og:title" content="Price: Price of Dokodemo-Kerja | Time Tracking Tool | Employees' Screen Monitoring">
     <meta property="og:type" content="website">
     <meta property="og:site_name" content="Dokodemo-Kerja">
     <meta property="og:url" content="https://dokodemo-kerja.com">
@@ -22,7 +22,7 @@
     <link rel="stylesheet" href="css/header-footer.css" />
     <link rel="stylesheet" href="css/style-pricing.css" />
 	<link rel="shortcut icon" type="image/x-icon" href="favicon.ico">
-    <title>Dokodemo-Kerja | Pricing</title>
+    <title>Price: Price of Dokodemo-Kerja | Time Tracking Tool | Employees' Screen Monitoring</title>
 	<!-- Google Tag Manager -->
 	<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
 	new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
@@ -144,7 +144,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                             <li>Screenshots saved for 2 months</li>
                             <li><strong>For 10 users</strong></li>
                         </ul>
-    
+
                         <p class="pt-2"><strong>If the number of user is above 10 then additional charge is (for 1 more user)</strong></p>
                         <div class="additional-fee">
                             <span class="plus-rp">+Rp.</span>

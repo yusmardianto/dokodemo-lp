@@ -1,4 +1,4 @@
-<?php 
+<?php
 	ini_set('display_errors', 'On');
 	error_reporting(E_ALL);
 
@@ -7,9 +7,9 @@
 
 	// Load config
 	$config = include('config/app.php');
-	
+
 	require 'action/c-contact-us.php';
-	
+
 	$page = 'contact-us.php';
 ?>
 
@@ -24,20 +24,20 @@
   <meta name="keywords" content="dokodemo, dokodemo-kerja, enterprise program, monitoring program, reporting tool, Buy Light Plan, dokodemo email, dokodemo help, dokodemo contact, dokodemo sales, dokodemo marketing, request training, know your employee, startup tool, logique contact person, dokodemo contact person, what is dokodemo, what is remote working">
   <meta name="author" content="PT. Logique Digital Indonesia">
   <meta name="google-site-verification" content="Xc9SFJQZdKYLsrWvrxEjLLTA-nyrnNPQTXQoMxs4gKI" />
-	<meta property="og:title" content="Kerja Remote | Kerja Dari Rumah | Dokodemo-Kerja">
+	<meta property="og:title" content="Contact us: Inquire Dokodemo-Kerja | Maximize Productivity by Dokodemo-Kerja">
     <meta property="og:type" content="website">
     <meta property="og:site_name" content="Dokodemo-Kerja">
     <meta property="og:url" content="https://dokodemo-kerja.com">
     <meta property="og:image" content="/img/dokodemo-og.jpg">
     <meta property="og:description" content="Dokodemo-Kerja merupakan software atau desktop app dari LOGIQUE bagi karyawan yang kerja remote atau di luar kantor. Aplikasi ini mampu merekam dan kalkulasi jam kerja karyawan secara akurat, dilengkapi fitur screencapture otomatis. Dengan begitu, karyawan Anda menjadi lebih produktif.">
-    
+
   <link rel="stylesheet" href="css/bootstrap.min.css" />
     <link href="fonts/font-awesome/css/font-awesome.min.css" rel="stylesheet">
   <link href="fonts/font-awesome/css/font-awesome.min.css" rel="stylesheet">
   <link rel="stylesheet" href="css/header-footer.css" />
   <link rel="stylesheet" href="css/style.css" />
   <link rel="shortcut icon" type="image/x-icon" href="favicon.ico">
-  <title>Dokodemo-Kerja | Contact Us</title>
+  <title>Contact us: Inquire Dokodemo-Kerja | Maximize Productivity by Dokodemo-Kerja</title>
 	<!-- Google Tag Manager -->
 	<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
 	new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
@@ -105,7 +105,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 	  <div class="row">
 		  <div class="col-md-8 offset-md-2 contact-resp-settings">
 			<div class="semibold fs-18 subtitle-contact">To buy Dokodemo-Kerja, choose a plan and fill in the form below.</div>
-			
+
 			<?php
             if (!is_null($success)) {
             ?>
@@ -127,7 +127,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
               ?>
             </div>
             <?php }?>
-			
+
 			<form class="dokodemo-form" action="" method="POST">
 
 			  <select name="subject" class="contact-type" required>

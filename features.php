@@ -9,7 +9,7 @@
     <meta name="keywords" content="dokodemo, dokodemo-kerja, dokodemo kerja, screen monitoring, sceen monitor, monitor employee, employee monitoring, time tracker, clock in, clock in software, attendance software, attendance tool, work hour calculator,  manage employees, tool for managers, tool for hr, notification manager, productivity tool, productivity enhancer">
     <meta name="author" content="PT. Logique Digital Indonesia">
 	<meta name="google-site-verification" content="Xc9SFJQZdKYLsrWvrxEjLLTA-nyrnNPQTXQoMxs4gKI" />
-    <meta property="og:title" content="Kerja Remote | Kerja Dari Rumah | Dokodemo-Kerja">
+    <meta property="og:title" content="Feature: Feature of Dokodemo-Kerja | Working Hours Tracking Tool | Remote Work Management">
     <meta property="og:type" content="website">
     <meta property="og:site_name" content="Dokodemo-Kerja">
     <meta property="og:url" content="https://dokodemo-kerja.com">
@@ -24,7 +24,7 @@
     <link rel="stylesheet" href="js/magnific-popup.css" />
 
 	<link rel="shortcut icon" type="image/x-icon" href="favicon.ico">
-    <title>Dokodemo-Kerja | Feature</title>
+    <title>Feature: Feature of Dokodemo-Kerja | Working Hours Tracking Tool | Remote Work Management</title>
 	<!-- Google Tag Manager -->
 	<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
 	new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
@@ -323,7 +323,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
     <script src="js/bootstrap.min.js"></script>
     <script src="js/slick.min.js"></script>
     <script src="js/jquery.magnific-popup.min.js"></script>
-    
+
     <script>
         $(".screenshot-slide").slick({
             infinite: true,
@@ -388,7 +388,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                     return element.find('img');
                 }
             }
-            
+
         });
     });
     </script>

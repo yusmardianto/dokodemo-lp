@@ -11,7 +11,7 @@
         content="dokodemo, dokodemo-kerja, dokodemo kerja, work everywhere, work whenever, work wherever, project management tool, project management software, human resource tool, human resource software, monitoring software, monitoring tool, monitor desktop, monitor with privacy, low res monitoring, low resolution monitoring, time tracker, logique product, pt logique">
     <meta name="author" content="PT. Logique Digital Indonesia">
     <meta name="google-site-verification" content="Xc9SFJQZdKYLsrWvrxEjLLTA-nyrnNPQTXQoMxs4gKI" />
-    <meta property="og:title" content="Kerja Remote | Kerja Dari Rumah | Dokodemo-Kerja">
+    <meta property="og:title" content="Home: Remote Work Management Tool | Time Tracking | Dokodemo-Kerja">
     <meta property="og:type" content="website">
     <meta property="og:site_name" content="Dokodemo-Kerja">
     <meta property="og:url" content="https://dokodemo-kerja.com">
@@ -26,7 +26,7 @@
     <link rel="stylesheet" href="css/style-home.css" />
     <link href="fonts/font-awesome/css/font-awesome.min.css" rel="stylesheet">
     <link rel="shortcut icon" type="image/x-icon" href="favicon.ico">
-    <title>Dokodemo-Kerja | Home</title>
+    <title>Home: Remote Work Management Tool | Time Tracking | Dokodemo-Kerja</title>
     <!-- Google Tag Manager -->
     <script>
     (function(w, d, s, l, i) {
