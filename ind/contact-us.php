@@ -1,4 +1,4 @@
-<?php 
+<?php
 	ini_set('display_errors', 'On');
 	error_reporting(E_ALL);
 
@@ -7,7 +7,7 @@
 
 	// Load config
 	$config = include('../config/app.php');
-	
+
 	require '../action/c-contact-us.php';
 
 	$page = 'contact-us.php';
@@ -24,19 +24,19 @@
     <meta name="keywords" content="dokodemo, dokodemo-kerja, program perusahaan, program pemantauan, alat pelaporan, uji coba gratis, email dokodemo, bantuan dokodemo, kontak dokodemo, penjualan dokodemo, pemasaran dokodemo, pelatihan permintaan, kenali karyawan Anda, alat startup, logique person contact person, kontak dokodemo orang, apa itu dokodemo, apa itu kerja jarak jauh">
     <meta name="author" content="PT. Logique Digital Indonesia">
 	<meta name="google-site-verification" content="Xc9SFJQZdKYLsrWvrxEjLLTA-nyrnNPQTXQoMxs4gKI" />
-	<meta property="og:title" content="Kerja Remote | Kerja Dari Rumah | Dokodemo-Kerja">
+	<meta property="og:title" content="Contact us: Tanya Dokodemo-Kerja | Tingkatkan Produktivitas dengan Dokodemo-Kerja">
     <meta property="og:type" content="website">
     <meta property="og:site_name" content="Dokodemo-Kerja">
     <meta property="og:url" content="https://dokodemo-kerja.com">
     <meta property="og:image" content="/img/dokodemo-og.jpg">
     <meta property="og:description" content="Dokodemo-Kerja merupakan software atau desktop app dari LOGIQUE bagi karyawan yang kerja remote atau di luar kantor. Aplikasi ini mampu merekam dan kalkulasi jam kerja karyawan secara akurat, dilengkapi fitur screencapture otomatis. Dengan begitu, karyawan Anda menjadi lebih produktif.">
-    
+
 	<link rel="stylesheet" href="/css/bootstrap.min.css" />
 	<link href="/fonts/font-awesome/css/font-awesome.min.css" rel="stylesheet">
 	<link rel="stylesheet" href="/css/header-footer.css" />
 	<link rel="stylesheet" href="/css/style.css" />
 	<link rel="shortcut icon" type="image/x-icon" href="favicon.ico">
-	<title>Dokodemo-Kerja | Hubungi Kami</title>
+	<title>Contact us: Tanya Dokodemo-Kerja | Tingkatkan Produktivitas dengan Dokodemo-Kerja</title>
 	<!-- Google Tag Manager -->
 	<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
 	new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],

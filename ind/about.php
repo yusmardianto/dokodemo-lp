@@ -9,7 +9,7 @@
     <meta name="keywords" content="Perangkat lunak yang berfungsi jarak jauh, alat kerja jarak jauh, sistem kerja jarak jauh, penerapan kerja jarak jauh, enabler kerja jarak jauh, memungkinkan budaya kerja jarak jauh, budaya kerja jarak jauh, bekerja sambil bepergian, logique, pt logique, logique digital indonesia, pelacakan waktu, pelacak waktu, pelacak jam kerja, pelacakan jam kerja, perangkat lunak enterprise, perangkat lunak screenshot enterprise">
     <meta name="author" content="PT. Logique Digital Indonesia">
 	<meta name="google-site-verification" content="Xc9SFJQZdKYLsrWvrxEjLLTA-nyrnNPQTXQoMxs4gKI" />
-    <meta property="og:title" content="Kerja Remote | Kerja Dari Rumah | Dokodemo-Kerja">
+    <meta property="og:title" content="About: Tentang Dokodemo-Kerja | Management Alat Kerja Remote | HR Cloud System">
     <meta property="og:type" content="website">
     <meta property="og:site_name" content="Dokodemo-Kerja">
     <meta property="og:url" content="https://dokodemo-kerja.com">
@@ -22,7 +22,7 @@
     <link rel="stylesheet" href="/css/header-footer.css" />
     <link rel="stylesheet" href="/css/style-about.css" />
     <link rel="shortcut icon" type="image/x-icon" href="favicon.ico">
-    <title>Dokodemo-Kerja | Tentang Kami</title>
+    <title>About: Tentang Dokodemo-Kerja | Management Alat Kerja Remote | HR Cloud System</title>
 	<!-- Google Tag Manager -->
 	<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
 	new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],

@@ -8,7 +8,7 @@
 	<meta name="description" itemprop="description" content="Dokodemo-Kerja adalah program yang memantau produktivitas karyawan Anda dengan menangkap layar desktop secara acak setiap sepuluh atau tiga menit. Tingkatkan produktivitas Anda dengan Dokodemo-Kerja.">
     <meta name="keywords" content="dokodemo, dokodemo-kerja, dokodemo kerja, bekerja di mana-mana, bekerja kapan saja, bekerja di mana saja, alat manajemen proyek, perangkat lunak manajemen proyek, perangkat sumber daya manusia, perangkat lunak sumber daya manusia, perangkat lunak pemantauan, alat pemantauan, desktop monitor, monitor dengan privasi, pemantauan res rendah , pemantauan resolusi rendah, pelacak waktu, produk logique, pt logique">
 	<meta name="google-site-verification" content="Xc9SFJQZdKYLsrWvrxEjLLTA-nyrnNPQTXQoMxs4gKI" />
-    <meta property="og:title" content="Kerja Remote | Kerja Dari Rumah | Dokodemo-Kerja">
+    <meta property="og:title" content="Home: Management Alat Kerja Remote | Lacak Waktu | Dokodemo-Kerja">
     <meta property="og:type" content="website">
     <meta property="og:site_name" content="Dokodemo-Kerja">
     <meta property="og:url" content="https://dokodemo-kerja.com">
@@ -21,7 +21,7 @@
     <link rel="stylesheet" href="/css/header-footer.css" />
     <link rel="stylesheet" href="/css/style-home.css" />
     <link rel="shortcut icon" type="image/x-icon" href="favicon.ico">
-    <title>Dokodemo-Kerja | Home</title>
+    <title>Home: Management Alat Kerja Remote | Lacak Waktu | Dokodemo-Kerja</title>
 	<!-- Google Tag Manager -->
 	<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
 	new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
@@ -296,7 +296,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                     <div class="testimony-text">Saya merasa sungkan untuk menegur karyawan yang menggunakan waktu untuk beribadah terlalu lama. Saya ingin berlaku adil terhadap seluruh karyawan, apapun agama yang mereka anut. Sekarang jam kerja yang adil dapat diberlakukan kepada seluruh karyawan. Saya merasa terbantu oleh Dokodemo-Kerja.</div>
                     <p class="testimony-author"><strong>Mizuho Yamada</strong> - Manager of Back Office</p>
                 </div>
-      
+
             </div>
         </div>
 

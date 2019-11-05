@@ -9,7 +9,7 @@
     <meta name="keywords" content="platform manajer pengguna yang murah, perangkat lunak manajemen orang murah, perangkat lunak manajemen orang, dokodemo, dokodemo-kerja, perangkat lunak perusahaan, perangkat lunak perusahaan murah, alat manajemen orang yang efektif, alat manajemen murah">
     <meta name="author" content="PT. Logique Digital Indonesia">
 	<meta name="google-site-verification" content="Xc9SFJQZdKYLsrWvrxEjLLTA-nyrnNPQTXQoMxs4gKI" />
-    <meta property="og:title" content="Kerja Remote | Kerja Dari Rumah | Dokodemo-Kerja">
+    <meta property="og:title" content="Price: Harga Dokodemo-Kerja | Alat Pelacak Waktu Kerja | Monitor Layar Karyawan">
     <meta property="og:type" content="website">
     <meta property="og:site_name" content="Dokodemo-Kerja">
     <meta property="og:url" content="https://dokodemo-kerja.com">
@@ -22,7 +22,7 @@
     <link rel="stylesheet" href="/css/header-footer.css" />
     <link rel="stylesheet" href="/css/style-pricing.css" />
     <link rel="shortcut icon" type="image/x-icon" href="favicon.ico">
-    <title>Dokodemo-Kerja | Harga</title>
+    <title>Price: Harga Dokodemo-Kerja | Alat Pelacak Waktu Kerja | Monitor Layar Karyawan</title>
 	<!-- Google Tag Manager -->
 	<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
 	new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
@@ -144,7 +144,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                             <li>Screenshots disimpan selama 2 bulan</li>
                             <li><strong>Untuk 10 orang pengguna</strong></li>
                         </ul>
-    
+
                         <p class="pt-2"><strong>Jika ada lebih dari 10 pengguna, maka setiap pengguna dikenakan biaya</strong></p>
                         <div class="additional-fee">
                             <span class="plus-rp">+Rp.</span>
@@ -223,7 +223,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                         <span class="per-month">/ Month</span>
                     </div> -->
                 </div>
-                
+
             </div>
         </div>
     </section>
