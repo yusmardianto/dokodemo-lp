@@ -107,37 +107,32 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
             <img src="../img/whatsapp.svg" id="fixedbutton"/>
         </a>
     </section>
+    <!-- req online meeting popup -->
     <section>
-        <div class="modal fade" id="myModal" tabindex="-1" role="dialog" aria-labelledby="exampleModalCenterTitle" aria-hidden="true">
-            <div class="modal-dialog modal-dialog-centered" role="document">
-                <div class="modal-content">
-                <div class="modal-header survey-pop-header">
-                    <h5 class="modal-title survey-pop-title" id="exampleModalLongTitle">Promo Dokodemo-Kerja!</h5>
-                    <button type="button" class="close survey-close" data-dismiss="modal" aria-label="Close">
-                    <span aria-hidden="true">&times;</span>
+         <button class="btn botFixedBtn" id="btnReqOnlineMeeting" type="button" data-toggle="collapse" href="#collapseExample" style="background: #ffcc13;">
+            <i class="fa fa-chevron-up" style="font-size: medium; color: #fff;"></i>
+        </button>
+        <span class="collapse popUpBottom" id="collapseExample">
+            <div class="card card-body" style="border: 3px solid lightgrey;">
+                <div class=" text-center" style="padding: 1em;">
+                    <!-- <div class="btn pull-right">X</div> -->
+                    <button type="button" class="close survey-close" data-toggle="collapse" href="#collapseExample" aria-label="Close" style="padding: 6px 12px;">
+                        <span aria-hidden="true"><i class="fa fa-chevron-down" style="font-size: medium;"></i></span>
                     </button>
-                </div>
-                <div class="modal-body survey-pop-body">
-                    <p>
-                       Dapatkan harga spesial untuk pengisian Survey Produktivitas Karyawan!
-                    </p>
-                    <div class="mb-3">
-                        <a href="https://surveys.hotjar.com/s?siteId=1474442&surveyId=143432" target="_blank">
-                            <button type="button" class="btn btn-warning survey-pop-btn-promo" id="survey-btn">Jawab Survey</button>
-                        </a>
+                    <h5 class="card-title"><b>SET UP AN <br> ONLINE MEETING</b></h5>
+                    <hr>
+                    <p class="card-text">If you're interested in a live demo, or if you have any question at all, click the button below</p>
+                    <div class="">
+                            <a href="/contact-us.php" target="_blank">
+                                <button type="button" class="btn btn-warning survey-pop-btn-promo" id="survey-btn">Setup Online Meeting</button>
+                            </a>
+                        </div>
                     </div>
-                    <div>
-                        <span data-dismiss="modal" style="cursor:pointer;">Nanti Saja</span>
-                    </div>
-                </div>
-                <!-- <div class="modal-footer">
-                    <button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button>
-                    <button type="button" class="btn btn-primary">Save changes</button>
-                </div> -->
                 </div>
             </div>
-        </div>
+        </span>    
     </section>
+    <!-- end of req online meeting popup -->
     <section class="case-studies">
         <h2>Bertanya-tanya bagaimana Anda dapat menggunakan semua fitur ini? Baca studi kasus di halaman Tentang Kami</h2>
         <a href="about.php" class="btn-see-case" id='btn-see-case'>Lihat Studi Kasus</a>
@@ -396,11 +391,6 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
         element.style.visibility = "visible";
         element.style.opacity = "1";
         }
-    </script>
-    <script>
-        setTimeout(function() {
-            $('#myModal').modal();
-        }, 4000);
     </script>
 </body>
 

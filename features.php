@@ -107,37 +107,32 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
             <img src="../img/whatsapp.svg" id="fixedbutton"/>
         </a>
     </section>
+    <!-- req online meeting popup -->
     <section>
-        <div class="modal fade" id="myModal" tabindex="-1" role="dialog" aria-labelledby="exampleModalCenterTitle" aria-hidden="true">
-            <div class="modal-dialog modal-dialog-centered" role="document">
-                <div class="modal-content">
-                <div class="modal-header survey-pop-header">
-                    <h5 class="modal-title survey-pop-title" id="exampleModalLongTitle">Dokodemo-Kerja Promotion!</h5>
-                    <button type="button" class="close survey-close" data-dismiss="modal" aria-label="Close">
-                    <span aria-hidden="true">&times;</span>
+         <button class="btn botFixedBtn" id="btnReqOnlineMeeting" type="button" data-toggle="collapse" href="#collapseExample" style="background: #ffcc13;">
+            <i class="fa fa-chevron-up" style="font-size: medium; color: #fff;"></i>
+        </button>
+        <span class="collapse popUpBottom" id="collapseExample">
+            <div class="card card-body" style="border: 3px solid lightgrey;">
+                <div class=" text-center" style="padding: 1em;">
+                    <!-- <div class="btn pull-right">X</div> -->
+                    <button type="button" class="close survey-close" data-toggle="collapse" href="#collapseExample" aria-label="Close" style="padding: 6px 12px;">
+                        <span aria-hidden="true"><i class="fa fa-chevron-down" style="font-size: medium;"></i></span>
                     </button>
-                </div>
-                <div class="modal-body survey-pop-body">
-                    <p>
-                        Get a special price after participating in our survey on employee's productivity
-                    </p>
-                    <div class="mb-3">
-                        <a href="https://surveys.hotjar.com/s?siteId=1474442&surveyId=143507" target="_blank">
-                            <button type="button" class="btn btn-warning survey-pop-btn-promo" id="survey-btn">Get Promotion</button>
-                        </a>
+                    <h5 class="card-title"><b>SET UP AN <br> ONLINE MEETING</b></h5>
+                    <hr>
+                    <p class="card-text">If you're interested in a live demo, or if you have any question at all, click the button below</p>
+                    <div class="">
+                            <a href="/contact-us.php" target="_blank">
+                                <button type="button" class="btn btn-warning survey-pop-btn-promo" id="survey-btn">Setup Online Meeting</button>
+                            </a>
+                        </div>
                     </div>
-                    <div>
-                        <span data-dismiss="modal" style="cursor:pointer;">Ask me later</span>
-                    </div>
-                </div>
-                <!-- <div class="modal-footer">
-                    <button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button>
-                    <button type="button" class="btn btn-primary">Save changes</button>
-                </div> -->
                 </div>
             </div>
-        </div>
+        </span>    
     </section>
+    <!-- end of req online meeting popup -->
     <section class="case-studies">
         <h2>Wonder how you can use all these features? Read the case studies in our About Us page</h2>
         <a href="about.php" class="btn-see-case" id='btn-see-case'>See Case Studies</a>
@@ -401,11 +396,6 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
         element.style.visibility = "visible";
         element.style.opacity = "1";
         }
-    </script>
-    <script>
-        setTimeout(function() {
-            $('#myModal').modal();
-        }, 4000);
     </script>
     <!-- <script>
     function onClick(element) {
