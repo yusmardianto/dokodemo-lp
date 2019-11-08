@@ -143,7 +143,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 										</p>
 										<a href="/contact-us.php" class="btn btn-trial-contact bold uppercase" id="btn-contact-us">Contact Us</a>
 										<p class="trial-tab-content q-title" style="color:blue; text-decoration:underline">
-											<a href=" https://www.logique.co.id/pdf/manual-guide-ENG.pdf" target="_blank">
+											<a href="/pdf/manual-guide-ENG.pdf" target="_blank">
 												Download the manual guide
 											</a>
 										</p>

@@ -237,7 +237,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
     </section>
     <section class="read-testimony">
         <h3>Setup an online meeting with us to see how it works!</h3>
-        <a href="index.php#testimony" class="btn-read-testimony" id="btn-read-testimony">
+        <a href="/contact-us.php" class="btn-read-testimony" id="btn-read-testimony">
             Call Now
         </a>
     </section>

@@ -224,7 +224,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
     </section>
     <section class="read-testimony">
         <h3>Ingin tahu bagaimana implementasi <b>Dokodemo Kerja</b> di lapangan?</h3>
-        <a href="index.php#testimony" class="btn-read-testimony" id="btn-read-testimony">
+        <a href="../ind/contact-us.php" class="btn-read-testimony" id="btn-read-testimony">
             Hubungi Kami
         </a>
     </section>
