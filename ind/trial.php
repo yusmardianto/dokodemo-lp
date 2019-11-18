@@ -101,9 +101,9 @@ $page = 'trial.php';
 	<?php include 'header.php' ?>
 	<section class="intro-section text-center px-4">
 		<h1 class="banner-text-white">Coba Demo Gratis Dulu</h1>
-		<a href="https://demo.dokodemo-kerja.com" class="btn btn-trial-contact bold uppercase" target="_blank" id="btn-demo-trial-id">Klik Disini</a>
+		<a href="https://demo.dokodemo-kerja.com" class="btn btn-trial-contact bold uppercase" target="_blank" id="btn-demo-trial-id">Admin Demo</a>
 		<a href="https://www.logique.co.id/pdf/manual-guide.pdf" target="_blank">
-			<p class="trial-header-content">Download Dokumentasi Pemakaian Lengkap</p>
+			<p class="trial-header-content">Untuk mencoba versi staff, silahkan ikut instruksi dibawah</p>
 		</a>
 	</section>
 	<!-- <section class="trial-top" id="form-trial">
@@ -195,7 +195,7 @@ $page = 'trial.php';
 		<div class="container">
 			<div class="row mt-5 mb-5">
 				<div class="col-md-6 download-container">
-					<h3 class="download-title hidden-xs">Download Links :</h3>
+					<h3 class="download-title hidden-xs">Install demo aplikasi dari link dibawah ini:</h3>
 					<a href="https://demo.dokodemo-kerja.com/files/Dokodemo-Kerja%20(Windows)%20demo%20v1.0.4.zip" class="btn btn-download bold uppercase hidden-xs" id="btn-download-windows-id"><i class="fa fa-download icon-download"></i>Windows</a>
 					<a href="https://demo.dokodemo-kerja.com/files/Dokodemo-Kerja%20(Mac)%20demo%20v1.0.4.zip" class="btn btn-download bold uppercase hidden-xs" id="btn-download-ios-id"><i class="fa fa-download icon-download"></i>IOS</a>
 					<a href="https://demo.dokodemo-kerja.com/files/Dokodemo-Kerja%20(Linux)%20demo%20v1.0.4.zip" class="btn btn-download bold uppercase hidden-xs" id="btn-download-linux-id"><i class="fa fa-download icon-download"></i>Linux</a>
