@@ -126,37 +126,6 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
         </a>
     </section>
     <!-- req online meeting popup -->
-    <section class="guides py-2 mt-5">
-        <div class="container">
-            <div class="row">
-                <div class="col-md-12">
-                    <h3 class="text-center feature-pdf-title">Wonder how you can use all these features?</h3>
-                </div>
-            </div>
-            <div class="row">
-                <!-- <div class="col-md-4 offset-md-4 py-2">
-                    <a href="trial.php">
-                        <img src="img/features/free-trial.jpg" class="img-fluid mx-auto d-block" id="features-free-trial" />
-                    </a>
-                </div> -->
-                <div class="col-md-4 offset-md-2 col-10 offset-1 py-2">
-                    <a href="http://dokodemo-web.test/pdf/manual-guide.pdf" class="dl-guide">
-                        <img src="img/manual.png" class="img-fluid mx-auto d-block" id="features-manual-guide" />
-                    </a>
-                </div>
-                <div class="col-md-4 col-10 offset-md-0 offset-1 py-2">
-                    <a href="http://dokodemo-web.test/pdf/install-guide.pdf" class="dl-guide">
-                        <img src="img/install.png" class="img-fluid mx-auto d-block" id="features-install-guide" />
-                    </a>
-                </div>
-            </div>
-            <div class="row mt-3">
-                <div class="col-md-12 text-center">
-                    <button class="btn btn-primary" data-toggle="collapse" href="#collapseExample">Setup Online Meeting</button>
-                </div>
-            </div>
-        </div>
-    </section>
     <section>
          <button class="btn botFixedBtn" id="btnReqOnlineMeeting" type="button" data-toggle="collapse" href="#collapseExample" style="background: #ffcc13;">
             <i class="fa fa-chevron-up" style="font-size: medium; color: #fff;"></i>
@@ -294,9 +263,40 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                     <div class="col-md-6">
                         <ul class="manager-activity-list">
                             <li>If the possibility of an employee forgetting to stop his or her Dokodemo arises, HR can ask them to edit their working hours</li>
-                            <li>Manage and confirm notificationsand staff comments</li>
+                            <li>Manage and confirm notifications and staff comments</li>
                         </ul>
                     </div>
+                </div>
+            </div>
+        </div>
+    </section>
+    <section class="guides py-2 mt-5 mb-5">
+        <div class="container">
+            <div class="row">
+                <div class="col-md-12">
+                    <h3 class="text-center feature-pdf-title">Wonder how you can use all these features?</h3>
+                </div>
+            </div>
+            <div class="row">
+                <!-- <div class="col-md-4 offset-md-4 py-2">
+                    <a href="trial.php">
+                        <img src="img/features/free-trial.jpg" class="img-fluid mx-auto d-block" id="features-free-trial" />
+                    </a>
+                </div> -->
+                <div class="col-md-4 offset-md-2 col-10 offset-1 py-2">
+                    <a href="http://dokodemo-web.test/pdf/manual-guide.pdf" class="dl-guide">
+                        <img src="img/manual.png" class="img-fluid mx-auto d-block" id="features-manual-guide" />
+                    </a>
+                </div>
+                <div class="col-md-4 col-10 offset-md-0 offset-1 py-2">
+                    <a href="http://dokodemo-web.test/pdf/install-guide.pdf" class="dl-guide">
+                        <img src="img/install.png" class="img-fluid mx-auto d-block" id="features-install-guide" />
+                    </a>
+                </div>
+            </div>
+            <div class="row mt-3">
+                <div class="col-md-12 text-center">
+                    <button class="btn btn-primary" data-toggle="collapse" href="#collapseExample">Setup Online Meeting</button>
                 </div>
             </div>
         </div>

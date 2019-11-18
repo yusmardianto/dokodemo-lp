@@ -150,37 +150,6 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
             </div>
         </span>    
     </section>
-    <section class="guides py-2 mt-5">
-        <div class="container">
-            <div class="row">
-                <div class="col-md-12">
-                    <h3 class="text-center feature-pdf-title">Penasaran bagaimana cara mendapatkan semua fitur ini?</h3>
-                </div>
-            </div>
-            <div class="row">
-                <!-- <div class="col-md-4 offset-md-4 py-2">
-                    <a href="trial.php">
-                        <img src="img/features/free-trial.jpg" class="img-fluid mx-auto d-block" id="features-free-trial" />
-                    </a>
-                </div> -->
-                <div class="col-md-4 offset-md-2 col-10 offset-1 py-2">
-                    <a href="http://dokodemo-web.test/pdf/manual-guide.pdf" class="dl-guide">
-                        <img src="../img/manual.png" class="img-fluid mx-auto d-block" id="features-manual-guide" />
-                    </a>
-                </div>
-                <div class="col-md-4 col-10 offset-md-0 offset-1 py-2">
-                    <a href="http://dokodemo-web.test/pdf/install-guide.pdf" class="dl-guide">
-                        <img src="../img/install.png" class="img-fluid mx-auto d-block" id="features-install-guide" />
-                    </a>
-                </div>
-            </div>
-            <div class="row mt-3">
-                <div class="col-md-12 text-center">
-                    <button class="btn btn-primary" data-toggle="collapse" href="#collapseExample">Setup Online Meeting</button>
-                </div>
-            </div>
-        </div>
-    </section>
     <section>
         <div class="container mt-5 mb-3">
             <div class="row">
@@ -297,6 +266,37 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                             <li>Kelola pemberitahuan, konfirmasi, dan secara rutin menanggapi komentar staf </li>
                         </ul>
                     </div>
+                </div>
+            </div>
+        </div>
+    </section>
+    <section class="guides py-2 mt-5 mb-5">
+        <div class="container">
+            <div class="row">
+                <div class="col-md-12">
+                    <h3 class="text-center feature-pdf-title">Penasaran bagaimana cara mendapatkan semua fitur ini?</h3>
+                </div>
+            </div>
+            <div class="row">
+                <!-- <div class="col-md-4 offset-md-4 py-2">
+                    <a href="trial.php">
+                        <img src="img/features/free-trial.jpg" class="img-fluid mx-auto d-block" id="features-free-trial" />
+                    </a>
+                </div> -->
+                <div class="col-md-4 offset-md-2 col-10 offset-1 py-2">
+                    <a href="http://dokodemo-web.test/pdf/manual-guide.pdf" class="dl-guide">
+                        <img src="../img/manual.png" class="img-fluid mx-auto d-block" id="features-manual-guide" />
+                    </a>
+                </div>
+                <div class="col-md-4 col-10 offset-md-0 offset-1 py-2">
+                    <a href="http://dokodemo-web.test/pdf/install-guide.pdf" class="dl-guide">
+                        <img src="../img/install.png" class="img-fluid mx-auto d-block" id="features-install-guide" />
+                    </a>
+                </div>
+            </div>
+            <div class="row mt-3">
+                <div class="col-md-12 text-center">
+                    <button class="btn btn-primary" data-toggle="collapse" href="#collapseExample">Setup Online Meeting</button>
                 </div>
             </div>
         </div>

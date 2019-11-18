@@ -97,7 +97,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                                         <div class="additional-fee">
                                             <span class="plus-rp">+Rp.</span>
                                             <span class="price-number">50.000</span>
-                                            <span class="per-month">/ Month</span>
+                                            <span class="per-month">/ User</span>
                                         </div>
                                     </div>
                                 </div>
