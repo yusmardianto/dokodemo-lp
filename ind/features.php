@@ -139,12 +139,37 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                     </button>
                     <h5 class="card-title"><b>SET UP AN <br> ONLINE MEETING</b></h5>
                     <hr>
-                    <p class="card-text">If you're interested in a live demo, or if you have any question at all, click the button below</p>
-                    <div class="">
-                            <a href="/contact-us.php" target="_blank">
-                                <button type="button" class="btn btn-warning survey-pop-btn-promo" id="survey-btn">Setup Online Meeting</button>
-                            </a>
-                        </div>
+                        <p class="card-text">Jika Anda tertarik untuk melihat demo secara langsung, atau memiliki pertanyaan apapun,
+                        klik tombol dibawah ini</p>
+                        <form>
+                            <div class="form-group" style="text-align:left;">
+                                <label for="clientName">Nama</label>
+                                <input type="text" class="form-control" name="clientName" id="clientName" placeholder="Masukan nama anda">
+                            </div>
+                            <div class="form-group" style="text-align:left;">
+                                <label for="clientEmail">Email</label>
+                                <input type="email" class="form-control" name="clientEmail" id="clientEmail" placeholder="Masukan email anda">
+                            </div>
+                            <div class="form-group" style="text-align:left;">
+                                <label for="clientDate">Date</label>
+                                <input type="date" class="form-control" name="clientDate" id="clientDate" placeholder="Enter your Date">
+                            </div>
+                            <div class="form-group" style="text-align:left;">
+                                <label for="clientTime">Time</label>
+                                <select class="form-control" name="clientTime" id="clientTime" placeholder="Select your time">
+                                    <option value="09.00">09.00</option>
+                                    <option value="10.00">10.00</option>
+                                    <option value="11.00">11.00</option>
+                                    <option value="12.00">12.00</option>
+                                    <option value="13.00">13.00</option>
+                                    <option value="14.00">14.00</option>
+                                    <option value="15.00">15.00</option>
+                                    <option value="16.00">16.00</option>
+                                    <option value="17.00">17.00</option>
+                                </select>
+                            </div>
+                            <button type="submit" class="btn btn-primary">Send</button>
+                        </form>
                     </div>
                 </div>
             </div>
