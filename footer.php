@@ -27,7 +27,7 @@
                         <li><a href="contact-us.php">Contact Us</a></li>
                         <li><a href="faq.php">FAQ</a></li>
                         <li><a href="subscribe.php">Subscribing Procedure</a></li>
-                        <li><a href="contact-us.php">Setup Online Meeting</a></li>
+                        <li><a data-toggle="collapse" href="#collapseExample">Setup Online Meeting</a></li>
                         <li><a href="#">Terms and Condition</a></li>
                         <li><a href="#">Privacy Policy</a></li>
                     </ul>
