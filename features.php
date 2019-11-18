@@ -192,15 +192,15 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
         </div>
     </section> -->
     <section>
-        <div class="container mt-5 mb-3">
-            <div class="row">
+        <div class="container mt-5">
+            <div class="row mt-5">
                 <div class="col-md-12 text-center font-weight-bold">
                     <h1 class="tutorial-title">How to Use?</h1>
                 </div>
             </div>
         </div>
     </section>
-    <section class="user-role">
+    <!-- <section class="user-role">
         <div class="container-fluid">
             <div class="row employee-role">
                 <div class="col-md-6 program-sample">
@@ -269,14 +269,14 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                 </div>
             </div>
         </div>
-    </section>
-    <section class="guides py-2 mt-5 mb-5">
+    </section> -->
+    <section class="guides py-2 mb-5">
         <div class="container">
-            <div class="row">
+            <!-- <div class="row">
                 <div class="col-md-12">
                     <h3 class="text-center feature-pdf-title">Wonder how you can use all these features?</h3>
                 </div>
-            </div>
+            </div> -->
             <div class="row">
                 <!-- <div class="col-md-4 offset-md-4 py-2">
                     <a href="trial.php">
