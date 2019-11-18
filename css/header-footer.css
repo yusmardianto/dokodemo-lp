@@ -107,10 +107,10 @@ footer {
 
 .footer-menu-list {
   list-style: none;
-  display: flex;
+  display: block;
   padding: 0;
   justify-content: space-between;
-  text-align: center;
+  text-align: left;
 }
 .footer-menu-list li {
   padding: 5px;
@@ -145,9 +145,19 @@ footer {
 .footer-contact-item a span {
   padding-left: 10px;
 }
+
+.copyright-container {
+  color: white;
+  text-align: center;
+  border-top: 1px solid #696969;
+  padding-top: 15px;
+}
+
 .logique-logo {
-  width: 175px;
-  float: right;
+  width: 125px;
+  text-align: center;
+  margin-top: 20px;
+  /* float: right; */
 }
 .footer-contact-item img {
   width: 20px;
@@ -275,5 +285,101 @@ footer {
   .navbar-brand img {
     width: 60px;
     height: auto;
+  }
+}
+
+/* Resp Develop */
+
+@media screen and (min-width: 1024px) and (max-width:1024px) {
+
+}
+
+@media only screen and (max-width: 812px) and (min-width:768px) {
+
+}
+
+@media only screen and (max-width:736px) and (min-width:568px) {
+
+}
+
+@media only screen and (min-width:360px) and (max-width:414px) {
+  .footer-logo-container {
+    display: contents;
+  }
+  footer img {
+    display: block;
+    margin: 0 24px;
+  }
+  .footer-menu-container-1, .footer-menu-container-2 {
+    margin-top: 15px;
+  }
+  .footer-menu-container-1 {
+    width: 45%;
+  }
+  .footer-menu-container-2 {
+    width: 55%;
+  }
+  .footer-menu-list {
+    text-align: left;
+  }
+  .first-list {
+    margin-left: 24px;
+  }
+  .footer-contact {
+    justify-content: left;
+  }
+  .footer-contact-item {
+    padding: 0;
+  }
+  .footer-contact-item img {
+    width: 21px;
+  }
+  .footer-contact-item a span,
+  .footer-icon {
+    display: inline;
+  }
+  .footer-icon {
+    margin: 0 6px 0 24px;
+  }
+}
+
+@media only screen and (max-width:320px) {
+  .footer-logo-container {
+    display: contents;
+  }
+  footer img {
+    display: block;
+    margin: 0 13px;
+  }
+  .footer-menu-container-1, .footer-menu-container-2 {
+    margin-top: 15px;
+  }
+  .footer-menu-container-1 {
+    width: 45%;
+  }
+  .footer-menu-container-2 {
+    width: 55%;
+  }
+  .footer-menu-list {
+    text-align: left;
+  }
+  .first-list {
+    margin-left: 24px;
+  }
+  .footer-contact {
+    justify-content: left;
+  }
+  .footer-contact-item {
+    padding: 0;
+  }
+  .footer-contact-item img {
+    width: 21px;
+  }
+  .footer-contact-item a span,
+  .footer-icon {
+    display: inline;
+  }
+  .footer-icon {
+    margin: 0 6px 0 24px;
   }
 }

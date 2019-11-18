@@ -1,50 +1,76 @@
 <footer>
     <div class="container">
         <div class="row align-items-center">
-            <div class="col-lg-2">
+            <div class="col-lg-3 col-sm-12 footer-logo-container">
                 <img src="img/logo-shadow.png" class="img-fluid" />
+                <p>
+                    <a href="https://www.logique.co.id/" target="_blank">
+                        <img src="img/logo_logique.png" class="img-fluid logique-logo" />
+                    </a>
+                </p>
             </div>
-            <div class="col-lg-7">
+            <div class="col-lg-3 col-sm-6 footer-menu-container-1">
                 <div class="footer-menu">
-                    <ul class="footer-menu-list">
-                        <li><a href="#">Home</a></li>
-                        <li><a href="#">About Dokodemo-Kerja</a></li>
-                        <li><a href="#">Feature Tours</a></li>
-                        <li><a href="#">Pricing</a></li>
-                        <li><a href="#">Trial</a></li>
+                    <ul class="footer-menu-list first-list">
+                        <li><a href="/">Home</a></li>
+                        <li><a href="about.php">About Us</a></li>
+                        <li><a href="features.php">Features</a></li>
+                        <li><a href="pricing.php">Pricing</a></li>
+                        <li><a href="trial.php">Trial</a></li>
                         <li><a href="https://www.logique.co.id/blog/category/dokodemo-kerja/" target="_blank">Blog</a></li>
-                        <li><a href="#">Contact Us</a></li>
                     </ul>
                 </div>
-                <div class="footer-contact">
-                    <span class="footer-contact-item">
-                        <a href="tel:02122708935">
-                            <img src="img/call.png">
-                            <span>(021) 22708935 / 36</span>
-                        </a>
-                    </span>
-                    <span class="footer-contact-item">
-                        <a href="mailto:info@logique.co.id">
-                            <img src="img/mail.png">
-                            <span>info@logique.co.id</span>
-                        </a>
-                    </span>
-                    <span class="footer-contact-item">
-                        <a href="https://api.whatsapp.com/send?phone=62811870321" target="_blank">
-                            <img src="img/whatsapp.png">
-                            <span>0811-870-321</span>
-                        </a>
-                    </span>
+            </div>
+            <div class="col-lg-3 col-sm-6 footer-menu-container-2">
+                <div class="footer-menu">
+                    <ul class="footer-menu-list second-list">
+                        <li><a href="contact-us.php">Contact Us</a></li>
+                        <li><a href="faq.php">FAQ</a></li>
+                        <li><a href="subscribe.php">Subscribing Procedure</a></li>
+                        <li><a href="contact-us.php">Setup Online Meeting</a></li>
+                        <li><a href="#">Terms and Condition</a></li>
+                        <li><a href="#">Privacy Policy</a></li>
+                    </ul>
                 </div>
             </div>
             <div class="col-lg-3">
-                <a href="https://www.logique.co.id/" target="_blank">
+                <!-- <a href="https://www.logique.co.id/" target="_blank">
                     <img src="img/logo_logique.png" class="img-fluid logique-logo" />
-                </a>
+                </a> -->
+                <div class="footer-contact">
+                    <ul class="footer-menu-list">
+                        <li>
+                            <span class="footer-contact-item">
+                                <a href="tel:02122708935">
+                                    <img src="img/call.png" class="footer-icon">
+                                    <span>(021) 22708935 / 36</span>
+                                </a>
+                            </span>
+                        </li>
+                        <li>
+                            <span class="footer-contact-item">
+                                <a href="mailto:info@logique.co.id">
+                                    <img src="img/mail.png" class="footer-icon">
+                                    <span>info@logique.co.id</span>
+                                </a>
+                            </span>
+                        </li>
+                        <li>
+                            <span class="footer-contact-item">
+                                <a href="https://api.whatsapp.com/send?phone=62811870321" target="_blank">
+                                    <img src="img/whatsapp.png" class="footer-icon">
+                                    <span>0811-870-321</span>
+                                </a>
+                            </span>
+                        </li>
+                    </ul>
+                </div>
             </div>
         </div>
-
-
-
+        <div class="row align-items-center">
+            <div class="col-lg-12 copyright-container">
+                &copy; 2019 Logique Digital Indonesia, All Rights Reserved
+            </div>
+        </div>
     </div>
 </footer>
