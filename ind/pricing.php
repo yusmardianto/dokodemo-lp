@@ -170,7 +170,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
         <div class="container">
             <div class="row">
                 <div class="col-md-12 text-center">
-                    <a href="contact-us.php" class="btn-price-buy-plan" id="btn-price-buy-plan">
+                    <a href="subscribe.php" class="btn-price-buy-plan" id="btn-price-buy-plan">
                         Beli Plan
                     </a>
                 </div>

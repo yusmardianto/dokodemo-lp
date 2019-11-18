@@ -295,6 +295,11 @@ body {
   font-size: 18px;
 }
 
+.blue2 {
+  color:#008ec4;
+  font-size: 18px;
+}
+
 @media only screen and (max-width: 425px) {
   .hide-button-on-mobile {
     display: block;
