@@ -176,7 +176,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
             </div>
             <div class="row mt-3">
                 <div class="col-md-12 text-center">
-                    <button class="btn btn-primary">Setup Online Meeting</button>
+                    <button class="btn btn-primary" data-toggle="collapse" href="#collapseExample">Setup Online Meeting</button>
                 </div>
             </div>
         </div>

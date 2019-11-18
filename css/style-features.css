@@ -116,7 +116,7 @@ body {
   object-position: center;
   object-fit: cover;
   /* padding: 1em 3px; */
-  cursor: pointer;
+  /* cursor: pointer; */
 }
 
 .slick-prev {

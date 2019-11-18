@@ -24,6 +24,7 @@
     <link rel="stylesheet" href="css/slick-theme.css" />
     <link rel="stylesheet" href="css/header-footer.css" />
     <link rel="stylesheet" href="css/style-home.css" />
+    <link rel="stylesheet" href="js/magnific-popup.css" />
     <link href="fonts/font-awesome/css/font-awesome.min.css" rel="stylesheet">
     <link rel="shortcut icon" type="image/x-icon" href="favicon.ico">
     <title>Home: Remote Work Management Tool | Time Tracking | Dokodemo-Kerja</title>
@@ -511,6 +512,7 @@
     <script src="js/jquery-3.4.1.min.js"></script>
     <script src="js/bootstrap.min.js"></script>
     <script src="js/slick.min.js"></script>
+    <script src="js/jquery.magnific-popup.min.js"></script>
     <script>
     $(".screenshot-slide").slick({
             infinite: true,
@@ -566,7 +568,34 @@
         });
     });
     </script>
-    
+    <script>
+    $(document).ready(function() {
+        $('.zoom-gallery').magnificPopup({
+            delegate: 'a',
+            type: 'image',
+            closeOnContentClick: false,
+            closeBtnInside: false,
+            mainClass: 'mfp-with-zoom mfp-img-mobile',
+            image: {
+                verticalFit: true,
+                titleSrc: function(item) {
+                    return item.el.attr('title') + ' &middot; <a class="image-source-link" href="'+item.el.attr('data-source')+'" target="_blank">Full Image</a>';
+                }
+            },
+            gallery: {
+                enabled: false
+            },
+            zoom: {
+                enabled: true,
+                duration: 300, // don't foget to change the duration also in CSS
+                opener: function(element) {
+                    return element.find('img');
+                }
+            }
+
+        });
+    });
+    </script>
     <script>
     var element = document.getElementById("popup-text");
 
@@ -585,7 +614,7 @@
     }, 4000);
     </script>
     <!-- end of  modal popup -->
-
+    
 </body>
 
 </html>
