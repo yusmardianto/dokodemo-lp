@@ -97,6 +97,50 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
             <img src="../img/whatsapp.svg" id="fixedbutton"/>
         </a>
     </section>
+    <section id="benefits" class="benefits-features">
+        <h1 class="section-title pb-4">FITUR DAN KEUNTUNGAN</h1>
+        <div class="container pt-4">
+            <div class="row">
+                <div class="col-md-4 features feature-1">
+                    <div class="feature-img-wrapper">
+                        <img src="/img/home/clock.png" class="pr-3" />
+                    </div>
+                    <p>Melacak waktu kerja dengan bukti asli</p>
+                </div>
+                <div class="col-md-4 features feature-2">
+                    <div class="feature-img-wrapper">
+                        <img src="/img/home/coffee.png" class="pl-3" />
+                    </div>
+                    <p>Implementasi peraturan kerja yang flexibel</p>
+                </div>
+                <div class="col-md-4 features feature-3">
+                    <div class="feature-img-wrapper">
+                        <img src="/img/home/corkboard.png" />
+                    </div>
+                    <p>Monitor apa yang sedang dikerjakan para Karyawan</p>
+                </div>
+                <div class="col-md-4 features feature-4">
+                    <div class="feature-img-wrapper">
+                        <img src="/img/home/chart.png" class="pr-3" />
+                    </div>
+                    <p>Analisa waktu kerja berdasarkan staff, department, atau project</p>
+                </div>
+                <div class="col-md-4 features feature-5">
+                    <div class="feature-img-wrapper">
+                        <img src="/img/home/notepad.png" class="pl-3" />
+                    </div>
+                    <p>Anda bisa mengubah waktu, membuat catatan, atau notifikasi</p>
+                </div>
+                <div class="col-md-4 features feature-6">
+                    <div class="feature-img-wrapper">
+                        <img src="/img/home/work.png" />
+                    </div>
+                    <p>Sistem Management yang mudah untuk kerja Overtime</p>
+                </div>
+            </div>
+            <a href="features.php" class="btn-learn-more" id="btn-learn-more-id">Lihat Lebih</a>
+        </div>
+    </section>
     <section class="to-whom">
         <div class="container">
             <div class="row">
@@ -134,6 +178,27 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                     <p>
                         Retensi karyawan adalah bagian penting dari pertumbuhan organisasi. Dengan menghargai semua karyawan yang tepat, itu akan mengurangi tingkat pengunduran diri. Dokodemo-Kerja dapat membantu Anda menentukan karyawan yang layak dijaga.
                     </p>
+                </div>
+                <div class="col-md-6 benefits-item">
+                    <h3>5. Parental Leave</h3>
+                    <p>Salah satu kekhawatiran paling umum bagi pengusaha dan karyawan adalah cuti hamil. Karyawan akan pergi setidaknya 6 minggu atau lebih, dan bahkan kemudian, apakah mereka masih memiliki pekerjaan? Menggunakan Dokodemo-Kerja, karyawan dapat yakin, mengetahui bahwa mereka masih dapat mempertahankan pekerjaan mereka, dan bekerja dari kenyamanan rumah mereka sendiri.</p>
+                </div>
+                <div class="col-md-6 benefits-item">
+                    <h3>6. Faktor Eksternal</h3>
+                     <p>
+                        Musibah selalu datang secara tiba-tiba. Baik itu anak sakit, banjir, hujan badai, kecelakaan mobil, ban bocor, perbaikan jalan, dlsb. Pada situasi seperti ini, karyawan terpaksa tidak ke kantor atau bahkan terlambat selama berjam-jam.
+                        <br><strong>
+                        Dengan Dokodemo-Kerja, karyawan tidak perlu lagi khawatir terjebak kemacetan, terlambat, ataupun transportasi mogok, karena sudah bisa bekerja dari rumah.</strong></p>
+                </div>
+                <div class="col-md-6 benefits-item">
+                    <h3>7. Membereskan Dokumen Penting</h3>
+                    <p>
+                            Setiap orang memiliki alasan tertentu untuk tidak pergi ke kantor. Mungkin mereka perlu mengurus administrasi sekolah anak mereka, mendaftarkan SIM mereka, membuka rekening bank, atau mungkin untuk memperpanjang validitas paspor mereka. Kegiatan-kegiatan ini biasanya harus dilakukan di hari kerja. Mereka bisa menggunakan waktu itu untuk bekerja dari jarak jauh alih-alih menghabiskannya di ruang tunggu selama berjam-jam.</p>
+                </div>
+                <div class="col-md-6 benefits-item">
+                    <h3>8. Break Time</h3>
+                   <p>
+                            Mungkin terkesan tidak adil untuk memperlakukan setiap karyawan secara adil jika setengah dari mereka menghabiskan sebagian besar waktu kerja mereka dengan merokok, menonton video hiburan, mengambil istirahat makan siang berjam-jam, atau berdoa lebih lama dari yang diperlukan. Dengan Dokodemo-Kerja, Anda dapat secara akurat melacak waktu istirahat dan jam kerja mereka, karena mereka dapat menghentikan pelacak waktu ketika mereka tidak benar-benar bekerja.</p>
                 </div>
                 <div class="col-md-10 offset-md-1 about-resp-config">
                     <p class="text-center fw-semibold pt-4">Alasan paling umum bagi karyawan untuk berhenti adalah perjalanan panjang, Kurangnya keseimbangan kerja / hidup, dan gaji / tunjangan yang buruk. Dengan membiarkan mereka bekerja dari jarak jauh dengan persyaratan mereka, mereka akan melihat bahwa ada manfaat nyata yang bekerja untuk Anda.</p>
@@ -175,41 +240,51 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                 <div class="col-md-10 offset-md-1 about-resp-config">
                     <p class="fw-semibold text-center">Di masa pertumbuhan yang cepat, menjaga keseimbangan kehidupan kerja menjadi tantangan. Berikut adalah jenis masalah umum yang mungkin menghambat jam kerja karyawan, dan bagaimana Dokodemo-Kerja memecahkan beberapa masalah tersebut.</p>
                 </div>
-                <div class="col-md-6 employee-benefits-item">
-                    <img src="/img/about/chair.png" />
-                    <div class="employee-benefits-desc pl-4">
-                        <h3>1. Parental Leave</h3>
-                        <p>
-                            Salah satu kekhawatiran paling umum bagi pengusaha dan karyawan adalah cuti hamil. Karyawan akan pergi setidaknya 6 minggu atau lebih, dan bahkan kemudian, apakah mereka masih memiliki pekerjaan? Menggunakan Dokodemo-Kerja, karyawan dapat yakin, mengetahui bahwa mereka masih dapat mempertahankan pekerjaan mereka, dan bekerja dari kenyamanan rumah mereka sendiri.</p>
-                    </div>
+            </div>
+        </div>
+        <div class="container p-md-0 position-relative mt-3">
+            <div class="row no-gutters ">
+                <div class="col-md-6 ">
+                    <img src="/img/home/bg-feature-1.png" class="img-fluid" />
+                    <img src="/img/home/dokodemo-user.png" class="dokodemo-user-float" />
                 </div>
-                <div class="col-md-6 employee-benefits-item">
-                    <img src="/img/about/first_aid_kit.png" />
-                    <div class="employee-benefits-desc pl-4">
-                        <h3>2. Faktor External</h3>
-                        <p>
-                        Musibah selalu datang secara tiba-tiba. Baik itu anak sakit, banjir, hujan badai, kecelakaan mobil, ban bocor, perbaikan jalan, dlsb. Pada situasi seperti ini, karyawan terpaksa tidak ke kantor atau bahkan terlambat selama berjam-jam.
-                        <br><strong>
-                        Dengan Dokodemo-Kerja, karyawan tidak perlu lagi khawatir terjebak kemacetan, terlambat, ataupun transportasi mogok, karena sudah bisa bekerja dari rumah.</strong></p>
+                <div class="col-md-6 d-flex align-items-center">
+                    <div class="benefit-content right">
+                        <p class="benefit-title">Bekerja Dimanapun, Kapanpun</p>
+                        <hr class="blue-separator">
+                        <p class="benefit-desc">Apakah Anda benar-benar membutuhkan pertemuan tatap muka di kantor setiap hari? Bisakah atasan Anda menjelaskan secara logis mengapa Anda harus bekerja di kantor mulai jam 8 pagi sampai jam 5 sore?</p>
                     </div>
+
                 </div>
-                <div class="col-md-6 employee-benefits-item">
-                    <img src="/img/about/checklist.png" />
-                    <div class="employee-benefits-desc pl-4">
-                        <h3>3. Membereskan dokumen penting
-                        </h3>
-                        <p>
-                            Setiap orang memiliki alasan tertentu untuk tidak pergi ke kantor. Mungkin mereka perlu mengurus administrasi sekolah anak mereka, mendaftarkan SIM mereka, membuka rekening bank, atau mungkin untuk memperpanjang validitas paspor mereka. Kegiatan-kegiatan ini biasanya harus dilakukan di hari kerja. Mereka bisa menggunakan waktu itu untuk bekerja dari jarak jauh alih-alih menghabiskannya di ruang tunggu selama berjam-jam.</p>
+            </div>
+        </div>
+        <div class="container">
+            <div class="row no-gutters">
+                <div class="col-md-6 order-2 order-md-1 d-flex align-items-center">
+                    <div class="benefit-content">
+                        <p class="benefit-title">Memaksimalkan Produktivitas Karyawan</p>
+                        <hr class="blue-separator">
+                        <p class="benefit-desc">Bekerja dengan nyaman, fleksibel, dan efektif untuk meningkatkan hasil kerja. Hindari kemacetan lalu lintas dan semua upaya yang menyusahkan untuk pergi ke kantor</p>
                     </div>
+
                 </div>
-                <div class="col-md-6 employee-benefits-item">
-                    <img src="/img/about/coffee.png" />
-                    <div class="employee-benefits-desc pl-4">
-                        <h3>4. Break Time</h3>
-                        <p>
-                            Mungkin terkesan tidak adil untuk memperlakukan setiap karyawan secara adil jika setengah dari mereka menghabiskan sebagian besar waktu kerja mereka dengan merokok, menonton video hiburan, mengambil istirahat makan siang berjam-jam, atau berdoa lebih lama dari yang diperlukan. Dengan Dokodemo-Kerja, Anda dapat secara akurat melacak waktu istirahat dan jam kerja mereka, karena mereka dapat menghentikan pelacak waktu ketika mereka tidak benar-benar bekerja.</p>
+                <div class="col-md-6 order-1 order-md-2">
+                    <img src="/img/home/work-anywhere.png" class="img-fluid" />
+                </div>
+            </div>
+            <div class="row no-gutters">
+                <div class="col-md-6">
+                    <img src="/img/home/work-efficiency.png" class="img-fluid" />
+                </div>
+                <div class="col-md-6 d-flex align-items-center">
+                    <div class="benefit-content right">
+                        <p class="benefit-title">Meningkatkan Efisiensi Kerja</p>
+                        <hr class="blue-separator">
+                        <p class="benefit-desc">Dengan memiliki catatan akurat tentang berapa lama yang dibutuhkan untuk menyelesaikan sebuah tugas, setiap orang dapat mengevaluasi diri untuk melakukan yang lebih baik.</p>
                     </div>
+
                 </div>
+
             </div>
         </div>
     </section>

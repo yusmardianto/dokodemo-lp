@@ -414,6 +414,20 @@ strong {
   text-decoration: none;
 }
 
+.cp-bot-container {
+    background: #f0f0f0;
+    text-align: center;
+    border-radius: 10px;
+    padding: 20px;
+}
+
+.cp-bot-container h5 {
+  font-weight: bold;
+}
+.cp-bot-container p a {
+  padding: 10px;
+}
+
 @media (max-width: 767px) {
   .dl-guide {
     display: block;
@@ -436,6 +450,9 @@ strong {
 @media screen and (max-width: 425px) {
   .contact-resp-settings {
     padding: 0 2em;
+  }
+  .cp-bot-container h4 {
+    font-size: 18px;
   }
 }
 

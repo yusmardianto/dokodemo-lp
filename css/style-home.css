@@ -21,6 +21,11 @@
   font-weight: 600;
 }
 
+@font-face {
+  font-family: 'Font Awesome';
+  src: url('../css/webfonts/fa-solid-900.ttf');
+}
+
 body {
   font-family: 'Khula';
 }
@@ -205,7 +210,7 @@ body {
 }
 
 .user-testimony {
-  margin-top: 5em;
+  margin-top: 3em;
   padding: 2em 0;
   background: url('../img/home/bg-testimoni.jpg');
   background-size: cover;
@@ -318,6 +323,68 @@ body {
 .header-subfeature {
   font-size: 22px;
   display: block;
+}
+
+.home-feature-title {
+  text-align: center;
+  font-weight: bold;
+}
+
+.home-feature-content {
+  font-size: 18px;
+}
+
+.home-feature-list {
+  font-size: 20px;
+}
+
+.screenshots {
+  background: #ffffff;
+}
+
+.img-slide-screenshot {
+  max-width: 100%;
+  height: 100%;
+  max-height: 300px;
+  margin: 0 auto;
+  object-position: center;
+  object-fit: cover;
+  padding: 1em 3px;
+  cursor: pointer;
+}
+
+.slick-prev {
+  left: 100px;
+  z-index: 1;
+}
+.slick-next {
+  right: 100px;
+}
+
+.slick-next::before {
+  font-family: 'Font Awesome';
+  content: '\f105';
+  color: #ffca13;
+  font-size: 82px;
+  line-height: 0;
+}
+
+.slick-prev::before {
+  font-family: 'Font Awesome';
+  content: '\f104';
+  color: #ffca13;
+  font-size: 82px;
+  line-height: 0;
+}
+
+.home-benefit-content {
+  font-size: 18px;
+  font-weight: bold;
+}
+
+.home-benefit-content-title {
+  font-size: 18px;
+  font-weight: bold;
 }
 
 @media screen and (max-width: 1024px) {
@@ -614,4 +681,161 @@ body {
 }
 .survey-pop-btn-promo {
   font-weight: bold;
+}
+
+/* Resp Develop */
+
+@media screen and (min-width: 1024px) and (max-width:1024px) {
+  .home-feature-content {
+    font-size: 15px;
+  }
+  .home-feature-list {
+    font-size: 16px;
+  }
+  .feature-btn {
+    font-size: 14px;
+  }
+  .benefit-btn {
+    font-size: 14px;
+    margin-top: 10px;
+  }
+}
+
+@media only screen and (max-width: 812px) and (min-width:768px) {
+  .feature-video {
+    margin-top: 36px;
+  }
+  .home-feature-content {
+    font-size: 15px;
+  }
+  .home-feature-list {
+    font-size: 16px;
+  }
+  .feature-btn {
+    font-size: 14px;
+  }
+  .benefit-btn {
+    font-size: 14px;
+    margin-top: 10px;
+  }
+}
+
+@media only screen and (max-width:736px) and (min-width:568px) {
+  .advantages-item {
+    justify-content: center;
+    padding: 0.5em 0 0 0;
+  }
+  .feature-video {
+    margin-top: 36px;
+  }
+  .home-feature-content {
+    margin-top: 15px;
+    font-size: 15px;
+  }
+  .home-feature-list {
+    font-size: 16px;
+  }
+  .feature-btn {
+    font-size: 14px;
+  }
+  .benefit-btn {
+    font-size: 14px;
+    margin-top: 10px;
+  }
+  .subbanner-header-text {
+    margin-bottom: 0;
+  }
+  .header-demo-text {
+    margin-top: 20px;
+  }
+}
+
+@media only screen and (min-width:360px) and (max-width:414px) {
+  .advantages-item {
+    justify-content: center;
+    padding: 0.5em 0 0 0;
+  }
+  .feature-video {
+    margin-top: 0;
+  }
+  .home-feature-content {
+    margin-top: 15px;
+    font-size: 15px;
+  }
+  .home-feature-list {
+    font-size: 16px;
+  }
+  .feature-btn {
+    font-size: 14px;
+  }
+  .benefit-btn {
+    font-size: 14px;
+    margin-top: 10px;
+  }
+  .subbanner-header-text {
+    margin-bottom: 0;
+  }
+  .header-demo-text {
+    margin-top: 20px;
+  }
+  .slick-prev {
+    left: 0;
+  }
+  .slick-next {
+    right: 0;
+  }
+  .slick-prev, .slick-next {
+    top: 60%;
+  }
+  .slick-prev::before, .slick-next::before {
+    font-size: 40px;
+  }
+  .home-benefit-content {
+    text-align: center;
+  }
+}
+
+@media only screen and (max-width:320px) {
+    .advantages-item {
+    justify-content: center;
+    padding: 0.5em 0 0 0;
+  }
+  .feature-video {
+    margin-top: 0;
+  }
+  .home-feature-content {
+    margin-top: 15px;
+    font-size: 15px;
+  }
+  .home-feature-list {
+    font-size: 16px;
+  }
+  .feature-btn {
+    font-size: 14px;
+  }
+  .benefit-btn {
+    font-size: 14px;
+    margin-top: 10px;
+  }
+  .subbanner-header-text {
+    margin-bottom: 0;
+  }
+  .header-demo-text {
+    margin-top: 20px;
+  }
+  .slick-prev {
+    left: 0;
+  }
+  .slick-next {
+    right: 0;
+  }
+  .slick-prev, .slick-next {
+    top: 60%;
+  }
+  .slick-prev::before, .slick-next::before {
+    font-size: 40px;
+  }
+  .home-benefit-content {
+    text-align: center;
+  }
 }

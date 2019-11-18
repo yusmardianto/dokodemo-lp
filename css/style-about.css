@@ -322,3 +322,237 @@ body {
     font-size: 18px;
   }
 }
+
+/* New Content  */
+
+.benefits-features {
+  padding: 2em 0;
+  padding-top: 5em;
+}
+
+.section-title {
+  text-align: center;
+  font-weight: 600;
+  font-size: 32px;
+  letter-spacing: 0.2px;
+  color: #505458;
+}
+
+.features {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 1em;
+}
+
+.features p {
+  text-align: center;
+  color: #505458;
+  font-size: 18px;
+  font-weight: normal;
+  padding: 2em 2em;
+}
+
+.feature-img-wrapper {
+  margin-top: 2em;
+  min-height: 110px;
+  display: flex;
+  align-items: flex-end;
+}
+
+.feature-1,
+.feature-2,
+.feature-3 {
+  border-bottom: 1px solid #419bf9;
+}
+
+.feature-1,
+.feature-2,
+.feature-4,
+.feature-5 {
+  border-right: 1px solid #419bf9;
+}
+
+.btn-learn-more,
+.btn-learn-more:hover,
+.btn-more-features,
+.btn-more-features:hover {
+  color: white;
+  display: block;
+  line-height: 1.5;
+
+  width: 200px;
+  font-weight: normal;
+  text-align: center;
+  background: rgb(24, 138, 226);
+  background: linear-gradient(
+    180deg,
+    rgba(24, 138, 226, 1) 0%,
+    rgba(22, 116, 188, 1) 100%
+  );
+  padding: 1em 0 0.7em 0;
+  text-decoration: none;
+  border-radius: 5px;
+  letter-spacing: 1px;
+  margin: 2em auto;
+}
+
+.benefit-title {
+  color: #505458;
+  font-size: 22px;
+  letter-spacing: 0.1px;
+  font-weight: 600;
+  margin-bottom: 10px;
+}
+
+.blue-separator {
+  width: 100px;
+  border-bottom: 3px solid #188ae2;
+  margin: 0;
+}
+
+.benefit-desc {
+  font-size: 20px;
+  line-height: 35px;
+  color: #505458;
+  padding-top: 15px;
+}
+
+.benefit-content {
+  max-width: 600px;
+  padding: 0 5%;
+}
+
+.benefit-content.right {
+  padding-left: 16%;
+}
+
+.dokodemo-user-float {
+  position: absolute;
+  bottom: 0;
+  left: -20vh;
+  width: 80%;
+}
+
+.dokodemo-desc {
+  padding: 2em 0;
+}
+
+.dokodemo-desc p {
+  text-align: center;
+  font-size: 18px;
+  color: #505458;
+  max-width: 600px;
+  line-height: 23px;
+  margin: 0 auto;
+}
+
+/* Resp Develop */
+
+@media screen and (min-width: 1024px) and (max-width:1024px) {
+  .employee-benefits {
+    padding: 0 0 3em;
+  }
+  .navbar-brand, .navbar-expand-lg .navbar-nav .nav-link {
+    font-size: 14px;
+  }
+  .benefit-desc {
+    font-size: 14px;
+  }
+}
+
+@media only screen and (max-width: 812px) and (min-width:768px) {
+  .img-dokodemo-about {
+    display: none;
+  }
+   .employee-benefits {
+    padding: 0 0 3em;
+  }
+  .navbar-brand, .navbar-expand-lg .navbar-nav .nav-link {
+    font-size: 14px;
+  }
+  .benefit-desc {
+    font-size: 14px;
+  }
+  .dokodemo-user-float {
+    position: absolute;
+    bottom: 4vh;
+    left: -2vh;
+    width: 80%;
+  }
+}
+
+@media only screen and (max-width:736px) and (min-width:568px) {
+  .img-dokodemo-about {
+    display: none;
+  }
+   .employee-benefits {
+    padding: 0 0 3em;
+  }
+  .navbar-brand, .navbar-expand-lg .navbar-nav .nav-link {
+    font-size: 14px;
+  }
+  .benefit-desc {
+    font-size: 14px;
+  }
+   .feature-1, .feature-2, .feature-4, .feature-5 {
+    border-right: none;
+  }
+  .feature-1, .feature-2, .feature-3 {
+    border-bottom: none;
+  }
+}
+
+@media only screen and (min-width:360px) and (max-width:414px) {
+  .img-dokodemo-about {
+    display: none;
+  }
+   .employee-benefits {
+    padding: 0 0 3em;
+  }
+  .navbar-brand, .navbar-expand-lg .navbar-nav .nav-link {
+    font-size: 14px;
+  }
+  .benefit-desc {
+    font-size: 14px;
+  }
+  .feature-1, .feature-2, .feature-4, .feature-5 {
+    border-right: none;
+  }
+  .feature-1, .feature-2, .feature-3 {
+    border-bottom: none;
+  }
+  .benefits-features {
+    padding-top: 2em;
+  }
+  .section-title {
+    font-size: 26px;
+  }
+}
+
+@media only screen and (max-width:320px) {
+  .img-dokodemo-about {
+    display: none;
+  }
+   .employee-benefits {
+    padding: 0 0 3em;
+  }
+  .navbar-brand, .navbar-expand-lg .navbar-nav .nav-link {
+    font-size: 14px;
+  }
+  .benefit-desc {
+    font-size: 14px;
+  }
+  .feature-1, .feature-2, .feature-4, .feature-5 {
+    border-right: none;
+  }
+  .feature-1, .feature-2, .feature-3 {
+    border-bottom: none;
+  }
+  .benefits-features {
+    padding-top: 2em;
+  }
+  .section-title {
+    font-size: 26px;
+  }
+}

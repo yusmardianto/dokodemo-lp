@@ -109,9 +109,10 @@
         <?php include 'header.php' ?>
         <div class="container">
             <div class="row">
-                <div class="col-md-8 offset-md-2">
-                    <h1 class="banner-header-text"><strong>Do you know who your most
-                            productive employee is?</strong></h1>
+                <div class="col-md-12">
+                    <h1 class="banner-header-text"><strong>SAVE MONEY. INCREASE PRODUCTIVITY</strong></h1>
+                    <!-- <h1 class="banner-header-text"><strong>Do you know who your most
+                            productive employee is?</strong></h1> -->
 
                 </div>
                 <div class="col-12">
@@ -174,7 +175,7 @@
             <img src="../img/whatsapp.svg" id="fixedbutton" />
         </a>
     </section>
-    <section id="benefits" class="benefits-features">
+    <!-- <section id="benefits" class="benefits-features">
         <h1 class="section-title pb-4">BENEFITS AND FEATURES</h1>
         <div class="container pt-4">
             <div class="row">
@@ -269,22 +270,124 @@
 
             </div>
         </div>
-    </section>
-    <section class="dokodemo-desc">
+    </section> -->
+    <!-- <section class="dokodemo-desc">
         <h1 class="section-title">WHAT IS DOKODEMO KERJA?</h1>
         <p>Dokodemo Kerja is a Human Resources oriented tool used to manage and monitor employee working hours. Your
             company can now work flexibly through implement systems of remote working. Work Anytime & Anywhere with
             Dokodemo-Kerja.</p>
         <a href="features.php" class="btn-more-features" id="btn-more-features">More Features</a>
+    </section> -->
+    <section class="feature-content mt-5">
+        <div class="container">
+            <div class="row">
+                <div class="col-md-12">
+                    <h1 class="home-feature-title">Features</h1>
+                    <!-- <p>Dokodemo-Kerja is a time-management oriented solution for both employers and employees alike. Through its efficient monitoring and management capabilities, Dokodemo-Kerja can further help companies improve their levels of productivity, while at the same time provide flexible working hours for employees.</p> -->
+                </div>
+            </div>
+            <div class="row mt-3">
+                <div class="col-md-6">
+                     <div class="embed-responsive embed-responsive-16by9 feature-video">
+                        <iframe class="embed-responsive-item" width="811" height="417"
+                            src="https://www.youtube.com/embed/Y8kU7CmCvso" frameborder="0"
+                            allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
+                            allowfullscreen></iframe>
+                    </div>
+                </div>
+                <div class="col-md-6">
+                    <p class="home-feature-content">Dokodemo-Kerja is a time-management oriented solution for both employers and employees alike. Through its efficient monitoring and management capabilities, Dokodemo-Kerja can further help companies improve their levels of productivity, while at the same time provide flexible working hours for employees.</p>           
+                    <ol class="home-feature-list">
+                        <li>Track Working Hours and Monitor Tasks</li>
+                        <li>Get accurate time reports</li>
+                        <li>Manage your Employee’s Man-Hour</li>
+                    </ol>
+                    <a href="/features.php">
+                        <button class="btn btn-primary feature-btn">Learn More</button>
+                    </a>
+                </div>
+            </div>
+        </div>
     </section>
-    <section class="youtube-wrapper container">
+    <section class="screenshots mt-5">
+        <div class="container-fluid">
+            <div class="screenshot-slide zoom-gallery">
+                <div>
+                    <a href="img/features/screen-1.jpg" data-source="img/features/screen-1.jpg" title="Daily Working Screen Capture">
+                        <img src="img/features/screen-1.jpg" class="img-slide-screenshot modal-hover-opacity"/>
+                    </a>
+                </div>
+                <div>
+                    <a href="img/features/screen-2.jpg" data-source="img/features/screen-2.jpg" title="Daily Working Hours Bars">
+                        <img src="img/features/screen-2.jpg" class="img-slide-screenshot modal-hover-opacity"/>
+                    </a>
+                </div>
+                <div>
+                    <a href="img/features/screen-3.jpg" data-source="img/features/screen-3.jpg" title="Staff Management">
+                        <img src="img/features/screen-3.jpg" class="img-slide-screenshot modal-hover-opacity"/>
+                    </a>
+                </div>
+                <div>
+                    <a href="img/features/screen-1.jpg" data-source="img/features/screen-1.jpg" title="Daily Working Screen Capture">
+                        <img src="img/features/screen-1.jpg" class="img-slide-screenshot modal-hover-opacity"/>
+                    </a>
+                </div>
+                <div>
+                    <a href="img/features/screen-2.jpg" data-source="img/features/screen-2.jpg" title="Daily Working Hours Bars">
+                        <img src="img/features/screen-2.jpg" class="img-slide-screenshot modal-hover-opacity"/>
+                    </a>
+                </div>
+                <div>
+                    <a href="img/features/screen-3.jpg" data-source="img/features/screen-3.jpg" title="Staff Management">
+                        <img src="img/features/screen-3.jpg" class="img-slide-screenshot modal-hover-opacity"/>
+                    </a>
+                </div>
+            </div>
+        </div>
+    </section>
+    <section>
+        <div class="container mt-5">
+            <div class="row">
+                <div class="col-md-12">
+                    <h1 class="home-feature-title">Benefit</h1>
+                    <p class="home-benefit-content">The most common reasons for employees to quit are Long commutes, Lack of work/life balance, and Poor salary/benefits. By letting them work remotely on their terms, they will see that there is an actual benefit working for you.</p>
+                </div>
+            </div>
+            <div class="row mt-3">
+                <div class="col-md-6">
+                    <p class="home-benefit-content-title">1. Save up on the cost of huge office spaces</p>
+                    <p>You can rotate your employee's working days in and out of the office if an expansion is not possible. Some employees might not feel too comfortable working in a cubicle, and works more productively outside. Working remotely could also be implemented as a reward system, in addition to the existing benefits.</p>
+                </div>
+                <div class="col-md-6">
+                    <p class="home-benefit-content-title">2. Determine who your best employee is more objectively</p>
+                    <p>Your best employee would want to be recognised for his/her work. Those who puts in more time, completes more tasks, and doesn't slack off as much would be rewarded more than those who visibly neglects their job.</p>
+                </div>
+                <div class="col-md-6">
+                    <p class="home-benefit-content-title">3. Save up millions on lost time</p>
+                    <p>Are your employees really working according to the minimum time requirement? Are you really getting what you paid for? By using Dokodemo-Kerja, you can see how long employees take to complete a task, and help you make a better project plan.</p>
+                </div>
+                <div class="col-md-6">
+                    <p class="home-benefit-content-title">4. Increase employee retention</p>
+                    <p>Employee retention is an important part of an organization's growth. By rewarding all the right employees, it would reduce the resignation rate. Dokodemo-Kerja can help you determine the employees worth keeping.</p>
+                </div>
+            </div>
+            <div class="row">
+                <div class="col-md-12 text-center">
+                    <a href="https://www.logique.co.id/blog/category/dokodemo-kerja/" target="_blank" rel="noopener noreferrer">
+                        <button class="btn btn-primary benefit-btn">Learn More</button>
+                    </a>
+                </div>
+            </div>
+        </div>
+    </section>
+    <!-- <section class="youtube-wrapper container">
         <div class="embed-responsive embed-responsive-16by9">
             <iframe class="embed-responsive-item" width="811" height="417"
                 src="https://www.youtube.com/embed/Y8kU7CmCvso" frameborder="0"
                 allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
                 allowfullscreen></iframe>
         </div>
-    </section>
+    </section> -->
     <section class="user-testimony" id="testimony">
         <h1 class="section-title">USER TESTIMONY</h1>
         <div class="container">
@@ -409,6 +512,24 @@
     <script src="js/bootstrap.min.js"></script>
     <script src="js/slick.min.js"></script>
     <script>
+    $(".screenshot-slide").slick({
+            infinite: true,
+            slidesToShow: 3,
+            slidesToScroll: 1,
+            responsive: [{
+                breakpoint: 992,
+                settings: {
+                    slidesToShow: 2,
+                    slidesToScroll: 2
+                }
+            }, {
+                breakpoint: 768,
+                settings: {
+                    slidesToShow: 1,
+                    slidesToScroll: 1
+                }
+            }, ]
+        })
     $('.testimony-slider').slick({
         infinite: true,
         slidesToShow: 3,

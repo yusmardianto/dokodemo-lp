@@ -100,6 +100,11 @@ body {
 .plan-benefits {
   list-style: none;
   padding-left: 0.5em;
+  margin-top: 2.4em;
+}
+.plan-benefits-ex {
+  font-weight: bold;
+  color: red;
 }
 
 .plan-benefits li {
@@ -237,15 +242,16 @@ body {
   border: 2px ridge rgb(123, 138, 226);
   display: block;
   line-height: 1;
-  width: 100%;
+  width: fit-content;
   text-align: center;
   font-weight: bold;
-  padding: 1em 0 0.7em;
+  padding: 1em 1em .7em;
   text-decoration: none;
   border-radius: 5px;
   letter-spacing: 1px;
   margin: 0em auto;
   text-transform: uppercase;
+  font-size: 12px;
 }
 
 .btn-price-buy-plan,
@@ -254,7 +260,7 @@ body {
   display: block;
   border: 2px ridge rgb(22, 116, 188);
   line-height: 1;
-  width: 100%;
+  width: fit-content;
   text-align: center;
   font-weight: bold;
   background: linear-gradient(
@@ -262,7 +268,7 @@ body {
     rgba(24, 138, 226, 1) 0%,
     rgba(22, 116, 188, 1) 100%
   );
-  padding: 1em 0 0.7em;
+  padding: 1em 1em .7em;
   text-decoration: none;
   border-radius: 5px;
   letter-spacing: 1px;
@@ -274,11 +280,12 @@ body {
   font-weight: bold;
   text-align: center;
   padding-top: 32px;
+  font-size: 24px;
 }
 
 .price-ent-contact-icon {
   text-align: center;
-  margin-bottom: 35px;
+  margin-bottom: 20px;
 }
 
 .price-ent-contact-icon a {
@@ -353,6 +360,26 @@ body {
   margin-bottom: -15px;
 }
 
+.custom-features-section {
+  background: #f0f0f0;
+}
+
+.faq-title {
+  text-align: center;
+  font-size: 32px;
+  font-weight: bold;
+}
+
+.faq-subtitle {
+  text-align: center;
+  font-size: 24px;
+}
+
+.blue2 {
+  color:#008ec4;
+  font-size: 18px;
+}
+
 @media only screen and (max-width: 425px) {
   .hide-button-on-mobile {
     display: block;
@@ -418,4 +445,84 @@ body {
 }
 .survey-pop-btn-promo {
   font-weight: bold;
+}
+
+/* Resp Develop */
+
+@media screen and (min-width: 1024px) and (max-width:1024px) {
+
+}
+
+@media only screen and (max-width: 812px) and (min-width:768px) {
+
+}
+
+@media only screen and (max-width:736px) and (min-width:568px) {
+
+}
+
+@media only screen and (min-width:360px) and (max-width:414px) {
+  .price-plans {
+    margin-top: 30px;
+  }
+  .plan-content-container {
+    padding: 0 1em 2em 1em;
+  }
+  .pricing-page-title h2 {
+    font-size: 28px;
+  }
+  .pricing-page-title h3 {
+    font-size: 21px;
+  }
+  .price .price-number {
+    font-size: 42px;
+  }
+  .additional-fee .price-number {
+    font-size: 28px;
+  }
+  .additional-fee .per-month {
+    line-height: 1.8;
+  }
+  .plan-benefits {
+    margin-top: 0.4em;
+  }
+  .faq-subtitle {
+    font-size: 20px;
+  }
+  .div-above-footer {
+    text-align: center;
+  }
+}
+
+@media only screen and (max-width:320px) {
+  .price-plans {
+    margin-top: 30px;
+  }
+  .plan-content-container {
+    padding: 0 1em 2em 1em;
+  }
+  .pricing-page-title h2 {
+    font-size: 28px;
+  }
+  .pricing-page-title h3 {
+    font-size: 21px;
+  }
+  .price .price-number {
+    font-size: 42px;
+  }
+  .additional-fee .price-number {
+    font-size: 28px;
+  }
+  .additional-fee .per-month {
+    line-height: 1.8;
+  }
+  .plan-benefits {
+    margin-top: 0.4em;
+  }
+  .faq-subtitle {
+    font-size: 20px;
+  }
+  .div-above-footer {
+    text-align: center;
+  }
 }

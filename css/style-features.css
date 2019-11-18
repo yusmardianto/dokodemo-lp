@@ -79,6 +79,10 @@ body {
   letter-spacing: 0.3px;
 }
 
+.text-center {
+  text-align: center;
+}
+
 .btn-see-case,
 .btn-see-case:hover {
   color: white;
@@ -106,12 +110,12 @@ body {
 
 .img-slide-screenshot {
   max-width: 100%;
-  height: 100%;
+  height: auto;
   max-height: 300px;
   margin: 0 auto;
   object-position: center;
   object-fit: cover;
-  padding: 1em 3px;
+  /* padding: 1em 3px; */
   cursor: pointer;
 }
 
@@ -504,3 +508,35 @@ body {
     transform: scale(1);
   }
 } */
+
+/* Resp Develop */
+
+@media screen and (min-width: 1024px) and (max-width:1024px) {
+
+}
+
+@media only screen and (max-width: 812px) and (min-width:768px) {
+  
+}
+
+@media only screen and (max-width:736px) and (min-width:568px) {
+  
+}
+
+@media only screen and (min-width:360px) and (max-width:414px) {
+  .feature-pdf-title {
+    font-size: 18px;
+  }
+  .tutorial-title {
+    font-size: 28px;
+  }
+}
+
+@media only screen and (max-width:320px) {
+  .feature-pdf-title {
+    font-size: 18px;
+  }
+  .tutorial-title {
+    font-size: 28px;
+  }
+}

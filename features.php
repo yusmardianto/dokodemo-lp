@@ -68,7 +68,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
     <section class="features-section">
         <div class="container">
             <div class="row">
-                <div class="col-md-8 offset-md-2 features-resp-config">
+                <div class="col-md-10 offset-md-1 features-resp-config">
                     <h1 class="fw-semibold fs-23 text-center mb-4">FEATURES</h1>
                     <p class="fw-semibold text-center">Dokodemo-Kerja is a time-management oriented solution for both employers and employees alike. Through its efficient monitoring and management capabilities, Dokodemo-Kerja can further help companies improve their levels of productivity, while at the same time provide flexible working hours for employees. </p>
                     <div class="row">
@@ -78,19 +78,37 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                             <p class="features-desc">Dokodemo-Kerja takes low-resolution screenshots of your employee’s desktop activities during random intervals when the application is switched on and then sends the images directly to the management team.</p>
                         </div>
                         <div class="col-lg-6 features-item">
+                             <img src="img/features/screen-1.jpg" class="img-slide-screenshot modal-hover-opacity"/>    
+                        </div>
+                    </div>
+                    <div class="row">
+                        <div class="col-lg-6 features-item">
                             <span class="features-number">02</span>
                             <h2 class="features-title">Get accurate time reports</h2>
                             <p class="features-desc">Dokodemo-Kerja is able to accurately calculate and compare total employee working and resting hours, putting the data into an easy-to-read format, all with just one click. </p>
                         </div>
+                        <div class="col-lg-6 features-item">
+                            <img src="img/features/screen-2.jpg" class="img-slide-screenshot modal-hover-opacity"/>   
+                        </div>
+                    </div>
+                    <div class="row">
                         <div class="col-lg-6 features-item">
                             <span class="features-number">03</span>
                             <h2 class="features-title">Manage your Employee’s Man-Hours</h2>
                             <p class="features-desc">Tracks the total man-hours spent by each employee on each individual task, so that your company can more easily predict and arrange target deadlines in line with your employee’s capabilities</p>
                         </div>
                         <div class="col-lg-6 features-item">
+                            <img src="img/features/d_5.jpg" class="img-slide-screenshot modal-hover-opacity"/>    
+                        </div>
+                    </div>
+                    <div class="row">
+                        <div class="col-lg-6 features-item">
                             <span class="features-number">04</span>
                             <h2 class="features-title">All in One Screen </h2>
                             <p class="features-desc">Displays total employee working hours in an easy-to-read on-screen format, improving the efficiency with which HR can evaluate performance.</p>
+                        </div>
+                        <div class="col-lg-6 features-item">
+                            <img src="img/features/screen-3.jpg" class="img-slide-screenshot modal-hover-opacity"/>    
                         </div>
                     </div>
                 </div>
@@ -108,6 +126,37 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
         </a>
     </section>
     <!-- req online meeting popup -->
+    <section class="guides py-2 mt-5">
+        <div class="container">
+            <div class="row">
+                <div class="col-md-12">
+                    <h3 class="text-center feature-pdf-title">Wonder how you can use all these features?</h3>
+                </div>
+            </div>
+            <div class="row">
+                <!-- <div class="col-md-4 offset-md-4 py-2">
+                    <a href="trial.php">
+                        <img src="img/features/free-trial.jpg" class="img-fluid mx-auto d-block" id="features-free-trial" />
+                    </a>
+                </div> -->
+                <div class="col-md-4 offset-md-2 col-10 offset-1 py-2">
+                    <a href="http://dokodemo-web.test/pdf/manual-guide.pdf" class="dl-guide">
+                        <img src="img/manual.png" class="img-fluid mx-auto d-block" id="features-manual-guide" />
+                    </a>
+                </div>
+                <div class="col-md-4 col-10 offset-md-0 offset-1 py-2">
+                    <a href="http://dokodemo-web.test/pdf/install-guide.pdf" class="dl-guide">
+                        <img src="img/install.png" class="img-fluid mx-auto d-block" id="features-install-guide" />
+                    </a>
+                </div>
+            </div>
+            <div class="row mt-3">
+                <div class="col-md-12 text-center">
+                    <button class="btn btn-primary">Setup Online Meeting</button>
+                </div>
+            </div>
+        </div>
+    </section>
     <section>
          <button class="btn botFixedBtn" id="btnReqOnlineMeeting" type="button" data-toggle="collapse" href="#collapseExample" style="background: #ffcc13;">
             <i class="fa fa-chevron-up" style="font-size: medium; color: #fff;"></i>
@@ -133,11 +182,11 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
         </span>    
     </section>
     <!-- end of req online meeting popup -->
-    <section class="case-studies">
+    <!-- <section class="case-studies">
         <h2>Wonder how you can use all these features? Read the case studies in our About Us page</h2>
         <a href="about.php" class="btn-see-case" id='btn-see-case'>See Case Studies</a>
-    </section>
-    <section class="screenshots">
+    </section> -->
+    <!-- <section class="screenshots">
         <div class="container-fluid">
             <div class="screenshot-slide zoom-gallery">
                 <div>
@@ -169,6 +218,15 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                     <a href="img/features/screen-3.jpg" data-source="img/features/screen-3.jpg" title="Staff Management">
                         <img src="img/features/screen-3.jpg" class="img-slide-screenshot modal-hover-opacity"/>
                     </a>
+                </div>
+            </div>
+        </div>
+    </section> -->
+    <section>
+        <div class="container mt-5 mb-3">
+            <div class="row">
+                <div class="col-md-12 text-center font-weight-bold">
+                    <h1 class="tutorial-title">How to Use?</h1>
                 </div>
             </div>
         </div>
@@ -230,7 +288,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                         <ul class="manager-activity-list">
                             <li>HR can assign one staff member to easily monitor all Dokodemo-Kerja related activities</li>
                             <li>He/ Shecan take care of each employee’s 'green bar' and comments </li>
-                            <li>If 3 employee screenshots show the same image in arrow, HR can then take further action</li>
+                            <li>If 3 employee screenshots show the same image in a row, HR can then take further action</li>
                         </ul>
                     </div>
                     <div class="col-md-6">
@@ -243,7 +301,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
             </div>
         </div>
     </section>
-    <section class="user-testimony">
+    <!-- <section class="user-testimony">
         <h1 class="section-title">USER TESTIMONY</h1>
         <div class="container">
             <div class="testimony-slider">
@@ -285,28 +343,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                 </div>
             </div>
         </div>
-    </section>
-    <section class="guides py-2">
-        <div class="container">
-            <div class="row">
-                <!-- <div class="col-md-4 offset-md-4 py-2">
-                    <a href="trial.php">
-                        <img src="img/features/free-trial.jpg" class="img-fluid mx-auto d-block" id="features-free-trial" />
-                    </a>
-                </div> -->
-                <div class="col-md-4 offset-md-2 col-10 offset-1 py-2">
-                    <a href="http://dokodemo-web.test/pdf/manual-guide.pdf" class="dl-guide">
-                        <img src="img/manual.png" class="img-fluid mx-auto d-block" id="features-manual-guide" />
-                    </a>
-                </div>
-                <div class="col-md-4 col-10 offset-md-0 offset-1 py-2">
-                    <a href="http://dokodemo-web.test/pdf/install-guide.pdf" class="dl-guide">
-                        <img src="img/install.png" class="img-fluid mx-auto d-block" id="features-install-guide" />
-                    </a>
-                </div>
-            </div>
-        </div>
-    </section>
+    </section> -->
     <!-- <div id="modal01" class="modal-box">
         <span class="close"  onclick="onClose()" style="cursor:pointer;">&times;&nbsp;&nbsp;&nbsp;&nbsp;</span>
         <div class="modal-box-content">

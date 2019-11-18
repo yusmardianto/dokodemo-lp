@@ -65,8 +65,8 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
         <?php include 'header.php' ?>
         <div class="container">
             <div class="row">
-                <div class="col-md-8 offset-md-2">
-                    <h1 class="banner-header-text"><strong>Apakah Anda tahu siapa Karyawan Anda yang paling produktif?</strong></h1>
+                <div class="col-md-12">
+                    <h1 class="banner-header-text"><strong>HEMAT UANG. TINGKATKAN PRODUKTIVITAS.</strong></h1>
 
                 </div>
                 <div class="col-12">
@@ -152,7 +152,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
         </span>    
     </section>
     <!-- end of req online meeting popup -->
-    <section id="benefits" class="benefits-features">
+    <!-- <section id="benefits" class="benefits-features">
         <h1 class="section-title pb-4">FITUR DAN KEUNTUNGAN</h1>
         <div class="container pt-4">
             <div class="row">
@@ -240,8 +240,8 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 
             </div>
         </div>
-    </section>
-    <section class="dokodemo-desc">
+    </section> -->
+    <!-- <section class="dokodemo-desc">
         <h1 class="section-title">APA ITU DOKODEMO KERJA?</h1>
         <p>Dokodemo-Kerja adalah alat Sumber Daya Manusia yang dapat digunakan untuk mengelola jam kerja dan memantau karyawan Anda. Perusahaan Anda sekarang dapat menerapkan sistem kerja jarak jauh kapan saja dan di mana saja.</p>
         <a href="features.php" class="btn-more-features" id="btn-more-features-id">Lihat Fitur</a>
@@ -249,6 +249,108 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
     <section class="youtube-wrapper container">
         <div class="embed-responsive embed-responsive-16by9">
             <iframe class="embed-responsive-item" width="811" height="417" src="https://www.youtube.com/embed/Y8kU7CmCvso" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+        </div>
+    </section> -->
+    <section class="feature-content mt-5">
+        <div class="container">
+            <div class="row">
+                <div class="col-md-12">
+                    <h1 class="home-feature-title">Features</h1>
+                    <!-- <p>Dokodemo-Kerja is a time-management oriented solution for both employers and employees alike. Through its efficient monitoring and management capabilities, Dokodemo-Kerja can further help companies improve their levels of productivity, while at the same time provide flexible working hours for employees.</p> -->
+                </div>
+            </div>
+            <div class="row mt-3">
+                <div class="col-md-6">
+                     <div class="embed-responsive embed-responsive-16by9 feature-video">
+                        <iframe class="embed-responsive-item" width="811" height="417"
+                            src="https://www.youtube.com/embed/Y8kU7CmCvso" frameborder="0"
+                            allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
+                            allowfullscreen></iframe>
+                    </div>
+                </div>
+                <div class="col-md-6">
+                    <p class="home-feature-content">Dokodemo-Kerja adalah solusi sistem kerja yang menguntungkan bagi karyawan dan perusahaan. Dengan sistem kerja yang efisien, Dokodemo-Kerja dapat membantu perusahaan berkonsentrasi pada peningkatan produktivitas dan pada saat yang sama, memberikan fleksibilitas untuk karyawan mereka.</p>           
+                    <ol class="home-feature-list">
+                        <li>Melacak dan memantau tugas karyawan</li>
+                        <li>Mendapatkan laporan waktu kerja</li>
+                        <li>Mengelola jam kerja karyawan</li>
+                    </ol>
+                    <a href="/ind/features.php">
+                        <button class="btn btn-primary feature-btn">Learn More</button>
+                    </a>
+                </div>
+            </div>
+        </div>
+    </section>
+    <section class="screenshots mt-5">
+        <div class="container-fluid">
+            <div class="screenshot-slide zoom-gallery">
+                <div>
+                    <a href="../img/features/screen-1.jpg" data-source="../img/features/screen-1.jpg" title="Daily Working Screen Capture">
+                        <img src="../img/features/screen-1.jpg" class="img-slide-screenshot modal-hover-opacity"/>
+                    </a>
+                </div>
+                <div>
+                    <a href="../img/features/screen-2.jpg" data-source="../img/features/screen-2.jpg" title="Daily Working Hours Bars">
+                        <img src="../img/features/screen-2.jpg" class="img-slide-screenshot modal-hover-opacity"/>
+                    </a>
+                </div>
+                <div>
+                    <a href="../img/features/screen-3.jpg" data-source="../img/features/screen-3.jpg" title="Staff Management">
+                        <img src="../img/features/screen-3.jpg" class="img-slide-screenshot modal-hover-opacity"/>
+                    </a>
+                </div>
+                <div>
+                    <a href="../img/features/screen-1.jpg" data-source="../img/features/screen-1.jpg" title="Daily Working Screen Capture">
+                        <img src="../img/features/screen-1.jpg" class="img-slide-screenshot modal-hover-opacity"/>
+                    </a>
+                </div>
+                <div>
+                    <a href="../img/features/screen-2.jpg" data-source="../img/features/screen-2.jpg" title="Daily Working Hours Bars">
+                        <img src="../img/features/screen-2.jpg" class="img-slide-screenshot modal-hover-opacity"/>
+                    </a>
+                </div>
+                <div>
+                    <a href="../img/features/screen-3.jpg" data-source="../img/features/screen-3.jpg" title="Staff Management">
+                        <img src="../img/features/screen-3.jpg" class="img-slide-screenshot modal-hover-opacity"/>
+                    </a>
+                </div>
+            </div>
+        </div>
+    </section>
+    <section>
+        <div class="container mt-5">
+            <div class="row">
+                <div class="col-md-12">
+                    <h1 class="home-feature-title">Benefit</h1>
+                    <p class="home-benefit-content">Alasan paling umum bagi karyawan untuk berhenti adalah perjalanan panjang, Kurangnya keseimbangan kerja / hidup, dan gaji / tunjangan yang buruk. Dengan membiarkan mereka bekerja dari jarak jauh dengan persyaratan mereka, mereka akan melihat bahwa ada manfaat nyata yang bekerja untuk Anda.</p>
+                </div>
+            </div>
+            <div class="row mt-3">
+                <div class="col-md-6">
+                    <p class="home-benefit-content-title">1. Menghemat biaya ruang kantor</p>
+                    <p>Anda dapat merotasi hari kerja karyawan Anda keluar-masuk kantor jika ekspansi tidak memungkinkan. Beberapa karyawan mungkin merasa tidak nyaman bekerja di bilik, dan bekerja lebih produktif di luar. Bekerja dari jarak jauh juga dapat diimplementasikan sebagai sistem penghargaan, di samping manfaat yang ada.</p>
+                </div>
+                <div class="col-md-6">
+                    <p class="home-benefit-content-title">2. Menentukan karyawan terbaik Anda dengan objektif</p>
+                    <p>Karyawan terbaik Anda ingin diakui untuk pekerjaannya. Mereka yang memberikan lebih banyak waktu, menyelesaikan lebih banyak tugas, dan tidak banyak malas akan dihargai lebih banyak daripada mereka yang tampak mengabaikan pekerjaan mereka.</p>
+                </div>
+                <div class="col-md-6">
+                    <p class="home-benefit-content-title">3. Meningkatkan Efisiensi Jam Kerja</p>
+                    <p>Apakah karyawan Anda benar-benar bekerja sesuai dengan persyaratan waktu minimum? Apakah Anda benar-benar mendapatkan apa yang Anda bayar? Dengan menggunakan Dokodemo-Kerja, Anda dapat melihat berapa lama karyawan untuk menyelesaikan tugas, dan membantu Anda membuat rencana proyek yang lebih baik.</p>
+                </div>
+                <div class="col-md-6">
+                    <p class="home-benefit-content-title">4. Tingkatkan retensi karyawan</p>
+                    <p>Retensi karyawan adalah bagian penting dari pertumbuhan organisasi. Dengan menghargai semua karyawan yang tepat, itu akan mengurangi tingkat pengunduran diri. Dokodemo-Kerja dapat membantu Anda menentukan karyawan yang layak dijaga.</p>
+                </div>
+            </div>
+            <div class="row">
+                <div class="col-md-12 text-center">
+                    <a href="https://www.logique.co.id/blog/category/dokodemo-kerja/" target="_blank" rel="noopener noreferrer">
+                        <button class="btn btn-primary benefit-btn">Learn More</button>
+                    </a>
+                </div>
+            </div>
         </div>
     </section>
     <section class="user-testimony" id="testimony">
@@ -307,6 +409,24 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
     <script src="/js/bootstrap.min.js"></script>
     <script src="/js/slick.min.js"></script>
     <script>
+        $(".screenshot-slide").slick({
+            infinite: true,
+            slidesToShow: 3,
+            slidesToScroll: 1,
+            responsive: [{
+                breakpoint: 992,
+                settings: {
+                    slidesToShow: 2,
+                    slidesToScroll: 2
+                }
+            }, {
+                breakpoint: 768,
+                settings: {
+                    slidesToShow: 1,
+                    slidesToScroll: 1
+                }
+            }, ]
+        })
         $('.testimony-slider').slick({
             infinite: true,
             slidesToShow: 3,

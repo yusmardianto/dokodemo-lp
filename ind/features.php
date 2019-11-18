@@ -68,7 +68,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
     <section class="features-section">
         <div class="container">
             <div class="row">
-                <div class="col-md-8 offset-md-2 features-resp-config">
+                <div class="col-md-10 offset-md-1 features-resp-config">
                     <h1 class="fw-semibold fs-23 text-center mb-4">FEATURES</h1>
                     <p class="fw-semibold text-center">Dokodemo-Kerja adalah solusi sistem kerja yang menguntungkan bagi karyawan dan perusahaan. Dengan sistem kerja yang efisien, Dokodemo-Kerja dapat membantu perusahaan berkonsentrasi pada peningkatan produktivitas dan pada saat yang sama, memberikan fleksibilitas untuk karyawan mereka.</p>
                     <div class="row">
@@ -78,19 +78,37 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                             <p class="features-desc"><span class="fw-semibold">Dokodemo-Kerja</span> mengambil cuplikan layar (screen capture) aktivitas kerja karyawan pada layar perangkat komputernya dalam waktu yang acak (random) dan mengirimnya pada tim </p>
                         </div>
                         <div class="col-lg-6 features-item">
+                             <img src="../img/features/screen-1.jpg" class="img-slide-screenshot modal-hover-opacity"/>    
+                        </div>
+                    </div>
+                    <div class="row">
+                        <div class="col-lg-6 features-item">
                             <span class="features-number">02</span>
                             <h2 class="features-title">Mendapatkan laporan waktu kerja</h2>
                             <p class="features-desc">Program ini secara mudah mengkalkulasikan total jam kerja para karyawan, termasuk penghitungan jam istirahat secara akurat hanya dengan satu klik.</p>
                         </div>
+                        <div class="col-lg-6 features-item">
+                            <img src="../img/features/screen-2.jpg" class="img-slide-screenshot modal-hover-opacity"/>   
+                        </div>
+                    </div>
+                    <div class="row">
                         <div class="col-lg-6 features-item">
                             <span class="features-number">03</span>
                             <h2 class="features-title">Mengelola jam kerja karyawan</h2>
                             <p class="features-desc">Kelola total jam kerja serta proyek atau konten yang dikerjakan oleh karyawan, sehingga perusahaan dapat menentukan target waktu yang bisa dicapai oleh para karyawannya.</p>
                         </div>
                         <div class="col-lg-6 features-item">
+                            <img src="../img/features/d_5.jpg" class="img-slide-screenshot modal-hover-opacity"/>    
+                        </div>
+                    </div>
+                    <div class="row">
+                        <div class="col-lg-6 features-item">
                             <span class="features-number">04</span>
                             <h2 class="features-title">Semua dalam satu tampilan layar</h2>
                             <p class="features-desc">Menampilkan total jam kerja seluruh karyawan dalam satu tampilan layar, memudahkan perusahaan untuk menentukan kinerja dari seluruh karyawan yang ada di perusahaan secara jujur dan transparan.</p>
+                        </div>
+                        <div class="col-lg-6 features-item">
+                            <img src="../img/features/screen-3.jpg" class="img-slide-screenshot modal-hover-opacity"/>    
                         </div>
                     </div>
                 </div>
@@ -132,8 +150,48 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
             </div>
         </span>    
     </section>
+    <section class="guides py-2 mt-5">
+        <div class="container">
+            <div class="row">
+                <div class="col-md-12">
+                    <h3 class="text-center feature-pdf-title">Penasaran bagaimana cara mendapatkan semua fitur ini?</h3>
+                </div>
+            </div>
+            <div class="row">
+                <!-- <div class="col-md-4 offset-md-4 py-2">
+                    <a href="trial.php">
+                        <img src="img/features/free-trial.jpg" class="img-fluid mx-auto d-block" id="features-free-trial" />
+                    </a>
+                </div> -->
+                <div class="col-md-4 offset-md-2 col-10 offset-1 py-2">
+                    <a href="http://dokodemo-web.test/pdf/manual-guide.pdf" class="dl-guide">
+                        <img src="../img/manual.png" class="img-fluid mx-auto d-block" id="features-manual-guide" />
+                    </a>
+                </div>
+                <div class="col-md-4 col-10 offset-md-0 offset-1 py-2">
+                    <a href="http://dokodemo-web.test/pdf/install-guide.pdf" class="dl-guide">
+                        <img src="../img/install.png" class="img-fluid mx-auto d-block" id="features-install-guide" />
+                    </a>
+                </div>
+            </div>
+            <div class="row mt-3">
+                <div class="col-md-12 text-center">
+                    <button class="btn btn-primary">Setup Online Meeting</button>
+                </div>
+            </div>
+        </div>
+    </section>
+    <section>
+        <div class="container mt-5 mb-3">
+            <div class="row">
+                <div class="col-md-12 text-center font-weight-bold">
+                    <h1 class="tutorial-title">Cara Penggunaan?</h1>
+                </div>
+            </div>
+        </div>
+    </section>
     <!-- end of req online meeting popup -->
-    <section class="case-studies">
+    <!-- <section class="case-studies">
         <h2>Bertanya-tanya bagaimana Anda dapat menggunakan semua fitur ini? Baca studi kasus di halaman Tentang Kami</h2>
         <a href="about.php" class="btn-see-case" id='btn-see-case'>Lihat Studi Kasus</a>
     </section>
@@ -172,7 +230,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                 </div>
             </div>
         </div>
-    </section>
+    </section> -->
     <section class="user-role">
         <div class="container-fluid">
             <div class="row employee-role">
@@ -243,7 +301,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
             </div>
         </div>
     </section>
-    <section class="user-testimony">
+    <!-- <section class="user-testimony">
         <h1 class="section-title">USER TESTIMONY</h1>
         <div class="container">
             <div class="testimony-slider">
@@ -285,15 +343,15 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                 </div>
             </div>
         </div>
-    </section>
-    <section class="guides py-2">
+    </section> -->
+    <!-- <section class="guides py-2">
         <div class="container">
             <div class="row">
-                <!-- <div class="col-md-4 offset-md-4 py-2">
+                <div class="col-md-4 offset-md-4 py-2">
                     <a href="/ind/trial.php" id="trial-img">
                         <img src="/img/features/free-trial.jpg" alt="free-trial" class="img-fluid mx-auto d-block" id="features-free-trial-id" />
                     </a>
-                </div> -->
+                </div>
                 <div class="col-md-4 offset-md-2 col-10 offset-1 py-2">
                     <a href="http://dokodemo-web.test/pdf/manual-guide.pdf" id="manual-guide-img" class="dl-guide">
                         <img src="/img/manual.png" alt="manual-guide" class="img-fluid mx-auto d-block" id="features-free-trial-id" />
@@ -307,7 +365,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
             </div>
         </div>
 
-    </section>
+    </section> -->
     <?php include "footer.php" ?>
     <script src="/js/jquery-3.4.1.min.js"></script>
     <script src="/js/bootstrap.min.js"></script>

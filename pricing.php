@@ -63,11 +63,70 @@
 height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 <!-- End Google Tag Manager (noscript) -->
     <?php include "header.php" ?>
-    <section class="banner">
+    <!-- <section class="banner">
         <div class="container">
             <div class="row">
                 <div class="col-lg-12">
                     <img src="img/pricing/bg.jpg" class="img-fluid" />
+                </div>
+            </div>
+        </div>
+    </section> -->
+     <section class="price-plans">
+         <div class="container mb-3">
+             <div class="row">
+                <div class="col-md-12 text-center pricing-page-title">
+                    <h2>Save Money. Increase Transparency.</h2>
+                    <h3>Use Dokodemo-Kerja</h3>
+                </div>
+            </div>
+         </div>
+        <div class="container">
+            <div class="row mb-5 pricing-container">
+                <div class="col-lg-8 offset-lg-2 offset-md-1 col-md-10">
+                    <!-- <span class="plan-title">LIGHT PLAN</span> -->
+                    <div class="plan-content-container">
+                        <div class="container">
+                            <div class="row">
+                                <div class="col-md-6">
+                                    <div class="price">
+                                        <span class="rp">Rp. </span>
+                                        <span class="price-number">1M</span>
+                                        <span class="per-month">/ Month</span>
+                                        <p><strong>If the number of user is above 10 then additional charge is (for 1 more user)</strong></p>
+                                        <div class="additional-fee">
+                                            <span class="plus-rp">+Rp.</span>
+                                            <span class="price-number">50.000</span>
+                                            <span class="per-month">/ Month</span>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="col-md-6">
+                                    <ul class="plan-benefits">
+                                        <li>Time Tracking</li>
+                                        <li>Screenshot Monitoring</li>
+                                        <li>1 Screenshot per 10 minutes</li>
+                                        <li>Screenshots saved for 2 months</li>
+                                        <li><strong>For 10 users</strong></li>
+                                    </ul>
+                                    <span class="plan-benefits-ex">*price before tax</span>
+                                </div>
+                            </div>
+                        </div>
+                        
+                        <!-- <div class="row mb-5">
+                            <div class="col-md-6 plan-btn-left">
+                                <a href="/trial.php" class="btn-price-try-demo" id="btn-price-try-demo">
+                                    Try Demo
+                                </a>
+                            </div>
+                            <div class="col-md-6 plan-btn-right">
+                                <a href="/contact-us.php" class="btn-price-buy-plan" id="btn-price-buy-plan">
+                                    Buy Plan
+                                </a>
+                            </div>
+                        </div> -->
+                    </div>
                 </div>
             </div>
         </div>
@@ -107,12 +166,133 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
             </div>
         </span>    
     </section>
+    <section class="mb-5">
+        <div class="container">
+            <div class="row">
+                <div class="col-md-12 text-center">
+                    <a href="/contact-us.php" class="btn-price-buy-plan" id="btn-price-buy-plan">
+                        Buy Plan
+                    </a>
+                </div>
+            </div>
+        </div>
+    </section>
+    <section class="mb-5 custom-features-section">
+        <div class="container">
+            <div class="row">
+                <div class="col-md-12 text-center">
+                    <div>
+                        <p class="position-relative price-ent-contact-text">Contact us for Customised Features</p>
+                        <div class="plan-contact-us price-ent-contact-icon">
+                            <a href="tel:02122708935"><img src="img/pricing/call.png" id="call"/></a>
+                            <a href="mailto:sales@dokodemo-kerja.com"><img src="img/pricing/mail.png" id="mail" /></a>
+                            <a href="https://api.whatsapp.com/send?phone=62811870321&text=Hello, I want to know more about Enterprise Plan of Dokodemo-Kerja." target="_blank"><img src="img/pricing/whatsapp.png" id="whatsapp" /></a>
+                        </div>
+                        <div class="row mb-3">
+                            <div class="col-md-12">
+                                <a href="/contact-us.php" class="btn-price-try-demo" id="btn-price-try-demo">
+                                    Contact Us
+                                </a>
+                            </div>
+                        </div>
+                        <div class="row mb-5">
+                            <div class="col-md-12">
+                                <a href="/contact-us.php" style="text-decoration:underline">
+                                   Or request an Online Meeting
+                                </a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+    <section class="faq mb-5">
+        <div class="div-faq">
+        <div class="container">
+            <div class="row">
+                <div class="col-md-12 mb-3">
+                    <div class="faq-title">FAQ</div>
+                    <div class="faq-subtitle">If your questions are not answered, do
+                        <a href="contact-us.php">Contact Us</a></div>
+                </div>
+                <div class="col-md-6">
+                    <h3 class="blue2 fw-500">Q. On what OS <strong>Dokodemo-Kerja</strong> can operate? What should be
+                    prepared to run it?
+                    </h3>
+                    <p>
+                    A. <strong>Dokodemo-Kerja</strong> can operate on any popular OS, such as Windows, Macintosh,
+                    and Linux. You don’t have to prepare a server. All you have to do is simply install
+                    <strong>Dokodemo-Kerja</strong>, and you can start using it right away. The administrator can
+                    access the management screen through browser.
+                    </p>
+                    <h3 class="blue2 fw-500">Q. Can <strong>Dokodemo-Kerja</strong> operate on mobile devices?</h3>
+                    <p>
+                    A. <strong>Dokodemo-Kerja</strong> doesn’t yet cover staffs who work on mobile device. It is
+                    still out of our service.
+                    </p>
+                    <h3 class="blue2 fw-500">Q. How does <strong>Dokodemo-Kerja</strong> manage staffs who work outside
+                    of office?
+                    </h3>
+                    <p>
+                    A. Work hours can be edited later when staffs use computers again.
+                    <strong>Dokodemo-Kerja</strong> is fundamentally targeted for employees who mainly do desk
+                    work.
+                    </p>
+                    <h3 class="blue2 fw-500">Q. Can <strong>Dokodemo-Kerja</strong> be used outside Indonesia?</h3>
+                    <p>
+                    A. You can use it with no problem. If you use <strong>Dokodemo-Kerja</strong> while moving to a
+                    place with different time zone during the same day, there will be no problem but the monitoring
+                    process will be a little bit complicated.
+                    </p>
+                </div>
+                <div class="col-md-6">
+                    <h3 class="blue2 fw-500">Q. Can I change the frequency of capturing and sending screenshots in
+                    <strong>Dokodemo-Kerja?</strong>
+                    </h3>
+                    <p>
+                    A. In Light version, the screenshot will be captured randomly every 10 minutes. In Standard
+                    version, one screenshot per 1 minute. Those screenshots will be captured at random time,
+                    therefore users can’t know when it will be captured and sent.
+                    </p>
+                    <h3 class="blue2 fw-500">Q. What about the resolution of screenshot image used by
+                    <strong>Dokodemo-Kerja?</strong>
+                    </h3>
+                    <p>
+                    A. <strong>Dokodemo-Kerja</strong> uses image resolution that considers privacy. You can see
+                    what the image is, but you can’t see the small detail within it. For instance, you can see a
+                    user has opened a client’s email, but you can’t see the content clearly. Also, if a user opens
+                    a chat tool, you can’t see what kind of message they have.
+                    </p>
+                    <h3 class="blue2 fw-500">Q. Is there a minimum contract period needed to use
+                    <strong>Dokodemo-Kerja?</strong> And how do I purchase it?
+                    </h3>
+                    <p>
+                    A. There is no minimum contract period. <strong>Dokodemo-Kerja</strong> is available from the
+                    first month of contract. At the end of the month, we will count the number of users and issue
+                    an invoice. You can pay it via bank transfer until the end of next month.
+                    </p>
+                </div>
+            </div>
+            <br />
+            <div class="row">
+                <div class="offset-md-1 col-md-10">
+                    <div style="padding:10px;border:1px solid #edb41a">
+                    <div class="div-above-footer">
+                        <strong>Dokodemo-Kerja</strong> is a professional work system created to help increasing
+                        productivity for independent and flexible workers.
+                    </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        </div>
+    </section>
     <!-- end of req online meeting popup -->
-    <section class="price-plans">
+    <!-- <section class="price-plans">
         <div class="container">
             <div class="row mb-5 mt-5 pricing-container">
                 <div class="col-lg-4 col-md-6 plans-item">
-                    <!-- <span class="plan-watermark">LIGHT PLAN</span> -->
                     <span class="plan-title">LIGHT PLAN</span>
                     <div class="plan-content-container">
                         <div class="price">
@@ -149,7 +329,6 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                     </div>
                 </div>
                 <div class="col-lg-4 col-md-6 plans-item">
-                    <!-- <span class="plan-watermark">STANDARD PLAN</span> -->
                     <span class="plan-title">STANDARD PLAN</span>
                     <div class="plan-content-container">
                         <div class="price">
@@ -185,7 +364,6 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                     </div>
                 </div>
                  <div class="col-lg-4 col-md-6 plans-item">
-                    <!-- <span class="plan-watermark">STANDARD PLAN</span> -->
                     <span class="plan-title">ENTERPRISE PLAN</span>
                     <div class="plan-content-container">
                         <p class="position-relative price-ent-contact-text">Contact us for pricing detail</p>
@@ -211,30 +389,10 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                         </ul>
                         <p class="mt-5 text-center"><strong>(#): set upon request</strong></p>
                     </div>
-                    <!-- <p class="pt-2"><strong>If the number of user is above 10 then additional charge is (for 1 more user)</strong></p>
-                    <div class="additional-fee">
-                        <span class="plus-rp">+Rp.</span>
-                        <span class="price-number">75.000</span>
-                        <span class="per-month">/ Month</span>
-                    </div> -->
                 </div>
-                <!-- <div class="col-md-6 offset-md-3 plans-enterprise">
-                    <span class="plan-watermark">STANDARD PLAN</span>
-                    <span class="plan-watermark">ENTERPRISE PLAN</span>
-                    <span class="plan-title mx-auto">ENTERPRISE PLAN</span>
-                    <p class="pt-3 position-relative">Contact us for pricing detail</p>
-                    <div class="plan-contact-us mb-5">
-                        <a href="tel:02122708935"><img src="img/pricing/call.png" id="call"/></a>
-                        <a href="mailto:sales@dokodemo-kerja.com"><img src="img/pricing/mail.png" id="mail" /></a>
-                        <a href="https://api.whatsapp.com/send?phone=62811870321" target="_blank"><img src="img/pricing/whatsapp.png" id="whatsapp" /></a>
-                    </div>
-                    <a href="trial.php" class="btn-request-trial" id="btn-request-trial">
-                        Request Free Trial
-                    </a>
-                </div> -->
             </div>
         </div>
-    </section>
+    </section> -->
     <section class="read-testimony">
         <h3>Setup an online meeting with us to see how it works!</h3>
         <a href="/contact-us.php" class="btn-read-testimony" id="btn-read-testimony">

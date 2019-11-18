@@ -156,13 +156,11 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 				<form class="dokodemo-form" action="" method="POST">
 					<select name="subject" class="contact-type" required>
 						<!-- <option value="Coba Gratis 30 Hari" <?= !empty($errors) &&  $_POST['subject'] == 'Coba Gratis 30 Hari'? 'selected' : ''?>>Coba Gratis 30 Hari</option> -->
-						<option value="Beli Light Plan" <?= !empty($errors) &&  $_POST['subject'] == 'Beli Light Plan'? 'selected' : ''?>>Pembelian Light Plan</option>
-						<option value="Beli Standard Plan" <?= !empty($errors) &&  $_POST['subject'] == 'Beli Standard Plan'? 'selected' : ''?>>Pembelian Standard Plan</option>
-						<option value="Enterprise plan" <?= !empty($errors) &&  $_POST['subject'] == 'Enterprise plan'? 'selected' : ''?>>Enterprise plan</option>
-						<option value="Partnership" <?= !empty($errors) &&  $_POST['subject'] == 'Partnership'? 'selected' : ''?>>Partnership</option>
-						<option value="Investment" <?= !empty($errors) &&  $_POST['subject'] == 'Investment'? 'selected' : ''?>>Investment</option>
 						<option value="Cara Penggunaan" <?= !empty($errors) &&  $_POST['subject'] == 'Cara Penggunaan'? 'selected' : ''?>>Cara Penggunaan</option>
-						<option value="Request Online Meeting" <?= !empty($errors) &&  $_POST['subject'] == 'Request Online Meeting'? 'selected' : ''?>>Request Online Meeting</option>
+						<option value="Beli Plan" <?= !empty($errors) &&  $_POST['subject'] == 'Beli Plan'? 'selected' : ''?>>Pembelian Plan</option>
+						<option value="Partnership" <?= !empty($errors) &&  $_POST['subject'] == 'Partnership'? 'selected' : ''?>>Partnership</option>
+						<option value="Online Meeting" <?= !empty($errors) &&  $_POST['subject'] == 'Online Meeting'? 'selected' : ''?>>Online Meeting</option>
+						<option value="Custom Feature" <?= !empty($errors) &&  $_POST['subject'] == 'Custom Feature'? 'selected' : ''?>>Custom Feature</option>
 						<option value="Lainnya" <?= !empty($errors) &&  $_POST['subject'] == 'Lainnya'? 'selected' : ''?>>Lainnya</option>
 					</select>
 					<div class="form-group row align-items-center">
@@ -172,27 +170,30 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 						</div>
 					</div>
 					<div class="form-group row align-items-center">
-						<label for="company" class="col-sm-3 col-form-label">Perusahaan <span style="color:red">*</span></label>
-						<div class="col-sm-9">
-							<input type="text" name="company" class="form-control" id="company" value="<?= !empty($errors) ? $_POST['company'] : ''?>" placeholder="Nama Perusahaan" required>
-						</div>
-					</div>
-					<div class="form-group row align-items-center">
-						<label for="Phone" class="col-sm-3 col-form-label">Nomor Telp <span style="color:red">*</span></label>
-						<div class="col-sm-9">
-							<input type="number" name="phone_number" value="<?= !empty($errors) ? $_POST['phone_number'] : ''?>" class="form-control" id="Phone" placeholder="ex 0833 4075 6762" required>
-						</div>
-					</div>
-					<div class="form-group row align-items-center">
 						<label for="inputEmail3" class="col-sm-3 col-form-label">Email <span style="color:red">*</span></label>
 						<div class="col-sm-9">
 							<input type="email" name="email" value="<?= !empty($errors) ? $_POST['email'] : ''?>" class="form-control" id="inputEmail3" placeholder="Email" required>
 						</div>
 					</div>
+					<div class="form-group row align-items-center">
+						<label for="company" class="col-sm-3 col-form-label">Perusahaan </label>
+						<div class="col-sm-9">
+							<input type="text" name="company" class="form-control" id="company" placeholder="Nama Perusahaan">
+							<!-- <input type="text" name="company" class="form-control" id="company" value="<?= !empty($errors) ? $_POST['company'] : ''?>" placeholder="Nama Perusahaan" required> -->
+						</div>
+					</div>
+					<div class="form-group row align-items-center">
+						<label for="Phone" class="col-sm-3 col-form-label">Nomor Telp</label>
+						<div class="col-sm-9">
+							<input type="number" name="phone_number" class="form-control" id="Phone" placeholder="ex 0833 4075 6762">
+							<!-- <input type="number" name="phone_number" value="<?= !empty($errors) ? $_POST['phone_number'] : ''?>" class="form-control" id="Phone" placeholder="ex 0833 4075 6762" required> -->
+						</div>
+					</div>
 					<div class="form-group row ">
 						<label for="inputEmail3" class="col-sm-3 col-form-label">Pesan</label>
 						<div class="col-sm-9">
-							<textarea class="form-control" name="message" placeholder="Tuliskan pesanmu disini..."><?= !empty($errors) ? $_POST['message'] : ''?></textarea>
+							<textarea class="form-control" name="message" placeholder="Tuliskan pesanmu disini..."></textarea>
+							<!-- <textarea class="form-control" name="message" placeholder="Tuliskan pesanmu disini..."><?= !empty($errors) ? $_POST['message'] : ''?></textarea> -->
 						</div>
 					</div>
 					<div class="form-group row mt-top">
@@ -212,6 +213,24 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 			</div>
 		</div>
 		<br /><br />
+		<div class="container">
+			<div class="row">
+				<div class="col-md-8 offset-md-2 cp-bot-container">
+					<h4>If you want an immediate response, get in touch with us during office hours:</h4>
+					<h5 class="mt-3 mb-3">09.00 - 17.00 (Mon-Fri)</h5>
+					<p>
+						<a href="tel:02122708935">
+                            <img src="../img/pricing/call.png">
+												</a>
+												 <a href="mailto:info@logique.co.id">
+                            <img src="../img/pricing/mail.png">
+												</a>
+												<a href="https://api.whatsapp.com/send?phone=62811870321" target="_blank">
+                            <img src="../img/pricing/whatsapp.png">
+                        </a>
+					</p>
+					</div>
+			</div>
 		<!-- <div class="semibold fs-18 subtitle-contact" style="margin-bottom:0;">
 			We will come back to you within 2 Indonesian working days
 		</div><br /> -->
