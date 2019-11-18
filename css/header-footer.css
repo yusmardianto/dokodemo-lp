@@ -295,11 +295,72 @@ footer {
 }
 
 @media only screen and (max-width: 812px) and (min-width:768px) {
-
+  .footer-menu-list li a, .footer-menu-list li a:hover {
+    font-size: 14px;
+  }
+  .footer-icon {
+    margin: 0;
+  }
+  .footer-menu-list {
+    text-align: left;
+  }
+  .first-list {
+    margin-left: 24px;
+  }
+  .footer-contact {
+    justify-content: left;
+  }
+  .footer-contact-item {
+    padding: 0;
+  }
+  .footer-contact-item img {
+    width: 14px;
+  }
+  .footer-contact-item a span,
+  .footer-icon {
+    display: inline;
+  }
 }
 
 @media only screen and (max-width:736px) and (min-width:568px) {
-
+  .footer-logo-container {
+    display: contents;
+  }
+  footer img {
+    display: block;
+    margin: 0 24px;
+  }
+  .footer-menu-container-1, .footer-menu-container-2 {
+    margin-top: 15px;
+  }
+  .footer-menu-container-1 {
+    width: 45%;
+  }
+  .footer-menu-container-2 {
+    width: 55%;
+  }
+  .footer-menu-list {
+    text-align: left;
+  }
+  .first-list {
+    margin-left: 24px;
+  }
+  .footer-contact {
+    justify-content: left;
+  }
+  .footer-contact-item {
+    padding: 0;
+  }
+  .footer-contact-item img {
+    width: 21px;
+  }
+  .footer-contact-item a span,
+  .footer-icon {
+    display: inline;
+  }
+  .footer-icon {
+    margin: 0 6px 0 24px;
+  }
 }
 
 @media only screen and (min-width:360px) and (max-width:414px) {

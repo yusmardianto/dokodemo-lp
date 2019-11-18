@@ -1,7 +1,7 @@
 <footer>
     <div class="container">
         <div class="row align-items-center">
-            <div class="col-lg-3 col-sm-12 footer-logo-container">
+            <div class="col-lg-3 col-md-3 col-sm-12 footer-logo-container">
                 <img src="img/logo-shadow.png" class="img-fluid" />
                 <p>
                     <a href="https://www.logique.co.id/" target="_blank">
@@ -9,7 +9,7 @@
                     </a>
                 </p>
             </div>
-            <div class="col-lg-3 col-sm-6 footer-menu-container-1">
+            <div class="col-lg-3 col-md-3 col-sm-6 footer-menu-container-1">
                 <div class="footer-menu">
                     <ul class="footer-menu-list first-list">
                         <li><a href="/">Home</a></li>
@@ -21,7 +21,7 @@
                     </ul>
                 </div>
             </div>
-            <div class="col-lg-3 col-sm-6 footer-menu-container-2">
+            <div class="col-lg-3 col-md-3 col-sm-6 footer-menu-container-2">
                 <div class="footer-menu">
                     <ul class="footer-menu-list second-list">
                         <li><a href="contact-us.php">Contact Us</a></li>
@@ -33,7 +33,7 @@
                     </ul>
                 </div>
             </div>
-            <div class="col-lg-3">
+            <div class="col-lg-3 col-md-3">
                 <!-- <a href="https://www.logique.co.id/" target="_blank">
                     <img src="img/logo_logique.png" class="img-fluid logique-logo" />
                 </a> -->
