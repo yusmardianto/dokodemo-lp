@@ -308,7 +308,7 @@ body {
 }
 
 .user-demo {
-  margin-top: 3rem;
+  margin-top: 2rem;
 }
 
 .btn-try-demo {
@@ -328,6 +328,7 @@ body {
 .home-feature-title {
   text-align: center;
   font-weight: bold;
+  margin-bottom: 0.5rem;
 }
 
 .home-feature-content {
@@ -383,8 +384,9 @@ body {
 
 .home-benefit-content {
   font-size: 18px;
-  font-weight: bold;
-  margin-bottom: 0;
+  font-weight: normal;
+  margin-bottom: 0.5rem;
+  text-align: center;
 }
 
 .home-benefit-content-title {
@@ -412,6 +414,7 @@ body {
   }
   .header-demo-text {
     font-size: 24px;
+    margin-bottom: 0.5rem;
   }
   .header-subdemo-text {
     font-size: 14px;
