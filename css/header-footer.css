@@ -322,7 +322,7 @@ footer {
   }
 }
 
-@media only screen and (max-width:736px) and (min-width:568px) {
+@media only screen and (max-width:767px) and (min-width:568px) {
   .footer-logo-container {
     display: contents;
   }

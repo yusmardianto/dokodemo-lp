@@ -720,7 +720,7 @@ body {
   }
 }
 
-@media only screen and (max-width:736px) and (min-width:568px) {
+@media only screen and (max-width:767px) and (min-width:568px) {
   .advantages-item {
     justify-content: center;
     padding: 0.5em 0 0 0;
@@ -747,6 +747,10 @@ body {
   }
   .header-demo-text {
     margin-top: 20px;
+  }
+  .advantages-item {
+    justify-content: center;
+    padding: 10px 0;
   }
 }
 
