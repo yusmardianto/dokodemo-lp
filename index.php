@@ -160,9 +160,9 @@
                     <span class="text-center d-block py-4 fs-medium header-subdemo-text">*No credit card required</span>
                 </div>
             </div>
-            <div class="bottom-arrow-wrapper">
+            <!-- <div class="bottom-arrow-wrapper">
                 <a href="#benefits" class="smooth"><img src="img/home/down.png" /></a>
-            </div>
+            </div> -->
         </div>
     </section>
     <section class="hide-button-on-mobile">
@@ -346,7 +346,7 @@
             </div>
         </div>
     </section>
-    <section>
+    <section class="benefit-container">
         <div class="container mt-5">
             <div class="row">
                 <div class="col-md-12">

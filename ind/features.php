@@ -247,7 +247,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
             <div class="manager-role">
                 <h3 class="text-center"><strong>MANAGER / HR</strong></h3>
                 <p class="text-center"><strong></strong>Dengan mudah melacak jam kerja semua orang dan kegiatan mereka</p>
-                <div class="row zoom-gallery">
+                <!-- <div class="row zoom-gallery">
                     <div class="col-md-6 screenshot-item">
                         <a href="/img/features/d_4.jpg" data-source="/img/features/d_4.jpg" title="Indikator Jam Kerja Harian">
                             <img src="/img/features/d_4.jpg" class="img-fluid modal-hover-opacity"/>
@@ -276,8 +276,8 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                         <p class="fw-semibold">Kelola Riwayat dan Pengeditan Jam Kerja</p>
                         <hr class="blue-separator">
                     </div>
-                </div>
-                <div class="row">
+                </div> -->
+                <div class="row" style="width: 100%">
                     <div class="col-md-6">
                         <ul class="manager-activity-list">
                             <li>HR menugaskan satu staf untuk memantau Dokodemo-Kerja</li>

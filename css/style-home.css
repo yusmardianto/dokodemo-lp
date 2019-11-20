@@ -331,11 +331,15 @@ body {
 }
 
 .home-feature-content {
-  font-size: 18px;
+  font-size: 19px;
+  text-align: justify;
+  margin-bottom: 0.5em;
 }
 
 .home-feature-list {
   font-size: 20px;
+  font-weight: 600;
+  margin-bottom: 0.5em;
 }
 
 .screenshots {
@@ -380,11 +384,13 @@ body {
 .home-benefit-content {
   font-size: 18px;
   font-weight: bold;
+  margin-bottom: 0;
 }
 
 .home-benefit-content-title {
   font-size: 18px;
   font-weight: bold;
+  margin-bottom: 0.4em;
 }
 
 @media screen and (max-width: 1024px) {
@@ -445,6 +451,7 @@ body {
   }
   .subbanner-header-text {
     font-size: 16px;
+    margin-bottom: 0;
   }
   .header-icon-verified {
     width: 28px;
@@ -718,6 +725,18 @@ body {
     font-size: 14px;
     margin-top: 10px;
   }
+  .feature-content {
+    margin-top: 2rem !important;
+  }
+  .home-feature-title {
+    font-size: 28px;
+  }
+  .feature-content .mt-3 {
+    margin-top: 0 !important;
+  }
+  .screenshots, .benefit-container, .user-testimony, .user-demo {
+    margin-top: 2rem !important;
+  }
 }
 
 @media only screen and (max-width:767px) and (min-width:568px) {
@@ -751,6 +770,18 @@ body {
   .advantages-item {
     justify-content: center;
     padding: 10px 0;
+  }
+  .feature-content {
+    margin-top: 2rem !important;
+  }
+  .home-feature-title {
+    font-size: 28px;
+  }
+  .feature-content .mt-3 {
+    margin-top: 0 !important;
+  }
+  .screenshots, .benefit-container, .user-testimony, .user-demo {
+    margin-top: 2rem !important;
   }
 }
 
@@ -795,7 +826,23 @@ body {
     font-size: 40px;
   }
   .home-benefit-content {
-    text-align: center;
+    text-align: justify;
+    font-size: 18px;
+  }
+  .feature-content {
+    margin-top: 2rem !important;
+  }
+  .home-feature-title {
+    font-size: 28px;
+  }
+  .feature-content .mt-3 {
+    margin-top: 0 !important;
+  }
+  .screenshots, .benefit-container, .user-testimony, .user-demo {
+    margin-top: 2rem !important;
+  }
+  .header-feature {
+    font-size: 18px;
   }
 }
 
@@ -840,6 +887,21 @@ body {
     font-size: 40px;
   }
   .home-benefit-content {
-    text-align: center;
+    text-align: justify;
+  }
+  .feature-content {
+    margin-top: 2rem !important;
+  }
+  .home-feature-title {
+    font-size: 28px;
+  }
+  .feature-content .mt-3 {
+    margin-top: 0 !important;
+  }
+  .screenshots, .benefit-container, .user-testimony, .user-demo {
+    margin-top: 2rem !important;
+  }
+  .header-feature {
+    font-size: 18px;
   }
 }

@@ -343,7 +343,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
             </div>
         </div>
     </section>
-    <section>
+    <section class="benefit-container">
         <div class="container mt-5">
             <div class="row">
                 <div class="col-md-12">
