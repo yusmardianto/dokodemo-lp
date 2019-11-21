@@ -142,7 +142,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 																	<option value="17.00">17.00</option>
 															</select>
 													</div>
-													<button type="submit" class="btn btn-primary">Send</button>
+													<button type="submit" class="btn btn-primary" id="meet-online-btn">Send</button>
 											</form>
                     </div>
                 </div>
@@ -180,7 +180,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 
 			<form action="https://formspree.io/xnqqyjdg" method="POST">
 
-			  <select name="subject" class="contact-type" required>
+			  <select name="subject" class="contact-type form-control mb-3" required>
 					<option value="How To Use" <?= !empty($errors) &&  $_POST['subject'] == 'How To Use'? 'selected' : ''?>>How To Use</option>
 					<option value="Buy Plan" <?= !empty($errors) &&  $_POST['subject'] == 'Buy Plan'? 'selected' : ''?>>Buy Plan</option>
 					<option value="Partnership" <?= !empty($errors) &&  $_POST['subject'] == 'Partnership'? 'selected' : ''?>>Partnership</option>
@@ -205,21 +205,18 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 				<label for="company" class="col-sm-3 col-form-label">Company</label>
 				<div class="col-sm-9">
 				  <input type="text" name="company" class="form-control" id="company" placeholder="Your Company Name">
-				  <!-- <input type="text" name="company" class="form-control" id="company" value="<?= !empty($errors) ? $_POST['company'] : ''?>" placeholder="Your Company Name" required> -->
 				</div>
 			  </div>
 			  <div class="form-group row align-items-center">
 				<label for="Phone" class="col-sm-3 col-form-label">Phone Number</label>
 				<div class="col-sm-9">
 				  <input type="number" name="phone_number" class="form-control" id="Phone" placeholder="ex 0833 4075 6762">
-				  <!-- <input type="number" name="phone_number" class="form-control" id="Phone" value="<?= !empty($errors) ? $_POST['phone_number'] : ''?>" placeholder="ex 0833 4075 6762" required> -->
 				</div>
 			  </div>
 			  <div class="form-group row ">
 				<label for="inputEmail3" class="col-sm-3 col-form-label">Message</label>
 				<div class="col-sm-9">
 				  <textarea class="form-control" name="message" placeholder="Write down your message here, we would love to hear from you..."></textarea>
-				  <!-- <textarea class="form-control" name="message" placeholder="Write down your message here, we would love to hear from you..."><?= !empty($errors) ? $_POST['message'] : ''?></textarea> -->
 				</div>
 			  </div>
 			  <div class="form-group row mt-top">
@@ -230,7 +227,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 			  </div>
 			  <div class="form-group row mt-top">
 				<div class="col-sm-12 text-center">
-				  <button type="submit" class="btn btn-submit" id="submit-btn">
+				  <button type="submit" class="btn btn-primary" id="submit-btn-en">
 					Submit
 				  </button>
 				</div>
@@ -271,13 +268,14 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 	<script src="https://cdnjs.cloudflare.com/ajax/libs/select2/4.0.7/js/select2.min.js"></script>
 	<script>
 
-		document.getElementById("submit-btn").disabled = true;
+		document.getElementById("submit-btn-en").disabled = true;
 		function enableBtn(){
-			document.getElementById("submit-btn").disabled = false;
+			document.getElementById("submit-btn-en").disabled = false;
 		}
 
 		$(document).ready(function() {
 			$('.contact-type').select2();
+			$('#submit-btn-en').attr('disabled', true);
 		});
 	</script>
 	<script>

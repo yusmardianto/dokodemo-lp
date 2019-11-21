@@ -183,7 +183,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                                     <option value="17.00">17.00</option>
                                 </select>
                             </div>
-                            <button type="submit" class="btn btn-primary">Send</button>
+                            <button type="submit" class="btn btn-primary" id="meet-online-btn">Send</button>
                         </form>
                     </div>
                 </div>
@@ -231,7 +231,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
             </div>
         </div>
     </section>
-    <section class="faq mb-5">
+    <section id="FAQ" class="faq mb-5">
         <div class="div-faq">
         <div class="container">
             <div class="row">
@@ -241,60 +241,99 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                         <a href="contact-us.php">Contact Us</a></div>
                 </div>
                 <div class="col-md-6">
-                    <h3 class="blue2 fw-500">Q. On what OS <strong>Dokodemo-Kerja</strong> can operate? What should be
-                    prepared to run it?
+                    <h3 class="blue2 fw-500">Q. How does Dokodemo-Kerja record employee's work hours?
                     </h3>
                     <p>
-                    A. <strong>Dokodemo-Kerja</strong> can operate on any popular OS, such as Windows, Macintosh,
-                    and Linux. You don’t have to prepare a server. All you have to do is simply install
-                    <strong>Dokodemo-Kerja</strong>, and you can start using it right away. The administrator can
-                    access the management screen through browser.
+                        A. Dokodemo-Kerja records activity and work hours of each project on the employee's monitor. The tracking starts and stops based on when the start/stop buttons are clicked.
                     </p>
-                    <h3 class="blue2 fw-500">Q. Can <strong>Dokodemo-Kerja</strong> operate on mobile devices?</h3>
+                    <h3 class="blue2 fw-500">Q. Does Dokodemo-Kerja need an internet access?</h3>
                     <p>
-                    A. <strong>Dokodemo-Kerja</strong> doesn’t yet cover staffs who work on mobile device. It is
-                    still out of our service.
+                        A. Internet access is needed upon starting, managing Dokodemo-Kerja account, and sending activity and work hour records to the database.
                     </p>
-                    <h3 class="blue2 fw-500">Q. How does <strong>Dokodemo-Kerja</strong> manage staffs who work outside
-                    of office?
+                    <h3 class="blue2 fw-500">Q. What will happen if my internet disconnects while running Dokodemo-Kerja?
                     </h3>
                     <p>
-                    A. Work hours can be edited later when staffs use computers again.
-                    <strong>Dokodemo-Kerja</strong> is fundamentally targeted for employees who mainly do desk
-                    work.
+                        A. There won't be a problem. Internet access is not needed for the tracking process. However, internet access is needed when the "Stop" button is clicked to send the recorded data to the database.
                     </p>
-                    <h3 class="blue2 fw-500">Q. Can <strong>Dokodemo-Kerja</strong> be used outside Indonesia?</h3>
+                    <h3 class="blue2 fw-500">Q. How many users can Dokodemo-Kerja support?</h3>
                     <p>
-                    A. You can use it with no problem. If you use <strong>Dokodemo-Kerja</strong> while moving to a
-                    place with different time zone during the same day, there will be no problem but the monitoring
-                    process will be a little bit complicated.
+                        A. The amount of users depends on the company's needs.
+                    </p>
+                    <h3 class="blue2 fw-500">Q. Who are Dokodemo-Kerja made for?</h3>
+                    <p>
+                        A. Dokodemo-Kerja is made for companies that want to employ remote workers or freelancers to increase company productivity. It can also be used to track the work hour for onsite employees.
+                    </p>
+                    <h3 class="blue2 fw-500">Q. What is the benefit of using Dokodemo-Kerja for the company??</h3>
+                    <p>
+                        A. Dokodemo-Kerja increases employee productivity, which means companies can set targets for employees based on their performance record to complete more tasks.
+                    </p>
+                    <h3 class="blue2 fw-500">Q. Can Dokodemo-Kerja adjust the time tracker based on the timezone?</h3>
+                    <p>
+                        A. Yes. when Dokodemo-Kerja is activated, the application will automatically detect the local timezone.
+                    </p>
+                    <h3 class="blue2 fw-500">Q. What will happen if we shut down the PC / OS (Operating System) without stopping Dokodemo-Kerja beforehand?</h3>
+                    <p>
+                        A. If this were to happen, the last recorded time will be the time when the last screen was captured.
+                    </p>
+                    <h3 class="blue2 fw-500">Q. Can Dokodemo-Kerja system run in the background?</h3>
+                    <p>
+                        A. No. When the application is closed, all services automatically ends.
+                    </p>
+                    <h3 class="blue2 fw-500">Q. Can Dokodemo-Kerja be used outside Indonesia?</h3>
+                    <p>
+                        A. You can use it with no problem. If you use Dokodemo-Kerja while moving to a place with different time zone during the same day, there will be no problem but the monitoring process will be a little bit complicated.
                     </p>
                 </div>
                 <div class="col-md-6">
-                    <h3 class="blue2 fw-500">Q. Can I change the frequency of capturing and sending screenshots in
-                    <strong>Dokodemo-Kerja?</strong>
+                    <h3 class="blue2 fw-500">Q. Can Dokodemo-Kerja operate on mobile devices?
                     </h3>
                     <p>
-                    A. In Light version, the screenshot will be captured randomly every 10 minutes. In Standard
-                    version, one screenshot per 1 minute. Those screenshots will be captured at random time,
-                    therefore users can’t know when it will be captured and sent.
+                        A. Dokodemo-Kerja doesn’t yet cover staff who work on mobile devices. It is still out of our service.
                     </p>
-                    <h3 class="blue2 fw-500">Q. What about the resolution of screenshot image used by
-                    <strong>Dokodemo-Kerja?</strong>
+                    <h3 class="blue2 fw-500">Q. How do I set up Dokodemo-Kerja?
                     </h3>
                     <p>
-                    A. <strong>Dokodemo-Kerja</strong> uses image resolution that considers privacy. You can see
-                    what the image is, but you can’t see the small detail within it. For instance, you can see a
-                    user has opened a client’s email, but you can’t see the content clearly. Also, if a user opens
-                    a chat tool, you can’t see what kind of message they have.
+                        A. We will prepare a Dokodemo-Kerja step-by-step manual. Starting from how to access the master account, application access and installation procedure, and how employees can use the program.
                     </p>
-                    <h3 class="blue2 fw-500">Q. Is there a minimum contract period needed to use
-                    <strong>Dokodemo-Kerja?</strong> And how do I purchase it?
+                    <h3 class="blue2 fw-500">Q. How do I know if PC and Mac can run Dokodemo-Kerja?
                     </h3>
                     <p>
-                    A. There is no minimum contract period. <strong>Dokodemo-Kerja</strong> is available from the
-                    first month of contract. At the end of the month, we will count the number of users and issue
-                    an invoice. You can pay it via bank transfer until the end of next month.
+                        A. Dokodemo-Kerja supports Windows, Linux, and Macintosh.
+                    </p>
+                    <h3 class="blue2 fw-500">Q. What languages are available for Dokodemo-Kerja?
+                    </h3>
+                    <p>
+                        A. As of now, Dokodemo-Kerja is only available in English and Indonesian.
+                    </p>
+                    <h3 class="blue2 fw-500">Q. Is there a demo version of Dokodemo-Kerja that I can try before purchasing it?
+                    </h3>
+                    <p>
+                        A. Yes. Head on to the <a href="trial.php">Trial</a> page and follow the instructions to try the demo, or call us to ask about how it works.
+                    </p>
+                    <h3 class="blue2 fw-500">Q. What if a problem occurs when I use Dokodemo-Kerja?
+                    </h3>
+                    <p>
+                        A. Don't worry. If problems were to occur, contact us right away so that we can help you. We are happy to help.
+                    </p>
+                    <h3 class="blue2 fw-500">Q. I am interested in implementing Dokodemo-Kerja in my company. How do I proceed?
+                    </h3>
+                    <p>
+                        A. Access the <a href="subscribe.php">Subscribing Procedure</a> page to see how our contract works.
+                    </p>
+                    <h3 class="blue2 fw-500">Q. How effective is Dokodemo-Kerja on improving employee productivity?
+                    </h3>
+                    <p>
+                        A. Very effective, as Dokodemo-Kerja are able to calculate the total work hour of employees in real-time and transparently.
+                    </p>
+                    <h3 class="blue2 fw-500">Q. How does Dokodemo-Kerja manage staffs who work outside of office?
+                    </h3>
+                    <p>
+                        A. Work hours can be edited later when staffs use computers again. Dokodemo-Kerja is fundamentally targeted for employees who mainly do desk work.
+                    </p>
+                    <h3 class="blue2 fw-500">Q. Is there a minimum contract period needed to use Dokodemo-Kerja? And how do I purchase it?
+                    </h3>
+                    <p>
+                        A. There is no minimum contract period. Dokodemo-Kerja is available from the first month of contract. At the end of the month, we will count the number of users and issue an invoice. You can pay it via bank transfer until the end of next month.
                     </p>
                 </div>
             </div>

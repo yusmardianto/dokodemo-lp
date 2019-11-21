@@ -184,7 +184,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                                     <option value="17.00">17.00</option>
                                 </select>
                             </div>
-                            <button type="submit" class="btn btn-primary">Send</button>
+                            <button type="submit" class="btn btn-primary" id="meet-online-btn">Send</button>
                         </form>
                     </div>
                 </div>
@@ -232,7 +232,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
             </div>
         </div>
     </section>
-    <section class="faq mb-5">
+    <section id="FAQ" class="faq mb-5">
         <div class="div-faq">
         <div class="container">
             <div class="row">
@@ -280,7 +280,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                             Inggris.<br /><br />
                             <span class="blue2 fw-500">Dapatkah saya melakukan uji coba <strong>Dokodemo-Kerja</strong>
                             terlebih dahulu sebelum membelinya?</span><br />
-                            Tentu saja. Untuk mendapatkan layanan uji coba, silakan hubungi kami.<br /><br />
+                            Bisa. Buka halaman <a href="trial.php"> Trial </a> dan ikuti instruksi untuk mencoba demo, atau hubungi kami untuk bertanya tentang cara kerjanya.<br /><br />
                         </div>
                         <div class="col-md-6">
                             <span class="blue2 fw-500">Bagaimana jika saya punya masalah dalam menggunakan
@@ -289,8 +289,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                             Anda dapat langsung menghubungi kami. Kami akan membantu Anda dengan senang hati.<br /><br />
                             <span class="blue2 fw-500">Saya tertarik menggunakan <strong>Dokodemo-Kerja</strong> untuk
                             perusahaan saya. Bagaimana saya bisa mendapatkannya?</span><br />
-                            Anda hanya perlu menghubungi kami dengan mengisi formulir yang kami sediakan. Kami siap melayani
-                            Anda.<br /><br />
+                            Telusuri halaman <a href="subscribe.php">Subscribing Procedure</a> untuk membaca cara kerja berlangganan Dokodemo-Kerja.<br /><br />
                             <span class="blue2 fw-500">Seberapa efektifkah <strong>Dokodemo-Kerja</strong> pada produktivitas
                             karyawan?</span><br />
                             Sangat efektif, karena <strong>Dokodemo-Kerja</strong> mampu mengkalkulasikan total jam kerja
@@ -300,9 +299,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                             sistem kerja remote dan independen agar meningkatkan produktifitas perusahaan.<br /><br />
                             <span class="blue2 fw-500">Apa keuntungan yang didapatkan oleh perusahaan yang menerapkan
                             <strong>Dokodemo-Kerja</strong>?</span><br />
-                            Dengan <strong>Dokodemo-Kerja</strong>, perusahaan akan diuntungkan dengan produktifitas karyawan
-                            yang meningkat sehingga perusahaan dapat membuat target untuk para karyawan sesuai dengan
-                            kinerjanya masing-masing.<br /><br />
+                            Dengan Dokodemo-Kerja, perusahaan akan diuntungkan dengan produktivitas karyawan yang meningkat sehingga perusahaan dapat membuat target untuk para karyawan sesuai dengan kinerjanya masing-masing.<br /><br />
                             <span class="blue2 fw-500">Apakah <strong>Dokodemo-Kerja</strong> dapat menyesuaikan waktu sesuai
                             dengan zona waktu lokal yang ada?</span><br />
                             Bisa, Jika Anda mengaktifkan <strong>Dokodemo-Kerja</strong>, maka secara otomatis aplikasi akan

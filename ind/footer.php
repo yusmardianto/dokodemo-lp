@@ -25,7 +25,7 @@
                 <div class="footer-menu">
                     <ul class="footer-menu-list second-list">
                         <li><a href="contact-us.php">Contact Us</a></li>
-                        <li><a href="faq.php">FAQ</a></li>
+                        <li><a href="pricing.php#FAQ">FAQ</a></li>
                         <li><a href="subscribe.php">Subscribing Procedure</a></li>
                         <li><a data-toggle="collapse" href="#collapseExample">Setup Online Meeting</a></li>
                         <li><a href="terms.php">Terms and Condition</a></li>
