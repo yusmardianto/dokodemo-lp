@@ -178,7 +178,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
             </div>
             <?php }?>
 
-			<form class="dokodemo-form" action="" method="POST">
+			<form action="https://formspree.io/mzbbqezo" method="POST">
 
 			  <select name="subject" class="contact-type" required>
 					<option value="How To Use" <?= !empty($errors) &&  $_POST['subject'] == 'How To Use'? 'selected' : ''?>>How To Use</option>
