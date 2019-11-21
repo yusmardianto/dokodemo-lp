@@ -141,7 +141,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                     <hr>
                         <p class="card-text">Jika Anda tertarik untuk melihat demo secara langsung, atau memiliki pertanyaan apapun,
                         klik tombol dibawah ini</p>
-                        <form>
+                        <form action="https://formspree.io/xnqqyjdg" method="POST">
                             <div class="form-group" style="text-align:left;">
                                 <label for="clientName">Nama</label>
                                 <input type="text" class="form-control" name="clientName" id="clientName" placeholder="Masukan nama anda">

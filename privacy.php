@@ -98,11 +98,11 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
             <button type="button" class="close survey-close" data-toggle="collapse" href="#collapseExample" aria-label="Close" style="padding: 6px 12px; display: flex; flex-wrap: wrap; justify-content: flex-end;">
                         <span aria-hidden="true"><i class="fa fa-chevron-down" style="font-size: medium;"></i></span>
                     </button>
-                <div class=" text-center" style="padding: 1em;">
+                <div class="text-center" style="padding: 1em;">
                     <h5 class="card-title"><b>SET UP AN <br> ONLINE MEETING</b></h5>
                     <hr>
                     <p class="card-text">If you're interested in a live demo, or if you have any question at all, click the button below</p>
-                      <form>
+                      <form action="https://formspree.io/xnqqyjdg" method="POST">
                           <div class="form-group" style="text-align:left;">
                               <label for="clientName">Name</label>
                               <input type="text" class="form-control" name="clientName" id="clientName" placeholder="Enter your name">

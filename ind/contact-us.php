@@ -115,7 +115,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                     <hr>
 											<p class="card-text">Jika Anda tertarik untuk melihat demo secara langsung, atau memiliki pertanyaan apapun,
 											klik tombol dibawah ini</p>
-											<form>
+											<form action="https://formspree.io/xnqqyjdg" method="POST">
 													<div class="form-group" style="text-align:left;">
 															<label for="clientName">Nama</label>
 															<input type="text" class="form-control" name="clientName" id="clientName" placeholder="Masukan nama anda">
@@ -178,7 +178,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 					</div>
 				<?php }?>
 
-				<form class="dokodemo-form" action="" method="POST">
+				<form action="https://formspree.io/xnqqyjdg" method="POST">
 					<select name="subject" class="contact-type" required>
 						<!-- <option value="Coba Gratis 30 Hari" <?= !empty($errors) &&  $_POST['subject'] == 'Coba Gratis 30 Hari'? 'selected' : ''?>>Coba Gratis 30 Hari</option> -->
 						<option value="Cara Penggunaan" <?= !empty($errors) &&  $_POST['subject'] == 'Cara Penggunaan'? 'selected' : ''?>>Cara Penggunaan</option>
@@ -242,8 +242,8 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 		<div class="container">
 			<div class="row">
 				<div class="col-md-8 offset-md-2 cp-bot-container">
-					<h4>If you want an immediate response, get in touch with us during office hours:</h4>
-					<h5 class="mt-3 mb-3">09.00 - 17.00 (Mon-Fri)</h5>
+					<h4>Untuk respon langsung, hubungi kami pada jam kantor:</h4>
+					<h5 class="mt-3 mb-3">09.00 - 17.00 (Senin - Jumat)</h5>
 					<p>
 						<a href="tel:02122708935">
                             <img src="../img/pricing/call.png">

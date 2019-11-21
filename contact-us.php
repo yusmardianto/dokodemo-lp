@@ -115,7 +115,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                     <h5 class="card-title"><b>SET UP AN <br> ONLINE MEETING</b></h5>
 										<hr>
 													<p class="card-text">If you're interested in a live demo, or if you have any question at all, please fill the form below</p>
-													<form>
+													<form action="https://formspree.io/xnqqyjdg" method="POST">
 													<div class="form-group" style="text-align:left;">
 															<label for="clientName">Name</label>
 															<input type="text" class="form-control" name="clientName" id="clientName" placeholder="Enter your name">
@@ -178,7 +178,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
             </div>
             <?php }?>
 
-			<form action="https://formspree.io/mzbbqezo" method="POST">
+			<form action="https://formspree.io/xnqqyjdg" method="POST">
 
 			  <select name="subject" class="contact-type" required>
 					<option value="How To Use" <?= !empty($errors) &&  $_POST['subject'] == 'How To Use'? 'selected' : ''?>>How To Use</option>
@@ -246,14 +246,14 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 					<h5 class="mt-3 mb-3">09.00 - 17.00 (Mon-Fri)</h5>
 					<p>
 						<a href="tel:02122708935">
-                            <img src="img/pricing/call.png">
-												</a>
-												 <a href="mailto:info@logique.co.id">
-                            <img src="img/pricing/mail.png">
-												</a>
-												<a href="https://api.whatsapp.com/send?phone=62811870321" target="_blank">
-                            <img src="img/pricing/whatsapp.png">
-                        </a>
+								<img src="img/pricing/call.png">
+						</a>
+							<a href="mailto:info@logique.co.id">
+								<img src="img/pricing/mail.png">
+						</a>
+						<a href="https://api.whatsapp.com/send?phone=62811870321" target="_blank">
+								<img src="img/pricing/whatsapp.png">
+						</a>
 					</p>
 					</div>
 			</div>

@@ -169,7 +169,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                     <h5 class="card-title"><b>SET UP AN <br> ONLINE MEETING</b></h5>
                     <hr>
                         <p class="card-text">If you're interested in a live demo, or if you have any question at all, please fill the form below</p>
-                        <form>
+                        <form action="https://formspree.io/xnqqyjdg" method="POST">
                             <div class="form-group" style="text-align:left;">
                                 <label for="clientName">Name</label>
                                 <input type="text" class="form-control" name="clientName" id="clientName" placeholder="Enter your name">
