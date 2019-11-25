@@ -280,7 +280,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                     <div class="col-md-6">
                         <ul class="manager-activity-list">
                             <li>HR can assign one staff member to easily monitor all Dokodemo-Kerja related activities</li>
-                            <li>He/ Shecan take care of each employee’s 'green bar' and comments </li>
+                            <li>He / She can take care of each employee’s 'green bar' and comments </li>
                             <li>If 3 employee screenshots show the same image in a row, HR can then take further action</li>
                         </ul>
                     </div>
