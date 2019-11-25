@@ -3,7 +3,7 @@
 
 <head>
     <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=5.0" />
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
 	<meta name="description" itemprop="description" content="Dokodemo is a cheap solution to save your money on overpaying your employees. Easily determine who deserves to be paid more, who deserves that bonus, and who really deserves a promotion. Use this tool and feel the difference.">
     <meta name="keywords" content="cheap user manager platform, cheap people management software, people management software, dokodemo, dokodemo-kerja, enterprise software, cheap enterprise software, effective people management tool, management tool cheap">
@@ -63,15 +63,6 @@
 height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 <!-- End Google Tag Manager (noscript) -->
     <?php include "header.php" ?>
-    <!-- <section class="banner">
-        <div class="container">
-            <div class="row">
-                <div class="col-lg-12">
-                    <img src="img/pricing/bg.jpg" class="img-fluid" />
-                </div>
-            </div>
-        </div>
-    </section> -->
      <section class="price-plans">
          <div class="container mb-3">
              <div class="row">
@@ -84,7 +75,6 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
         <div class="container">
             <div class="row mb-5 pricing-container">
                 <div class="col-lg-8 offset-lg-2 offset-md-1 col-md-10">
-                    <!-- <span class="plan-title">LIGHT PLAN</span> -->
                     <div class="plan-content-container">
                         <div class="container">
                             <div class="row">
@@ -113,19 +103,6 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                                 </div>
                             </div>
                         </div>
-                        
-                        <!-- <div class="row mb-5">
-                            <div class="col-md-6 plan-btn-left">
-                                <a href="/trial.php" class="btn-price-try-demo" id="btn-price-try-demo">
-                                    Try Demo
-                                </a>
-                            </div>
-                            <div class="col-md-6 plan-btn-right">
-                                <a href="/contact-us.php" class="btn-price-buy-plan" id="btn-price-buy-plan">
-                                    Buy Plan
-                                </a>
-                            </div>
-                        </div> -->
                     </div>
                 </div>
             </div>
@@ -137,13 +114,13 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                 Chat us on Whatsapp
             </div>
         </span>
-        <a href="https://api.whatsapp.com/send?phone=62811870321&text=Halo, saya ingin bertanya tentang software Dokodemo-Kerja" target="_blank">
-            <img src="../img/whatsapp.svg" id="fixedbutton"/>
+        <a href="https://api.whatsapp.com/send?phone=62811870321&text=Halo, saya ingin bertanya tentang software Dokodemo-Kerja" target="_blank" rel="noopener noreferrer" aria-label="whatsapp linkbtnReqOnlineMeeting">
+            <img src="../img/whatsapp.svg" id="fixedbutton" alt="" />
         </a>
     </section>
     <!-- req online meeting popup -->
     <section>
-         <button class="btn botFixedBtn" id="btnReqOnlineMeeting" type="button" data-toggle="collapse" href="#collapseExample" style="background: #ffcc13;">
+         <button class="btn botFixedBtn" aria-label="btnReqOnlineMeeting" id="btnReqOnlineMeeting" type="button" data-toggle="collapse" href="#collapseExample" style="background: #ffcc13;">
             <i class="fa fa-chevron-up" style="font-size: medium; color: #fff;"></i>
         </button>
         <span class="collapse popUpBottom" id="collapseExample">
@@ -208,9 +185,9 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                     <div>
                         <p class="position-relative price-ent-contact-text">Contact us for Customised Features</p>
                         <div class="plan-contact-us price-ent-contact-icon">
-                            <a href="tel:02122708935"><img src="img/pricing/call.png" id="call"/></a>
-                            <a href="mailto:sales@dokodemo-kerja.com"><img src="img/pricing/mail.png" id="mail" /></a>
-                            <a href="https://api.whatsapp.com/send?phone=62811870321&text=Hello, I want to know more about Enterprise Plan of Dokodemo-Kerja." target="_blank"><img src="img/pricing/whatsapp.png" id="whatsapp" /></a>
+                            <a href="tel:02122708935" aria-label="phone link"><img src="img/pricing/call.png" id="call" alt="" /></a>
+                            <a href="mailto:sales@dokodemo-kerja.com" aria-label="mail link"><img src="img/pricing/mail.png" id="mail" alt="" /></a>
+                            <a href="https://api.whatsapp.com/send?phone=62811870321&text=Hello, I want to know more about Enterprise Plan of Dokodemo-Kerja." aria-label="whatsapp link" rel="noopener noreferrer" target="_blank"><img src="img/pricing/whatsapp.png" id="whatsapp" alt="" /></a>
                         </div>
                         <div class="row mb-3">
                             <div class="col-md-12">
@@ -352,110 +329,6 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
         </div>
     </section>
     <!-- end of req online meeting popup -->
-    <!-- <section class="price-plans">
-        <div class="container">
-            <div class="row mb-5 mt-5 pricing-container">
-                <div class="col-lg-4 col-md-6 plans-item">
-                    <span class="plan-title">LIGHT PLAN</span>
-                    <div class="plan-content-container">
-                        <div class="price">
-                            <span class="rp">Rp. </span>
-                            <span class="price-number">1M</span>
-                            <span class="per-month">/ Month</span>
-                        </div>
-                        <div class="row mb-5">
-                            <div class="col-md-6 plan-btn-left">
-                                <a href="/trial.php" class="btn-price-try-demo" id="btn-price-try-demo">
-                                    Try Demo
-                                </a>
-                            </div>
-                            <div class="col-md-6 plan-btn-right">
-                                <a href="/contact-us.php" class="btn-price-buy-plan" id="btn-price-buy-plan">
-                                    Buy Plan
-                                </a>
-                            </div>
-                        </div>
-                        <ul class="plan-benefits">
-                            <li>Time Tracking</li>
-                            <li>Screenshot Monitoring</li>
-                            <li>1 Screenshot per 10 minutes</li>
-                            <li>Screenshots saved for 2 months</li>
-                            <li><strong>For 10 users</strong></li>
-                        </ul>
-
-                        <p class="pt-2"><strong>If the number of user is above 10 then additional charge is (for 1 more user)</strong></p>
-                        <div class="additional-fee">
-                            <span class="plus-rp">+Rp.</span>
-                            <span class="price-number">50.000</span>
-                            <span class="per-month">/ Month</span>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-lg-4 col-md-6 plans-item">
-                    <span class="plan-title">STANDARD PLAN</span>
-                    <div class="plan-content-container">
-                        <div class="price">
-                            <span class="rp">Rp. </span>
-                            <span class="price-number">3M</span>
-                            <span class="per-month">/ Month</span>
-                        </div>
-                        <div class="row mb-5">
-                            <div class="col-md-6 plan-btn-left">
-                                <a href="/trial.php" class="btn-price-try-demo" id="btn-price-try-demo">
-                                    Try Demo
-                                </a>
-                            </div>
-                            <div class="col-md-6 plan-btn-right">
-                                <a href="/contact-us.php" class="btn-price-buy-plan" id="btn-price-buy-plan">
-                                    Buy Plan
-                                </a>
-                            </div>
-                        </div>
-                        <ul class="plan-benefits">
-                            <li>Time Tracking</li>
-                            <li>Screenshot Monitoring</li>
-                            <li>1 Screenshot per 3 minutes</li>
-                            <li>Screenshots saved for 6 months</li>
-                            <li><strong>For 20 users</strong></li>
-                        </ul>
-                        <p class="pt-2"><strong>If the number of user is above 20 then additional charge is (for 1 more user)</strong></p>
-                        <div class="additional-fee">
-                            <span class="plus-rp">+Rp.</span>
-                            <span class="price-number">75.000</span>
-                            <span class="per-month">/ Month</span>
-                        </div>
-                    </div>
-                </div>
-                 <div class="col-lg-4 col-md-6 plans-item">
-                    <span class="plan-title">ENTERPRISE PLAN</span>
-                    <div class="plan-content-container">
-                        <p class="position-relative price-ent-contact-text">Contact us for pricing detail</p>
-                        <div class="plan-contact-us price-ent-contact-icon">
-                            <a href="tel:02122708935"><img src="img/pricing/call.png" id="call"/></a>
-                            <a href="mailto:sales@dokodemo-kerja.com"><img src="img/pricing/mail.png" id="mail" /></a>
-                            <a href="https://api.whatsapp.com/send?phone=62811870321&text=Hello, I want to know more about Enterprise Plan of Dokodemo-Kerja." target="_blank"><img src="img/pricing/whatsapp.png" id="whatsapp" /></a>
-                        </div>
-                        <div class="row mb-5">
-                            <div class="col-md-12">
-                                <a href="/contact-us.php" class="btn-price-try-demo" id="btn-price-try-demo">
-                                    Contact Us
-                                </a>
-                            </div>
-                        </div>
-                        <ul class="plan-benefits">
-                            <li>Time Tracking</li>
-                            <li>Screenshot Monitoring</li>
-                            <li>1 screenshot per (#) minutes</li>
-                            <li>Screenshot saved for (#) months</li>
-                            <li>For (#) users</li>
-                            <li><strong>+ Custom features</strong></li>
-                        </ul>
-                        <p class="mt-5 text-center"><strong>(#): set upon request</strong></p>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </section> -->
     <section class="read-testimony">
         <h3>Setup an online meeting with us to see how it works!</h3>
         <a href="/contact-us.php" class="btn-read-testimony" id="btn-read-testimony">

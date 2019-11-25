@@ -2,10 +2,10 @@
     <div class="container">
         <div class="row align-items-center">
             <div class="col-lg-3 col-sm-12 footer-logo-container">
-                <img src="../img/logo-shadow.png" class="img-fluid" />
+                <img src="../img/logo-shadow.png" class="img-fluid" alt="" />
                 <p>
                     <a href="https://www.logique.co.id/" target="_blank">
-                        <img src="../img/logo_logique.png" class="img-fluid logique-logo" />
+                        <img src="../img/logo_logique.png" class="img-fluid logique-logo" alt="" />
                     </a>
                 </p>
             </div>
@@ -34,15 +34,12 @@
                 </div>
             </div>
             <div class="col-lg-3">
-                <!-- <a href="https://www.logique.co.id/" target="_blank">
-                    <img src="img/logo_logique.png" class="img-fluid logique-logo" />
-                </a> -->
                 <div class="footer-contact">
                     <ul class="footer-menu-list">
                         <li>
                             <span class="footer-contact-item">
                                 <a href="tel:02122708935">
-                                    <img src="../img/call.png" class="footer-icon">
+                                    <img src="../img/call.png" class="footer-icon" alt="">
                                     <span>(021) 22708935 / 36</span>
                                 </a>
                             </span>
@@ -50,7 +47,7 @@
                         <li>
                             <span class="footer-contact-item">
                                 <a href="mailto:info@logique.co.id">
-                                    <img src="../img/mail.png" class="footer-icon">
+                                    <img src="../img/mail.png" class="footer-icon" alt="">
                                     <span>info@logique.co.id</span>
                                 </a>
                             </span>
@@ -58,7 +55,7 @@
                         <li>
                             <span class="footer-contact-item">
                                 <a href="https://api.whatsapp.com/send?phone=62811870321" target="_blank">
-                                    <img src="../img/whatsapp.png" class="footer-icon">
+                                    <img src="../img/whatsapp.png" class="footer-icon" alt="">
                                     <span>0811-870-321</span>
                                 </a>
                             </span>

@@ -12,7 +12,7 @@
 
 <nav class="navbar navbar-expand-lg navbar-light">
     <div class="container">
-        <a class="navbar-brand" href="/">
+        <a class="navbar-brand" href="/" aria-label="Back To Home">
             <img src="img/logo.png" width="85" height="85" alt="">
         </a>
         <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav"
@@ -37,7 +37,7 @@
                     <a class="nav-link" href="trial.php">Trial</a>
                 </li>
                 <li class="nav-item">
-                    <a class="nav-link" target="_blank"
+                    <a class="nav-link" target="_blank" rel="noopener noreferrer"
                         href="https://www.logique.co.id/blog/category/dokodemo-kerja/">Blog</a>
                 </li>
                 <li class="nav-item <?php active('contact-us.php') ?>">

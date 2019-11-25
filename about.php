@@ -3,7 +3,7 @@
 
 <head>
     <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=5.0" />
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
 	<meta name="description" itemprop="description" content="Dokodemo-Kerja is built by PT Logique Digital Indonesia to accurately generate productivity report. The purpose of this program is to promote healthy and productive work culture aimed at highly populated city.">
     <meta name="keywords" content="Remote working software, remote working tool, remote working system, implementing remote working, remote working enabler, enabling remote working culture, remote culture, work on the road, logique, pt logique, logique digital indonesia, time tracking, time tracker, work hour tracker, work hour tracking, screenshot software enterprise">
@@ -64,7 +64,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 <!-- End Google Tag Manager (noscript) -->
     <?php include "header.php" ?>
     <section class="top-content">
-        <img src="img/about/bg.jpg" class="img-bg" />
+        <img src="img/about/bg.jpg" class="img-bg" alt="" />
         <div class="container">
             <div class="row align-items-end">
                 <div class="col-lg-6 about-us-left">
@@ -73,7 +73,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                         <br /><br />
                         The name Dokodemo-Kerja comes from 2 languages: "Dokodemo": anywhere (Japanese) and "Kerja": to work (Indonesian), which translates into "Work Anywhere". It means that with this program, you or your employee would not be restrained to a cubicle or an office at all times.</p>
                     <p class="about-us-contact">We use the program in our company, and if you wonder how it works in real life, do <a href="contact-us.php">CONTACT US</a> and we will explain how we utilize this tool.</p>
-                    <img src="img/about/dokodemo-about.png" class="img-dokodemo-about" />
+                    <img src="img/about/dokodemo-about.png" class="img-dokodemo-about" alt="" />
                 </div>
                 <div class="col-lg-6 about-us-right">
                     <h1>WHY DOKODEMO-KERJA?</h1>
@@ -92,8 +92,8 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                 Chat us on Whatsapp
             </div>
         </span>
-        <a href="https://api.whatsapp.com/send?phone=62811870321&text=Halo, saya ingin bertanya tentang software Dokodemo-Kerja" target="_blank">
-            <img src="../img/whatsapp.svg" id="fixedbutton"/>
+        <a href="https://api.whatsapp.com/send?phone=62811870321&text=Halo, saya ingin bertanya tentang software Dokodemo-Kerja" target="_blank" aria-label="Whatsapp Link" rel="noopener noreferrer">
+            <img src="../img/whatsapp.svg" id="fixedbutton" alt=""/>
         </a>
     </section>
     <section id="benefits" class="benefits-features">
@@ -102,37 +102,37 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
             <div class="row">
                 <div class="col-md-4 features feature-1">
                     <div class="feature-img-wrapper">
-                        <img src="img/home/clock.png" class="pr-3" />
+                        <img src="img/home/clock.png" class="pr-3" alt="" />
                     </div>
                     <p>Evidence-based time tracking</p>
                 </div>
                 <div class="col-md-4 features feature-2">
                     <div class="feature-img-wrapper">
-                        <img src="img/home/coffee.png" class="pl-3" />
+                        <img src="img/home/coffee.png" class="pl-3" alt="" />
                     </div>
                     <p>Allows for Flexible Working Hours</p>
                 </div>
                 <div class="col-md-4 features feature-3">
                     <div class="feature-img-wrapper">
-                        <img src="img/home/corkboard.png" />
+                        <img src="img/home/corkboard.png" alt="" />
                     </div>
                     <p>Real Time Monitoring of Employee Activities</p>
                 </div>
                 <div class="col-md-4 features feature-4">
                     <div class="feature-img-wrapper">
-                        <img src="img/home/chart.png" class="pr-3" />
+                        <img src="img/home/chart.png" class="pr-3" alt="" />
                     </div>
                     <p>Working Hour Evaluation by HR Department</p>
                 </div>
                 <div class="col-md-4 features feature-5">
                     <div class="feature-img-wrapper">
-                        <img src="img/home/notepad.png" class="pl-3" />
+                        <img src="img/home/notepad.png" class="pl-3" alt="" />
                     </div>
                     <p>Easy-to-Use Time Editing System with Staff Notifications</p>
                 </div>
                 <div class="col-md-4 features feature-6">
                     <div class="feature-img-wrapper">
-                        <img src="img/home/work.png" />
+                        <img src="img/home/work.png" alt="" />
                     </div>
                     <p>Perfect for Managing Overtime Working Hours</p>
                 </div>
@@ -157,7 +157,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
     </section>
     <!-- req online meeting popup -->
     <section>
-         <button class="btn botFixedBtn" id="btnReqOnlineMeeting" type="button" data-toggle="collapse" href="#collapseExample" style="background: #ffcc13;">
+         <button class="btn botFixedBtn" id="btnReqOnlineMeeting" aria-label="btnReqOnlineMeeting" type="button" data-toggle="collapse" href="#collapseExample" style="background: #ffcc13;">
             <i class="fa fa-chevron-up" style="font-size: medium; color: #fff;"></i>
         </button>
         <span class="collapse popUpBottom" id="collapseExample">
@@ -273,8 +273,8 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
         <div class="container p-md-0 position-relative">
             <div class="row no-gutters ">
                 <div class="col-md-6 ">
-                    <img src="img/home/bg-feature-1.png" class="img-fluid" />
-                    <img src="img/home/dokodemo-user.png" class="dokodemo-user-float" />
+                    <img src="img/home/bg-feature-1.png" class="img-fluid" alt="" />
+                    <img src="img/home/dokodemo-user.png" class="dokodemo-user-float" alt="" />
                 </div>
                 <div class="col-md-6 d-flex align-items-center">
                     <div class="benefit-content right">
@@ -302,12 +302,12 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 
                 </div>
                 <div class="col-md-6 order-1 order-md-2">
-                    <img src="img/home/work-anywhere.png" class="img-fluid" />
+                    <img src="img/home/work-anywhere.png" class="img-fluid" alt="" />
                 </div>
             </div>
             <div class="row no-gutters">
                 <div class="col-md-6">
-                    <img src="img/home/work-efficiency.png" class="img-fluid" />
+                    <img src="img/home/work-efficiency.png" class="img-fluid" alt="" />
                 </div>
                 <div class="col-md-6 d-flex align-items-center">
                     <div class="benefit-content right">
@@ -322,12 +322,6 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
             </div>
         </div>
     </section>
-    <!-- <section class="read-testimony">
-        <h3>Wonder what other user are saying?</h3>
-        <a href="index.php#testimony" class="btn-read-testimony" id="btn-read-testimony">
-            Read user testimony
-        </a>
-    </section> -->
     <?php include "footer.php" ?>
 	<script src="js/jquery-3.4.1.min.js"></script>
     <script src="js/bootstrap.min.js"></script>

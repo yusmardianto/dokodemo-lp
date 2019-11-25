@@ -3,7 +3,7 @@
 
 <head>
     <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=5.0" />
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
 	<meta name="description" itemprop="description" content="Dokodemo-Kerja is a system that enables time tracking feature, accurate time reports, man hour management, easy navigation, and flexible monitoring tools which benefits both employees and employers.">
     <meta name="keywords" content="dokodemo, dokodemo-kerja, dokodemo kerja, screen monitoring, sceen monitor, monitor employee, employee monitoring, time tracker, clock in, clock in software, attendance software, attendance tool, work hour calculator,  manage employees, tool for managers, tool for hr, notification manager, productivity tool, productivity enhancer">
@@ -78,7 +78,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                             <p class="features-desc">Dokodemo-Kerja takes low-resolution screenshots of your employee’s desktop activities during random intervals when the application is switched on and then sends the images directly to the management team.</p>
                         </div>
                         <div class="col-lg-6 features-item">
-                             <img src="img/features/screen-1.jpg" class="img-slide-screenshot modal-hover-opacity"/>    
+                             <img src="img/features/screen-1.jpg" class="img-slide-screenshot modal-hover-opacity" alt="" />    
                         </div>
                     </div>
                     <div class="row">
@@ -88,7 +88,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                             <p class="features-desc">Dokodemo-Kerja is able to accurately calculate and compare total employee working and resting hours, putting the data into an easy-to-read format, all with just one click. </p>
                         </div>
                         <div class="col-lg-6 features-item">
-                            <img src="img/features/screen-2.jpg" class="img-slide-screenshot modal-hover-opacity"/>   
+                            <img src="img/features/screen-2.jpg" class="img-slide-screenshot modal-hover-opacity" alt="" />   
                         </div>
                     </div>
                     <div class="row">
@@ -98,7 +98,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                             <p class="features-desc">Tracks the total man-hours spent by each employee on each individual task, so that your company can more easily predict and arrange target deadlines in line with your employee’s capabilities</p>
                         </div>
                         <div class="col-lg-6 features-item">
-                            <img src="img/features/d_5.jpg" class="img-slide-screenshot modal-hover-opacity"/>    
+                            <img src="img/features/d_5.jpg" class="img-slide-screenshot modal-hover-opacity" alt="" />    
                         </div>
                     </div>
                     <div class="row">
@@ -108,7 +108,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                             <p class="features-desc">Displays total employee working hours in an easy-to-read on-screen format, improving the efficiency with which HR can evaluate performance.</p>
                         </div>
                         <div class="col-lg-6 features-item">
-                            <img src="img/features/screen-3.jpg" class="img-slide-screenshot modal-hover-opacity"/>    
+                            <img src="img/features/screen-3.jpg" class="img-slide-screenshot modal-hover-opacity" alt="" />    
                         </div>
                     </div>
                 </div>
@@ -121,13 +121,13 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                 Chat us on Whatsapp
             </div>
         </span>
-        <a href="https://api.whatsapp.com/send?phone=62811870321&text=Halo, saya ingin bertanya tentang software Dokodemo-Kerja" target="_blank">
-            <img src="../img/whatsapp.svg" id="fixedbutton"/>
+        <a href="https://api.whatsapp.com/send?phone=62811870321&text=Halo, saya ingin bertanya tentang software Dokodemo-Kerja" target="_blank" aria-label="Whatsapp Link" rel="noopener noreferrer">
+            <img src="../img/whatsapp.svg" id="fixedbutton" alt="" />
         </a>
     </section>
     <!-- req online meeting popup -->
     <section>
-         <button class="btn botFixedBtn" id="btnReqOnlineMeeting" type="button" data-toggle="collapse" href="#collapseExample" style="background: #ffcc13;">
+         <button class="btn botFixedBtn" id="btnReqOnlineMeeting" aria-label="btnReqOnlineMeeting" type="button" data-toggle="collapse" href="#collapseExample" style="background: #ffcc13;">
             <i class="fa fa-chevron-up" style="font-size: medium; color: #fff;"></i>
         </button>
         <span class="collapse popUpBottom" id="collapseExample">
@@ -175,46 +175,6 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
         </span>    
     </section>
     <!-- end of req online meeting popup -->
-    <!-- <section class="case-studies">
-        <h2>Wonder how you can use all these features? Read the case studies in our About Us page</h2>
-        <a href="about.php" class="btn-see-case" id='btn-see-case'>See Case Studies</a>
-    </section> -->
-    <!-- <section class="screenshots">
-        <div class="container-fluid">
-            <div class="screenshot-slide zoom-gallery">
-                <div>
-                    <a href="img/features/screen-1.jpg" data-source="img/features/screen-1.jpg" title="Daily Working Screen Capture">
-                        <img src="img/features/screen-1.jpg" class="img-slide-screenshot modal-hover-opacity"/>
-                    </a>
-                </div>
-                <div>
-                    <a href="img/features/screen-2.jpg" data-source="img/features/screen-2.jpg" title="Daily Working Hours Bars">
-                        <img src="img/features/screen-2.jpg" class="img-slide-screenshot modal-hover-opacity"/>
-                    </a>
-                </div>
-                <div>
-                    <a href="img/features/screen-3.jpg" data-source="img/features/screen-3.jpg" title="Staff Management">
-                        <img src="img/features/screen-3.jpg" class="img-slide-screenshot modal-hover-opacity"/>
-                    </a>
-                </div>
-                <div>
-                    <a href="img/features/screen-1.jpg" data-source="img/features/screen-1.jpg" title="Daily Working Screen Capture">
-                        <img src="img/features/screen-1.jpg" class="img-slide-screenshot modal-hover-opacity"/>
-                    </a>
-                </div>
-                <div>
-                    <a href="img/features/screen-2.jpg" data-source="img/features/screen-2.jpg" title="Daily Working Hours Bars">
-                        <img src="img/features/screen-2.jpg" class="img-slide-screenshot modal-hover-opacity"/>
-                    </a>
-                </div>
-                <div>
-                    <a href="img/features/screen-3.jpg" data-source="img/features/screen-3.jpg" title="Staff Management">
-                        <img src="img/features/screen-3.jpg" class="img-slide-screenshot modal-hover-opacity"/>
-                    </a>
-                </div>
-            </div>
-        </div>
-    </section> -->
     <section>
         <div class="container mt-5 mb-3">
             <div class="row mt-5">
@@ -228,7 +188,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
         <div class="container-fluid">
             <div class="row employee-role">
                 <div class="col-md-6 program-sample">
-                    <img src="img/features/doko.png" class="img-fluid img-doko" />
+                    <img src="img/features/doko.png" class="img-fluid img-doko" alt="" />
                 </div>
                 <div class="col-md-6 employee-feature-list pt-sm-4">
                     <h3><strong>EMPLOYEE</strong></h3>
@@ -246,36 +206,6 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
             <div class="manager-role">
                 <h3 class="text-center"><strong>MANAGER / HR</strong></h3>
                 <p class="text-center"><strong>Easily track everyone's</strong> working hours and their <strong>activities</strong></p>
-                <!-- <div class="row zoom-gallery">
-                    <div class="col-md-6 screenshot-item">
-                        <a href="img/features/d_4.jpg" data-source="img/features/d_4.jpg" title="Daily Working Hours Bars">
-                            <img src="img/features/d_4.jpg" class="img-fluid modal-hover-opacity"/>
-                        </a>
-                        <p class="fw-semibold">Daily Working Hours Bars</p>
-                        <hr class="blue-separator">
-                    </div>
-                    <div class="col-md-6 screenshot-item">
-                        <a href="img/features/d_5.jpg" data-source="img/features/d_5.jpg" title="Weekly Working Hours Summary">
-                            <img src="img/features/d_5.jpg" class="img-fluid modal-hover-opacity"/>
-                        </a>
-                        <p class="fw-semibold">Weekly Working Hours Summary</p>
-                        <hr class="blue-separator">
-                    </div>
-                    <div class="col-md-6 screenshot-item">
-                         <a href="img/features/d_6.jpg" data-source="img/features/d_6.jpg" title="Daily Working Screen Capture">
-                            <img src="img/features/d_6.jpg" class="img-fluid modal-hover-opacity"/>
-                        </a>
-                        <p class="fw-semibold">Daily Working Screen Capture</p>
-                        <hr class="blue-separator">
-                    </div>
-                    <div class="col-md-6 screenshot-item">
-                         <a href="img/features/edit-time.jpg" data-source="img/features/edit-time.jpg" title="Manage Users' Editing Working Hours History">
-                            <img src="img/features/edit-time.jpg" class="img-fluid modal-hover-opacity"/>
-                        </a>
-                        <p class="fw-semibold">Manage Users' Editing Working Hours History</p>
-                        <hr class="blue-separator">
-                    </div>
-                </div> -->
                 <div class="row" style="width: 100%">
                     <div class="col-md-6">
                         <ul class="manager-activity-list">
@@ -296,25 +226,15 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
     </section>
     <section class="guides py-2 mt-3 mb-5">
         <div class="container">
-            <!-- <div class="row">
-                <div class="col-md-12">
-                    <h3 class="text-center feature-pdf-title">Wonder how you can use all these features?</h3>
-                </div>
-            </div> -->
             <div class="row">
-                <!-- <div class="col-md-4 offset-md-4 py-2">
-                    <a href="trial.php">
-                        <img src="img/features/free-trial.jpg" class="img-fluid mx-auto d-block" id="features-free-trial" />
-                    </a>
-                </div> -->
                 <div class="col-md-4 offset-md-2 col-10 offset-1 py-2">
-                    <a href="http://dokodemo-web.test/pdf/manual-guide.pdf" class="dl-guide">
-                        <img src="img/manual.png" class="img-fluid mx-auto d-block" id="features-manual-guide" />
+                    <a href="http://dokodemo-web.test/pdf/manual-guide.pdf" class="dl-guide" aria-label="manual guide">
+                        <img src="img/manual.png" class="img-fluid mx-auto d-block" id="features-manual-guide" alt="" />
                     </a>
                 </div>
                 <div class="col-md-4 col-10 offset-md-0 offset-1 py-2">
-                    <a href="http://dokodemo-web.test/pdf/install-guide.pdf" class="dl-guide">
-                        <img src="img/install.png" class="img-fluid mx-auto d-block" id="features-install-guide" />
+                    <a href="http://dokodemo-web.test/pdf/install-guide.pdf" class="dl-guide" aria-label="dl-guide">
+                        <img src="img/install.png" class="img-fluid mx-auto d-block" id="features-install-guide" alt="" />
                     </a>
                 </div>
             </div>
@@ -325,55 +245,6 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
             </div>
         </div>
     </section>
-    <!-- <section class="user-testimony">
-        <h1 class="section-title">USER TESTIMONY</h1>
-        <div class="container">
-            <div class="testimony-slider">
-                <div class="testimony-item">
-                    <div class="testimony-text">The traffic jam to my office is quite stressful. My house is so far from the office and I have to take a very crowded bus. Every day I spend about 4 hours on the road, constantly like that. I’m so grateful when my company finally use Dokodemo-Kerja and implemented a remote work system in the office. With Dokodemo-Kerja, I can work anywhere I want now. I can also use the 4 hours i used to waste for commute and do something more productive.</div>
-                    <p class="testimony-author"><strong>Rafid</strong> - Front End Developer</p>
-                </div>
-                <div class="testimony-item">
-                    <div class="testimony-text">I’ve always wanted to go back to university to finish my degree. With Dokodemo-Kerja, I can prove my manager that I’m still able to work 8 hours every day. Some days, I work in the morning, and the other days, I work at night. Now, I can continue my study and still be able to work. Dokodemo-Kerja has helped me increasing the quality of my life. Thank you.</div>
-                    <p class="testimony-author"><strong>Angga</strong> - Designer</p>
-                </div>
-                <div class="testimony-item">
-                    <div class="testimony-text">Sometimes I noticed my staffs were having a break too long on prayer time. I just want everyone to have fair working hours, no matter what religion they believe in, but it’s difficult for me to discuss about it. Since we use Dokodemo-Kerja, all employees have fair working hours. If it’s time to have a praying break, they always stop the record and start again when they get back to work. Dokodemo-Kerja helps our company so much to stay productive.</div>
-                    <p class="testimony-author"><strong>Mizuho Yamada</strong> - Manager of Back Office</p>
-                </div>
-                <div class="testimony-item">
-                    <div class="testimony-text">The traffic jam to my office is quite stressful. My house is so far from the office and I have to take a very crowded bus. Every day I spend about 4 hours on the road, constantly like that. I’m so grateful when my company finally use Dokodemo-Kerja and implemented a remote work system in the office. With Dokodemo-Kerja, I can work anywhere I want now. I can also use the 4 hours i used to waste for commute and do something more productive.</div>
-                    <p class="testimony-author"><strong>Rafid</strong> - Front End Developer</p>
-                </div>
-                <div class="testimony-item">
-                    <div class="testimony-text">I’ve always wanted to go back to university to finish my degree. With Dokodemo-Kerja, I can prove my manager that I’m still able to work 8 hours every day. Some days, I work in the morning, and the other days, I work at night. Now, I can continue my study and still be able to work. Dokodemo-Kerja has helped me increasing the quality of my life. Thank you.</div>
-                    <p class="testimony-author"><strong>Angga</strong> - Designer</p>
-                </div>
-                <div class="testimony-item">
-                    <div class="testimony-text">Sometimes I noticed my staffs were having a break too long on prayer time. I just want everyone to have fair working hours, no matter what religion they believe in, but it’s difficult for me to discuss about it. Since we use Dokodemo-Kerja, all employees have fair working hours. If it’s time to have a praying break, they always stop the record and start again when they get back to work. Dokodemo-Kerja helps our company so much to stay productive.</div>
-                    <p class="testimony-author"><strong>Mizuho Yamada</strong> - Manager of Back Office</p>
-                </div>
-                <div class="testimony-item">
-                    <div class="testimony-text">The traffic jam to my office is quite stressful. My house is so far from the office and I have to take a very crowded bus. Every day I spend about 4 hours on the road, constantly like that. I’m so grateful when my company finally use Dokodemo-Kerja and implemented a remote work system in the office. With Dokodemo-Kerja, I can work anywhere I want now. I can also use the 4 hours i used to waste for commute and do something more productive.</div>
-                    <p class="testimony-author"><strong>Rafid</strong> - Front End Developer</p>
-                </div>
-                <div class="testimony-item">
-                    <div class="testimony-text">I’ve always wanted to go back to university to finish my degree. With Dokodemo-Kerja, I can prove my manager that I’m still able to work 8 hours every day. Some days, I work in the morning, and the other days, I work at night. Now, I can continue my study and still be able to work. Dokodemo-Kerja has helped me increasing the quality of my life. Thank you.</div>
-                    <p class="testimony-author"><strong>Angga</strong> - Designer</p>
-                </div>
-                <div class="testimony-item">
-                    <div class="testimony-text">Sometimes I noticed my staffs were having a break too long on prayer time. I just want everyone to have fair working hours, no matter what religion they believe in, but it’s difficult for me to discuss about it. Since we use Dokodemo-Kerja, all employees have fair working hours. If it’s time to have a praying break, they always stop the record and start again when they get back to work. Dokodemo-Kerja helps our company so much to stay productive.</div>
-                    <p class="testimony-author"><strong>Mizuho Yamada</strong> - Manager of Back Office</p>
-                </div>
-            </div>
-        </div>
-    </section> -->
-    <!-- <div id="modal01" class="modal-box">
-        <span class="close"  onclick="onClose()" style="cursor:pointer;">&times;&nbsp;&nbsp;&nbsp;&nbsp;</span>
-        <div class="modal-box-content">
-            <img id="img01" style="min-width:100%; max-width:150%; margin:0 auto;">
-        </div>
-    </div> -->
     <?php include "footer.php" ?>
     <script src="js/jquery-3.4.1.min.js"></script>
     <script src="js/bootstrap.min.js"></script>
@@ -458,15 +329,6 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
         element.style.opacity = "1";
         }
     </script>
-    <!-- <script>
-    function onClick(element) {
-        document.getElementById("img01").src = element.src;
-        document.getElementById("modal01").style.display = "block";
-    }
-    function onClose() {
-        document.getElementById("modal01").style.display = "none";
-    }
-    </script> -->
 </body>
 
 </html>

@@ -2,10 +2,10 @@
     <div class="container">
         <div class="row align-items-center">
             <div class="col-lg-3 col-md-3 col-sm-12 footer-logo-container">
-                <img src="img/logo-shadow.png" class="img-fluid" />
+                <img src="img/logo-shadow.png" class="img-fluid" alt="" />
                 <p>
-                    <a href="https://www.logique.co.id/" target="_blank">
-                        <img src="img/logo_logique.png" class="img-fluid logique-logo" />
+                    <a href="https://www.logique.co.id/" target="_blank" rel="noopener noreferrer" aria-label="Homepage Link">
+                        <img src="img/logo_logique.png" class="img-fluid logique-logo" alt="" />
                     </a>
                 </p>
             </div>
@@ -17,7 +17,7 @@
                         <li><a href="features.php">Features</a></li>
                         <li><a href="pricing.php">Pricing</a></li>
                         <li><a href="trial.php">Trial</a></li>
-                        <li><a href="https://www.logique.co.id/blog/category/dokodemo-kerja/" target="_blank">Blog</a></li>
+                        <li><a href="https://www.logique.co.id/blog/category/dokodemo-kerja/" target="_blank" rel="noopener noreferrer">Blog</a></li>
                     </ul>
                 </div>
             </div>
@@ -34,15 +34,12 @@
                 </div>
             </div>
             <div class="col-lg-3 col-md-3">
-                <!-- <a href="https://www.logique.co.id/" target="_blank">
-                    <img src="img/logo_logique.png" class="img-fluid logique-logo" />
-                </a> -->
                 <div class="footer-contact">
                     <ul class="footer-menu-list">
                         <li>
                             <span class="footer-contact-item">
                                 <a href="tel:02122708935">
-                                    <img src="img/call.png" class="footer-icon">
+                                    <img src="img/call.png" class="footer-icon" alt="">
                                     <span>(021) 22708935 / 36</span>
                                 </a>
                             </span>
@@ -50,15 +47,15 @@
                         <li>
                             <span class="footer-contact-item">
                                 <a href="mailto:info@logique.co.id">
-                                    <img src="img/mail.png" class="footer-icon">
+                                    <img src="img/mail.png" class="footer-icon" alt="">
                                     <span>info@logique.co.id</span>
                                 </a>
                             </span>
                         </li>
                         <li>
                             <span class="footer-contact-item">
-                                <a href="https://api.whatsapp.com/send?phone=62811870321" target="_blank">
-                                    <img src="img/whatsapp.png" class="footer-icon">
+                                <a href="https://api.whatsapp.com/send?phone=62811870321" target="_blank" rel="noopener noreferrer">
+                                    <img src="img/whatsapp.png" class="footer-icon" alt="">
                                     <span>0811-870-321</span>
                                 </a>
                             </span>

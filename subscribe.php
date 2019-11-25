@@ -3,7 +3,7 @@
 
 <head>
     <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=5.0" />
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
   <meta name="description" itemprop="description" content="Dokodemo-Kerja is built by PT Logique Digital Indonesia to accurately generate productivity report. The purpose of this program is to promote healthy and productive work culture aimed at highly populated city.">
     <meta name="keywords" content="Remote working software, remote working tool, remote working system, implementing remote working, remote working enabler, enabling remote working culture, remote culture, work on the road, logique, pt logique, logique digital indonesia, time tracking, time tracker, work hour tracker, work hour tracking, screenshot software enterprise">
@@ -81,13 +81,13 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                 Chat us on Whatsapp
             </div>
         </span>
-        <a href="https://api.whatsapp.com/send?phone=62811870321&text=Halo, saya ingin bertanya tentang software Dokodemo-Kerja" target="_blank">
-            <img src="../img/whatsapp.svg" id="fixedbutton"/>
+        <a href="https://api.whatsapp.com/send?phone=62811870321&text=Halo, saya ingin bertanya tentang software Dokodemo-Kerja" target="_blank" rel="noopener noreferrer" aria-label="whatsapp link">
+            <img src="../img/whatsapp.svg" id="fixedbutton" alt="" />
         </a>
     </section>
     <!-- req online meeting popup -->
     <section>
-        <button class="btn botFixedBtn" id="btnReqOnlineMeeting" type="button" data-toggle="collapse" href="#collapseExample" style="background: #ffcc13;">
+        <button class="btn botFixedBtn" aria-label="btnReqOnlineMeeting" id="btnReqOnlineMeeting" type="button" data-toggle="collapse" href="#collapseExample" style="background: #ffcc13;">
             <i class="fa fa-chevron-up" style="font-size: medium; color: #fff;"></i>
         </button>
         <span class="collapse popUpBottom" id="collapseExample">
@@ -166,7 +166,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                       A recurring invoice will be sent to you at the beginning of the following month. You can view the invoice on your admin dashboard, or from an email that we will send you at the end of every month. 
                     </p>
                     <p>
-                      <img src="img/dokodemo-invoice.png" class="img-fluid img-thumbnail" />
+                      <img src="img/dokodemo-invoice.png" class="img-fluid img-thumbnail" alt="" />
                     </p>
                     <p>Note that:</p>
                     <ol>
@@ -194,12 +194,6 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
         </div>
       </div>
     </section>
-    <!-- <section class="read-testimony">
-        <h3>Wonder what other user are saying?</h3>
-        <a href="index.php#testimony" class="btn-read-testimony" id="btn-read-testimony">
-            Read user testimony
-        </a>
-    </section> -->
     <?php include "footer.php" ?>
   <script src="js/jquery-3.4.1.min.js"></script>
     <script src="js/bootstrap.min.js"></script>

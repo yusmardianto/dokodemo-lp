@@ -3,7 +3,7 @@
 
 <head>
     <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=5.0" />
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
     <meta name="description" itemprop="description"
         content="Dokodemo-Kerja is a program that monitors your employee's productivity by screenshotting their desktop at random every ten or three minutes. Increase your productivity with Dokodemo-Kerja.">
@@ -112,9 +112,6 @@
             <div class="row">
                 <div class="col-md-12">
                     <h1 class="banner-header-text"><strong>SAVE MONEY. INCREASE PRODUCTIVITY</strong></h1>
-                    <!-- <h1 class="banner-header-text"><strong>Do you know who your most
-                            productive employee is?</strong></h1> -->
-
                 </div>
                 <div class="col-12">
                     <p class="text-center fs-18 subbanner-header-text">Track employee working hours with a program that
@@ -124,7 +121,7 @@
             <div class="row justify-content-center">
                 <div class="col-md-4">
                     <div class="advantages-item">
-                        <img src="/img/home/done.png" class="pr-2 header-icon-verified" />
+                        <img src="/img/home/done.png" class="pr-2 header-icon-verified" alt=""/>
                         <div>
                             <span class="header-feature">Cost Effective</span>
                             <br />
@@ -133,7 +130,7 @@
                 </div>
                 <div class="col-md-4">
                     <div class="advantages-item">
-                        <img src="/img/home/done.png" class="pr-2 header-icon-verified" />
+                        <img src="/img/home/done.png" class="pr-2 header-icon-verified" alt=""/>
                         <div>
                             <span class="header-feature">No Minimum</span>
                             <br />
@@ -143,7 +140,7 @@
                 </div>
                 <div class="col-md-4">
                     <div class="advantages-item">
-                        <img src="/img/home/done.png" class="pr-2 header-icon-verified" />
+                        <img src="/img/home/done.png" class="pr-2 header-icon-verified" alt=""/>
                         <div>
                             <span class="header-feature">Easy Setup</span>
                             <br />
@@ -152,7 +149,6 @@
                     </div>
                 </div>
             </div>
-            <!-- <strong class="fs-27 text-center">Try out the <strong>30 days Free Trial</strong></p> -->
             <div class="row">
                 <div class="col-md-12">
                     <p class="fs-27 text-center header-demo-text">Try the <strong>Demo</strong> Now</p>
@@ -160,9 +156,6 @@
                     <span class="text-center d-block py-4 fs-medium header-subdemo-text">*No credit card required</span>
                 </div>
             </div>
-            <!-- <div class="bottom-arrow-wrapper">
-                <a href="#benefits" class="smooth"><img src="img/home/down.png" /></a>
-            </div> -->
         </div>
     </section>
     <section class="hide-button-on-mobile">
@@ -172,125 +165,21 @@
             </div>
         </span>
         <a href="https://api.whatsapp.com/send?phone=62811870321&text=Halo, saya ingin bertanya tentang software Dokodemo-Kerja"
-            target="_blank">
-            <img src="../img/whatsapp.svg" id="fixedbutton" />
+            target="_blank" rel="noopener noreferrer" aria-label="Whatsapp Link">
+            <img src="../img/whatsapp.svg" id="fixedbutton" alt="" />
         </a>
     </section>
-    <!-- <section id="benefits" class="benefits-features">
-        <h1 class="section-title pb-4">BENEFITS AND FEATURES</h1>
-        <div class="container pt-4">
-            <div class="row">
-                <div class="col-md-4 features feature-1">
-                    <div class="feature-img-wrapper">
-                        <img src="img/home/clock.png" class="pr-3" />
-                    </div>
-                    <p>Evidence-based time tracking</p>
-                </div>
-                <div class="col-md-4 features feature-2">
-                    <div class="feature-img-wrapper">
-                        <img src="img/home/coffee.png" class="pl-3" />
-                    </div>
-                    <p>Allows for Flexible Working Hours</p>
-                </div>
-                <div class="col-md-4 features feature-3">
-                    <div class="feature-img-wrapper">
-                        <img src="img/home/corkboard.png" />
-                    </div>
-                    <p>Real Time Monitoring of Employee Activities</p>
-                </div>
-                <div class="col-md-4 features feature-4">
-                    <div class="feature-img-wrapper">
-                        <img src="img/home/chart.png" class="pr-3" />
-                    </div>
-                    <p>Working Hour Evaluation by HR Department</p>
-                </div>
-                <div class="col-md-4 features feature-5">
-                    <div class="feature-img-wrapper">
-                        <img src="img/home/notepad.png" class="pl-3" />
-                    </div>
-                    <p>Easy-to-Use Time Editing System with Staff Notifications</p>
-                </div>
-                <div class="col-md-4 features feature-6">
-                    <div class="feature-img-wrapper">
-                        <img src="img/home/work.png" />
-                    </div>
-                    <p>Perfect for Managing Overtime Working Hours</p>
-                </div>
-            </div>
-            <a href="features.php" class="btn-learn-more" id="btn-learn-more">Learn More</a>
-        </div>
-        <div class="container p-md-0 position-relative">
-            <div class="row no-gutters ">
-                <div class="col-md-6 ">
-                    <img src="img/home/bg-feature-1.png" class="img-fluid" />
-                    <img src="img/home/dokodemo-user.png" class="dokodemo-user-float" />
-                </div>
-                <div class="col-md-6 d-flex align-items-center">
-                    <div class="benefit-content right">
-                        <p class="benefit-title">Work Anytime & Anywhere</p>
-                        <hr class="blue-separator">
-                        <p class="benefit-desc">Ask yourself: is being physically present at the office really required
-                            in regards to overall levels of productivity? Is there a logical explanation as to why you
-                            need to work at a specified location from 8AM to 5PM every day, if all of your work is
-                            conducted through the use of a laptop, anyway? </p>
-                    </div>
-
-                </div>
-            </div>
-        </div>
-        <div class="container">
-            <div class="row no-gutters">
-                <div class="col-md-6 order-2 order-md-1 d-flex align-items-center">
-                    <div class="benefit-content">
-                        <p class="benefit-title">Maximize your Team’s Productivity</p>
-                        <hr class="blue-separator">
-                        <p class="benefit-desc">Work comfortably, flexibly and effectively so as to boost results.
-                            Eliminate all of the wasteful and inconvenient elements that inevitably come with navigating
-                            through the morning traffic on the way to your office. </p>
-                    </div>
-
-                </div>
-                <div class="col-md-6 order-1 order-md-2">
-                    <img src="img/home/work-anywhere.png" class="img-fluid" />
-                </div>
-            </div>
-            <div class="row no-gutters">
-                <div class="col-md-6">
-                    <img src="img/home/work-efficiency.png" class="img-fluid" />
-                </div>
-                <div class="col-md-6 d-flex align-items-center">
-                    <div class="benefit-content right">
-                        <p class="benefit-title">Improve the Efficiency of Your Work</p>
-                        <hr class="blue-separator">
-                        <p class="benefit-desc">Through having an accurate record of the time it takes to finish a
-                            single task, everyone can self-evaluate their work more easily, and hence, improve upon it
-                            in the future. </p>
-                    </div>
-
-                </div>
-
-            </div>
-        </div>
-    </section> -->
-    <!-- <section class="dokodemo-desc">
-        <h1 class="section-title">WHAT IS DOKODEMO KERJA?</h1>
-        <p>Dokodemo Kerja is a Human Resources oriented tool used to manage and monitor employee working hours. Your
-            company can now work flexibly through implement systems of remote working. Work Anytime & Anywhere with
-            Dokodemo-Kerja.</p>
-        <a href="features.php" class="btn-more-features" id="btn-more-features">More Features</a>
-    </section> -->
     <section class="feature-content mt-5">
         <div class="container">
             <div class="row">
                 <div class="col-md-12">
                     <h1 class="home-feature-title">Features</h1>
-                    <!-- <p>Dokodemo-Kerja is a time-management oriented solution for both employers and employees alike. Through its efficient monitoring and management capabilities, Dokodemo-Kerja can further help companies improve their levels of productivity, while at the same time provide flexible working hours for employees.</p> -->
                 </div>
             </div>
             <div class="row mt-3">
                 <div class="col-md-6">
                      <div class="embed-responsive embed-responsive-16by9 feature-video">
-                        <iframe class="embed-responsive-item" width="811" height="417"
+                        <iframe class="embed-responsive-item" width="811" height="417" title="Dokodemo Youtube Video"
                             src="https://www.youtube.com/embed/Y8kU7CmCvso" frameborder="0"
                             allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
                             allowfullscreen></iframe>
@@ -314,33 +203,33 @@
         <div class="container-fluid">
             <div class="screenshot-slide zoom-gallery">
                 <div>
-                    <a href="img/features/screen-1.jpg" data-source="img/features/screen-1.jpg" title="Daily Working Screen Capture">
-                        <img src="img/features/screen-1.jpg" class="img-slide-screenshot modal-hover-opacity"/>
+                    <a href="img/features/screen-1.jpg" data-source="img/features/screen-1.jpg" title="Daily Working Screen Capture" aria-label="Daily Working Screen Capture">
+                        <img src="img/features/screen-1.jpg" class="img-slide-screenshot modal-hover-opacity" alt=""/>
                     </a>
                 </div>
                 <div>
-                    <a href="img/features/screen-2.jpg" data-source="img/features/screen-2.jpg" title="Daily Working Hours Bars">
-                        <img src="img/features/screen-2.jpg" class="img-slide-screenshot modal-hover-opacity"/>
+                    <a href="img/features/screen-2.jpg" data-source="img/features/screen-2.jpg" title="Daily Working Hours Bars" aria-label="Daily Working Hours Bars">
+                        <img src="img/features/screen-2.jpg" class="img-slide-screenshot modal-hover-opacity" alt=""/>
                     </a>
                 </div>
                 <div>
-                    <a href="img/features/screen-3.jpg" data-source="img/features/screen-3.jpg" title="Staff Management">
-                        <img src="img/features/screen-3.jpg" class="img-slide-screenshot modal-hover-opacity"/>
+                    <a href="img/features/screen-3.jpg" data-source="img/features/screen-3.jpg" title="Staff Management" aria-label="Staff Management">
+                        <img src="img/features/screen-3.jpg" class="img-slide-screenshot modal-hover-opacity" alt=""/>
                     </a>
                 </div>
                 <div>
-                    <a href="img/features/screen-1.jpg" data-source="img/features/screen-1.jpg" title="Daily Working Screen Capture">
-                        <img src="img/features/screen-1.jpg" class="img-slide-screenshot modal-hover-opacity"/>
+                    <a href="img/features/screen-1.jpg" data-source="img/features/screen-1.jpg" title="Daily Working Screen Capture" aria-label="Daily Working Screen Capture">
+                        <img src="img/features/screen-1.jpg" class="img-slide-screenshot modal-hover-opacity" alt=""/>
                     </a>
                 </div>
                 <div>
-                    <a href="img/features/screen-2.jpg" data-source="img/features/screen-2.jpg" title="Daily Working Hours Bars">
-                        <img src="img/features/screen-2.jpg" class="img-slide-screenshot modal-hover-opacity"/>
+                    <a href="img/features/screen-2.jpg" data-source="img/features/screen-2.jpg" title="Daily Working Hours Bars" aria-label="Daily Working Hours Bars">
+                        <img src="img/features/screen-2.jpg" class="img-slide-screenshot modal-hover-opacity" alt=""/>
                     </a>
                 </div>
                 <div>
-                    <a href="img/features/screen-3.jpg" data-source="img/features/screen-3.jpg" title="Staff Management">
-                        <img src="img/features/screen-3.jpg" class="img-slide-screenshot modal-hover-opacity"/>
+                    <a href="img/features/screen-3.jpg" data-source="img/features/screen-3.jpg" title="Staff Management" aria-label="Staff Management">
+                        <img src="img/features/screen-3.jpg" class="img-slide-screenshot modal-hover-opacity" alt=""/>
                     </a>
                 </div>
             </div>
@@ -381,14 +270,6 @@
             </div>
         </div>
     </section>
-    <!-- <section class="youtube-wrapper container">
-        <div class="embed-responsive embed-responsive-16by9">
-            <iframe class="embed-responsive-item" width="811" height="417"
-                src="https://www.youtube.com/embed/Y8kU7CmCvso" frameborder="0"
-                allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
-                allowfullscreen></iframe>
-        </div>
-    </section> -->
     <section class="user-testimony" id="testimony">
         <h1 class="section-title">USER TESTIMONY</h1>
         <div class="container">
@@ -483,13 +364,12 @@
 
     <!-- req online meeting popup -->
     <section>
-         <button class="btn botFixedBtn" id="btnReqOnlineMeeting" type="button" data-toggle="collapse" href="#collapseExample" style="background: #ffcc13;">
+         <button class="btn botFixedBtn" id="btnReqOnlineMeeting" type="button" aria-label="btnReqOnlineMeeting" data-toggle="collapse" href="#collapseExample" style="background: #ffcc13;">
             <i class="fa fa-chevron-up" style="font-size: medium; color: #fff;"></i>
         </button>
         <span class="collapse popUpBottom" id="collapseExample">
             <div class="card card-body" style="border: 3px solid lightgrey;">
                 <div class=" text-center" style="padding: 1em;">
-                    <!-- <div class="btn pull-right">X</div> -->
                     <button type="button" class="close survey-close" data-toggle="collapse" href="#collapseExample" aria-label="Close" style="padding: 6px 12px;">
                         <span aria-hidden="true"><i class="fa fa-chevron-down" style="font-size: medium;"></i></span>
                     </button>
@@ -525,13 +405,6 @@
                         </div>
                         <button type="submit" class="btn btn-primary" id="meet-online-btn">Send</button>
                     </form>
-                    <!-- <p class="card-text">If you're interested in a live demo, or if you have any question at all, click the button below</p>
-                    <div class="">
-                            <a href="/contact-us.php" target="_blank">
-                                <button type="button" class="btn btn-warning survey-pop-btn-promo" id="survey-btn">Setup Online Meeting</button>
-                            </a>
-                        </div>
-                    </div> -->
                 </div>
             </div>
         </span>    
@@ -609,7 +482,7 @@
             image: {
                 verticalFit: true,
                 titleSrc: function(item) {
-                    return item.el.attr('title') + ' &middot; <a class="image-source-link" href="'+item.el.attr('data-source')+'" target="_blank">Full Image</a>';
+                    return item.el.attr('title') + ' &middot; <a class="image-source-link" href="'+item.el.attr('data-source')+'" target="_blank" rel="noopener noreferrer">Full Image</a>';
                 }
             },
             gallery: {

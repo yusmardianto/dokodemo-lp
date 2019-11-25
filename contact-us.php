@@ -18,7 +18,7 @@
 
 <head>
   <meta charset="UTF-8" />
-  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=5.0" />
   <meta http-equiv="X-UA-Compatible" content="ie=edge" />
   <meta name="description" itemprop="description" content="Contact our marketing team to get a free dokodemo trial. We provide free trials, training support, pre-sales consultation, and we are ready to answer any questions you might have regarding our product. ">
   <meta name="keywords" content="dokodemo, dokodemo-kerja, enterprise program, monitoring program, reporting tool, Buy Light Plan, dokodemo email, dokodemo help, dokodemo contact, dokodemo sales, dokodemo marketing, request training, know your employee, startup tool, logique contact person, dokodemo contact person, what is dokodemo, what is remote working">
@@ -96,13 +96,13 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                 Chat us on Whatsapp
             </div>
         </span>
-        <a href="https://api.whatsapp.com/send?phone=62811870321&text=Halo, saya ingin bertanya tentang software Dokodemo-Kerja" target="_blank">
-            <img src="../img/whatsapp.svg" id="fixedbutton"/>
+        <a href="https://api.whatsapp.com/send?phone=62811870321&text=Halo, saya ingin bertanya tentang software Dokodemo-Kerja" aria-label="whatsapp link" target="_blank" rel="noopener noreferrer">
+            <img src="../img/whatsapp.svg" id="fixedbutton" alt="" />
         </a>
 	</section>
 	<!-- req online meeting popup -->
     <section>
-         <button class="btn botFixedBtn" id="btnReqOnlineMeeting" type="button" data-toggle="collapse" href="#collapseExample" style="background: #ffcc13;">
+         <button class="btn botFixedBtn" id="btnReqOnlineMeeting" aria-label="btnReqOnlineMeeting" type="button" data-toggle="collapse" href="#collapseExample" style="background: #ffcc13;">
             <i class="fa fa-chevron-up" style="font-size: medium; color: #fff;"></i>
         </button>
         <span class="collapse popUpBottom" id="collapseExample">
@@ -214,9 +214,9 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 				</div>
 			  </div>
 			  <div class="form-group row ">
-				<label for="inputEmail3" class="col-sm-3 col-form-label">Message</label>
+				<label for="message" class="col-sm-3 col-form-label">Message</label>
 				<div class="col-sm-9">
-				  <textarea class="form-control" name="message" placeholder="Write down your message here, we would love to hear from you..."></textarea>
+				  <textarea class="form-control" id="message" name="message" placeholder="Write down your message here, we would love to hear from you..."></textarea>
 				</div>
 			  </div>
 			  <div class="form-group row mt-top">
@@ -243,13 +243,13 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 					<h5 class="mt-3 mb-3">09.00 - 17.00 (Mon-Fri)</h5>
 					<p>
 						<a href="tel:02122708935">
-								<img src="img/pricing/call.png">
+								<img src="img/pricing/call.png"aria-label="phone link"/>
 						</a>
-							<a href="mailto:info@logique.co.id">
-								<img src="img/pricing/mail.png">
+							<a href="mailto:info@logique.co.id" aria-label="mail link">
+								<img src="img/pricing/mail.png" alt=""/>
 						</a>
-						<a href="https://api.whatsapp.com/send?phone=62811870321" target="_blank">
-								<img src="img/pricing/whatsapp.png">
+						<a href="https://api.whatsapp.com/send?phone=62811870321" aria-label="whatsapp link" alt="" target="_blank" rel="noopener noreferrer">
+								<img src="img/pricing/whatsapp.png" alt=""/>
 						</a>
 					</p>
 					</div>
