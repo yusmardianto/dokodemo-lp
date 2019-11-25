@@ -18,7 +18,7 @@
 
 <head>
 	<meta charset="UTF-8" />
-	<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
+	<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=5.0" />
 	<meta http-equiv="X-UA-Compatible" content="ie=edge" />
 	<meta name="description" itemprop="description" content="Hubungi tim pemasaran kami untuk mendapatkan uji coba dokodemo gratis. Kami menyediakan uji coba gratis, dukungan pelatihan, konsultasi pra-penjualan, dan kami siap menjawab pertanyaan apa pun yang mungkin Anda miliki tentang produk kami.">
     <meta name="keywords" content="dokodemo, dokodemo-kerja, program perusahaan, program pemantauan, alat pelaporan, uji coba gratis, email dokodemo, bantuan dokodemo, kontak dokodemo, penjualan dokodemo, pemasaran dokodemo, pelatihan permintaan, kenali karyawan Anda, alat startup, logique person contact person, kontak dokodemo orang, apa itu dokodemo, apa itu kerja jarak jauh">
@@ -95,13 +95,13 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                 Hubungi kami melalui Whatsapp
             </div>
         </span>
-        <a href="https://api.whatsapp.com/send?phone=62811870321&text=Halo, saya ingin bertanya tentang software Dokodemo-Kerja" target="_blank">
-            <img src="../img/whatsapp.svg" id="fixedbutton"/>
+        <a href="https://api.whatsapp.com/send?phone=62811870321&text=Halo, saya ingin bertanya tentang software Dokodemo-Kerja" aria-label="whatsapp link" target="_blank" rel="noopener noreferrer">
+            <img src="../img/whatsapp.svg" id="fixedbutton" alt="" />
         </a>
 	</section>
 	<!-- req online meeting popup -->
     <section>
-         <button class="btn botFixedBtn" id="btnReqOnlineMeeting" type="button" data-toggle="collapse" href="#collapseExample" style="background: #ffcc13;">
+         <button class="btn botFixedBtn" id="btnReqOnlineMeeting" aria-label="btnReqOnlineMeeting" type="button" data-toggle="collapse" href="#collapseExample" style="background: #ffcc13;">
             <i class="fa fa-chevron-up" style="font-size: medium; color: #fff;"></i>
         </button>
         <span class="collapse popUpBottom" id="collapseExample">
@@ -213,9 +213,9 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 						</div>
 					</div>
 					<div class="form-group row ">
-						<label for="inputEmail3" class="col-sm-3 col-form-label">Pesan</label>
+						<label for="message" class="col-sm-3 col-form-label">Pesan</label>
 						<div class="col-sm-9">
-							<textarea class="form-control" name="message" placeholder="Tuliskan pesanmu disini..."></textarea>
+							<textarea class="form-control" id="message" name="message" placeholder="Tuliskan pesanmu disini..."></textarea>
 						</div>
 					</div>
 					<div class="form-group row mt-top">
@@ -242,14 +242,14 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 					<h4>Untuk respon langsung, hubungi kami pada jam kantor:</h4>
 					<h5 class="mt-3 mb-3">09.00 - 17.00 (Senin - Jumat)</h5>
 					<p>
-						<a href="tel:02122708935">
-                            <img src="../img/pricing/call.png">
+						<a href="tel:02122708935" aria-label="phone link">
+                            <img src="../img/pricing/call.png" alt="" />
 												</a>
-												 <a href="mailto:info@logique.co.id">
-                            <img src="../img/pricing/mail.png">
+												 <a href="mailto:info@logique.co.id" aria-label="mail link">
+                            <img src="../img/pricing/mail.png" alt="" />
 												</a>
-												<a href="https://api.whatsapp.com/send?phone=62811870321" target="_blank">
-                            <img src="../img/pricing/whatsapp.png">
+												<a href="https://api.whatsapp.com/send?phone=62811870321" aria-label="whatsapp link" target="_blank" rel="noopener noreferrer">
+                            <img src="../img/pricing/whatsapp.png" alt="" />
                         </a>
 					</p>
 					</div>

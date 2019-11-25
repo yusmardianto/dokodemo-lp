@@ -4,7 +4,7 @@
             <div class="col-lg-3 col-sm-12 footer-logo-container">
                 <img src="../img/logo-shadow.png" class="img-fluid" alt="" />
                 <p>
-                    <a href="https://www.logique.co.id/" target="_blank">
+                    <a href="https://www.logique.co.id/" target="_blank" aria-label="homepage link" rel="noopener noreferrer">
                         <img src="../img/logo_logique.png" class="img-fluid logique-logo" alt="" />
                     </a>
                 </p>
@@ -17,7 +17,7 @@
                         <li><a href="features.php">Features</a></li>
                         <li><a href="pricing.php">Pricing</a></li>
                         <li><a href="trial.php">Trial</a></li>
-                        <li><a href="https://www.logique.co.id/blog/category/dokodemo-kerja/" target="_blank">Blog</a></li>
+                        <li><a href="https://www.logique.co.id/blog/category/dokodemo-kerja/" target="_blank" rel="noopener noreferrer">Blog</a></li>
                     </ul>
                 </div>
             </div>
@@ -54,7 +54,7 @@
                         </li>
                         <li>
                             <span class="footer-contact-item">
-                                <a href="https://api.whatsapp.com/send?phone=62811870321" target="_blank">
+                                <a href="https://api.whatsapp.com/send?phone=62811870321" target="_blank" rel="noopener noreferrer">
                                     <img src="../img/whatsapp.png" class="footer-icon" alt="">
                                     <span>0811-870-321</span>
                                 </a>

@@ -3,7 +3,7 @@
 
 <head>
     <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=5.0" />
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
 	<meta name="description" itemprop="description" content="Dokodemo-Kerja dibangun oleh PT Logique Digital Indonesia untuk menghasilkan laporan produktivitas secara akurat. Tujuan dari program ini adalah untuk mempromosikan budaya kerja yang sehat dan produktif yang ditujukan untuk kota berpenduduk padat.">
     <meta name="keywords" content="Perangkat lunak yang berfungsi jarak jauh, alat kerja jarak jauh, sistem kerja jarak jauh, penerapan kerja jarak jauh, enabler kerja jarak jauh, memungkinkan budaya kerja jarak jauh, budaya kerja jarak jauh, bekerja sambil bepergian, logique, pt logique, logique digital indonesia, pelacakan waktu, pelacak waktu, pelacak jam kerja, pelacakan jam kerja, perangkat lunak enterprise, perangkat lunak screenshot enterprise">
@@ -64,7 +64,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 <!-- End Google Tag Manager (noscript) -->
     <?php include "header.php" ?>
     <section class="top-content">
-        <img src="/img/about/bg.jpg" class="img-bg" />
+        <img src="/img/about/bg.jpg" class="img-bg" alt="" />
         <div class="container">
             <div class="row align-items-end">
                 <div class="col-lg-6 about-us-left">
@@ -74,7 +74,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                         Nama Dokodemo-Kerja berasal dari 2 bahasa: "Dokodemo": di mana saja (Jepang) dan "Kerja" (Bahasa Indonesia), yang diterjemahkan menjadi "Kerja-Dimana saja". Ini berarti bahwa dengan program ini, Anda atau karyawan Anda tidak perlu ditahan di sebuah bilik atau kantor setiap saat.</p>
                     <p class="about-us-contact">
                         Kami menggunakan program ini di perusahaan kami, dan jika Anda ingin bertanya-tanya bagaimana cara kerjanya di keseharian kantor, langsung saja <a href="/ind/contact-us.php">Hubungi Kami</a>. </p>
-                    <img src="/img/about/dokodemo-about.png" class="img-dokodemo-about" />
+                    <img src="/img/about/dokodemo-about.png" class="img-dokodemo-about" alt="" />
                 </div>
                 <div class="col-lg-6 about-us-right">
                     <h1>MENGAPA?</h1>
@@ -93,8 +93,8 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                 Hubungi kami melalui Whatsapp
             </div>
         </span>
-        <a href="https://api.whatsapp.com/send?phone=62811870321&text=Halo, saya ingin bertanya tentang software Dokodemo-Kerja" target="_blank">
-            <img src="../img/whatsapp.svg" id="fixedbutton"/>
+        <a href="https://api.whatsapp.com/send?phone=62811870321&text=Halo, saya ingin bertanya tentang software Dokodemo-Kerja" target="_blank" rel="noopener noreferrer" aria-label="whatsapp link">
+            <img src="../img/whatsapp.svg" id="fixedbutton" alt=""/>
         </a>
     </section>
     <section id="benefits" class="benefits-features">
@@ -103,37 +103,37 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
             <div class="row">
                 <div class="col-md-4 features feature-1">
                     <div class="feature-img-wrapper">
-                        <img src="/img/home/clock.png" class="pr-3" />
+                        <img src="/img/home/clock.png" class="pr-3" alt=""/>
                     </div>
                     <p>Melacak waktu kerja dengan bukti asli</p>
                 </div>
                 <div class="col-md-4 features feature-2">
                     <div class="feature-img-wrapper">
-                        <img src="/img/home/coffee.png" class="pl-3" />
+                        <img src="/img/home/coffee.png" class="pl-3" alt=""/>
                     </div>
                     <p>Implementasi peraturan kerja yang flexibel</p>
                 </div>
                 <div class="col-md-4 features feature-3">
                     <div class="feature-img-wrapper">
-                        <img src="/img/home/corkboard.png" />
+                        <img src="/img/home/corkboard.png" alt=""/>
                     </div>
                     <p>Monitor apa yang sedang dikerjakan para Karyawan</p>
                 </div>
                 <div class="col-md-4 features feature-4">
                     <div class="feature-img-wrapper">
-                        <img src="/img/home/chart.png" class="pr-3" />
+                        <img src="/img/home/chart.png" class="pr-3" alt=""/>
                     </div>
                     <p>Analisa waktu kerja berdasarkan staff, department, atau project</p>
                 </div>
                 <div class="col-md-4 features feature-5">
                     <div class="feature-img-wrapper">
-                        <img src="/img/home/notepad.png" class="pl-3" />
+                        <img src="/img/home/notepad.png" class="pl-3" alt=""/>
                     </div>
                     <p>Anda bisa mengubah waktu, membuat catatan, atau notifikasi</p>
                 </div>
                 <div class="col-md-4 features feature-6">
                     <div class="feature-img-wrapper">
-                        <img src="/img/home/work.png" />
+                        <img src="/img/home/work.png" alt=""/>
                     </div>
                     <p>Sistem Management yang mudah untuk kerja Overtime</p>
                 </div>
@@ -208,7 +208,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
     </section>
     <!-- req online meeting popup -->
     <section>
-         <button class="btn botFixedBtn" id="btnReqOnlineMeeting" type="button" data-toggle="collapse" href="#collapseExample" style="background: #ffcc13;">
+         <button class="btn botFixedBtn" id="btnReqOnlineMeeting" aria-label="btnReqOnlineMeeting" type="button" data-toggle="collapse" href="#collapseExample" style="background: #ffcc13;">
             <i class="fa fa-chevron-up" style="font-size: medium; color: #fff;"></i>
         </button>
         <span class="collapse popUpBottom" id="collapseExample">
@@ -269,8 +269,8 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
         <div class="container p-md-0 position-relative mt-3">
             <div class="row no-gutters ">
                 <div class="col-md-6 ">
-                    <img src="/img/home/bg-feature-1.png" class="img-fluid" />
-                    <img src="/img/home/dokodemo-user.png" class="dokodemo-user-float" />
+                    <img src="/img/home/bg-feature-1.png" class="img-fluid" alt=""/>
+                    <img src="/img/home/dokodemo-user.png" class="dokodemo-user-float" alt=""/>
                 </div>
                 <div class="col-md-6 d-flex align-items-center">
                     <div class="benefit-content right">
@@ -293,12 +293,12 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 
                 </div>
                 <div class="col-md-6 order-1 order-md-2">
-                    <img src="/img/home/work-anywhere.png" class="img-fluid" />
+                    <img src="/img/home/work-anywhere.png" class="img-fluid" alt=""/>
                 </div>
             </div>
             <div class="row no-gutters">
                 <div class="col-md-6">
-                    <img src="/img/home/work-efficiency.png" class="img-fluid" />
+                    <img src="/img/home/work-efficiency.png" class="img-fluid" alt=""/>
                 </div>
                 <div class="col-md-6 d-flex align-items-center">
                     <div class="benefit-content right">

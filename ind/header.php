@@ -10,7 +10,7 @@
 
 <nav class="navbar navbar-expand-lg navbar-light">
     <div class="container">
-        <a class="navbar-brand" href="/ind/">
+        <a class="navbar-brand" href="/ind/" aria-label="homepage ind link">
             <img src="/img/logo.png" width="85" height="85" alt="">
         </a>
         <button id="btn-nav" class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
@@ -34,7 +34,7 @@
                     <a class="nav-link" href="/ind/trial.php">Trial</a>
                 </li>
                 <li class="nav-item">
-                    <a class="nav-link" target="_blank"
+                    <a class="nav-link" target="_blank" rel="noopener noreferrer"
                         href="https://www.logique.co.id/blog/category/dokodemo-kerja/">Blog</a>
                 </li>
                 <li class="nav-item <?php active('contact-us.php') ?>">

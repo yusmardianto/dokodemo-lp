@@ -3,7 +3,7 @@
 
 <head>
     <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=5.0" />
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
 	<meta name="description" itemprop="description" content="Dokodemo-Kerja adalah program yang memantau produktivitas karyawan Anda dengan menangkap layar desktop secara acak setiap sepuluh atau tiga menit. Tingkatkan produktivitas Anda dengan Dokodemo-Kerja.">
     <meta name="keywords" content="dokodemo, dokodemo-kerja, dokodemo kerja, bekerja di mana-mana, bekerja kapan saja, bekerja di mana saja, alat manajemen proyek, perangkat lunak manajemen proyek, perangkat sumber daya manusia, perangkat lunak sumber daya manusia, perangkat lunak pemantauan, alat pemantauan, desktop monitor, monitor dengan privasi, pemantauan res rendah , pemantauan resolusi rendah, pelacak waktu, produk logique, pt logique">
@@ -77,7 +77,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
             <div class="row justify-content-center">
                 <div class="col-md-4">
                     <div class="advantages-item">
-                        <img src="/img/home/done.png" class="pr-2 header-icon-verified" />
+                        <img src="/img/home/done.png" class="pr-2 header-icon-verified" alt="" />
                         <div>
                             <span class="header-feature">Harga Murah</span>
                             <br />
@@ -86,7 +86,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                 </div>
                 <div class="col-md-4">
                     <div class="advantages-item">
-                        <img src="/img/home/done.png" class="pr-2 header-icon-verified" />
+                        <img src="/img/home/done.png" class="pr-2 header-icon-verified" alt="" />
                         <div>
                         <span class="header-feature">Tidak Ada</span>
                         <br />
@@ -96,7 +96,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                 </div>
                 <div class="col-md-4">
                     <div class="advantages-item">
-                        <img src="/img/home/done.png" class="pr-2 header-icon-verified" />
+                        <img src="/img/home/done.png" class="pr-2 header-icon-verified" alt="" />
                         <div>
                             <span class="header-feature">Mudah Dipasang</span>
                             <br />
@@ -113,7 +113,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                 </div>
             </div>
             <div class="bottom-arrow-wrapper">
-                <a href="#benefits" class="smooth"><img src="/img/home/down.png" /></a>
+                <a href="#benefits" class="smooth" aria-label="smooth link"><img src="/img/home/down.png" alt="" /></a>
             </div>
         </div>
     </section>
@@ -123,13 +123,13 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                 Hubungi kami melalui Whatsapp
             </div>
         </span>
-        <a href="https://api.whatsapp.com/send?phone=62811870321&text=Halo, saya ingin bertanya tentang software Dokodemo-Kerja" target="_blank">
-            <img src="../img/whatsapp.svg" id="fixedbutton"/>
+        <a href="https://api.whatsapp.com/send?phone=62811870321&text=Halo, saya ingin bertanya tentang software Dokodemo-Kerja" aria-label="whatsapp link" target="_blank" rel="noopener noreferrer">
+            <img src="../img/whatsapp.svg" id="fixedbutton" alt="" />
         </a>
     </section>
     <!-- req online meeting popup -->
     <section>
-         <button class="btn botFixedBtn" id="btnReqOnlineMeeting" type="button" data-toggle="collapse" href="#collapseExample" style="background: #ffcc13;">
+         <button class="btn botFixedBtn" aria-label="btnReqOnlineMeeting" id="btnReqOnlineMeeting" type="button" data-toggle="collapse" href="#collapseExample" style="background: #ffcc13;">
             <i class="fa fa-chevron-up" style="font-size: medium; color: #fff;"></i>
         </button>
         <span class="collapse popUpBottom" id="collapseExample">
@@ -177,105 +177,6 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
         </span>    
     </section>
     <!-- end of req online meeting popup -->
-    <!-- <section id="benefits" class="benefits-features">
-        <h1 class="section-title pb-4">FITUR DAN KEUNTUNGAN</h1>
-        <div class="container pt-4">
-            <div class="row">
-                <div class="col-md-4 features feature-1">
-                    <div class="feature-img-wrapper">
-                        <img src="/img/home/clock.png" class="pr-3" />
-                    </div>
-                    <p>Melacak waktu kerja dengan bukti asli</p>
-                </div>
-                <div class="col-md-4 features feature-2">
-                    <div class="feature-img-wrapper">
-                        <img src="/img/home/coffee.png" class="pl-3" />
-                    </div>
-                    <p>Implementasi peraturan kerja yang flexibel</p>
-                </div>
-                <div class="col-md-4 features feature-3">
-                    <div class="feature-img-wrapper">
-                        <img src="/img/home/corkboard.png" />
-                    </div>
-                    <p>Monitor apa yang sedang dikerjakan para Karyawan</p>
-                </div>
-                <div class="col-md-4 features feature-4">
-                    <div class="feature-img-wrapper">
-                        <img src="/img/home/chart.png" class="pr-3" />
-                    </div>
-                    <p>Analisa waktu kerja berdasarkan staff, department, atau project</p>
-                </div>
-                <div class="col-md-4 features feature-5">
-                    <div class="feature-img-wrapper">
-                        <img src="/img/home/notepad.png" class="pl-3" />
-                    </div>
-                    <p>Anda bisa mengubah waktu, membuat catatan, atau notifikasi</p>
-                </div>
-                <div class="col-md-4 features feature-6">
-                    <div class="feature-img-wrapper">
-                        <img src="/img/home/work.png" />
-                    </div>
-                    <p>Sistem Management yang mudah untuk kerja Overtime</p>
-                </div>
-            </div>
-            <a href="features.php" class="btn-learn-more" id="btn-learn-more-id">Lihat Lebih</a>
-        </div>
-        <div class="container p-md-0 position-relative">
-            <div class="row no-gutters ">
-                <div class="col-md-6 ">
-                    <img src="/img/home/bg-feature-1.png" class="img-fluid" />
-                    <img src="/img/home/dokodemo-user.png" class="dokodemo-user-float" />
-                </div>
-                <div class="col-md-6 d-flex align-items-center">
-                    <div class="benefit-content right">
-                        <p class="benefit-title">Bekerja Dimanapun, Kapanpun</p>
-                        <hr class="blue-separator">
-                        <p class="benefit-desc">Apakah Anda benar-benar membutuhkan pertemuan tatap muka di kantor setiap hari? Bisakah atasan Anda menjelaskan secara logis mengapa Anda harus bekerja di kantor mulai jam 8 pagi sampai jam 5 sore?</p>
-                    </div>
-
-                </div>
-            </div>
-        </div>
-        <div class="container">
-            <div class="row no-gutters">
-                <div class="col-md-6 order-2 order-md-1 d-flex align-items-center">
-                    <div class="benefit-content">
-                        <p class="benefit-title">Memaksimalkan Produktivitas Karyawan</p>
-                        <hr class="blue-separator">
-                        <p class="benefit-desc">Bekerja dengan nyaman, fleksibel, dan efektif untuk meningkatkan hasil kerja. Hindari kemacetan lalu lintas dan semua upaya yang menyusahkan untuk pergi ke kantor</p>
-                    </div>
-
-                </div>
-                <div class="col-md-6 order-1 order-md-2">
-                    <img src="/img/home/work-anywhere.png" class="img-fluid" />
-                </div>
-            </div>
-            <div class="row no-gutters">
-                <div class="col-md-6">
-                    <img src="/img/home/work-efficiency.png" class="img-fluid" />
-                </div>
-                <div class="col-md-6 d-flex align-items-center">
-                    <div class="benefit-content right">
-                        <p class="benefit-title">Meningkatkan Efisiensi Kerja</p>
-                        <hr class="blue-separator">
-                        <p class="benefit-desc">Dengan memiliki catatan akurat tentang berapa lama yang dibutuhkan untuk menyelesaikan sebuah tugas, setiap orang dapat mengevaluasi diri untuk melakukan yang lebih baik.</p>
-                    </div>
-
-                </div>
-
-            </div>
-        </div>
-    </section> -->
-    <!-- <section class="dokodemo-desc">
-        <h1 class="section-title">APA ITU DOKODEMO KERJA?</h1>
-        <p>Dokodemo-Kerja adalah alat Sumber Daya Manusia yang dapat digunakan untuk mengelola jam kerja dan memantau karyawan Anda. Perusahaan Anda sekarang dapat menerapkan sistem kerja jarak jauh kapan saja dan di mana saja.</p>
-        <a href="features.php" class="btn-more-features" id="btn-more-features-id">Lihat Fitur</a>
-    </section>
-    <section class="youtube-wrapper container">
-        <div class="embed-responsive embed-responsive-16by9">
-            <iframe class="embed-responsive-item" width="811" height="417" src="https://www.youtube.com/embed/Y8kU7CmCvso" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-        </div>
-    </section> -->
     <section class="feature-content mt-5">
         <div class="container">
             <div class="row">
@@ -287,7 +188,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
             <div class="row mt-3">
                 <div class="col-md-6">
                      <div class="embed-responsive embed-responsive-16by9 feature-video">
-                        <iframe class="embed-responsive-item" width="811" height="417"
+                        <iframe class="embed-responsive-item" width="811" height="417" title="dokodemo youtube video"
                             src="https://www.youtube.com/embed/Y8kU7CmCvso" frameborder="0"
                             allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
                             allowfullscreen></iframe>
@@ -311,33 +212,33 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
         <div class="container-fluid">
             <div class="screenshot-slide zoom-gallery">
                 <div>
-                    <a href="../img/features/screen-1.jpg" data-source="../img/features/screen-1.jpg" title="Daily Working Screen Capture">
-                        <img src="../img/features/screen-1.jpg" class="img-slide-screenshot modal-hover-opacity"/>
+                    <a href="../img/features/screen-1.jpg" data-source="../img/features/screen-1.jpg" title="Daily Working Screen Capture" aria-label="Daily Working Screen Capture">
+                        <img src="../img/features/screen-1.jpg" class="img-slide-screenshot modal-hover-opacity" alt="" />
                     </a>
                 </div>
                 <div>
-                    <a href="../img/features/screen-2.jpg" data-source="../img/features/screen-2.jpg" title="Daily Working Hours Bars">
-                        <img src="../img/features/screen-2.jpg" class="img-slide-screenshot modal-hover-opacity"/>
+                    <a href="../img/features/screen-2.jpg" data-source="../img/features/screen-2.jpg" title="Daily Working Hours Bars" aria-label="Daily Working Hours Bars">
+                        <img src="../img/features/screen-2.jpg" class="img-slide-screenshot modal-hover-opacity" alt=""/>
                     </a>
                 </div>
                 <div>
-                    <a href="../img/features/screen-3.jpg" data-source="../img/features/screen-3.jpg" title="Staff Management">
-                        <img src="../img/features/screen-3.jpg" class="img-slide-screenshot modal-hover-opacity"/>
+                    <a href="../img/features/screen-3.jpg" data-source="../img/features/screen-3.jpg" title="Staff Management" aria-label="Staff Management">
+                        <img src="../img/features/screen-3.jpg" class="img-slide-screenshot modal-hover-opacity" alt=""/>
                     </a>
                 </div>
                 <div>
-                    <a href="../img/features/screen-1.jpg" data-source="../img/features/screen-1.jpg" title="Daily Working Screen Capture">
-                        <img src="../img/features/screen-1.jpg" class="img-slide-screenshot modal-hover-opacity"/>
+                    <a href="../img/features/screen-1.jpg" data-source="../img/features/screen-1.jpg" title="Daily Working Screen Capture" aria-label="Daily Working Screen Capture">
+                        <img src="../img/features/screen-1.jpg" class="img-slide-screenshot modal-hover-opacity" alt=""/>
                     </a>
                 </div>
                 <div>
-                    <a href="../img/features/screen-2.jpg" data-source="../img/features/screen-2.jpg" title="Daily Working Hours Bars">
-                        <img src="../img/features/screen-2.jpg" class="img-slide-screenshot modal-hover-opacity"/>
+                    <a href="../img/features/screen-2.jpg" data-source="../img/features/screen-2.jpg" title="Daily Working Hours Bars" aria-label="Daily Working Hours Bars">
+                        <img src="../img/features/screen-2.jpg" class="img-slide-screenshot modal-hover-opacity" alt=""/>
                     </a>
                 </div>
                 <div>
-                    <a href="../img/features/screen-3.jpg" data-source="../img/features/screen-3.jpg" title="Staff Management">
-                        <img src="../img/features/screen-3.jpg" class="img-slide-screenshot modal-hover-opacity"/>
+                    <a href="../img/features/screen-3.jpg" data-source="../img/features/screen-3.jpg" title="Staff Management" aria-label="Staff Management">
+                        <img src="../img/features/screen-3.jpg" class="img-slide-screenshot modal-hover-opacity" alt=""/>
                     </a>
                 </div>
             </div>
@@ -499,7 +400,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
             image: {
                 verticalFit: true,
                 titleSrc: function(item) {
-                    return item.el.attr('title') + ' &middot; <a class="image-source-link" href="'+item.el.attr('data-source')+'" target="_blank">image source</a>';
+                    return item.el.attr('title') + ' &middot; <a class="image-source-link" href="'+item.el.attr('data-source')+'" target="_blank" rel="noopener noreferrer">image source</a>';
                 }
             },
             gallery: {

@@ -3,7 +3,7 @@
 
 <head>
     <meta charset="UTF-8">
-   <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
+   <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=5.0" />
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
 	<meta name="description" itemprop="description" content="Dokodemo adalah solusi murah untuk menghemat uang Anda. Tentukan siapa siapa yang pantas dibayar lebih tinggi, siapa yang berhak atas bonus, dan siapa yang benar-benar pantas mendapatkan promosi. Gunakan dokodemo-kerja dan rasakan perbedaannya.">
     <meta name="keywords" content="platform manajer pengguna yang murah, perangkat lunak manajemen orang murah, perangkat lunak manajemen orang, dokodemo, dokodemo-kerja, perangkat lunak perusahaan, perangkat lunak perusahaan murah, alat manajemen orang yang efektif, alat manajemen murah">
@@ -137,13 +137,13 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                 Chat us on Whatsapp
             </div>
         </span>
-        <a href="https://api.whatsapp.com/send?phone=62811870321&text=Halo, saya ingin bertanya tentang software Dokodemo-Kerja" target="_blank">
-            <img src="../img/whatsapp.svg" id="fixedbutton"/>
+        <a href="https://api.whatsapp.com/send?phone=62811870321&text=Halo, saya ingin bertanya tentang software Dokodemo-Kerja" target="_blank" rel="noopener noreferrer" aria-label="whatsapp link">
+            <img src="../img/whatsapp.svg" id="fixedbutton" alt="" />
         </a>
     </section>
     <!-- req online meeting popup -->
     <section>
-        <button class="btn botFixedBtn" id="btnReqOnlineMeeting" type="button" data-toggle="collapse" href="#collapseExample" style="background: #ffcc13;">
+        <button class="btn botFixedBtn" id="btnReqOnlineMeeting" aria-label="btnReqOnlineMeeting" type="button" data-toggle="collapse" href="#collapseExample" style="background: #ffcc13;">
             <i class="fa fa-chevron-up" style="font-size: medium; color: #fff;"></i>
         </button>
         <span class="collapse popUpBottom" id="collapseExample">
@@ -209,9 +209,9 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                     <div>
                         <p class="position-relative price-ent-contact-text">Hubungi Kami untuk Fitur Custom</p>
                         <div class="plan-contact-us price-ent-contact-icon">
-                            <a href="tel:02122708935"><img src="../img/pricing/call.png" id="call"/></a>
-                            <a href="mailto:sales@dokodemo-kerja.com"><img src="../img/pricing/mail.png" id="mail" /></a>
-                            <a href="https://api.whatsapp.com/send?phone=62811870321&text=Hello, I want to know more about Enterprise Plan of Dokodemo-Kerja." target="_blank"><img src="../img/pricing/whatsapp.png" id="whatsapp" /></a>
+                            <a href="tel:02122708935" aria-label="phone link"><img src="../img/pricing/call.png" id="call" alt="" /></a>
+                            <a href="mailto:sales@dokodemo-kerja.com" aria-label="mail link"><img src="../img/pricing/mail.png" alt="" id="mail" /></a>
+                            <a aria-label="whatsapp link" href="https://api.whatsapp.com/send?phone=62811870321&text=Hello, I want to know more about Enterprise Plan of Dokodemo-Kerja." target="_blank" rel="noopener noreferrer"><img src="../img/pricing/whatsapp.png" alt="" id="whatsapp" /></a>
                         </div>
                         <div class="row mb-3">
                             <div class="col-md-12">
