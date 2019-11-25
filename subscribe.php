@@ -174,7 +174,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                         Terms of Payment: The fee closes at the end of the month, and should be paid by the end of the following month.
                       </li>
                       <li>
-                        If Dokodemo-Kerja is used for less than 10 days within the span of a month, the user wont be counted as chargeable.
+                        If Dokodemo-Kerja is used for less than 10 days within the span of a month, the user wont be charged.
                       </li>
                     </ol>
                 </div>

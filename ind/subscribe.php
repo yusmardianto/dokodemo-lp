@@ -146,10 +146,10 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                 <div class="col-md-12 benefits-item">
                     <h2>2. Persetujuan & Konsultasi</h2>
                     <p>
-                      Kami akan mendiskusikan dan meninjau kebutuhan Anda pada fase Persetujuan & Konsultasi. The Agreement includes transitioning procedure, installation process, custom features, etc.
+                      Kami akan mendiskusikan dan meninjau kebutuhan Anda pada fase Persetujuan & Konsultasi. Persetujuan meliputi; proses transisi, proses instalasi, fitur custom, dll.
                     </p>
                     <p>
-                      If you wish to revise the initial agreement before a Purchase Order is issued, then feel free to do so. 
+                      Anda dibebaskan untuk merevisi persetujuan awal sebelum Purchase Order diterbitkan. 
                     </p>
                 </div>
                 <div class="col-md-12 benefits-item">
