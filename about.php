@@ -9,7 +9,7 @@
     <meta name="keywords" content="Remote working software, remote working tool, remote working system, implementing remote working, remote working enabler, enabling remote working culture, remote culture, work on the road, logique, pt logique, logique digital indonesia, time tracking, time tracker, work hour tracker, work hour tracking, screenshot software enterprise">
     <meta name="author" content="PT. Logique Digital Indonesia">
 	<meta name="google-site-verification" content="Xc9SFJQZdKYLsrWvrxEjLLTA-nyrnNPQTXQoMxs4gKI" />
-    <meta property="og:title" content="About: About Dokodemo-Kerja | Remote Work Management Tool | HR Cloud System">
+    <meta property="og:title" content="About Dokodemo-Kerja | Cloud System for HR">
     <meta property="og:type" content="website">
     <meta property="og:site_name" content="Dokodemo-Kerja">
     <meta property="og:url" content="https://dokodemo-kerja.com">
@@ -22,7 +22,7 @@
     <link rel="stylesheet" href="css/header-footer.css" />
     <link rel="stylesheet" href="css/style-about.css" />
 	<link rel="shortcut icon" type="image/x-icon" href="favicon.ico">
-    <title>About: About Dokodemo-Kerja | Remote Work Management Tool | HR Cloud System</title>
+    <title>About Dokodemo-Kerja | Cloud System for HR</title>
 	<!-- Google Tag Manager -->
 	<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
 	new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],

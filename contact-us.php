@@ -24,7 +24,7 @@
   <meta name="keywords" content="dokodemo, dokodemo-kerja, enterprise program, monitoring program, reporting tool, Buy Light Plan, dokodemo email, dokodemo help, dokodemo contact, dokodemo sales, dokodemo marketing, request training, know your employee, startup tool, logique contact person, dokodemo contact person, what is dokodemo, what is remote working">
   <meta name="author" content="PT. Logique Digital Indonesia">
   <meta name="google-site-verification" content="Xc9SFJQZdKYLsrWvrxEjLLTA-nyrnNPQTXQoMxs4gKI" />
-	<meta property="og:title" content="Contact us: Inquire Dokodemo-Kerja | Maximize Productivity by Dokodemo-Kerja">
+	<meta property="og:title" content="Contact Dokodemo-Kerja | Maximize Productivity in a Month">
     <meta property="og:type" content="website">
     <meta property="og:site_name" content="Dokodemo-Kerja">
     <meta property="og:url" content="https://dokodemo-kerja.com">
@@ -37,7 +37,7 @@
   <link rel="stylesheet" href="css/header-footer.css" />
   <link rel="stylesheet" href="css/style.css" />
   <link rel="shortcut icon" type="image/x-icon" href="favicon.ico">
-  <title>Contact us: Inquire Dokodemo-Kerja | Maximize Productivity by Dokodemo-Kerja</title>
+  <title>Contact Dokodemo-Kerja | Maximize Productivity in a Month</title>
 	<!-- Google Tag Manager -->
 	<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
 	new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],

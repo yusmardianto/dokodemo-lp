@@ -9,7 +9,7 @@
     <meta name="keywords" content="cheap user manager platform, cheap people management software, people management software, dokodemo, dokodemo-kerja, enterprise software, cheap enterprise software, effective people management tool, management tool cheap">
     <meta name="author" content="PT. Logique Digital Indonesia">
 	<meta name="google-site-verification" content="Xc9SFJQZdKYLsrWvrxEjLLTA-nyrnNPQTXQoMxs4gKI" />
-    <meta property="og:title" content="Price: Price of Dokodemo-Kerja | Time Tracking Tool | Employees' Screen Monitoring">
+    <meta property="og:title" content="Price of Dokodemo-Kerja | Employees' Screen Monitoring Tool">
     <meta property="og:type" content="website">
     <meta property="og:site_name" content="Dokodemo-Kerja">
     <meta property="og:url" content="https://dokodemo-kerja.com">
@@ -22,7 +22,7 @@
     <link rel="stylesheet" href="css/header-footer.css" />
     <link rel="stylesheet" href="css/style-pricing.css" />
 	<link rel="shortcut icon" type="image/x-icon" href="favicon.ico">
-    <title>Price: Price of Dokodemo-Kerja | Time Tracking Tool | Employees' Screen Monitoring</title>
+    <title>Price of Dokodemo-Kerja | Employees' Screen Monitoring Tool</title>
 	<!-- Google Tag Manager -->
 	<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
 	new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],

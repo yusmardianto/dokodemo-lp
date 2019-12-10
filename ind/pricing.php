@@ -5,16 +5,16 @@
     <meta charset="UTF-8">
    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=5.0" />
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
-	<meta name="description" itemprop="description" content="Dokodemo adalah solusi murah untuk menghemat uang Anda. Tentukan siapa siapa yang pantas dibayar lebih tinggi, siapa yang berhak atas bonus, dan siapa yang benar-benar pantas mendapatkan promosi. Gunakan dokodemo-kerja dan rasakan perbedaannya.">
+	<meta name="description" itemprop="description" content="Dokodemo adalah solusi murah untuk menghemat uang Anda. Tentukan siapa saja yang pantas dibayar lebih tinggi, siapa yang berhak atas bonus, dan siapa yang benar-benar pantas mendapatkan promosi. Gunakan dokodemo-kerja dan rasakan perbedaannya.">
     <meta name="keywords" content="platform manajer pengguna yang murah, perangkat lunak manajemen orang murah, perangkat lunak manajemen orang, dokodemo, dokodemo-kerja, perangkat lunak perusahaan, perangkat lunak perusahaan murah, alat manajemen orang yang efektif, alat manajemen murah">
     <meta name="author" content="PT. Logique Digital Indonesia">
 	<meta name="google-site-verification" content="Xc9SFJQZdKYLsrWvrxEjLLTA-nyrnNPQTXQoMxs4gKI" />
-    <meta property="og:title" content="Price: Harga Dokodemo-Kerja | Alat Pelacak Waktu Kerja | Monitor Layar Karyawan">
+    <meta property="og:title" content="Harga Dokodemo-Kerja | Monitor Kinerja mulai dari 1 juta">
     <meta property="og:type" content="website">
     <meta property="og:site_name" content="Dokodemo-Kerja">
     <meta property="og:url" content="https://dokodemo-kerja.com">
     <meta property="og:image" content="/img/dokodemo-og.jpg">
-    <meta property="og:description" content="Dokodemo-Kerja merupakan software atau desktop app dari LOGIQUE bagi karyawan yang kerja remote atau di luar kantor. Aplikasi ini mampu merekam dan kalkulasi jam kerja karyawan secara akurat, dilengkapi fitur screencapture otomatis. Dengan begitu, karyawan Anda menjadi lebih produktif.">
+    <meta property="og:description" content="Dokodemo adalah solusi murah untuk menghemat uang Anda. Tentukan siapa saja yang pantas dibayar lebih tinggi, siapa yang berhak atas bonus, dan siapa yang benar-benar pantas mendapatkan promosi. Gunakan dokodemo-kerja dan rasakan perbedaannya.">
     <link rel="stylesheet" href="/css/bootstrap.min.css" />
     <link href="/fonts/font-awesome/css/font-awesome.min.css" rel="stylesheet">
     <link rel="stylesheet" href="/css/slick.css" />
@@ -22,7 +22,7 @@
     <link rel="stylesheet" href="/css/header-footer.css" />
     <link rel="stylesheet" href="/css/style-pricing.css" />
     <link rel="shortcut icon" type="image/x-icon" href="favicon.ico">
-    <title>Price: Harga Dokodemo-Kerja | Alat Pelacak Waktu Kerja | Monitor Layar Karyawan</title>
+    <title>Harga Dokodemo-Kerja | Monitor Kinerja mulai dari 1 juta</title>
 	<!-- Google Tag Manager -->
 	<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
 	new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
