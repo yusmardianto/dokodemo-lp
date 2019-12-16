@@ -383,7 +383,7 @@
                         </div>
                         <div class="form-group" style="text-align:left;">
                             <label for="clientEmail">Email</label>
-                            <input type="email" class="form-control" name="clientEmail" id="clientEmail" placeholder="Enter your email">
+                            <input type="email" class="form-control" name="clientEmail" required id="clientEmail" placeholder="Enter your email">
                         </div>
                         <div class="form-group" style="text-align:left;">
                             <label for="clientDate">Date</label>

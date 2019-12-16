@@ -148,7 +148,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                             </div>
                             <div class="form-group" style="text-align:left;">
                                 <label for="clientEmail">Email</label>
-                                <input type="email" class="form-control" name="clientEmail" id="clientEmail" placeholder="Masukan email anda">
+                                <input type="email" class="form-control" name="clientEmail" required id="clientEmail" placeholder="Masukan email anda">
                             </div>
                             <div class="form-group" style="text-align:left;">
                                 <label for="clientDate">Date</label>
