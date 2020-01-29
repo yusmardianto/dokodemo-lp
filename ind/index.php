@@ -333,7 +333,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
         <div class="container">
             <div class="newscontainer">
                 <div class="row justify-content-md-center">
-                    <div class="col-sm-10">
+                    <div class="col-sm-8">
                         <h2>Kabar <strong>Terbaru</strong></h2>
                     </div>
                 </div>
@@ -389,7 +389,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
           ?>
           <div class="row justify-content-md-center">
              
-            <div class="col-sm-10">
+            <div class="col-sm-8">
                 <div class="news-item">
                 <span class="feeddate"> <?php echo tgl_indo(date('Y-m-d', strtotime($feed[$x]['date'])));;?></span><a href="<?php echo $link ?>" target="_blank" rel="noreferrer"><?php echo $title ?></a>
                 </div>

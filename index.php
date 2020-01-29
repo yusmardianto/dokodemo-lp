@@ -410,7 +410,7 @@
         </span>    
     </section>
     <!-- end of req online meeting popup -->
-    <section  class="news-list-container">
+<?php /*   <section  class="news-list-container">
         <div class="container">
             <div class="newscontainer">
                 <div class="row justify-content-md-center">
@@ -462,7 +462,7 @@
          </div>
             </div>
         </div>
-    </section>
+    </section> */?> 
     <?php include 'footer.php' ?>
     <script src="js/jquery-3.4.1.min.js"></script>
     <script src="js/bootstrap.min.js"></script>
