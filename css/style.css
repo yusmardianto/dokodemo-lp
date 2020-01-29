@@ -178,7 +178,7 @@ strong {
   padding: 10px 0 10px 0;
   height: auto;
 }
-<style > .dokodemo-form ::-webkit-input-placeholder {
+.dokodemo-form ::-webkit-input-placeholder {
   /* Edge */
   color: #a9a9a9;
   letter-spacing: 0.33px;
