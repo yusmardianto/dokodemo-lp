@@ -28,8 +28,8 @@
                         <li><a href="pricing.php#FAQ">FAQ</a></li>
                         <li><a href="subscribe.php">Subscribing Procedure</a></li>
                         <li><a data-toggle="collapse" href="#collapseExample">Setup Online Meeting</a></li>
-                        <li><a href="terms.php">Terms and Condition</a></li>
-                        <li><a href="privacy.php">Privacy Policy</a></li>
+                        <li><a href="/terms.php">Terms and Condition</a></li>
+                        <li><a href="/privacy.php">Privacy Policy</a></li>
                     </ul>
                 </div>
             </div>

@@ -329,7 +329,79 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
         <a href="trial.php" class="btn-sign-up btn-try-demo" id="btn-sign-up-id">Klik Disini</a>
         <span class="text-center d-block py-4 fs-medium header-subdemo-text">*Tidak perlu Kartu Kredit</span>
     </section>
+     <section  class="news-list-container">
+        <div class="container">
+            <div class="newscontainer">
+                <div class="row justify-content-md-center">
+                    <div class="col-sm-8">
+                        <h2>Kabar <strong>Terbaru</strong></h2>
+                    </div>
+                </div>
+                <?php
+                $rss = new DOMDocument();
+                $rss->load('https://www.logique.co.id/blog/category/dokodemo-kerja/feed/');
+                $feed = array();
+                foreach ($rss->getElementsByTagName('item') as $node) {
+                $item = array ( 
+                'title' => $node->getElementsByTagName('title')->item(0)->nodeValue,
+                'desc' => $node->getElementsByTagName('description')->item(0)->nodeValue,
+                'link' => $node->getElementsByTagName('link')->item(0)->nodeValue,
+                'date' => $node->getElementsByTagName('pubDate')->item(0)->nodeValue,
+                );
+                array_push($feed, $item);
+                }
+                $limit = 5; 
 
+                function tgl_indo($tanggal){
+                    $bulan = array (
+                        1 =>   'Jan',
+                        'Feb',
+                        'Mar',
+                        'Apr',
+                        'Mei',
+                        'Jun',
+                        'Jul',
+                        'Ags',
+                        'Sep',
+                        'Okt',
+                        'Nov',
+                        'Des'
+                    );
+                    $pecahkan = explode('-', $tanggal);
+                     
+                 
+                    return $pecahkan[2] . ' ' . $bulan[ (int)$pecahkan[1] ] . ' ' . $pecahkan[0];
+                }
+
+                ?>
+
+                <div class="news-list">
+          <?php 
+            for($x=0;$x<$limit;$x++) {
+            $title = str_replace(' & ', ' &amp; ', $feed[$x]['title']);
+            $link = $feed[$x]['link'];
+            $description = $feed[$x]['desc'];
+            $date = date('F d, Y', strtotime($feed[$x]['date']));
+            // echo '<p><strong><a href="'.$link.'" title="'.$title.'">'.$title.'</a></strong><br />';
+            // echo '<small><em>Posted on '.$date.'</em></small></p>';
+            // echo '<p>'.$description.'</p>';
+           
+          ?>
+          <div class="row justify-content-md-center">
+             
+            <div class="col-sm-8">
+                <div class="news-item">
+                <span class="feeddate"> <?php echo tgl_indo(date('Y-m-d', strtotime($feed[$x]['date'])));;?></span><a href="<?php echo $link ?>" target="_blank" rel="noreferrer"><?php echo $title ?></a>
+                </div>
+            </div>
+                  
+        </div>
+          
+        <?php  } ?>
+         </div>
+            </div>
+        </div>
+    </section>
     <?php include 'footer.php' ?>
     <script src="/js/jquery-3.4.1.min.js"></script>
     <script src="/js/bootstrap.min.js"></script>

@@ -410,7 +410,59 @@
         </span>    
     </section>
     <!-- end of req online meeting popup -->
+<?php /*   <section  class="news-list-container">
+        <div class="container">
+            <div class="newscontainer">
+                <div class="row justify-content-md-center">
+                    <div class="col-sm-10">
+                        <h2>Latest <strong>News</strong></h2>
+                    </div>
+                </div>
+                <?php
+                $rss = new DOMDocument();
+                $rss->load('https://www.logique.co.id/blog/category/dokodemo-kerja/feed/');
+                $feed = array();
+                foreach ($rss->getElementsByTagName('item') as $node) {
+                $item = array ( 
+                'title' => $node->getElementsByTagName('title')->item(0)->nodeValue,
+                'desc' => $node->getElementsByTagName('description')->item(0)->nodeValue,
+                'link' => $node->getElementsByTagName('link')->item(0)->nodeValue,
+                'date' => $node->getElementsByTagName('pubDate')->item(0)->nodeValue,
+                );
+                array_push($feed, $item);
+                }
+                $limit = 5; 
+ 
 
+                ?>
+
+                <div class="news-list">
+          <?php 
+            for($x=0;$x<$limit;$x++) {
+            $title = str_replace(' & ', ' &amp; ', $feed[$x]['title']);
+            $link = $feed[$x]['link'];
+            $description = $feed[$x]['desc'];
+            $date = date('M d, Y', strtotime($feed[$x]['date']));
+            // echo '<p><strong><a href="'.$link.'" title="'.$title.'">'.$title.'</a></strong><br />';
+            // echo '<small><em>Posted on '.$date.'</em></small></p>';
+            // echo '<p>'.$description.'</p>';
+           
+          ?>
+          <div class="row justify-content-md-center">
+             
+            <div class="col-sm-10">
+                <div class="news-item">
+                <span class="feeddate"> <?php echo $date;?></span><a href="<?php echo $link ?>" target="_blank" rel="noreferrer"><?php echo $title ?></a>
+                </div>
+            </div>
+                  
+        </div>
+          
+        <?php  } ?>
+         </div>
+            </div>
+        </div>
+    </section> */?> 
     <?php include 'footer.php' ?>
     <script src="js/jquery-3.4.1.min.js"></script>
     <script src="js/bootstrap.min.js"></script>
