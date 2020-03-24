@@ -221,11 +221,11 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                     <h3 class="blue2 fw-500">Q. How does Dokodemo-Kerja record employee's work hours?
                     </h3>
                     <p>
-                        A. Dokodemo-Kerja records activity and work hours of each project on the employee's monitor. The tracking starts and stops based on when the start/stop buttons are clicked.
+                        A. Dokodemo-Kerja records activity and work hours of each task selected on the employee's monitor. The tracking starts and stops based on when the start/stop button is clicked.
                     </p>
                     <h3 class="blue2 fw-500">Q. Does Dokodemo-Kerja need an internet access?</h3>
                     <p>
-                        A. Internet access is needed upon starting, managing Dokodemo-Kerja account, and sending activity and work hour records to the database.
+                       A. Yes, internet access will be needed upon starting, managing Dokodemo-Kerja account, and sending activity and work hour records to the database.
                     </p>
                     <h3 class="blue2 fw-500">Q. What will happen if my internet disconnects while running Dokodemo-Kerja?
                     </h3>
@@ -238,15 +238,15 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                     </p>
                     <h3 class="blue2 fw-500">Q. Who are Dokodemo-Kerja made for?</h3>
                     <p>
-                        A. Dokodemo-Kerja is made for companies that want to employ remote workers or freelancers to increase company productivity. It can also be used to track the work hour for onsite employees.
+                        A. Dokodemo-Kerja is made for companies that want to employ remote workers and freelancers to increase company productivity ,or to add a more flexible work option for their company.
                     </p>
-                    <h3 class="blue2 fw-500">Q. What is the benefit of using Dokodemo-Kerja for the company??</h3>
+                    <h3 class="blue2 fw-500">Q. What is the benefit of using Dokodemo-Kerja for the company?</h3>
                     <p>
-                        A. Dokodemo-Kerja increases employee productivity, which means companies can set targets for employees based on their performance record to complete more tasks.
+                        A. Dokodemo-Kerja which is a tool to support remote working, will help to increase employee productivity where companies can set targets and evaluations for employees based on their performance record.
                     </p>
                     <h3 class="blue2 fw-500">Q. Can Dokodemo-Kerja adjust the time tracker based on the timezone?</h3>
                     <p>
-                        A. Yes. when Dokodemo-Kerja is activated, the application will automatically detect the local timezone.
+                        A. Yes, when Dokodemo-Kerja is activated, the application will automatically detect the local timezone.
                     </p>
                     <h3 class="blue2 fw-500">Q. What will happen if we shut down the PC / OS (Operating System) without stopping Dokodemo-Kerja beforehand?</h3>
                     <p>
@@ -254,23 +254,23 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                     </p>
                     <h3 class="blue2 fw-500">Q. Can Dokodemo-Kerja system run in the background?</h3>
                     <p>
-                        A. No. When the application is closed, all services automatically ends.
+                        A. Yes, it can run in the background. When the application is closed, all services automatically ends.
                     </p>
                     <h3 class="blue2 fw-500">Q. Can Dokodemo-Kerja be used outside Indonesia?</h3>
                     <p>
-                        A. You can use it with no problem. If you use Dokodemo-Kerja while moving to a place with different time zone during the same day, there will be no problem but the monitoring process will be a little bit complicated.
+                        A. You can use it without any problem. If you use Dokodemo-Kerja while moving to a place with different time zone during the same day, there will be no problem but the monitoring process will be a little more complicated.
                     </p>
-                </div>
-                <div class="col-md-6">
                     <h3 class="blue2 fw-500">Q. Can Dokodemo-Kerja operate on mobile devices?
                     </h3>
                     <p>
-                        A. Dokodemo-Kerja doesn’t yet cover staff who work on mobile devices. It is still out of our service.
+                        A. Yes, with the Dokodemo-Kerja Mobile Application, staffs that go to onsite meeting or visits can use the application to track their Work Hours. In the application instead of screenshots it will record the location of the said device while the application is running.
                     </p>
+                </div>
+                <div class="col-md-6">
                     <h3 class="blue2 fw-500">Q. How do I set up Dokodemo-Kerja?
                     </h3>
                     <p>
-                        A. We will prepare a Dokodemo-Kerja step-by-step manual. Starting from how to access the master account, application access and installation procedure, and how employees can use the program.
+                        A. We have prepared a Dokodemo-Kerja step-by-step manual. Starting from how to access the master account, application access and installation procedure, and how employees can use the program. To find out more click here.
                     </p>
                     <h3 class="blue2 fw-500">Q. How do I know if PC and Mac can run Dokodemo-Kerja?
                     </h3>
@@ -280,34 +280,34 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                     <h3 class="blue2 fw-500">Q. What languages are available for Dokodemo-Kerja?
                     </h3>
                     <p>
-                        A. As of now, Dokodemo-Kerja is only available in English and Indonesian.
+                        A. Currently, Dokodemo-Kerja is only available in English and Indonesian.
                     </p>
                     <h3 class="blue2 fw-500">Q. Is there a demo version of Dokodemo-Kerja that I can try before purchasing it?
                     </h3>
                     <p>
-                        A. Yes. Head on to the <a href="trial.php">Trial</a> page and follow the instructions to try the demo, or call us to ask about how it works.
+                        A. Yes. Head on to the <a href="trial.ph">Trial</a> page and follow the instructions to try the demo, or Contact Us to ask about how it works.
                     </p>
                     <h3 class="blue2 fw-500">Q. What if a problem occurs when I use Dokodemo-Kerja?
                     </h3>
                     <p>
-                        A. Don't worry. If problems were to occur, contact us right away so that we can help you. We are happy to help.
+                        A. Do not worry. If any problems were to occur, contact us right away so that we can help you.
                     </p>
                     <h3 class="blue2 fw-500">Q. I am interested in implementing Dokodemo-Kerja in my company. How do I proceed?
                     </h3>
                     <p>
-                        A. Access the <a href="subscribe.php">Subscribing Procedure</a> page to see how our contract works.
+                        A. Please access the <a href="subscribe.php">Subscribing Procedure</a> page to see how our contract works, or if you have further inquiries just Contact Us.
                     </p>
                     <h3 class="blue2 fw-500">Q. How effective is Dokodemo-Kerja on improving employee productivity?
                     </h3>
                     <p>
-                        A. Very effective, as Dokodemo-Kerja are able to calculate the total work hour of employees in real-time and transparently.
+                        A. Very effective, as Dokodemo-Kerja are able to calculate the total work hour of employees in real-time and transparently, the users then can organize their work time properly.
                     </p>
                     <h3 class="blue2 fw-500">Q. How does Dokodemo-Kerja manage staffs who work outside of office?
                     </h3>
                     <p>
-                        A. Work hours can be edited later when staffs use computers again. Dokodemo-Kerja is fundamentally targeted for employees who mainly do desk work.
+                        A. You can use the Dokodemo-Kerja Mobile Application, it will help you to track their Work Hours and Locations.
                     </p>
-                    <h3 class="blue2 fw-500">Q. Is there a minimum contract period needed to use Dokodemo-Kerja? And how do I purchase it?
+                    <h3 class="blue2 fw-500">Q. Is there a minimum contract period needed to use Dokodemo-Kerja? How does the payment work?
                     </h3>
                     <p>
                         A. There is no minimum contract period. Dokodemo-Kerja is available from the first month of contract. At the end of the month, we will count the number of users and issue an invoice. You can pay it via bank transfer until the end of next month.
@@ -319,8 +319,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                 <div class="offset-md-1 col-md-10">
                     <div style="padding:10px;border:1px solid #edb41a">
                     <div class="div-above-footer">
-                        <strong>Dokodemo-Kerja</strong> is a professional work system created to help increasing
-                        productivity for independent and flexible workers.
+                        <strong>Dokodemo-Kerja</strong> is a professional work system created to help increase productivity for independent and flexible workers.
                     </div>
                     </div>
                 </div>

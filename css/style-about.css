@@ -75,7 +75,7 @@ body {
 }
 
 .about-us-right {
-  padding: 2em 1em 2em 2em;
+  padding: 2em 1em 0em 2em;
 }
 
 .about-us-right h1 {
@@ -85,6 +85,14 @@ body {
 
 .about-us-right p {
   padding-top: 1em;
+}
+
+.about-us-right ol {
+  margin-bottom: -3em;
+}
+
+.about-us-right p,
+.about-us-right ol li {
   font-size: 17px;
   letter-spacing: 0.3px;
   line-height: 2;

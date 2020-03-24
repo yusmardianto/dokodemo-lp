@@ -69,19 +69,40 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
             <div class="row align-items-end">
                 <div class="col-lg-6 about-us-left">
                     <h1>ABOUT DOKODEMO-KERJA</h1>
-                    <p class="about-us-desc">Dokodemo-Kerja is a Human Resource tool developed by PT Logique Digital Indonesia, a digital solution company based in Jakarta, Indonesia. This program was made to help employees achieve their best potential.
-                        <br /><br />
-                        The name Dokodemo-Kerja comes from 2 languages: "Dokodemo": anywhere (Japanese) and "Kerja": to work (Indonesian), which translates into "Work Anywhere". It means that with this program, you or your employee would not be restrained to a cubicle or an office at all times.</p>
-                    <p class="about-us-contact">We use the program in our company, and if you wonder how it works in real life, do <a href="contact-us.php">CONTACT US</a> and we will explain how we utilize this tool.</p>
+                    <p class="about-us-desc">
+                        Dokodemo-Kerja is a Human Resource tool developed by PT. Logique Digital Indonesia, a company providing Digital Solutions, based in Jakarta, Indonesia. The program was designed as a cost effective and practical solution for businesses seeking to maximize employee output in a way that benefits both the Company and its Employees alike.
+                        <br><br>
+                        Dokodemo-Kerja takes its name from both the Japanese and Indonesian languages, with “Dokodemo,” meaning “Anywhere,” and “Kerja” meaning “to work,” on the whole literally translating to “Work Anywhere.” This reflects its practical functionality, as it allows for employees to work in an environment most suited to their wellbeing, (instead of being confined to a single location), while efficiently monitoring their daily working routines.
+                    </p>
+
+                    <p class="about-us-contact">Our company is currently implementing the program. If you have any questions as to how it works, please do not hesitate to <a href="contact-us.php">CONTACT US</a>; we will be grateful for the opportunity to explain how it works and how to utilize it.</p>
+
+                    <br class="d-md-none d-lg-block"><br class="d-md-none d-lg-block">
+                    
                     <img src="img/about/dokodemo-about.png" class="img-dokodemo-about" alt="" />
+
+                    <br class="d-md-none d-lg-block"><br class="d-md-none d-lg-block">
                 </div>
                 <div class="col-lg-6 about-us-right">
                     <h1>WHY DOKODEMO-KERJA?</h1>
-                    <p>The purpose of this program is to promote healthy and productive work culture aimed at highly populated city. In Jakarta, Traffic Jam has become a huge problem, and arriving late at the office has became a "millenial culture". We are aiming to change that.
+                    <p>
+                        Dokodemo-Kerja was designed to promote healthier and more productive work cultures, for businesses operating from a city well known for its high levels of traffic congestion. As a widespread problem experienced in Jakarta, coming to work late has become a pervasive part of millennial culture. We aim to change that.
+                        <br><br>
+                        A case study conducted by Stanford University Professor Nicholas Bloom has shown that, through incorporating ‘Working from home’ strategies, a number of relevant enhancements were observed. Some of these improvements include:
+
+                        <ol>
+                            <li>Employees who worked remotely were working a ‘true’ shift (Or for even longer), as opposed to arriving at the office late and leaving early on multiple occasions. These results support the fact that working from home is overall, less distracting for employees, and facilitates longer and better quality work sessions.</li>
+                            <li>Employee attrition had decreased by 50 percent among staff working remotely. They also took shorter breaks, had fewer sick days, and took less time off.</li>
+                            <li>Companies could greatly reduce their expenses by lowering the amount of office space they used. By implementing work rotation schedules, Dokodemo-Kerja can prove to be a powerful tool in reducing costs, maximizing workforce potential and promoting a productive work environment.</li>
+                        </ol>
+                                         
+                    
+                    <!-- The purpose of this program is to promote healthy and productive work culture aimed at highly populated city. In Jakarta, Traffic Jam has become a huge problem, and arriving late at the office has became a "millenial culture". We are aiming to change that.
                         <br><br>
                         Additionally, if a big office space seems too take up too much of your profit away, it might be time to consider an alternative. Employees who live more than 10km away from the office could really use a break from time to time, without affecting their job performance.
                         <br><br>
-                        With a proper work rotation, Dokodemo-Kerja could be a decent solution to retain current workers, and promote a healthy work environment.</p>
+                        With a proper work rotation, Dokodemo-Kerja could be a decent solution to retain current workers, and promote a healthy work environment. -->
+                    </p>
                 </div>
             </div>
         </div>
