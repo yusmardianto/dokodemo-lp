@@ -87,8 +87,9 @@ body {
   padding-top: 1em;
 }
 
-.about-us-right ol {
-  margin-bottom: -3em;
+.about-us-right p:last-child {
+  padding-top: 0;
+  margin-bottom: -1.5em;
 }
 
 .about-us-right p,
