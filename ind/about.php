@@ -97,7 +97,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
             <img src="../img/whatsapp.svg" id="fixedbutton" alt=""/>
         </a>
     </section>
-    <section id="benefits" class="benefits-features">
+    <!-- <section id="benefits" class="benefits-features">
         <h1 class="section-title pb-4">FITUR DAN KEUNTUNGAN</h1>
         <div class="container pt-4">
             <div class="row">
@@ -140,7 +140,8 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
             </div>
             <a href="features.php" class="btn-learn-more" id="btn-learn-more-id">Lihat Lebih</a>
         </div>
-    </section>
+    </section> -->
+    <br><br>
     <section class="to-whom">
         <div class="container">
             <div class="row">
@@ -200,9 +201,9 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                    <p>
                             Mungkin terkesan tidak adil untuk memperlakukan setiap karyawan secara adil jika setengah dari mereka menghabiskan sebagian besar waktu kerja mereka dengan merokok, menonton video hiburan, mengambil istirahat makan siang berjam-jam, atau berdoa lebih lama dari yang diperlukan. Dengan Dokodemo-Kerja, Anda dapat secara akurat melacak waktu istirahat dan jam kerja mereka, karena mereka dapat menghentikan pelacak waktu ketika mereka tidak benar-benar bekerja.</p>
                 </div>
-                <div class="col-md-10 offset-md-1 about-resp-config">
+                <!-- <div class="col-md-10 offset-md-1 about-resp-config">
                     <p class="text-center fw-semibold pt-4">Alasan paling umum bagi karyawan untuk berhenti adalah perjalanan panjang, Kurangnya keseimbangan kerja / hidup, dan gaji / tunjangan yang buruk. Dengan membiarkan mereka bekerja dari jarak jauh dengan persyaratan mereka, mereka akan melihat bahwa ada manfaat nyata yang bekerja untuk Anda.</p>
-                </div>
+                </div> -->
             </div>
         </div>
     </section>
@@ -266,7 +267,9 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                 </div>
             </div>
         </div>
-        <div class="container p-md-0 position-relative mt-3">
+    </section>
+    <section class="mb-5">
+        <div class="container p-md-0 position-relative">
             <div class="row no-gutters ">
                 <div class="col-md-6 ">
                     <img src="/img/home/bg-feature-1.png" class="img-fluid" alt=""/>

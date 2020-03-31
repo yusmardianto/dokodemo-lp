@@ -80,11 +80,11 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                         Our company is currently implementing the program. If you have any further questions, please do not hesitate to <a href="contact-us.php">CONTACT US</a>; we will be delighted to explain about Dokodemo-Kerja
                     </p>
 
-                    <br class="d-md-none d-lg-block"><br class="d-md-none d-lg-block">
+                    <br class="d-none d-lg-block"><br class="d-none d-lg-block">
                     
                     <img src="img/about/dokodemo-about.png" class="img-dokodemo-about" alt="" />
 
-                    <br class="d-md-none d-lg-block"><br class="d-md-none d-lg-block">
+                    <br class="d-none d-lg-block"><br class="d-none d-lg-block">
                 </div>
                 <div class="col-lg-6 about-us-right">
                     <h1>WHY DOKODEMO-KERJA?</h1>
@@ -118,7 +118,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
             <img src="../img/whatsapp.svg" id="fixedbutton" alt=""/>
         </a>
     </section>
-    <section id="benefits" class="benefits-features">
+    <!-- <section id="benefits" class="benefits-features">
         <h1 class="section-title pb-4">BENEFITS AND FEATURES</h1>
         <div class="container pt-4">
             <div class="row">
@@ -162,7 +162,8 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
             <a href="features.php" class="btn-learn-more" id="btn-learn-more">Learn More</a>
         </div>
         
-    </section>
+    </section> -->
+    <br><br>
     <section class="to-whom">
         <div class="container">
             <div class="row">
@@ -295,9 +296,9 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                         It is perhaps a bit unfair to treat every employee equally if half of them spends most of their work time smoking, watching entertainment videos, taking hours of lunch breaks, or pray longer than necessary. With Dokodemo-Kerja, you can accurately track their breaks and working hours, as they can pause the time tracker when they are not really working.
                     </p>
                 </div> -->
-                <div class="col-md-10 offset-md-1 about-resp-config">
+                <!-- <div class="col-md-10 offset-md-1 about-resp-config">
                     <p class="text-center fw-semibold pt-4">The most common reasons for employees to quit are Long commutes, Lack of work/life balance, and Poor salary/benefits. By letting them work remotely on their terms, they will see that there is an actual benefit working for you.</p>
-                </div>
+                </div> -->
             </div>
         </div>
     </section>

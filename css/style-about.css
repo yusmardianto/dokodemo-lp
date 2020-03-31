@@ -144,6 +144,8 @@ body {
 
 .employee-benefits {
   padding: 2em 0 3em;
+  background: url("../img/about/employees_bg.png") center/cover no-repeat;
+  margin-bottom: 3.2em;
 }
 
 .employee-benefits h2 {
