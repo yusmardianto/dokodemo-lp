@@ -111,11 +111,12 @@
         <div class="container">
             <div class="row">
                 <div class="col-md-12">
-                    <h1 class="banner-header-text"><strong>SAVE MONEY. INCREASE PRODUCTIVITY</strong></h1>
+                    <h1 class="banner-header-text"><strong>Implement Remote Working Strategies with Dokodemo-Kerja Reduce Costs & Increase Productivity</strong></h1>
                 </div>
                 <div class="col-12">
-                    <p class="text-center fs-18 subbanner-header-text">Track employee working hours with a program that
-                        randomly takes a desktop screenshot every 10 minutes.</p>
+                    <p class="text-center fs-18 subbanner-header-text">
+                        Accurately track employee working hours through screenshots which are taken at random intervals throughout the day, no matter where they are. <br>
+                        Dokodemo-Kerja ver 2.0 also utilizes a GPS tracking feature within its mobile application. Let’s innovate the way we work!</p>
                 </div>
             </div>
             <div class="row justify-content-center">
@@ -186,11 +187,14 @@
                     </div>
                 </div>
                 <div class="col-md-6">
-                    <p class="home-feature-content">Dokodemo-Kerja is a time-management oriented solution for both employers and employees alike. Through its efficient monitoring and management capabilities, Dokodemo-Kerja can further help companies improve their levels of productivity, while at the same time provide flexible working hours for employees.</p>           
+                    <p class="home-feature-content">Employee working routines can be easily tracked, anywhere and at any time, through the inbuilt Random Screen Capture feature. Additionally, the Dokodemo-Kerja Mobile Application will be able to track and record when and where they have worked via GPS, allowing for greater employee flexibility, as well as making it easier for employers to manage their work schedules.</p>           
                     <ol class="home-feature-list">
-                        <li>Track Working Hours and Monitor Tasks</li>
+                        <li>Track tasks and calculate overall working hours.</li>
+                        <li>Track and record location via the Mobile Application.</li>
+                        <li>Manage and Analyze where and when users have worked.</li>
+                        <!-- <li>Track Working Hours and Monitor Tasks</li>
                         <li>Get accurate time reports</li>
-                        <li>Manage your Employee’s Man-Hour</li>
+                        <li>Manage your Employee’s Man-Hour</li> -->
                     </ol>
                     <a href="/features.php">
                         <button class="btn btn-primary feature-btn">Learn More</button>
@@ -239,26 +243,30 @@
         <div class="container mt-5">
             <div class="row">
                 <div class="col-md-12">
-                    <h1 class="home-feature-title">Benefit</h1>
-                    <p class="home-benefit-content">The most common reasons for employees to quit are Long commutes, Lack of work/life balance, and Poor salary/benefits. By letting them work remotely on their terms, they will see that there is an actual benefit working for you.</p>
+                    <h1 class="home-feature-title">Benefits</h1>
+                    <p class="home-benefit-content">Your company will be able to implement innovative and flexible HR strategies, strengthening the overall output of your work force, while enhancing your staff’s wellbeing. Allowing employees to work remotely grants them flexible working hours, giving them the chance to work in a comfortable environment suited to them, while at the same time increasing productivity and improving upon practical management strategies which allow for the fair evaluation of staff. Overall, the advantages are many, for both the Company and Employees alike. These include:</p>
                 </div>
             </div>
             <div class="row mt-3">
                 <div class="col-md-6">
-                    <p class="home-benefit-content-title">1. Save up on the cost of huge office spaces</p>
-                    <p>You can rotate your employee's working days in and out of the office if an expansion is not possible. Some employees might not feel too comfortable working in a cubicle, and works more productively outside. Working remotely could also be implemented as a reward system, in addition to the existing benefits.</p>
+                    <p class="home-benefit-content-title">1. Cost Saving</p>
+                    <p>Employees can greatly reduce their commuting expenses, while employers can also save on costs in regards to transportation and meal allowances. Such strategies also reduce the need for office space, thereby allowing the company to save money renting a smaller office.</p>
                 </div>
                 <div class="col-md-6">
-                    <p class="home-benefit-content-title">2. Determine who your best employee is more objectively</p>
-                    <p>Your best employee would want to be recognised for his/her work. Those who puts in more time, completes more tasks, and doesn't slack off as much would be rewarded more than those who visibly neglects their job.</p>
+                    <p class="home-benefit-content-title">2. Increased Productivity</p>
+                    <p>Employees can singularly focus their efforts on producing results, while not having to waste time and energy on logistical difficulties and commuting.</p>
                 </div>
                 <div class="col-md-6">
-                    <p class="home-benefit-content-title">3. Save up millions on lost time</p>
-                    <p>Are your employees really working according to the minimum time requirement? Are you really getting what you paid for? By using Dokodemo-Kerja, you can see how long employees take to complete a task, and help you make a better project plan.</p>
+                    <p class="home-benefit-content-title">3. Universal Hiring</p>
+                    <p>Employers can hire talented individuals from anywhere; even overseas.</p>
                 </div>
                 <div class="col-md-6">
-                    <p class="home-benefit-content-title">4. Increase employee retention</p>
-                    <p>Employee retention is an important part of an organization's growth. By rewarding all the right employees, it would reduce the resignation rate. Dokodemo-Kerja can help you determine the employees worth keeping.</p>
+                    <p class="home-benefit-content-title">4. Retain Employees</p>
+                    <p>Employees who need to take care of homebound family members, or their children, won’t have to choose between their job and their home life. Through remote working strategies, they can now adopt an ideal work-life balance.</p>
+                </div>
+                <div class="col-md-6">
+                    <p class="home-benefit-content-title">5. Accurate Evaluation</p>
+                    <p>Dokodemo-Kerja keeps track on what employees are doing and how they work, thus assisting HR in the process of evaluating staff output in a fair and objective manner, with concrete evidence to back it up.</p>
                 </div>
             </div>
             <div class="row">
