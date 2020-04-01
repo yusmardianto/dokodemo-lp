@@ -111,12 +111,16 @@
         <div class="container">
             <div class="row">
                 <div class="col-md-12">
-                    <h1 class="banner-header-text"><strong>Implement Remote Working Strategies with Dokodemo-Kerja Reduce Costs & Increase Productivity</strong></h1>
+                    <h1 class="banner-header-text">
+                    <strong>Remote Working with Dokodemo-Kerja <br>
+                    Reduce Costs & Increase Productivity</strong></h1>
                 </div>
                 <div class="col-12">
                     <p class="text-center fs-18 subbanner-header-text">
-                        Accurately track employee working hours through screenshots which are taken at random intervals throughout the day, no matter where they are. <br>
-                        Dokodemo-Kerja ver 2.0 also utilizes a GPS tracking feature within its mobile application. Let’s innovate the way we work!</p>
+                    Accurately track employee working hours, no matter where they are. Dokodemo-Kerja ver 2.0 also has a GPS location record feature in its mobile application.
+                    <br>
+                    Let’s innovate the way we work!
+                    </p>
                 </div>
             </div>
             <div class="row justify-content-center">
@@ -181,7 +185,7 @@
                 <div class="col-md-6">
                      <div class="embed-responsive embed-responsive-16by9 feature-video">
                         <iframe class="embed-responsive-item" width="811" height="417" title="Dokodemo Youtube Video"
-                            src="https://www.youtube.com/embed/Y8kU7CmCvso" frameborder="0"
+                            src="https://www.youtube.com/embed/OWmF48Cq_fA" frameborder="0"
                             allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
                             allowfullscreen></iframe>
                     </div>
@@ -192,9 +196,6 @@
                         <li>Track tasks and calculate overall working hours.</li>
                         <li>Track and record location via the Mobile Application.</li>
                         <li>Manage and Analyze where and when users have worked.</li>
-                        <!-- <li>Track Working Hours and Monitor Tasks</li>
-                        <li>Get accurate time reports</li>
-                        <li>Manage your Employee’s Man-Hour</li> -->
                     </ol>
                     <a href="/features.php">
                         <button class="btn btn-primary feature-btn">Learn More</button>
