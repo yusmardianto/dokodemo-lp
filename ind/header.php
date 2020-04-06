@@ -11,7 +11,7 @@
 <nav class="navbar navbar-expand-lg navbar-light">
     <div class="container">
         <a class="navbar-brand" href="/ind/" aria-label="homepage ind link">
-            <img src="/img/logo.png" width="85" height="85" alt="">
+            <img src="/img/dokodemo.svg" width="85" alt="">
         </a>
         <button id="btn-nav" class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
             <span class="navbar-toggler-icon"></span>

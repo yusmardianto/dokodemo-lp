@@ -13,7 +13,7 @@
 <nav class="navbar navbar-expand-lg navbar-light">
     <div class="container">
         <a class="navbar-brand" href="/" aria-label="Back To Home">
-            <img src="img/logo.png" width="85" height="85" alt="">
+            <img src="img/dokodemo.svg" width="85" alt="">
         </a>
         <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav"
             aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">

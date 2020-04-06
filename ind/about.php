@@ -68,21 +68,36 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
         <div class="container">
             <div class="row align-items-end">
                 <div class="col-lg-6 about-us-left">
-                    <h1>ABOUT DOKODEMO-KERJA</h1>
-                    <p class="about-us-desc">Dokodemo-Kerja adalah alat Sumber Daya Manusia yang dikembangkan oleh PT Logique Digital Indonesia, sebuah perusahaan solusi digital yang berbasis di Jakarta. Program ini dibuat untuk membantu karyawan mencapai potensi terbaik mereka.
-                        <br /><br />
-                        Nama Dokodemo-Kerja berasal dari 2 bahasa: "Dokodemo": di mana saja (Jepang) dan "Kerja" (Bahasa Indonesia), yang diterjemahkan menjadi "Kerja-Dimana saja". Ini berarti bahwa dengan program ini, Anda atau karyawan Anda tidak perlu ditahan di sebuah bilik atau kantor setiap saat.</p>
+                    <h1>TENTANG DOKODEMO-KERJA</h1>
+                    <p class="about-us-desc">
+                        Dokodemo-Kerja adalah alat HR yang dikembangkan oleh PT. Logique Digital Indonesia, perusahaan solusi digital yang berpusat di Jakarta, Indonesia.
+                        <br><br>
+                        Dokodemo-Kerja dibuat dengan harapan dapat membantu mempromosikan budaya kerja yang lebih sehat, produktif, dan juga fleksibel, yang menguntungkan pihak karyawan dan perusahaan.
+                        <br><br>
+                        Dokodemo-Kerja merupakan gabungan dari bahasa Jepang dan Indonesia. "Dokodemo" berarti "Di mana saja" dan Kerja, dan jika digabung berarti Kerja Dimana Saja. Kami mewujudkannya dalam fungsi utama Dokodemo-Kerja yang memungkinkan karyawan untuk bekerja di lingkungan yang paling kondusif untuk mereka daripada harus terkurung di satu lokasi atau kantor. Namun, kami juga tidak melupakan sisi perusahaan yang harus tetap mengetahui kinerja karyawan tersebut.
+                    </p>
                     <p class="about-us-contact">
-                        Kami menggunakan program ini di perusahaan kami, dan jika Anda ingin bertanya-tanya bagaimana cara kerjanya di keseharian kantor, langsung saja <a href="/ind/contact-us.php">Hubungi Kami</a>. </p>
+                        Perusahaan kami pun saat ini sudah menggunakan Dokodemo-Kerja. Jika ada pertanyaan lebih lanjut, jangan ragu untuk <a href="/ind/contact-us.php">HUBUNGI KAMI</a>.; kami akan dengan senang hati untuk membantu anda untuk mengenal Dokodemo-Kerja.
+                    </p>
                     <img src="/img/about/dokodemo-about.png" class="img-dokodemo-about" alt="" />
                 </div>
                 <div class="col-lg-6 about-us-right">
-                    <h1>MENGAPA?</h1>
-                    <p>Tujuan dari program ini adalah untuk mempromosikan budaya kerja yang sehat dan produktif yang ditujukan untuk kota berpenduduk padat. Di Jakarta, kemacetan telah menjadi masalah besar, dan datang terlambat ke kantor telah menjadi "budaya". Kami bertujuan untuk mengubah hal tersebut.
-                        <br><br>
-                        Terlebih lagi, jika ruang kantor besar tampaknya terlalu boros, mungkin sudah saatnya untuk mempertimbangkan alternatif lain. Karyawan yang tinggal lebih dari 10 km dari kantor benar-benar memerlukan istirahat dari waktu ke waktu, tanpa mempengaruhi kinerja pekerjaan mereka.
-                        <br><br>
-                        Dengan rotasi kerja yang tepat, Dokodemo-Kerja bisa menjadi solusi yang layak untuk mempertahankan pekerja saat ini, dan mempromosikan lingkungan kerja yang sehat.</p>
+                    <h1>KENAPA DOKODEMO-KERJA?</h1>
+                    <p>
+                        Untuk perusahaan yang beroperasi dari Ibukota Jakarta yang terkenal dengan kemacetannya, telat datang ke kantor karena macet sudah menjadi alasan yang biasa dimaklumi. Kami ingin mengubah budaya itu.
+                        <br>
+                        Dari studi kasus yang dilakukan oleh Profesor Nicholas Bloom dari Stanford University, menunjukkan bahwa dengan mengimplementasikan strategi "Kerja dari Rumah" ada peningkatan positif :
+                    </p>
+
+                    <ol>
+                        <li>Karyawan yang bekerja secara remote bekerja dengan jam kerja yang "benar" ataupun mungkin lebih, daripada karyawan yang datang telat ke kantor dan sering pulang lebih cepat. Hasil ini didukung oleh fakta di mana dengan bekerja di rumah, distraksi bagi karyawan menurun dan lingkungan lebih mendukung untuk sesi kerja yang lebih lama dan berkualitas.</li>
+                        <li>Tingkat energi karyawan yang bekerja di rumah pun meningkat, di mana jam istirahat yang digunakan berkurang dan lebih pendek, dan karyawan mengurangi ijin sakit.</li>
+                        <li>Perusahaan dapat mengurangi anggaran dengan mengurangi area kantor yang disewa.</li>
+                    </ol>
+
+                    <p>
+                        Dengan mengimplementasikan jadwal kerja rotasi yang tepat, Dokodemo-Kerja dapat menjadi alat yang tepat untuk membantu mengurangi anggaran, memaksimalkan kinerja, dan mempromosikan lingkungan kerja yang lebih produktif.
+                    </p>
                 </div>
             </div>
         </div>
@@ -149,7 +164,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                     <div class="hr-managers">
                         <h1>Untuk Siapa dan Bagaimana?</h1>
                         <h2>HR and Managers</h2>
-                        <p class="fw-semibold" style="font-size: 20px;">Dokodemo-Kerja akan memberi Anda kendali penuh atas aktivitas karyawan Anda. Anda tidak perlu tahu di mana mereka berada, tetapi Anda tahu apa yang mereka lakukan.</p>
+                        <p class="fw-semibold" style="font-size: 20px;">Dokodemo-Kerja dapat membantu mengelola aktivitas karyawan. Kalian dapat mengetahui kinerja karyawan tanpa perlu tahu mereka ada di mana.</p>
                     </div>
                 </div>
             </div>
@@ -159,6 +174,22 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
         <div class="container">
             <div class="row">
                 <div class="col-md-6 benefits-item">
+                    <h3>1. Efisiensi Area Kantor</h3>
+                    <p>Dengan merotasikan karyawan yang bekerja dikantor, ruang kerja yang dibutuhkan pun dapat dibuat lebih efisien.</p>
+                </div>
+                <div class="col-md-6 benefits-item">
+                    <h3>2. Evaluasi Karyawan secara Objektif</h3>
+                    <p>Karena menggunakan data jam kerja yang akurat, pihak HR dapat melakukan evaluasi sesuai dengan pekerjaan yang dilakukan.</p>
+                </div>
+                <div class="col-md-6 benefits-item">
+                    <h3>3. Tingkatkan Retensi Karyawan</h3>
+                    <p>Retensi karyawan merupakan salah satu aspek yang penting dalam pertumbuhan perusahaan. Dengan memberikan apresiasi kepada karyawan yang tepat dapat membantu mengurangi tingkat karyawan yang keluar.</p>
+                </div>
+                <div class="col-md-6 benefits-item">
+                    <h3>4. Mengatur Jam Kerja</h3>
+                    <p>Dengan Dokodemo-Kerja perusahaan dapat mengamati pola kerja karyawan, dan dari situ bisa berdiskusi dengan karyawan untuk mendapatkan budaya bekerja yang lebih optimal.</p>
+                </div>
+                <!-- <div class="col-md-6 benefits-item">
                     <h3>1. Menghemat biaya ruang kantor</h3>
                     <p>Anda dapat merotasi hari kerja karyawan Anda keluar-masuk kantor jika ekspansi tidak memungkinkan. Beberapa karyawan mungkin merasa tidak nyaman bekerja di bilik, dan bekerja lebih produktif di luar. Bekerja dari jarak jauh juga dapat diimplementasikan sebagai sistem penghargaan, di samping manfaat yang ada.</p>
                 </div>
@@ -200,7 +231,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                     <h3>8. Break Time</h3>
                    <p>
                             Mungkin terkesan tidak adil untuk memperlakukan setiap karyawan secara adil jika setengah dari mereka menghabiskan sebagian besar waktu kerja mereka dengan merokok, menonton video hiburan, mengambil istirahat makan siang berjam-jam, atau berdoa lebih lama dari yang diperlukan. Dengan Dokodemo-Kerja, Anda dapat secara akurat melacak waktu istirahat dan jam kerja mereka, karena mereka dapat menghentikan pelacak waktu ketika mereka tidak benar-benar bekerja.</p>
-                </div>
+                </div> -->
                 <!-- <div class="col-md-10 offset-md-1 about-resp-config">
                     <p class="text-center fw-semibold pt-4">Alasan paling umum bagi karyawan untuk berhenti adalah perjalanan panjang, Kurangnya keseimbangan kerja / hidup, dan gaji / tunjangan yang buruk. Dengan membiarkan mereka bekerja dari jarak jauh dengan persyaratan mereka, mereka akan melihat bahwa ada manfaat nyata yang bekerja untuk Anda.</p>
                 </div> -->
@@ -277,9 +308,9 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                 </div>
                 <div class="col-md-6 d-flex align-items-center">
                     <div class="benefit-content right">
-                        <p class="benefit-title">Bekerja Dimanapun, Kapanpun</p>
+                        <p class="benefit-title">Kerja dimana saja dan kapan saja</p>
                         <hr class="blue-separator">
-                        <p class="benefit-desc">Apakah Anda benar-benar membutuhkan pertemuan tatap muka di kantor setiap hari? Bisakah atasan Anda menjelaskan secara logis mengapa Anda harus bekerja di kantor mulai jam 8 pagi sampai jam 5 sore?</p>
+                        <p class="benefit-desc">Karyawan dapat bekerja di lingkungan yang kondusif untuk bekerja sesuai dengan masing-masing individual, sehingga bisa lebih fokus pada pekerjaan yang dilakukan.</p>
                     </div>
 
                 </div>
@@ -289,9 +320,9 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
             <div class="row no-gutters">
                 <div class="col-md-6 order-2 order-md-1 d-flex align-items-center">
                     <div class="benefit-content">
-                        <p class="benefit-title">Memaksimalkan Produktivitas Karyawan</p>
+                        <p class="benefit-title">Tingkatkan Produktifitas</p>
                         <hr class="blue-separator">
-                        <p class="benefit-desc">Bekerja dengan nyaman, fleksibel, dan efektif untuk meningkatkan hasil kerja. Hindari kemacetan lalu lintas dan semua upaya yang menyusahkan untuk pergi ke kantor</p>
+                        <p class="benefit-desc">Dengan mengeliminasikan proses percuma dan membuang energi seperti kemacetan berjam-jam untuk ke kantor, kita dapat menggunakan energi tersebut untuk hal yang lebih berguna.</p>
                     </div>
 
                 </div>
@@ -305,9 +336,9 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                 </div>
                 <div class="col-md-6 d-flex align-items-center">
                     <div class="benefit-content right">
-                        <p class="benefit-title">Meningkatkan Efisiensi Kerja</p>
+                        <p class="benefit-title">Tingkatkan Pengaturan Waktu</p>
                         <hr class="blue-separator">
-                        <p class="benefit-desc">Dengan memiliki catatan akurat tentang berapa lama yang dibutuhkan untuk menyelesaikan sebuah tugas, setiap orang dapat mengevaluasi diri untuk melakukan yang lebih baik.</p>
+                        <p class="benefit-desc">Adanya data yang akurat tentang lamanya kita bekerja, semuanya kemudian dapat mengevaluasi kinerja diri sendiri. Terlebih lagi dengan melihat waktu bekerja dan istirahat, karyawan akan dapat belajar untuk mengelola waktu mereka dengan lebih baik.</p>
                     </div>
 
                 </div>

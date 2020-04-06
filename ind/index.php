@@ -67,11 +67,14 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
         <div class="container">
             <div class="row">
                 <div class="col-md-12">
-                    <h1 class="banner-header-text"><strong>HEMAT UANG. TINGKATKAN PRODUKTIVITAS.</strong></h1>
-
+                    <h1 class="banner-header-text text-uppercase">
+                        <strong>Ayo Kerja Remote dengan Dokodemo-Kerja <br>
+                        Tingkatkan Efisiensi Anggaran dan Produktifitas.</strong>
+                    </h1>
                 </div>
                 <div class="col-12">
-                    <p class="text-center fs-18 subbanner-header-text">Lacak aktivitas karyawan Anda dengan Dokodemo-Kerja. <br>Sebuah program yang me-screenshot layar Anda setiap 10 menit secara acak.</p>
+                    <p class="text-center fs-18 subbanner-header-text">Dapatkan jam kerja karyawan secara akurat, dimanapun mereka bekerja. Dokodemo-Kerja versi 2.0 mempunyai fungsi GPS yang mencatat sejarah lokasi di aplikasi handphone. <br>
+                    Mari Inovasikan cara kita bekerja!</p>
                 </div>
             </div>
             <div class="row justify-content-center">
@@ -189,17 +192,17 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                 <div class="col-md-6">
                      <div class="embed-responsive embed-responsive-16by9 feature-video">
                         <iframe class="embed-responsive-item" width="811" height="417" title="dokodemo youtube video"
-                            src="https://www.youtube.com/embed/Y8kU7CmCvso" frameborder="0"
+                            src="https://www.youtube.com/embed/OWmF48Cq_fA" frameborder="0"
                             allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
                             allowfullscreen></iframe>
                     </div>
                 </div>
                 <div class="col-md-6">
-                    <p class="home-feature-content">Dokodemo-Kerja adalah solusi sistem kerja yang menguntungkan bagi karyawan dan perusahaan. Dengan sistem kerja yang efisien, Dokodemo-Kerja dapat membantu perusahaan berkonsentrasi pada peningkatan produktivitas dan pada saat yang sama, memberikan fleksibilitas untuk karyawan mereka.</p>           
+                    <p class="home-feature-content">Dokodemo-Kerja dengan secara acak menyimpan gambar layar komputer dan mencatat jam kerja, yang mempermudah evaluasi kinerja karyawan. Dan dengan adanya fungsi GPS yang mencatat sejarah lokasi dari aplikasi handphone dapat membantu karyawan untuk mempunyai cara kerja yang lebih fleksibel sekaligus mempermudah pihak perusahaan dalam mengatur jadwal kerja.</p>           
                     <ol class="home-feature-list">
-                        <li>Melacak dan memantau tugas karyawan</li>
-                        <li>Mendapatkan laporan waktu kerja</li>
-                        <li>Mengelola jam kerja karyawan</li>
+                        <li>Pantau tugas dan jam kerja karyawan.</li>
+                        <li>Pantau sejarah lokasi dengan aplikasi handphone.</li>
+                        <li>Mengatur dan menganalisa kapan dan dimana mereka telah bekerja.</li>
                     </ol>
                     <a href="/ind/features.php">
                         <button class="btn btn-primary feature-btn">Learn More</button>
@@ -249,25 +252,29 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
             <div class="row">
                 <div class="col-md-12">
                     <h1 class="home-feature-title">Benefit</h1>
-                    <p class="home-benefit-content">Alasan paling umum bagi karyawan untuk berhenti adalah perjalanan panjang, Kurangnya keseimbangan kerja / hidup, dan gaji / tunjangan yang buruk. Dengan membiarkan mereka bekerja dari jarak jauh dengan persyaratan mereka, mereka akan melihat bahwa ada manfaat nyata yang bekerja untuk Anda.</p>
+                    <p class="home-benefit-content">Perusahaan anda dapat menerapkan strategi-strategi HR yang lebih inovatif dan fleksibel, yang dapat meningkatkan kinerja total perusahaan anda sekaligus memberikan nilai positif bagi kesejahteraan karyawan. Dengan memberikan karyawan pilihan untuk kerja secara remote dan jam kerja yang fleksibel, maka akan membantu mereka untuk menemukan lingkungan kerja mereka yang paling kondusif dan di saat yang sama meningkatkan kinerja. Adanya jam kerja yang tercatat akan membantu perusahaan untuk membuat evaluasi yang lebih adil. Banyak manfaat lain yang bisa didapatkan oleh perusahaan dan karyawan di antaranya :</p>
                 </div>
             </div>
             <div class="row mt-3">
                 <div class="col-md-6">
-                    <p class="home-benefit-content-title">1. Menghemat biaya ruang kantor</p>
-                    <p>Anda dapat merotasi hari kerja karyawan Anda keluar-masuk kantor jika ekspansi tidak memungkinkan. Beberapa karyawan mungkin merasa tidak nyaman bekerja di bilik, dan bekerja lebih produktif di luar. Bekerja dari jarak jauh juga dapat diimplementasikan sebagai sistem penghargaan, di samping manfaat yang ada.</p>
+                    <p class="home-benefit-content-title">1. Efisiensi Anggaran</p>
+                    <p>Karyawan dapat mengurangi biaya transportasi mereka dan dengan penggunaan cara kerja remote yang tepat Perusahaan dapat mengurangi biaya untuk menyewa area kantor.</p>
                 </div>
                 <div class="col-md-6">
-                    <p class="home-benefit-content-title">2. Menentukan karyawan terbaik Anda dengan objektif</p>
-                    <p>Karyawan terbaik Anda ingin diakui untuk pekerjaannya. Mereka yang memberikan lebih banyak waktu, menyelesaikan lebih banyak tugas, dan tidak banyak malas akan dihargai lebih banyak daripada mereka yang tampak mengabaikan pekerjaan mereka.</p>
+                    <p class="home-benefit-content-title">2. Peningkatan Produktifitas</p>
+                    <p>Dengan tidak perlu pergi ke kantor, energi yang terbuang diperjalanan dapat digunakan untuk hal yang lebih positif.</p>
                 </div>
                 <div class="col-md-6">
-                    <p class="home-benefit-content-title">3. Meningkatkan Efisiensi Jam Kerja</p>
-                    <p>Apakah karyawan Anda benar-benar bekerja sesuai dengan persyaratan waktu minimum? Apakah Anda benar-benar mendapatkan apa yang Anda bayar? Dengan menggunakan Dokodemo-Kerja, Anda dapat melihat berapa lama karyawan untuk menyelesaikan tugas, dan membantu Anda membuat rencana proyek yang lebih baik.</p>
+                    <p class="home-benefit-content-title">3. Perekrutan tanpa Batas</p>
+                    <p>Perusahaan dapat mempekerjakan karyawan dari mana saja, bahkan luar negri.</p>
                 </div>
                 <div class="col-md-6">
-                    <p class="home-benefit-content-title">4. Tingkatkan retensi karyawan</p>
-                    <p>Retensi karyawan adalah bagian penting dari pertumbuhan organisasi. Dengan menghargai semua karyawan yang tepat, itu akan mengurangi tingkat pengunduran diri. Dokodemo-Kerja dapat membantu Anda menentukan karyawan yang layak dijaga.</p>
+                    <p class="home-benefit-content-title">4. Pertahankan Karyawan</p>
+                    <p>Karyawan yang harus merawat anggota keluarga mereka tidak perlu lagi memilih, dan mereka dapat lanjut bekerja dari rumah. Dengan kebijakan strategi kerja remote, karyawan pun bisa mendapatkan keseimbangan antara bekerja dan kehidupan pribadi.</p>
+                </div>
+                <div class="col-md-6">
+                    <p class="home-benefit-content-title">5. Evaluasi Akurat</p>
+                    <p>Dokodemo-Kerja menyimpan data layar komputer (dengan resolusi rendah) dan jam kerja aktif karyawan. Data tersebut dapat membantu HR saat memberikan evaluasi yang adil kepada karyawan, karena didukung oleh data yang nyata.</p>
                 </div>
             </div>
             <div class="row">
