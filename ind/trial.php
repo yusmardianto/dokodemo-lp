@@ -116,7 +116,7 @@ $page = 'trial.php';
 					<a href="https://demo.dokodemo-kerja.com/files/Dokodemo-Kerja%20(Windows)%20demo%20v1.0.4.zip" class="btn btn-download bold uppercase hidden-xs" id="btn-download-windows-id"><i class="fa fa-download icon-download"></i>Windows</a>
 					<a href="https://demo.dokodemo-kerja.com/files/Dokodemo-Kerja%20(Mac)%20demo%20v1.0.4.zip" class="btn btn-download bold uppercase hidden-xs" id="btn-download-ios-id"><i class="fa fa-download icon-download"></i>IOS</a>
 					<a href="https://demo.dokodemo-kerja.com/files/Dokodemo-Kerja%20(Linux)%20demo%20v1.0.4.zip" class="btn btn-download bold uppercase hidden-xs" id="btn-download-linux-id"><i class="fa fa-download icon-download"></i>Linux</a>
-					<a href="https://www.logique.co.id/pdf/install-guide.pdf" target="_blank" rel="noopener noreferrer" aria-label="Install Guide" class="dl-guide">
+					<a href="https://dokodemo-kerja.com/pdf/install-guide.pdf" target="_blank" rel="noopener noreferrer" aria-label="Install Guide" class="dl-guide">
 						<img src="../img/install.png" class="d-block img-fluid img-border m-auto" id="trial-install-guide" alt="" />
 					</a>
 				</div>
@@ -165,7 +165,7 @@ $page = 'trial.php';
 										</p>
 										<a href="/ind/contact-us.php" class="btn btn-trial-contact bold uppercase" id="btn-contact-us-id">Hubungi Kami</a>
 										<p class="trial-tab-content q-title" style="color:blue; text-decoration:underline">
-										<a href="https://www.logique.co.id/pdf/install-guide.pdf" target="_blank" rel="noopener noreferrer">
+										<a href="https://dokodemo-kerja.com/pdf/install-guide.pdf" target="_blank" rel="noopener noreferrer">
 											Download Panduan Manual Dokodemo
 										</a>
 										</p>

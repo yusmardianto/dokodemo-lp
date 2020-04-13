@@ -17,12 +17,12 @@
             <span class="navbar-toggler-icon"></span>
         </button>
         <div class="collapse navbar-collapse" id="navbarNav">
-            <ul class="navbar-nav">
-                <li class="nav-item <?php active('index.php') ?>">
+            <ul class="navbar-nav ml-auto">
+                <li class="nav-item <?php active('') ?>">
                     <a class="nav-link" href="/ind/">Home</a>
                 </li>
                 <li class="nav-item <?php active('about.php') ?>">
-                    <a class="nav-link" href="/ind/about.php">About Dokodemo-Kerja</a>
+                    <a class="nav-link" href="/ind/about.php">About</a>
                 </li>
                 <li class="nav-item <?php active('features.php') ?>">
                     <a class="nav-link" href="/ind/features.php">Feature Tour</a>

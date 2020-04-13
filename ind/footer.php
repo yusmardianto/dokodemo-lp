@@ -2,7 +2,7 @@
     <div class="container">
         <div class="row align-items-center">
             <div class="col-lg-3 col-sm-12 footer-logo-container">
-                <img src="../img/logo-shadow.png" class="img-fluid" alt="" />
+                <img src="/img/dokodemo.svg" width="85" alt="">
                 <p>
                     <a href="https://www.logique.co.id/" target="_blank" aria-label="homepage link" rel="noopener noreferrer">
                         <img src="../img/logo_logique.png" class="img-fluid logique-logo" alt="" />
