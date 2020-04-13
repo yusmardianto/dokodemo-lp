@@ -102,7 +102,7 @@ $page = 'trial.php';
 	<section class="intro-section text-center px-4">
 		<h1 class="banner-text-white">Coba Demo Gratis Dulu</h1>
 		<a href="https://demo.dokodemo-kerja.com" class="btn btn-trial-contact bold uppercase" target="_blank" rel="noopener noreferrer" id="btn-demo-trial-id">Admin Demo</a>
-		<a href="https://www.logique.co.id/pdf/manual-guide.pdf" target="_blank" rel="noopener noreferrer">
+		<a href="https://dokodemo-kerja.com/manual-guide.pdf" target="_blank" rel="noopener noreferrer">
 			<p class="trial-header-content">Untuk mencoba versi staff, silahkan ikut instruksi dibawah</p>
 		</a>
 	</section>
@@ -204,7 +204,7 @@ $page = 'trial.php';
 										</p>
 										<a href="/ind/contact-us.php" class="btn btn-trial-contact bold uppercase" id="btn-contact-us-id-staff">Hubungi Kami</a>
 										<p class="trial-tab-content q-title mt-5" style="color:blue; text-decoration:underline">
-										<a href="https://www.logique.co.id/pdf/manual-guide.pdf" target="_blank" rel="noopener noreferrer">
+										<a href="https://dokodemo-kerja.com/manual-guide.pdf" target="_blank" rel="noopener noreferrer">
 											Download Panduan Manual Dokodemo
 										</a>
 
