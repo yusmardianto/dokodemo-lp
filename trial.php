@@ -80,26 +80,41 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 <!-- End Google Tag Manager (noscript) -->
 	<?php include 'header.php' ?>
 	<section class="intro-section text-center px-4">
-		<h1 class="banner-text-white">Try the Free Demo First</h1>
+		<h1 class="banner-text-white">Try Our Free Demo</h1>
+		<img src="/img/home/arrow-down.svg" class="pt-4" width="20" alt=""/>
 		<a href="https://demo.dokodemo-kerja.com" class="btn btn-trial-contact bold uppercase" target="_blank" rel="noopener noreferrer" id="btn-demo">Admin Demo</a>
 		<a href="https://www.logique.co.id/pdf/manual-guide-ENG.pdf" target="_blank" rel="noopener noreferrer">
-			<p class="trial-header-content">To try the staff demo, follow the instructions below</p>
+			<p class="trial-header-content">For staff demo, please follow the instruction bellow.</p>
 		</a>
 	</section>
 	<section id="trial-content">
 		<div class="container">
 			<div class="row mt-5 mb-5">
-				<div class="col-md-6 download-container">
+				<div class="offset-md-1 col-md-10 tutor-container mt-4 mb-3">
+					<!-- <iframe src="https://www.youtube.com/embed/Qyz0FtNbVbI" title="trial-iframe" class="trial-iframe" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> -->
+					<div class="embed-responsive embed-responsive-16by9 feature-video">
+                        <iframe class="embed-responsive-item" width="811" height="417" title="Dokodemo Youtube Video"
+                            src="https://www.youtube.com/embed/OWmF48Cq_fA" frameborder="0"
+                            allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
+                            allowfullscreen></iframe>
+                    </div>
+				</div>
+				<div class="offset-md-1 col-md-10 download-container text-center">
 					<h3 class="download-title hidden-xs">Install demo application from the links below:</h3>
-					<a href="https://demo.dokodemo-kerja.com/files/Dokodemo-Kerja%20(Windows)%20demo%20v1.0.4.zip" class="btn btn-download bold uppercase hidden-xs" id="btn-download-windows"><i class="fa fa-download icon-download"></i>Windows</a>
-					<a href="https://demo.dokodemo-kerja.com/files/Dokodemo-Kerja%20(Mac)%20demo%20v1.0.4.zip" class="btn btn-download bold uppercase hidden-xs" id="btn-download-ios"><i class="fa fa-download icon-download"></i>IOS</a>
-					<a href="https://demo.dokodemo-kerja.com/files/Dokodemo-Kerja%20(Linux)%20demo%20v1.0.4.zip" class="btn btn-download bold uppercase hidden-xs" id="btn-download-linux"><i class="fa fa-download icon-download"></i>Linux</a>
+					<div class="row">
+						<div class="col-md-4">
+							<a href="https://demo.dokodemo-kerja.com/files/Dokodemo-Kerja%20(Windows)%20demo%20v1.0.4.zip" class="btn btn-download bold uppercase hidden-xs" id="btn-download-windows"><i class="fa fa-download icon-download"></i>Windows</a>
+						</div>
+						<div class="col-md-4">
+							<a href="https://demo.dokodemo-kerja.com/files/Dokodemo-Kerja%20(Mac)%20demo%20v1.0.4.zip" class="btn btn-download bold uppercase hidden-xs" id="btn-download-ios"><i class="fa fa-download icon-download"></i>IOS</a>
+						</div>
+						<div class="col-md-4">
+							<a href="https://demo.dokodemo-kerja.com/files/Dokodemo-Kerja%20(Linux)%20demo%20v1.0.4.zip" class="btn btn-download bold uppercase hidden-xs" id="btn-download-linux"><i class="fa fa-download icon-download"></i>Linux</a>
+						</div>
+					</div>
 					<a href="https://www.logique.co.id/pdf/install-guide.pdf" target="_blank" aria-label="Install Guide" class="dl-guide" rel="noopener noreferrer">
 						<img src="img/install.png" class="d-block img-fluid img-border m-auto" id="trial-install-guide" alt="" />
 					</a>
-				</div>
-				<div class="col-md-6 tutor-container mt-4 mb-3">
-					<iframe src="https://www.youtube.com/embed/Qyz0FtNbVbI" title="trial-iframe" class="trial-iframe" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 				</div>
 			</div>
 			<div class="row mt-5">

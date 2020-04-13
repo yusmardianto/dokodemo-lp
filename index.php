@@ -110,59 +110,70 @@
         <?php include 'header.php' ?>
         <div class="container">
             <div class="row">
-                <div class="col-md-12">
+                <div class="offset-md-1 col-md-10">
                     <h1 class="banner-header-text">
-                    <strong>Remote Working with Dokodemo-Kerja <br>
+                    <span>Remote Working with</span> <strong>Dokodemo-Kerja, <br>
                     Reduce Costs & Increase Productivity</strong></h1>
                 </div>
-                <div class="col-12">
-                    <p class="text-center fs-18 subbanner-header-text">
-                    Accurately track employee working hours, no matter where they are. Dokodemo-Kerja ver 2.0 also has a GPS location record feature in its mobile application.
-                    <br>
-                    Let’s innovate the way we work!
-                    </p>
-                </div>
             </div>
-            <div class="row justify-content-center">
-                <div class="col-md-4">
-                    <div class="advantages-item">
-                        <img src="/img/home/done.png" class="pr-2 header-icon-verified" alt=""/>
-                        <div>
-                            <span class="header-feature">Cost Effective</span>
-                            <br />
-                            <span class="header-subfeature">1 juta ~ / Month</span></div>
-                    </div>
-                </div>
-                <div class="col-md-4">
-                    <div class="advantages-item">
-                        <img src="/img/home/done.png" class="pr-2 header-icon-verified" alt=""/>
-                        <div>
-                            <span class="header-feature">No Minimum</span>
-                            <br />
-                            <span class="header-subfeature">Contract Period</span>
+            <div class="row">
+                <div class="offset-md-1 col-md-10 pb-4 pb-md-0">
+                    <div class="row justify-content-center">
+                        <div class="col-md-4">
+                            <div class="advantages-item">
+                                <img src="/img/home/done-green.svg" class="pr-2 header-icon-verified" alt=""/>
+                                <div>
+                                    <span class="header-feature">Cost Effective</span>
+                                    <br />
+                                    <span class="header-subfeature">Rp 1Mio / Month</span></div>
+                            </div>
                         </div>
-                    </div>
-                </div>
-                <div class="col-md-4">
-                    <div class="advantages-item">
-                        <img src="/img/home/done.png" class="pr-2 header-icon-verified" alt=""/>
-                        <div>
-                            <span class="header-feature">Easy Setup</span>
-                            <br />
-                            <span class="header-subfeature">You can start today</span>
+                        <div class="col-md-4">
+                            <div class="advantages-item">
+                                <img src="/img/home/done-green.svg" class="pr-2 header-icon-verified" alt=""/>
+                                <div>
+                                    <span class="header-feature">No Minimum</span>
+                                    <br />
+                                    <span class="header-subfeature">Contract Period</span>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-md-4">
+                            <div class="advantages-item">
+                                <img src="/img/home/done-green.svg" class="pr-2 header-icon-verified" alt=""/>
+                                <div>
+                                    <span class="header-feature">Easy Setup</span>
+                                    <br />
+                                    <span class="header-subfeature">You can start today</span>
+                                </div>
+                            </div>
                         </div>
                     </div>
                 </div>
             </div>
             <div class="row">
-                <div class="col-md-12">
-                    <p class="fs-27 text-center header-demo-text">Try the <strong>Demo</strong> Now</p>
-                    <a href="trial.php" class="btn-sign-up btn-try-demo" id="btn-sign-up">Click Here</a>
-                    <span class="text-center d-block py-4 fs-medium header-subdemo-text">*No credit card required</span>
+                <div class="offset-md-1 col-md-10">
+                    <p class="text-center fs-18 subbanner-header-text">
+                    Accurately track employee working hours, no matter where they are. Dokodemo-Kerja ver 2.0 also has a GPS location record feature in its mobile application.
+                    <strong>Let’s innovate the way we work!</strong>
+                    </p>
+                </div>
+            </div>
+            <div class="row">
+                <div class="offset-md-1 col-md-10 text-center">
+                    <img src="/img/home/arrow-down.svg" class="pt-4 pb-5" width="20" alt=""/>
+                </div>
+            </div>
+            <div class="row">
+                <div class="offset-md-1 col-md-10">
+                    <!-- <p class="fs-27 text-center header-demo-text">Try the <strong>Demo</strong> Now</p> -->
+                    <a href="trial.php" class="btn-sign-up btn-try-demo" id="btn-sign-up">Try the Demo Now!</a>
+                    <span class="text-center d-block pb-4 pt-2 fs-medium header-subdemo-text">*No credit card required</span>
                 </div>
             </div>
         </div>
     </section>
+
     <section class="hide-button-on-mobile">
         <span id="popup-text">
             <div class="speech-bubble">
@@ -174,15 +185,19 @@
             <img src="../img/whatsapp.svg" id="fixedbutton" alt="" />
         </a>
     </section>
+
     <section class="feature-content mt-5">
         <div class="container">
             <div class="row">
-                <div class="col-md-12">
+                <div class="offset-md-1 col-md-10">
                     <h1 class="home-feature-title">Features</h1>
                 </div>
             </div>
             <div class="row mt-3">
-                <div class="col-md-6">
+                <div class="offset-md-1 col-md-10">
+                    <p class="home-feature-content">Employee working routines can be easily tracked, anywhere and at any time, through the inbuilt Random Screen Capture feature. Additionally, the Dokodemo-Kerja Mobile Application will be able to track and record when and where they have worked via GPS, allowing for greater employee flexibility, as well as making it easier for employers to manage their work schedules.</p>           
+                </div>
+                <div class="offset-md-2 col-md-8">
                      <div class="embed-responsive embed-responsive-16by9 feature-video">
                         <iframe class="embed-responsive-item" width="811" height="417" title="Dokodemo Youtube Video"
                             src="https://www.youtube.com/embed/OWmF48Cq_fA" frameborder="0"
@@ -190,65 +205,167 @@
                             allowfullscreen></iframe>
                     </div>
                 </div>
-                <div class="col-md-6">
-                    <p class="home-feature-content">Employee working routines can be easily tracked, anywhere and at any time, through the inbuilt Random Screen Capture feature. Additionally, the Dokodemo-Kerja Mobile Application will be able to track and record when and where they have worked via GPS, allowing for greater employee flexibility, as well as making it easier for employers to manage their work schedules.</p>           
-                    <ol class="home-feature-list">
-                        <li>Track tasks and calculate overall working hours.</li>
-                        <li>Track and record location via the Mobile Application.</li>
-                        <li>Manage and Analyze where and when users have worked.</li>
-                    </ol>
-                    <a href="/features.php">
-                        <button class="btn btn-primary feature-btn">Learn More</button>
-                    </a>
+                <div class="offset-md-1 col-md-10 home-feature__card-wrapper">
+                    <div>
+                        <div class="home-feature__card">
+                            <div class="card__num">
+                                1.
+                            </div>
+                            <div class="card__content">
+                                Track tasks and calculate overall working hours. 
+                            </div>
+                        </div>
+                    </div>
+                    <div>
+                        <div class="home-feature__card">
+                            <div class="card__num">
+                                2.
+                            </div>
+                            <div class="card__content">
+                                Track and record location via the Mobile Application. 
+                            </div>
+                        </div>
+                    </div>
+                    <div>
+                        <div class="home-feature__card">
+                            <div class="card__num">
+                                3.
+                            </div>
+                            <div class="card__content">
+                                Manage and Analyze where and when users have worked. 
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="offset-md-1 col-md-10 home-feature__card-wrapper --btn">
+                    <div>
+                        <a href="/features.php">
+                            <button class="btn btn-primary form-control feature-btn">Learn More</button>
+                            <img src="/img/home/arrow-down.svg"  width="13" alt=""/>
+                        </a>
+                    </div>
                 </div>
             </div>
         </div>
     </section>
+
     <section class="screenshots mt-5">
         <div class="container-fluid">
             <div class="screenshot-slide zoom-gallery">
                 <div>
-                    <a href="img/features/screen-1.jpg" data-source="img/features/screen-1.jpg" title="Daily Working Screen Capture" aria-label="Daily Working Screen Capture">
-                        <img src="img/features/screen-1.jpg" class="img-slide-screenshot modal-hover-opacity" alt=""/>
+                    <a href="img/features/home_01.png" data-source="img/features/home_01.png" title="Daily Working Screen Capture" aria-label="Daily Working Screen Capture">
+                        <div class="img-slide-screenshot--wrapper">
+                            <img src="img/features/home_01-com.png" class="img-slide-screenshot modal-hover-opacity" alt=""/>
+                        </div>
                     </a>
                 </div>
                 <div>
-                    <a href="img/features/screen-2.jpg" data-source="img/features/screen-2.jpg" title="Daily Working Hours Bars" aria-label="Daily Working Hours Bars">
-                        <img src="img/features/screen-2.jpg" class="img-slide-screenshot modal-hover-opacity" alt=""/>
+                    <a href="img/features/home_02.png" data-source="img/features/home_02.png" title="Daily Working Hours Bars" aria-label="Daily Working Hours Bars">
+                        <div class="img-slide-screenshot--wrapper">
+                            <img src="img/features/home_02-com.png" class="img-slide-screenshot modal-hover-opacity" alt=""/>
+                        </div>
                     </a>
                 </div>
                 <div>
+                    <a href="img/features/home_03.png" data-source="img/features/home_03.png" title="Staff Management" aria-label="Staff Management">
+                        <div class="img-slide-screenshot--wrapper">
+                            <img src="img/features/home_03-com.png" class="img-slide-screenshot modal-hover-opacity" alt=""/>
+                        </div>
+                    </a>
+                </div>
+                <div>
+                    <a href="img/features/home_04.png" data-source="img/features/home_04.png" title="Daily Working Screen Capture" aria-label="Daily Working Screen Capture">
+                        <div class="img-slide-screenshot--wrapper">
+                            <img src="img/features/home_04-com.png" class="img-slide-screenshot modal-hover-opacity" alt=""/>
+                        </div>
+                    </a>
+                </div>
+                <div>
+                    <a href="img/features/home_05.png" data-source="img/features/home_05.png" title="Daily Working Hours Bars" aria-label="Daily Working Hours Bars">
+                        <div class="img-slide-screenshot--wrapper">
+                            <img src="img/features/home_05-com.png" class="img-slide-screenshot modal-hover-opacity" alt=""/>
+                        </div>
+                    </a>
+                </div>
+                <!-- <div>
                     <a href="img/features/screen-3.jpg" data-source="img/features/screen-3.jpg" title="Staff Management" aria-label="Staff Management">
-                        <img src="img/features/screen-3.jpg" class="img-slide-screenshot modal-hover-opacity" alt=""/>
+                        <div class="img-slide-screenshot--wrapper">
+                            <img src="img/features/screen-3.jpg" class="img-slide-screenshot modal-hover-opacity" alt=""/>
+                        </div>
                     </a>
-                </div>
-                <div>
-                    <a href="img/features/screen-1.jpg" data-source="img/features/screen-1.jpg" title="Daily Working Screen Capture" aria-label="Daily Working Screen Capture">
-                        <img src="img/features/screen-1.jpg" class="img-slide-screenshot modal-hover-opacity" alt=""/>
-                    </a>
-                </div>
-                <div>
-                    <a href="img/features/screen-2.jpg" data-source="img/features/screen-2.jpg" title="Daily Working Hours Bars" aria-label="Daily Working Hours Bars">
-                        <img src="img/features/screen-2.jpg" class="img-slide-screenshot modal-hover-opacity" alt=""/>
-                    </a>
-                </div>
-                <div>
-                    <a href="img/features/screen-3.jpg" data-source="img/features/screen-3.jpg" title="Staff Management" aria-label="Staff Management">
-                        <img src="img/features/screen-3.jpg" class="img-slide-screenshot modal-hover-opacity" alt=""/>
-                    </a>
-                </div>
+                </div> -->
             </div>
         </div>
     </section>
+
     <section class="benefit-container">
-        <div class="container mt-5">
+        <div class="container my-5">
             <div class="row">
-                <div class="col-md-12">
+                <div class="offset-md-1 col-md-10">
                     <h1 class="home-feature-title">Benefits</h1>
                     <p class="home-benefit-content">Your company will be able to implement innovative and flexible HR strategies, strengthening the overall output of your work force, while enhancing your staff’s wellbeing. Allowing employees to work remotely grants them flexible working hours, giving them the chance to work in a comfortable environment suited to them, while at the same time increasing productivity and improving upon practical management strategies which allow for the fair evaluation of staff. Overall, the advantages are many, for both the Company and Employees alike. These include:</p>
                 </div>
             </div>
             <div class="row mt-3">
+                <div class="offset-md-1 col-md-5 home-benefit__card-wrapper">
+                    <div class="home-benefit__card">
+                        <div class="card__content">
+                            <h3 class="card__header">Cost Saving</h3>
+                            <img class="card__img" src="/img/home/purse.svg" alt="Cost Saving">
+                            <p class="card__text">
+                            Employees can greatly reduce their commuting expenses, while employers can also save on costs in regards to transportation and meal allowances. Such strategies also reduce the need for office space, thereby allowing the company to save money renting a smaller office.
+                            </p>
+                        </div>
+                    </div>
+                    <div class="home-benefit__card">
+                        <div class="card__content">
+                            <h3 class="card__header">Universal Hiring</h3>
+                            <img class="card__img" src="/img/home/research.svg" alt="Universal Hiring">
+                            <p class="card__text">
+                            Employers can hire talented individuals from anywhere; even overseas.
+                            </p>
+                        </div>
+                    </div>
+                    <div class="home-benefit__card">
+                        <div class="card__content">
+                            <h3 class="card__header">Accurate Evaluation</h3>
+                            <img class="card__img" src="/img/home/maths.svg" alt="Accurate Evaluation">
+                            <p class="card__text">
+                            Dokodemo-Kerja keeps track on what employees are doing and how they work, thus assisting HR in the process of evaluating staff output in a fair and objective manner, with concrete evidence to back it up.
+                            </p>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-md-5 home-benefit__card-wrapper">
+                    <div class="home-benefit__card">
+                        <div class="card__content">
+                            <h3 class="card__header">Increased Productivity</h3>
+                            <img class="card__img" src="/img/home/presentation.svg" alt="Increased Productivity">
+                            <p class="card__text">
+                            Employees can singularly focus their efforts on producing results, while not having to waste time and energy on logistical difficulties and commuting.
+                            </p>
+                        </div>
+                    </div>
+                    <div class="home-benefit__card">
+                        <div class="card__content">
+                            <h3 class="card__header">Retain Employees</h3>
+                            <img class="card__img" src="/img/home/exam.svg" alt="Retain Employees">
+                            <p class="card__text">
+                            Employees who need to take care of homebound family members, or their children, won’t have to choose between their job and their home life. Through remote working strategies, they can now adopt an ideal work-life balance.
+                            </p>
+                        </div>
+                    </div>
+                    <div class="home-benefit__card --btn">
+                        <div class="card__content">
+                            <a href="/features.php">
+                                <button class="btn btn-primary form-control feature-btn" style="font-size: 20px; padding-top: .4em;">Learn More</button>
+                                <img src="/img/home/arrow-down.svg"  width="13" alt=""/>
+                            </a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <!-- <div class="row mt-3">
                 <div class="col-md-6">
                     <p class="home-benefit-content-title">1. Cost Saving</p>
                     <p>Employees can greatly reduce their commuting expenses, while employers can also save on costs in regards to transportation and meal allowances. Such strategies also reduce the need for office space, thereby allowing the company to save money renting a smaller office.</p>
@@ -276,12 +393,12 @@
                         <button class="btn btn-primary benefit-btn">Learn More</button>
                     </a>
                 </div>
-            </div>
+            </div> -->
         </div>
     </section>
     <section class="user-testimony" id="testimony">
         <h1 class="section-title">USER TESTIMONY</h1>
-        <div class="container">
+        <div class="container-fluid">
             <div class="testimony-slider">
                 <div class="testimony-item">
                     <div class="testimony-text">The traffic jam that I experience every morning I leave for work can be
@@ -366,9 +483,15 @@
 
     </section>
     <section class="user-demo">
-        <p class="fs-27 text-center header-demo-text">Try the <strong>Demo</strong> Now</p>
-        <a href="trial.php" class="btn-sign-up btn-try-demo" id="btn-sign-up">Click Here</a>
-        <span class="text-center d-block py-4 fs-medium header-subdemo-text">*No credit card required</span>
+        <div class="row">
+            <div class="offset-md-3 col-md-3 pb-4 pb-md-0">
+                <p class="fs-27 text-white text-center text-md-left header-demo-text mb-0"><strong>Try the demo, Now!</strong></p>
+                <span class="d-block text-white text-center text-md-left fs-18 header-subdemo-text">*No credit card required</span>
+            </div>
+            <div class="col-md-3">
+                <a href="trial.php" class="btn-sign-up btn-try-demo" id="btn-sign-up">Click Here</a>
+            </div>
+        </div>
     </section>
 
     <!-- req online meeting popup -->
@@ -480,8 +603,12 @@
     <script>
     $(".screenshot-slide").slick({
             infinite: true,
+            arrows: false,
+            autoplay: true,
+            pauseOnFocus: true,
             slidesToShow: 3,
             slidesToScroll: 1,
+            centerMode: true,
             responsive: [{
                 breakpoint: 992,
                 settings: {
@@ -498,9 +625,12 @@
         })
     $('.testimony-slider').slick({
         infinite: true,
-        slidesToShow: 3,
-        slidesToScroll: 3,
         arrows: false,
+        autoplay: true,
+        pauseOnFocus: true,
+        slidesToShow: 2.3,
+        slidesToScroll: 1,
+        centerMode: true,
         dots: true,
         responsive: [{
             breakpoint: 992,
