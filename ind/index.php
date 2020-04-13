@@ -66,57 +66,73 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
         <?php include 'header.php' ?>
         <div class="container">
             <div class="row">
-                <div class="col-md-12">
-                    <h1 class="banner-header-text"><strong>HEMAT UANG. TINGKATKAN PRODUKTIVITAS.</strong></h1>
-
-                </div>
-                <div class="col-12">
-                    <p class="text-center fs-18 subbanner-header-text">Lacak aktivitas karyawan Anda dengan Dokodemo-Kerja. <br>Sebuah program yang me-screenshot layar Anda setiap 10 menit secara acak.</p>
+                <div class="offset-md-1 col-md-10">
+                    <h1 class="banner-header-text">
+                        <span>Ayo Kerja Remote dengan</span> <strong>Dokodemo-Kerja <br>
+                        Tingkatkan Efisiensi Anggaran dan Produktifitas.</strong>
+                    </h1>
                 </div>
             </div>
-            <div class="row justify-content-center">
-                <div class="col-md-4">
-                    <div class="advantages-item">
-                        <img src="/img/home/done.png" class="pr-2 header-icon-verified" alt="" />
-                        <div>
-                            <span class="header-feature">Harga Murah</span>
-                            <br />
-                            <span class="header-subfeature">1 juta ~ / Bulan</span></div>
+            <div class="row">
+                <div class="offset-md-1 col-md-10 pb-4 pb-md-0">
+                    <div class="row justify-content-center">
+                        <div class="col-md-4">
+                            <div class="advantages-item">
+                                <img src="/img/home/done-green.svg" class="pr-2 header-icon-verified" alt="" />
+                                <div>
+                                    <span class="header-feature">Harga Murah</span>
+                                    <br />
+                                    <span class="header-subfeature">1 juta ~ / Bulan</span>
+                                </div>
+                            </div>
                         </div>
-                </div>
-                <div class="col-md-4">
-                    <div class="advantages-item">
-                        <img src="/img/home/done.png" class="pr-2 header-icon-verified" alt="" />
-                        <div>
-                        <span class="header-feature">Tidak Ada</span>
-                        <br />
-                        <span class="header-subfeature">Kontrak Minimum</span>
+                        <div class="col-md-4">
+                            <div class="advantages-item">
+                                <img src="/img/home/done-green.svg" class="pr-2 header-icon-verified" alt="" />
+                                <div>
+                                <span class="header-feature">Tidak Ada</span>
+                                <br />
+                                <span class="header-subfeature">Kontrak Minimum</span>
+                                </div>
+                            </div>
                         </div>
-                    </div>
-                </div>
-                <div class="col-md-4">
-                    <div class="advantages-item">
-                        <img src="/img/home/done.png" class="pr-2 header-icon-verified" alt="" />
-                        <div>
-                            <span class="header-feature">Mudah Dipasang</span>
-                            <br />
-                            <span class="header-subfeature">Anda bisa mulai sekarang</span>
+                        <div class="col-md-4">
+                            <div class="advantages-item">
+                                <img src="/img/home/done-green.svg" class="pr-2 header-icon-verified" alt="" />
+                                <div>
+                                    <span class="header-feature">Mudah Dipasang</span>
+                                    <br />
+                                    <span class="header-subfeature">Anda bisa mulai sekarang</span>
+                                </div>
+                            </div>
                         </div>
                     </div>
                 </div>
             </div>
             <div class="row">
-                <div class="col-md-12">
-                    <p class="fs-27 text-center header-demo-text">Coba <strong>Demo</strong> Sekarang</p>
-                    <a href="trial.php" class="btn-sign-up btn-try-demo" id="btn-sign-up-id">Klik Disini</a>
-                    <span class="text-center d-block py-4 fs-medium header-subdemo-text">*Tidak perlu Kartu Kredit</span>
+                <div class="offset-md-1 col-md-10">
+                    <p class="text-center fs-18 subbanner-header-text">Dapatkan jam kerja karyawan secara akurat, dimanapun mereka bekerja. Dokodemo-Kerja versi 2.0 mempunyai fungsi GPS yang mencatat sejarah lokasi di aplikasi handphone. <strong>Mari Inovasikan cara kita bekerja!</strong>
+                    </p>
                 </div>
             </div>
-            <div class="bottom-arrow-wrapper">
-                <a href="#benefits" class="smooth" aria-label="smooth link"><img src="/img/home/down.png" alt="" /></a>
+            <div class="row">
+                <div class="offset-md-1 col-md-10 text-center">
+                    <img src="/img/home/arrow-down.svg" class="pt-4 pb-5" width="20" alt=""/>
+                </div>
             </div>
+            <div class="row">
+                <div class="offset-md-1 col-md-10">
+                    <!-- <p class="fs-27 text-center header-demo-text">Coba <strong>Demo</strong> Sekarang</p> -->
+                    <a href="trial.php" class="btn-sign-up btn-try-demo" id="btn-sign-up-id">Coba Demo Sekarang</a>
+                    <span class="text-center d-block pb-4 pt-2 fs-medium header-subdemo-text">*Tidak perlu Kartu Kredit</span>
+                </div>
+            </div>
+            <!-- <div class="bottom-arrow-wrapper">
+                <a href="#benefits" class="smooth" aria-label="smooth link"><img src="/img/home/down.png" alt="" /></a>
+            </div> -->
         </div>
     </section>
+
     <section class="hide-button-on-mobile">
         <span id="popup-text">
             <div class="speech-bubble">
@@ -177,33 +193,75 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
         </span>    
     </section>
     <!-- end of req online meeting popup -->
+
+    
     <section class="feature-content mt-5">
         <div class="container">
             <div class="row">
-                <div class="col-md-12">
+                <div class="offset-md-1 col-md-10">
                     <h1 class="home-feature-title">Features</h1>
                     <!-- <p>Dokodemo-Kerja is a time-management oriented solution for both employers and employees alike. Through its efficient monitoring and management capabilities, Dokodemo-Kerja can further help companies improve their levels of productivity, while at the same time provide flexible working hours for employees.</p> -->
                 </div>
             </div>
-            <div class="row mt-3">
-                <div class="col-md-6">
+            <div class="row mt-3">              
+                <div class="offset-md-1 col-md-10">
+                    <p class="home-feature-content">Dokodemo-Kerja dengan secara acak menyimpan gambar layar komputer dan mencatat jam kerja, yang mempermudah evaluasi kinerja karyawan. Dan dengan adanya fungsi GPS yang mencatat sejarah lokasi dari aplikasi handphone dapat membantu karyawan untuk mempunyai cara kerja yang lebih fleksibel sekaligus mempermudah pihak perusahaan dalam mengatur jadwal kerja.</p>           
+                    <!-- <ol class="home-feature-list">
+                        <li>Pantau tugas dan jam kerja karyawan.</li>
+                        <li>Pantau sejarah lokasi dengan aplikasi handphone.</li>
+                        <li>Mengatur dan menganalisa kapan dan dimana mereka telah bekerja.</li>
+                    </ol>
+                    <a href="/ind/features.php">
+                        <button class="btn btn-primary feature-btn">Learn More</button>
+                    </a> -->
+                </div>
+                <div class="offset-md-2 col-md-8">
                      <div class="embed-responsive embed-responsive-16by9 feature-video">
                         <iframe class="embed-responsive-item" width="811" height="417" title="dokodemo youtube video"
-                            src="https://www.youtube.com/embed/Y8kU7CmCvso" frameborder="0"
+                            src="https://www.youtube.com/embed/OWmF48Cq_fA" frameborder="0"
                             allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
                             allowfullscreen></iframe>
                     </div>
                 </div>
-                <div class="col-md-6">
-                    <p class="home-feature-content">Dokodemo-Kerja adalah solusi sistem kerja yang menguntungkan bagi karyawan dan perusahaan. Dengan sistem kerja yang efisien, Dokodemo-Kerja dapat membantu perusahaan berkonsentrasi pada peningkatan produktivitas dan pada saat yang sama, memberikan fleksibilitas untuk karyawan mereka.</p>           
-                    <ol class="home-feature-list">
-                        <li>Melacak dan memantau tugas karyawan</li>
-                        <li>Mendapatkan laporan waktu kerja</li>
-                        <li>Mengelola jam kerja karyawan</li>
-                    </ol>
-                    <a href="/ind/features.php">
-                        <button class="btn btn-primary feature-btn">Learn More</button>
-                    </a>
+                <div class="offset-md-1 col-md-10 home-feature__card-wrapper">
+                    <div>
+                        <div class="home-feature__card">
+                            <div class="card__num">
+                                1.
+                            </div>
+                            <div class="card__content">
+                                Pantau tugas dan jam kerja karyawan. 
+                            </div>
+                        </div>
+                    </div>
+                    <div>
+                        <div class="home-feature__card">
+                            <div class="card__num">
+                                2.
+                            </div>
+                            <div class="card__content">
+                                Pantau sejarah lokasi dengan aplikasi handphone.
+                            </div>
+                        </div>
+                    </div>
+                    <div>
+                        <div class="home-feature__card">
+                            <div class="card__num">
+                                3.
+                            </div>
+                            <div class="card__content">
+                                Mengatur dan menganalisa kapan dan dimana mereka telah bekerja. 
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="offset-md-1 col-md-10 home-feature__card-wrapper --btn">
+                    <div>
+                        <a href="ind/features.php">
+                            <button class="btn btn-primary form-control feature-btn">Learn More</button>
+                            <img src="/img/home/arrow-down.svg"  width="13" alt=""/>
+                        </a>
+                    </div>
                 </div>
             </div>
         </div>
@@ -212,62 +270,137 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
         <div class="container-fluid">
             <div class="screenshot-slide zoom-gallery">
                 <div>
-                    <a href="../img/features/screen-1.jpg" data-source="../img/features/screen-1.jpg" title="Daily Working Screen Capture" aria-label="Daily Working Screen Capture">
-                        <img src="../img/features/screen-1.jpg" class="img-slide-screenshot modal-hover-opacity" alt="" />
+                    <a href="../img/features/home_01.png" data-source="../img/features/home_01.png" title="Daily Working Screen Capture" aria-label="Daily Working Screen Capture">
+                    <div class="img-slide-screenshot--wrapper">
+                        <img src="../img/features/home_01-com.png" class="img-slide-screenshot modal-hover-opacity" alt="" />
+                    </div>    
                     </a>
                 </div>
                 <div>
-                    <a href="../img/features/screen-2.jpg" data-source="../img/features/screen-2.jpg" title="Daily Working Hours Bars" aria-label="Daily Working Hours Bars">
-                        <img src="../img/features/screen-2.jpg" class="img-slide-screenshot modal-hover-opacity" alt=""/>
+                    <a href="../img/features/home_02.png" data-source="../img/features/home_02.png" title="Daily Working Hours Bars" aria-label="Daily Working Hours Bars">
+                    <div class="img-slide-screenshot--wrapper">
+                        <img src="../img/features/home_02-com.png" class="img-slide-screenshot modal-hover-opacity" alt=""/>
+                    </div>    
                     </a>
                 </div>
                 <div>
-                    <a href="../img/features/screen-3.jpg" data-source="../img/features/screen-3.jpg" title="Staff Management" aria-label="Staff Management">
-                        <img src="../img/features/screen-3.jpg" class="img-slide-screenshot modal-hover-opacity" alt=""/>
+                    <a href="../img/features/home_03.png" data-source="../img/features/home_03.png" title="Staff Management" aria-label="Staff Management">
+                    <div class="img-slide-screenshot--wrapper">
+                        <img src="../img/features/home_03-com.png" class="img-slide-screenshot modal-hover-opacity" alt=""/>
+                    </div>    
                     </a>
                 </div>
                 <div>
-                    <a href="../img/features/screen-1.jpg" data-source="../img/features/screen-1.jpg" title="Daily Working Screen Capture" aria-label="Daily Working Screen Capture">
-                        <img src="../img/features/screen-1.jpg" class="img-slide-screenshot modal-hover-opacity" alt=""/>
+                    <a href="../img/features/home_04.png" data-source="../img/features/home_04.png" title="Daily Working Screen Capture" aria-label="Daily Working Screen Capture">
+                    <div class="img-slide-screenshot--wrapper">
+                        <img src="../img/features/home_04-com.png" class="img-slide-screenshot modal-hover-opacity" alt=""/>
+                    </div>    
                     </a>
                 </div>
                 <div>
-                    <a href="../img/features/screen-2.jpg" data-source="../img/features/screen-2.jpg" title="Daily Working Hours Bars" aria-label="Daily Working Hours Bars">
-                        <img src="../img/features/screen-2.jpg" class="img-slide-screenshot modal-hover-opacity" alt=""/>
+                    <a href="../img/features/home_05.png" data-source="../img/features/home_05.png" title="Daily Working Hours Bars" aria-label="Daily Working Hours Bars">
+                    <div class="img-slide-screenshot--wrapper">
+                        <img src="../img/features/home_05-com.png" class="img-slide-screenshot modal-hover-opacity" alt=""/>
+                    </div>    
                     </a>
                 </div>
-                <div>
-                    <a href="../img/features/screen-3.jpg" data-source="../img/features/screen-3.jpg" title="Staff Management" aria-label="Staff Management">
-                        <img src="../img/features/screen-3.jpg" class="img-slide-screenshot modal-hover-opacity" alt=""/>
+                <!-- <div>
+                    <a href="../img/features/home_01.png" data-source="../img/features/home_01.png" title="Staff Management" aria-label="Staff Management">
+                    <div class="img-slide-screenshot--wrapper">
+                        <img src="../img/features/home_01.png" class="img-slide-screenshot modal-hover-opacity" alt=""/>
+                    </div>    
                     </a>
-                </div>
+                </div> -->
             </div>
         </div>
     </section>
     <section class="benefit-container">
         <div class="container mt-5">
             <div class="row">
-                <div class="col-md-12">
+                <div class="offset-md-1 col-md-10">
                     <h1 class="home-feature-title">Benefit</h1>
-                    <p class="home-benefit-content">Alasan paling umum bagi karyawan untuk berhenti adalah perjalanan panjang, Kurangnya keseimbangan kerja / hidup, dan gaji / tunjangan yang buruk. Dengan membiarkan mereka bekerja dari jarak jauh dengan persyaratan mereka, mereka akan melihat bahwa ada manfaat nyata yang bekerja untuk Anda.</p>
+                    <p class="home-benefit-content">Perusahaan anda dapat menerapkan strategi-strategi HR yang lebih inovatif dan fleksibel, yang dapat meningkatkan kinerja total perusahaan anda sekaligus memberikan nilai positif bagi kesejahteraan karyawan. Dengan memberikan karyawan pilihan untuk kerja secara remote dan jam kerja yang fleksibel, maka akan membantu mereka untuk menemukan lingkungan kerja mereka yang paling kondusif dan di saat yang sama meningkatkan kinerja. Adanya jam kerja yang tercatat akan membantu perusahaan untuk membuat evaluasi yang lebih adil. Banyak manfaat lain yang bisa didapatkan oleh perusahaan dan karyawan di antaranya :</p>
                 </div>
             </div>
             <div class="row mt-3">
+                <div class="offset-md-1 col-md-5">
+                    <div class="home-benefit__card">
+                        <div class="card__content">
+                            <h3 class="card__header">Efisiensi Anggaran</h3>
+                            <img class="card__img" src="/img/home/purse.svg" alt="Efisiensi Anggaran">
+                            <p class="card__text">
+                            Karyawan dapat mengurangi biaya transportasi mereka dan dengan penggunaan cara kerja remote yang tepat Perusahaan dapat mengurangi biaya untuk menyewa area kantor.
+                            </p>
+                        </div>
+                    </div>
+                    <div class="home-benefit__card">
+                        <div class="card__content">
+                            <h3 class="card__header">Perekrutan tanpa Batas</h3>
+                            <img class="card__img" src="/img/home/research.svg" alt="Perekrutan tanpa Batas">
+                            <p class="card__text">
+                            Perusahaan dapat mempekerjakan karyawan dari mana saja, bahkan luar negri.
+                            </p>
+                        </div>
+                    </div>
+                    <div class="home-benefit__card">
+                        <div class="card__content">
+                            <h3 class="card__header">Evaluasi Akurat</h3>
+                            <img class="card__img" src="/img/home/maths.svg" alt="Evaluasi Akurat">
+                            <p class="card__text">
+                            Dokodemo-Kerja menyimpan data layar komputer (dengan resolusi rendah) dan jam kerja aktif karyawan. Data tersebut dapat membantu HR saat memberikan evaluasi yang adil kepada karyawan, karena didukung oleh data yang nyata.
+                            </p>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-md-5">
+                    <div class="home-benefit__card">
+                        <div class="card__content">
+                            <h3 class="card__header">Peningkatan Produktifitas</h3>
+                            <img class="card__img" src="/img/home/presentation.svg" alt="Peningkatan Produktifitas">
+                            <p class="card__text">
+                            Dengan tidak perlu pergi ke kantor, energi yang terbuang diperjalanan dapat digunakan untuk hal yang lebih positif.
+                            </p>
+                        </div>
+                    </div>
+                    <div class="home-benefit__card">
+                        <div class="card__content">
+                            <h3 class="card__header">Pertahankan Karyawan</h3>
+                            <img class="card__img" src="/img/home/exam.svg" alt="Pertahankan Karyawan">
+                            <p class="card__text">
+                            Karyawan yang harus merawat anggota keluarga mereka tidak perlu lagi memilih, dan mereka dapat lanjut bekerja dari rumah. Dengan kebijakan strategi kerja remote, karyawan pun bisa mendapatkan keseimbangan antara bekerja dan kehidupan pribadi.
+                            </p>
+                        </div>
+                    </div>
+                    <div class="home-benefit__card --btn">
+                        <div class="card__content">
+                            <a href="https://www.logique.co.id/blog/category/dokodemo-kerja/">
+                                <button class="btn btn-primary form-control feature-btn" style="font-size: 20px; padding-top: .4em;">Learn More</button>
+                                <img src="/img/home/arrow-down.svg"  width="13" alt=""/>
+                            </a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <!-- <div class="row mt-3">
                 <div class="col-md-6">
-                    <p class="home-benefit-content-title">1. Menghemat biaya ruang kantor</p>
-                    <p>Anda dapat merotasi hari kerja karyawan Anda keluar-masuk kantor jika ekspansi tidak memungkinkan. Beberapa karyawan mungkin merasa tidak nyaman bekerja di bilik, dan bekerja lebih produktif di luar. Bekerja dari jarak jauh juga dapat diimplementasikan sebagai sistem penghargaan, di samping manfaat yang ada.</p>
+                    <p class="home-benefit-content-title">1. Efisiensi Anggaran</p>
+                    <p>Karyawan dapat mengurangi biaya transportasi mereka dan dengan penggunaan cara kerja remote yang tepat Perusahaan dapat mengurangi biaya untuk menyewa area kantor.</p>
                 </div>
                 <div class="col-md-6">
-                    <p class="home-benefit-content-title">2. Menentukan karyawan terbaik Anda dengan objektif</p>
-                    <p>Karyawan terbaik Anda ingin diakui untuk pekerjaannya. Mereka yang memberikan lebih banyak waktu, menyelesaikan lebih banyak tugas, dan tidak banyak malas akan dihargai lebih banyak daripada mereka yang tampak mengabaikan pekerjaan mereka.</p>
+                    <p class="home-benefit-content-title">2. Peningkatan Produktifitas</p>
+                    <p>Dengan tidak perlu pergi ke kantor, energi yang terbuang diperjalanan dapat digunakan untuk hal yang lebih positif.</p>
                 </div>
                 <div class="col-md-6">
-                    <p class="home-benefit-content-title">3. Meningkatkan Efisiensi Jam Kerja</p>
-                    <p>Apakah karyawan Anda benar-benar bekerja sesuai dengan persyaratan waktu minimum? Apakah Anda benar-benar mendapatkan apa yang Anda bayar? Dengan menggunakan Dokodemo-Kerja, Anda dapat melihat berapa lama karyawan untuk menyelesaikan tugas, dan membantu Anda membuat rencana proyek yang lebih baik.</p>
+                    <p class="home-benefit-content-title">3. Perekrutan tanpa Batas</p>
+                    <p>Perusahaan dapat mempekerjakan karyawan dari mana saja, bahkan luar negri.</p>
                 </div>
                 <div class="col-md-6">
-                    <p class="home-benefit-content-title">4. Tingkatkan retensi karyawan</p>
-                    <p>Retensi karyawan adalah bagian penting dari pertumbuhan organisasi. Dengan menghargai semua karyawan yang tepat, itu akan mengurangi tingkat pengunduran diri. Dokodemo-Kerja dapat membantu Anda menentukan karyawan yang layak dijaga.</p>
+                    <p class="home-benefit-content-title">4. Pertahankan Karyawan</p>
+                    <p>Karyawan yang harus merawat anggota keluarga mereka tidak perlu lagi memilih, dan mereka dapat lanjut bekerja dari rumah. Dengan kebijakan strategi kerja remote, karyawan pun bisa mendapatkan keseimbangan antara bekerja dan kehidupan pribadi.</p>
+                </div>
+                <div class="col-md-6">
+                    <p class="home-benefit-content-title">5. Evaluasi Akurat</p>
+                    <p>Dokodemo-Kerja menyimpan data layar komputer (dengan resolusi rendah) dan jam kerja aktif karyawan. Data tersebut dapat membantu HR saat memberikan evaluasi yang adil kepada karyawan, karena didukung oleh data yang nyata.</p>
                 </div>
             </div>
             <div class="row">
@@ -276,12 +409,12 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                         <button class="btn btn-primary benefit-btn">Learn More</button>
                     </a>
                 </div>
-            </div>
+            </div> -->
         </div>
     </section>
     <section class="user-testimony" id="testimony">
         <h1 class="section-title">USER TESTIMONY</h1>
-        <div class="container">
+        <div class="container-fluid">
             <div class="testimony-slider">
                 <div class="testimony-item">
                     <div class="testimony-text">Macetnya lalu lintas menuju kantor saya cukup membuat saya stress. Lelah dan stress saya menjadi bertambah, sebab rumah dengan kantor saya memiliki jarak yang cukup jauh. Setiap harinya saya menghabiskan waktu selama empat jam di jalan, terus menerus seperti itu. Pada akhirnya, perusahaan saya menggunakan Dokodemo-Kerja dan menerapkan sistem kerja remote di kantor. Dengan Dokodemo-Kerja saya bisa bekerja secara fleksibel.</div>
@@ -325,9 +458,15 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 
     </section>
     <section class="user-demo">
-        <p class="fs-27 text-center header-demo-text">Coba <strong>Demo</strong> Sekarang</p>
-        <a href="trial.php" class="btn-sign-up btn-try-demo" id="btn-sign-up-id">Klik Disini</a>
-        <span class="text-center d-block py-4 fs-medium header-subdemo-text">*Tidak perlu Kartu Kredit</span>
+        <div class="row">
+            <div class="offset-md-3 col-md-3 pb-4 pb-md-0">
+                <p class="fs-27 text-white text-center text-md-left header-demo-text mb-0">Coba <strong>Demo</strong> Sekarang</p>
+                <span class="d-block text-white text-center text-md-left fs-18 header-subdemo-text">*Tidak perlu Kartu Kredit</span>
+            </div>
+            <div class="col-md-3">
+                <a href="trial.php" class="btn-sign-up btn-try-demo" id="btn-sign-up-id">Klik Disini</a>
+            </div>
+        </div>
     </section>
      <section  class="news-list-container">
         <div class="container">
@@ -410,8 +549,12 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
     <script>
         $(".screenshot-slide").slick({
             infinite: true,
+            arrows: false,
+            autoplay: true,
+            pauseOnFocus: true,
             slidesToShow: 3,
             slidesToScroll: 1,
+            centerMode: true,
             responsive: [{
                 breakpoint: 992,
                 settings: {
@@ -428,9 +571,12 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
         })
         $('.testimony-slider').slick({
             infinite: true,
-            slidesToShow: 3,
-            slidesToScroll: 3,
             arrows: false,
+            autoplay: true,
+            pauseOnFocus: true,
+            slidesToShow: 2.3,
+            slidesToScroll: 1,
+            centerMode: true,
             dots: true,
             responsive: [{
                 breakpoint: 992,

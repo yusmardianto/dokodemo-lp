@@ -69,19 +69,41 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
             <div class="row align-items-end">
                 <div class="col-lg-6 about-us-left">
                     <h1>ABOUT DOKODEMO-KERJA</h1>
-                    <p class="about-us-desc">Dokodemo-Kerja is a Human Resource tool developed by PT Logique Digital Indonesia, a digital solution company based in Jakarta, Indonesia. This program was made to help employees achieve their best potential.
-                        <br /><br />
-                        The name Dokodemo-Kerja comes from 2 languages: "Dokodemo": anywhere (Japanese) and "Kerja": to work (Indonesian), which translates into "Work Anywhere". It means that with this program, you or your employee would not be restrained to a cubicle or an office at all times.</p>
-                    <p class="about-us-contact">We use the program in our company, and if you wonder how it works in real life, do <a href="contact-us.php">CONTACT US</a> and we will explain how we utilize this tool.</p>
+
+                    <p class="about-us-desc">
+                        Dokodemo-Kerja is a Human Resource tool developed by PT. Logique Digital Indonesia, a company providing Digital Solutions, based in Jakarta, Indonesia. Dokodemo-Kerja was designed to promote healthier and more productive work cultures in a way that benefits both the Company and Employees alike.
+                        <br><br>
+                        Dokodemo-Kerja takes its name from both the Japanese and Indonesian languages, with “Dokodemo” meaning “Anywhere” and “Kerja” meaning “to work”, which then translates to “Work Anywhere.” This is reflected on its main function, as it allows for employees to work in an environment most suited to them, instead of being confined to a single location, while efficiently monitoring their daily working routines.
+                    </p>
+
+                    <p class="about-us-contact">
+                        Our company is currently implementing the program. If you have any further questions, please do not hesitate to <a href="contact-us.php">CONTACT US</a>; we will be delighted to explain about Dokodemo-Kerja
+                    </p>
+
+                    <br class="d-none d-lg-block"><br class="d-none d-lg-block">
+                    
                     <img src="img/about/dokodemo-about.png" class="img-dokodemo-about" alt="" />
+
+                    <br class="d-none d-lg-block"><br class="d-none d-lg-block">
                 </div>
                 <div class="col-lg-6 about-us-right">
                     <h1>WHY DOKODEMO-KERJA?</h1>
-                    <p>The purpose of this program is to promote healthy and productive work culture aimed at highly populated city. In Jakarta, Traffic Jam has become a huge problem, and arriving late at the office has became a "millenial culture". We are aiming to change that.
+
+                    <p>
+                        For businesses operating from Jakarta, a city well known for its high levels of traffic congestion, coming to work late has become a pervasive part of millennial culture. We aim to change that.
                         <br><br>
-                        Additionally, if a big office space seems too take up too much of your profit away, it might be time to consider an alternative. Employees who live more than 10km away from the office could really use a break from time to time, without affecting their job performance.
-                        <br><br>
-                        With a proper work rotation, Dokodemo-Kerja could be a decent solution to retain current workers, and promote a healthy work environment.</p>
+                        A case study conducted by Stanford University Professor Nicholas Bloom has shown that, through incorporating ‘Working from home’ strategies, a number of relevant improvements were observed, such as:
+                    </p>
+                        <ol>
+                            <li>Employees who worked remotely were working a ‘true’ shift (Or for even longer), as opposed to arriving at the office late and leaving early on multiple occasions. These results support the fact that working from home is overall, less distracting for employees, and facilitates longer and better quality work sessions.</li>
+                            <li>Employee attrition had decreased by 50 percent among staff working remotely. They also took shorter breaks, had fewer sick days, and took less time off.</li>
+                            <li>Companies could greatly reduce their expenses by lowering the amount of office space they used.</li>
+                        </ol>
+
+                    <p>
+                        By implementing work rotation schedules, Dokodemo-Kerja can prove to be a powerful tool to help reducing costs, maximizing workforce potential and promoting a productive work environment.
+                    </p>
+                                                            
                 </div>
             </div>
         </div>
@@ -96,7 +118,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
             <img src="../img/whatsapp.svg" id="fixedbutton" alt=""/>
         </a>
     </section>
-    <section id="benefits" class="benefits-features">
+    <!-- <section id="benefits" class="benefits-features">
         <h1 class="section-title pb-4">BENEFITS AND FEATURES</h1>
         <div class="container pt-4">
             <div class="row">
@@ -140,7 +162,8 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
             <a href="features.php" class="btn-learn-more" id="btn-learn-more">Learn More</a>
         </div>
         
-    </section>
+    </section> -->
+    <br><br>
     <section class="to-whom">
         <div class="container">
             <div class="row">
@@ -148,8 +171,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                     <div class="hr-managers">
                         <h1>To Whom?</h1>
                         <h2>HR and Managers</h2>
-                        <p class="fw-semibold" style="font-size: 18px;">Dokodemo-Kerja will give you total control of your employee's activity.
-                            You don't need to know where they are, but you know what they are doing.</p>
+                        <p class="fw-semibold" style="font-size: 18px;">Dokodemo-Kerja will help you manage your employees' activity. You do not need to know where they are, but you know what they are doing.</p>
                     </div>
                 </div>
             </div>
@@ -208,6 +230,28 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
         <div class="container">
             <div class="row">
                 <div class="col-md-6 benefits-item">
+                    <h3>1. Save up on Office Spaces</h3>
+                    <p>By rotating your employee's working days in and out of the office, you can efficiently use minimal office space.</p>
+                </div>
+                <div class="col-md-6 benefits-item">
+                    <h3>2. Evaluate your Employees Objectively</h3>
+                    <p>
+                        With accurate work time data, you will be able to evaluate your employee based on his/her work. Those who puts in more time, completes more tasks, and doesn't slack off as much would be rewarded more than those who visibly neglects their job.
+                    </p>
+                </div>
+                <div class="col-md-6 benefits-item">
+                    <h3>3. Increase Employee Retention</h3>
+                    <p>
+                        Employee retention is an important part of an organization's growth. By rewarding all the right employees, it would help to reduce the resignation rate.
+                    </p>
+                </div>
+                <div class="col-md-6 benefits-item">
+                    <h3>4. Working Hour Management</h3>
+                    <p>
+                        By using Dokodemo-Kerja you will be able to observe your employees working pattern, and from the pattern you can work with the employee to achieve better working habit.
+                    </p>
+                </div>
+                <!-- <div class="col-md-6 benefits-item">
                     <h3>1. Save up on the cost of huge office spaces</h3>
                     <p>You can rotate your employee's working days in and out of the office if an expansion is not possible. Some employees might not feel too comfortable working in a cubicle, and works more productively outside. Working remotely could also be implemented as a reward system, in addition to the existing benefits.</p>
                 </div>
@@ -251,10 +295,10 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                     <p>
                         It is perhaps a bit unfair to treat every employee equally if half of them spends most of their work time smoking, watching entertainment videos, taking hours of lunch breaks, or pray longer than necessary. With Dokodemo-Kerja, you can accurately track their breaks and working hours, as they can pause the time tracker when they are not really working.
                     </p>
-                </div>
-                <div class="col-md-10 offset-md-1 about-resp-config">
+                </div> -->
+                <!-- <div class="col-md-10 offset-md-1 about-resp-config">
                     <p class="text-center fw-semibold pt-4">The most common reasons for employees to quit are Long commutes, Lack of work/life balance, and Poor salary/benefits. By letting them work remotely on their terms, they will see that there is an actual benefit working for you.</p>
-                </div>
+                </div> -->
             </div>
         </div>
     </section>
@@ -280,10 +324,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                     <div class="benefit-content right">
                         <p class="benefit-title">Work Anytime & Anywhere</p>
                         <hr class="blue-separator">
-                        <p class="benefit-desc">Ask yourself: is being physically present at the office really required
-                            in regards to overall levels of productivity? Is there a logical explanation as to why you
-                            need to work at a specified location from 8AM to 5PM every day, if all of your work is
-                            conducted through the use of a laptop, anyway? </p>
+                        <p class="benefit-desc">You will be able to work in a place that have or give you a positive working environment, where it will help you to concentrate and focus better.</p>
                     </div>
 
                 </div>
@@ -293,11 +334,9 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
             <div class="row no-gutters">
                 <div class="col-md-6 order-2 order-md-1 d-flex align-items-center">
                     <div class="benefit-content">
-                        <p class="benefit-title">Maximize your Team’s Productivity</p>
+                        <p class="benefit-title">Increase Productivity</p>
                         <hr class="blue-separator">
-                        <p class="benefit-desc">Work comfortably, flexibly and effectively so as to boost results.
-                            Eliminate all of the wasteful and inconvenient elements that inevitably come with navigating
-                            through the morning traffic on the way to your office. </p>
+                        <p class="benefit-desc">By eliminating all of the wasteful and inconvenient elements that inevitably come with navigating through the morning traffic on the way to your office, you can have more energy to do what is needed.</p>
                     </div>
 
                 </div>
@@ -311,11 +350,9 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                 </div>
                 <div class="col-md-6 d-flex align-items-center">
                     <div class="benefit-content right">
-                        <p class="benefit-title">Improve the Efficiency of Your Work</p>
+                        <p class="benefit-title">Improve Your Time Management</p>
                         <hr class="blue-separator">
-                        <p class="benefit-desc">Through having an accurate record of the time it takes to finish a
-                            single task, everyone can self-evaluate their work more easily, and hence, improve upon it
-                            in the future. </p>
+                        <p class="benefit-desc">Through having an accurate record of the time it takes to finish a single task, everyone can easily self-evaluate their work, and hence, improve upon it in the future. By actually seeing your actual break and working time, you will be able to manage your time more effectively.</p>
                     </div>
 
                 </div>

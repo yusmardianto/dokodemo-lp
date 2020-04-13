@@ -70,45 +70,45 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
             <div class="row">
                 <div class="col-md-10 offset-md-1 features-resp-config">
                     <h1 class="fw-semibold fs-23 text-center mb-4">FEATURES</h1>
-                    <p class="fw-semibold text-center">Dokodemo-Kerja is a time-management oriented solution for both employers and employees alike. Through its efficient monitoring and management capabilities, Dokodemo-Kerja can further help companies improve their levels of productivity, while at the same time provide flexible working hours for employees. </p>
+                    <p class="fw-semibold text-center">Dokodemo-Kerja is a time-management oriented solution for both employers and employees alike. Through its efficient monitoring and management capabilities, Dokodemo-Kerja can further help companies improve their levels of productivity, while at the same time provide flexible working hours for employees.</p>
                     <div class="row">
                         <div class="col-lg-6 features-item">
                             <span class="features-number">01</span>
                             <h2 class="features-title">Track Working Hours and Monitor Tasks</h2>
-                            <p class="features-desc">Dokodemo-Kerja takes low-resolution screenshots of your employee’s desktop activities during random intervals when the application is switched on and then sends the images directly to the management team.</p>
+                            <p class="features-desc">Dokodemo-Kerja takes low-resolution screenshots of your employee's desktop or laptop activities during random intervals when the application is switched on and sends the images to the management team.</p>
                         </div>
                         <div class="col-lg-6 features-item">
-                             <img src="img/features/screen-1.jpg" class="img-slide-screenshot modal-hover-opacity" alt="" />    
+                             <img src="img/features/home_01-com.png" class="img-slide-screenshot modal-hover-opacity" alt="" />    
                         </div>
                     </div>
                     <div class="row">
                         <div class="col-lg-6 features-item">
                             <span class="features-number">02</span>
-                            <h2 class="features-title">Get accurate time reports</h2>
-                            <p class="features-desc">Dokodemo-Kerja is able to accurately calculate and compare total employee working and resting hours, putting the data into an easy-to-read format, all with just one click. </p>
+                            <h2 class="features-title">Accurate Time Reports</h2>
+                            <p class="features-desc">Dokodemo-Kerja accurately calculates and compiles employee work data and then displays it in an easy-to-read-format in just 1 simple click. This can greatly assist HR improve the overall accuracy of performance evaluation tasks.</p>
                         </div>
                         <div class="col-lg-6 features-item">
-                            <img src="img/features/screen-2.jpg" class="img-slide-screenshot modal-hover-opacity" alt="" />   
+                            <img src="img/features/home_02-com.png" class="img-slide-screenshot modal-hover-opacity" alt="" />   
                         </div>
                     </div>
                     <div class="row">
                         <div class="col-lg-6 features-item">
                             <span class="features-number">03</span>
-                            <h2 class="features-title">Manage your Employee’s Man-Hours</h2>
-                            <p class="features-desc">Tracks the total man-hours spent by each employee on each individual task, so that your company can more easily predict and arrange target deadlines in line with your employee’s capabilities</p>
+                            <h2 class="features-title">Manage Employees Man-Hours</h2>
+                            <p class="features-desc">Track the total man-hours spent by each employee on each individual task, so your company can easily predict and arrange target deadlines according to your employee's capabilities.</p>
                         </div>
                         <div class="col-lg-6 features-item">
-                            <img src="img/features/d_5.jpg" class="img-slide-screenshot modal-hover-opacity" alt="" />    
+                            <img src="img/features/home_03-com.png" class="img-slide-screenshot modal-hover-opacity" alt="" />    
                         </div>
                     </div>
                     <div class="row">
                         <div class="col-lg-6 features-item">
                             <span class="features-number">04</span>
-                            <h2 class="features-title">All in One Screen </h2>
-                            <p class="features-desc">Displays total employee working hours in an easy-to-read on-screen format, improving the efficiency with which HR can evaluate performance.</p>
+                            <h2 class="features-title">Manage Off-Site Meetings</h2>
+                            <p class="features-desc">Dokodemo-Kerja’s Mobile Application utilizes GPS tracking, thereby allowing HR to easily track the location of each employee in real time during onsite events such as meetings or client visits.</p>
                         </div>
                         <div class="col-lg-6 features-item">
-                            <img src="img/features/screen-3.jpg" class="img-slide-screenshot modal-hover-opacity" alt="" />    
+                            <img src="img/features/home_05-com.png" class="img-slide-screenshot modal-hover-opacity" alt="" />    
                         </div>
                     </div>
                 </div>
@@ -191,33 +191,35 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                     <img src="img/features/doko.png" class="img-fluid img-doko" alt="" />
                 </div>
                 <div class="col-md-6 employee-feature-list pt-sm-4">
-                    <h3><strong>EMPLOYEE</strong></h3>
-                    <p>Easily "<strong>Start</strong>" and "<strong>Stop</strong>" the application</p>
+                    <h3><strong>FOR EMPLOYEE:</strong></h3>
+                    <p>Employees can easily "<strong>Start</strong>" or "<strong>Stop</strong>" the application.</p>
+                    <!-- <p>Easily "<strong>Start</strong>" and "<strong>Stop</strong>" the application</p> -->
                     <ul>
-                        <li>Users are allowed flexible working hours, now being able to work anywhere, at any time.</li>
-                        <li>Users must stop recording when they take breaks, so as to accurately calculate their working hours </li>
-                        <li>Users should work for 40 hours per week</li>
-                        <li>Users can easily manage their responsibilities by work-type and project-name</li>
+                        <li>Through flexible working hours, users will be able to work anywhere, at any time.</li>
+                        <li>When taking breaks, users will have to press the “stop” button, so as to accurately calculate working hours.</li>
+                        <li>The daily and weekly work schedules of each user will be based around time frames defined by the Admin, the details of which are saved within the Admin Settings option (Note: This feature is still in development).</li>
+                        <li>Users can now more efficiently manage their responsibilities according to their tasks.</li>
                     </ul>
                 </div>
             </div>
         </div>
         <div class="container">
             <div class="manager-role">
-                <h3 class="text-center"><strong>MANAGER / HR</strong></h3>
+                <h3 class="text-center"><strong>FOR MANAGERS AND HR:</strong></h3>
+                <p class="text-center">Managers and the HR team can <strong>easily keep track of everyone’s</strong> working hours and their <strong>activities</strong>.</p>
                 <p class="text-center"><strong>Easily track everyone's</strong> working hours and their <strong>activities</strong></p>
                 <div class="row" style="width: 100%">
                     <div class="col-md-6">
                         <ul class="manager-activity-list">
-                            <li>HR can assign one staff member to easily monitor all Dokodemo-Kerja related activities</li>
-                            <li>He / She can take care of each employee’s 'green bar' and comments </li>
-                            <li>If 3 employee screenshots show the same image in a row, HR can then take further action</li>
+                            <li>HR can assign one staff member the task of monitoring all Dokodemo-Kerja related activities.</li>
+                            <li>Staff can manage employee work time frames and comments.</li>
+                            <li>If an employee screenshot shows three of the same images consecutively, HR can then take further action, facilitated by evidence.</li>
                         </ul>
                     </div>
                     <div class="col-md-6">
                         <ul class="manager-activity-list">
-                            <li>If the possibility of an employee forgetting to stop his or her Dokodemo arises, HR can ask them to edit their working hours</li>
-                            <li>Manage and confirm notifications and staff comments</li>
+                            <li>If an employee keeps his or her Dokodemo-Kerja running accidentally or for whatever reason, HR can then ask the employee to edit the working hours appropriately.</li>
+                            <li>The HR team can manage all staff comments.</li>
                         </ul>
                     </div>
                 </div>
@@ -228,12 +230,12 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
         <div class="container">
             <div class="row">
                 <div class="col-md-4 offset-md-2 col-10 offset-1 py-2">
-                    <a href="http://dokodemo-web.test/pdf/manual-guide.pdf" class="dl-guide" aria-label="manual guide">
+                    <a href="https://dokodemo-kerja.com/pdf/manual-guide-ENG.pdf" class="dl-guide" aria-label="manual guide">
                         <img src="img/manual.png" class="img-fluid mx-auto d-block" id="features-manual-guide" alt="" />
                     </a>
                 </div>
                 <div class="col-md-4 col-10 offset-md-0 offset-1 py-2">
-                    <a href="http://dokodemo-web.test/pdf/install-guide.pdf" class="dl-guide" aria-label="dl-guide">
+                    <a href="https://dokodemo-kerja.com/pdf/install-guide-ENG.pdf" class="dl-guide" aria-label="dl-guide">
                         <img src="img/install.png" class="img-fluid mx-auto d-block" id="features-install-guide" alt="" />
                     </a>
                 </div>

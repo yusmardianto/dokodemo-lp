@@ -70,45 +70,45 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
             <div class="row">
                 <div class="col-md-10 offset-md-1 features-resp-config">
                     <h1 class="fw-semibold fs-23 text-center mb-4">FEATURES</h1>
-                    <p class="fw-semibold text-center">Dokodemo-Kerja adalah solusi sistem kerja yang menguntungkan bagi karyawan dan perusahaan. Dengan sistem kerja yang efisien, Dokodemo-Kerja dapat membantu perusahaan berkonsentrasi pada peningkatan produktivitas dan pada saat yang sama, memberikan fleksibilitas untuk karyawan mereka.</p>
+                    <p class="fw-semibold text-center">Dokodemo-Kerja adalah solusi berorientasi manajemen waktu untuk pengusaha dan karyawan. Melalui pemantauan dan kemampuan manajemennya yang efisien, Dokodemo-Kerja dapat membantu perusahaan meningkatkan tingkat produktivitas mereka, sementara di saat yang sama memberikan jam kerja yang fleksibel bagi karyawan.</p>
                     <div class="row">
                         <div class="col-lg-6 features-item">
                             <span class="features-number">01</span>
-                            <h2 class="features-title">Melacak dan memantau tugas karyawan.</h2>
-                            <p class="features-desc"><span class="fw-semibold">Dokodemo-Kerja</span> mengambil cuplikan layar (screen capture) aktivitas kerja karyawan pada layar perangkat komputernya dalam waktu yang acak (random) dan mengirimnya pada tim </p>
+                            <h2 class="features-title">Lacak Jam Kerja dan Tugas Monitor</h2>
+                            <p class="features-desc"><span class="fw-semibold">Dokodemo-Kerja</span> mengambil tangkapan layar beresolusi rendah dari aktivitas desktop atau laptop karyawan Anda dalam interval waktu acak ketika aplikasi diaktifkan dan mengirimkan gambar ke tim manajemen. </p>
                         </div>
                         <div class="col-lg-6 features-item">
-                             <img src="../img/features/screen-1.jpg" class="img-slide-screenshot modal-hover-opacity" alt="" />    
+                             <img src="../img/features/home_01-com.png" class="img-slide-screenshot modal-hover-opacity" alt="" />    
                         </div>
                     </div>
                     <div class="row">
                         <div class="col-lg-6 features-item">
                             <span class="features-number">02</span>
-                            <h2 class="features-title">Mendapatkan laporan waktu kerja</h2>
-                            <p class="features-desc">Program ini secara mudah mengkalkulasikan total jam kerja para karyawan, termasuk penghitungan jam istirahat secara akurat hanya dengan satu klik.</p>
+                            <h2 class="features-title">Laporan Waktu Yang Akurat</h2>
+                            <p class="features-desc"><span class="fw-semibold">Dokodemo-Kerja</span> secara akurat menghitung dan mengkompilasi data kerja karyawan dan kemudian menampilkannya dalam format yang mudah dibaca hanya dalam 1 klik sederhana. Dokodemo dapat sangat membantu SDM meningkatkan akurasi keseluruhan tugas evaluasi kinerja.</p>
                         </div>
                         <div class="col-lg-6 features-item">
-                            <img src="../img/features/screen-2.jpg" class="img-slide-screenshot modal-hover-opacity" alt="" />   
+                            <img src="../img/features/home_02-com.png" class="img-slide-screenshot modal-hover-opacity" alt="" />   
                         </div>
                     </div>
                     <div class="row">
                         <div class="col-lg-6 features-item">
                             <span class="features-number">03</span>
-                            <h2 class="features-title">Mengelola jam kerja karyawan</h2>
-                            <p class="features-desc">Kelola total jam kerja serta proyek atau konten yang dikerjakan oleh karyawan, sehingga perusahaan dapat menentukan target waktu yang bisa dicapai oleh para karyawannya.</p>
+                            <h2 class="features-title">Kelola Jam Kerja Karyawan</h2>
+                            <p class="features-desc">Lacak total jam kerja yang dihabiskan oleh setiap karyawan untuk setiap tugas individu, sehingga perusahaan Anda dapat dengan mudah memprediksi dan mengatur tenggat waktu target sesuai dengan kemampuan karyawan Anda.</p>
                         </div>
                         <div class="col-lg-6 features-item">
-                            <img src="../img/features/d_5.jpg" class="img-slide-screenshot modal-hover-opacity" alt="" />    
+                            <img src="../img/features/home_03-com.png" class="img-slide-screenshot modal-hover-opacity" alt="" />    
                         </div>
                     </div>
                     <div class="row">
                         <div class="col-lg-6 features-item">
                             <span class="features-number">04</span>
-                            <h2 class="features-title">Semua dalam satu tampilan layar</h2>
-                            <p class="features-desc">Menampilkan total jam kerja seluruh karyawan dalam satu tampilan layar, memudahkan perusahaan untuk menentukan kinerja dari seluruh karyawan yang ada di perusahaan secara jujur dan transparan.</p>
+                            <h2 class="features-title">Kelola Rapat di Luar Situs</h2>
+                            <p class="features-desc">Aplikasi Mobile Dokodemo-Kerja menggunakan pelacakan GPS, sehingga memungkinkan HR untuk dengan mudah melacak lokasi setiap karyawan secara real time selama acara di lokasi seperti pertemuan atau kunjungan klien.</p>
                         </div>
                         <div class="col-lg-6 features-item">
-                            <img src="../img/features/screen-3.jpg" class="img-slide-screenshot modal-hover-opacity" alt="" />    
+                            <img src="../img/features/home_05-com.png" class="img-slide-screenshot modal-hover-opacity" alt="" />    
                         </div>
                     </div>
                 </div>
@@ -192,12 +192,13 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                 </div>
                 <div class="col-md-6 employee-feature-list pt-sm-4">
                     <h3><strong>KARYAWAN    </strong></h3>
-                    <p>Dengan Mudah "<strong>Start</strong>" dan "<strong>Stop</strong>" aplikasinya</p>
+                    <p>Karyawan dapat dengan mudah "<strong>Memulai</strong>" atau "<strong>Menghentikan</strong>" aplikasi.</p>
+                    <!-- <p>Dengan Mudah "<strong>Start</strong>" dan "<strong>Stop</strong>" aplikasinya</p> -->
                     <ul>
-                        <li>Pengguna diizinkan untuk bekerja di mana saja, kapan saja</li>
-                        <li>Pengguna harus berhenti merekam ketika mereka sedang istirahat</li>
-                        <li>Pengguna hanya harus bekerja selama 40 jam per minggu</li>
-                        <li>Pengguna dapat memilih jenis pekerjaan atau nama proyek</li>
+                        <li>Melalui jam kerja yang fleksibel, pengguna akan dapat bekerja di mana saja, kapan saja.</li>
+                        <li>Saat istirahat, pengguna harus menekan tombol "stop", untuk menghitung jam kerja secara akurat.</li>
+                        <li>Jadwal kerja harian dan mingguan setiap pengguna akan didasarkan pada kerangka waktu yang ditentukan oleh Admin, yang detailnya disimpan dalam opsi Pengaturan Admin (Catatan: Fitur ini masih dalam pengembangan).</li>
+                        <li>Pengguna sekarang dapat lebih efisien mengelola tanggung jawab mereka sesuai dengan tugas mereka.</li>
                     </ul>
                 </div>
             </div>
@@ -205,19 +206,19 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
         <div class="container">
             <div class="manager-role">
                 <h3 class="text-center"><strong>MANAGER / HR</strong></h3>
-                <p class="text-center"><strong></strong>Dengan mudah melacak jam kerja semua orang dan kegiatan mereka</p>
+                <p class="text-center">Managers dan tim SDM dapat dengan mudah melacak jam kerja semua orang dan aktivitas mereka.</p>
                 <div class="row" style="width: 100%">
                     <div class="col-md-6">
                         <ul class="manager-activity-list">
-                            <li>HR menugaskan satu staf untuk memantau Dokodemo-Kerja</li>
-                            <li>Dia menjaga indikator hijau dan komentar-komentar orang</li>
-                            <li>Jika ada 3 gambar yang sama (screenshot) berturut-turut, HR mengonfirmasi dengan staf</li>
+                            <li>HR dapat menugaskan satu anggota staf untuk memantau semua kegiatan yang terkait dengan Dokodemo.</li>
+                            <li>Staf dapat mengelola kerangka waktu kerja dan komentar karyawan.</li>
+                            <li>Jika tangkapan layar karyawan menunjukkan tiga gambar yang sama secara berurutan, HR kemudian dapat mengambil tindakan lebih lanjut yang difasilitasi oleh bukti.</li>
                         </ul>
                     </div>
                     <div class="col-md-6">
                         <ul class="manager-activity-list">
-                            <li>Jika ada yang lupa untuk berhenti merekam Dokodemo-Kerja ketika mereka tidak bekerja, HR meminta mereka untuk mengedit jam kerja dan menyetujuinya</li>
-                            <li>Kelola pemberitahuan, konfirmasi, dan secara rutin menanggapi komentar staf </li>
+                            <li>Jika seorang karyawan menjalankan Dokodemo-Kerja tanpa sengaja atau karena alasan apa pun, HR kemudian dapat meminta karyawan untuk mengedit jam kerja dengan tepat.</li>
+                            <li>Tim SDM dapat mengelola semua komentar staf.</li>
                         </ul>
                     </div>
                 </div>
@@ -229,12 +230,12 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
             </div> -->
             <div class="row">
                 <div class="col-md-4 offset-md-2 col-10 offset-1 py-2">
-                    <a href="http://dokodemo-web.test/pdf/manual-guide.pdf" class="dl-guide" aria-label="manual guide link">
+                    <a href="https://dokodemo-kerja.com/pdf/manual-guide.pdf" class="dl-guide" aria-label="manual guide link">
                         <img src="../img/manual.png" class="img-fluid mx-auto d-block" id="features-manual-guide" alt="" />
                     </a>
                 </div>
                 <div class="col-md-4 col-10 offset-md-0 offset-1 py-2">
-                    <a href="http://dokodemo-web.test/pdf/install-guide.pdf" class="dl-guide" aria-label="install guide link">
+                    <a href="https://dokodemo-kerja.com/pdf/install-guide.pdf" class="dl-guide" aria-label="install guide link">
                         <img src="../img/install.png" class="img-fluid mx-auto d-block" id="features-install-guide" alt="" />
                     </a>
                 </div>
