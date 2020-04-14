@@ -394,6 +394,8 @@ body {
 .home-feature__card-wrapper.--btn .feature-btn {
   background: linear-gradient(#ffca13, #eeb903);
   border-color: transparent;
+  height: 62px;
+  font-size: 20px;
 }
 .home-benefit__card.--btn img,
 .home-feature__card-wrapper.--btn img {
