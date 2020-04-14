@@ -154,7 +154,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 	<div class="container dokodemo-customoption">
 		<div class="row">
 			<div class="col-md-8 offset-md-2 contact-resp-settings">
-				<div class="semibold fs-18 subtitle-contact">Untuk membeli Dokodemo-Kerja, pilihlah paket yang diinginkan dan isi formulir di bawah ini.</div>
+				<div class="semibold fs-18 subtitle-contact">Untuk mulai menggunakan Dokodemo-Kerja, pilihlah paket yang diinginkan dan isi formulir di bawah ini.</div>
 
 				<?php
 					if (!is_null($success)) {
@@ -242,7 +242,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 					<h4>Untuk respon langsung, hubungi kami pada jam kantor:</h4>
 					<h5 class="mt-3 mb-3">09.00 - 17.00 (Senin - Jumat)</h5>
 					<p>
-						<a href="tel:02122708935" aria-label="phone link">
+						<a href="tel:62811870321" aria-label="phone link">
                             <img src="../img/pricing/call.png" alt="" />
 												</a>
 												 <a href="mailto:info@logique.co.id" aria-label="mail link">

@@ -154,7 +154,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 	<div class="container dokodemo-customoption">
 	  <div class="row">
 		  <div class="col-md-8 offset-md-2 contact-resp-settings">
-			<div class="semibold fs-18 subtitle-contact">To buy Dokodemo-Kerja, choose a plan and fill in the form below.</div>
+			<div class="semibold fs-18 subtitle-contact">To start using Dokodemo-Kerja, choose a plan and fill in the form below.</div>
 
 			<?php
             if (!is_null($success)) {
@@ -242,7 +242,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 					<h4>If you want an immediate response, get in touch with us during office hours:</h4>
 					<h5 class="mt-3 mb-3">09.00 - 17.00 (Mon-Fri)</h5>
 					<p>
-						<a href="tel:02122708935">
+						<a href="tel:62811870321">
 								<img src="img/pricing/call.png"aria-label="phone link"/>
 						</a>
 							<a href="mailto:info@logique.co.id" aria-label="mail link">

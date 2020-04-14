@@ -81,12 +81,13 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 	<?php include 'header.php' ?>
 	<section class="intro-section text-center px-4">
 		<h1 class="banner-text-white">Try Our Free Demo</h1>
-		<img src="/img/home/arrow-down.svg" class="pt-4" width="20" alt=""/>
+		<img src="/img/home/arrow-down.svg" class="pt-4 pb-3" width="20" alt=""/>
 		<a href="https://demo.dokodemo-kerja.com" class="btn btn-trial-contact bold uppercase" target="_blank" rel="noopener noreferrer" id="btn-demo">Admin Demo</a>
 		<a href="https://dokodemo-kerja.com/pdf/manual-guide-ENG.pdf" target="_blank" rel="noopener noreferrer">
 			<p class="trial-header-content">For staff demo, please follow the instruction bellow.</p>
 		</a>
 	</section>
+
 	<section id="trial-content">
 		<div class="container">
 			<div class="row mt-5 mb-5">
@@ -117,14 +118,14 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 					</a>
 				</div>
 			</div>
-
 		</div>
 	</section>
+
 	<section style="background-color: #f1faff">
 		<div class="container">
 			<div class="row mt-5">
 				<div class="offset-md-1 col-md-10">
-						<h3 class="trial-title">How To Use Dokodemo-Kerja</h3>
+					<h3 class="trial-title">How To Use Dokodemo-Kerja</h3>
 				</div>
 				<div class="offset-md-1 col-md-10 tab-tutor-container">
 					<nav>
@@ -140,78 +141,122 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 					<div class="tab-content" id="nav-tabContent">
 						<div class="tab-pane fade show active" id="nav-home" role="tabpanel" aria-labelledby="nav-home-tab">
 							<div class="trial-tab-container">
-								<h2 class="tab-content-title content-section-title">1. Access Demo Environment</h2> 												<p class="trial-tab-content">Click <a href="https://demo.dokodemo-kerja.com/" target="_blank" rel="noopener noreferrer">this link</a> to access the Demo page</p>
+								<div>
+									<h2 class="tab-content-title content-section-title d-inline-block">1. Access Demo Environment</h2>
+									<p class="trial-tab-content --no-list d-block d-md-inline">Click <a href="https://demo.dokodemo-kerja.com/" target="_blank" rel="noopener noreferrer">this link</a> to access the Demo page</p>
+								</div>
+								<div class="pl-4 mb-5">
 									<div class="row">
-										<div class="col-md-8">
-											<div class="pl-4 mb-5">
-
-												<!-- <p class="trial-tab-content">Click <a href="https://demo.dokodemo-kerja.com/" target="_blank" rel="noopener noreferrer">this link</a> to access the Demo page</p> -->
-												<p class="trial-tab-content">Click "Home"</p>
-												<img src="/img/trial/admin-1.png" class="img-fluid img-border mb-3" alt="" />
-											</div>
+										<div class="col-md-6 col-lg-7">
+											<p class="trial-tab-content">Click <strong>"LOGIN"</strong> <br class="d-none d-md-block"><br class="d-none d-md-block"></p>
+											<img src="/img/trial/admin-1.png" class="img-fluid img-border mb-3" style="height: 203px; width: 95%; object-fit: contain;" alt="" />
 										</div>
-										<div class="col-md-4">
+										<div class="col-md-6 col-lg-5">
 											<p class="trial-tab-content">Login with the provided email and password</p>
 											<img src="/img/trial/admin-2.png" class="img-fluid img-border mb-3" alt="" />
 										</div>
 									</div>
+								</div>
 								<h2 class="tab-content-title content-section-title">2. Add New Staff</h2>
 								<div class="pl-4">
-									<p class="trial-tab-content">Click the "Staff" button</p>
+									<p class="trial-tab-content">Click the <strong>"Staff"</strong> button</p>
 									<img src="/img/trial/admin-3.png" class="mb-3 img-fluid img-border" alt="" />
-									<p class="trial-tab-content">Click "Add Staff"</p>
-									<img src="/img/trial/admin-4.png" class="mb-3 img-fluid img-border" alt="" />
-									<p class="trial-tab-content">Fill in the Staff information</p>
-									<img src="/img/trial/admin-5.png" class="mb-3 img-fluid img-border" alt="" />
+									<div class="row">
+										<div class="col-md-6">
+											<p class="trial-tab-content">Click <strong>"Add Staff"</strong> <br class="d-none d-md-block d-lg-none"><br class="d-none d-md-block d-lg-none"></p>
+											<img src="/img/trial/admin-4.png" class="mb-3 img-fluid img-border" alt="" />
+										</div>
+										<div class="col-md-6">
+											<p class="trial-tab-content">Fill in the Staff information</p>
+											<img src="/img/trial/admin-5.png" class="mb-3 img-fluid img-border" alt="" />
+										</div>
+									</div>
 									<p class="trial-tab-content">The staff will be drafted in the demo environment and an email will be sent to the staff's email.</p>
 									<img src="/img/trial/admin-6.png" class="mb-5 img-fluid img-border" alt="" />
-									<p class="trial-tab-content q-title mt-5">
-										If you have more questions, get in touch with us or download the full documentation
-									</p>
-									<a href="/contact-us.php" class="btn btn-trial-contact bold uppercase" id="btn-contact-us">Contact Us</a>
-									<p class="trial-tab-content q-title" style="color:blue; text-decoration:underline">
-										<a href="/pdf/manual-guide-ENG.pdf" target="_blank" rel="noopener noreferrer">
-											Download the manual guide
-										</a>
-									</p>
 								</div>
 							</div>
 						</div>
 						<div class="tab-pane fade" id="nav-profile" role="tabpanel" aria-labelledby="nav-profile-tab">
 							<div class="trial-tab-container">
-								<h2 class="tab-content-title content-section-title">1. Access Demo Environment</h2>
+								<div>
+									<h2 class="tab-content-title content-section-title d-inline-block">1. Access Demo Environment</h2>
+									<p class="trial-tab-content --no-list d-block d-md-inline">Click <a href="https://demo.dokodemo-kerja.com/" target="_blank" rel="noopener noreferrer">this link</a> to access the Demo page</p>
+								</div>
 								<div class="pl-4 mb-5">
-									<p class="trial-tab-content ">Extract demo's folder and find Dokodemo-Kerja programs</p>
-									<img src="/img/trial/staff-1.png" class="mb-3 img-fluid img-border"/>
-									<p class="trial-tab-content">Run that application</p>
-									<img src="/img/trial/staff-2.png" class="mb-3 img-fluid img-border"/>
+									<div class="row">
+										<div class="col-md-6">
+											<p class="trial-tab-content ">Extract demo's folder and find Dokodemo-Kerja programs</p>
+											<img src="/img/trial/staff-1.png" class="mb-3 img-fluid w-100 img-border"/>
+										</div>
+										<div class="col-md-6">
+											<p class="trial-tab-content">Run that application <br class="d-none d-md-block"><br class="d-none d-md-block"></p>
+											<img src="/img/trial/staff-2.png" class="mb-3 img-fluid w-100 img-border"/>
+										</div>
+									</div>
 								</div>
-								<h2 class="tab-content-title content-section-title">2. Using Dokodemo-Kerja</h2>
+
+								<h2 class="tab-content-title content-section-title">2. Using Homepage</h2>
 								<div class="pl-4">
-									<p class="trial-tab-content">Login with credential that has been sent to email, or login with:</p>
-									<p class="trial-tab-content bold">ID: sales@dokodemo-kerja.com </p>
-									<p class="trial-tab-content bold">Password: Dokodemo-123</p>
-									<img src="/img/trial/staff-3.png" class="mb-3 img-fluid img-border"/>
-									<p class="trial-tab-content">Choose project and press Play button</p>
-									<img src="/img/trial/staff-4.png" class="mb-3 img-fluid img-border"/>
-									<p class="trial-tab-content">To stop project, press Pause button</p>
-									<img src="/img/trial/staff-5.png" class="mb-5 img-fluid img-border"/>
+									<div class="row">
+										<div class="col-md-6">
+											<div class="trial-tab-content">
+												<p class="mb-0">
+													Login with credential that has been sent to email, or login with:
+												</p>
+												<div class="trial-tab-content__list">
+													<span>ID</span>
+													<span class="font-weight-bold">: sales@dokodemo-kerja.com</span>
+												</div>
+												<div class="trial-tab-content__list">
+													<span>Pass</span>
+													<span class="font-weight-bold">: Dokodemo-123</span>
+												</div>
+											</div>
+											<img src="/img/trial/staff-3.png" class="mb-3 img-fluid w-100 img-border"/>
+										</div>
+										<div class="col-md-6">
+											<p class="trial-tab-content">Choose project and press "Play" button</p>
+											<img src="/img/trial/staff-4.png" class="mb-3 img-fluid w-100 img-border"/>
+											<p class="trial-tab-content">Press the red button for stop counting</p>
+											<img src="/img/trial/staff-5.png" class="mb-5 img-fluid w-100 img-border"/>
+										</div>
+									</div>
 								</div>
-								<h2 class="tab-content-title content-section-title">3. Using Homepage</h2>
+
+								<h2 class="tab-content-title content-section-title">3. Another Feature</h2>
 								<div class="pl-4">
-									<p class="trial-tab-content">The website homepage can be accessed by clicking the "Website" button</p>
-									<img src="/img/trial/staff-6.png" class="mb-3 img-fluid img-border"/>
-									<p class="trial-tab-content">You can view the Screen record and how long you've worked. The icon inside the green bar is to manually edit your work hour.</p>
-									<img src="/img/trial/staff-7.png" class="mb-5 img-fluid img-border"/>
-									<p class="trial-tab-content q-title mt-5">
-										If you have more questions, get in touch with us or download the full documentation
+									<div class="row">
+										<div class="col-md-6">
+											<div class="trial-tab-content">
+												<p class="mb-0">
+													There’s also today’s and week’s total hours writen on homepage and,
+												</p>
+												<div class="trial-tab-content__list">
+													<span style="color: #098AE4"><strong>Blue</strong></span>
+													<span>: for Minimize</span>
+												</div>
+												<div class="trial-tab-content__list">
+													<span style="color: #E6B403"><strong>Yellow</strong></span>
+													<span>: go to Website</span>
+												</div>
+												<div class="trial-tab-content__list">
+													<span style="color: #E3092A"><strong>Red</strong></span>
+													<span>: for Logout</span>
+												</div>
+											</div>
+										</div>
+										<div class="col-md-6">
+											<img src="/img/trial/staff-6.png" class="mb-3 img-fluid w-100 img-border"/>
+										</div>
+									</div>
+								</div>
+
+								<h2 class="tab-content-title content-section-title">4. Screen Record</h2>
+								<div class="pl-4">
+									<p class="trial-tab-content">
+										You can view the Screen record and how long you've worked. The icon inside the collored bar is to manually edit your work hour. And also show the time edited history and comment from other staff
 									</p>
-									<a href="/contact-us.php" class="btn btn-trial-contact bold uppercase" id="btn-contact-us-staff">Contact Us</a>
-									<p class="trial-tab-content q-title" style="color:blue; text-decoration:underline">
-										<a href="https://dokodemo-kerja.com/pdf/install-guide-ENG.pdf" target="_blank" rel="noopener noreferrer">
-											Download the install guide
-										</a>
-									</p>
+									<img src="/img/trial/staff-7.png" class="mb-5 img-fluid w-100 img-border"/>
 								</div>
 							</div>
 						</div>
@@ -219,6 +264,24 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 				</div>
 			</div>
 		</div>
+	</section>
+
+	<section class="trial-contact">
+		<dic class="container">
+			<div class="row">
+				<div class="offset-md-1 col-md-10">
+					<p class="q-title text-white mt-3">
+						If you have more questions, get in touch with us or download the full documentation
+					</p>
+					<a href="/contact-us.php" class="btn btn-trial-contact bold uppercase" id="btn-contact-us">Contact Us</a>
+					<p class="q-title" style="text-decoration:underline">
+						<a href="/pdf/manual-guide-ENG.pdf" target="_blank" rel="noopener noreferrer" style="color:#fff">
+							Download the manual guide
+						</a>
+					</p>
+				</div>
+			</div>
+		</dic>
 	</section>
 	<!-- req online meeting popup -->
     <section>
@@ -280,7 +343,6 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
             <img src="../img/whatsapp.svg" id="fixedbutton" alt="" />
         </a>
     </section>
-	<br /><br />
 	<?php include 'footer.php' ?>
 	<script src="js/jquery-3.4.1.min.js"></script>
 	<script src="js/bootstrap.min.js"></script>

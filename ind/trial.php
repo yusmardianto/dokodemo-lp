@@ -101,121 +101,206 @@ $page = 'trial.php';
 	<?php include 'header.php' ?>
 	<section class="intro-section text-center px-4">
 		<h1 class="banner-text-white">Coba Demo Gratis Dulu</h1>
+		<img src="/img/home/arrow-down.svg" class="pt-4 pb-3" width="20" alt=""/>
 		<a href="https://demo.dokodemo-kerja.com" class="btn btn-trial-contact bold uppercase" target="_blank" rel="noopener noreferrer" id="btn-demo-trial-id">Admin Demo</a>
 		<a href="https://dokodemo-kerja.com/manual-guide.pdf" target="_blank" rel="noopener noreferrer">
 			<p class="trial-header-content">Untuk mencoba versi staff, silahkan ikut instruksi dibawah</p>
 		</a>
 	</section>
-</div>
-	</section>
-<section id="trial-content">
+	<section id="trial-content">
 		<div class="container">
 			<div class="row mt-5 mb-5">
-				<div class="col-md-6 download-container">
+				<div class="offset-md-1 col-md-10 tutor-container mt-4 mb-3">
+					<!-- <iframe title="trial youtube video" src="https://www.youtube.com/embed/Qyz0FtNbVbI" class="trial-iframe" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> -->
+					<div class="embed-responsive embed-responsive-16by9 feature-video">
+                        <iframe class="embed-responsive-item" width="811" height="417" title="Dokodemo Youtube Video"
+                            src="https://www.youtube.com/embed/OWmF48Cq_fA" frameborder="0"
+                            allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
+                            allowfullscreen></iframe>
+                    </div>	
+				</div>
+				<div class="offset-md-1 col-md-10 download-container text-center">
 					<h3 class="download-title hidden-xs">Install demo aplikasi dari link dibawah ini:</h3>
-					<a href="https://demo.dokodemo-kerja.com/files/Dokodemo-Kerja%20(Windows)%20demo%20v1.0.4.zip" class="btn btn-download bold uppercase hidden-xs" id="btn-download-windows-id"><i class="fa fa-download icon-download"></i>Windows</a>
-					<a href="https://demo.dokodemo-kerja.com/files/Dokodemo-Kerja%20(Mac)%20demo%20v1.0.4.zip" class="btn btn-download bold uppercase hidden-xs" id="btn-download-ios-id"><i class="fa fa-download icon-download"></i>IOS</a>
-					<a href="https://demo.dokodemo-kerja.com/files/Dokodemo-Kerja%20(Linux)%20demo%20v1.0.4.zip" class="btn btn-download bold uppercase hidden-xs" id="btn-download-linux-id"><i class="fa fa-download icon-download"></i>Linux</a>
+					<div class="row">
+						<div class="col-md-4">
+							<a href="https://demo.dokodemo-kerja.com/files/Dokodemo-Kerja%20(Windows)%20demo%20v1.0.4.zip" class="btn btn-download bold uppercase hidden-xs" id="btn-download-windows-id"><i class="fa fa-download icon-download"></i>Windows</a>
+						</div>
+						<div class="col-md-4">
+							<a href="https://demo.dokodemo-kerja.com/files/Dokodemo-Kerja%20(Mac)%20demo%20v1.0.4.zip" class="btn btn-download bold uppercase hidden-xs" id="btn-download-ios-id"><i class="fa fa-download icon-download"></i>IOS</a>
+						</div>
+						<div class="col-md-4">
+							<a href="https://demo.dokodemo-kerja.com/files/Dokodemo-Kerja%20(Linux)%20demo%20v1.0.4.zip" class="btn btn-download bold uppercase hidden-xs" id="btn-download-linux-id"><i class="fa fa-download icon-download"></i>Linux</a>
+						</div>
+					</div>
 					<a href="https://dokodemo-kerja.com/pdf/install-guide.pdf" target="_blank" rel="noopener noreferrer" aria-label="Install Guide" class="dl-guide">
 						<img src="../img/install.png" class="d-block img-fluid img-border m-auto" id="trial-install-guide" alt="" />
 					</a>
 				</div>
-				<div class="col-md-6 tutor-container mt-4 mb-3">
-					<iframe title="trial youtube video" src="https://www.youtube.com/embed/Qyz0FtNbVbI" class="trial-iframe" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-				</div>
 			</div>
+		</div>
+	</section>
+
+	<section style="background-color: #f1faff">
+		<div class="container">
 			<div class="row mt-5">
-					<div class="col-md-12">
+				<div class="offset-md-1 col-md-10">
 					<h3 class="trial-title">Cara Menggunakan Dokodemo-Kerja</h3>
-					</div>
-					<div class="col-md-12">
-						<nav>
-							<div class="nav nav-tabs nav-tabs-trial" id="nav-tab" role="tablist">
-								<a class="nav-item nav-link active trial-tab" id="nav-home-tab" data-toggle="tab" href="#nav-home" role="tab" aria-controls="nav-home" aria-selected="true">
-									<span class="trial-tabfont">Admin</span>
-								</a>
-								<a class="nav-item nav-link trial-tab" id="nav-profile-tab" data-toggle="tab" href="#nav-profile" role="tab" aria-controls="nav-profile" aria-selected="false">
-									<span class="trial-tabfont">Staff</span>
-								</a>
-							</div>
-						</nav>
-						<div class="tab-content" id="nav-tabContent">
-							<div class="tab-pane fade show active" id="nav-home" role="tabpanel" aria-labelledby="nav-home-tab">
-								<div class="trial-tab-container">
-									<h2 class="content-section-title">1. Akses Demo Environment</h2>
-									<div class="pl-4 mb-5">
-										<p class="trial-tab-content">Tekan <a href="https://demo.dokodemo-kerja.com/" target="_blank" rel="noopener noreferrer">Link ini</a> untuk mengakses halaman admin Dokodemo-Kerja.</p>
-										<p class="trial-tab-content">Tekan "Home"</p>
-										<img src="/img/trial/admin-1.png" class ="mb-3 img-fluid img-border" alt="" />
-										<p class="trial-tab-content">Login dengan email dan password yang tersedia.</p>
-										<img src="/img/trial/admin-2.png" class ="mb-3 img-fluid img-border" alt="" />
-									</div>
-									<h2 class="content-section-title">2. Menambah Staff</h2>
-									<div class="pl-4">
-										<p class="trial-tab-content">Tekan tombol "Staff"</p>
-										<img src="/img/trial/admin-3.png" class="mb-3 img-fluid img-border" alt="" />
-										<p class="trial-tab-content">Tekan tombol "Add Staff"</p>
-										<img src="/img/trial/admin-4.png" class="mb-3 img-fluid img-border" alt="" />
-										<p class="trial-tab-content">Isi Informasi staff</p>
-										<img src="/img/trial/admin-5.png" class="mb-3 img-fluid img-border" alt="" />
-										<p class="trial-tab-content">Staff akan terdaftar di demo environment dan sebuah email akan dikirimkan kepada staff.</p>
-										<img src="/img/trial/admin-6.png" class="mb-5 img-fluid img-border" alt="" />
-										<p class="trial-tab-content q-title mt-5">
-											Jika ada pertanyaan, hubungilah kami atau unduh dokumentasi pemakaiannya
-										</p>
-										<a href="/ind/contact-us.php" class="btn btn-trial-contact bold uppercase" id="btn-contact-us-id">Hubungi Kami</a>
-										<p class="trial-tab-content q-title" style="color:blue; text-decoration:underline">
-										<a href="https://dokodemo-kerja.com/pdf/install-guide.pdf" target="_blank" rel="noopener noreferrer">
-											Download Panduan Manual Dokodemo
-										</a>
-										</p>
+				</div>
+				<div class="offset-md-1 col-md-10 tab-tutor-container">
+					<nav>
+						<div class="nav nav-tabs nav-tabs-trial" id="nav-tab" role="tablist">
+							<a class="nav-item nav-link active trial-tab" id="nav-home-tab" data-toggle="tab" href="#nav-home" role="tab" aria-controls="nav-home" aria-selected="true">
+								<span class="trial-tabfont">Admin</span>
+							</a>
+							<a class="nav-item nav-link trial-tab" id="nav-profile-tab" data-toggle="tab" href="#nav-profile" role="tab" aria-controls="nav-profile" aria-selected="false">
+								<span class="trial-tabfont">Staff</span>
+							</a>
+						</div>
+					</nav>
+					<div class="tab-content" id="nav-tabContent">
+						<div class="tab-pane fade show active" id="nav-home" role="tabpanel" aria-labelledby="nav-home-tab">
+							<div class="trial-tab-container">
+								<div>
+									<h2 class="tab-content-title content-section-title d-inline-block">1. Akses Demo Environment</h2>
+									<p class="trial-tab-content --no-list d-block d-md-inline">Tekan <a href="https://demo.dokodemo-kerja.com/" target="_blank" rel="noopener noreferrer">Link ini</a> untuk mengakses halaman admin Dokodemo-Kerja.</p>
+								</div>
+								<div class="pl-4 mb-5">
+									<div class="row">
+										<div class="col-md-6 col-lg-7">
+											<p class="trial-tab-content">Tekan <strong>"LOGIN"</strong> <br class="d-none d-md-block"><br class="d-none d-md-block"></p>
+											<img src="/img/trial/admin-1.png" class ="mb-3 img-fluid img-border" alt="" />
+										</div>
+										<div class="col-md-6 col-lg-5">
+											<p class="trial-tab-content">Login dengan email dan password yang tersedia.</p>
+											<img src="/img/trial/admin-2.png" class ="mb-3 img-fluid img-border" alt="" />
+										</div>
 									</div>
 								</div>
+								<h2 class="content-section-title">2. Menambah Staff</h2>
+								<div class="pl-4">
+									<p class="trial-tab-content">Tekan tombol <strong>"Staff"</strong></p>
+									<img src="/img/trial/admin-3.png" class="mb-3 img-fluid img-border" alt="" />
+									<div class="row">
+										<div class="col-md-6">
+											<p class="trial-tab-content">Tekan tombol <strong>"Add Staff"</strong></p>
+											<img src="/img/trial/admin-4.png" class="mb-3 img-fluid img-border" alt="" />
+										</div>
+										<div class="col-md-6">
+											<p class="trial-tab-content">Isi Informasi staff</p>
+											<img src="/img/trial/admin-5.png" class="mb-3 img-fluid img-border" alt="" />
+										</div>
+									</div>
+									<p class="trial-tab-content">Staff akan terdaftar di demo environment dan sebuah email akan dikirimkan kepada staff.</p>
+									<img src="/img/trial/admin-6.png" class="mb-5 img-fluid img-border" alt="" />
+								</div>
 							</div>
-							<div class="tab-pane fade" id="nav-profile" role="tabpanel" aria-labelledby="nav-profile-tab">
-								<div class="trial-tab-container">
-									<h2 class="content-section-title">1. Download Aplikasi Dokodemo-Kerja</h2>
-									<div class="pl-4 mb-5">
-										<p class="trial-tab-content">Extract folder demo dan cari program Dokodemo-Kerja</p>
-										<img src="/img/trial/staff-1.png" class="mb-3 img-fluid img-border"/>
-										<p class="trial-tab-content">Run Aplikasi tersebut</p>
-										<img src="/img/trial/staff-2.png" class="mb-3 img-fluid img-border"/>
+						</div>
+						<div class="tab-pane fade" id="nav-profile" role="tabpanel" aria-labelledby="nav-profile-tab">
+							<div class="trial-tab-container">
+								<div>
+									<h2 class="tab-content-title content-section-title d-inline-block">1. Akses Demo Environment</h2>
+									<p class="trial-tab-content --no-list d-block d-md-inline">Tekan <a href="https://demo.dokodemo-kerja.com/" target="_blank" rel="noopener noreferrer">Link ini</a> untuk mengakses halaman admin Dokodemo-Kerja.</p>
+								</div>
+								<div class="pl-4 mb-5">
+									<div class="row">
+										<div class="col-md-6">
+											<p class="trial-tab-content">Extract folder demo dan cari program Dokodemo-Kerja</p>
+											<img src="/img/trial/staff-1.png" class="mb-3 img-fluid w-100 img-border"/>
+										</div>
+										<div class="col-md-6">
+											<p class="trial-tab-content">Run Aplikasi tersebut <br class="d-none d-md-block"><br class="d-none d-md-block"></p>
+											<img src="/img/trial/staff-2.png" class="mb-3 img-fluid w-100 img-border"/>
+										</div>
 									</div>
-									<h2 class="content-section-title">2. Menggunakan Dokodemo-Kerja</h2>
-									<div class="pl-4">
-										<p class="trial-tab-content">Login dengan credential yang diterima di email, atau login dengan:</p>
-										<p class="trial-tab-content bold">ID: sales@dokodemo-kerja.com </p>
-										<p class="trial-tab-content bold">Password: Dokodemo-123</p>
-										<img src="/img/trial/staff-3.png" class="mb-3 img-fluid img-border"/>
-										<p class="trial-tab-content">Pilih Project dan tekan tombol Play</p>
-										<img src="/img/trial/staff-4.png" class="mb-3 img-fluid img-border"/>
-										<p class="trial-tab-content">Untuk menghentikan project, tekan tombol pause</p>
-										<img src="/img/trial/staff-5.png" class="mb-5 img-fluid img-border"/>
-									</div>
-									<h2 class="content-section-title">3. Menggunakan Homepage</h2>
-									<div class="pl-4">
-										<p class="trial-tab-content">Homepage website dapat diakses melalui tombol "Website"</p>
-										<img src="/img/trial/staff-6.png" class="mb-3 img-fluid img-border"/>
-										<p class="trial-tab-content">Anda bisa melihat hasil tangkapan layar serta berapa lama anda telah bekerja.
-										Icon yang ada di dalam kolom hijau adalah untuk mengubah waktu secara manual.</p>
-										<img src="/img/trial/staff-7.png" class="mb-5 img-fluid img-border"/>
-										<p class="trial-tab-content q-title mt-5">
-											Jika ada pertanyaan, hubungilah kami atau unduh dokumentasi pemakaiannya
-										</p>
-										<a href="/ind/contact-us.php" class="btn btn-trial-contact bold uppercase" id="btn-contact-us-id-staff">Hubungi Kami</a>
-										<p class="trial-tab-content q-title mt-5" style="color:blue; text-decoration:underline">
-										<a href="https://dokodemo-kerja.com/manual-guide.pdf" target="_blank" rel="noopener noreferrer">
-											Download Panduan Manual Dokodemo
-										</a>
+								</div>
 
+								<h2 class="content-section-title">2. Menggunakan Homepage</h2>
+								<div class="pl-4">
+									<div class="row">
+										<div class="col-md-6">
+											<div class="trial-tab-content">
+												<p class="mb-0">
+													Login dengan credential yang diterima di email, atau login dengan:
+												</p>
+												<div class="trial-tab-content__list">
+													<span>ID</span>
+													<span class="font-weight-bold">: sales@dokodemo-kerja.com</span>
+												</div>
+												<div class="trial-tab-content__list">
+													<span>Pass</span>
+													<span class="font-weight-bold">: Dokodemo-123</span>
+												</div>
+											</div>
+											<img src="/img/trial/staff-3.png" class="mb-3 img-fluid w-100 img-border"/>
+										</div>
+										<div class="col-md-6">
+											<p class="trial-tab-content">Pilih Project dan tekan tombol "Play"</p>
+											<img src="/img/trial/staff-4.png" class="mb-3 img-fluid w-100 img-border"/>
+											<p class="trial-tab-content">Tekan tombol merah untuk menghentikan penghitungan</p>
+											<img src="/img/trial/staff-5.png" class="mb-5 img-fluid w-100 img-border"/>
+										</div>
 									</div>
+								</div>
+
+								<h2 class="content-section-title">3. Fitur Lainnya</h2>
+								<div class="pl-4">
+									<div class="row">
+										<div class="col-md-6">
+											<div class="trial-tab-content">
+												<p class="mb-0">
+													Terdapat jumlah jam bekerja di tiap hari dan minggu pada homepage dan, 
+												</p>
+												<div class="trial-tab-content__list">
+													<span style="color: #098AE4"><strong>Biru</strong></span>
+													<span>: untuk Mengecilkan</span>
+												</div>
+												<div class="trial-tab-content__list">
+													<span style="color: #E6B403"><strong>Kuning</strong></span>
+													<span>: menuju ke Website</span>
+												</div>
+												<div class="trial-tab-content__list">
+													<span style="color: #E3092A"><strong>Merah</strong></span>
+													<span>: untuk Keluar</span>
+												</div>
+											</div>
+										</div>
+										<div class="col-md-6">
+											<img src="/img/trial/staff-6.png" class="mb-3 img-fluid w-100 img-border"/>
+										</div>
+									</div>
+								</div>
+
+								<h2 class="content-section-title">4. Tangkapan Layar</h2>
+								<div class="pl-4">
+									<p class="trial-tab-content">Anda bisa melihat hasil tangkapan layar serta berapa lama anda telah bekerja. Icon yang ada di dalam kolom berwarna adalah untuk mengubah waktu secara manual. Selain itu, terdapat waktu riwayat pengubahan waktu dan komentar dari karyawan lain</p>
+									<img src="/img/trial/staff-7.png" class="mb-5 img-fluid w-100 img-border"/>
 								</div>
 							</div>
 						</div>
 					</div>
+				</div>
 			</div>
 		</div>
 	</section>
+
+	<section class="trial-contact py-3">
+		<div class="container">
+			<div class="row">
+				<div class="offset-md-1 col-md-10">
+					<p class="q-title text-white mt-3">
+						Jika ada pertanyaan, hubungilah kami atau unduh dokumentasi pemakaiannya
+					</p>
+					<a href="/ind/contact-us.php" class="btn btn-trial-contact bold uppercase" id="btn-contact-us-id">Hubungi Kami</a>
+					<p class="q-title" style="text-decoration:underline">
+					<a href="https://dokodemo-kerja.com/pdf/install-guide.pdf" target="_blank" rel="noopener noreferrer" style="color:#fff">
+						Download Panduan Manual Dokodemo
+					</a>
+					</p>
+				</div>
+			</div>
+		</div>
+	</section>
+
 	<section class="hide-button-on-mobile">
         <span id="popup-text">
             <div class="speech-bubble">
@@ -277,7 +362,6 @@ $page = 'trial.php';
         </span>    
     </section>
     <!-- end of req online meeting popup -->
-	<br /><br />
 	<?php include 'footer.php' ?>
 	<script src="/js/jquery-3.4.1.min.js"></script>
 	<script src="/js/bootstrap.min.js"></script>

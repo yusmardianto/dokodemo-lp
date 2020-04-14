@@ -1,8 +1,9 @@
 .trial-title {
-  font-weight: 600;
+  font-weight: 700;
   font-size: 2.5rem;
   text-align: center;
   margin: 3rem 0 4rem 0;
+  color: #000;
 }
 
 .trial-header-content {
@@ -20,16 +21,26 @@
   font-weight: 600;
 }
 
+.nav {
+  background-color: #fff;
+  border-radius: 8px 8px 0 0;
+  overflow: hidden;
+  border: none;
+}
+
 .nav-tabs-trial .nav-item.show .nav-link,
 .nav-tabs-trial .nav-link.active {
-  background-color: #f6f6f6;
+  background-color: #0077c7;
   border: 5px solid;
-  border-color: #fff #fff #0077c7;
+  border-color: transparent;
+  border-radius: 0;
+  /* border-color: #fff #fff #0077c7; */
 }
 
 .nav-tabs-trial .nav-link:hover,
 .nav-tabs-trial .nav-link:hover {
-  border-color: #fff #fff #dee2e6;
+  /* border-color: #fff #fff #dee2e6; */
+  border-color: transparent;
 }
 
 .btn-download,
@@ -67,26 +78,66 @@
   font-size: 18px;
 }
 
+.tab-content {
+  padding: 20px;
+  padding-right: calc(1.4rem + 20px);
+  background: #fff;
+  margin-top: 1.5em;
+  margin-bottom: 2.5em;
+  border-radius: 8px;
+}
+
 .trial-tab {
   width: 50%;
 }
 
 .trial-tabfont {
   text-align: center;
-  margin: 0 auto;
+  margin: 0 auto -6px;
   font-size: 28px;
   color: #000;
 }
 
-.trial-tab-container {
-  margin-top: 5rem;
+.nav-tabs-trial .nav-item.show .nav-link .trial-tabfont,
+.nav-tabs-trial .nav-link.active .trial-tabfont {
+  color: #fff;
+}
+
+/* .trial-tab-container {
+  margin-top: 1.5rem;
+} */
+.tab-content-title {
+  font-size: 28px;
+  font-weight: bold;
+  color: #000;
 }
 
 .trial-tab-content {
   margin: 20px;
   color: black;
   font-size: 18px;
-  font-weight: 700;
+  /* font-weight: 700; */
+  position: relative;
+}
+.trial-tab-content:not(.--no-list)::before {
+  content: "";
+  position: absolute;
+  top: 5px;
+  left: -20px;
+  width: 10px;
+  height: 10px;
+  border-radius: 100%;
+  background-color: #1282c2;
+}
+.trial-tab-content > .trial-tab-content__list {
+  display: flex;
+}
+.trial-tab-content__list > span:first-child {
+  flex-basis: 75px;
+}
+
+.trial-contact {
+  background: url("../img/home/bg-user-demo.png") center/cover no-repeat;
 }
 
 .q-title {
@@ -97,7 +148,7 @@
 
 .btn-trial-contact,
 .btn-trial-contact:hover {
-  margin: 2em auto;
+  margin: 1em auto;
   color: white;
   display: block;
   line-height: 1;
@@ -227,7 +278,8 @@
 }
 
 .img-border {
-  border: 1px solid #000;
+  /* border: 1px solid #000; */
+  border: 4px solid rgba(18, 130, 194, 0.3);
 }
 
 @media screen and (max-width: 768px) {
