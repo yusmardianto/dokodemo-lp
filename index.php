@@ -483,13 +483,15 @@
 
     </section>
     <section class="user-demo">
-        <div class="row">
-            <div class="offset-md-3 col-md-3 pb-4 pb-md-0">
-                <p class="fs-27 text-white text-center text-md-left header-demo-text mb-0"><strong>Try the demo, Now!</strong></p>
-                <span class="d-block text-white text-center text-md-left fs-18 header-subdemo-text">*No credit card required</span>
-            </div>
-            <div class="col-md-3">
-                <a href="trial.php" class="btn-sign-up btn-try-demo" id="btn-sign-up">Click Here</a>
+        <div class="container">
+            <div class="row">
+                <div class="offset-md-2 col-md-4 pb-4 pb-md-0">
+                    <p class="fs-27 text-white text-center text-md-left header-demo-text mb-0"><strong>Try the demo, Now!</strong></p>
+                    <span class="d-block text-white text-center text-md-left fs-18 header-subdemo-text">*No credit card required</span>
+                </div>
+                <div class="col-md-4">
+                    <a href="trial.php" class="btn-sign-up btn-try-demo" id="btn-sign-up">Click Here</a>
+                </div>
             </div>
         </div>
     </section>

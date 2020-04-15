@@ -242,7 +242,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 					<h4>If you want an immediate response, get in touch with us during office hours:</h4>
 					<h5 class="mt-3 mb-3">09.00 - 17.00 (Mon-Fri)</h5>
 					<p>
-						<a href="tel:62811870321">
+						<a href="tel:+62811870321">
 								<img src="img/pricing/call.png"aria-label="phone link"/>
 						</a>
 							<a href="mailto:info@logique.co.id" aria-label="mail link">

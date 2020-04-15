@@ -267,7 +267,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 	</section>
 
 	<section class="trial-contact">
-		<dic class="container">
+		<div class="container">
 			<div class="row">
 				<div class="offset-md-1 col-md-10">
 					<p class="q-title text-white mt-3">
@@ -281,7 +281,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 					</p>
 				</div>
 			</div>
-		</dic>
+		</div>
 	</section>
 	<!-- req online meeting popup -->
     <section>

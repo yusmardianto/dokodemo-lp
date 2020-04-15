@@ -209,7 +209,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                     <div>
                         <p class="position-relative price-ent-contact-text">Hubungi Kami untuk Fitur Custom</p>
                         <div class="plan-contact-us price-ent-contact-icon">
-                            <a href="tel:02122708935" aria-label="phone link"><img src="../img/pricing/call.png" id="call" alt="" /></a>
+                            <a href="tel:+62811870321" aria-label="phone link"><img src="../img/pricing/call.png" id="call" alt="" /></a>
                             <a href="mailto:sales@dokodemo-kerja.com" aria-label="mail link"><img src="../img/pricing/mail.png" alt="" id="mail" /></a>
                             <a aria-label="whatsapp link" href="https://api.whatsapp.com/send?phone=62811870321&text=Hello, I want to know more about Enterprise Plan of Dokodemo-Kerja." target="_blank" rel="noopener noreferrer"><img src="../img/pricing/whatsapp.png" alt="" id="whatsapp" /></a>
                         </div>

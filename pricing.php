@@ -185,7 +185,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                     <div>
                         <p class="position-relative price-ent-contact-text">Contact us for Customised Features</p>
                         <div class="plan-contact-us price-ent-contact-icon">
-                            <a href="tel:02122708935" aria-label="phone link"><img src="img/pricing/call.png" id="call" alt="" /></a>
+                            <a href="tel:+62811870321" aria-label="phone link"><img src="img/pricing/call.png" id="call" alt="" /></a>
                             <a href="mailto:sales@dokodemo-kerja.com" aria-label="mail link"><img src="img/pricing/mail.png" id="mail" alt="" /></a>
                             <a href="https://api.whatsapp.com/send?phone=62811870321&text=Hello, I want to know more about Enterprise Plan of Dokodemo-Kerja." aria-label="whatsapp link" rel="noopener noreferrer" target="_blank"><img src="img/pricing/whatsapp.png" id="whatsapp" alt="" /></a>
                         </div>
