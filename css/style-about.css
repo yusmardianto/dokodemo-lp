@@ -441,8 +441,8 @@ body {
 .dokodemo-user-float {
   position: absolute;
   bottom: -2vh;
-  left: -20vh;
-  width: 80%;
+  left: 0;
+  width: 70%;
 }
 
 .dokodemo-desc {
@@ -488,8 +488,8 @@ body {
   .dokodemo-user-float {
     position: absolute;
     bottom: -1vh;
-    left: -5vh;
-    width: 80%;
+    left: 0;
+    width: 70%;
   }
 }
 
@@ -539,6 +539,9 @@ body {
   .section-title {
     font-size: 26px;
   }
+  .dokodemo-user-float {
+    bottom: 0;
+  }
 }
 
 @media only screen and (max-width:320px) {
@@ -565,5 +568,8 @@ body {
   }
   .section-title {
     font-size: 26px;
+  }
+  .dokodemo-user-float {
+    bottom: 0;
   }
 }
