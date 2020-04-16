@@ -188,7 +188,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
         <div class="container-fluid">
             <div class="row employee-role">
                 <div class="col-md-6 program-sample">
-                    <img src="img/features/doko.svg" class="img-fluid img-doko" alt="" />
+                    <img src="img/features/doko.png" class="img-fluid img-doko" alt="" />
                 </div>
                 <div class="col-md-6 employee-feature-list pt-sm-4">
                     <h3><strong>FOR EMPLOYEE:</strong></h3>
