@@ -79,7 +79,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                     <p class="about-us-contact">
                         Perusahaan kami pun saat ini sudah menggunakan Dokodemo-Kerja. Jika ada pertanyaan lebih lanjut, jangan ragu untuk <a href="/ind/contact-us.php">HUBUNGI KAMI</a>.; kami akan dengan senang hati untuk membantu anda untuk mengenal Dokodemo-Kerja.
                     </p>
-                    <img src="/img/about/dokodemo-about.svg" class="img-dokodemo-about" alt="" />
+                    <img src="/img/about/dokodemo-about.png" class="img-dokodemo-about" alt="" />
                 </div>
                 <div class="col-lg-6 about-us-right">
                     <h1>KENAPA DOKODEMO-KERJA?</h1>

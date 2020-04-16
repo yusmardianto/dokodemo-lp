@@ -82,7 +82,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 
                     <br class="d-none d-lg-block"><br class="d-none d-lg-block">
                     
-                    <img src="img/about/dokodemo-about.svg" class="img-dokodemo-about" alt="" />
+                    <img src="img/about/dokodemo-about.png" class="img-dokodemo-about" alt="" />
 
                     <br class="d-none d-lg-block"><br class="d-none d-lg-block">
                 </div>
