@@ -166,32 +166,32 @@ $page = 'trial.php';
 								</div>
 								<div class="pl-4 mb-5">
 									<div class="row">
-										<div class="col-md-6 col-lg-7">
-											<p class="trial-tab-content">Tekan <strong>"LOGIN"</strong> <br class="d-none d-md-block"><br class="d-none d-md-block"></p>
-											<img src="/img/trial/admin-1.png" class ="mb-3 img-fluid img-border" alt="" />
+										<div class="col-md-6 col-lg-8">
+											<p class="trial-tab-content">Tekan <strong>"LOGIN"</strong> <br class="d-none d-md-block"><br class="d-none d-md-block"><br class="d-none d-md-block d-xl-none"></p>
+											<img src="/img/trial/admin-1.png" class ="mb-3 img-fluid w-100 img-border" alt="" style="height: 295px; object-fit: contain;"/>
 										</div>
-										<div class="col-md-6 col-lg-5">
+										<div class="col-md-6 col-lg-4">
 											<p class="trial-tab-content">Login dengan email dan password yang tersedia.</p>
-											<img src="/img/trial/admin-2.png" class ="mb-3 img-fluid img-border" alt="" />
+											<img src="/img/trial/admin-2.png" class ="mb-3 img-fluid w-100 img-border" alt="" style="height: 295px; object-fit: cover;"/>
 										</div>
 									</div>
 								</div>
 								<h2 class="content-section-title">2. Menambah Staff</h2>
 								<div class="pl-4">
 									<p class="trial-tab-content">Tekan tombol <strong>"Staff"</strong></p>
-									<img src="/img/trial/admin-3.png" class="mb-3 img-fluid img-border" alt="" />
+									<img src="/img/trial/admin-3.png" class="mb-3 img-fluid w-100 img-border" alt="" />
 									<div class="row">
 										<div class="col-md-6">
 											<p class="trial-tab-content">Tekan tombol <strong>"Add Staff"</strong></p>
-											<img src="/img/trial/admin-4.png" class="mb-3 img-fluid img-border" alt="" />
+											<img src="/img/trial/admin-4.png" class="mb-3 img-fluid w-100 img-border" alt="" />
 										</div>
 										<div class="col-md-6">
 											<p class="trial-tab-content">Isi Informasi staff</p>
-											<img src="/img/trial/admin-5.png" class="mb-3 img-fluid img-border" alt="" />
+											<img src="/img/trial/admin-5.png" class="mb-3 img-fluid w-100 img-border" alt="" />
 										</div>
 									</div>
 									<p class="trial-tab-content">Staff akan terdaftar di demo environment dan sebuah email akan dikirimkan kepada staff.</p>
-									<img src="/img/trial/admin-6.png" class="mb-5 img-fluid img-border" alt="" />
+									<img src="/img/trial/admin-6.png" class="mb-5 img-fluid w-100 img-border" alt="" />
 								</div>
 							</div>
 						</div>

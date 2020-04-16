@@ -147,32 +147,32 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 								</div>
 								<div class="pl-4 mb-5">
 									<div class="row">
-										<div class="col-md-6 col-lg-7">
-											<p class="trial-tab-content">Click <strong>"LOGIN"</strong> <br class="d-none d-md-block"><br class="d-none d-md-block"></p>
-											<img src="/img/trial/admin-1.png" class="img-fluid img-border mb-3" style="height: 203px; width: 95%; object-fit: contain;" alt="" />
+										<div class="col-md-6 col-lg-8">
+											<p class="trial-tab-content">Click <strong>"LOGIN"</strong> <br class="d-none d-md-block"><br class="d-none d-md-block"><br class="d-none d-lg-block d-xl-none"></p>
+											<img src="/img/trial/admin-1.png" class="img-fluid w-100 img-border mb-3" style="height: 295px; object-fit: contain;" alt="" />
 										</div>
-										<div class="col-md-6 col-lg-5">
+										<div class="col-md-6 col-lg-4">
 											<p class="trial-tab-content">Login with the provided email and password</p>
-											<img src="/img/trial/admin-2.png" class="img-fluid img-border mb-3" alt="" />
+											<img src="/img/trial/admin-2.png" class="img-fluid w-100 img-border mb-3" style="height: 295px; object-fit: cover;" alt="" />
 										</div>
 									</div>
 								</div>
 								<h2 class="tab-content-title content-section-title">2. Add New Staff</h2>
 								<div class="pl-4">
 									<p class="trial-tab-content">Click the <strong>"Staff"</strong> button</p>
-									<img src="/img/trial/admin-3.png" class="mb-3 img-fluid img-border" alt="" />
+									<img src="/img/trial/admin-3.png" class="mb-3 img-fluid w-100 img-border" alt="" />
 									<div class="row">
 										<div class="col-md-6">
 											<p class="trial-tab-content">Click <strong>"Add Staff"</strong> <br class="d-none d-md-block d-lg-none"><br class="d-none d-md-block d-lg-none"></p>
-											<img src="/img/trial/admin-4.png" class="mb-3 img-fluid img-border" alt="" />
+											<img src="/img/trial/admin-4.png" class="mb-3 img-fluid w-100 img-border" alt="" />
 										</div>
 										<div class="col-md-6">
 											<p class="trial-tab-content">Fill in the Staff information</p>
-											<img src="/img/trial/admin-5.png" class="mb-3 img-fluid img-border" alt="" />
+											<img src="/img/trial/admin-5.png" class="mb-3 img-fluid w-100 img-border" alt="" />
 										</div>
 									</div>
 									<p class="trial-tab-content">The staff will be drafted in the demo environment and an email will be sent to the staff's email.</p>
-									<img src="/img/trial/admin-6.png" class="mb-5 img-fluid img-border" alt="" />
+									<img src="/img/trial/admin-6.png" class="mb-5 img-fluid w-100 img-border" alt="" />
 								</div>
 							</div>
 						</div>

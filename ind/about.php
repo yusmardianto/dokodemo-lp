@@ -79,7 +79,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                     <p class="about-us-contact">
                         Perusahaan kami pun saat ini sudah menggunakan Dokodemo-Kerja. Jika ada pertanyaan lebih lanjut, jangan ragu untuk <a href="/ind/contact-us.php">HUBUNGI KAMI</a>.; kami akan dengan senang hati untuk membantu anda untuk mengenal Dokodemo-Kerja.
                     </p>
-                    <img src="/img/about/dokodemo-about.png" class="img-dokodemo-about" alt="" />
+                    <img src="/img/about/dokodemo-about.svg" class="img-dokodemo-about" alt="" />
                 </div>
                 <div class="col-lg-6 about-us-right">
                     <h1>KENAPA DOKODEMO-KERJA?</h1>
@@ -303,7 +303,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
         <div class="container p-md-0 position-relative">
             <div class="row no-gutters ">
                 <div class="col-md-6 ">
-                    <img src="/img/home/bg-feature-1.png" class="img-fluid" alt=""/>
+                    <img src="/img/home/bg-feature-1.png" class="w-100 img-fluid" alt=""/>
                     <img src="/img/home/dokodemo-user.png" class="dokodemo-user-float" alt=""/>
                 </div>
                 <div class="col-md-6 d-flex align-items-center">
@@ -332,7 +332,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
             </div>
             <div class="row no-gutters">
                 <div class="col-md-6">
-                    <img src="/img/home/work-efficiency.png" class="img-fluid" alt=""/>
+                    <img src="/img/home/work-efficiency.svg" width="100%" class="img-fluid" alt=""/>
                 </div>
                 <div class="col-md-6 d-flex align-items-center">
                     <div class="benefit-content right">

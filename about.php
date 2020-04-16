@@ -82,7 +82,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 
                     <br class="d-none d-lg-block"><br class="d-none d-lg-block">
                     
-                    <img src="img/about/dokodemo-about.png" class="img-dokodemo-about" alt="" />
+                    <img src="img/about/dokodemo-about.svg" class="img-dokodemo-about" alt="" />
 
                     <br class="d-none d-lg-block"><br class="d-none d-lg-block">
                 </div>
@@ -317,7 +317,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
         <div class="container p-md-0 position-relative">
             <div class="row no-gutters ">
                 <div class="col-md-6 ">
-                    <img src="img/home/bg-feature-1.png" class="img-fluid" alt="" />
+                    <img src="img/home/bg-feature-1.png" class="w-100 img-fluid" alt="" />
                     <img src="img/home/dokodemo-user.png" class="dokodemo-user-float" alt="" />
                 </div>
                 <div class="col-md-6 d-flex align-items-center">
@@ -346,7 +346,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
             </div>
             <div class="row no-gutters">
                 <div class="col-md-6">
-                    <img src="img/home/work-efficiency.png" class="img-fluid" alt="" />
+                    <img src="img/home/work-efficiency.svg" width="100%" class="img-fluid" alt="" />
                 </div>
                 <div class="col-md-6 d-flex align-items-center">
                     <div class="benefit-content right">
