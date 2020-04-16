@@ -346,7 +346,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
             </div>
             <div class="row no-gutters">
                 <div class="col-md-6">
-                    <img src="img/home/work-efficiency.svg" width="100%" class="img-fluid" alt="" />
+                    <img src="img/home/work-efficiency.png" width="100%" class="img-fluid" alt="" />
                 </div>
                 <div class="col-md-6 d-flex align-items-center">
                     <div class="benefit-content right">
