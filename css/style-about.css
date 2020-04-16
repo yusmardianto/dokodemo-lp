@@ -488,7 +488,7 @@ body {
   .dokodemo-user-float {
     position: absolute;
     bottom: -1vh;
-    left: -2vh;
+    left: -5vh;
     width: 80%;
   }
 }
