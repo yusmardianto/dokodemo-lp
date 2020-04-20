@@ -7,7 +7,7 @@
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
 	<meta name="description" itemprop="description" content="Dokodemo-Kerja adalah sistem yang memungkinkan fitur pelacakan waktu, laporan waktu yang akurat, manajemen jam kerja, navigasi yang mudah, dan alat pemantauan kinerja yang fleksibel yang menguntungkan baik karyawan maupun pengusaha.">
     <meta name="keywords" content="dokodemo, dokodemo-kerja, dokodemo kerja, pemantauan layar, monitor sceen, monitor karyawan, pemantauan karyawan, pelacak waktu, jam dalam perangkat lunak, perangkat lunak absensi, alat absensi, kalkulator jam kerja, kelola karyawan, alat untuk manajer, alat untuk jam, manajer pemberitahuan, alat produktivitas, penambah produktivitas, pengelola kinerja, pengelolaan kinerja, monitor kinerja, software clock in, fitur absensi">
-    <meta name="author" content="PT. Logique Digital Indonesia">
+    <meta name="author" content="PT. LOGIQUE Digital Indonesia">
 	<meta name="google-site-verification" content="Xc9SFJQZdKYLsrWvrxEjLLTA-nyrnNPQTXQoMxs4gKI" />
     <meta property="og:title" content="Fitur Dokodemo-Kerja | Alat Pemantau Waktu Kerja">
     <meta property="og:type" content="website">

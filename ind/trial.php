@@ -22,7 +22,7 @@ $page = 'trial.php';
 	<meta http-equiv="X-UA-Compatible" content="ie=edge" />
 	<meta name="description" itemprop="description" content="Gunakan dokodemo kerja untuk menyingkirkan karyawan malas dan mempertahankan karyawan terbaik Anda. Hadiahi mereka yang berprestasi dan rasakan peningkatan produktivitas. Gratis uji coba dan dapatkan harga khusus untuk skala perusahaan.">
 	<meta name="keywords" content="menyingkirkan karyawan yang berkinerja buruk, menyingkirkan karyawan yang malas, meningkatkan produktivitas, uji coba dokodemo, dokodemo gratis, alat jam gratis, alat manajemen gratis, alat bisnis kecil, alat anggaran rendah, alat anggaran rendah, alat manajemen anggaran rendah, alat manajemen anggaran rendah, pelacak waktu gratis, pelacak waktu karyawan gratis, pelacak jam kerja gratis, pelacak tangkapan layar, tangkapan layar perangkat lunak monitor karyawan murah">
-	<meta name="author" content="PT. Logique Digital Indonesia">
+	<meta name="author" content="PT. LOGIQUE Digital Indonesia">
 	<meta name="google-site-verification" content="Xc9SFJQZdKYLsrWvrxEjLLTA-nyrnNPQTXQoMxs4gKI" />
 	<meta property="og:title" content="Demo Dokodemo-Kerja | Alat Pelacak Waktu Kerja">
     <meta property="og:type" content="website">
@@ -123,13 +123,13 @@ $page = 'trial.php';
 					<h3 class="download-title hidden-xs">Install demo aplikasi dari link dibawah ini:</h3>
 					<div class="row">
 						<div class="col-md-4">
-							<a href="https://demo.dokodemo-kerja.com/files/Dokodemo-Kerja%20(Windows)%20demo%20v1.0.4.zip" class="btn btn-download bold uppercase hidden-xs" id="btn-download-windows-id"><i class="fa fa-download icon-download"></i>Windows</a>
+							<a target="_blank" href="https://drive.google.com/file/d/19e2Mdv1ev8twsOV_ZYXMmgHkTPfKa5sC/view?usp=sharing" class="btn btn-download bold uppercase hidden-xs" id="btn-download-windows-id"><i class="fa fa-download icon-download"></i>Windows</a>
 						</div>
 						<div class="col-md-4">
-							<a href="https://demo.dokodemo-kerja.com/files/Dokodemo-Kerja%20(Mac)%20demo%20v1.0.4.zip" class="btn btn-download bold uppercase hidden-xs" id="btn-download-ios-id"><i class="fa fa-download icon-download"></i>IOS</a>
+							<a target="_blank" href="https://drive.google.com/open?id=1UgpsJ3_3tmzdvESSF9hmTczLWAlAEzUE" class="btn btn-download bold uppercase hidden-xs" id="btn-download-ios-id"><i class="fa fa-download icon-download"></i>IOS</a>
 						</div>
 						<div class="col-md-4">
-							<a href="https://demo.dokodemo-kerja.com/files/Dokodemo-Kerja%20(Linux)%20demo%20v1.0.4.zip" class="btn btn-download bold uppercase hidden-xs" id="btn-download-linux-id"><i class="fa fa-download icon-download"></i>Linux</a>
+							<a target="_blank" href="https://drive.google.com/open?id=1PjZ9cwUU1dOCiS_kIx-cGC5UNxpSseta" class="btn btn-download bold uppercase hidden-xs" id="btn-download-linux-id"><i class="fa fa-download icon-download"></i>Linux</a>
 						</div>
 					</div>
 					<a href="https://dokodemo-kerja.com/pdf/install-guide.pdf" target="_blank" rel="noopener noreferrer" aria-label="Install Guide" class="dl-guide">

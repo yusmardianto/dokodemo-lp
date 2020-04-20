@@ -76,7 +76,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
         <div class="container mb-3">
             <div class="row">
                 <div class="col-md-12 text-center pricing-page-title">
-                    <h2>Save Money. Increase Transparency.</h2>
+                    <h2>Start Remote Work. Save Money. Increase Transparency.</h2>
                     <h3>Use Dokodemo-Kerja</h3>
                 </div>
             </div>
@@ -91,7 +91,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                                 <div class="col-md-6">
                                     <div class="price">
                                         <span class="rp">Rp. </span>
-                                        <span class="price-number">1 JT</span>
+                                        <span class="price-number">1,000,000</span>
                                         <span class="per-month">/ Bulan</span>
                                         <p><strong>Jika ada lebih dari 10 pengguna, maka setiap pengguna dikenakan biaya</strong></p>
                                         <div class="additional-fee">

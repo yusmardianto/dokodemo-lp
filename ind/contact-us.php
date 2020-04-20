@@ -22,7 +22,7 @@
 	<meta http-equiv="X-UA-Compatible" content="ie=edge" />
 	<meta name="description" itemprop="description" content="Hubungi tim pemasaran kami untuk mendapatkan uji coba dokodemo gratis. Kami menyediakan uji coba gratis, dukungan pelatihan, konsultasi pra-penjualan, dan kami siap menjawab pertanyaan apa pun yang mungkin Anda miliki tentang produk kami.">
     <meta name="keywords" content="dokodemo, dokodemo-kerja, program perusahaan, program pemantauan, alat pelaporan, uji coba gratis, email dokodemo, bantuan dokodemo, kontak dokodemo, penjualan dokodemo, pemasaran dokodemo, pelatihan permintaan, kenali karyawan Anda, alat startup, logique person contact person, kontak dokodemo orang, apa itu dokodemo, apa itu kerja jarak jauh">
-    <meta name="author" content="PT. Logique Digital Indonesia">
+    <meta name="author" content="PT. LOGIQUE Digital Indonesia">
 	<meta name="google-site-verification" content="Xc9SFJQZdKYLsrWvrxEjLLTA-nyrnNPQTXQoMxs4gKI" />
 	<meta property="og:title" content="Tanya Dokodemo-Kerja | Tingkatkan Produktivitas dalam 1 Bulan">
     <meta property="og:type" content="website">

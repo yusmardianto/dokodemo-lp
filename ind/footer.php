@@ -66,7 +66,7 @@
         </div>
         <div class="row align-items-center">
             <div class="col-lg-12 copyright-container">
-                &copy; 2019 Logique Digital Indonesia, All Rights Reserved
+                &copy; 2019 LOGIQUE Digital Indonesia, All Rights Reserved
             </div>
         </div>
     </div>

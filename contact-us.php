@@ -22,7 +22,7 @@
   <meta http-equiv="X-UA-Compatible" content="ie=edge" />
   <meta name="description" itemprop="description" content="Contact our marketing team to get a free dokodemo trial. We provide free trials, training support, pre-sales consultation, and we are ready to answer any questions you might have regarding our product. ">
   <meta name="keywords" content="dokodemo, dokodemo-kerja, enterprise program, monitoring program, reporting tool, Buy Light Plan, dokodemo email, dokodemo help, dokodemo contact, dokodemo sales, dokodemo marketing, request training, know your employee, startup tool, logique contact person, dokodemo contact person, what is dokodemo, what is remote working">
-  <meta name="author" content="PT. Logique Digital Indonesia">
+  <meta name="author" content="PT. LOGIQUE Digital Indonesia">
   <meta name="google-site-verification" content="Xc9SFJQZdKYLsrWvrxEjLLTA-nyrnNPQTXQoMxs4gKI" />
 	<meta property="og:title" content="Contact Dokodemo-Kerja | Maximize Productivity in a Month">
     <meta property="og:type" content="website">

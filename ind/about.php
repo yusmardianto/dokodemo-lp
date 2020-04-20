@@ -5,9 +5,9 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=5.0" />
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
-	<meta name="description" itemprop="description" content="Dokodemo-Kerja dibangun oleh PT Logique Digital Indonesia untuk menghasilkan laporan produktivitas secara akurat. Tujuan dari program ini adalah untuk mempromosikan budaya kerja yang sehat dan produktif yang ditujukan untuk kota berpenduduk padat.">
+	<meta name="description" itemprop="description" content="Dokodemo-Kerja dibangun oleh PT LOGIQUE Digital Indonesia untuk menghasilkan laporan produktivitas secara akurat. Tujuan dari program ini adalah untuk mempromosikan budaya kerja yang sehat dan produktif yang ditujukan untuk kota berpenduduk padat.">
     <meta name="keywords" content="Perangkat lunak yang berfungsi jarak jauh, alat kerja jarak jauh, sistem kerja jarak jauh, penerapan kerja jarak jauh, enabler kerja jarak jauh, memungkinkan budaya kerja jarak jauh, budaya kerja jarak jauh, bekerja sambil bepergian, logique, pt logique, logique digital indonesia, pelacakan waktu, pelacak waktu, pelacak jam kerja, pelacakan jam kerja, perangkat lunak enterprise, perangkat lunak screenshot enterprise">
-    <meta name="author" content="PT. Logique Digital Indonesia">
+    <meta name="author" content="PT. LOGIQUE Digital Indonesia">
 	<meta name="google-site-verification" content="Xc9SFJQZdKYLsrWvrxEjLLTA-nyrnNPQTXQoMxs4gKI" />
     <meta property="og:title" content="Tentang Dokodemo-Kerja | Cloud System for HR">
     <meta property="og:type" content="website">
@@ -70,14 +70,14 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                 <div class="col-lg-6 about-us-left">
                     <h1>TENTANG DOKODEMO-KERJA</h1>
                     <p class="about-us-desc">
-                        Dokodemo-Kerja adalah alat HR yang dikembangkan oleh PT. Logique Digital Indonesia, perusahaan solusi digital yang berpusat di Jakarta, Indonesia.
+                        Dokodemo-Kerja adalah alat HR yang dikembangkan oleh PT. LOGIQUE Digital Indonesia, perusahaan solusi digital yang berpusat di Jakarta, Indonesia.
                         <br><br>
                         Dokodemo-Kerja dibuat dengan harapan dapat membantu mempromosikan budaya kerja yang lebih sehat, produktif, dan juga fleksibel, yang menguntungkan pihak karyawan dan perusahaan.
                         <br><br>
                         Dokodemo-Kerja merupakan gabungan dari bahasa Jepang dan Indonesia. "Dokodemo" berarti "Di mana saja" dan Kerja, dan jika digabung berarti Kerja Dimana Saja. Kami mewujudkannya dalam fungsi utama Dokodemo-Kerja yang memungkinkan karyawan untuk bekerja di lingkungan yang paling kondusif untuk mereka daripada harus terkurung di satu lokasi atau kantor. Namun, kami juga tidak melupakan sisi perusahaan yang harus tetap mengetahui kinerja karyawan tersebut.
                     </p>
                     <p class="about-us-contact">
-                        Perusahaan kami pun saat ini sudah menggunakan Dokodemo-Kerja. Jika ada pertanyaan lebih lanjut, jangan ragu untuk <a href="/ind/contact-us.php">HUBUNGI KAMI</a>.; kami akan dengan senang hati untuk membantu anda untuk mengenal Dokodemo-Kerja.
+                        Anda bisa melihat dan mendapatkan informasi lebih lanjut tentang Dokodemo-Kerja <a target="_blank" href="https://www.logique.co.id/blog/category/dokodemo-kerja/">di sini</a>. Jika ada pertanyaan lebih lanjut, jangan ragu untuk <a href="/ind/contact-us.php">HUBUNGI KAMI</a>.; kami akan dengan senang hati untuk membantu anda untuk mengenal Dokodemo-Kerja.
                     </p>
                     <img src="/img/about/dokodemo-about.png" class="img-dokodemo-about" alt="" />
                 </div>

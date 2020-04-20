@@ -7,7 +7,7 @@
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
 	<meta name="description" itemprop="description" content="Dokodemo is a cheap solution to save your money on overpaying your employees. Easily determine who deserves to be paid more, who deserves that bonus, and who really deserves a promotion. Use this tool and feel the difference.">
     <meta name="keywords" content="cheap user manager platform, cheap people management software, people management software, dokodemo, dokodemo-kerja, enterprise software, cheap enterprise software, effective people management tool, management tool cheap">
-    <meta name="author" content="PT. Logique Digital Indonesia">
+    <meta name="author" content="PT. LOGIQUE Digital Indonesia">
 	<meta name="google-site-verification" content="Xc9SFJQZdKYLsrWvrxEjLLTA-nyrnNPQTXQoMxs4gKI" />
     <meta property="og:title" content="Price of Dokodemo-Kerja | Employees' Screen Monitoring Tool">
     <meta property="og:type" content="website">
@@ -67,7 +67,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
          <div class="container mb-3">
              <div class="row">
                 <div class="col-md-12 text-center pricing-page-title">
-                    <h2>Save Money. Increase Transparency.</h2>
+                    <h2>Start Remote Work. Save Money. Increase Transparency.</h2>
                     <h3>Use Dokodemo-Kerja</h3>
                 </div>
             </div>
@@ -81,7 +81,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                                 <div class="col-md-6">
                                     <div class="price">
                                         <span class="rp">Rp. </span>
-                                        <span class="price-number">1M</span>
+                                        <span class="price-number">1,000,000</span>
                                         <span class="per-month">/ Month</span>
                                         <p><strong>If the number of user is above 10 then additional charge is (for 1 more user)</strong></p>
                                         <div class="additional-fee">

@@ -7,7 +7,7 @@
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
 	<meta name="description" itemprop="description" content="Dokodemo-Kerja is a system that enables time tracking feature, accurate time reports, man hour management, easy navigation, and flexible monitoring tools which benefits both employees and employers.">
     <meta name="keywords" content="dokodemo, dokodemo-kerja, dokodemo kerja, screen monitoring, sceen monitor, monitor employee, employee monitoring, time tracker, clock in, clock in software, attendance software, attendance tool, work hour calculator,  manage employees, tool for managers, tool for hr, notification manager, productivity tool, productivity enhancer">
-    <meta name="author" content="PT. Logique Digital Indonesia">
+    <meta name="author" content="PT. LOGIQUE Digital Indonesia">
 	<meta name="google-site-verification" content="Xc9SFJQZdKYLsrWvrxEjLLTA-nyrnNPQTXQoMxs4gKI" />
     <meta property="og:title" content="Feature of Dokodemo-Kerja | Working Hours Tracking Tool">
     <meta property="og:type" content="website">

@@ -423,7 +423,7 @@
 
                             <tr>
                               <td class="content-block powered-by">
-                                Powered by <a href="#">PT Logique Digital Indonesia</a>.
+                                Powered by <a href="#">PT LOGIQUE Digital Indonesia</a>.
                               </td>
                             </tr>
                           </table>

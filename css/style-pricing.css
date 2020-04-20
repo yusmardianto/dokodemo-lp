@@ -85,7 +85,7 @@ body {
 }
 
 .price .price-number {
-  font-size: 77px;
+  font-size: 48px;
   line-height: 1.1;
   font-weight: 600;
   color: #2c7ca7;
@@ -121,9 +121,9 @@ body {
 
 .additional-fee .price-number {
   color: #2c7ca7;
-  font-size: 47px;
+  font-size: 36px;
   padding-left: 0.1em;
-  line-height: 1.1;
+  line-height: 1.7;
 }
 
 .additional-fee .per-month {
@@ -449,12 +449,36 @@ body {
 
 /* Resp Develop */
 
-@media screen and (min-width: 1024px) and (max-width:1024px) {
-
+@media screen and (min-width: 813px) and (max-width:1024px) {
+  .price .price-number {
+    font-size: 35px;
+  }
+  .additional-fee .price-number {
+    font-size: 26px;
+    line-height: 2;
+  }
+  .additional-fee .plus-rp, .price .rp, .price .per-month {
+    font-size: 15px;
+  }
+  .price .rp, .price .per-month {
+    line-height: 3.5;
+  }
 }
 
 @media only screen and (max-width: 812px) and (min-width:768px) {
-
+  .price .price-number {
+    font-size: 32px;
+  }
+  .additional-fee .price-number {
+    font-size: 26px;
+    line-height: 2;
+  }
+  .additional-fee .plus-rp, .price .rp, .price .per-month {
+    font-size: 15px;
+  }
+  .price .rp, .price .per-month {
+    line-height: 3.5;
+  }
 }
 
 @media only screen and (max-width:736px) and (min-width:568px) {
@@ -477,11 +501,14 @@ body {
   .price .price-number {
     font-size: 42px;
   }
+  .additional-fee {
+    padding-left: 20px;
+  }
   .additional-fee .price-number {
     font-size: 28px;
   }
   .additional-fee .per-month {
-    line-height: 1.8;
+    line-height: 2.4;
   }
   .plan-benefits {
     margin-top: 0.4em;
@@ -508,13 +535,16 @@ body {
     font-size: 21px;
   }
   .price .price-number {
-    font-size: 42px;
+    font-size: 32px;
   }
   .additional-fee .price-number {
     font-size: 28px;
   }
   .additional-fee .per-month {
-    line-height: 1.8;
+    line-height: 2.4;
+  }
+  .additional-fee .plus-rp, .price .rp, .price .per-month {
+    font-size: 13px;
   }
   .plan-benefits {
     margin-top: 0.4em;

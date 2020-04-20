@@ -23,7 +23,7 @@
 	<meta http-equiv="X-UA-Compatible" content="ie=edge" />
 	<meta name="description" itemprop="description" content="No more slacking off, use dokodemo kerja to weed out the lazy ones and keep your best employees. Reward the achievers and experience the improvement in productivity. Free and receive special price for enterprise scale.">
     <meta name="keywords" content="weed out underperforming employees, get rid of lazy employees, increase productivity, dokodemo trial, dokodemo free, free hr tool, free management tool, small business tool, low budget tool, low budget hr tool, low budget management tool, free time tracker, free employee time tracker, free man hour tracker, screenshot tracker, screenshot employee monitor software cheap">
-    <meta name="author" content="PT. Logique Digital Indonesia">
+    <meta name="author" content="PT. LOGIQUE Digital Indonesia">
 	<meta name="google-site-verification" content="Xc9SFJQZdKYLsrWvrxEjLLTA-nyrnNPQTXQoMxs4gKI" />
 	<meta property="og:title" content="Demo of Dokodemo-Kerja | Available in 3 Platforms">
     <meta property="og:type" content="website">
@@ -104,13 +104,13 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 					<h3 class="download-title hidden-xs">Install demo application from the links below:</h3>
 					<div class="row">
 						<div class="col-md-4">
-							<a href="https://demo.dokodemo-kerja.com/files/Dokodemo-Kerja%20(Windows)%20demo%20v1.0.4.zip" class="btn btn-download bold uppercase hidden-xs" id="btn-download-windows"><i class="fa fa-download icon-download"></i>Windows</a>
+							<a target="_blank" href="https://drive.google.com/file/d/19e2Mdv1ev8twsOV_ZYXMmgHkTPfKa5sC/view?usp=sharing" class="btn btn-download bold uppercase hidden-xs" id="btn-download-windows"><i class="fa fa-download icon-download"></i>Windows</a>
 						</div>
 						<div class="col-md-4">
-							<a href="https://demo.dokodemo-kerja.com/files/Dokodemo-Kerja%20(Mac)%20demo%20v1.0.4.zip" class="btn btn-download bold uppercase hidden-xs" id="btn-download-ios"><i class="fa fa-download icon-download"></i>IOS</a>
+							<a target="_blank" href="https://drive.google.com/open?id=1UgpsJ3_3tmzdvESSF9hmTczLWAlAEzUE" class="btn btn-download bold uppercase hidden-xs" id="btn-download-ios"><i class="fa fa-download icon-download"></i>IOS</a>
 						</div>
 						<div class="col-md-4">
-							<a href="https://demo.dokodemo-kerja.com/files/Dokodemo-Kerja%20(Linux)%20demo%20v1.0.4.zip" class="btn btn-download bold uppercase hidden-xs" id="btn-download-linux"><i class="fa fa-download icon-download"></i>Linux</a>
+							<a target="_blank" href="https://drive.google.com/open?id=1PjZ9cwUU1dOCiS_kIx-cGC5UNxpSseta" class="btn btn-download bold uppercase hidden-xs" id="btn-download-linux"><i class="fa fa-download icon-download"></i>Linux</a>
 						</div>
 					</div>
 					<a href="https://dokodemo-kerja.com/pdf/install-guide-ENG.pdf" target="_blank" aria-label="Install Guide" class="dl-guide" rel="noopener noreferrer">

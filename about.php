@@ -5,9 +5,9 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=5.0" />
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
-	<meta name="description" itemprop="description" content="Dokodemo-Kerja is built by PT Logique Digital Indonesia to accurately generate productivity report. The purpose of this program is to promote healthy and productive work culture aimed at highly populated city.">
+	<meta name="description" itemprop="description" content="Dokodemo-Kerja is built by PT LOGIQUE Digital Indonesia to accurately generate productivity report. The purpose of this program is to promote healthy and productive work culture aimed at highly populated city.">
     <meta name="keywords" content="Remote working software, remote working tool, remote working system, implementing remote working, remote working enabler, enabling remote working culture, remote culture, work on the road, logique, pt logique, logique digital indonesia, time tracking, time tracker, work hour tracker, work hour tracking, screenshot software enterprise">
-    <meta name="author" content="PT. Logique Digital Indonesia">
+    <meta name="author" content="PT. LOGIQUE Digital Indonesia">
 	<meta name="google-site-verification" content="Xc9SFJQZdKYLsrWvrxEjLLTA-nyrnNPQTXQoMxs4gKI" />
     <meta property="og:title" content="About Dokodemo-Kerja | Cloud System for HR">
     <meta property="og:type" content="website">
@@ -71,13 +71,13 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                     <h1>ABOUT DOKODEMO-KERJA</h1>
 
                     <p class="about-us-desc">
-                        Dokodemo-Kerja is a Human Resource tool developed by PT. Logique Digital Indonesia, a company providing Digital Solutions, based in Jakarta, Indonesia. Dokodemo-Kerja was designed to promote healthier and more productive work cultures in a way that benefits both the Company and Employees alike.
+                        Dokodemo-Kerja is a Human Resource tool developed by PT. LOGIQUE Digital Indonesia, a company providing Digital Solutions, based in Jakarta, Indonesia. Dokodemo-Kerja was designed to promote healthier and more productive work cultures in a way that benefits both the Company and Employees alike.
                         <br><br>
                         Dokodemo-Kerja takes its name from both the Japanese and Indonesian languages, with “Dokodemo” meaning “Anywhere” and “Kerja” meaning “to work”, which then translates to “Work Anywhere.” This is reflected on its main function, as it allows for employees to work in an environment most suited to them, instead of being confined to a single location, while efficiently monitoring their daily working routines.
                     </p>
 
                     <p class="about-us-contact">
-                        Our company is currently implementing the program. If you have any further questions, please do not hesitate to <a href="contact-us.php">CONTACT US</a>; we will be delighted to explain about Dokodemo-Kerja
+                    You can see and get further information regarding Dokodemo-Kerja <a target="_blank" href="https://www.logique.co.id/blog/category/dokodemo-kerja/">here</a>. If you have any further questions, please do not hesitate to <a href="contact-us.php">CONTACT US</a>; we will be delighted to explain about Dokodemo-Kerja
                     </p>
 
                     <br class="d-none d-lg-block"><br class="d-none d-lg-block">

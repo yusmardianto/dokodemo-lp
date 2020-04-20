@@ -7,7 +7,7 @@
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
     <meta name="description" itemprop="description" content="Dokodemo-Kerja is a program that monitors your employee's productivity by screenshotting their desktop at random every ten or three minutes. Increase your productivity with Dokodemo-Kerja.">
     <meta name="keywords" content="dokodemo, dokodemo-kerja, dokodemo kerja, work everywhere, work whenever, work wherever, project management tool, project management software, human resource tool, human resource software, monitoring software, monitoring tool, monitor desktop, monitor with privacy, low res monitoring, low resolution monitoring, time tracker, logique product, pt logique">
-    <meta name="author" content="PT. Logique Digital Indonesia">
+    <meta name="author" content="PT. LOGIQUE Digital Indonesia">
     <meta name="google-site-verification" content="Xc9SFJQZdKYLsrWvrxEjLLTA-nyrnNPQTXQoMxs4gKI" />
     <link rel="stylesheet" href="css/bootstrap.min.css" />
     <link href="fonts/font-awesome/css/font-awesome.min.css" rel="stylesheet">
