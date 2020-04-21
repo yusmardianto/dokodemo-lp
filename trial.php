@@ -163,7 +163,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 									<img src="/img/trial/admin-3.png" class="mb-3 img-fluid w-100 img-border" alt="" />
 									<div class="row">
 										<div class="col-md-6">
-											<p class="trial-tab-content">Click <strong>"Add Staff"</strong> <br class="d-none d-md-block d-lg-none"><br class="d-none d-md-block d-lg-none"></p>
+											<p class="trial-tab-content">Click <strong>"Add New"</strong> <br class="d-none d-md-block d-lg-none"><br class="d-none d-md-block d-lg-none"></p>
 											<img src="/img/trial/admin-4.png" class="mb-3 img-fluid w-100 img-border" alt="" />
 										</div>
 										<div class="col-md-6">
@@ -173,6 +173,36 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 									</div>
 									<p class="trial-tab-content">The staff will be drafted in the demo environment and an email will be sent to the staff's email.</p>
 									<img src="/img/trial/admin-6.png" class="mb-5 img-fluid w-100 img-border" alt="" />
+								</div>
+								<h2 class="tab-content-title content-section-title">3. Add New Task</h2>
+								<div class="pl-4">
+									<p class="trial-tab-content">Click the <strong>"Task"</strong> button</p>
+									<img src="/img/trial/admin-3.png" class="mb-3 img-fluid w-100 img-border" alt="" />
+									<div class="row">
+										<div class="col-md-6">
+											<p class="trial-tab-content">Click <strong>"Add New"</strong> on task management <br class="d-none d-md-block d-lg-none d-xl-block"><br class="d-none d-md-block d-lg-none d-xl-block"><br class="d-none d-md-block d-lg-none"></p>
+											<img src="/img/trial/admin-7.png" class="mb-5 img-fluid w-100 img-border" alt="" />
+										</div>
+										<div class="col-md-6">
+											<p class="trial-tab-content">Fill the task new information, click Submit, and New Task Added </p>
+											<img src="/img/trial/admin-8.png" class="mb-5 img-fluid w-100 img-border" alt="" />
+										</div>
+									</div>
+								</div>
+								<h2 class="tab-content-title content-section-title">4. Add New Team</h2>
+								<div class="pl-4">
+									<p class="trial-tab-content">Click the <strong>"Team"</strong> button</p>
+									<img src="/img/trial/admin-3.png" class="mb-3 img-fluid w-100 img-border" alt="" />
+									<div class="row">
+										<div class="col-md-6">
+											<p class="trial-tab-content">Click <strong>"Add New"</strong> on team management <br class="d-none d-md-block d-lg-none d-xl-block"><br class="d-none d-md-block d-lg-none d-xl-block"></p>
+											<img src="/img/trial/admin-7.png" class="mb-5 img-fluid w-100 img-border" alt="" />
+										</div>
+										<div class="col-md-6">
+											<p class="trial-tab-content">fill the team name and leader, click Submit, and New Team Added </p>
+											<img src="/img/trial/admin-9.png" class="mb-5 img-fluid w-100 img-border" alt="" />
+										</div>
+									</div>
 								</div>
 							</div>
 						</div>

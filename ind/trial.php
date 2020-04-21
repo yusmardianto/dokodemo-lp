@@ -182,7 +182,7 @@ $page = 'trial.php';
 									<img src="/img/trial/admin-3.png" class="mb-3 img-fluid w-100 img-border" alt="" />
 									<div class="row">
 										<div class="col-md-6">
-											<p class="trial-tab-content">Tekan tombol <strong>"Add Staff"</strong></p>
+											<p class="trial-tab-content">Tekan tombol <strong>"Add New"</strong></p>
 											<img src="/img/trial/admin-4.png" class="mb-3 img-fluid w-100 img-border" alt="" />
 										</div>
 										<div class="col-md-6">
@@ -192,6 +192,36 @@ $page = 'trial.php';
 									</div>
 									<p class="trial-tab-content">Staff akan terdaftar di demo environment dan sebuah email akan dikirimkan kepada staff.</p>
 									<img src="/img/trial/admin-6.png" class="mb-5 img-fluid w-100 img-border" alt="" />
+								</div>
+								<h2 class="tab-content-title content-section-title">3. Menambah Task</h2>
+								<div class="pl-4">
+									<p class="trial-tab-content">Tekan tombol <strong>"Task"</strong></p>
+									<img src="/img/trial/admin-3.png" class="mb-3 img-fluid w-100 img-border" alt="" />
+									<div class="row">
+										<div class="col-md-6">
+											<p class="trial-tab-content">Tekan <strong>"Add New"</strong> pada task management <br class="d-none d-md-block"><br class="d-none d-md-block"><br class="d-none d-md-block d-lg-none"></p>
+											<img src="/img/trial/admin-7.png" class="mb-5 img-fluid w-100 img-border" alt="" />
+										</div>
+										<div class="col-md-6">
+											<p class="trial-tab-content">Isi informasi task baru, tekan Submit, dan Task Baru telah ditambahkan </p>
+											<img src="/img/trial/admin-8.png" class="mb-5 img-fluid w-100 img-border" alt="" />
+										</div>
+									</div>
+								</div>
+								<h2 class="tab-content-title content-section-title">4. Menambah Team</h2>
+								<div class="pl-4">
+									<p class="trial-tab-content">Tekan tombol <strong>"Team"</strong></p>
+									<img src="/img/trial/admin-3.png" class="mb-3 img-fluid w-100 img-border" alt="" />
+									<div class="row">
+										<div class="col-md-6">
+											<p class="trial-tab-content">Tekan <strong>"Add New"</strong> pada team management <br class="d-none d-md-block"><br class="d-none d-md-block"></p>
+											<img src="/img/trial/admin-7.png" class="mb-5 img-fluid w-100 img-border" alt="" />
+										</div>
+										<div class="col-md-6">
+											<p class="trial-tab-content">Isi nama team dan leader, tekan Submit, dan Team Baru telah ditambahkan</p>
+											<img src="/img/trial/admin-9.png" class="mb-5 img-fluid w-100 img-border" alt="" />
+										</div>
+									</div>
 								</div>
 							</div>
 						</div>
