@@ -179,7 +179,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
         <div class="container mt-5 mb-3">
             <div class="row mt-5">
                 <div class="col-md-12 text-center font-weight-bold">
-                    <h1 class="tutorial-title">How to Use?</h1>
+                    <h1 class="tutorial-title">Easy Application</h1>
                 </div>
             </div>
         </div>
@@ -192,13 +192,11 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                 </div>
                 <div class="col-md-6 employee-feature-list pt-sm-4">
                     <h3><strong>FOR EMPLOYEE:</strong></h3>
-                    <p>Employees can easily "<strong>Start</strong>" or "<strong>Stop</strong>" the application.</p>
-                    <!-- <p>Easily "<strong>Start</strong>" and "<strong>Stop</strong>" the application</p> -->
+                    <p>Employee just need to "<strong>Start</strong>" or "<strong>Stop</strong>" the application.</p>
                     <ul>
-                        <li>Through flexible working hours, users will be able to work anywhere, at any time.</li>
-                        <li>When taking breaks, users will have to press the “stop” button, so as to accurately calculate working hours.</li>
-                        <li>The daily and weekly work schedules of each user will be based around time frames defined by the Admin, the details of which are saved within the Admin Settings option (Note: This feature is still in development).</li>
-                        <li>Users can now more efficiently manage their responsibilities according to their tasks.</li>
+                        <li>Users will be able to work anywhere, at any time.</li>
+                        <li>When taking breaks, users will have to press the “Stop” button, so as to accurately calculate working hours.</li>
+                        <li>User can now more efficiently manage their responsibilities according to their task.</li>
                     </ul>
                 </div>
             </div>
@@ -206,20 +204,21 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
         <div class="container">
             <div class="manager-role">
                 <h3 class="text-center"><strong>FOR MANAGERS AND HR:</strong></h3>
-                <p class="text-center">Managers and the HR team can <strong>easily keep track of everyone’s</strong> working hours and their <strong>activities</strong>.</p>
-                <p class="text-center"><strong>Easily track everyone's</strong> working hours and their <strong>activities</strong></p>
+                <p class="text-center">
+                    <strong>Easily track everyone's</strong> working hours and their <strong>activities</strong>
+                    <br>
+                    Below are some of the example policies for implementing Dokodemo-Kerja
+                </p>
                 <div class="row" style="width: 100%">
                     <div class="col-md-6">
                         <ul class="manager-activity-list">
-                            <li>HR can assign one staff member the task of monitoring all Dokodemo-Kerja related activities.</li>
-                            <li>Staff can manage employee work time frames and comments.</li>
-                            <li>If an employee screenshot shows three of the same images consecutively, HR can then take further action, facilitated by evidence.</li>
+                            <li>HR can assign one staff member the task of monitoring all Dokodemo-Kerja related activities</li>
+                            <li>The assigned staff can manage employee work time frames and comments</li>
                         </ul>
                     </div>
                     <div class="col-md-6">
                         <ul class="manager-activity-list">
-                            <li>If an employee keeps his or her Dokodemo-Kerja running accidentally or for whatever reason, HR can then ask the employee to edit the working hours appropriately.</li>
-                            <li>The HR team can manage all staff comments.</li>
+                            <li>If an employee screenshot shows three of the same images consecutively, HR can then take further action, facilitated by evidence</li>
                         </ul>
                     </div>
                 </div>

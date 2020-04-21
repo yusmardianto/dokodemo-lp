@@ -179,7 +179,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
         <div class="container mt-5 mb-3">
             <div class="row mt-5">
                 <div class="col-md-12 text-center font-weight-bold">
-                    <h1 class="tutorial-title">Cara Penggunaan?</h1>
+                    <h1 class="tutorial-title">Mudah Diaplikasikan</h1>
                 </div>
             </div>
         </div>
@@ -191,14 +191,13 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                     <img src="/img/features/doko.png" class="img-fluid img-doko" alt="" />
                 </div>
                 <div class="col-md-6 employee-feature-list pt-sm-4">
-                    <h3><strong>KARYAWAN    </strong></h3>
-                    <p>Karyawan dapat dengan mudah "<strong>Memulai</strong>" atau "<strong>Menghentikan</strong>" aplikasi.</p>
+                    <h3><strong>KARYAWAN</strong></h3>
+                    <p>Para Karyawan hanya "<strong>Memulai</strong>" atau "<strong>Menghentikan</strong>" aplikasi.</p>
                     <!-- <p>Dengan Mudah "<strong>Start</strong>" dan "<strong>Stop</strong>" aplikasinya</p> -->
                     <ul>
-                        <li>Melalui jam kerja yang fleksibel, pengguna akan dapat bekerja di mana saja, kapan saja.</li>
+                        <li>Dengan jam kerja yang fleksibel, pengguna akan dapat bekerja di mana saja, kapan saja.</li>
                         <li>Saat istirahat, pengguna harus menekan tombol "stop", untuk menghitung jam kerja secara akurat.</li>
-                        <li>Jadwal kerja harian dan mingguan setiap pengguna akan didasarkan pada kerangka waktu yang ditentukan oleh Admin, yang detailnya disimpan dalam opsi Pengaturan Admin (Catatan: Fitur ini masih dalam pengembangan).</li>
-                        <li>Pengguna sekarang dapat lebih efisien mengelola tanggung jawab mereka sesuai dengan tugas mereka.</li>
+                        <li>Pengguna dapat menjadi lebih efisien mengelola waktu untuk tugas mereka.</li>
                     </ul>
                 </div>
             </div>
@@ -206,19 +205,21 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
         <div class="container">
             <div class="manager-role">
                 <h3 class="text-center"><strong>MANAGER / HR</strong></h3>
-                <p class="text-center">Managers dan tim SDM dapat dengan mudah melacak jam kerja semua orang dan aktivitas mereka.</p>
+                <p class="text-center">
+                    Managers dan tim HR dapat <strong>dengan mudah melacak</strong> jam kerja semua orang dan <strong>aktivitas</strong> mereka.
+                    <br>
+                    Berikut contoh kebijakan yang bisa diterapkan saat menggunakan Dokodemo-Kerja
+                </p>
                 <div class="row" style="width: 100%">
                     <div class="col-md-6">
                         <ul class="manager-activity-list">
                             <li>HR dapat menugaskan satu anggota staf untuk memantau semua kegiatan yang terkait dengan Dokodemo.</li>
                             <li>Staf dapat mengelola kerangka waktu kerja dan komentar karyawan.</li>
-                            <li>Jika tangkapan layar karyawan menunjukkan tiga gambar yang sama secara berurutan, HR kemudian dapat mengambil tindakan lebih lanjut yang difasilitasi oleh bukti.</li>
                         </ul>
                     </div>
                     <div class="col-md-6">
                         <ul class="manager-activity-list">
-                            <li>Jika seorang karyawan menjalankan Dokodemo-Kerja tanpa sengaja atau karena alasan apa pun, HR kemudian dapat meminta karyawan untuk mengedit jam kerja dengan tepat.</li>
-                            <li>Tim SDM dapat mengelola semua komentar staf.</li>
+                            <li>Jika tangkapan layar karyawan menunjukkan tiga gambar yang sama secara berurutan, HR kemudian dapat mengambil tindakan lebih lanjut yang difasilitasi oleh bukti.</li>
                         </ul>
                     </div>
                 </div>
