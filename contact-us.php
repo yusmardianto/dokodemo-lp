@@ -31,11 +31,11 @@
     <meta property="og:image" content="/img/dokodemo-og.jpg">
     <meta property="og:description" content="Dokodemo-Kerja merupakan software atau desktop app dari LOGIQUE bagi karyawan yang kerja remote atau di luar kantor. Aplikasi ini mampu merekam dan kalkulasi jam kerja karyawan secara akurat, dilengkapi fitur screencapture otomatis. Dengan begitu, karyawan Anda menjadi lebih produktif.">
 
-  <link rel="stylesheet" href="css/bootstrap.min.css" />
+  <link rel="stylesheet" href="/css/bootstrap.min.css" />
     <link href="fonts/font-awesome/css/font-awesome.min.css" rel="stylesheet">
   <link href="fonts/font-awesome/css/font-awesome.min.css" rel="stylesheet">
-  <link rel="stylesheet" href="css/header-footer.css" />
-  <link rel="stylesheet" href="css/style.css" />
+  <link rel="stylesheet" href="/css/header-footer.css" />
+  <link rel="stylesheet" href="/css/style.css" />
   <link rel="shortcut icon" type="image/x-icon" href="favicon.ico">
   <title>Contact Dokodemo-Kerja | Maximize Productivity in a Month</title>
 	<!-- Google Tag Manager -->
@@ -243,13 +243,13 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 					<h5 class="mt-3 mb-3">09.00 - 17.00 (Mon-Fri)</h5>
 					<p>
 						<a href="tel:+62811870321">
-								<img src="img/pricing/call.png"aria-label="phone link"/>
+								<img src="/img/pricing/call.png"aria-label="phone link"/>
 						</a>
 							<a href="mailto:info@logique.co.id" aria-label="mail link">
-								<img src="img/pricing/mail.png" alt=""/>
+								<img src="/img/pricing/mail.png" alt=""/>
 						</a>
 						<a href="https://api.whatsapp.com/send?phone=62811870321" aria-label="whatsapp link" alt="" target="_blank" rel="noopener noreferrer">
-								<img src="img/pricing/whatsapp.png" alt=""/>
+								<img src="/img/pricing/whatsapp.png" alt=""/>
 						</a>
 					</p>
 					</div>
@@ -262,8 +262,8 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 	
 	<br/>
 	<?php include 'footer.php' ?>
-	<script src="js/jquery-3.4.1.min.js"></script>
-    <script src="js/bootstrap.min.js"></script>
+	<script src="/js/jquery-3.4.1.min.js"></script>
+    <script src="/js/bootstrap.min.js"></script>
 	<link href="https://cdnjs.cloudflare.com/ajax/libs/select2/4.0.7/css/select2.min.css" rel="stylesheet" />
 	<script src="https://cdnjs.cloudflare.com/ajax/libs/select2/4.0.7/js/select2.min.js"></script>
 	<script>

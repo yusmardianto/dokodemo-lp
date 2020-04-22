@@ -9,14 +9,14 @@
     <meta name="keywords" content="dokodemo, dokodemo-kerja, dokodemo kerja, work everywhere, work whenever, work wherever, project management tool, project management software, human resource tool, human resource software, monitoring software, monitoring tool, monitor desktop, monitor with privacy, low res monitoring, low resolution monitoring, time tracker, logique product, pt logique">
     <meta name="author" content="PT. LOGIQUE Digital Indonesia">
     <meta name="google-site-verification" content="Xc9SFJQZdKYLsrWvrxEjLLTA-nyrnNPQTXQoMxs4gKI" />
-    <link rel="stylesheet" href="css/bootstrap.min.css" />
-    <link href="fonts/font-awesome/css/font-awesome.min.css" rel="stylesheet">
-    <link rel="stylesheet" href="css/slick.css" />
-    <link rel="stylesheet" href="css/slick-theme.css" />
-    <link rel="stylesheet" href="css/header-footer.css" />
-    <link rel="stylesheet" href="css/style-about.css" />
-    <link rel="stylesheet" href="css/style-404.css" />
-    <link href="fonts/font-awesome/css/font-awesome.min.css" rel="stylesheet">
+    <link rel="stylesheet" href="/css/bootstrap.min.css" />
+    <link href="/fonts/font-awesome/css/font-awesome.min.css" rel="stylesheet">
+    <link rel="stylesheet" href="/css/slick.css" />
+    <link rel="stylesheet" href="/css/slick-theme.css" />
+    <link rel="stylesheet" href="/css/header-footer.css" />
+    <link rel="stylesheet" href="/css/style-about.css" />
+    <link rel="stylesheet" href="/css/style-404.css" />
+    <link href="/fonts/font-awesome/css/font-awesome.min.css" rel="stylesheet">
     <link rel="shortcut icon" type="image/x-icon" href="favicon.ico">
     <title>Dokodemo-Kerja | Home</title>
     <!-- Google Tag Manager -->
@@ -90,7 +90,7 @@
             </div>
         </span>
         <a href="https://api.whatsapp.com/send?phone=62811870321&text=Halo, saya ingin bertanya tentang software Dokodemo-Kerja" target="_blank">
-            <img src="../img/whatsapp.svg" id="fixedbutton"/>
+            <img src="/img/whatsapp.svg" id="fixedbutton"/>
         </a>
     </section>
     <section>
@@ -103,8 +103,8 @@
     <section class="footer-content">
       <?php include 'footer.php' ?>
     </section>
-    <script src="js/jquery-3.4.1.min.js"></script>
-    <script src="js/bootstrap.min.js"></script>
+    <script src="/js/jquery-3.4.1.min.js"></script>
+    <script src="/js/bootstrap.min.js"></script>
     <script>
         var element = document.getElementById("popup-text");
 

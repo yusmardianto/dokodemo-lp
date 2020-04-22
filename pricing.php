@@ -15,12 +15,12 @@
     <meta property="og:url" content="https://dokodemo-kerja.com">
     <meta property="og:image" content="/img/dokodemo-og.jpg">
     <meta property="og:description" content="Dokodemo-Kerja merupakan software atau desktop app dari LOGIQUE bagi karyawan yang kerja remote atau di luar kantor. Aplikasi ini mampu merekam dan kalkulasi jam kerja karyawan secara akurat, dilengkapi fitur screencapture otomatis. Dengan begitu, karyawan Anda menjadi lebih produktif.">
-    <link rel="stylesheet" href="css/bootstrap.min.css" />
+    <link rel="stylesheet" href="/css/bootstrap.min.css" />
     <link href="fonts/font-awesome/css/font-awesome.min.css" rel="stylesheet">
-    <link rel="stylesheet" href="css/slick.css" />
-    <link rel="stylesheet" href="css/slick-theme.css" />
-    <link rel="stylesheet" href="css/header-footer.css" />
-    <link rel="stylesheet" href="css/style-pricing.css" />
+    <link rel="stylesheet" href="/css/slick.css" />
+    <link rel="stylesheet" href="/css/slick-theme.css" />
+    <link rel="stylesheet" href="/css/header-footer.css" />
+    <link rel="stylesheet" href="/css/style-pricing.css" />
 	<link rel="shortcut icon" type="image/x-icon" href="favicon.ico">
     <title>Price of Dokodemo-Kerja | Employees' Screen Monitoring Tool</title>
 	<!-- Google Tag Manager -->
@@ -185,9 +185,9 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                     <div>
                         <p class="position-relative price-ent-contact-text">Contact us for Customised Features</p>
                         <div class="plan-contact-us price-ent-contact-icon">
-                            <a href="tel:+62811870321" aria-label="phone link"><img src="img/pricing/call.png" id="call" alt="" /></a>
-                            <a href="mailto:sales@dokodemo-kerja.com" aria-label="mail link"><img src="img/pricing/mail.png" id="mail" alt="" /></a>
-                            <a href="https://api.whatsapp.com/send?phone=62811870321&text=Hello, I want to know more about Enterprise Plan of Dokodemo-Kerja." aria-label="whatsapp link" rel="noopener noreferrer" target="_blank"><img src="img/pricing/whatsapp.png" id="whatsapp" alt="" /></a>
+                            <a href="tel:+62811870321" aria-label="phone link"><img src="/img/pricing/call.png" id="call" alt="" /></a>
+                            <a href="mailto:sales@dokodemo-kerja.com" aria-label="mail link"><img src="/img/pricing/mail.png" id="mail" alt="" /></a>
+                            <a href="https://api.whatsapp.com/send?phone=62811870321&text=Hello, I want to know more about Enterprise Plan of Dokodemo-Kerja." aria-label="whatsapp link" rel="noopener noreferrer" target="_blank"><img src="/img/pricing/whatsapp.png" id="whatsapp" alt="" /></a>
                         </div>
                         <div class="row mb-3">
                             <div class="col-md-12">
@@ -335,8 +335,8 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
         </a>
     </section>
     <?php include "footer.php" ?>
-	<script src="js/jquery-3.4.1.min.js"></script>
-    <script src="js/bootstrap.min.js"></script>
+	<script src="/js/jquery-3.4.1.min.js"></script>
+    <script src="/js/bootstrap.min.js"></script>
     <script>
         var element = document.getElementById("popup-text");
 

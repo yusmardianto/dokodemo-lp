@@ -18,13 +18,13 @@
     <meta property="og:image" content="/img/dokodemo-og.jpg">
     <meta property="og:description"
         content="Dokodemo-Kerja merupakan software atau desktop app dari LOGIQUE bagi karyawan yang kerja remote atau di luar kantor. Aplikasi ini mampu merekam dan kalkulasi jam kerja karyawan secara akurat, dilengkapi fitur screencapture otomatis. Dengan begitu, karyawan Anda menjadi lebih produktif.">
-    <link rel="stylesheet" href="css/bootstrap.min.css" />
+    <link rel="stylesheet" href="/css/bootstrap.min.css" />
     <link href="fonts/font-awesome/css/font-awesome.min.css" rel="stylesheet">
-    <link rel="stylesheet" href="css/slick.css" />
-    <link rel="stylesheet" href="css/slick-theme.css" />
-    <link rel="stylesheet" href="css/header-footer.css" />
-    <link rel="stylesheet" href="css/style-home.css" />
-    <link rel="stylesheet" href="js/magnific-popup.css" />
+    <link rel="stylesheet" href="/css/slick.css" />
+    <link rel="stylesheet" href="/css/slick-theme.css" />
+    <link rel="stylesheet" href="/css/header-footer.css" />
+    <link rel="stylesheet" href="/css/style-home.css" />
+    <link rel="stylesheet" href="/js/magnific-popup.css" />
     <link href="fonts/font-awesome/css/font-awesome.min.css" rel="stylesheet">
     <link rel="shortcut icon" type="image/x-icon" href="favicon.ico">
     <title>Remote Working Management Tool | Dokodemo-Kerja</title>
@@ -253,44 +253,44 @@
         <div class="container-fluid">
             <div class="screenshot-slide zoom-gallery">
                 <div>
-                    <a href="img/features/home_01.png" data-source="img/features/home_01.png" title="Daily Working Screen Capture" aria-label="Daily Working Screen Capture">
+                    <a href="/img/features/home_01.png" data-source="/img/features/home_01.png" title="Daily Working Screen Capture" aria-label="Daily Working Screen Capture">
                         <div class="img-slide-screenshot--wrapper">
-                            <img src="img/features/home_01-com.png" class="img-slide-screenshot modal-hover-opacity" alt=""/>
+                            <img src="/img/features/home_01-com.png" class="img-slide-screenshot modal-hover-opacity" alt=""/>
                         </div>
                     </a>
                 </div>
                 <div>
-                    <a href="img/features/home_02.png" data-source="img/features/home_02.png" title="Daily Working Hours Bars" aria-label="Daily Working Hours Bars">
+                    <a href="/img/features/home_02.png" data-source="/img/features/home_02.png" title="Daily Working Hours Bars" aria-label="Daily Working Hours Bars">
                         <div class="img-slide-screenshot--wrapper">
-                            <img src="img/features/home_02-com.png" class="img-slide-screenshot modal-hover-opacity" alt=""/>
+                            <img src="/img/features/home_02-com.png" class="img-slide-screenshot modal-hover-opacity" alt=""/>
                         </div>
                     </a>
                 </div>
                 <div>
-                    <a href="img/features/home_03.png" data-source="img/features/home_03.png" title="Staff Management" aria-label="Staff Management">
+                    <a href="/img/features/home_03.png" data-source="/img/features/home_03.png" title="Staff Management" aria-label="Staff Management">
                         <div class="img-slide-screenshot--wrapper">
-                            <img src="img/features/home_03-com.png" class="img-slide-screenshot modal-hover-opacity" alt=""/>
+                            <img src="/img/features/home_03-com.png" class="img-slide-screenshot modal-hover-opacity" alt=""/>
                         </div>
                     </a>
                 </div>
                 <div>
-                    <a href="img/features/home_04.png" data-source="img/features/home_04.png" title="Daily Working Screen Capture" aria-label="Daily Working Screen Capture">
+                    <a href="/img/features/home_04.png" data-source="/img/features/home_04.png" title="Daily Working Screen Capture" aria-label="Daily Working Screen Capture">
                         <div class="img-slide-screenshot--wrapper">
-                            <img src="img/features/home_04-com.png" class="img-slide-screenshot modal-hover-opacity" alt=""/>
+                            <img src="/img/features/home_04-com.png" class="img-slide-screenshot modal-hover-opacity" alt=""/>
                         </div>
                     </a>
                 </div>
                 <div>
-                    <a href="img/features/home_05.png" data-source="img/features/home_05.png" title="Daily Working Hours Bars" aria-label="Daily Working Hours Bars">
+                    <a href="/img/features/home_05.png" data-source="/img/features/home_05.png" title="Daily Working Hours Bars" aria-label="Daily Working Hours Bars">
                         <div class="img-slide-screenshot--wrapper">
-                            <img src="img/features/home_05-com.png" class="img-slide-screenshot modal-hover-opacity" alt=""/>
+                            <img src="/img/features/home_05-com.png" class="img-slide-screenshot modal-hover-opacity" alt=""/>
                         </div>
                     </a>
                 </div>
                 <!-- <div>
-                    <a href="img/features/screen-3.jpg" data-source="img/features/screen-3.jpg" title="Staff Management" aria-label="Staff Management">
+                    <a href="/img/features/screen-3.jpg" data-source="/img/features/screen-3.jpg" title="Staff Management" aria-label="Staff Management">
                         <div class="img-slide-screenshot--wrapper">
-                            <img src="img/features/screen-3.jpg" class="img-slide-screenshot modal-hover-opacity" alt=""/>
+                            <img src="/img/features/screen-3.jpg" class="img-slide-screenshot modal-hover-opacity" alt=""/>
                         </div>
                     </a>
                 </div> -->
@@ -598,10 +598,10 @@
         </div>
     </section> */?> 
     <?php include 'footer.php' ?>
-    <script src="js/jquery-3.4.1.min.js"></script>
-    <script src="js/bootstrap.min.js"></script>
-    <script src="js/slick.min.js"></script>
-    <script src="js/jquery.magnific-popup.min.js"></script>
+    <script src="/js/jquery-3.4.1.min.js"></script>
+    <script src="/js/bootstrap.min.js"></script>
+    <script src="/js/slick.min.js"></script>
+    <script src="/js/jquery.magnific-popup.min.js"></script>
     <script>
     $(".screenshot-slide").slick({
             infinite: true,

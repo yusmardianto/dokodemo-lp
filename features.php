@@ -15,13 +15,13 @@
     <meta property="og:url" content="https://dokodemo-kerja.com">
     <meta property="og:image" content="/img/dokodemo-og.jpg">
     <meta property="og:description" content="Dokodemo-Kerja is a system that enables time tracking feature, accurate time reports, man hour management, easy navigation, and flexible monitoring tools which benefits both employees and employers.">
-    <link rel="stylesheet" href="css/bootstrap.min.css" />
+    <link rel="stylesheet" href="/css/bootstrap.min.css" />
     <link href="fonts/font-awesome/css/font-awesome.min.css" rel="stylesheet">
-    <link rel="stylesheet" href="css/slick.css" />
-    <link rel="stylesheet" href="css/slick-theme.css" />
-    <link rel="stylesheet" href="css/header-footer.css" />
-    <link rel="stylesheet" href="css/style-features.css" />
-    <link rel="stylesheet" href="js/magnific-popup.css" />
+    <link rel="stylesheet" href="/css/slick.css" />
+    <link rel="stylesheet" href="/css/slick-theme.css" />
+    <link rel="stylesheet" href="/css/header-footer.css" />
+    <link rel="stylesheet" href="/css/style-features.css" />
+    <link rel="stylesheet" href="/js/magnific-popup.css" />
 
 	<link rel="shortcut icon" type="image/x-icon" href="favicon.ico">
     <title>Feature of Dokodemo-Kerja | Working Hours Tracking Tool</title>
@@ -78,7 +78,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                             <p class="features-desc">Dokodemo-Kerja takes low-resolution screenshots of your employee's desktop or laptop activities during random intervals when the application is switched on and sends the images to the management team.</p>
                         </div>
                         <div class="col-lg-6 features-item">
-                             <img src="img/features/home_01-com.png" class="img-slide-screenshot modal-hover-opacity" alt="" />    
+                             <img src="/img/features/home_01-com.png" class="img-slide-screenshot modal-hover-opacity" alt="" />    
                         </div>
                     </div>
                     <div class="row">
@@ -88,7 +88,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                             <p class="features-desc">Dokodemo-Kerja accurately calculates and compiles employee work data and then displays it in an easy-to-read-format in just 1 simple click. This can greatly assist HR improve the overall accuracy of performance evaluation tasks.</p>
                         </div>
                         <div class="col-lg-6 features-item">
-                            <img src="img/features/home_02-com.png" class="img-slide-screenshot modal-hover-opacity" alt="" />   
+                            <img src="/img/features/home_02-com.png" class="img-slide-screenshot modal-hover-opacity" alt="" />   
                         </div>
                     </div>
                     <div class="row">
@@ -98,7 +98,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                             <p class="features-desc">Track the total man-hours spent by each employee on each individual task, so your company can easily predict and arrange target deadlines according to your employee's capabilities.</p>
                         </div>
                         <div class="col-lg-6 features-item">
-                            <img src="img/features/home_03-com.png" class="img-slide-screenshot modal-hover-opacity" alt="" />    
+                            <img src="/img/features/home_03-com.png" class="img-slide-screenshot modal-hover-opacity" alt="" />    
                         </div>
                     </div>
                     <div class="row">
@@ -108,7 +108,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                             <p class="features-desc">Dokodemo-Kerja’s Mobile Application utilizes GPS tracking, thereby allowing HR to easily track the location of each employee in real time during onsite events such as meetings or client visits.</p>
                         </div>
                         <div class="col-lg-6 features-item">
-                            <img src="img/features/home_05-com.png" class="img-slide-screenshot modal-hover-opacity" alt="" />    
+                            <img src="/img/features/home_05-com.png" class="img-slide-screenshot modal-hover-opacity" alt="" />    
                         </div>
                     </div>
                 </div>
@@ -188,7 +188,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
         <div class="container-fluid">
             <div class="row employee-role">
                 <div class="col-md-6 program-sample">
-                    <img src="img/features/doko.png" class="img-fluid img-doko" alt="" />
+                    <img src="/img/features/doko.png" class="img-fluid img-doko" alt="" />
                 </div>
                 <div class="col-md-6 employee-feature-list pt-sm-4">
                     <h3><strong>FOR EMPLOYEE:</strong></h3>
@@ -230,12 +230,12 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
             <div class="row">
                 <div class="col-md-4 offset-md-2 col-10 offset-1 py-2">
                     <a href="https://dokodemo-kerja.com/pdf/manual-guide-ENG.pdf" class="dl-guide" aria-label="manual guide">
-                        <img src="img/manual.png" class="img-fluid mx-auto d-block" id="features-manual-guide" alt="" />
+                        <img src="/img/manual.png" class="img-fluid mx-auto d-block" id="features-manual-guide" alt="" />
                     </a>
                 </div>
                 <div class="col-md-4 col-10 offset-md-0 offset-1 py-2">
                     <a href="https://dokodemo-kerja.com/pdf/install-guide-ENG.pdf" class="dl-guide" aria-label="dl-guide">
-                        <img src="img/install.png" class="img-fluid mx-auto d-block" id="features-install-guide" alt="" />
+                        <img src="/img/install.png" class="img-fluid mx-auto d-block" id="features-install-guide" alt="" />
                     </a>
                 </div>
             </div>
@@ -247,10 +247,10 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
         </div>
     </section>
     <?php include "footer.php" ?>
-    <script src="js/jquery-3.4.1.min.js"></script>
-    <script src="js/bootstrap.min.js"></script>
-    <script src="js/slick.min.js"></script>
-    <script src="js/jquery.magnific-popup.min.js"></script>
+    <script src="/js/jquery-3.4.1.min.js"></script>
+    <script src="/js/bootstrap.min.js"></script>
+    <script src="/js/slick.min.js"></script>
+    <script src="/js/jquery.magnific-popup.min.js"></script>
 
     <script>
         $(".screenshot-slide").slick({

@@ -79,8 +79,8 @@
     <section class="footer-content">
       <?php include 'footer.php' ?>
     </section>
-    <script src="js/jquery-3.4.1.min.js"></script>
-    <script src="js/bootstrap.min.js"></script>
+    <script src="/js/jquery-3.4.1.min.js"></script>
+    <script src="/js/bootstrap.min.js"></script>
     <script>
         var element = document.getElementById("popup-text");
 

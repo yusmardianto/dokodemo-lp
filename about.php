@@ -15,12 +15,12 @@
     <meta property="og:url" content="https://dokodemo-kerja.com">
     <meta property="og:image" content="/img/dokodemo-og.jpg">
     <meta property="og:description" content="Dokodemo-Kerja merupakan software atau desktop app dari LOGIQUE bagi karyawan yang kerja remote atau di luar kantor. Aplikasi ini mampu merekam dan kalkulasi jam kerja karyawan secara akurat, dilengkapi fitur screencapture otomatis. Dengan begitu, karyawan Anda menjadi lebih produktif.">
-    <link rel="stylesheet" href="css/bootstrap.min.css" />
+    <link rel="stylesheet" href="/css/bootstrap.min.css" />
     <link href="fonts/font-awesome/css/font-awesome.min.css" rel="stylesheet">
-    <link rel="stylesheet" href="css/slick.css" />
-    <link rel="stylesheet" href="css/slick-theme.css" />
-    <link rel="stylesheet" href="css/header-footer.css" />
-    <link rel="stylesheet" href="css/style-about.css" />
+    <link rel="stylesheet" href="/css/slick.css" />
+    <link rel="stylesheet" href="/css/slick-theme.css" />
+    <link rel="stylesheet" href="/css/header-footer.css" />
+    <link rel="stylesheet" href="/css/style-about.css" />
 	<link rel="shortcut icon" type="image/x-icon" href="favicon.ico">
     <title>About Dokodemo-Kerja | Cloud System for HR</title>
 	<!-- Google Tag Manager -->
@@ -64,7 +64,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 <!-- End Google Tag Manager (noscript) -->
     <?php include "header.php" ?>
     <section class="top-content">
-        <img src="img/about/bg.jpg" class="img-bg" alt="" />
+        <img src="/img/about/bg.jpg" class="img-bg" alt="" />
         <div class="container">
             <div class="row align-items-end">
                 <div class="col-lg-6 about-us-left">
@@ -82,7 +82,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 
                     <br class="d-none d-lg-block"><br class="d-none d-lg-block">
                     
-                    <img src="img/about/dokodemo-about.png" class="img-dokodemo-about" alt="" />
+                    <img src="/img/about/dokodemo-about.png" class="img-dokodemo-about" alt="" />
 
                     <br class="d-none d-lg-block"><br class="d-none d-lg-block">
                 </div>
@@ -124,37 +124,37 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
             <div class="row">
                 <div class="col-md-4 features feature-1">
                     <div class="feature-img-wrapper">
-                        <img src="img/home/clock.png" class="pr-3" alt="" />
+                        <img src="/img/home/clock.png" class="pr-3" alt="" />
                     </div>
                     <p>Evidence-based time tracking</p>
                 </div>
                 <div class="col-md-4 features feature-2">
                     <div class="feature-img-wrapper">
-                        <img src="img/home/coffee.png" class="pl-3" alt="" />
+                        <img src="/img/home/coffee.png" class="pl-3" alt="" />
                     </div>
                     <p>Allows for Flexible Working Hours</p>
                 </div>
                 <div class="col-md-4 features feature-3">
                     <div class="feature-img-wrapper">
-                        <img src="img/home/corkboard.png" alt="" />
+                        <img src="/img/home/corkboard.png" alt="" />
                     </div>
                     <p>Real Time Monitoring of Employee Activities</p>
                 </div>
                 <div class="col-md-4 features feature-4">
                     <div class="feature-img-wrapper">
-                        <img src="img/home/chart.png" class="pr-3" alt="" />
+                        <img src="/img/home/chart.png" class="pr-3" alt="" />
                     </div>
                     <p>Working Hour Evaluation by HR Department</p>
                 </div>
                 <div class="col-md-4 features feature-5">
                     <div class="feature-img-wrapper">
-                        <img src="img/home/notepad.png" class="pl-3" alt="" />
+                        <img src="/img/home/notepad.png" class="pl-3" alt="" />
                     </div>
                     <p>Easy-to-Use Time Editing System with Staff Notifications</p>
                 </div>
                 <div class="col-md-4 features feature-6">
                     <div class="feature-img-wrapper">
-                        <img src="img/home/work.png" alt="" />
+                        <img src="/img/home/work.png" alt="" />
                     </div>
                     <p>Perfect for Managing Overtime Working Hours</p>
                 </div>
@@ -317,8 +317,8 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
         <div class="container p-md-0 position-relative">
             <div class="row no-gutters ">
                 <div class="col-md-6 ">
-                    <img src="img/home/bg-feature-1.png" class="w-100 img-fluid" alt="" />
-                    <img src="img/home/dokodemo-user.png" class="dokodemo-user-float" alt="" />
+                    <img src="/img/home/bg-feature-1.png" class="w-100 img-fluid" alt="" />
+                    <img src="/img/home/dokodemo-user.png" class="dokodemo-user-float" alt="" />
                 </div>
                 <div class="col-md-6 d-flex align-items-center">
                     <div class="benefit-content right">
@@ -341,12 +341,12 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 
                 </div>
                 <div class="col-md-6 order-1 order-md-2">
-                    <img src="img/home/work-anywhere.png" class="img-fluid" alt="" />
+                    <img src="/img/home/work-anywhere.png" class="img-fluid" alt="" />
                 </div>
             </div>
             <div class="row no-gutters">
                 <div class="col-md-6">
-                    <img src="img/home/work-efficiency.png" width="100%" class="img-fluid" alt="" />
+                    <img src="/img/home/work-efficiency.png" width="100%" class="img-fluid" alt="" />
                 </div>
                 <div class="col-md-6 d-flex align-items-center">
                     <div class="benefit-content right">
@@ -360,8 +360,8 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
         </div>
     </section>
     <?php include "footer.php" ?>
-	<script src="js/jquery-3.4.1.min.js"></script>
-    <script src="js/bootstrap.min.js"></script>
+	<script src="/js/jquery-3.4.1.min.js"></script>
+    <script src="/js/bootstrap.min.js"></script>
      <script>
         var element = document.getElementById("popup-text");
 

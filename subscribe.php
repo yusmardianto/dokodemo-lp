@@ -15,12 +15,12 @@
     <meta property="og:url" content="https://dokodemo-kerja.com">
     <meta property="og:image" content="/img/dokodemo-og.jpg">
     <meta property="og:description" content="Dokodemo-Kerja merupakan software atau desktop app dari LOGIQUE bagi karyawan yang kerja remote atau di luar kantor. Aplikasi ini mampu merekam dan kalkulasi jam kerja karyawan secara akurat, dilengkapi fitur screencapture otomatis. Dengan begitu, karyawan Anda menjadi lebih produktif.">
-    <link rel="stylesheet" href="css/bootstrap.min.css" />
+    <link rel="stylesheet" href="/css/bootstrap.min.css" />
     <link href="fonts/font-awesome/css/font-awesome.min.css" rel="stylesheet">
-    <link rel="stylesheet" href="css/slick.css" />
-    <link rel="stylesheet" href="css/slick-theme.css" />
-    <link rel="stylesheet" href="css/header-footer.css" />
-    <link rel="stylesheet" href="css/style-subscribe.css" />
+    <link rel="stylesheet" href="/css/slick.css" />
+    <link rel="stylesheet" href="/css/slick-theme.css" />
+    <link rel="stylesheet" href="/css/header-footer.css" />
+    <link rel="stylesheet" href="/css/style-subscribe.css" />
   <link rel="shortcut icon" type="image/x-icon" href="favicon.ico">
     <title>Subscribing Procedure | Steps to buy Dokodemo-Kerja</title>
   <!-- Google Tag Manager -->
@@ -166,7 +166,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                       A recurring invoice will be sent to you at the beginning of the following month. You can view the invoice on your admin dashboard, or from an email that we will send you at the end of every month. 
                     </p>
                     <p>
-                      <img src="img/dokodemo-invoice.png" class="img-fluid img-thumbnail" alt="" />
+                      <img src="/img/dokodemo-invoice.png" class="img-fluid img-thumbnail" alt="" />
                     </p>
                     <p>Note that:</p>
                     <ol>
@@ -195,8 +195,8 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
       </div>
     </section>
     <?php include "footer.php" ?>
-  <script src="js/jquery-3.4.1.min.js"></script>
-    <script src="js/bootstrap.min.js"></script>
+  <script src="/js/jquery-3.4.1.min.js"></script>
+    <script src="/js/bootstrap.min.js"></script>
     <script>
         var element = document.getElementById("popup-text");
 
