@@ -72,7 +72,10 @@
     <section>
       <div class="container-404">
         <div class="element">
-          Halaman yang anda cari tidak ditemukan.
+          <p>Halaman yang anda cari tidak ditemukan.</p>
+          <a href="/">
+            <button class="btn-404">Kembali Ke Homepage</button>
+          </a>
         </div>
       </div>
     </section>

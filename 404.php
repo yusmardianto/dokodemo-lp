@@ -96,7 +96,10 @@
     <section>
       <div class="container-404">
         <div class="element">
-          The page you are looking for doesn't exist.
+            <p>The page you are looking for doesn't exist.</p>
+            <a href="/">
+                <button class="btn-404">Go To Homepage</button>
+            </a>
         </div>
       </div>
     </section>
