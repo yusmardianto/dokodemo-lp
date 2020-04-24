@@ -448,10 +448,6 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                     <div class="testimony-text">Saya tidak bisa bekerja secara on site karena ibu saya sakit. Saya kira, saya harus merelakan pekerjaan saya disaat-saat seperti ini. Namun, Dokodemo-Kerja dapat membantu saya untuk tetap bekerja profesional dengan sistem kerja remote.</div>
                     <p class="testimony-author"><strong>Bobby Susanto </strong> - Programmer</p>
                 </div>
-                <div class="testimony-item">
-                    <div class="testimony-text">Saya merasa sungkan untuk menegur karyawan yang menggunakan waktu untuk beribadah terlalu lama. Saya ingin berlaku adil terhadap seluruh karyawan, apapun agama yang mereka anut. Sekarang jam kerja yang adil dapat diberlakukan kepada seluruh karyawan. Saya merasa terbantu oleh Dokodemo-Kerja.</div>
-                    <p class="testimony-author"><strong>Mizuho Yamada</strong> - Manager of Back Office</p>
-                </div>
 
             </div>
         </div>
