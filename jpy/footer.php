@@ -12,19 +12,19 @@
             <div class="col-lg-3 col-md-3 col-sm-6 footer-menu-container-1">
                 <div class="footer-menu">
                     <ul class="footer-menu-list first-list">
-                        <li><a href="/">Home</a></li>
-                        <li><a href="about.php">About Us</a></li>
-                        <li><a href="features.php">Features</a></li>
-                        <li><a href="pricing.php">Pricing</a></li>
-                        <li><a href="trial.php">Trial</a></li>
-                        <li><a href="https://www.logique.co.id/blog/category/dokodemo-kerja/" target="_blank" rel="noopener noreferrer">Blog</a></li>
+                        <li><a href="/jpy">ホーム</a></li>
+                        <li><a href="about.php">Dokodemo-Kerjaについて</a></li>
+                        <li><a href="features.php">機能</a></li>
+                        <li><a href="pricing.php">価格</a></li>
+                        <li><a href="trial.php">デモ</a></li>
+                        <li><a href="https://www.logique.co.id/blog/category/dokodemo-kerja/" target="_blank" rel="noopener noreferrer">ブログ</a></li>
                     </ul>
                 </div>
             </div>
             <div class="col-lg-3 col-md-3 col-sm-6 footer-menu-container-2">
                 <div class="footer-menu">
                     <ul class="footer-menu-list second-list">
-                        <li><a href="contact-us.php">Contact Us</a></li>
+                        <li><a href="contact-us.php">問い合わせ</a></li>
                         <li><a href="pricing.php#FAQ">FAQ</a></li>
                         <li><a href="subscribe.php">Subscribing Procedure</a></li>
                         <li><a data-toggle="collapse" href="#collapseExample">Setup Online Meeting</a></li>
