@@ -22,23 +22,23 @@
                     <a class="nav-link" href="/jp">ホーム</a>
                 </li>
                 <li class="nav-item <?php active('about.php') ?>">
-                    <a class="nav-link" href="/jp/about.php">Dokodemo-Kerjaについて</a>
+                    <a class="nav-link" href="/about.php">Dokodemo-Kerjaについて</a>
                 </li>
                 <li class="nav-item <?php active('features.php') ?>">
-                    <a class="nav-link" href="/jp/features.php">機能</a>
+                    <a class="nav-link" href="/features.php">機能</a>
                 </li>
                 <li class="nav-item <?php active('pricing.php') ?>">
-                    <a class="nav-link" href="/jp/pricing.php">価格</a>
+                    <a class="nav-link" href="/pricing.php">価格</a>
                 </li>
                 <li class="nav-item <?php active('trial.php') ?>">
-                    <a class="nav-link" href="/jp/trial.php">デモ</a>
+                    <a class="nav-link" href="/trial.php">デモ</a>
                 </li>
                 <li class="nav-item">
                     <a class="nav-link" target="_blank" rel="noopener noreferrer"
                         href="https://www.logique.co.id/blog/category/dokodemo-kerja/">ブログ</a>
                 </li>
                 <li class="nav-item <?php active('contact-us.php') ?>">
-                    <a class="nav-link" href="/jp/contact-us.php">問い合わせ</a>
+                    <a class="nav-link" href="/contact-us.php">問い合わせ</a>
                 </li>
 
                 <li class="nav-item flex-column">
