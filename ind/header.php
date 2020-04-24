@@ -50,7 +50,8 @@
                 <p class="text-center txt-lang">Language</p>
                 <div class="switch-language">
                     <a href="/<?php echo $page;?>"><label for="radio-one">ENG</label></a>
-                    <a href="dashboard/"><label class="active" for="radio-two">IND</label></a>
+                    <a href="/ind/"><label class="active" for="radio-two">IND</label></a>
+                    <a href="/jpy/<?php echo $page;?>"><label for="radio-three">JPY</label></a>
                 </div>
             </div>
         </div>
