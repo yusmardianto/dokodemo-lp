@@ -6,18 +6,18 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=5.0" />
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
     <meta name="description" itemprop="description"
-        content="Dokodemo-Kerja is a program that monitors your employee's productivity by screenshotting their desktop at random. Increase your productivity with Dokodemo-Kerja.">
+        content="従業員の実勤務時間を記録、GPSで働いた場所をトラッキング、フレキシブルで生産性の高い働き方を可能とするリモートワーク管理ツールDokodemo-Kerja（ドコデモクルジャ）の紹介ページ。試用をご希望の方はお気軽にLOGIQUEまでご連絡ください。">
     <meta name="keywords"
         content="dokodemo, dokodemo-kerja, dokodemo kerja, work everywhere, work whenever, work wherever, project management tool, project management software, human resource tool, human resource software, monitoring software, monitoring tool, monitor desktop, monitor with privacy, low res monitoring, low resolution monitoring, time tracker, logique product, pt logique">
     <meta name="author" content="PT. LOGIQUE Digital Indonesia">
     <meta name="google-site-verification" content="Xc9SFJQZdKYLsrWvrxEjLLTA-nyrnNPQTXQoMxs4gKI" />
-    <meta property="og:title" content="Remote Working Management Tool | Dokodemo-Kerja">
+    <meta property="og:title" content="リモートワークを可能にする勤務時間管理クラウドツール | ドコデモクルジャ | LOGIQUE Digital Indonesia">
     <meta property="og:type" content="website">
     <meta property="og:site_name" content="Dokodemo-Kerja">
     <meta property="og:url" content="https://dokodemo-kerja.com">
     <meta property="og:image" content="/img/dokodemo-og.jpg">
     <meta property="og:description"
-        content="Dokodemo-Kerja merupakan software atau desktop app dari LOGIQUE bagi karyawan yang kerja remote atau di luar kantor. Aplikasi ini mampu merekam dan kalkulasi jam kerja karyawan secara akurat, dilengkapi fitur screencapture otomatis. Dengan begitu, karyawan Anda menjadi lebih produktif.">
+        content="従業員の実勤務時間を記録、GPSで働いた場所をトラッキング、フレキシブルで生産性の高い働き方を可能とするリモートワーク管理ツールDokodemo-Kerja（ドコデモクルジャ）の紹介ページ。試用をご希望の方はお気軽にLOGIQUEまでご連絡ください。">
     <link rel="stylesheet" href="/css/bootstrap.min.css" />
     <link href="/fonts/font-awesome/css/font-awesome.min.css" rel="stylesheet">
     <link rel="stylesheet" href="/css/slick.css" />
@@ -27,7 +27,7 @@
     <link rel="stylesheet" href="/js/magnific-popup.css" />
     <link href="fonts/font-awesome/css/font-awesome.min.css" rel="stylesheet">
     <link rel="shortcut icon" type="image/x-icon" href="favicon.ico">
-    <title>Remote Working Management Tool | Dokodemo-Kerja</title>
+    <title>リモートワークを可能にする勤務時間管理クラウドツール | ドコデモクルジャ | LOGIQUE Digital Indonesia</title>
     <!-- Google Tag Manager -->
     <script>
     (function(w, d, s, l, i) {
@@ -124,7 +124,7 @@
                             <div class="advantages-item">
                                 <img src="/img/home/done-green.svg" class="pr-2 header-icon-verified" alt=""/>
                                 <div>
-                                    <span class="header-feature">低価格 <span style="font-size: 20px">月額 Rp.1,000,000 〜</span></span>
+                                    <span class="header-feature">低価格 <br /><span style="font-size: 20px">月額 Rp.1,000,000 〜</span></span>
                                     <!-- <br />
                                     <span class="header-subfeature"></span> -->
                                 </div>
@@ -169,7 +169,7 @@
             <div class="row">
                 <div class="offset-md-1 col-md-10">
                     <!-- <p class="fs-27 text-center header-demo-text">Try the <strong>Demo</strong> Now</p> -->
-                    <a href="trial.php" class="btn-sign-up btn-try-demo" id="btn-sign-up">デモをみる</a>
+                    <a href="/trial.php" class="btn-sign-up btn-try-demo" id="btn-sign-up">デモをみる</a>
                     <span class="text-center d-block pb-4 pt-2 fs-medium header-subdemo-text">会員登録等、必要ありません</span>
                 </div>
             </div>
@@ -423,7 +423,7 @@
                     <span class="d-block text-white text-center text-md-left fs-18 header-subdemo-text">ユーザー登録は必要ありません。</span>
                 </div>
                 <div class="col-md-4">
-                    <a href="trial.php" class="btn-sign-up btn-try-demo" id="btn-sign-up">いますぐデモ環境を試す</a>
+                    <a href="/trial.php" class="btn-sign-up btn-try-demo" id="btn-sign-up">いますぐデモ環境を試す</a>
                 </div>
             </div>
         </div>
