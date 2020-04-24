@@ -365,35 +365,6 @@
                     </div>
                 </div>
             </div>
-            <!-- <div class="row mt-3">
-                <div class="col-md-6">
-                    <p class="home-benefit-content-title">1. Cost Saving</p>
-                    <p>Employees can greatly reduce their commuting expenses, while employers can also save on costs in regards to transportation and meal allowances. Such strategies also reduce the need for office space, thereby allowing the company to save money renting a smaller office.</p>
-                </div>
-                <div class="col-md-6">
-                    <p class="home-benefit-content-title">2. Increased Productivity</p>
-                    <p>Employees can singularly focus their efforts on producing results, while not having to waste time and energy on logistical difficulties and commuting.</p>
-                </div>
-                <div class="col-md-6">
-                    <p class="home-benefit-content-title">3. Universal Hiring</p>
-                    <p>Employers can hire talented individuals from anywhere; even overseas.</p>
-                </div>
-                <div class="col-md-6">
-                    <p class="home-benefit-content-title">4. Retain Employees</p>
-                    <p>Employees who need to take care of homebound family members, or their children, won’t have to choose between their job and their home life. Through remote working strategies, they can now adopt an ideal work-life balance.</p>
-                </div>
-                <div class="col-md-6">
-                    <p class="home-benefit-content-title">5. Accurate Evaluation</p>
-                    <p>Dokodemo-Kerja keeps track on what employees are doing and how they work, thus assisting HR in the process of evaluating staff output in a fair and objective manner, with concrete evidence to back it up.</p>
-                </div>
-            </div>
-            <div class="row">
-                <div class="col-md-12 text-center">
-                    <a href="https://www.logique.co.id/blog/category/dokodemo-kerja/" target="_blank" rel="noopener noreferrer">
-                        <button class="btn btn-primary benefit-btn">Learn More</button>
-                    </a>
-                </div>
-            </div> -->
         </div>
     </section>
     <section class="user-testimony" id="testimony">
@@ -467,15 +438,6 @@
                         for me to work remotely from home. I can still tend to my mother, while working as a full time
                         employee.</div>
                     <p class="testimony-author"><strong>Bobby Susanto </strong> - Programmer</p>
-                </div>
-                <div class="testimony-item">
-                    <div class="testimony-text">Sometimes I noticed my staffs were having a break too long on prayer
-                        time. I just want everyone to have fair working hours, no matter what religion they believe in,
-                        but it’s difficult for me to discuss about it. Since we use Dokodemo-Kerja, all employees have
-                        fair working hours. If it’s time to have a praying break, they always stop the record and start
-                        again when they get back to work. Dokodemo-Kerja helps our company so much to stay productive.
-                    </div>
-                    <p class="testimony-author"><strong>Mizuho Yamada</strong> - Manager of Back Office</p>
                 </div>
 
             </div>
