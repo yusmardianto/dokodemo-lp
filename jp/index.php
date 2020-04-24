@@ -113,7 +113,7 @@
                 <div class="offset-md-1 col-md-10">
                     <h1 class="banner-header-text">
                         <strong>Dokodemo-Kerja</strong><span>でリモートワークを実現</span><br>
-                        <strong>フレキシブルでストレスフリーな働き方を実現し、生産性UP</strong>
+                        <strong>フレキシブルで生産性の高い働き方を可能とします</strong>
                     </h1>
                 </div>
             </div>
@@ -124,7 +124,7 @@
                             <div class="advantages-item">
                                 <img src="/img/home/done-green.svg" class="pr-2 header-icon-verified" alt=""/>
                                 <div>
-                                    <span class="header-feature">低価格 月額 Rp.1,000,000 〜</span>
+                                    <span class="header-feature">低価格 <span style="font-size: 20px">月額 Rp.1,000,000 〜</span></span>
                                     <!-- <br />
                                     <span class="header-subfeature"></span> -->
                                 </div>
@@ -155,7 +155,7 @@
             </div>
             <div class="row">
                 <div class="offset-md-1 col-md-10">
-                    <p class="text-center fs-18 subbanner-header-text">
+                    <p class="fs-18 subbanner-header-text">
                     どこでも、何時でも、働いた時間と作業内容を記録することで、会社と従業員の双方にメリットのあるリモートワークを可能とします。<br>
                     Version 2.0からはGPSトラック機能も実装しましたので、外出が多いスタッフの勤務実態も管理可能となりました。</strong>
                     </p>
@@ -240,9 +240,9 @@
                     </div>
                 </div>
                 <div class="offset-md-1 col-md-10 home-feature__card-wrapper --btn">
-                    <div>
+                    <div style="flex-basis: 50%;max-width: 50%;">
                         <a href="/features.php">
-                            <button class="btn btn-primary form-control feature-btn" style="padding: 6px 30px;">機能をもっと詳しくみる</button>
+                            <button class="btn btn-primary form-control feature-btn" style="padding: 6px 40px; width: max-content;">機能をもっと詳しくみる</button>
                             <img src="/img/home/arrow-down.svg"  width="13" alt=""/>
                         </a>
                     </div>

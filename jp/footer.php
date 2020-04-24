@@ -12,7 +12,7 @@
             <div class="col-lg-3 col-md-3 col-sm-6 footer-menu-container-1">
                 <div class="footer-menu">
                     <ul class="footer-menu-list first-list">
-                        <li><a href="/jpy">ホーム</a></li>
+                        <li><a href="/jp">ホーム</a></li>
                         <li><a href="about.php">Dokodemo-Kerjaについて</a></li>
                         <li><a href="features.php">機能</a></li>
                         <li><a href="pricing.php">価格</a></li>

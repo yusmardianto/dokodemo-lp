@@ -73,7 +73,7 @@
       <div class="container-404">
         <div class="element">
           <p>Halaman yang anda cari tidak ditemukan.</p>
-          <a href="/">
+          <a href="/ind">
             <button class="btn-404">Kembali Ke Homepage</button>
           </a>
         </div>
