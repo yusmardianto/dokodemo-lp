@@ -33,7 +33,7 @@
     <meta property="og:description" content="No more slacking off, use dokodemo kerja to weed out the lazy ones and keep your best employees. Reward the achievers and experience the improvement in productivity. Free 30 days trial and special price for enterprise scale.">
 
 	<link rel="stylesheet" href="/css/bootstrap.min.css" />
-  <link href="fonts/font-awesome/css/font-awesome.min.css" rel="stylesheet">
+  <link href="/fonts/font-awesome/css/font-awesome.min.css" rel="stylesheet">
 	<link rel="stylesheet" href="/css/header-footer.css" />
 	<link rel="stylesheet" href="/css/style.css" />
 	<link rel="stylesheet" href="/css/style-trial.css" />

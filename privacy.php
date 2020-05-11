@@ -19,7 +19,7 @@
   <meta property="og:description"
     content="Logique Digital Indonesia’s privacy policy regarding Dokodemo-Kerja outlines the rules of consent about processing personal information.">
   <link rel="stylesheet" href="/css/bootstrap.min.css" />
-  <link href="fonts/font-awesome/css/font-awesome.min.css" rel="stylesheet">
+  <link href="/fonts/font-awesome/css/font-awesome.min.css" rel="stylesheet">
   <link rel="stylesheet" href="/css/slick.css" />
   <link rel="stylesheet" href="/css/slick-theme.css" />
   <link rel="stylesheet" href="/css/header-footer.css" />

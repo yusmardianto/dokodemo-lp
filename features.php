@@ -16,7 +16,7 @@
     <meta property="og:image" content="/img/dokodemo-og.jpg">
     <meta property="og:description" content="Dokodemo-Kerja is a system that enables time tracking feature, accurate time reports, man hour management, easy navigation, and flexible monitoring tools which benefits both employees and employers.">
     <link rel="stylesheet" href="/css/bootstrap.min.css" />
-    <link href="fonts/font-awesome/css/font-awesome.min.css" rel="stylesheet">
+    <link href="/fonts/font-awesome/css/font-awesome.min.css" rel="stylesheet">
     <link rel="stylesheet" href="/css/slick.css" />
     <link rel="stylesheet" href="/css/slick-theme.css" />
     <link rel="stylesheet" href="/css/header-footer.css" />

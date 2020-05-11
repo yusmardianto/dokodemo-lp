@@ -16,7 +16,7 @@
     <meta property="og:image" content="/img/dokodemo-og.jpg">
     <meta property="og:description" content="LOGIQUE Digital Indonesia provides digital solutions for human resources through remote working software, Dokodemo-Kerja, designed for reducing costs. ">
     <link rel="stylesheet" href="/css/bootstrap.min.css" />
-    <link href="fonts/font-awesome/css/font-awesome.min.css" rel="stylesheet">
+    <link href="/fonts/font-awesome/css/font-awesome.min.css" rel="stylesheet">
     <link rel="stylesheet" href="/css/slick.css" />
     <link rel="stylesheet" href="/css/slick-theme.css" />
     <link rel="stylesheet" href="/css/header-footer.css" />
