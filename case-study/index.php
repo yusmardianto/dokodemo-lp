@@ -104,7 +104,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                     </a>
                 </div>
                 <div class="col-md-4">
-                    <a href="#" class="case-study__card-wrapper">
+                    <a href="/case-study/case-3" class="case-study__card-wrapper">
                         <div class="case-study__card">
                             <img class="card__img" src="/img/case-study/case-3.png" alt="">
                             <h2 class="card__headline">Dokodemo Story 3</h2>

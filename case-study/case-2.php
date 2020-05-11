@@ -66,7 +66,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 <!-- End Google Tag Manager (noscript) -->
     <?php include "../header.php" ?>
     <section>
-        <div class="container pl-0">
+        <div class="container pl-lg-0">
             <nav aria-label="breadcrumb">
                 <ol class="breadcrumb">
                     <li class="breadcrumb-item"><a href="/">Dokodemo-Kerja Home</a></li>

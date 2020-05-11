@@ -12,9 +12,8 @@
                         <a href="/case-study/case-1" class="case-study__card-wrapper">
                             <div class="case-study__card">
                                 <img class="card__img" src="/img/home/case-study-1.png" alt="" >
-                                <h4 class="card__title">Why we develop Dokodemo-Kerja</h4>
+                                <h4 class="card__title">PT. LOGIQUE Digital Indonesia</h4>
                                 <p class="card__news">
-                                    PT. LOGIQUE Digital Indonesia <br>
                                     President Director <br>
                                     Takashi Yoshitsugu
                                 </p>
@@ -39,7 +38,7 @@
                     <?php endif; ?>
                     <?php if ($current_url != "case-3"): ?>
                     <div class="col-md-4">
-                        <a href="#" class="case-study__card-wrapper">
+                        <a href="/case-study/case-3" class="case-study__card-wrapper">
                             <div class="case-study__card">
                                 <img class="card__img" src="/img/home/case-study-1.png" alt="" >
                                 <h4 class="card__title">Accounting Consulting Firm</h4>
