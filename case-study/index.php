@@ -23,7 +23,7 @@
     <link rel="stylesheet" href="/css/style-case-study.css" />
     <link rel="stylesheet" href="/js/magnific-popup.css" />
 
-	<link rel="shortcut icon" type="image/x-icon" href="favicon.ico">
+	<link rel="shortcut icon" type="image/x-icon" href="/favicon.ico">
     <title>Feature of Dokodemo-Kerja | Working Hours Tracking Tool</title>
 	<!-- Google Tag Manager -->
 	<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
