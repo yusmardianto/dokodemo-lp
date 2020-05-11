@@ -78,7 +78,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                             <p class="features-desc">Dokodemo-Kerja takes low-resolution screenshots of your employee's desktop or laptop activities during random intervals when the application is switched on and sends the images to the management team.</p>
                         </div>
                         <div class="col-lg-6 features-item">
-                             <img src="/img/features/home_01-com.png" class="img-slide-screenshot modal-hover-opacity" alt="" />    
+                             <img src="/img/features/home_01-com.jpg" class="img-slide-screenshot modal-hover-opacity" alt="" />    
                         </div>
                     </div>
                     <div class="row">
@@ -88,7 +88,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                             <p class="features-desc">Dokodemo-Kerja accurately calculates and compiles employee work data and then displays it in an easy-to-read-format in just 1 simple click. This can greatly assist HR improve the overall accuracy of performance evaluation tasks.</p>
                         </div>
                         <div class="col-lg-6 features-item">
-                            <img src="/img/features/home_02-com.png" class="img-slide-screenshot modal-hover-opacity" alt="" />   
+                            <img src="/img/features/home_02-com.jpg" class="img-slide-screenshot modal-hover-opacity" alt="" />   
                         </div>
                     </div>
                     <div class="row">
@@ -98,7 +98,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                             <p class="features-desc">Track the total man-hours spent by each employee on each individual task, so your company can easily predict and arrange target deadlines according to your employee's capabilities.</p>
                         </div>
                         <div class="col-lg-6 features-item">
-                            <img src="/img/features/home_03-com.png" class="img-slide-screenshot modal-hover-opacity" alt="" />    
+                            <img src="/img/features/home_03-com.jpg" class="img-slide-screenshot modal-hover-opacity" alt="" />    
                         </div>
                     </div>
                     <div class="row">
@@ -108,7 +108,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                             <p class="features-desc">Dokodemo-Kerja’s Mobile Application utilizes GPS tracking, thereby allowing HR to easily track the location of each employee in real time during onsite events such as meetings or client visits.</p>
                         </div>
                         <div class="col-lg-6 features-item">
-                            <img src="/img/features/home_05-com.png" class="img-slide-screenshot modal-hover-opacity" alt="" />    
+                            <img src="/img/features/home_05-com.jpg" class="img-slide-screenshot modal-hover-opacity" alt="" />    
                         </div>
                     </div>
                 </div>

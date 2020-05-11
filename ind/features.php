@@ -78,7 +78,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                             <p class="features-desc"><span class="fw-semibold">Dokodemo-Kerja</span> mengambil tangkapan layar beresolusi rendah dari aktivitas desktop atau laptop karyawan Anda dalam interval waktu acak ketika aplikasi diaktifkan dan mengirimkan gambar ke tim manajemen. </p>
                         </div>
                         <div class="col-lg-6 features-item">
-                             <img src="../img/features/home_01-com.png" class="img-slide-screenshot modal-hover-opacity" alt="" />    
+                             <img src="../img/features/home_01-com.jpg" class="img-slide-screenshot modal-hover-opacity" alt="" />    
                         </div>
                     </div>
                     <div class="row">
@@ -88,7 +88,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                             <p class="features-desc"><span class="fw-semibold">Dokodemo-Kerja</span> secara akurat menghitung dan mengkompilasi data kerja karyawan dan kemudian menampilkannya dalam format yang mudah dibaca hanya dalam 1 klik sederhana. Dokodemo dapat sangat membantu SDM meningkatkan akurasi keseluruhan tugas evaluasi kinerja.</p>
                         </div>
                         <div class="col-lg-6 features-item">
-                            <img src="../img/features/home_02-com.png" class="img-slide-screenshot modal-hover-opacity" alt="" />   
+                            <img src="../img/features/home_02-com.jpg" class="img-slide-screenshot modal-hover-opacity" alt="" />   
                         </div>
                     </div>
                     <div class="row">
@@ -98,7 +98,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                             <p class="features-desc">Lacak total jam kerja yang dihabiskan oleh setiap karyawan untuk setiap tugas individu, sehingga perusahaan Anda dapat dengan mudah memprediksi dan mengatur tenggat waktu target sesuai dengan kemampuan karyawan Anda.</p>
                         </div>
                         <div class="col-lg-6 features-item">
-                            <img src="../img/features/home_03-com.png" class="img-slide-screenshot modal-hover-opacity" alt="" />    
+                            <img src="../img/features/home_03-com.jpg" class="img-slide-screenshot modal-hover-opacity" alt="" />    
                         </div>
                     </div>
                     <div class="row">
@@ -108,7 +108,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                             <p class="features-desc">Aplikasi Mobile Dokodemo-Kerja menggunakan pelacakan GPS, sehingga memungkinkan HR untuk dengan mudah melacak lokasi setiap karyawan secara real time selama acara di lokasi seperti pertemuan atau kunjungan klien.</p>
                         </div>
                         <div class="col-lg-6 features-item">
-                            <img src="../img/features/home_05-com.png" class="img-slide-screenshot modal-hover-opacity" alt="" />    
+                            <img src="../img/features/home_05-com.jpg" class="img-slide-screenshot modal-hover-opacity" alt="" />    
                         </div>
                     </div>
                 </div>
