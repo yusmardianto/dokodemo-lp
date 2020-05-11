@@ -21,24 +21,24 @@
                 <li class="nav-item <?php active('') ?>">
                     <a class="nav-link" href="/ind/">Home</a>
                 </li>
-                <li class="nav-item <?php active('about.php') ?>">
-                    <a class="nav-link" href="/ind/about.php">About</a>
+                <li class="nav-item <?php active('about') ?>">
+                    <a class="nav-link" href="/ind/about">About</a>
                 </li>
-                <li class="nav-item <?php active('features.php') ?>">
-                    <a class="nav-link" href="/ind/features.php">Feature Tour</a>
+                <li class="nav-item <?php active('features') ?>">
+                    <a class="nav-link" href="/ind/features">Feature Tour</a>
                 </li>
-                <li class="nav-item <?php active('pricing.php') ?>">
-                    <a class="nav-link" href="/ind/pricing.php">Harga</a>
+                <li class="nav-item <?php active('pricing') ?>">
+                    <a class="nav-link" href="/ind/pricing">Harga</a>
                 </li>
-                <li class="nav-item <?php active('trial.php') ?>">
-                    <a class="nav-link" href="/ind/trial.php">Trial</a>
+                <li class="nav-item <?php active('trial') ?>">
+                    <a class="nav-link" href="/ind/trial">Trial</a>
                 </li>
                 <li class="nav-item">
                     <a class="nav-link" target="_blank" rel="noopener noreferrer"
                         href="https://www.logique.co.id/blog/category/dokodemo-kerja/">Blog</a>
                 </li>
-                <li class="nav-item <?php active('contact-us.php') ?>">
-                    <a class="nav-link" href="/ind/contact-us.php">Hubungi Kami</a>
+                <li class="nav-item <?php active('contact-us') ?>">
+                    <a class="nav-link" href="/ind/contact-us">Hubungi Kami</a>
                 </li>
 
                 <li class="nav-item flex-column">

@@ -13,10 +13,10 @@
                 <div class="footer-menu">
                     <ul class="footer-menu-list first-list">
                         <li><a href="/jp">ホーム</a></li>
-                        <li><a href="/about.php">Dokodemo-Kerjaについて</a></li>
-                        <li><a href="/features.php">機能</a></li>
-                        <li><a href="/pricing.php">価格</a></li>
-                        <li><a href="/trial.php">デモ</a></li>
+                        <li><a href="/about">Dokodemo-Kerjaについて</a></li>
+                        <li><a href="/features">機能</a></li>
+                        <li><a href="/pricing">価格</a></li>
+                        <li><a href="/trial">デモ</a></li>
                         <li><a href="https://www.logique.co.id/blog/category/dokodemo-kerja/" target="_blank" rel="noopener noreferrer">ブログ</a></li>
                     </ul>
                 </div>
@@ -24,12 +24,12 @@
             <div class="col-lg-3 col-md-3 col-sm-6 footer-menu-container-2">
                 <div class="footer-menu">
                     <ul class="footer-menu-list second-list">
-                        <li><a href="/contact-us.php">問い合わせ</a></li>
-                        <li><a href="/pricing.php#FAQ">FAQ</a></li>
-                        <li><a href="/subscribe.php">Subscribing Procedure</a></li>
+                        <li><a href="/contact-us">問い合わせ</a></li>
+                        <li><a href="/pricing#FAQ">FAQ</a></li>
+                        <li><a href="/subscribe">Subscribing Procedure</a></li>
                         <li><a data-toggle="collapse" href="#collapseExample">Setup Online Meeting</a></li>
-                        <li><a href="/terms.php">Terms and Condition</a></li>
-                        <li><a href="/privacy.php">Privacy Policy</a></li>
+                        <li><a href="/terms">Terms and Condition</a></li>
+                        <li><a href="/privacy">Privacy Policy</a></li>
                     </ul>
                 </div>
             </div>
