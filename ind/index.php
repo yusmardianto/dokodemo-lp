@@ -272,35 +272,35 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                 <div>
                     <a href="../img/features/home_01.png" data-source="../img/features/home_01.png" title="Daily Working Screen Capture" aria-label="Daily Working Screen Capture">
                     <div class="img-slide-screenshot--wrapper">
-                        <img src="../img/features/home_01-com.png" class="img-slide-screenshot modal-hover-opacity" alt="" />
+                        <img src="../img/features/home_01-com.jpg" class="img-slide-screenshot modal-hover-opacity" alt="" />
                     </div>    
                     </a>
                 </div>
                 <div>
                     <a href="../img/features/home_02.png" data-source="../img/features/home_02.png" title="Daily Working Hours Bars" aria-label="Daily Working Hours Bars">
                     <div class="img-slide-screenshot--wrapper">
-                        <img src="../img/features/home_02-com.png" class="img-slide-screenshot modal-hover-opacity" alt=""/>
+                        <img src="../img/features/home_02-com.jpg" class="img-slide-screenshot modal-hover-opacity" alt=""/>
                     </div>    
                     </a>
                 </div>
                 <div>
                     <a href="../img/features/home_03.png" data-source="../img/features/home_03.png" title="Staff Management" aria-label="Staff Management">
                     <div class="img-slide-screenshot--wrapper">
-                        <img src="../img/features/home_03-com.png" class="img-slide-screenshot modal-hover-opacity" alt=""/>
+                        <img src="../img/features/home_03-com.jpg" class="img-slide-screenshot modal-hover-opacity" alt=""/>
                     </div>    
                     </a>
                 </div>
                 <div>
                     <a href="../img/features/home_04.png" data-source="../img/features/home_04.png" title="Daily Working Screen Capture" aria-label="Daily Working Screen Capture">
                     <div class="img-slide-screenshot--wrapper">
-                        <img src="../img/features/home_04-com.png" class="img-slide-screenshot modal-hover-opacity" alt=""/>
+                        <img src="../img/features/home_04-com.jpg" class="img-slide-screenshot modal-hover-opacity" alt=""/>
                     </div>    
                     </a>
                 </div>
                 <div>
                     <a href="../img/features/home_05.png" data-source="../img/features/home_05.png" title="Daily Working Hours Bars" aria-label="Daily Working Hours Bars">
                     <div class="img-slide-screenshot--wrapper">
-                        <img src="../img/features/home_05-com.png" class="img-slide-screenshot modal-hover-opacity" alt=""/>
+                        <img src="../img/features/home_05-com.jpg" class="img-slide-screenshot modal-hover-opacity" alt=""/>
                     </div>    
                     </a>
                 </div>
