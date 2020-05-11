@@ -1,4 +1,11 @@
 <?php 
+    function active_case() {
+        $url_array =  explode('/', $_SERVER['REQUEST_URI']) ;
+        $url = end($url_array);
+        if ($url == 'case-study.php' || $url == 'case-1.php') {
+            echo 'active';
+        }
+    } 
     function active($current_page){
         $url_array =  explode('/', $_SERVER['REQUEST_URI']) ;
         $url = end($url_array);  
@@ -25,16 +32,19 @@
                     <a class="nav-link" href="/">Home</a>
                 </li>
                 <li class="nav-item <?php active('about.php') ?>">
-                    <a class="nav-link" href="about.php">About Us</a>
+                    <a class="nav-link" href="/about.php">About Us</a>
                 </li>
                 <li class="nav-item <?php active('features.php') ?>">
-                    <a class="nav-link" href="features.php">Feature Tour</a>
+                    <a class="nav-link" href="/features.php">Feature Tour</a>
+                </li>
+                <li class="nav-item <?php active_case() ?>">
+                    <a class="nav-link" href="/case-study.php">Case Study</a>
                 </li>
                 <li class="nav-item <?php active('pricing.php') ?>">
-                    <a class="nav-link" href="pricing.php">Pricing</a>
+                    <a class="nav-link" href="/pricing.php">Pricing</a>
                 </li>
                 <li class="nav-item <?php active('trial.php') ?>">
-                    <a class="nav-link" href="trial.php">Trial</a>
+                    <a class="nav-link" href="/trial.php">Trial</a>
                 </li>
                 <li class="nav-item">
                     <a class="nav-link" target="_blank" rel="noopener noreferrer"

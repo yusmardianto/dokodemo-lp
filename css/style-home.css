@@ -760,6 +760,29 @@ body {
   }
 }
 
+/* case study section */
+.case-study__card .card__img {
+  margin-bottom: 25px;
+  width: 100%;
+  height: 210px;
+  object-fit: cover;
+}
+.case-study__card .card__title {
+  font-weight: bold;
+  margin-bottom: 20px;
+}
+.case-study__card .card__news {
+  font-size: 18px;
+}
+.case-study__card .card__title,
+.case-study__card .card__news {
+  color: #000;
+}
+.case-study__card-wrapper:hover {
+  text-decoration: none;
+}
+/* end case study section */
+
 /* left fixed btn */
 .botFixedBtn{
   position: fixed;

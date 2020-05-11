@@ -367,6 +367,62 @@
             </div>
         </div>
     </section>
+    
+    <section class="case-study__container">
+        <div class="container my-5">
+            <div class="row">
+                <div class="col-md-12">
+                    <h1 class="home-feature-title">Case Study</h1>
+                </div>
+            </div>
+            <div class="row mt-3">
+                <div class="col-md-12">
+                    <div class="row">
+                        <div class="col-md-4">
+                            <a href="/case-study/case-1.php" class="case-study__card-wrapper">
+                                <div class="case-study__card">
+                                    <img class="card__img" src="/img/home/case-study-1.png" alt="" >
+                                    <h4 class="card__title">Why we develop Dokodemo-Kerja</h4>
+                                    <p class="card__news">
+                                        PT. LOGIQUE Digital Indonesia <br>
+                                        President Director <br>
+                                        Takashi Yoshitsugu
+                                    </p>
+                                </div>
+                            </a>
+                        </div>
+                        <div class="col-md-4">
+                            <a href="#" class="case-study__card-wrapper">
+                                <div class="case-study__card">
+                                    <img class="card__img" src="/img/home/case-study-2.png" alt="" >
+                                    <h4 class="card__title">Why we develop Dokodemo-Kerja</h4>
+                                    <p class="card__news">
+                                        PT. LOGIQUE Digital Indonesia <br>
+                                        President Director <br>
+                                        Takashi Yoshitsugu
+                                    </p>
+                                </div>
+                            </a>
+                        </div>
+                        <div class="col-md-4">
+                            <a href="#" class="case-study__card-wrapper">
+                                <div class="case-study__card">
+                                    <img class="card__img" src="/img/home/case-study-1.png" alt="" >
+                                    <h4 class="card__title">Why we develop Dokodemo-Kerja</h4>
+                                    <p class="card__news">
+                                        PT. LOGIQUE Digital Indonesia <br>
+                                        President Director <br>
+                                        Takashi Yoshitsugu
+                                    </p>
+                                </div>
+                            </a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
     <section class="user-testimony" id="testimony">
         <h1 class="section-title">USER TESTIMONY</h1>
         <div class="container-fluid">

@@ -15,13 +15,14 @@
                         <li><a href="/">Home</a></li>
                         <li><a href="about.php">About Us</a></li>
                         <li><a href="features.php">Features</a></li>
+                        <li><a href="case-study.php">Case Study</a></li>
                         <li><a href="pricing.php">Pricing</a></li>
                         <li><a href="trial.php">Trial</a></li>
                         <li><a href="https://www.logique.co.id/blog/category/dokodemo-kerja/" target="_blank" rel="noopener noreferrer">Blog</a></li>
                     </ul>
                 </div>
             </div>
-            <div class="col-lg-3 col-md-3 col-sm-6 footer-menu-container-2">
+            <div class="col-lg-3 col-md-3 col-sm-6 footer-menu-container-2  align-self-start">
                 <div class="footer-menu">
                     <ul class="footer-menu-list second-list">
                         <li><a href="contact-us.php">Contact Us</a></li>
