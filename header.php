@@ -41,7 +41,7 @@
                     <a class="nav-link" href="/features">Feature Tour</a>
                 </li>
                 <li class="nav-item <?php active_case() ?>">
-                    <a class="nav-link" href="/case-study">Case Study</a>
+                    <a class="nav-link" href="/case-study/">Case Study</a>
                 </li>
                 <li class="nav-item <?php active('pricing') ?>">
                     <a class="nav-link" href="/pricing">Pricing</a>
