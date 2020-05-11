@@ -64,7 +64,7 @@
 <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-WT4MCDL"
 height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 <!-- End Google Tag Manager (noscript) -->
-    <?php include "header.php" ?>
+    <?php include "../header.php" ?>
     <section>
         <div class="container">
             <nav aria-label="breadcrumb">
@@ -80,27 +80,25 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
             <h1 class="text-center mb-5">Case Study: How You Utilize Dokodemo-Kerja</h1>
             <div class="row">
                 <div class="col-md-4">
-                    <a href="/case-study/case-1.php" class="case-study__card-wrapper">
+                    <a href="/case-study/case-1" class="case-study__card-wrapper">
                         <div class="case-study__card">
                             <img class="card__img" src="/img/case-study/case-1.png" alt="">
-                            <h2 class="card__headline">PT Karya Bangsa</h2>
-                            <h4 class="card__title">Title Title</h4>
+                            <h2 class="card__headline">Dokodemo-Kerja Story 1</h2>
+                            <h4 class="card__title">PT. LOGIQUE Digital Indonesia</h4>
                             <p class="card__text">
-                                Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla quam velit, vulputate eu pharetra nec, mattis ac neque. Duis vul <br><br>
-                                Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla quam velit, vulputate eu pharetra nec, mattis ac neque. Duis vul
+                            I would like to present some case studies about our clients currently using Dokodemo-Kerja. In this first example though, we will be looking at our own company, LOGIQUE, and how we had successfully implemented a remote working system.
                             </p>
                         </div>
                     </a>
                 </div>
                 <div class="col-md-4">
-                    <a href="#" class="case-study__card-wrapper">
+                    <a href="/case-study/case-2" class="case-study__card-wrapper">
                         <div class="case-study__card">
                             <img class="card__img" src="/img/case-study/case-2.png" alt="">
-                            <h2 class="card__headline">PT Karya Bangsa</h2>
-                            <h4 class="card__title">Title Title</h4>
+                            <h2 class="card__headline">Dokodemo-Kerja Story 2</h2>
+                            <h4 class="card__title">PT. BO System Development</h4>
                             <p class="card__text">
-                                Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla quam velit, vulputate eu pharetra nec, mattis ac neque. Duis vul <br><br>
-                                Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla quam velit, vulputate eu pharetra nec, mattis ac neque. Duis vul
+                                <b>Q: </b>Why are you interested in using 『Dokodemo-Kerja』? <b>A: </b>My company provides billing system services in Indonesia. Since our office has a multinational atmosphere, the number of staff has now exceeded 50. So, it has become difficult to manage the individual working styles of all our employees. 
                             </p>
                         </div>
                     </a>
@@ -109,11 +107,10 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                     <a href="#" class="case-study__card-wrapper">
                         <div class="case-study__card">
                             <img class="card__img" src="/img/case-study/case-3.png" alt="">
-                            <h2 class="card__headline">PT Karya Bangsa</h2>
-                            <h4 class="card__title">Title Title</h4>
+                            <h2 class="card__headline">Dokodemo Story 3</h2>
+                            <h4 class="card__title">Accounting Consulting Firm</h4>
                             <p class="card__text">
-                                Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla quam velit, vulputate eu pharetra nec, mattis ac neque. Duis vul <br><br>
-                                Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla quam velit, vulputate eu pharetra nec, mattis ac neque. Duis vul
+                                <b>Q: </b>Why did you want to implement Dokodemo-Kerja? <b>A: </b>We provide accounting consultation services for our client companies. At present, we have more than 100 clients. Due to the nature of our industry, payment at the beginning and end of the month is peak business season, as well as the THR at the beginning of the year and
                             </p>
                         </div>
                     </a>
@@ -181,7 +178,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
         </span>    
     </section>
     <!-- end of req online meeting popup -->
-    <?php include "footer.php" ?>
+    <?php include "../footer.php" ?>
     <script src="/js/jquery-3.4.1.min.js"></script>
     <script src="/js/bootstrap.min.js"></script>
     <script src="/js/slick.min.js"></script>

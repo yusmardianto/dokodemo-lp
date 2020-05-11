@@ -7,9 +7,9 @@
         <div class="row mt-3">
             <div class="col-md-12">
                 <div class="row">
-                    <?php if ($current_url != "case-1.php"): ?>
+                    <?php if ($current_url != "case-1"): ?>
                     <div class="col-md-4">
-                        <a href="/case-study/case-1.php" class="case-study__card-wrapper">
+                        <a href="/case-study/case-1" class="case-study__card-wrapper">
                             <div class="case-study__card">
                                 <img class="card__img" src="/img/home/case-study-1.png" alt="" >
                                 <h4 class="card__title">Why we develop Dokodemo-Kerja</h4>
@@ -22,32 +22,32 @@
                         </a>
                     </div>
                     <?php endif; ?>
-                    <?php if ($current_url != "case-2.php"): ?>
+                    <?php if ($current_url != "case-2"): ?>
                     <div class="col-md-4">
-                        <a href="#" class="case-study__card-wrapper">
+                        <a href="/case-study/case-2" class="case-study__card-wrapper">
                             <div class="case-study__card">
                                 <img class="card__img" src="/img/home/case-study-2.png" alt="" >
-                                <h4 class="card__title">Why we develop Dokodemo-Kerja</h4>
-                                <p class="card__news">
+                                <h4 class="card__title">PT. BO System Development</h4>
+                                <!-- <p class="card__news">
                                     PT. LOGIQUE Digital Indonesia <br>
                                     President Director <br>
                                     Takashi Yoshitsugu
-                                </p>
+                                </p> -->
                             </div>
                         </a>
                     </div>
                     <?php endif; ?>
-                    <?php if ($current_url != "case-2.php"): ?>
+                    <?php if ($current_url != "case-3"): ?>
                     <div class="col-md-4">
                         <a href="#" class="case-study__card-wrapper">
                             <div class="case-study__card">
                                 <img class="card__img" src="/img/home/case-study-1.png" alt="" >
-                                <h4 class="card__title">Why we develop Dokodemo-Kerja</h4>
-                                <p class="card__news">
+                                <h4 class="card__title">Accounting Consulting Firm</h4>
+                                <!-- <p class="card__news">
                                     PT. LOGIQUE Digital Indonesia <br>
                                     President Director <br>
                                     Takashi Yoshitsugu
-                                </p>
+                                </p> -->
                             </div>
                         </a>
                     </div>

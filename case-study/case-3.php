@@ -71,58 +71,62 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                 <ol class="breadcrumb">
                     <li class="breadcrumb-item"><a href="/">Dokodemo-Kerja Home</a></li>
                     <li class="breadcrumb-item"><a href="/case-study/">Case Study</a></li>
-                    <li class="breadcrumb-item active" aria-current="page">Case 1</li>
+                    <li class="breadcrumb-item active" aria-current="page">Case 3</li>
                 </ol>
             </nav>
         </div>
     </section>
     <section class="mb-5">
         <div class="container">
-            <h1 class="text-center mb-5">Dokodemo-Kerja Story 1: LOGIQUE</h1>
-            <div class="case-study__story mx-3 mx-lg-0">
-                <div class="row">
-                    <div class="col-lg-6 pl-0 d-none d-lg-block">
-                        <img src="/img/case-study/detail-case-1-1.png" alt="" class="story__img">
-                    </div>
-                    <div class="col-lg-6 pl-0 pl-lg-3">
-                        <p>I would like to present some case studies about our clients currently using Dokodemo-Kerja.</p>
-                        <p>In this first example though, we will be looking at our own company, LOGIQUE, and how we had successfully implemented a remote working system. First of all, Dokodemo-Kerja was developed as a time management tool to be used within LOGIQUE itself. </p>
-                        <p>As I have never been the type of person to get overly caught up in the inflexible old-fashioned ways of working so apparent in Japanese companies, I also did not want to force it upon my employees. Therefore in 2017, we decided to introduce a system of remote working within our own company. </p>
-                        <p class="mb-0">However, when we implemented the application, there was a negative reaction at first, especially from the development team leaders. Some thought, because of this, working in teams would be harder. Others thought it was unfair because they believed employees working remotely had an easier time with their job. Therefore, I eventually allowed remote working schedules for staff members who had understandable reasons for doing so, such as female employees who had recently gave birth. </p>
-                    </div>
-                    <div class="mt-3">
-                        <p>Also, it’s hard to actually visualize how our staff worked remotely. For example, remote working strategies can result in the belief that employees were receiving special treatment; the company would feel like it was not receiving results which were fair. In addition to the company feeling skeptical about its employees’ work ethic, staff members would complain about their coworkers being uncontactable. </p>
-                        <p>Indeed, when unresponsive employees were questioned, the reply is almost always that they were focusing on their tasks. Other staffs have said that working remotely makes it more difficult to get help from their team members, which makes it harder to accomplish the same task, compared to working within an office. </p>
-                        <p>It is difficult to decide who is right. But, the main problem is that if we cannot visualize how our staff works when working remotely, such systems won’t be able to provide any positive value for either the employees or the company. </p>
-                    </div>
-                    <div class="row">
-                        <div class="col-lg-6">
-                            <p><u>Therefore, in response to such issues, we had developed Nippo.</u> </p>
-                            <p>The word ‘Nippo’ is a Japanese word, meaning ‘daily report’. In this sense, Nippo is an online daily report system which allows all employees to summarize their tasks conducted that day. They can give details about how much time was spent for each task. The report is then uploaded online so that it can be seen by other staffs and can be rated by their supervisors.</p>
-                            <p>Nippo slightly improved the function of our remote working strategy. However, there were still some problems, specifically, when a task has been attempted but is not done correctly, or takes longer than expected; for example, when a task that takes 3 hours to complete is recorded as taking 8 hours on Nippo. This problem could be due to many reasons: lack of concentration, or due to situations which could not be avoided. I realized that there are many uniquely difficult cases.   </p>
-                            <p class="mb-0">Therefore, in November 2017 we developed Dokodemo-Kerja. With this tool, clear visualization of how an employee is working is possible through the use of screenshots. Dokodemo-Kerja allows staffs the opportunity to present proof that an employee really is or isn’t focused on their job. Indeed, when they aren’t, clear evidence can be shown from the management side when it becomes necessary to give a warning to an employee. </p>
-                        </div>
-                        <div class="col-lg-6 pr-0 d-none d-lg-block">
-                            <img src="/img/case-study/detail-case-1-2.png" alt="" class="story__img">
-                        </div>
-                    </div>
-                    <div class="mt-3"> 
-                        <p>Eventually, by mid-2018, we were ready to expand our remote working strategy. We applied remote working systems for all our staffs. Depending on an employee's position and role, we gave them permission to work on a remote basis for either one day of the week, to up to 5 days, depending on their individual situation.</p>
-                        <p>As remote working eventually became the norm, we began to make changes within the office itself. By using Dokodemo-Kerja on a day to day basis, employees did not have to be within the office from morning to evening. An exception to this is when teams are required to meet face to face, as meeting at the office would apparently be essential. However, after a period of trial and error, it turns out that this is only rarely necessary. In addition, employees can adjust their work schedules to their daily lives by determining the hours they start working and when they go home. (Note 1) With the condition that the total time amounts to 40 hours per week and there are results to show for it, employees can work anywhere. However, for employees whose work results cannot be measured, such as those who are junior level employees, an evaluation is conducted through the use of Dokodemo-Kerja, and their general level of effort put into their work. For employees who are unable to provide satisfactory work results, or who have Dokodemo-Kerja records which are below average, disciplinary action will be taken and backed up by sufficient evidence.</p>
-                        <p>(Note 1) Although flexible working times are allowed, rules are required. If employee starting times frequently change, it can reduce the effectiveness of working as a team. Therefore, each employee sets their own starting hours; if they arrive late, they are then required to make this information known to other staffs through Slack.	</p>
-                        <p>With Dokodemo-Kerja, our staff can adopt unique working styles suitable for their own individual situations. For example, there are employees who start working at 9 o'clock, have lunch with their coworkers, and then go home at 2 o'clock in the afternoon. After doing some work at home afterwards, in the evening, they return to the office to finish up any incomplete tasks.</p>
-                        <p>There are also those who start working at home from 6 to 8 in the morning, then come to the office at 10 and, without taking a break for lunch, continue working until it’s time to go home at 4 pm.</p>
-                        <p>Even those who live far away from the office are allowed to work remotely for 3 days a week, and on the days they are required to come to the office, they start their work in the morning at home and alter the time they leave to avoid traffic jams. This way they can focus their efforts on being productive, with a healthy state of mind. </p>
-                        <p>Since this change, the office has experienced an improvement in productivity, not only when employees come to and leave from work, but also when they are at the office as well. </p>
-                        <p>If the fixed hours an employee spends at the office becomes the basis of an employee’s performance, this lacks accuracy. For example, sometimes, there are no tasks, and there are days where employees are unable to concentrate to their fullest due to health reasons. If someone is in this position and they are stuck in the office until 5pm, the effect on the employee can worsen the pain or negatively affect their performance, making them only focus on their remaining hours.</p>
-                        <p>In addition, some common difficulties that often occur in Indonesia include employees taking long break periods to worship, and frequent departures from the office to smoke. However, by implementing Dokodemo-Kerja, employees become more aware of their level of productivity, as continuing to rest for unacceptable periods of time will result in them being unable to fulfill the standard 40 hours a week that is required of them. </p>
-                        <p>Upon experiencing health problems where the employee is unable to perform to their potential, they will be given the advantage of deciding for themselves what hours would be best to work, without having to report to HR. This, in my opinion, educates them by improving the confidence needed to work as a professional. Also, since the number of HR staff has increased, LOGIQUE already has a consultation system in place regarding individual employee work routines. </p>
-                        <p>Through this method, employees are granted the freedom to work as professionals, with balance in their personal and working lives. LOGIQUE itself is also experiencing an increase in productivity. In terms of HR and recruitment, we have received positive results, so that the entire process becomes a ‘Win-Win’ situation. </p>
-                        <p>Based on LOGIQUE’s own success with implementing this system, we would like to share our success with many other Indonesian companies, and help revitalize their organizations. Therefore, we had decided to sell Dokodemo-Kerja as a product by the end of 2018.</p>
-                        <p>As of 2020, we are still receiving feedback about Dokodemo-Kerja from a variety of users, while continuing to improve upon the software. We are also continuing to update proper working guidelines in order to create a more efficient style of work that will benefit both the employee and employer alike.</p>
-                        <p>In the next edition, we will introduce other companies that are also using Dokodemo-Kerja.</p>
-                    </div>
-
+            <h1 class="text-center mb-5">Dokodemo-Kerja Story 3: Accounting Consulting Firm</h1>
+            <div class="case-study__story">
+                <div>
+                    <blockquote class="blockquote text-center mb-5">
+                        <p class="mb-0">“Our work force has been optimized thanks to Dokodemo-Kerja.”</p>
+                        <div class="blockquote-footer"><cite title="Source Title">Operation Director</cite></div>
+                    </blockquote>
+                    <ul class="list-unstyled story__q-a">
+                        <li>
+                            <p><b>Q: </b>Why did you want to implement Dokodemo-Kerja?</p>
+                            <p><b>A: </b>We provide accounting consultation services for our client companies. At present, we have more than 100 clients. Due to the nature of our industry, payment at the beginning and end of the month is peak business season, as well as the THR at the beginning of the year and not April (when determining the annual tax amount). However, during other months, or in the middle of the month, there isn't much work to be done. <br>
+                            But, because it is still necessary to secure recourses during the busiest times, there is always a surplus of employees during the middle of the month (when the workload is low). So, at the beginning and end of the month many employees have to work overtime, meaning that an increase in overtime work payments is certain. <br>
+                            In this type of business, it is difficult to adjust the number of employees according to busy work periods, so I wondered if there was anything I could do to balance the amount of work with the inevitable overtime. Then, I heard about LOGIQUE’s company introducing a more efficient way of increasing productivity precisely to a "40 hours a week" system. <br>
+                            We, like LOGIQUE, thought that we could effectively control shifts at peak work times by applying more flexible working rules. Firstly, working periods were changed so that the core time was set to 6 hours, with the remaining 2 hours allocated during the busier seasons. <br>
+                            Even now, I am regularly optimizing the existing work rules. Indeed, "Dokodemo-Kerja" has become an indispensable tool for optimizing business hours.
+                            </p>
+                        </li>
+                        <li>
+                            <p><b>Q: </b>What was the reaction from the employees?</p>
+                            <p><b>A: </b>Some employees respond negatively because they feel that their overtime wages would decrease. But on the one hand, they also don't need to waste time in the office when there was no work to be done, and also, they could spend time with family, friends, or on their hobbies more often. They also understood that there were advantages, such as being able to better organize their monthly schedules. Employee satisfaction increased over time, as employees became more aware of the benefits of a system where they could work according to their individual lifestyles and styles of work. Now our employees are more motivated than before, perhaps because the benefits offered by this new system had spread by word of mouth. Nevertheless, we have accepted more job applications from other companies within our industry. 
+                            </p>
+                        </li>
+                        <li>
+                            <p><b>Q: </b>What points should be considered when implementing new regulations for this system?</p>
+                            <p><b>A: </b>Becoming accustomed to new rules and systems every employee needs a different time, <br>
+                            Every employee is different when adapting to new company rules and systems. Therefore, it is important to carefully convey or repeat any explanations to employees who are not as quick in understanding these new rules, or have any difficulties in changing their methods of work.  <br>
+                            Indeed, there might be negative responses at first, such as "I don't want to use it" or it is "too difficult" to apply the necessary changes, but eventually adapting to the new rules becomes a habit, and over time the negative attitudes disappears on its own. Overall, I think that in handling the first set of obstacles, we must remain very firm. <br>
+                            Importantly, I think it is crucial not to implement the changes all at once, but to apply any changes through various stages, giving each and every employee the time to gradually adapt to the system. This is to let people understand that implementing it is not a direct imposition by management or HR, but rather an overall optimization strategy done while communication with the entire organization. Seeing the results obtained over time while implementing these changes, you will eventually receive positive and productive feedback from your employees. In our company, I have repeatedly explained the importance of using Dokodemo-Kerja, in order to analyze the basis needed to implement the system. 
+                            </p>
+                        </li>
+                        <li>
+                            <p><b>Q: </b>It’s been about a year since you’ve introduced the new system. Have there been any changes between the time immediately after its introduction and now? </p>
+                            <p><b>A: </b>It has been a year since the change was introduced and the positive effects been continuous. I have continued to monitor employee reactions and adjust existing rules accordingly, so I think it has remained effective even after one year. The number of employees indeed does change, but because there isn’t a big difference in how the application is used, it can still be utilized by new employees effectively and flexibly. Indeed, I don't use "Dokodemo-Kerja" for sales staff who spend most of their time away from the computer, but since a mobile app version was just released, I would like to try it in the near future. 
+                            </p>
+                        </li>
+                        <li>
+                            <p><b>Q: </b>I see. So far, most employees who use Dokodemo-Kerja are involved in accounting consultation work, right?</p>
+                            <p><b>A: </b>Yes, it is used by around 60 consultants and administrative staff. Three people from the HR department are also suing the software as admins. Regarding the HR department, we have decided each person to be in charge, and through Dokodemo-Kerja, they have observed and evaluated the productivity of each employee. 
+                            </p>
+                        </li>
+                        <li>
+                            <p><b>Q: </b>What is the feedback from the HR department?</p>
+                            <p><b>A: </b>There was a negative reaction at first, but after getting used to it, it has now become a positive and supportive addition. Initially, they were hesitant to use it, because they already had a lot of work to do; having to check everyone’s Dokodemo-Kerja seemed like a large addition to their workload. However, after using it, HR work where they have to match work time and evidence is reduced therefore they are aware of and become positive about this change.
+                            <br>
+                            However, after introducing it, the opinion in HR changed, as their existing work which invoved counting work hours and matching it with evidence was helped by the application. Therefore, they developed a positive mindset about this change. Because “Dokodemo-Kerja” acts as a deterrent for prolonged rest period or doing things unrelated to work, the number of these issues decreased. We are also able to carry out work that is highly efficient, and as a result, I think the organizational skills of the HR department have improved, overall. <br>
+                            </p>
+                        </li>
+                        <li>Thank you for your valuable feedback.</li>
+                    </ul>
                 </div>
             </div>
         </div>

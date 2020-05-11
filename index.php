@@ -379,10 +379,10 @@
                 <div class="col-md-12">
                     <div class="row">
                         <div class="col-md-4">
-                            <a href="/case-study/case-1.php" class="case-study__card-wrapper">
+                            <a href="/case-study/case-1" class="case-study__card-wrapper">
                                 <div class="case-study__card">
                                     <img class="card__img" src="/img/home/case-study-1.png" alt="" >
-                                    <h4 class="card__title">Why we develop Dokodemo-Kerja</h4>
+                                    <h4 class="card__title">Dokodemo Kerja Story 1</h4>
                                     <p class="card__news">
                                         PT. LOGIQUE Digital Indonesia <br>
                                         President Director <br>
@@ -392,14 +392,12 @@
                             </a>
                         </div>
                         <div class="col-md-4">
-                            <a href="#" class="case-study__card-wrapper">
+                            <a href="/case-study/case-2" class="case-study__card-wrapper">
                                 <div class="case-study__card">
                                     <img class="card__img" src="/img/home/case-study-2.png" alt="" >
-                                    <h4 class="card__title">Why we develop Dokodemo-Kerja</h4>
+                                    <h4 class="card__title">Dokodemo Kerja Story 2</h4>
                                     <p class="card__news">
-                                        PT. LOGIQUE Digital Indonesia <br>
-                                        President Director <br>
-                                        Takashi Yoshitsugu
+                                        PT. BO System Development
                                     </p>
                                 </div>
                             </a>
@@ -408,11 +406,9 @@
                             <a href="#" class="case-study__card-wrapper">
                                 <div class="case-study__card">
                                     <img class="card__img" src="/img/home/case-study-1.png" alt="" >
-                                    <h4 class="card__title">Why we develop Dokodemo-Kerja</h4>
+                                    <h4 class="card__title">Dokodemo Kerja Story 3</h4>
                                     <p class="card__news">
-                                        PT. LOGIQUE Digital Indonesia <br>
-                                        President Director <br>
-                                        Takashi Yoshitsugu
+                                        Accounting Consulting Firm
                                     </p>
                                 </div>
                             </a>
