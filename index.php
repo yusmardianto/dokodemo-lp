@@ -405,7 +405,7 @@
                         <div class="col-md-4">
                             <a href="/case-study/case-3" class="case-study__card-wrapper">
                                 <div class="case-study__card">
-                                    <img class="card__img" src="/img/home/case-study-1.png" alt="" >
+                                    <img class="card__img" src="/img/home/case-study-3.png" alt="" >
                                     <h4 class="card__title">Dokodemo-Kerja Story 3</h4>
                                     <p class="card__news">
                                         Accounting Consulting Firm
