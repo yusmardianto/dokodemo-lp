@@ -52,7 +52,7 @@
         </div>
         <div class="row mt-3">
             <div class="offset-md-4 col-md-4 text-center">
-                <a href="/case-study.php" class="btn-see-more">See More</a>
+                <a href="/ind/case-study.php" class="btn-see-more">See More</a>
             </div>
         </div>
     </div>
