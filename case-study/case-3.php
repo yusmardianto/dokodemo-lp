@@ -9,7 +9,7 @@
     <meta name="keywords" content="dokodemo, dokodemo-kerja, dokodemo kerja, screen monitoring, sceen monitor, monitor employee, employee monitoring, time tracker, clock in, clock in software, attendance software, attendance tool, work hour calculator,  manage employees, tool for managers, tool for hr, notification manager, productivity tool, productivity enhancer">
     <meta name="author" content="PT. LOGIQUE Digital Indonesia">
 	<meta name="google-site-verification" content="Xc9SFJQZdKYLsrWvrxEjLLTA-nyrnNPQTXQoMxs4gKI" />
-    <meta property="og:title" content="Feature of Dokodemo-Kerja | Working Hours Tracking Tool">
+    <meta property="og:title" content="Case Study of Dokodemo-Kerja | Working Hours Tracking Tool">
     <meta property="og:type" content="website">
     <meta property="og:site_name" content="Dokodemo-Kerja">
     <meta property="og:url" content="https://dokodemo-kerja.com">
@@ -20,11 +20,11 @@
     <link rel="stylesheet" href="/css/slick.css" />
     <link rel="stylesheet" href="/css/slick-theme.css" />
     <link rel="stylesheet" href="/css/header-footer.css" />
-    <link rel="stylesheet" href="/css/style-features.css" />
+    <link rel="stylesheet" href="/css/style-case-study.css" />
     <link rel="stylesheet" href="/js/magnific-popup.css" />
 
-	<link rel="shortcut icon" type="image/x-icon" href="favicon.ico">
-    <title>Feature of Dokodemo-Kerja | Working Hours Tracking Tool</title>
+	<link rel="shortcut icon" type="image/x-icon" href="/favicon.ico">
+    <title>Case Study of Dokodemo-Kerja | Working Hours Tracking Tool</title>
 	<!-- Google Tag Manager -->
 	<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
 	new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
@@ -58,63 +58,77 @@
 	  gtag('config', 'UA-146404615-1');
 	</script>
 </head>
-<?php $page = 'features.php'; ?>
+<?php $page = 'case-study/case-3.php'; ?>
 <body>
 <!-- Google Tag Manager (noscript) -->
 <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-WT4MCDL"
 height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 <!-- End Google Tag Manager (noscript) -->
-    <?php include "header.php" ?>
-    <section class="features-section">
+    <?php include "../header.php" ?>
+    <section>
+        <div class="container pl-lg-0">
+            <nav aria-label="breadcrumb">
+                <ol class="breadcrumb">
+                    <li class="breadcrumb-item"><a href="/">Dokodemo-Kerja Home</a></li>
+                    <li class="breadcrumb-item"><a href="/case-study/">Case Study</a></li>
+                    <li class="breadcrumb-item active" aria-current="page">Case 3</li>
+                </ol>
+            </nav>
+        </div>
+    </section>
+    <section class="mb-5">
         <div class="container">
-            <div class="row">
-                <div class="col-md-10 offset-md-1 features-resp-config">
-                    <h1 class="fw-semibold fs-23 text-center mb-4">FEATURES</h1>
-                    <p class="fw-semibold text-center">Dokodemo-Kerja is a time-management oriented solution for both employers and employees alike. Through its efficient monitoring and management capabilities, Dokodemo-Kerja can further help companies improve their levels of productivity, while at the same time provide flexible working hours for employees.</p>
-                    <div class="row">
-                        <div class="col-lg-6 features-item">
-                            <span class="features-number">01</span>
-                            <h2 class="features-title">Track Working Hours and Monitor Tasks</h2>
-                            <p class="features-desc">Dokodemo-Kerja takes low-resolution screenshots of your employee's desktop or laptop activities during random intervals when the application is switched on and sends the images to the management team.</p>
-                        </div>
-                        <div class="col-lg-6 features-item">
-                             <img src="/img/features/home_01-com.jpg" class="img-slide-screenshot modal-hover-opacity" alt="" />    
-                        </div>
-                    </div>
-                    <div class="row">
-                        <div class="col-lg-6 features-item">
-                            <span class="features-number">02</span>
-                            <h2 class="features-title">Accurate Time Reports</h2>
-                            <p class="features-desc">Dokodemo-Kerja accurately calculates and compiles employee work data and then displays it in an easy-to-read-format in just 1 simple click. This can greatly assist HR improve the overall accuracy of performance evaluation tasks.</p>
-                        </div>
-                        <div class="col-lg-6 features-item">
-                            <img src="/img/features/home_02-com.jpg" class="img-slide-screenshot modal-hover-opacity" alt="" />   
-                        </div>
-                    </div>
-                    <div class="row">
-                        <div class="col-lg-6 features-item">
-                            <span class="features-number">03</span>
-                            <h2 class="features-title">Manage Employees Man-Hours</h2>
-                            <p class="features-desc">Track the total man-hours spent by each employee on each individual task, so your company can easily predict and arrange target deadlines according to your employee's capabilities.</p>
-                        </div>
-                        <div class="col-lg-6 features-item">
-                            <img src="/img/features/home_03-com.jpg" class="img-slide-screenshot modal-hover-opacity" alt="" />    
-                        </div>
-                    </div>
-                    <div class="row">
-                        <div class="col-lg-6 features-item">
-                            <span class="features-number">04</span>
-                            <h2 class="features-title">Manage Off-Site Meetings</h2>
-                            <p class="features-desc">Dokodemo-Kerja’s Mobile Application utilizes GPS tracking, thereby allowing HR to easily track the location of each employee in real time during onsite events such as meetings or client visits.</p>
-                        </div>
-                        <div class="col-lg-6 features-item">
-                            <img src="/img/features/home_05-com.jpg" class="img-slide-screenshot modal-hover-opacity" alt="" />    
-                        </div>
-                    </div>
+            <h1 class="text-center mb-5">Dokodemo-Kerja Story 3: Accounting Consulting Firm</h1>
+            <div class="case-study__story">
+                <div>
+                    <blockquote class="blockquote text-center mb-5">
+                        <p class="mb-0">Our work force has been optimized thanks to Dokodemo-Kerja.”</p>
+                        <div class="blockquote-footer"><cite title="Source Title">Operation Director</cite></div>
+                    </blockquote>
+                    <ul class="list-unstyled story__q-a">
+                        <li>
+                            <p><b>Q: </b>Why did you want to implement Dokodemo-Kerja?</p>
+                            <p><b>A: </b>We provide accounting and consultation services for our client companies. Presently, we have more than 100 clients and due to the nature of our industry, salary payments at the beginning and end of the month, THR, at the beginning of the year and April (when determining the annual tax amount) are our peak business seasons. However, during other months or in the middle of the month, there isn't much work to be done. <br>
+                            But, because it is still necessary to secure resources for the busiest times, there is always a surplus of employees during the middle of the month or when workloads are low. Even then, during the beginning and end of the month many employees still have to work overtime, meaning that an increase in overtime work payments cannot be avoided. <br>
+                            In this type of business, it is difficult to adjust the number of employees according to busy work periods, so I thought about ways to balance the amount of work with the inevitable overtime. It was then that I heard about LOGIQUE’s company using a more efficient way of increasing productivity with a "40 hours a week" system. <br>
+                            We, like LOGIQUE, thought that we could effectively control shifts during peak work times by applying more flexible working guidelines. First, working periods were changed so that the core time was set to 6 hours, with the remaining 2 hours allocated during the busier seasons. <br>
+                            Even now, I regularly optimize our existing work regulations. ”Dokodemo-Kerja" has become an indispensable tool for optimizing our new work hours.
+                            </p>
+                        </li>
+                        <li>
+                            <p><b>Q: </b>What was the reaction from the employees?</p>
+                            <p><b>A: </b>Some employees responded negatively because they felt that their overtime wages would decrease. But, on the one hand, they also realized that they didn’t need to waste their time in the office when there was no work, and could spend more time with family, friends, or on their hobbies more often. They also understood that there were other advantages, such as being able to better organize their monthly schedules. Employee satisfaction increased over time, as employees became more aware of the benefits of the new system where they could work according to their individual lifestyles and workstyles. Now, our employees are more motivated than ever, and on a side note, probably because of the benefits offered by this new system had spread by word of mouth our company saw an increase in job applications from similar industries. It improved the level of synergy within our company. 
+                            </p>
+                        </li>
+                        <li>
+                            <p><b>Q: </b>What points should be considered when implementing new regulations for this system?</p>
+                            <p><b>A: </b>Every employee is different when adapting to new company rules and working systems. Therefore, it is important to carefully convey or repeat any explanations to employees who are not as quick in understanding these new rules, or have any difficulties in changing their methods of work. <br>
+                            There might be some negative responses at first, such as "I don't want to use it" or it is "too difficult" to apply the necessary changes, but eventually adapting to the new rules will become a habit, and over time any negative attitudes will disappear on their own. Overall, I think that in handling the first set of obstacles, we must remain very firm. <br>
+                            Importantly, I think it is crucial not to implement the changes all at once, but to apply them through various stages, giving each and every employee the time to gradually adapt to the new system. This is to let people understand that implementing it is not a direct imposition by management or HR, but rather an overall optimization strategy done while communicating with the entire organization. Seeing the results obtained over time while implementing these changes, you will eventually receive positive and productive feedback from your employees. In our company, I have repeatedly explained the importance of using Dokodemo-Kerja, in order to analyze the basis needed to implement the system.
+                            </p>
+                        </li>
+                        <li>
+                            <p><b>Q: </b>It’s been about a year since you’ve introduced the new system. Have there been any changes between the time immediately after its introduction and now? </p>
+                            <p><b>A: </b>It has been a year since the change was introduced and the positive effects been continuous. I have continued to monitor employee reactions and adjust existing rules accordingly, so even after one year I think it has remained effective. The number of employees continues to fluctuate, but because there isn’t a big difference in how the application is used, it can still be utilized by new employees effectively and flexibly. By the way, "Dokodemo-Kerja" is not used for sales staff who spend most of their time away from the computer, but since a mobile app version was just released recently, I would like to try it in the near future. 
+                            </p>
+                        </li>
+                        <li>
+                            <p><b>Q: </b>I see. So far, most employees who use Dokodemo-Kerja are involved in accounting consultation work, right?</p>
+                            <p><b>A: </b>Yes, it is used by around 60 consultants and administrative staffs. Three people from the HR department are also using the software as admins. Regarding the HR department, we have decided each person to be in charge, and through Dokodemo-Kerja, they observe and evaluate the productivity of each employee.
+                            </p>
+                        </li>
+                        <li>
+                            <p><b>Q: </b>What is the feedback from the HR department?</p>
+                            <p><b>A: </b>There was a negative reaction at first, but after getting used to it, it has now become a positive and supportive addition to their jobs. Initially, they were hesitant to use it because they already had a lot of work to do, and having to check everyone’s Dokodemo-Kerja seemed like a large addition to their workload. However, after introducing it, the opinion in HR has changed, as their existing work which involves counting work hours and matching it with evidence was helped by the application. Therefore, they developed a positive mindset about this change. Because “Dokodemo-Kerja” also acted as a deterrent for prolonged rest periods or doing things unrelated to work, the number of these issues has decreased. We are also able to carry out work that is highly efficient, and as a result, I think the overall organizational skills of the HR department have improved. 
+                            </p>
+                        </li>
+                        <li>Thank you for your valuable feedback.</li>
+                    </ul>
                 </div>
             </div>
         </div>
     </section>
+    <?php include "other-case.php" ?>
     <section class="hide-button-on-mobile">
         <span id="popup-text">
             <div class="speech-bubble">
@@ -175,78 +189,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
         </span>    
     </section>
     <!-- end of req online meeting popup -->
-    <section>
-        <div class="container mt-5 mb-3">
-            <div class="row mt-5">
-                <div class="col-md-12 text-center font-weight-bold">
-                    <h1 class="tutorial-title">Easy Application</h1>
-                </div>
-            </div>
-        </div>
-    </section>
-    <section class="user-role">
-        <div class="container-fluid">
-            <div class="row employee-role">
-                <div class="col-md-6 program-sample">
-                    <img src="/img/features/doko.png" class="img-fluid img-doko" alt="" />
-                </div>
-                <div class="col-md-6 employee-feature-list pt-sm-4">
-                    <h3><strong>FOR EMPLOYEE:</strong></h3>
-                    <p>Employee just need to "<strong>Start</strong>" or "<strong>Stop</strong>" the application.</p>
-                    <ul>
-                        <li>Users will be able to work anywhere, at any time.</li>
-                        <li>When taking breaks, users will have to press the “Stop” button, so as to accurately calculate working hours.</li>
-                        <li>User can now more efficiently manage their responsibilities according to their task.</li>
-                    </ul>
-                </div>
-            </div>
-        </div>
-        <div class="container">
-            <div class="manager-role">
-                <h3 class="text-center"><strong>FOR MANAGERS AND HR:</strong></h3>
-                <p class="text-center">
-                    <strong>Easily track everyone's</strong> working hours and their <strong>activities</strong>
-                    <br>
-                    Below are some of the example policies for implementing Dokodemo-Kerja
-                </p>
-                <div class="row" style="width: 100%">
-                    <div class="col-md-6">
-                        <ul class="manager-activity-list">
-                            <li>HR can assign one staff member the task of monitoring all Dokodemo-Kerja related activities</li>
-                            <li>The assigned staff can manage employee work time frames and comments</li>
-                        </ul>
-                    </div>
-                    <div class="col-md-6">
-                        <ul class="manager-activity-list">
-                            <li>If an employee screenshot shows three of the same images consecutively, HR can then take further action, facilitated by evidence</li>
-                        </ul>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </section>
-    <section class="guides py-2 mt-3 mb-5">
-        <div class="container">
-            <div class="row">
-                <div class="col-md-4 offset-md-2 col-10 offset-1 py-2">
-                    <a href="https://dokodemo-kerja.com/pdf/manual-guide-ENG.pdf" class="dl-guide" aria-label="manual guide">
-                        <img src="/img/manual.png" class="img-fluid mx-auto d-block" id="features-manual-guide" alt="" />
-                    </a>
-                </div>
-                <div class="col-md-4 col-10 offset-md-0 offset-1 py-2">
-                    <a href="https://dokodemo-kerja.com/pdf/install-guide-ENG.pdf" class="dl-guide" aria-label="dl-guide">
-                        <img src="/img/install.png" class="img-fluid mx-auto d-block" id="features-install-guide" alt="" />
-                    </a>
-                </div>
-            </div>
-            <div class="row mt-3">
-                <div class="col-md-12 text-center">
-                    <button class="btn btn-primary" data-toggle="collapse" href="#collapseExample">Setup Online Meeting</button>
-                </div>
-            </div>
-        </div>
-    </section>
-    <?php include "footer.php" ?>
+    <?php include "../footer.php" ?>
     <script src="/js/jquery-3.4.1.min.js"></script>
     <script src="/js/bootstrap.min.js"></script>
     <script src="/js/slick.min.js"></script>

@@ -1,9 +1,20 @@
 <?php 
+    function active_case() {
+        $url_array =  explode('/', $_SERVER['REQUEST_URI']);
+        $url = end($url_array);
+        $url_previous = prev($url_array);
+        if ($url_previous == 'case-study' && $url == '' || $url == 'case-1' || $url == 'case-2' || $url == 'case-3') {
+            echo 'active';
+        }
+    } 
     function active($current_page){
         $url_array =  explode('/', $_SERVER['REQUEST_URI']) ;
         $url = end($url_array);  
-        if($current_page == $url){
+        $url_previous = prev($url_array);  
+        if($url_previous !== 'case-study' && $current_page == $url){
             echo 'active'; 
+        } else {
+            echo 'Not Found';
         }
     } 
 ?>
@@ -21,24 +32,27 @@
                 <li class="nav-item <?php active('') ?>">
                     <a class="nav-link" href="/ind/">Home</a>
                 </li>
-                <li class="nav-item <?php active('about.php') ?>">
-                    <a class="nav-link" href="/ind/about.php">About</a>
+                <li class="nav-item <?php active('about') ?>">
+                    <a class="nav-link" href="/ind/about">About</a>
                 </li>
-                <li class="nav-item <?php active('features.php') ?>">
-                    <a class="nav-link" href="/ind/features.php">Feature Tour</a>
+                <li class="nav-item <?php active('features') ?>">
+                    <a class="nav-link" href="/ind/features">Feature Tour</a>
                 </li>
-                <li class="nav-item <?php active('pricing.php') ?>">
-                    <a class="nav-link" href="/ind/pricing.php">Harga</a>
+                <li class="nav-item <?php active_case() ?>">
+                    <a class="nav-link" href="/ind/case-study">Studi Kasus</a>
                 </li>
-                <li class="nav-item <?php active('trial.php') ?>">
-                    <a class="nav-link" href="/ind/trial.php">Trial</a>
+                <li class="nav-item <?php active('pricing') ?>">
+                    <a class="nav-link" href="/ind/pricing">Harga</a>
+                </li>
+                <li class="nav-item <?php active('trial') ?>">
+                    <a class="nav-link" href="/ind/trial">Trial</a>
                 </li>
                 <li class="nav-item">
                     <a class="nav-link" target="_blank" rel="noopener noreferrer"
                         href="https://www.logique.co.id/blog/category/dokodemo-kerja/">Blog</a>
                 </li>
-                <li class="nav-item <?php active('contact-us.php') ?>">
-                    <a class="nav-link" href="/ind/contact-us.php">Hubungi Kami</a>
+                <li class="nav-item <?php active('contact-us') ?>">
+                    <a class="nav-link" href="/ind/contact-us">Hubungi Kami</a>
                 </li>
 
                 <li class="nav-item flex-column">

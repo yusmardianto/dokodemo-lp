@@ -1,30 +1,30 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="id">
 
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=5.0" />
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
-	<meta name="description" itemprop="description" content="Dokodemo-Kerja is a system that enables time tracking feature, accurate time reports, man hour management, easy navigation, and flexible monitoring tools which benefits both employees and employers.">
-    <meta name="keywords" content="dokodemo, dokodemo-kerja, dokodemo kerja, screen monitoring, sceen monitor, monitor employee, employee monitoring, time tracker, clock in, clock in software, attendance software, attendance tool, work hour calculator,  manage employees, tool for managers, tool for hr, notification manager, productivity tool, productivity enhancer">
+	<meta name="description" itemprop="description" content="Dokodemo-Kerja adalah sistem yang memungkinkan fitur pelacakan waktu, laporan waktu yang akurat, manajemen jam kerja, navigasi yang mudah, dan alat pemantauan kinerja yang fleksibel yang menguntungkan baik karyawan maupun pengusaha.">
+    <meta name="keywords" content="dokodemo, dokodemo-kerja, dokodemo kerja, pemantauan layar, monitor sceen, monitor karyawan, pemantauan karyawan, pelacak waktu, jam dalam perangkat lunak, perangkat lunak absensi, alat absensi, kalkulator jam kerja, kelola karyawan, alat untuk manajer, alat untuk jam, manajer pemberitahuan, alat produktivitas, penambah produktivitas, pengelola kinerja, pengelolaan kinerja, monitor kinerja, software clock in, fitur absensi">
     <meta name="author" content="PT. LOGIQUE Digital Indonesia">
 	<meta name="google-site-verification" content="Xc9SFJQZdKYLsrWvrxEjLLTA-nyrnNPQTXQoMxs4gKI" />
-    <meta property="og:title" content="Feature of Dokodemo-Kerja | Working Hours Tracking Tool">
+    <meta property="og:title" content="Studi Kasus Dokodemo-Kerja | Alat Pemantau Waktu Kerja">
     <meta property="og:type" content="website">
     <meta property="og:site_name" content="Dokodemo-Kerja">
     <meta property="og:url" content="https://dokodemo-kerja.com">
     <meta property="og:image" content="/img/dokodemo-og.jpg">
-    <meta property="og:description" content="Dokodemo-Kerja is a system that enables time tracking feature, accurate time reports, man hour management, easy navigation, and flexible monitoring tools which benefits both employees and employers.">
+    <meta property="og:description" content="Dokodemo-Kerja adalah sistem yang memungkinkan fitur pelacakan waktu, laporan waktu yang akurat, manajemen jam kerja, navigasi yang mudah, dan alat pemantauan kinerja yang fleksibel yang menguntungkan baik karyawan maupun pengusaha.">
     <link rel="stylesheet" href="/css/bootstrap.min.css" />
     <link href="/fonts/font-awesome/css/font-awesome.min.css" rel="stylesheet">
     <link rel="stylesheet" href="/css/slick.css" />
     <link rel="stylesheet" href="/css/slick-theme.css" />
     <link rel="stylesheet" href="/css/header-footer.css" />
-    <link rel="stylesheet" href="/css/style-features.css" />
+    <link rel="stylesheet" href="/css/style-case-study.css" />
     <link rel="stylesheet" href="/js/magnific-popup.css" />
 
-	<link rel="shortcut icon" type="image/x-icon" href="favicon.ico">
-    <title>Feature of Dokodemo-Kerja | Working Hours Tracking Tool</title>
+	<link rel="shortcut icon" type="image/x-icon" href="/favicon.ico">
+    <title>Studi Kasus Dokodemo-Kerja | Alat Pemantau Waktu Kerja</title>
 	<!-- Google Tag Manager -->
 	<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
 	new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
@@ -58,59 +58,62 @@
 	  gtag('config', 'UA-146404615-1');
 	</script>
 </head>
-<?php $page = 'features.php'; ?>
+<?php $page = 'case-study/'; ?>
 <body>
 <!-- Google Tag Manager (noscript) -->
 <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-WT4MCDL"
 height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 <!-- End Google Tag Manager (noscript) -->
-    <?php include "header.php" ?>
-    <section class="features-section">
+    <?php include "../header.php" ?>
+    <section>
         <div class="container">
+            <nav aria-label="breadcrumb">
+                <ol class="breadcrumb">
+                    <li class="breadcrumb-item"><a href="/">Dokodemo-Kerja Home</a></li>
+                    <li class="breadcrumb-item active" aria-current="page">Studi Kasus</li>
+                </ol>
+            </nav>
+        </div>
+    </section>
+    <section class="mb-5">
+        <div class="container">
+            <h1 class="text-center mb-5">Studi Kasus: Bagaimana Anda Menggunakan Dokodemo-Kerja</h1>
             <div class="row">
-                <div class="col-md-10 offset-md-1 features-resp-config">
-                    <h1 class="fw-semibold fs-23 text-center mb-4">FEATURES</h1>
-                    <p class="fw-semibold text-center">Dokodemo-Kerja is a time-management oriented solution for both employers and employees alike. Through its efficient monitoring and management capabilities, Dokodemo-Kerja can further help companies improve their levels of productivity, while at the same time provide flexible working hours for employees.</p>
-                    <div class="row">
-                        <div class="col-lg-6 features-item">
-                            <span class="features-number">01</span>
-                            <h2 class="features-title">Track Working Hours and Monitor Tasks</h2>
-                            <p class="features-desc">Dokodemo-Kerja takes low-resolution screenshots of your employee's desktop or laptop activities during random intervals when the application is switched on and sends the images to the management team.</p>
+                <div class="col-md-4">
+                    <a href="/ind/case-study/case-1" class="case-study__card-wrapper">
+                        <div class="case-study__card">
+                            <img class="card__img" src="/img/case-study/case-1.png" alt="">
+                            <h2 class="card__headline">Cerita Dokodemo-Kerja 1</h2>
+                            <h4 class="card__title">PT. LOGIQUE Digital Indonesia</h4>
+                            <p class="card__text">
+                            Saya ingin memberikan beberapa contoh studi kasus untuk dijadikan sebagai latar belakang motivasi dan apa saja hasil yang didapatkan dari klien-klien kami setelah menggunakan Dokodemo-Kerja. Studi kasus yang pertama adalah dari perusahaan kami sendiri LOGIQUE dan bagaimana kami pada akhirnya mengembangkan tool ini.
+                            </p>
                         </div>
-                        <div class="col-lg-6 features-item">
-                             <img src="/img/features/home_01-com.jpg" class="img-slide-screenshot modal-hover-opacity" alt="" />    
+                    </a>
+                </div>
+                <div class="col-md-4">
+                    <a href="/ind/case-study/case-2" class="case-study__card-wrapper">
+                        <div class="case-study__card">
+                            <img class="card__img" src="/img/case-study/case-2.png" alt="">
+                            <h2 class="card__headline">Cerita Dokodemo-Kerja 2</h2>
+                            <h4 class="card__title">PT. BO System Development</h4>
+                            <p class="card__text">
+                            <b>Q: </b>Mengapa Anda berminat untuk menggunakan『Dokodemo-Kerja』? <b>A: </b>Perusahaan saya menyediakan berbagai layanan sistem penagihan perusahaan untuk berbagai macam perusahaan di Indonesia. Kami mempunyai kantor dengan atmosfer kerja multinasional, akan tetapi sejak jumlah karyawan melebihi 50 orang, kami merasa kesulitan untuk mengatur gaya atau cara kerja untuk masing-masing individu. 
+                            </p>
                         </div>
-                    </div>
-                    <div class="row">
-                        <div class="col-lg-6 features-item">
-                            <span class="features-number">02</span>
-                            <h2 class="features-title">Accurate Time Reports</h2>
-                            <p class="features-desc">Dokodemo-Kerja accurately calculates and compiles employee work data and then displays it in an easy-to-read-format in just 1 simple click. This can greatly assist HR improve the overall accuracy of performance evaluation tasks.</p>
+                    </a>
+                </div>
+                <div class="col-md-4">
+                    <a href="/ind/case-study/case-3" class="case-study__card-wrapper">
+                        <div class="case-study__card">
+                            <img class="card__img" src="/img/case-study/case-3.png" alt="">
+                            <h2 class="card__headline">Cerita Dokodemo-Kerja 3</h2>
+                            <h4 class="card__title">Accounting Consulting Firm</h4>
+                            <p class="card__text">
+                            <b>Q: </b>Mengapa anda ingin mengimplementasikan Dokodemo-Kerja? <b>A: </b>Kami mewakili dan menyediakan layanan konsultasi <i>Accounting</i> untuk perusahaan klien. Saat ini kami mempunyai lebih dari 100 klien, dan memang karena sudah disposisi dari servis kami, pada saat pembayaran di awal atau akhir bulan dan THR maupun di akhir tahun dan bukan April (saat penentuan jumlah pajak tahunan) merupakan peak season kesibukan.
+                            </p>
                         </div>
-                        <div class="col-lg-6 features-item">
-                            <img src="/img/features/home_02-com.jpg" class="img-slide-screenshot modal-hover-opacity" alt="" />   
-                        </div>
-                    </div>
-                    <div class="row">
-                        <div class="col-lg-6 features-item">
-                            <span class="features-number">03</span>
-                            <h2 class="features-title">Manage Employees Man-Hours</h2>
-                            <p class="features-desc">Track the total man-hours spent by each employee on each individual task, so your company can easily predict and arrange target deadlines according to your employee's capabilities.</p>
-                        </div>
-                        <div class="col-lg-6 features-item">
-                            <img src="/img/features/home_03-com.jpg" class="img-slide-screenshot modal-hover-opacity" alt="" />    
-                        </div>
-                    </div>
-                    <div class="row">
-                        <div class="col-lg-6 features-item">
-                            <span class="features-number">04</span>
-                            <h2 class="features-title">Manage Off-Site Meetings</h2>
-                            <p class="features-desc">Dokodemo-Kerja’s Mobile Application utilizes GPS tracking, thereby allowing HR to easily track the location of each employee in real time during onsite events such as meetings or client visits.</p>
-                        </div>
-                        <div class="col-lg-6 features-item">
-                            <img src="/img/features/home_05-com.jpg" class="img-slide-screenshot modal-hover-opacity" alt="" />    
-                        </div>
-                    </div>
+                    </a>
                 </div>
             </div>
         </div>
@@ -175,78 +178,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
         </span>    
     </section>
     <!-- end of req online meeting popup -->
-    <section>
-        <div class="container mt-5 mb-3">
-            <div class="row mt-5">
-                <div class="col-md-12 text-center font-weight-bold">
-                    <h1 class="tutorial-title">Easy Application</h1>
-                </div>
-            </div>
-        </div>
-    </section>
-    <section class="user-role">
-        <div class="container-fluid">
-            <div class="row employee-role">
-                <div class="col-md-6 program-sample">
-                    <img src="/img/features/doko.png" class="img-fluid img-doko" alt="" />
-                </div>
-                <div class="col-md-6 employee-feature-list pt-sm-4">
-                    <h3><strong>FOR EMPLOYEE:</strong></h3>
-                    <p>Employee just need to "<strong>Start</strong>" or "<strong>Stop</strong>" the application.</p>
-                    <ul>
-                        <li>Users will be able to work anywhere, at any time.</li>
-                        <li>When taking breaks, users will have to press the “Stop” button, so as to accurately calculate working hours.</li>
-                        <li>User can now more efficiently manage their responsibilities according to their task.</li>
-                    </ul>
-                </div>
-            </div>
-        </div>
-        <div class="container">
-            <div class="manager-role">
-                <h3 class="text-center"><strong>FOR MANAGERS AND HR:</strong></h3>
-                <p class="text-center">
-                    <strong>Easily track everyone's</strong> working hours and their <strong>activities</strong>
-                    <br>
-                    Below are some of the example policies for implementing Dokodemo-Kerja
-                </p>
-                <div class="row" style="width: 100%">
-                    <div class="col-md-6">
-                        <ul class="manager-activity-list">
-                            <li>HR can assign one staff member the task of monitoring all Dokodemo-Kerja related activities</li>
-                            <li>The assigned staff can manage employee work time frames and comments</li>
-                        </ul>
-                    </div>
-                    <div class="col-md-6">
-                        <ul class="manager-activity-list">
-                            <li>If an employee screenshot shows three of the same images consecutively, HR can then take further action, facilitated by evidence</li>
-                        </ul>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </section>
-    <section class="guides py-2 mt-3 mb-5">
-        <div class="container">
-            <div class="row">
-                <div class="col-md-4 offset-md-2 col-10 offset-1 py-2">
-                    <a href="https://dokodemo-kerja.com/pdf/manual-guide-ENG.pdf" class="dl-guide" aria-label="manual guide">
-                        <img src="/img/manual.png" class="img-fluid mx-auto d-block" id="features-manual-guide" alt="" />
-                    </a>
-                </div>
-                <div class="col-md-4 col-10 offset-md-0 offset-1 py-2">
-                    <a href="https://dokodemo-kerja.com/pdf/install-guide-ENG.pdf" class="dl-guide" aria-label="dl-guide">
-                        <img src="/img/install.png" class="img-fluid mx-auto d-block" id="features-install-guide" alt="" />
-                    </a>
-                </div>
-            </div>
-            <div class="row mt-3">
-                <div class="col-md-12 text-center">
-                    <button class="btn btn-primary" data-toggle="collapse" href="#collapseExample">Setup Online Meeting</button>
-                </div>
-            </div>
-        </div>
-    </section>
-    <?php include "footer.php" ?>
+    <?php include "../footer.php" ?>
     <script src="/js/jquery-3.4.1.min.js"></script>
     <script src="/js/bootstrap.min.js"></script>
     <script src="/js/slick.min.js"></script>

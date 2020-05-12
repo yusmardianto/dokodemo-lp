@@ -13,23 +13,24 @@
                 <div class="footer-menu">
                     <ul class="footer-menu-list first-list">
                         <li><a href="/">Home</a></li>
-                        <li><a href="about.php">About Us</a></li>
-                        <li><a href="features.php">Features</a></li>
-                        <li><a href="pricing.php">Pricing</a></li>
-                        <li><a href="trial.php">Trial</a></li>
+                        <li><a href="/about">About Us</a></li>
+                        <li><a href="/features">Features</a></li>
+                        <li><a href="/case-study">Case Study</a></li>
+                        <li><a href="/pricing">Pricing</a></li>
+                        <li><a href="/trial">Trial</a></li>
                         <li><a href="https://www.logique.co.id/blog/category/dokodemo-kerja/" target="_blank" rel="noopener noreferrer">Blog</a></li>
                     </ul>
                 </div>
             </div>
-            <div class="col-lg-3 col-md-3 col-sm-6 footer-menu-container-2">
+            <div class="col-lg-3 col-md-3 col-sm-6 footer-menu-container-2  align-self-start">
                 <div class="footer-menu">
                     <ul class="footer-menu-list second-list">
-                        <li><a href="contact-us.php">Contact Us</a></li>
-                        <li><a href="pricing.php#FAQ">FAQ</a></li>
-                        <li><a href="subscribe.php">Subscribing Procedure</a></li>
+                        <li><a href="/contact-us">Contact Us</a></li>
+                        <li><a href="/pricing#FAQ">FAQ</a></li>
+                        <li><a href="/subscribe">Subscribing Procedure</a></li>
                         <li><a data-toggle="collapse" href="#collapseExample">Setup Online Meeting</a></li>
-                        <li><a href="/terms.php">Terms and Condition</a></li>
-                        <li><a href="/privacy.php">Privacy Policy</a></li>
+                        <li><a href="/terms">Terms and Condition</a></li>
+                        <li><a href="/privacy">Privacy Policy</a></li>
                     </ul>
                 </div>
             </div>

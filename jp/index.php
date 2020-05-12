@@ -25,7 +25,7 @@
     <link rel="stylesheet" href="/css/header-footer.css" />
     <link rel="stylesheet" href="/css/style-home.css" />
     <link rel="stylesheet" href="/js/magnific-popup.css" />
-    <link href="fonts/font-awesome/css/font-awesome.min.css" rel="stylesheet">
+    <link href="/fonts/font-awesome/css/font-awesome.min.css" rel="stylesheet">
     <link rel="shortcut icon" type="image/x-icon" href="favicon.ico">
     <title>リモートワークを可能にする勤務時間管理クラウドツール | ドコデモクルジャ | LOGIQUE Digital Indonesia</title>
     <!-- Google Tag Manager -->

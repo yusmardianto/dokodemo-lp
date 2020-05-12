@@ -33,7 +33,7 @@
     <meta property="og:description" content="No more slacking off, use dokodemo kerja to weed out the lazy ones and keep your best employees. Reward the achievers and experience the improvement in productivity. Free 30 days trial and special price for enterprise scale.">
 
 	<link rel="stylesheet" href="/css/bootstrap.min.css" />
-  <link href="fonts/font-awesome/css/font-awesome.min.css" rel="stylesheet">
+  <link href="/fonts/font-awesome/css/font-awesome.min.css" rel="stylesheet">
 	<link rel="stylesheet" href="/css/header-footer.css" />
 	<link rel="stylesheet" href="/css/style.css" />
 	<link rel="stylesheet" href="/css/style-trial.css" />
@@ -84,7 +84,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 		<img src="/img/home/arrow-down.svg" class="pt-4 pb-3" width="20" alt=""/>
 		<a href="https://demo.dokodemo-kerja.com" class="btn btn-trial-contact bold uppercase" target="_blank" rel="noopener noreferrer" id="btn-demo">Admin Demo</a>
 		<a href="https://dokodemo-kerja.com/pdf/manual-guide-ENG.pdf" target="_blank" rel="noopener noreferrer">
-			<p class="trial-header-content">For staff demo, please follow the instruction bellow.</p>
+			<p class="trial-header-content">For staff demo, please follow the instruction below.</p>
 		</a>
 	</section>
 
