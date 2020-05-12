@@ -426,7 +426,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                         <div class="col-md-4">
                             <a href="/ind/case-study/case-1" class="case-study__card-wrapper">
                                 <div class="case-study__card">
-                                    <img class="card__img" src="/img/home/case-study-1.png" alt="" >
+                                    <img class="card__img" src="/img/case-study/case-1.png" alt="" >
                                     <h4 class="card__title">Cerita Dokodemo-Kerja 1</h4>
                                     <p class="card__news">
                                         PT. LOGIQUE Digital Indonesia <br>
@@ -439,7 +439,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                         <div class="col-md-4">
                             <a href="/ind/case-study/case-2" class="case-study__card-wrapper">
                                 <div class="case-study__card">
-                                    <img class="card__img" src="/img/home/case-study-2.png" alt="" >
+                                    <img class="card__img" src="/img/case-study/case-2.png" alt="" >
                                     <h4 class="card__title">Cerita Dokodemo-Kerja 2</h4>
                                     <p class="card__news">
                                         PT. BO System Development
@@ -450,7 +450,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                         <div class="col-md-4">
                             <a href="/ind/case-study/case-3" class="case-study__card-wrapper">
                                 <div class="case-study__card">
-                                    <img class="card__img" src="/img/home/case-study-3.png" alt="" >
+                                    <img class="card__img" src="/img/case-study/case-3.png" alt="" >
                                     <h4 class="card__title">Cerita Dokodemo-Kerja 3</h4>
                                     <p class="card__news">
                                         Accounting Consulting Firm
