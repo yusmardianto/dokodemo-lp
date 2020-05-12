@@ -61,7 +61,7 @@ body {
 }
 
 .case-study__card .card__headline {
-    font-size: 30px;
+    font-size: 28px;
     font-weight: bold;
     margin-bottom: 20px;
 }
@@ -101,6 +101,9 @@ body {
 }
 .case-study__story .story__q-a > li {
     margin-bottom: 25px;
+}
+.case-study__story .story__q-a > li > p:first-child {
+    font-weight: bold;
 }
 .case-study__story .story__q-a p {
     margin-bottom: 0;
