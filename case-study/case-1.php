@@ -9,7 +9,7 @@
     <meta name="keywords" content="dokodemo, dokodemo-kerja, dokodemo kerja, screen monitoring, sceen monitor, monitor employee, employee monitoring, time tracker, clock in, clock in software, attendance software, attendance tool, work hour calculator,  manage employees, tool for managers, tool for hr, notification manager, productivity tool, productivity enhancer">
     <meta name="author" content="PT. LOGIQUE Digital Indonesia">
 	<meta name="google-site-verification" content="Xc9SFJQZdKYLsrWvrxEjLLTA-nyrnNPQTXQoMxs4gKI" />
-    <meta property="og:title" content="Feature of Dokodemo-Kerja | Working Hours Tracking Tool">
+    <meta property="og:title" content="Case Study of Dokodemo-Kerja | Working Hours Tracking Tool">
     <meta property="og:type" content="website">
     <meta property="og:site_name" content="Dokodemo-Kerja">
     <meta property="og:url" content="https://dokodemo-kerja.com">
@@ -24,7 +24,7 @@
     <link rel="stylesheet" href="/js/magnific-popup.css" />
 
 	<link rel="shortcut icon" type="image/x-icon" href="/favicon.ico">
-    <title>Feature of Dokodemo-Kerja | Working Hours Tracking Tool</title>
+    <title>Case Study of Dokodemo-Kerja | Working Hours Tracking Tool</title>
 	<!-- Google Tag Manager -->
 	<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
 	new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
@@ -58,7 +58,7 @@
 	  gtag('config', 'UA-146404615-1');
 	</script>
 </head>
-<?php $page = 'features.php'; ?>
+<?php $page = 'case-study/case-1.php'; ?>
 <body>
 <!-- Google Tag Manager (noscript) -->
 <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-WT4MCDL"
@@ -97,7 +97,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                     </div>
                     <div class="row">
                         <div class="col-lg-6">
-                            <p><u>Therefore, in response to such issues, we had developed Nippo.</u> </p>
+                            <p><a href="https://www.logique.co.id/en/product/nippo.php" target="_blank">Therefore, in response to such issues, we had developed Nippo</a>.</p>
                             <p>The word ‘Nippo’ is a Japanese word, meaning ‘daily report’. In this sense, Nippo is an online daily report system which allows all employees to summarize their tasks conducted that day. They can give details about how much time was spent for each task. The report is then uploaded online so that it can be seen by other staffs and can be rated by their supervisors.</p>
                             <p>Nippo slightly improved the function of our remote working strategy. However, there were still some problems, specifically, when a task has been attempted but is not done correctly, or takes longer than expected; for example, when a task that takes 3 hours to complete is recorded as taking 8 hours on Nippo. This problem could be due to many reasons: lack of concentration, or due to situations which could not be avoided. I realized that there are many uniquely difficult cases.   </p>
                             <p class="mb-0">Therefore, in November 2017 we developed Dokodemo-Kerja. With this tool, clear visualization of how an employee is working is possible through the use of screenshots. Dokodemo-Kerja allows staffs the opportunity to present proof that an employee really is or isn’t focused on their job. Indeed, when they aren’t, clear evidence can be shown from the management side when it becomes necessary to give a warning to an employee. </p>
