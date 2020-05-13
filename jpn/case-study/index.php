@@ -83,7 +83,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
             <h1 class="text-center mb-5">Case Study: How You Utilize Dokodemo-Kerja</h1>
             <div class="row">
                 <div class="col-md-4">
-                    <a href="/case-study/case-1" class="case-study__card-wrapper">
+                    <a href="/jpn/case-study/case-1" class="case-study__card-wrapper">
                         <div class="case-study__card">
                             <img class="card__img" src="/img/case-study/case-1.png" alt="">
                             <h2 class="card__headline">「Dokodemo-Kerja」活用ストーリー1</h2>
@@ -95,7 +95,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                     </a>
                 </div>
                 <div class="col-md-4">
-                    <a href="/case-study/case-2" class="case-study__card-wrapper">
+                    <a href="/jpn/case-study/case-2" class="case-study__card-wrapper">
                         <div class="case-study__card">
                             <img class="card__img" src="/img/case-study/case-2.png" alt="">
                             <h2 class="card__headline">「Dokodemo-Kerja」活用ストーリー2</h2>
@@ -107,7 +107,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                     </a>
                 </div>
                 <div class="col-md-4">
-                    <a href="/case-study/case-3" class="case-study__card-wrapper">
+                    <a href="/jpn/case-study/case-3" class="case-study__card-wrapper">
                         <div class="case-study__card">
                             <img class="card__img" src="/img/case-study/case-3.png" alt="">
                             <h2 class="card__headline">「Dokodemo-Kerja」活用ストーリー3</h2>
