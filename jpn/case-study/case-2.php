@@ -1,20 +1,23 @@
 <!DOCTYPE html>
-<html lang="id">
+<html lang="ja">
 
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=5.0" />
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
-	<meta name="description" itemprop="description" content="Dokodemo-Kerja adalah sistem yang memungkinkan fitur pelacakan waktu, laporan waktu yang akurat, manajemen jam kerja, navigasi yang mudah, dan alat pemantauan kinerja yang fleksibel yang menguntungkan baik karyawan maupun pengusaha.">
-    <meta name="keywords" content="dokodemo, dokodemo-kerja, dokodemo kerja, pemantauan layar, monitor sceen, monitor karyawan, pemantauan karyawan, pelacak waktu, jam dalam perangkat lunak, perangkat lunak absensi, alat absensi, kalkulator jam kerja, kelola karyawan, alat untuk manajer, alat untuk jam, manajer pemberitahuan, alat produktivitas, penambah produktivitas, pengelola kinerja, pengelolaan kinerja, monitor kinerja, software clock in, fitur absensi">
+    <meta name="description" itemprop="description"
+        content="従業員の実勤務時間を記録、GPSで働いた場所をトラッキング、フレキシブルで生産性の高い働き方を可能とするリモートワーク管理ツールDokodemo-Kerja（ドコデモクルジャ）の紹介ページ。試用をご希望の方はお気軽にLOGIQUEまでご連絡ください。">
+    <meta name="keywords"
+        content="dokodemo, dokodemo-kerja, dokodemo kerja, work everywhere, work whenever, work wherever, project management tool, project management software, human resource tool, human resource software, monitoring software, monitoring tool, monitor desktop, monitor with privacy, low res monitoring, low resolution monitoring, time tracker, logique product, pt logique">
     <meta name="author" content="PT. LOGIQUE Digital Indonesia">
-	<meta name="google-site-verification" content="Xc9SFJQZdKYLsrWvrxEjLLTA-nyrnNPQTXQoMxs4gKI" />
-    <meta property="og:title" content="Studi Kasus Dokodemo-Kerja | Alat Pemantau Waktu Kerja">
+    <meta name="google-site-verification" content="Xc9SFJQZdKYLsrWvrxEjLLTA-nyrnNPQTXQoMxs4gKI" />
+    <meta property="og:title" content="リモートワークを可能にする勤務時間管理クラウドツール | ドコデモクルジャ | LOGIQUE Digital Indonesia">
     <meta property="og:type" content="website">
     <meta property="og:site_name" content="Dokodemo-Kerja">
     <meta property="og:url" content="https://dokodemo-kerja.com">
     <meta property="og:image" content="/img/dokodemo-og.jpg">
-    <meta property="og:description" content="Dokodemo-Kerja adalah sistem yang memungkinkan fitur pelacakan waktu, laporan waktu yang akurat, manajemen jam kerja, navigasi yang mudah, dan alat pemantauan kinerja yang fleksibel yang menguntungkan baik karyawan maupun pengusaha.">
+    <meta property="og:description"
+        content="従業員の実勤務時間を記録、GPSで働いた場所をトラッキング、フレキシブルで生産性の高い働き方を可能とするリモートワーク管理ツールDokodemo-Kerja（ドコデモクルジャ）の紹介ページ。試用をご希望の方はお気軽にLOGIQUEまでご連絡ください。">
     <link rel="stylesheet" href="/css/bootstrap.min.css" />
     <link href="/fonts/font-awesome/css/font-awesome.min.css" rel="stylesheet">
     <link rel="stylesheet" href="/css/slick.css" />
@@ -24,7 +27,7 @@
     <link rel="stylesheet" href="/js/magnific-popup.css" />
 
 	<link rel="shortcut icon" type="image/x-icon" href="/favicon.ico">
-    <title>Studi Kasus Dokodemo-Kerja | Alat Pemantau Waktu Kerja</title>
+    <title>Case Study of Dokodemo-Kerja | Working Hours Tracking Tool</title>
 	<!-- Google Tag Manager -->
 	<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
 	new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
@@ -58,7 +61,7 @@
 	  gtag('config', 'UA-146404615-1');
 	</script>
 </head>
-<?php $page = 'case-study/case-3.php'; ?>
+<?php $page = 'case-study/case-2.php'; ?>
 <body>
 <!-- Google Tag Manager (noscript) -->
 <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-WT4MCDL"
@@ -70,67 +73,55 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
             <nav aria-label="breadcrumb">
                 <ol class="breadcrumb">
                     <li class="breadcrumb-item"><a href="/">Dokodemo-Kerja Home</a></li>
-                    <li class="breadcrumb-item"><a href="/case-study/">Studi Kasus</a></li>
-                    <li class="breadcrumb-item active" aria-current="page">Kasus 3</li>
+                    <li class="breadcrumb-item"><a href="/case-study/">Case Study</a></li>
+                    <li class="breadcrumb-item active" aria-current="page">Case 2</li>
                 </ol>
             </nav>
         </div>
     </section>
     <section class="mb-5">
         <div class="container">
-            <h1 class="text-center mb-5">Dokodemo-Kerja Story 3: Accounting Consulting Firm</h1>
+            <h1 class="text-center mb-5">「Dokodemo-Kerja」活用ストーリー2: PT. BO System Development</h1>
             <div class="case-study__story">
                 <div>
                     <blockquote class="blockquote text-center mb-5">
-                        <p class="mb-0">“Optimasi Tenaga Kerja berkat “Dokodemo-Kerja.”</p>
-                        <div class="blockquote-footer"><cite title="Source Title">Operation Director</cite></div>
+                        <p class="mb-0">“管理目的で導入した『Dokodemo-Kerja』。勤務管理以外のさまざまな副次効果も得られ、一石三鳥です”</p>
+                        <div class="blockquote-footer"><cite title="Source Title">President Director</cite></div>
                     </blockquote>
                     <ul class="list-unstyled story__q-a">
                         <li>
-                            <p><b>Q: </b>Mengapa anda ingin mengimplementasikan Dokodemo-Kerja?</p>
-                            <p><b>A: </b>Kami mewakili dan menyediakan layanan konsultasi <i>Accounting</i> untuk perusahaan klien. Saat ini kami mempunyai lebih dari 100 klien, dan memang karena sudah disposisi dari servis kami, pada saat pembayaran di awal atau akhir bulan dan THR maupun di akhir tahun dan bukan April (saat penentuan jumlah pajak tahunan) merupakan peak season kesibukan. Akan tetapi di bulan lainnya atau pada pertengahan bulan tidak banyak pekerjaan yang dapat dilakukan. <br>
-                            Namun, karena tetap perlu mengamankan sumber daya yang diperlukan pada saat waktu sibuk di awal dan akhir bulan, ada <i>surplus</i> karyawan selama di pertengahan bulan (dimana <i>workload</i> sedang sedikit). Meskipun begitu, pada awal dan akhir bulan tetap saja banyak karyawan yang harus bekerja lembur, sehingga peningkatan pada pembayaran kerja lembur pun tidak terhindarkan. <br>
-                            Dengan tipe bisnis yang dijalankan, memang sulit untuk menyesuaikan jumlah karyawan sesuai dengan masa kerja yang sibuk, hal ini membuat saya bertanya-tanya apakah ada yang saya dapat lakukan untuk menyeimbangkan jumlah pekerjaan dan kerja lembur. <br>
-                            saya mendengar cerita mengenai perusahaan LOGIQUE. Mereka memperkenalkan cara kerja yang lebih efisien dan meningkatkan produktivitas dengan sistem "40 jam dalam seminggu”. <br>
-                            Seperti di LOGIQUE, kami berpikir bahwa kami juga dapat secara efektif melakukan kontrol <i>shift</i> kerja pada saat jumlah kerja puncak dengan menerapkan aturan cara kerja yang lebih fleksibel. <br>
-                            Pertama-tama pada jam kerja 8 jam dalam sehari, dirubah menjadi ada waktu inti 6 jam dan sisa 2 jam dapat dialokasikan pada saat sibuk. Bahkan sampai sekarang, saya terus-menerus meninjau dan mengoptimalkan aturan kerja yang sudah ada.
+                            <p><b>Q: </b>『Dokodemo-Kerja』を導入した経緯を教えてください。</p>
+                            <p><b>A: </b>私の会社は、企業の請求処理を行うシステム系のサービスを、インドネシアの企業様に幅広く提供しています。多国籍な雰囲気のオフィスなのですが、社員が50名を超えた頃から、個人の働き方の管理が正確にできなくなりました。誰が効率的に生産性高く働いているのか、反対に、誰が事業に貢献していないのか……。原因はさまざまあったと思いますが、拡大する事業とスタッフの人数に管理体制が追い付かず、経営層もHRも、個人のアウトプットを適正に把握できなくなったことは、組織として大きな問題でした。<br>
+                            重要な昇給額を決定する際も、該当の期間の貢献度を正しく評価できないため、苦肉の策として、勤続年数に応じた昇給率を適用するなど、非論理的な決め方をせざるを得ない状況でした。<br>
+                            もちろん、プロジェクトごとに個人の成果を見てはいましたが、どうしてもプロジェクトやタスクごとに難易度が異なるため、結果だけで判断すると不公平感が出てしまいます。結果以外のプロセスにおける個人の工夫や頑張り、仕事への取り組み方、成長度合いなどを総合的に評価したいと常々思っていました。<br>
+                            そんな時、LOGIQUE社の開発した『Dokodemo-Kerja』のことを知りました。自社の課題を解決できるツールではないか、と考え、導入を決定しました。
                             </p>
                         </li>
                         <li>
-                            <p><b>Q: </b>Bagaimana reaksi dari karyawan?</p>
-                            <p><b>A: </b>Beberapa karyawan merespons negatif karena merasa upah lembur akan berkurang. Namun di satu sisi, mereka juga tidak perlu membuang waktu di kantor ketika tidak ada pekerjaan dan mereka dapat menghabiskan waktu itu dengan keluarga, teman, ataupun hobi. Kami juga membuat mereka mengerti bahwa ada keuntungan lainnya seperti dapat membuat jadwal bulanan menjadi lebih sistematis. <br>
-                            Kepuasan pada karyawan juga meningkat seiring berjalannya waktu, karena makin banyak karyawan yang lebih menyadari manfaat dari sistem ini dimana mereka dapat bekerja sesuai dengan gaya hidup dan gaya kerja mereka masing-masing. Saat ini setiap karyawan menjadi lebih termotivasi dari sebelumnya, dan karena adanya sistem baru ini telah menyebar dari mulut ke mulut, kami lebih banyak menerima aplikasi pekerjaan dari perusahaan lain di industri yang sama. Bagi saya ini merupakan efek sinergi yang bagus. 
+                            <p><b>Q: </b>狙い通りの効果はありましたか？</p>
+                            <p><b>A: </b>狙い以上でした。『Dokodemo-Kerja』のおかげで、社員一人ひとりがどのような働き方をするタイプなのかを、初めてはっきりと把握することができたことが、まずは大きな成果でした。今まで、個別にコミュニケーションする中で「こんな人だろう」と思っていたタイプとは全く異なる性質・性格だった、という社員は何気に多く、そのことにまず驚きましたね（笑）。<br>
+                            また、日ごろから忙しそうに業務に励んでいる社員がいたのですが、彼にはもちろん、残業代など相応のものは与えており、「もしかすると仕事を多く依頼しすぎているかな」と逆に気にしていたのでね。しかし実は、勤務時間中にオンラインゲームをして業務をおろそかにしていたため残業が多かったことなど、非常に非効率で模範とならない働き方をしていたことが判明したのです。結果として彼には、それなりの改善を促し、働き方を変えていくことができました。<br>
+                            もちろん、ポジティブな発見もありました。メンバーが残業しているときでも一人だけ先に帰宅する社員がいたのですが、彼女はお昼休みを短くするなどして、自ら工夫して、集中した業務遂行を心掛けていることが分かりました。<br>
+                            このように、今までは見えなかったさまざまな事象が見える化され、成果と併せて総合的に判断できるようになることで、誰もが納得する、公平で客観的な評価を実現することができました。『Dokodemo-Kerja』の導入効果は、当社にとっては想定上に大きかった。非常に満足しています。
                             </p>
                         </li>
                         <li>
-                            <p><b>Q: </b>Menurut anda, apa poin yang harus diperhatikan ketika mengimplementasikan peraturan baru untuk sistem ini?</p>
-                            <p><b>A: </b>Untuk menjadi terbiasa pada aturan dan sistem baru ini, tentunya setiap karyawan membutuhkan waktu yang berbeda, oleh karena itu penting dari pihak perusahaan untuk dengan pelan-pelan menjelaskan kepada karyawan yang masih belum paham terhadap sistem baru ataupun mengalami kesulitan untuk merubah cara kerja mereka. <br>
-                            Pada saat awal penerapan mungkin akan ada respon negatif seperti "Saya tidak ingin menggunakannya" ataupun “terlalu sulit”, akan tetapi setelah dibiasakan dengan sistem baru itu lama kelamaan suara negatif itu akan hilang dengan sendirinya. Jadi, saya rasa saat ada rintangan pertama itu kita harus tetap kukuh dan tegas melewatinya. <br>
-                            Selain itu, saya rasa penting juga untuk tidak menerapkan perubahan sistem itu ke semua karyawan pada awal. Perlu untuk menerapkannya secara bertahap dan membuat sistem baru ini dikenal oleh karyawan. Hal ini bertujuan untuk membuat orang mengerti bahwa itu bukan rencana yang dipaksakan secara sepihak oleh manajemen ataupun HR, melainkan perubahan ini dijalankan seiring dengan komunikasi yang dijalankan di perusahaan secara keseluruhan.  <br>
-                            Seiring berjalannya waktu dan melihat hasil yang didapatkan saat menerapkan perubahan ini, kita juga bisa mendapatkan <i>feedback</i> yang positif dan produktif dari karyawan. <br>
-                            Di perusahaan kami pun, saya juga terus berulang kali menjelaskan pentingnya menggunakan "Dokodemo-Kerja" untuk menganalisa basis-basis yang diperlukan untuk penerapan sistem baru tersebut.
+                            <p><b>Q: </b>『Dokodemo-Kerja』の導入による、対外的な副次効果もあったそうですね。</p>
+                            <p><b>A: </b>はい、他の多くのシステム開発会社様同様、お客様に請求するFee（利用料金）は、作業工数がベースになっています。「１０人月の作業が必要だから〇〇ドルの御見積になる」というような仕組みです。<br>
+                            まれに、契約締結後に請求金額の妥当性についてお客様と議論になることがあります。当社からは「１０人月の作業をした」と報告をした際、そこに疑問を呈されるお客様がいらっしゃるのです。実際の作業や工程をお客様が明確に把握できない類のものなので、作業効率と金額の妥当性に疑問を持つことは割とよくあることです。今までは、「誰と誰がいつからいつまで作業した」というレポートを提出する他に作業内容を証明する手段がなかったのですが、『Dokodemo-Kerja』を活用したおかげで、お客様から要望があれば、作業内容の証明として、共有できるようになりました。<br>
+                            お客様との良い関係を築く上でも、エビデンスを保持しているということは大きな意味があります。私たちも今まで以上に自信をもって交渉できる、という点で、非常に有効な副次効果がありました。<br>
+                            また、当社が納入したシステムに障害が発生したときも役立ちました。<br>
+                            トラブル発生後、迅速な復旧のために深夜まで作業し、解決後にIncident Reportをお客様に提出したのですね。この際、「どのような体制で、何時から何時まで誰が復旧作業を行ったか」について、『Dokodemo-Kerja』のエビデンスをもって報告しました。結果、お客様には、当社のハードワークを評価いただくことができ、さらに良い関係を築くことができたのです。
                             </p>
                         </li>
                         <li>
-                            <p><b>Q: </b>Anda telah mengimplementasikan sistem baru ini selama kurang lebih satu tahun, apakah perbedaan yang dirasakan saat pertama kali menerapkan dan saat ini?</p>
-                            <p><b>A: </b>Sudah satu tahun berlalu sejak diperkenalkan perubahan cara kerja ini dan efek positifnya terus berlanjut. Saya terus memantau reaksi karyawan dan menyesuaikan aturan yang ada, jadi saya pikir tetap efektif bahkan setelah satu tahun. <br>
-                            Perubahan pada karyawan itu ada, akan tetapi karena tidak ada perbedaan besar dalam cara menggunakannya, “Dokodemo-Kerja” tetap bisa digunakan oleh karyawan yang baru. Jadi dapat digunakan secara fleksibel oleh karyawan baru tipe apapun. <br>
-                            Oh ya. Saya tidak menggunakan "Dokodemo-Kerja" untuk karyawan sales yang menghabiskan kebanyakan waktunya tidak menggunakan komputer, tapi saya dengar “Dokodemo-Kerja” mau ada versi aplikasi mobilenya, mungkin dalam waktu dekat ini akan saya coba.
+                            <p><b>Q: </b>大変貴重なお話をありがとうございました。最後に、コメントをお願いいたします。</p>
+                            <p><b>A: </b>利用料金もリーズナブルである上、管理ツールとして非常に優れていると思います。<br>
+                            人材に関する悩みは企業それぞれだと思いますが、当社のように、働きに応じた評価をどうするか、といった課題をお持ちの組織であれば、導入することでの相乗効果は必ずあると思います。<br>
+                            組織の生産性向上と個人のスキルとモチベーションアップをかなえるツールとして、これからのより良いワークスタイルを構築できる一助にもなるのでは、と期待もしています。<br>
+                            これからも継続して利用していくつもりです。LOGIQUE社には、ツールのさらなるブラッシュアップを続けていただければ幸いです。
                             </p>
                         </li>
-                        <li>
-                            <p><b>Q: </b>Jadi selama ini sebagian besar karyawan yang menggunakan “Dokodemo-Kerja” adalah yang mengerjakan konsultasi akuntansi?</p>
-                            <p><b>A: </b>Betul, kami menginstalasi kepada sekitar 60 konsultan dan staf administrasi. Tiga orang dari departemen HR pun membantu menggunakan sebagai admin, dimana melalui "Dokodemo-Kerja" mereka akan mengatur orang yang bertanggung jawab dan mengelola apakah konsultan dan staf administrasi telah bekerja secara produktif.
-                            </p>
-                        </li>
-                        <li>
-                            <p><b>Q: </b>Bagaimana respon dari departemen HR?</p>
-                            <p><b>A: </b>Pada awalnya dari HR pun mendapatkan reaksi yang negatif, akan tetapi setelah terbiasa dengan penggunaannya bahkan sekarang menjadi positif dan mendukung. <br>
-                            Pertama-tama mereka menolak karena <i>workload</i> yang ada pun sudah penuh, apalagi kalau ditambah harus memeriksa “Dokodemo-Kerja”. Akan tetapi setelah penggunaan, pekerjaan HR dimana mereka harus mencocokkan waktu bekerja dan bukti pun berkurang oleh karena itu mereka menyadari dan menjadi positif mengenai perubahan ini. <br>
-                            Karena "Dokodemo-Kerja" bertindak sebagai pencegah dalam masalah istirahat berkepanjangan maupun mengerjakan sesuatu yang tidak berhubungan dengan pekerjaan, maka dari pihak HR pun dapat melakukan pekerjaan mereka seharusnya dan meningkatkan kualitas. Sebagai hasilnya, saya rasa performance HR sebagai Departemen pun telah meningkat.
-                            </p>
-                        </li>
-                        <li>Terima kasih atas informasi yang telah diberikan.</li>
                     </ul>
                 </div>
             </div>

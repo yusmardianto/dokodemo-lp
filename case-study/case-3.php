@@ -82,7 +82,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
             <div class="case-study__story">
                 <div>
                     <blockquote class="blockquote text-center mb-5">
-                        <p class="mb-0">Our work force has been optimized thanks to Dokodemo-Kerja.”</p>
+                        <p class="mb-0">“Our work force has been optimized thanks to Dokodemo-Kerja.”</p>
                         <div class="blockquote-footer"><cite title="Source Title">Operation Director</cite></div>
                     </blockquote>
                     <ul class="list-unstyled story__q-a">

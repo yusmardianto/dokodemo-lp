@@ -1,9 +1,20 @@
 <?php 
+    function active_case() {
+        $url_array =  explode('/', $_SERVER['REQUEST_URI']);
+        $url = end($url_array);
+        $url_previous = prev($url_array);
+        if ($url_previous == 'case-study' && $url == '' || $url == 'case-1' || $url == 'case-2' || $url == 'case-3') {
+            echo 'active';
+        }
+    } 
     function active($current_page){
         $url_array =  explode('/', $_SERVER['REQUEST_URI']) ;
         $url = end($url_array);  
-        if($current_page == $url){
+        $url_previous = prev($url_array);  
+        if($url_previous !== 'case-study' && $current_page == $url){
             echo 'active'; 
+        } else {
+            echo 'Not Found';
         }
     } 
 ?>
@@ -17,7 +28,7 @@
             <span class="navbar-toggler-icon"></span>
         </button>
         <div class="collapse navbar-collapse" id="navbarNav">
-            <ul class="navbar-nav ml-auto">
+            <ul class="navbar-nav ml-auto --jp">
                 <li class="nav-item <?php active('') ?>">
                     <a class="nav-link" href="/jpn">ホーム</a>
                 </li>
@@ -26,6 +37,9 @@
                 </li>
                 <li class="nav-item <?php active('features') ?>">
                     <a class="nav-link" href="/features">機能</a>
+                </li>
+                <li class="nav-item <?php active_case() ?>">
+                    <a class="nav-link" href="/jpn/case-study/">Case Study</a>
                 </li>
                 <li class="nav-item <?php active('pricing') ?>">
                     <a class="nav-link" href="/pricing">価格</a>

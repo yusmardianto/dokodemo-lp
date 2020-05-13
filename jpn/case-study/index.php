@@ -1,20 +1,23 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="ja">
 
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=5.0" />
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
-	<meta name="description" itemprop="description" content="Dokodemo-Kerja is a system that enables time tracking feature, accurate time reports, man hour management, easy navigation, and flexible monitoring tools which benefits both employees and employers.">
-    <meta name="keywords" content="dokodemo, dokodemo-kerja, dokodemo kerja, screen monitoring, sceen monitor, monitor employee, employee monitoring, time tracker, clock in, clock in software, attendance software, attendance tool, work hour calculator,  manage employees, tool for managers, tool for hr, notification manager, productivity tool, productivity enhancer">
+    <meta name="description" itemprop="description"
+        content="従業員の実勤務時間を記録、GPSで働いた場所をトラッキング、フレキシブルで生産性の高い働き方を可能とするリモートワーク管理ツールDokodemo-Kerja（ドコデモクルジャ）の紹介ページ。試用をご希望の方はお気軽にLOGIQUEまでご連絡ください。">
+    <meta name="keywords"
+        content="dokodemo, dokodemo-kerja, dokodemo kerja, work everywhere, work whenever, work wherever, project management tool, project management software, human resource tool, human resource software, monitoring software, monitoring tool, monitor desktop, monitor with privacy, low res monitoring, low resolution monitoring, time tracker, logique product, pt logique">
     <meta name="author" content="PT. LOGIQUE Digital Indonesia">
-	<meta name="google-site-verification" content="Xc9SFJQZdKYLsrWvrxEjLLTA-nyrnNPQTXQoMxs4gKI" />
-    <meta property="og:title" content="Case Study of Dokodemo-Kerja | Working Hours Tracking Tool">
+    <meta name="google-site-verification" content="Xc9SFJQZdKYLsrWvrxEjLLTA-nyrnNPQTXQoMxs4gKI" />
+    <meta property="og:title" content="リモートワークを可能にする勤務時間管理クラウドツール | ドコデモクルジャ | LOGIQUE Digital Indonesia">
     <meta property="og:type" content="website">
     <meta property="og:site_name" content="Dokodemo-Kerja">
     <meta property="og:url" content="https://dokodemo-kerja.com">
     <meta property="og:image" content="/img/dokodemo-og.jpg">
-    <meta property="og:description" content="Dokodemo-Kerja is a system that enables time tracking feature, accurate time reports, man hour management, easy navigation, and flexible monitoring tools which benefits both employees and employers.">
+    <meta property="og:description"
+        content="従業員の実勤務時間を記録、GPSで働いた場所をトラッキング、フレキシブルで生産性の高い働き方を可能とするリモートワーク管理ツールDokodemo-Kerja（ドコデモクルジャ）の紹介ページ。試用をご希望の方はお気軽にLOGIQUEまでご連絡ください。">
     <link rel="stylesheet" href="/css/bootstrap.min.css" />
     <link href="/fonts/font-awesome/css/font-awesome.min.css" rel="stylesheet">
     <link rel="stylesheet" href="/css/slick.css" />
@@ -83,10 +86,10 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                     <a href="/case-study/case-1" class="case-study__card-wrapper">
                         <div class="case-study__card">
                             <img class="card__img" src="/img/case-study/case-1.png" alt="">
-                            <h2 class="card__headline">Dokodemo-Kerja Story 1</h2>
+                            <h2 class="card__headline">「Dokodemo-Kerja」活用ストーリー1</h2>
                             <h4 class="card__title">PT. LOGIQUE Digital Indonesia</h4>
                             <p class="card__text">
-                            I would like to present some case studies about our clients currently using Dokodemo-Kerja. In this first example though, we will be looking at our own company, LOGIQUE, and how we had successfully implemented a remote working system.
+                            当社のリモートワーク管理＆勤務時間管理ツール『Dokodemo-Kerja（ドコデモ・クルジャ）』を導入・ご活用いただいているお客様の導入背景や活用方法、導入の効果などについて、ケーススタディー的にご紹介するこのコーナー。第１回目の今回は、このツールを開発するにいたった、弊社LOGIQUEの開発ストーリーをご紹介します。
                             </p>
                         </div>
                     </a>
@@ -95,10 +98,10 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                     <a href="/case-study/case-2" class="case-study__card-wrapper">
                         <div class="case-study__card">
                             <img class="card__img" src="/img/case-study/case-2.png" alt="">
-                            <h2 class="card__headline">Dokodemo-Kerja Story 2</h2>
-                            <h4 class="card__title">PT. BO System Development</h4>
+                            <h2 class="card__headline">「Dokodemo-Kerja」活用ストーリー2</h2>
+                            <h4 class="card__title">某システム開発会社</h4>
                             <p class="card__text">
-                                <b>Q: </b>Why are you interested in using 『Dokodemo-Kerja』? <b>A: </b>My company provides billing system services in Indonesia. Since our office has a multinational atmosphere, the number of staff has now exceeded 50. So, it has become difficult to manage the individual working styles of all our employees. 
+                            <b>Q: </b>大変貴重なお話をありがとうございました。最後に、コメントをお願いいたします。 <b>A: </b>利用料金もリーズナブルである上、管理ツールとして非常に優れていると思います。人材に関する悩みは企業それぞれだと思いますが、当社のように、働きに応じた評価をどうするか、といった課題をお持ちの組織であれば、導入することでの相乗効果は必ずあると思います。
                             </p>
                         </div>
                     </a>
@@ -107,10 +110,10 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                     <a href="/case-study/case-3" class="case-study__card-wrapper">
                         <div class="case-study__card">
                             <img class="card__img" src="/img/case-study/case-3.png" alt="">
-                            <h2 class="card__headline">Dokodemo-Kerja Story 3</h2>
-                            <h4 class="card__title">Accounting Consulting Firm</h4>
+                            <h2 class="card__headline">「Dokodemo-Kerja」活用ストーリー3</h2>
+                            <h4 class="card__title">某Accounting Firm</h4>
                             <p class="card__text">
-                                <b>Q: </b>Why did you want to implement Dokodemo-Kerja? <b>A: </b>We provide accounting consultation services for our client companies. At present, we have more than 100 clients. Due to the nature of our industry, payment at the beginning and end of the month is peak business season, as well as the THR at the beginning of the year and
+                                <b>Q: </b>『Dokodemo-Kerja』を導入した経緯を教えてください。 <b>A: </b>当社はクライアント企業のAccounting業務を代行、コンサルティングしています。１００社を超えるクライアントがいますが、サービスの性質上、月末月初やTHR（インドネシアにおけるボーナスのようなもの）支給時、年末や４月（年間課税額の決定）などが繁忙期です。逆に、通常月の月中は閑散期となります。
                             </p>
                         </div>
                     </a>
