@@ -107,7 +107,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                     <a href="/case-study/case-3" class="case-study__card-wrapper">
                         <div class="case-study__card">
                             <img class="card__img" src="/img/case-study/case-3.png" alt="">
-                            <h2 class="card__headline">Dokodemo Story 3</h2>
+                            <h2 class="card__headline">Dokodemo-Kerja Story 3</h2>
                             <h4 class="card__title">Accounting Consulting Firm</h4>
                             <p class="card__text">
                                 <b>Q: </b>Why did you want to implement Dokodemo-Kerja? <b>A: </b>We provide accounting consultation services for our client companies. At present, we have more than 100 clients. Due to the nature of our industry, payment at the beginning and end of the month is peak business season, as well as the THR at the beginning of the year and
