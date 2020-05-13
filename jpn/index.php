@@ -369,6 +369,58 @@
             </div>
         </div>
     </section>
+
+    <section class="case-study__container">
+        <div class="container my-5">
+            <div class="row">
+                <div class="col-md-12">
+                    <h1 class="home-feature-title">Case Study</h1>
+                </div>
+            </div>
+            <div class="row mt-3">
+                <div class="col-md-12">
+                    <div class="row">
+                        <div class="col-md-4">
+                            <a href="/jpn/case-study/case-1" class="case-study__card-wrapper">
+                                <div class="case-study__card">
+                                    <img class="card__img" src="/img/case-study/case-1.png" alt="" >
+                                    <h4 class="card__title">「Dokodemo-Kerja」活用ストーリー1</h4>
+                                    <p class="card__news">
+                                        PT. LOGIQUE Digital Indonesia <br>
+                                        President Director <br>
+                                        Takashi Yoshitsugu
+                                    </p>
+                                </div>
+                            </a>
+                        </div>
+                        <div class="col-md-4">
+                            <a href="/jpn/case-study/case-2" class="case-study__card-wrapper">
+                                <div class="case-study__card">
+                                    <img class="card__img" src="/img/case-study/case-2.png" alt="" >
+                                    <h4 class="card__title">「Dokodemo-Kerja」活用ストーリー2</h4>
+                                    <p class="card__news">
+                                        某システム開発会社
+                                    </p>
+                                </div>
+                            </a>
+                        </div>
+                        <div class="col-md-4">
+                            <a href="/jpn/case-study/case-3" class="case-study__card-wrapper">
+                                <div class="case-study__card">
+                                    <img class="card__img" src="/img/case-study/case-3.png" alt="" >
+                                    <h4 class="card__title">「Dokodemo-Kerja」活用ストーリー3</h4>
+                                    <p class="card__news">
+                                        某Accounting Firm
+                                    </p>
+                                </div>
+                            </a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
     <section class="user-testimony" id="testimony">
         <h1 class="section-title">実際のお客様の声</h1>
         <div class="container-fluid">
