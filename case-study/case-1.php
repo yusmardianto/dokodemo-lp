@@ -82,7 +82,10 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
             <div class="case-study__story mx-3 mx-lg-0">
                 <div class="row">
                     <div class="col-lg-6 pl-0 d-none d-lg-block">
-                        <img src="/img/case-study/detail-case-1-1.png" alt="" class="story__img">
+                        <div class="text-center" style="line-height: 1; height: calc(100% - 40px);">
+                            <img src="/img/case-study/dokodemo-story-1-1.jpg" alt="" class="story__img pb-1" style="object-position: right;">
+                            <small>The image was taken when I wrote this article while working in the Japanese countryside. I have also used and implemented Dokodemo-Kerja myself.</small>
+                        </div>
                     </div>
                     <div class="col-lg-6 pl-0 pl-lg-3">
                         <p>I would like to present some case studies about our clients currently using Dokodemo-Kerja.</p>
@@ -103,7 +106,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                             <p class="mb-0">Therefore, in November 2017 we developed Dokodemo-Kerja. With this tool, clear visualization of how an employee is working is possible through the use of screenshots. Dokodemo-Kerja allows staffs the opportunity to present proof that an employee really is or isn’t focused on their job. Indeed, when they aren’t, clear evidence can be shown from the management side when it becomes necessary to give a warning to an employee. </p>
                         </div>
                         <div class="col-lg-6 pr-0 d-none d-lg-block">
-                            <img src="/img/case-study/detail-case-1-2.png" alt="" class="story__img">
+                            <img src="/img/case-study/dokodemo-story-1-2.jpg" alt="" class="story__img" style="object-position: right;">
                         </div>
                     </div>
                     <div class="mt-3"> 

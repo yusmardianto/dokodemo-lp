@@ -82,7 +82,10 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
             <div class="case-study__story mx-3 mx-lg-0">
                 <div class="row">
                     <div class="col-lg-6 pl-0 d-none d-lg-block">
-                        <img src="/img/case-study/detail-case-1-1.png" alt="" class="story__img">
+                        <div class="text-center" style="line-height: 1; height: calc(100% - 40px);">
+                            <img src="/img/case-study/dokodemo-story-1-1.jpg" alt="" class="story__img pb-1" style="object-position: right;">
+                            <small>Saya juga bekerja "Dokodemo" (dimana saja). Gambar diatas adalah saat saya sedang menulis artikel ketika bekerja di pedesaan Jepang, tentu saja sembari menggunakan Dokodemo-Kerja.</small>
+                        </div>
                     </div>
                     <div class="col-lg-6 pl-0 pl-lg-3">
                         <p>Saya ingin memberikan beberapa contoh studi kasus untuk dijadikan sebagai latar belakang motivasi dan apa saja hasil yang didapatkan dari klien-klien kami setelah menggunakan Dokodemo-Kerja.</p>
@@ -104,7 +107,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                             <p class="mb-0">Oleh karena itu di bulan November 2017 kami mengembangkan Dokodemo-Kerja. Dengan <i>tool</i> ini, kami dapat mengetahui kapan dan seperti apa karyawan bekerja (screenshot layar). Para <i>remote worker</i> pun akhirnya memiliki bukti bahwa mereka bekerja secara serius, ataupun disaat sebaliknya ketika harus menegur karyawan akan ada bukti yang jelas.</p>
                         </div>
                         <div class="col-lg-6 pr-0 d-none d-lg-block">
-                            <img src="/img/case-study/detail-case-1-2.png" alt="" class="story__img">
+                            <img src="/img/case-study/dokodemo-story-1-2.jpg" alt="" class="story__img" style="object-position: right;">
                         </div>
                     </div>
                     <div class="mt-3">
