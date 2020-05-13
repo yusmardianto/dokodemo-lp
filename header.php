@@ -67,7 +67,7 @@
                 <div class="switch-language">
                     <a href="/"><label class="active" for="radio-one">ENG</label></a>
                     <a href="/ind/<?php echo $page;?>"><label for="radio-two">IND</label></a>
-                    <a href="/jp/<?php echo $page;?>"><label for="radio-three">JP</label></a>
+                    <a href="/jpn/<?php echo $page;?>"><label for="radio-three">JPN</label></a>
                 </div>
             </div>
         </div>
