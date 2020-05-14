@@ -78,14 +78,14 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
     </section>
     <section class="mb-5">
         <div class="container">
-            <h1 class="text-center mb-5">Dokodemo-Kerja Story 2: <br>PT. BO System Development</h1>
+            <h1 class="text-center mb-5">Dokodemo-Kerja Story 2: <br>System Development, Company B</h1>
             <div class="case-study__story">
-                <blockquote class="blockquote text-center mb-5">
-                    <p class="mb-0">“The first stage of implementing Dokodemo-Kerja was intended for management purposes, but the actual effects have been so much more than that. Indeed, one may hit three birds when throwing a single stone.”</p>
-                    <div class="blockquote-footer"><cite title="Source Title">President Director</cite></div>
-                </blockquote>
                 <div class="row">
                     <div class="offset-md-1 col-md-10">
+                        <blockquote class="blockquote text-center mb-5">
+                            <p class="mb-0">“The first stage of implementing Dokodemo-Kerja was intended for management purposes, but the actual effects have been so much more than that. Indeed, one may hit three birds when throwing a single stone.”</p>
+                            <div class="blockquote-footer"><cite title="Source Title">President Director</cite></div>
+                        </blockquote>
                         <ul class="list-unstyled story__q-a">
                             <li>
                                 <p><b>Q: </b>Why are you interested in using 『Dokodemo-Kerja』?</p>

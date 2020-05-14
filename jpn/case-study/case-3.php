@@ -81,14 +81,14 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
     </section>
     <section class="mb-5">
         <div class="container">
-            <h1 class="text-center mb-5">「Dokodemo-Kerja」活用ストーリー3: <br>Accounting Consulting Firm</h1>
+            <h1 class="text-center mb-5">「Dokodemo-Kerja」活用ストーリー3: <br>Accounting Firm A社</h1>
             <div class="case-study__story">
-                <blockquote class="blockquote text-center mb-5">
-                    <p class="mb-0">“Work Forceの最適化ができたのは『『Dokodemo-Kerja』』のおかげです。”</p>
-                    <div class="blockquote-footer"><cite title="Source Title">Operation Director</cite></div>
-                </blockquote>
                 <div class="row">
                     <div class="offset-md-1 col-md-10">
+                    <blockquote class="blockquote text-center mb-5">
+                        <p class="mb-0">“Work Forceの最適化ができたのは『『Dokodemo-Kerja』』のおかげです。”</p>
+                        <div class="blockquote-footer"><cite title="Source Title">Operation Director</cite></div>
+                    </blockquote>
                         <ul class="list-unstyled story__q-a">
                             <li>
                                 <p><b>Q: </b>『Dokodemo-Kerja』を導入した経緯を教えてください。</p>

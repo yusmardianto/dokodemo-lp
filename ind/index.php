@@ -442,7 +442,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                                     <img class="card__img" src="/img/case-study/case-2.png" alt="" >
                                     <h4 class="card__title">Cerita Dokodemo-Kerja 2</h4>
                                     <p class="card__news">
-                                        PT. BO System Development
+                                        Perusahaan Pengembangan Sistem, PT. B
                                     </p>
                                 </div>
                             </a>
@@ -453,7 +453,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                                     <img class="card__img" src="/img/case-study/case-3.png" alt="" >
                                     <h4 class="card__title">Cerita Dokodemo-Kerja 3</h4>
                                     <p class="card__news">
-                                        Accounting Consulting Firm
+                                        Perusahaan Akuntansi, PT. A
                                     </p>
                                 </div>
                             </a>

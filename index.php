@@ -397,7 +397,7 @@
                                     <img class="card__img" src="/img/case-study/case-2.png" alt="" >
                                     <h4 class="card__title">Dokodemo-Kerja Story 2</h4>
                                     <p class="card__news">
-                                        PT. BO System Development
+                                        System Development, Company B
                                     </p>
                                 </div>
                             </a>
@@ -408,7 +408,7 @@
                                     <img class="card__img" src="/img/case-study/case-3.png" alt="" >
                                     <h4 class="card__title">Dokodemo-Kerja Story 3</h4>
                                     <p class="card__news">
-                                        Accounting Consulting Firm
+                                        Accounting Firm, Company A
                                     </p>
                                 </div>
                             </a>

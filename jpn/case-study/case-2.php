@@ -81,14 +81,14 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
     </section>
     <section class="mb-5">
         <div class="container">
-            <h1 class="text-center mb-5">「Dokodemo-Kerja」活用ストーリー2: <br>PT. BO System Development</h1>
+            <h1 class="text-center mb-5">「Dokodemo-Kerja」活用ストーリー2: <br>システム開発会社B社</h1>
             <div class="case-study__story">
-                <blockquote class="blockquote text-center mb-5">
-                    <p class="mb-0">“管理目的で導入した『Dokodemo-Kerja』。<br>勤務管理以外のさまざまな副次効果も得られ、一石三鳥です”</p>
-                    <div class="blockquote-footer"><cite title="Source Title">President Director</cite></div>
-                </blockquote>
                 <div class="row">
                     <div class="offset-md-1 col-md-10">
+                        <blockquote class="blockquote text-center mb-5">
+                            <p class="mb-0">“管理目的で導入した『Dokodemo-Kerja』。<br>勤務管理以外のさまざまな副次効果も得られ、一石三鳥です”</p>
+                            <div class="blockquote-footer"><cite title="Source Title">President Director</cite></div>
+                        </blockquote>
                         <ul class="list-unstyled story__q-a">
                             <li>
                                 <p><b>Q: </b>『Dokodemo-Kerja』を導入した経緯を教えてください。</p>
