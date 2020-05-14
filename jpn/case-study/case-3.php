@@ -86,7 +86,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                 <div class="row">
                     <div class="offset-md-1 col-md-10">
                     <blockquote class="blockquote text-center mb-5">
-                        <p class="mb-0">“Work Forceの最適化ができたのは『『Dokodemo-Kerja』』のおかげです。”</p>
+                        <p class="mb-0">“Work Forceの最適化ができたのは『Dokodemo-Kerja』のおかげです。”</p>
                         <div class="blockquote-footer"><cite title="Source Title">Operation Director</cite></div>
                     </blockquote>
                         <ul class="list-unstyled story__q-a">

@@ -43,7 +43,7 @@
                         <a href="/jpn/case-study/case-2" class="case-study__card-wrapper">
                             <div class="case-study__card">
                                 <img class="card__img" src="/img/case-study/case-2.png" alt="" >
-                                <h4 class="card__title">Accounting Firm A社</h4>
+                                <h4 class="card__title">システム開発会社B社</h4>
                                 <p class="card__news">
                                     President Director
                                 </p>
@@ -56,7 +56,7 @@
                         <a href="/jpn/case-study/case-3" class="case-study__card-wrapper">
                             <div class="case-study__card">
                                 <img class="card__img" src="/img/case-study/case-3.png" alt="" >
-                                <h4 class="card__title">システム開発会社B社</h4>
+                                <h4 class="card__title">Accounting Firm A社</h4>
                                 <p class="card__news">
                                     Operation Director
                                 </p>
