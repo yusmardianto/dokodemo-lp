@@ -14,7 +14,7 @@
             <div class="col-md-12">
                 <div class="row">
                     <div class="col-md-4">
-                        <a href="/ind/case-study/case-1" class="case-study__card-wrapper">
+                        <a href="/ind/case-study/" class="case-study__card-wrapper">
                             <div class="case-study__card">
                                 <img class="card__img" src="/img/case-study/detail-case-1-1.png" alt="" >
                                 <h4 class="card__title">Studi Kasus: Bagaimana Anda Menggunakan Dokodemo-Kerja</h4>
