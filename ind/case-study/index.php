@@ -96,7 +96,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                         <div class="case-study__card">
                             <img class="card__img" src="/img/case-study/case-2.png" alt="">
                             <h2 class="card__headline">Cerita Dokodemo-Kerja 2</h2>
-                            <h4 class="card__title">PT. BO System Development</h4>
+                            <h4 class="card__title">Perusahaan Pengembangan Sistem, PT. B</h4>
                             <p class="card__text">
                             <b>Q: </b>Mengapa Anda berminat untuk menggunakan『Dokodemo-Kerja』? <b>A: </b>Perusahaan saya menyediakan berbagai layanan sistem penagihan perusahaan untuk berbagai macam perusahaan di Indonesia. Kami mempunyai kantor dengan atmosfer kerja multinasional, akan tetapi sejak jumlah karyawan melebihi 50 orang, kami merasa kesulitan untuk mengatur gaya atau cara kerja untuk masing-masing individu. 
                             </p>
@@ -108,7 +108,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                         <div class="case-study__card">
                             <img class="card__img" src="/img/case-study/case-3.png" alt="">
                             <h2 class="card__headline">Cerita Dokodemo-Kerja 3</h2>
-                            <h4 class="card__title">Accounting Consulting Firm</h4>
+                            <h4 class="card__title">Perusahaan Akuntansi, PT. A</h4>
                             <p class="card__text">
                             <b>Q: </b>Mengapa anda ingin mengimplementasikan Dokodemo-Kerja? <b>A: </b>Kami mewakili dan menyediakan layanan konsultasi <i>Accounting</i> untuk perusahaan klien. Saat ini kami mempunyai lebih dari 100 klien, dan memang karena sudah disposisi dari servis kami, pada saat pembayaran di awal atau akhir bulan dan THR maupun di akhir tahun dan bukan April (saat penentuan jumlah pajak tahunan) merupakan peak season kesibukan.
                             </p>

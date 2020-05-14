@@ -96,7 +96,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                         <div class="case-study__card">
                             <img class="card__img" src="/img/case-study/case-2.png" alt="">
                             <h2 class="card__headline">Dokodemo-Kerja Story 2</h2>
-                            <h4 class="card__title">PT. BO System Development</h4>
+                            <h4 class="card__title">System Development, Company B</h4>
                             <p class="card__text">
                                 <b>Q: </b>Why are you interested in using 『Dokodemo-Kerja』? <b>A: </b>My company provides billing system services in Indonesia. Since our office has a multinational atmosphere, the number of staff has now exceeded 50. So, it has become difficult to manage the individual working styles of all our employees. 
                             </p>
@@ -108,7 +108,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                         <div class="case-study__card">
                             <img class="card__img" src="/img/case-study/case-3.png" alt="">
                             <h2 class="card__headline">Dokodemo-Kerja Story 3</h2>
-                            <h4 class="card__title">Accounting Consulting Firm</h4>
+                            <h4 class="card__title">Accounting Firm, Company A</h4>
                             <p class="card__text">
                                 <b>Q: </b>Why did you want to implement Dokodemo-Kerja? <b>A: </b>We provide accounting consultation services for our client companies. At present, we have more than 100 clients. Due to the nature of our industry, payment at the beginning and end of the month is peak business season, as well as the THR at the beginning of the year and
                             </p>
