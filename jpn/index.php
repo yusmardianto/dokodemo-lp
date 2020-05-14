@@ -399,7 +399,7 @@
                                     <img class="card__img" src="/img/case-study/case-2.png" alt="" >
                                     <h4 class="card__title">「Dokodemo-Kerja」活用ストーリー2</h4>
                                     <p class="card__news">
-                                        某システム開発会社
+                                        システム開発会社B社
                                     </p>
                                 </div>
                             </a>
@@ -410,7 +410,7 @@
                                     <img class="card__img" src="/img/case-study/case-3.png" alt="" >
                                     <h4 class="card__title">「Dokodemo-Kerja」活用ストーリー3</h4>
                                     <p class="card__news">
-                                        某Accounting Firm
+                                        Accounting Firm A社
                                     </p>
                                 </div>
                             </a>

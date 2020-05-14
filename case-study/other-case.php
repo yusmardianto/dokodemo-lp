@@ -1,12 +1,29 @@
 <?php
     $url_array =  explode('/', $_SERVER['REQUEST_URI']) ;
-    $current_url = end($url_array);  
+    $current_url_temporary = end($url_array);  
+    if (strpos($current_url_temporary, '.php')) {
+        $current_url_array = explode('.', $current_url_temporary);  
+        $current_url = current($current_url_array);  
+    } else {
+        $current_url = $current_url_temporary;
+    }
 ?>
 <section class="case-study__container">
     <div class="container my-5">
         <div class="row mt-3">
             <div class="col-md-12">
                 <div class="row">
+                    <div class="col-md-4">
+                        <a href="/case-study/" class="case-study__card-wrapper">
+                            <div class="case-study__card">
+                                <img class="card__img" src="/img/case-study/detail-case-1-1.png" alt="" >
+                                <h4 class="card__title">Case Study: How You Utilize Dokodemo-Kerja</h4>
+                                <p class="card__news">
+                                    Dokodemo-Kerja Story
+                                </p>
+                            </div>
+                        </a>
+                    </div>
                     <?php if ($current_url != "case-1"): ?>
                     <div class="col-md-4">
                         <a href="/case-study/case-1" class="case-study__card-wrapper">
