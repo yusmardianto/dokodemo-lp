@@ -84,7 +84,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
             <h1 class="text-center mb-5">「Dokodemo-Kerja」活用ストーリー2: <br>PT. BO System Development</h1>
             <div class="case-study__story">
                 <blockquote class="blockquote text-center mb-5">
-                    <p class="mb-0">“管理目的で導入した『Dokodemo-Kerja』。勤務管理以外のさまざまな副次効果も得られ、一石三鳥です”</p>
+                    <p class="mb-0">“管理目的で導入した『Dokodemo-Kerja』。<br>勤務管理以外のさまざまな副次効果も得られ、一石三鳥です”</p>
                     <div class="blockquote-footer"><cite title="Source Title">President Director</cite></div>
                 </blockquote>
                 <div class="row">
