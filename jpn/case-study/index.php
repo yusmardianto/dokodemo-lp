@@ -6,18 +6,18 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=5.0" />
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
     <meta name="description" itemprop="description"
-        content="従業員の実勤務時間を記録、GPSで働いた場所をトラッキング、フレキシブルで生産性の高い働き方を可能とするリモートワーク管理ツールDokodemo-Kerja（ドコデモクルジャ）の紹介ページ。試用をご希望の方はお気軽にLOGIQUEまでご連絡ください。">
+        content="Dokodemo-Kerjaの活用事例。従業員の実勤務時間を記録、GPSで働いた場所をトラッキング、フレキシブルで生産性の高い働き方を可能とするリモートワーク管理ツールDokodemo-Kerja（ドコデモクルジャ）の紹介。試用をご希望の方はお気軽にLOGIQUEまでご連絡ください。">
     <meta name="keywords"
         content="dokodemo, dokodemo-kerja, dokodemo kerja, work everywhere, work whenever, work wherever, project management tool, project management software, human resource tool, human resource software, monitoring software, monitoring tool, monitor desktop, monitor with privacy, low res monitoring, low resolution monitoring, time tracker, logique product, pt logique">
     <meta name="author" content="PT. LOGIQUE Digital Indonesia">
     <meta name="google-site-verification" content="Xc9SFJQZdKYLsrWvrxEjLLTA-nyrnNPQTXQoMxs4gKI" />
-    <meta property="og:title" content="リモートワークを可能にする勤務時間管理クラウドツール | ドコデモクルジャ | LOGIQUE Digital Indonesia">
+    <meta property="og:title" content="リモートワーク管理ツールDokodemo-Kerjaの活用事例 | LOGIQUE Digital インドネシア">
     <meta property="og:type" content="website">
     <meta property="og:site_name" content="Dokodemo-Kerja">
     <meta property="og:url" content="https://dokodemo-kerja.com">
     <meta property="og:image" content="/img/dokodemo-og.jpg">
     <meta property="og:description"
-        content="従業員の実勤務時間を記録、GPSで働いた場所をトラッキング、フレキシブルで生産性の高い働き方を可能とするリモートワーク管理ツールDokodemo-Kerja（ドコデモクルジャ）の紹介ページ。試用をご希望の方はお気軽にLOGIQUEまでご連絡ください。">
+        content="Dokodemo-Kerjaの活用事例。従業員の実勤務時間を記録、GPSで働いた場所をトラッキング、フレキシブルで生産性の高い働き方を可能とするリモートワーク管理ツールDokodemo-Kerja（ドコデモクルジャ）の紹介。試用をご希望の方はお気軽にLOGIQUEまでご連絡ください。">
     <link rel="stylesheet" href="/css/bootstrap.min.css" />
     <link href="/fonts/font-awesome/css/font-awesome.min.css" rel="stylesheet">
     <link rel="stylesheet" href="/css/slick.css" />
@@ -27,7 +27,7 @@
     <link rel="stylesheet" href="/js/magnific-popup.css" />
 
 	<link rel="shortcut icon" type="image/x-icon" href="/favicon.ico">
-    <title>Case Study of Dokodemo-Kerja | Working Hours Tracking Tool</title>
+    <title>リモートワーク管理ツールDokodemo-Kerjaの活用事例 | LOGIQUE Digital インドネシア</title>
 	<!-- Google Tag Manager -->
 	<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
 	new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
@@ -99,7 +99,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                         <div class="case-study__card">
                             <img class="card__img" src="/img/case-study/case-2.png" alt="">
                             <h2 class="card__headline">「Dokodemo-Kerja」活用ストーリー2</h2>
-                            <h4 class="card__title">某システム開発会社</h4>
+                            <h4 class="card__title">システム開発会社B社</h4>
                             <p class="card__text">
                             <b>Q: </b>大変貴重なお話をありがとうございました。最後に、コメントをお願いいたします。 <b>A: </b>利用料金もリーズナブルである上、管理ツールとして非常に優れていると思います。人材に関する悩みは企業それぞれだと思いますが、当社のように、働きに応じた評価をどうするか、といった課題をお持ちの組織であれば、導入することでの相乗効果は必ずあると思います。
                             </p>
@@ -111,7 +111,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                         <div class="case-study__card">
                             <img class="card__img" src="/img/case-study/case-3.png" alt="">
                             <h2 class="card__headline">「Dokodemo-Kerja」活用ストーリー3</h2>
-                            <h4 class="card__title">某Accounting Firm</h4>
+                            <h4 class="card__title">Accounting Firm A社</h4>
                             <p class="card__text">
                                 <b>Q: </b>『Dokodemo-Kerja』を導入した経緯を教えてください。 <b>A: </b>当社はクライアント企業のAccounting業務を代行、コンサルティングしています。１００社を超えるクライアントがいますが、サービスの性質上、月末月初やTHR（インドネシアにおけるボーナスのようなもの）支給時、年末や４月（年間課税額の決定）などが繁忙期です。逆に、通常月の月中は閑散期となります。
                             </p>
