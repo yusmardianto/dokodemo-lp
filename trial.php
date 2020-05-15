@@ -10,7 +10,7 @@
 
 	require 'action/c-trial.php';
 
-	$page = 'trial.php';
+	$page = 'trial';
 ?>
 
 

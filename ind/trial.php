@@ -10,7 +10,7 @@ $config = include('../config/app.php');
 
 require '../action/c-trial.php';
 
-$page = 'trial.php';
+$page = 'trial';
 ?>
 
 <!DOCTYPE html>

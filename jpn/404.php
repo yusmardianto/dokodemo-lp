@@ -74,7 +74,7 @@
         gtag('config', 'UA-146404615-1');
     </script>
 </head>
-<?php $page = '404.php'; ?>
+<?php $page = '404'; ?>
 
 <body>
     <!-- Google Tag Manager (noscript) -->

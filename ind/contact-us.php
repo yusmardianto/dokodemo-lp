@@ -10,7 +10,7 @@
 
 	require '../action/c-contact-us.php';
 
-	$page = 'contact-us.php';
+	$page = 'contact-us';
 ?>
 
 <!DOCTYPE html>

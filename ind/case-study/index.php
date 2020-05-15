@@ -5,7 +5,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=5.0" />
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
-	<meta name="description" itemprop="description" content="Dokodemo-Kerja adalah sistem yang memungkinkan fitur pelacakan waktu, laporan waktu yang akurat, manajemen jam kerja, navigasi yang mudah, dan alat pemantauan kinerja yang fleksibel yang menguntungkan baik karyawan maupun pengusaha.">
+	<meta name="description" itemprop="description" content="Studi kasus Dokodemo-Kerja. Memperkenalkan Dokodemo-Kerja, alat manajemen kerja remote yang mencatat jam kerja aktual karyawan, melacak tempat mereka bekerja dengan GPS, serta memungkinkan untuk gaya kerja yang fleksibel dan produktivitas yang tinggi. Jika Anda ingin mencobanya, jangan ragu untuk menghubungi LOGIQUE.">
     <meta name="keywords" content="dokodemo, dokodemo-kerja, dokodemo kerja, pemantauan layar, monitor sceen, monitor karyawan, pemantauan karyawan, pelacak waktu, jam dalam perangkat lunak, perangkat lunak absensi, alat absensi, kalkulator jam kerja, kelola karyawan, alat untuk manajer, alat untuk jam, manajer pemberitahuan, alat produktivitas, penambah produktivitas, pengelola kinerja, pengelolaan kinerja, monitor kinerja, software clock in, fitur absensi">
     <meta name="author" content="PT. LOGIQUE Digital Indonesia">
 	<meta name="google-site-verification" content="Xc9SFJQZdKYLsrWvrxEjLLTA-nyrnNPQTXQoMxs4gKI" />
@@ -14,7 +14,7 @@
     <meta property="og:site_name" content="Dokodemo-Kerja">
     <meta property="og:url" content="https://dokodemo-kerja.com">
     <meta property="og:image" content="/img/dokodemo-og.jpg">
-    <meta property="og:description" content="Dokodemo-Kerja adalah sistem yang memungkinkan fitur pelacakan waktu, laporan waktu yang akurat, manajemen jam kerja, navigasi yang mudah, dan alat pemantauan kinerja yang fleksibel yang menguntungkan baik karyawan maupun pengusaha.">
+    <meta property="og:description" content="Studi kasus Dokodemo-Kerja. Memperkenalkan Dokodemo-Kerja, alat manajemen kerja remote yang mencatat jam kerja aktual karyawan, melacak tempat mereka bekerja dengan GPS, serta memungkinkan untuk gaya kerja yang fleksibel dan produktivitas yang tinggi. Jika Anda ingin mencobanya, jangan ragu untuk menghubungi LOGIQUE.">
     <link rel="stylesheet" href="/css/bootstrap.min.css" />
     <link href="/fonts/font-awesome/css/font-awesome.min.css" rel="stylesheet">
     <link rel="stylesheet" href="/css/slick.css" />
