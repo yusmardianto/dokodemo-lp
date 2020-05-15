@@ -82,7 +82,7 @@
   gtag('config', 'UA-146404615-1');
   </script>
 </head>
-<?php $page = 'privacy.php'; ?>
+<?php $page = 'privacy'; ?>
 
 <body>
   <!-- Google Tag Manager (noscript) -->
