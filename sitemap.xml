@@ -8,123 +8,203 @@
 
 
 <url>
-  <loc>https://dokodemo-kerja.com/</loc>
-  <lastmod>2020-04-30T06:38:52+00:00</lastmod>
+  <loc>https://www.dokodemo-kerja.com/</loc>
+  <lastmod>2020-05-19T09:39:24+00:00</lastmod>
   <priority>1.00</priority>
 </url>
 <url>
-  <loc>https://dokodemo-kerja.com/about.php</loc>
-  <lastmod>2020-04-30T06:38:52+00:00</lastmod>
+  <loc>https://www.dokodemo-kerja.com/about</loc>
+  <lastmod>2020-05-19T09:39:24+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>https://dokodemo-kerja.com/features.php</loc>
-  <lastmod>2020-04-30T06:38:52+00:00</lastmod>
+  <loc>https://www.dokodemo-kerja.com/features</loc>
+  <lastmod>2020-05-19T09:39:24+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>https://dokodemo-kerja.com/pricing.php</loc>
-  <lastmod>2020-04-30T06:38:52+00:00</lastmod>
+  <loc>https://www.dokodemo-kerja.com/case-study/</loc>
+  <lastmod>2020-05-19T09:39:24+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>https://dokodemo-kerja.com/trial.php</loc>
-  <lastmod>2020-04-30T06:38:52+00:00</lastmod>
+  <loc>https://www.dokodemo-kerja.com/pricing</loc>
+  <lastmod>2020-05-19T09:39:24+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>https://dokodemo-kerja.com/contact-us.php</loc>
-  <lastmod>2020-04-30T06:38:52+00:00</lastmod>
+  <loc>https://www.dokodemo-kerja.com/trial</loc>
+  <lastmod>2020-05-19T09:39:24+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>https://dokodemo-kerja.com/ind/</loc>
-  <lastmod>2020-04-30T06:38:52+00:00</lastmod>
+  <loc>https://www.dokodemo-kerja.com/contact-us</loc>
+  <lastmod>2020-05-19T09:39:24+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>https://dokodemo-kerja.com/jp/</loc>
-  <lastmod>2020-04-30T06:38:52+00:00</lastmod>
+  <loc>https://www.dokodemo-kerja.com/ind/</loc>
+  <lastmod>2020-05-19T09:39:24+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>https://dokodemo-kerja.com/subscribe.php</loc>
-  <lastmod>2020-04-30T06:38:52+00:00</lastmod>
+  <loc>https://www.dokodemo-kerja.com/jpn/</loc>
+  <lastmod>2020-05-19T09:39:24+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>https://dokodemo-kerja.com/terms.php</loc>
-  <lastmod>2020-04-30T06:38:52+00:00</lastmod>
+  <loc>https://www.dokodemo-kerja.com/trial.php</loc>
+  <lastmod>2020-05-19T09:39:24+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>https://dokodemo-kerja.com/privacy.php</loc>
-  <lastmod>2020-04-30T06:38:52+00:00</lastmod>
+  <loc>https://www.dokodemo-kerja.com/features.php</loc>
+  <lastmod>2020-05-19T09:39:24+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>https://dokodemo-kerja.com/ind/about.php</loc>
-  <lastmod>2020-04-30T06:38:52+00:00</lastmod>
+  <loc>https://www.dokodemo-kerja.com/case-study/case-1</loc>
+  <lastmod>2020-05-19T09:39:24+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.dokodemo-kerja.com/case-study/case-2</loc>
+  <lastmod>2020-05-19T09:39:24+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.dokodemo-kerja.com/case-study/case-3</loc>
+  <lastmod>2020-05-19T09:39:24+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.dokodemo-kerja.com/subscribe</loc>
+  <lastmod>2020-05-19T09:39:24+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.dokodemo-kerja.com/terms</loc>
+  <lastmod>2020-05-19T09:39:24+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.dokodemo-kerja.com/privacy</loc>
+  <lastmod>2020-05-19T09:39:24+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.dokodemo-kerja.com/ind/about</loc>
+  <lastmod>2020-05-19T09:39:24+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
-  <loc>https://dokodemo-kerja.com/ind/features.php</loc>
-  <lastmod>2020-04-30T06:38:52+00:00</lastmod>
+  <loc>https://www.dokodemo-kerja.com/contact-us.php</loc>
+  <lastmod>2020-05-19T09:39:24+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
-  <loc>https://dokodemo-kerja.com/pdf/manual-guide-ENG.pdf</loc>
+  <loc>https://www.dokodemo-kerja.com/ind/features</loc>
+  <lastmod>2020-05-19T09:39:24+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.dokodemo-kerja.com/ind/case-study/</loc>
+  <lastmod>2020-05-19T09:39:24+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.dokodemo-kerja.com/jpn/case-study/</loc>
+  <lastmod>2020-05-19T09:39:24+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.dokodemo-kerja.com/ind/pricing</loc>
+  <lastmod>2020-05-19T09:39:24+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.dokodemo-kerja.com/subscribe.php</loc>
+  <lastmod>2020-05-19T09:39:24+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.dokodemo-kerja.com/ind/trial</loc>
+  <lastmod>2020-05-19T09:39:24+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.dokodemo-kerja.com/pdf/manual-guide-ENG.pdf</loc>
   <lastmod>2020-04-14T02:42:20+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
-  <loc>https://dokodemo-kerja.com/pdf/install-guide-ENG.pdf</loc>
-  <lastmod>2020-04-14T02:42:20+00:00</lastmod>
+  <loc>https://www.dokodemo-kerja.com/ind/contact-us</loc>
+  <lastmod>2020-05-19T09:39:24+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
-  <loc>https://dokodemo-kerja.com/ind/pricing.php</loc>
-  <lastmod>2020-04-30T06:38:52+00:00</lastmod>
+  <loc>https://www.dokodemo-kerja.com/ind/trial.php</loc>
+  <lastmod>2020-05-19T09:39:24+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
-  <loc>https://dokodemo-kerja.com/ind/trial.php</loc>
-  <lastmod>2020-04-30T06:38:52+00:00</lastmod>
+  <loc>https://www.dokodemo-kerja.com/ind/case-study/case-1</loc>
+  <lastmod>2020-05-19T09:39:24+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
-  <loc>https://dokodemo-kerja.com/ind/contact-us.php</loc>
-  <lastmod>2020-04-30T06:38:52+00:00</lastmod>
+  <loc>https://www.dokodemo-kerja.com/ind/case-study/case-2</loc>
+  <lastmod>2020-05-19T09:39:24+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
-  <loc>https://dokodemo-kerja.com/ind/subscribe.php</loc>
-  <lastmod>2020-04-30T06:38:52+00:00</lastmod>
+  <loc>https://www.dokodemo-kerja.com/ind/case-study/case-3</loc>
+  <lastmod>2020-05-19T09:39:24+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
-  <loc>https://dokodemo-kerja.com/ind/terms.php</loc>
-  <lastmod>2020-04-30T06:38:52+00:00</lastmod>
+  <loc>https://www.dokodemo-kerja.com/ind/subscribe</loc>
+  <lastmod>2020-05-19T09:39:24+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
-  <loc>https://dokodemo-kerja.com/ind/privacy.php</loc>
-  <lastmod>2020-04-30T06:38:52+00:00</lastmod>
+  <loc>https://www.dokodemo-kerja.com/ind/terms</loc>
+  <lastmod>2020-05-19T09:39:24+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
-  <loc>https://dokodemo-kerja.com/ind/index.php</loc>
-  <lastmod>2020-04-30T06:38:52+00:00</lastmod>
+  <loc>https://www.dokodemo-kerja.com/ind/privacy</loc>
+  <lastmod>2020-05-19T09:39:24+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.dokodemo-kerja.com/jpn/case-study/case-1</loc>
+  <lastmod>2020-05-19T09:39:24+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.dokodemo-kerja.com/jpn/case-study/case-2</loc>
+  <lastmod>2020-05-19T09:39:24+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.dokodemo-kerja.com/jpn/case-study/case-3</loc>
+  <lastmod>2020-05-19T09:39:24+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.dokodemo-kerja.com/ind/contact-us.php</loc>
+  <lastmod>2020-05-19T09:39:24+00:00</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
-  <loc>https://dokodemo-kerja.com/pdf/manual-guide.pdf</loc>
-  <lastmod>2020-04-22T03:03:46+00:00</lastmod>
+  <loc>https://www.dokodemo-kerja.com/ind/index.php</loc>
+  <lastmod>2020-05-19T09:39:24+00:00</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
-  <loc>https://dokodemo-kerja.com/pdf/install-guide.pdf</loc>
-  <lastmod>2020-04-22T03:03:46+00:00</lastmod>
+  <loc>https://www.dokodemo-kerja.com/ind/subscribe.php</loc>
+  <lastmod>2020-05-19T09:39:24+00:00</lastmod>
   <priority>0.51</priority>
 </url>
 
