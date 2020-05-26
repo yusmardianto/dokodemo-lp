@@ -99,56 +99,8 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
             <img src="../img/whatsapp.svg" id="fixedbutton" alt="" />
         </a>
 	</section>
-	<!-- req online meeting popup -->
-    <section>
-         <button class="btn botFixedBtn" id="btnReqOnlineMeeting" aria-label="btnReqOnlineMeeting" type="button" data-toggle="collapse" href="#collapseExample" style="background: #ffcc13;">
-            <i class="fa fa-chevron-up" style="font-size: medium; color: #fff;"></i>
-        </button>
-        <span class="collapse popUpBottom" id="collapseExample">
-            <div class="card card-body" style="border: 3px solid lightgrey;">
-                <div class=" text-center" style="padding: 1em;">
-                    <!-- <div class="btn pull-right">X</div> -->
-                    <button type="button" class="close survey-close" data-toggle="collapse" href="#collapseExample" aria-label="Close" style="padding: 6px 12px;">
-                        <span aria-hidden="true"><i class="fa fa-chevron-down" style="font-size: medium;"></i></span>
-                    </button>
-                    <h5 class="card-title"><b>SET UP AN <br> ONLINE MEETING</b></h5>
-                    <hr>
-											<p class="card-text">Jika Anda tertarik untuk melihat demo secara langsung, atau memiliki pertanyaan apapun,
-											klik tombol dibawah ini</p>
-											<form action="https://formspree.io/xnqqyjdg" method="POST">
-													<div class="form-group" style="text-align:left;">
-															<label for="clientName">Nama</label>
-															<input type="text" class="form-control" name="clientName" id="clientName" placeholder="Masukan nama anda">
-													</div>
-													<div class="form-group" style="text-align:left;">
-															<label for="clientEmail">Email</label>
-															<input type="email" class="form-control" name="clientEmail" required id="clientEmail" placeholder="Masukan email anda">
-													</div>
-													<div class="form-group" style="text-align:left;">
-															<label for="clientDate">Date</label>
-															<input type="date" class="form-control" name="clientDate" id="clientDate" placeholder="Enter your Date">
-													</div>
-													<div class="form-group" style="text-align:left;">
-															<label for="clientTime">Time</label>
-															<select class="form-control" name="clientTime" id="clientTime" placeholder="Select your time">
-																	<option value="09.00">09.00</option>
-																	<option value="10.00">10.00</option>
-																	<option value="11.00">11.00</option>
-																	<option value="12.00">12.00</option>
-																	<option value="13.00">13.00</option>
-																	<option value="14.00">14.00</option>
-																	<option value="15.00">15.00</option>
-																	<option value="16.00">16.00</option>
-																	<option value="17.00">17.00</option>
-															</select>
-													</div>
-													<button type="submit" class="btn btn-primary" id="meet-online-btn">Send</button>
-											</form>
-                    </div>
-                </div>
-            </div>
-        </span>    
-    </section>
+    <!-- req online meeting popup -->
+    <?php include '../component/online-meeting.php' ?>
     <!-- end of req online meeting popup -->
 	<br /><br />
 	<div class="container dokodemo-customoption">
