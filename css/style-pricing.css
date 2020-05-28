@@ -375,6 +375,18 @@ body {
   font-size: 24px;
 }
 
+.faq .faq__q-title {
+  font-weight: bold;
+  border-bottom: solid 1px gray;
+  margin-bottom: 1em;
+  margin-top: 1em;
+}
+
+.faq .faq__q,
+.faq__q ~ p > a {
+  font-weight: bold;
+}
+
 .blue2 {
   color:#008ec4;
   font-size: 18px;
