@@ -200,116 +200,116 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                     <div class="container">
                         <div class="row">
                             <div class="col-md-12 mb-3">
-                                <h3 class="font-weight-bold">GENERAL</h3>
+                                <h3 class="faq__q-title">GENERAL</h3>
 
-                                <h3 class="blue2 fw-500">Q. Untuk siapakah Dokodemo-Kerja dibuat?</h3>
+                                <h3 class="faq__q blue2 fw-500">Q. Untuk siapakah Dokodemo-Kerja dibuat?</h3>
                                 <p>
                                     A. Dokodemo-Kerja dibuat untuk para perusahaan yang menggunakan karyawan dengan sistem kerja remote dan independen agar meningkatkan produktifitas perusahaan.
                                 </p>
-                                <h3 class="blue2 fw-500">Q. Apakah Dokodemo-Kerja bisa digunakan di luar Indonesia?</h3>
+                                <h3 class="faq__q blue2 fw-500">Q. Apakah Dokodemo-Kerja bisa digunakan di luar Indonesia?</h3>
                                 <p>
                                     A. Bisa. Namun jika Anda menggunakan Dokodedomo-Kerja sambil bepergian ke lokasi dengan zona waktu yang berbeda pada hari yang sama, perhitungan waktu kerja akan menjadi lebih rumit.
                                 </p>
-                                <h3 class="blue2 fw-500">Q. Apakah Dokodemo-Kerja bisa diakses lewat perangkat seluler?</h3>
+                                <h3 class="faq__q blue2 fw-500">Q. Apakah Dokodemo-Kerja bisa diakses lewat perangkat seluler?</h3>
                                 <p>
                                     A. Bisa. Dengan menggunakan Dokodemo-Kerja Mobile Application, karyawan dapat bekerja di luar kantor karena aplikasi akan merekam jam kerja mereka. Aplikasi Mobile hanya akan merekam lokasi dan jam kerja karyawan, namun tidak akan mengambil tangkapan layar seperti halnya aplikasi desktop.
                                 </p>
-                                <h3 class="blue2 fw-500">Q. Bagaimana cara mengetahui apakah PC atau Mac saya dapat menjalankan Dokodemo-Kerja? </h3>
+                                <h3 class="faq__q blue2 fw-500">Q. Bagaimana cara mengetahui apakah PC atau Mac saya dapat menjalankan Dokodemo-Kerja? </h3>
                                 <p>
                                     A. Dokodemo-Kerja mendukung PC yang menjalankan sistem operasi Windows, Linux, dan Macintosh.
                                 </p>
-                                <h3 class="blue2 fw-500">Q. Bahasa apa saja yang tersedia untuk Dokodemo-Kerja?</h3>
+                                <h3 class="faq__q blue2 fw-500">Q. Bahasa apa saja yang tersedia untuk Dokodemo-Kerja?</h3>
                                 <p>
                                     A. Untuk saat ini, Dokodemo-Kerja tersedia dalam Bahasa Indonesia dan Inggris.
                                 </p>
-                                <h3 class="blue2 fw-500">Q. Dapatkah saya melakukan uji coba Dokodemo-Kerja terlebih dahulu sebelum membelinya?</h3>
+                                <h3 class="faq__q blue2 fw-500">Q. Dapatkah saya melakukan uji coba Dokodemo-Kerja terlebih dahulu sebelum membelinya?</h3>
                                 <p>
                                     A. Bisa. Buka halaman <a href="/ind/trial"> Trial </a> dan ikuti instruksi untuk mencoba demo, atau hubungi kami untuk bertanya tentang cara kerjanya.
                                 </p>
-                                <h3 class="blue2 fw-500">Q. Bagaimana jika saya punya masalah dalam menggunakan Dokodemo-Kerja?</h3>
+                                <h3 class="faq__q blue2 fw-500">Q. Bagaimana jika saya punya masalah dalam menggunakan Dokodemo-Kerja?</h3>
                                 <p>
                                     A. Jangan khawatir. Jika Anda mengalami masalah dalam menggunakan Dokodemo-Kerja, Anda dapat langsung menghubungi kami. Kami akan membantu Anda dengan senang hati.
                                 </p>
                             </div>
                             <div class="col-md-12 mb-3">
-                                <h3 class="font-weight-bold">SYSTEM</h3>
+                                <h3 class="faq__q-title">SYSTEM</h3>
 
-                                <h3 class="blue2 fw-500">Q. Bagaimana Dokodemo-Kerja merekam jam kerja karyawan?</h3>
+                                <h3 class="faq__q blue2 fw-500">Q. Bagaimana Dokodemo-Kerja merekam jam kerja karyawan?</h3>
                                 <p>
                                     A. Dokodemo-Kerja merekam aktivitas dan jam kerja untuk setiap proyek yang dikerjakan karyawan pada layar perangkat komputernya. Perhitungan akan dimulai dan dihentikan dengan perintah <i>start/stop</i>.
                                 </p>
-                                <h3 class="blue2 fw-500">Q. Apakah Dokodemo-Kerja memerlukan akses internet?</h3>
+                                <h3 class="faq__q blue2 fw-500">Q. Apakah Dokodemo-Kerja memerlukan akses internet?</h3>
                                 <p>
                                     A. Akses internet diperlukan untuk mengaktifkan dan mengelola akun Dokodemo-Kerja, serta mengirim data rekaman aktivitas dan jam kerja ke database.
                                 </p>
-                                <h3 class="blue2 fw-500">Q. Bagaimana jika akses internet saya putus saat Dokodemo-Kerja berjalan?</h3>
+                                <h3 class="faq__q blue2 fw-500">Q. Bagaimana jika akses internet saya putus saat Dokodemo-Kerja berjalan?</h3>
                                 <p>
                                     A. Tidak masalah. Akses internet tidak dibutuhkan selama proses penghitungan. Namun, Anda membutuhkan koneksi internet saat tombol stop diklik untuk mengirim data ke database.
                                 </p>
-                                <h3 class="blue2 fw-500">Q. Berapa jumlah pengguna yang didukung oleh Dokodemo-Kerja?</h3>
+                                <h3 class="faq__q blue2 fw-500">Q. Berapa jumlah pengguna yang didukung oleh Dokodemo-Kerja?</h3>
                                 <p>
                                     A. Jumlah pengguna bisa disesuaikan menurut kebutuhan perusahaan.
                                 </p>
-                                <h3 class="blue2 fw-500">Q. Apakah Dokodemo-Kerja dapat menyesuaikan waktu sesuai dengan zona waktu lokal yang ada?</h3>
+                                <h3 class="faq__q blue2 fw-500">Q. Apakah Dokodemo-Kerja dapat menyesuaikan waktu sesuai dengan zona waktu lokal yang ada?</h3>
                                 <p>
                                     A. Bisa, Jika Anda mengaktifkan Dokodemo-Kerja, maka secara otomatis aplikasi akan mendeteksi zona waktu lokal yang ada.
                                 </p>
-                                <h3 class="blue2 fw-500">Q. Apa yang akan terjadi jika kita langsung mematikan OS (Operating System) tanpa menghentikan Dokodemo-Kerja terlebih dahulu?</h3>
+                                <h3 class="faq__q blue2 fw-500">Q. Apa yang akan terjadi jika kita langsung mematikan OS (Operating System) tanpa menghentikan Dokodemo-Kerja terlebih dahulu?</h3>
                                 <p>
                                     A. Jika hal ini terjadi, maka pencatatan waktu yang terekam akan berada pada waktu terakhir aplikasi menangkap layar monitor.
                                 </p>
-                                <h3 class="blue2 fw-500">Q. Dapatkah Dokodemo-Kerja beroperasi di Background System?</h3>
+                                <h3 class="faq__q blue2 fw-500">Q. Dapatkah Dokodemo-Kerja beroperasi di Background System?</h3>
                                 <p>
                                     A. Bisa. Namun ketika aplikasi ditutup, maka service secara otomatis juga akan berakhir.
                                 </p>
-                                <h3 class="blue2 fw-500">Q. Bisakah Dokodemo-Kerja digunakan dengan Catalina Mac terbaru? </h3>
+                                <h3 class="faq__q blue2 fw-500">Q. Bisakah Dokodemo-Kerja digunakan dengan Catalina Mac terbaru? </h3>
                                 <p>
                                     A. Bisa, namun Anda harus memperbarui pengaturan keamanan dan mengizinkan aplikasi untuk merekam layar Anda.
                                 </p>
-                                <h3 class="blue2 fw-500">Q. Bisakah Dokodemo-Kerja digunakan dengan Windows 7?</h3>
+                                <h3 class="faq__q blue2 fw-500">Q. Bisakah Dokodemo-Kerja digunakan dengan Windows 7?</h3>
                                 <p>
                                     A. Bisa.
                                 </p>
-                                <h3 class="blue2 fw-500">Q. Di manakah tangkapan layar disimpan? Bisakah karyawan Logique melihat gambar-gambar tersebut?</h3>
+                                <h3 class="faq__q blue2 fw-500">Q. Di manakah tangkapan layar disimpan? Bisakah karyawan Logique melihat gambar-gambar tersebut?</h3>
                                 <p>
                                     A. Kami memiliki server yang berbeda untuk menyimpan tangkapan layar dan karyawan Logique tidak memiliki akses ke gambar-gambar tangkapan layar.
                                 </p>
                             </div>
                             <div class="col-md-12 mb-3">
-                                <h3 class="font-weight-bold">IMPLEMENTATION</h3>
+                                <h3 class="faq__q-title">IMPLEMENTATION</h3>
 
-                                <h3 class="blue2 fw-500">Q. Apa keuntungan yang didapatkan oleh perusahaan yang menerapkan Dokodemo-Kerja?</h3>
+                                <h3 class="faq__q blue2 fw-500">Q. Apa keuntungan yang didapatkan oleh perusahaan yang menerapkan Dokodemo-Kerja?</h3>
                                 <p>
                                     A. Dengan Dokodemo-Kerja, perusahaan akan diuntungkan dengan produktivitas karyawan yang meningkat sehingga perusahaan dapat membuat target untuk para karyawan sesuai dengan kinerjanya masing-masing.
                                 </p>
-                                <h3 class="blue2 fw-500">Q. Seberapa efektifkah Dokodemo-Kerja pada produktivitas karyawan?</h3>
+                                <h3 class="faq__q blue2 fw-500">Q. Seberapa efektifkah Dokodemo-Kerja pada produktivitas karyawan?</h3>
                                 <p>
                                     A. Sangat efektif, karena Dokodemo-Kerja mampu mengkalkulasikan total jam kerja karyawan secara real time dan transparan.
                                 </p>
 
-                                <h3 class="blue2 fw-500">Q. Bagaimana cara Dokodemo-Kerja mengelola karyawan yang bekerja di lapangan?</h3>
+                                <h3 class="faq__q blue2 fw-500">Q. Bagaimana cara Dokodemo-Kerja mengelola karyawan yang bekerja di lapangan?</h3>
                                 <p>
                                     A. Anda dapat menggunakan Aplikasi Mobile Dokodemo-Kerja, yang akan membantu Anda melacak Jam Kerja dan Lokasi mereka.
                                 </p>
-                                <h3 class="blue2 fw-500">Q. Saya tertarik menggunakan Dokodemo-Kerja untuk perusahaan saya. Bagaimana saya bisa mendapatkannya?</h3>
+                                <h3 class="faq__q blue2 fw-500">Q. Saya tertarik menggunakan Dokodemo-Kerja untuk perusahaan saya. Bagaimana saya bisa mendapatkannya?</h3>
                                 <p>
                                     A. Telusuri halaman <a href="/ind/subscribe">Subscribing Procedure</a> untuk membaca cara kerja berlangganan Dokodemo-Kerja.
                                 </p>
-                                <h3 class="blue2 fw-500">Q. Bagaimana cara menerapkan Dokodemo-Kerja?</h3>
+                                <h3 class="faq__q blue2 fw-500">Q. Bagaimana cara menerapkan Dokodemo-Kerja?</h3>
                                 <p>A. Kami telah menyediakan sebuah panduan <i>step-by-step</i>. Dimulai dari cara akses ke akun utama, akses ke aplikasi dan prosedur instalasi, serta cara menggunakan program. Untuk penjelasan lebih, <a href="/ind/trial#nav-home-tab">tekan ini</a>.</p>
                             </div>
                             <div class="col-md-12 mb-3">
-                                <h3 class="font-weight-bold">SUBCRIPTION</h3>
+                                <h3 class="faq__q-title">SUBCRIPTION</h3>
 
-                                <h3 class="blue2 fw-500">Q. Apakah ada periode kontrak minimum yang diperlukan untuk menggunakan Dokodemo-Kerja?</h3>
+                                <h3 class="faq__q blue2 fw-500">Q. Apakah ada periode kontrak minimum yang diperlukan untuk menggunakan Dokodemo-Kerja?</h3>
                                 <p>
                                     A. Tidak ada periode kontrak minimum, tetapi kami menyarankan untuk mencobanya selama setidaknya 1 bulan.
                                 </p>
-                                <h3 class="blue2 fw-500">Q: Bagaimana cara kerja pembayaran?</h3>
+                                <h3 class="faq__q blue2 fw-500">Q: Bagaimana cara kerja pembayaran?</h3>
                                 <p>
                                     A. Pada akhir setiap bulan, kami akan menghitung jumlah pengguna dan mengeluarkan faktur. Anda dapat membayarnya melalui transfer bank hingga akhir bulan depan.
                                 </p>
-                                <h3 class="blue2 fw-500">Q: Apakah saya harus membayar untuk karyawan yang menggunakan program ini kurang dari sebulan?</h3>
+                                <h3 class="faq__q blue2 fw-500">Q: Apakah saya harus membayar untuk karyawan yang menggunakan program ini kurang dari sebulan?</h3>
                                 <p>
                                     A. Jika seorang karyawan menggunakan program kurang dari 10 hari dalam jangka waktu satu bulan, pengguna tidak akan dikenai biaya.
                                 </p>
