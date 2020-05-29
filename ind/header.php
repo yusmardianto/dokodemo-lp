@@ -40,15 +40,15 @@
             <span class="navbar-toggler-icon"></span>
         </button>
         <div class="collapse navbar-collapse" id="navbarNav">
-            <ul class="navbar-nav ml-auto">
+            <ul class="navbar-nav flex-grow-1 justify-content-center">
                 <li class="nav-item <?php active('') ?>">
                     <a class="nav-link" href="/ind/">Home</a>
                 </li>
-                <li class="nav-item <?php active('about') ?>">
+                <!-- <li class="nav-item <?php active('about') ?>">
                     <a class="nav-link" href="/ind/about">About</a>
-                </li>
+                </li> -->
                 <li class="nav-item <?php active('features') ?>">
-                    <a class="nav-link" href="/ind/features">Feature Tour</a>
+                    <a class="nav-link" href="/ind/features">Feature</a>
                 </li>
                 <li class="nav-item <?php active_case() ?>">
                     <a class="nav-link" href="/ind/case-study">Studi Kasus</a>
@@ -57,7 +57,7 @@
                     <a class="nav-link" href="/ind/pricing">Harga</a>
                 </li>
                 <li class="nav-item <?php active('trial') ?>">
-                    <a class="nav-link" href="/ind/trial">Trial</a>
+                    <a class="nav-link" href="/ind/trial">Demo</a>
                 </li>
                 <li class="nav-item">
                     <a class="nav-link" target="_blank" rel="noopener noreferrer"
@@ -72,7 +72,7 @@
                 </li>
 
             </ul>
-            <div class="mx-auto">
+            <div class="ml-auto">
                 <p class="text-center txt-lang">Language</p>
                 <div class="switch-language">
                     <a href="/<?php echo $page;?>"><label for="radio-one">ENG</label></a>

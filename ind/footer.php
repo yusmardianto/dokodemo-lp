@@ -14,10 +14,10 @@
                     <ul class="footer-menu-list first-list">
                         <li><a href="/ind">Home</a></li>
                         <li><a href="/ind/about">About Us</a></li>
-                        <li><a href="/ind/features">Features</a></li>
+                        <li><a href="/ind/features">Feature</a></li>
                         <li><a href="/ind/case-study/">Case Study</a></li>
-                        <li><a href="/ind/pricing">Pricing</a></li>
-                        <li><a href="/ind/trial">Trial</a></li>
+                        <li><a href="/ind/pricing">Price</a></li>
+                        <li><a href="/ind/trial">Demo</a></li>
                         <li><a href="https://www.logique.co.id/blog/category/dokodemo-kerja/" target="_blank" rel="noopener noreferrer">Blog</a></li>
                     </ul>
                 </div>

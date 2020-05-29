@@ -31,7 +31,6 @@
     } 
 ?>
 
-
 <nav class="navbar navbar-expand-lg navbar-light">
     <div class="container">
         <a class="navbar-brand" href="/" aria-label="Back To Home">
@@ -42,24 +41,24 @@
             <span class="navbar-toggler-icon"></span>
         </button>
         <div class="collapse navbar-collapse" id="navbarNav">
-            <ul class="navbar-nav ml-auto">
+            <ul class="navbar-nav flex-grow-1 justify-content-center">
                 <li class="nav-item <?php active('') ?>">
                     <a class="nav-link" href="/">Home</a>
                 </li>
-                <li class="nav-item <?php active('about') ?>">
+                <!-- <li class="nav-item <?php active('about') ?>">
                     <a class="nav-link" href="/about">About Us</a>
-                </li>
+                </li> -->
                 <li class="nav-item <?php active('features') ?>">
-                    <a class="nav-link" href="/features">Feature Tour</a>
+                    <a class="nav-link" href="/features">Feature</a>
                 </li>
                 <li class="nav-item <?php active_case() ?>">
                     <a class="nav-link" href="/case-study/">Case Study</a>
                 </li>
                 <li class="nav-item <?php active('pricing') ?>">
-                    <a class="nav-link" href="/pricing">Pricing</a>
+                    <a class="nav-link" href="/pricing">Price</a>
                 </li>
                 <li class="nav-item <?php active('trial') ?>">
-                    <a class="nav-link" href="/trial">Trial</a>
+                    <a class="nav-link" href="/trial">Demo</a>
                 </li>
                 <li class="nav-item">
                     <a class="nav-link" target="_blank" rel="noopener noreferrer"
@@ -74,7 +73,7 @@
                 </li>
 
             </ul>
-            <div class="mx-auto">
+            <div class="ml-auto">
                 <p class="text-center txt-lang">Language</p>
                 <div class="switch-language">
                     <a href="/"><label class="active" for="radio-one">ENG</label></a>

@@ -40,13 +40,13 @@
             <span class="navbar-toggler-icon"></span>
         </button>
         <div class="collapse navbar-collapse" id="navbarNav">
-            <ul class="navbar-nav ml-auto --jp">
+            <ul class="navbar-nav flex-grow-1 justify-content-center --jp">
                 <li class="nav-item <?php active('') ?>">
                     <a class="nav-link" href="/jpn">ホーム</a>
                 </li>
-                <li class="nav-item <?php active('about') ?>">
+                <!-- <li class="nav-item <?php active('about') ?>">
                     <a class="nav-link" href="/about">Dokodemo-Kerjaについて</a>
-                </li>
+                </li> -->
                 <li class="nav-item <?php active('features') ?>">
                     <a class="nav-link" href="/features">機能</a>
                 </li>
@@ -72,7 +72,7 @@
                 </li>
 
             </ul>
-            <div class="mx-auto">
+            <div class="ml-auto">
                 <p class="text-center txt-lang">Language</p>
                 <div class="switch-language">
                     <a href="/<?php echo $page;?>"><label for="radio-one">ENG</label></a>
