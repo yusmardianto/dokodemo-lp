@@ -40,24 +40,24 @@
             <span class="navbar-toggler-icon"></span>
         </button>
         <div class="collapse navbar-collapse" id="navbarNav">
-            <ul class="navbar-nav ml-auto --jp">
+            <ul class="navbar-nav flex-grow-1 justify-content-center --jp">
                 <li class="nav-item <?php active('') ?>">
                     <a class="nav-link" href="/jpn">ホーム</a>
                 </li>
-                <li class="nav-item <?php active('about') ?>">
+                <!-- <li class="nav-item <?php active('about') ?>">
                     <a class="nav-link" href="/about">Dokodemo-Kerjaについて</a>
-                </li>
+                </li> -->
                 <li class="nav-item <?php active('features') ?>">
                     <a class="nav-link" href="/features">機能</a>
                 </li>
                 <li class="nav-item <?php active_case() ?>">
                     <a class="nav-link" href="/jpn/case-study/">Case Study</a>
                 </li>
-                <li class="nav-item <?php active('pricing') ?>">
-                    <a class="nav-link" href="/pricing">価格</a>
+                <li class="nav-item <?php active('price') ?>">
+                    <a class="nav-link" href="/price">価格</a>
                 </li>
-                <li class="nav-item <?php active('trial') ?>">
-                    <a class="nav-link" href="/trial">デモ</a>
+                <li class="nav-item <?php active('demo') ?>">
+                    <a class="nav-link" href="/demo">デモ</a>
                 </li>
                 <li class="nav-item">
                     <a class="nav-link" target="_blank" rel="noopener noreferrer"
@@ -72,7 +72,7 @@
                 </li>
 
             </ul>
-            <div class="mx-auto">
+            <div class="ml-auto">
                 <p class="text-center txt-lang">Language</p>
                 <div class="switch-language">
                     <a href="/<?php echo $page;?>"><label for="radio-one">ENG</label></a>

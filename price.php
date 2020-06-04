@@ -56,7 +56,7 @@
 	  gtag('config', 'UA-146404615-1');
 	</script>
 </head>
-<?php $page = 'pricing'; ?>
+<?php $page = 'price'; ?>
 <body>
 <!-- Google Tag Manager (noscript) -->
 <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-WT4MCDL"
@@ -195,7 +195,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                     </p>
                     <h3 class="faq__q blue2 fw-500">Q. Is there a demo version of Dokodemo-Kerja that I can try before purchasing it?</h3>
                     <p>
-                        A. Yes. Head on to the <a href="/trial">Trial</a> page and follow the instructions to try the demo, or Contact Us to ask about how it works.
+                        A. Yes. Head on to the <a href="/demo">Trial</a> page and follow the instructions to try the demo, or Contact Us to ask about how it works.
                     </p>
                     <h3 class="faq__q blue2 fw-500">Q. What if a problem occurs when I use Dokodemo-Kerja?</h3>
                     <p>
@@ -266,7 +266,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                         A. Please access the <a href="/subscribe">Subscribing Procedure</a> page to see how our contract works, or if you have further inquiries just Contact Us.
                     </p>
                     <h3 class="faq__q blue2 fw-500">Q. How do I set up Dokodemo-Kerja?</h3>
-                    <p>A. We have prepared a Dokodemo-Kerja step-by-step manual. Starting from how to access the master account, application access and installation procedure, and how employees can use the program. To find out more <a href="/trial#nav-home-tab">click here</a>.</p>
+                    <p>A. We have prepared a Dokodemo-Kerja step-by-step manual. Starting from how to access the master account, application access and installation procedure, and how employees can use the program. To find out more <a href="/demo#nav-home-tab">click here</a>.</p>
                 </div>
                 <div class="col-md-12 mb-3">
                     <h3 class="faq__q-title">SUBCRIPTION</h3>

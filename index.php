@@ -167,7 +167,7 @@
             <div class="row">
                 <div class="offset-md-1 col-md-10">
                     <!-- <p class="fs-27 text-center header-demo-text">Try the <strong>Demo</strong> Now</p> -->
-                    <a href="trial.php" class="btn-sign-up btn-try-demo" id="btn-sign-up">Try the Demo Now!</a>
+                    <a href="/demo" class="btn-sign-up btn-try-demo" id="btn-sign-up">Try the Demo Now!</a>
                     <span class="text-center d-block pb-4 pt-2 fs-medium header-subdemo-text">*No credit card required</span>
                 </div>
             </div>
@@ -239,7 +239,7 @@
                 </div>
                 <div class="offset-md-1 col-md-10 home-feature__card-wrapper --btn">
                     <div>
-                        <a href="/features.php">
+                        <a href="/features">
                             <button class="btn btn-primary form-control feature-btn">Learn More</button>
                             <img src="/img/home/arrow-down.svg"  width="13" alt=""/>
                         </a>
@@ -504,7 +504,7 @@
                     <span class="d-block text-white text-center text-md-left fs-18 header-subdemo-text">*No credit card required</span>
                 </div>
                 <div class="col-md-4">
-                    <a href="trial.php" class="btn-sign-up btn-try-demo" id="btn-sign-up">Click Here</a>
+                    <a href="/demo" class="btn-sign-up btn-try-demo" id="btn-sign-up">Click Here</a>
                 </div>
             </div>
         </div>
