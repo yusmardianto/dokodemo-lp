@@ -5,8 +5,8 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=5.0" />
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
-	<meta name="description" itemprop="description" content="Studi kasus No.3 untuk penggunaan Dokodemo-Kerja, aplikasi pada Perusahaan Akuntansi. Dokodemo-Kerja, alat manajemen kerja jarak jauh yang mencatat jam kerja aktual karyawan, melacak tempat mereka bekerja dengan GPS, dan memungkinkan gaya kerja yang fleksibel dan produktivitas yang tinggi.">
-    <meta name="keywords" content="dokodemo, dokodemo-kerja, dokodemo kerja, pemantauan layar, monitor sceen, monitor karyawan, pemantauan karyawan, pelacak waktu, jam dalam perangkat lunak, perangkat lunak absensi, alat absensi, kalkulator jam kerja, kelola karyawan, alat untuk manajer, alat untuk jam, manajer pemberitahuan, alat produktivitas, penambah produktivitas, pengelola kinerja, pengelolaan kinerja, monitor kinerja, software clock in, fitur absensi">
+	<meta name="description" itemprop="description" content="Studi kasus No.3 untuk penggunaan Dokodemo-Kerja, aplikasi pada Perusahaan Akuntansi. Dokodemo-Kerja, alat manajemen kerja jarak jauh yang mencatat jam kerja aktual karyawan, melacak tempat mereka bekerja dengan GPS, dan memungkinkan gaya kerja yang fleksibel dan produktifitas yang tinggi.">
+    <meta name="keywords" content="dokodemo, dokodemo-kerja, dokodemo kerja, pemantauan layar, monitor sceen, monitor karyawan, pemantauan karyawan, pelacak waktu, jam dalam perangkat lunak, perangkat lunak absensi, alat absensi, kalkulator jam kerja, kelola karyawan, alat untuk manajer, alat untuk jam, manajer pemberitahuan, alat produktifitas, penambah produktifitas, pengelola kinerja, pengelolaan kinerja, monitor kinerja, software clock in, fitur absensi">
     <meta name="author" content="PT. LOGIQUE Digital Indonesia">
 	<meta name="google-site-verification" content="Xc9SFJQZdKYLsrWvrxEjLLTA-nyrnNPQTXQoMxs4gKI" />
     <meta property="og:title" content="Alat Manajemen Kerja Remote Dokodemo-Kerja, Studi Kasus No.3 | LOGIQUE Digital Indonesia">
@@ -14,7 +14,7 @@
     <meta property="og:site_name" content="Dokodemo-Kerja">
     <meta property="og:url" content="https://dokodemo-kerja.com">
     <meta property="og:image" content="/img/dokodemo-og.jpg">
-    <meta property="og:description" content="Studi kasus No.3 untuk penggunaan Dokodemo-Kerja, aplikasi pada Perusahaan Akuntansi. Dokodemo-Kerja, alat manajemen kerja jarak jauh yang mencatat jam kerja aktual karyawan, melacak tempat mereka bekerja dengan GPS, dan memungkinkan gaya kerja yang fleksibel dan produktivitas yang tinggi.">
+    <meta property="og:description" content="Studi kasus No.3 untuk penggunaan Dokodemo-Kerja, aplikasi pada Perusahaan Akuntansi. Dokodemo-Kerja, alat manajemen kerja jarak jauh yang mencatat jam kerja aktual karyawan, melacak tempat mereka bekerja dengan GPS, dan memungkinkan gaya kerja yang fleksibel dan produktifitas yang tinggi.">
     <link rel="stylesheet" href="/css/bootstrap.min.css" />
     <link href="/fonts/font-awesome/css/font-awesome.min.css" rel="stylesheet">
     <link rel="stylesheet" href="/css/slick.css" />
@@ -92,7 +92,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                                 <p><b>A: </b>Kami mewakili dan menyediakan layanan konsultasi <i>Accounting</i> untuk perusahaan klien. Saat ini kami mempunyai lebih dari 100 klien, dan memang karena sudah disposisi dari servis kami, pada saat pembayaran di awal atau akhir bulan dan THR maupun di akhir tahun dan bukan April (saat penentuan jumlah pajak tahunan) merupakan peak season kesibukan. Akan tetapi di bulan lainnya atau pada pertengahan bulan tidak banyak pekerjaan yang dapat dilakukan. <br>
                                 Namun, karena tetap perlu mengamankan sumber daya yang diperlukan pada saat waktu sibuk di awal dan akhir bulan, ada <i>surplus</i> karyawan selama di pertengahan bulan (dimana <i>workload</i> sedang sedikit). Meskipun begitu, pada awal dan akhir bulan tetap saja banyak karyawan yang harus bekerja lembur, sehingga peningkatan pada pembayaran kerja lembur pun tidak terhindarkan. <br>
                                 Dengan tipe bisnis yang dijalankan, memang sulit untuk menyesuaikan jumlah karyawan sesuai dengan masa kerja yang sibuk, hal ini membuat saya bertanya-tanya apakah ada yang saya dapat lakukan untuk menyeimbangkan jumlah pekerjaan dan kerja lembur. <br>
-                                saya mendengar cerita mengenai perusahaan LOGIQUE. Mereka memperkenalkan cara kerja yang lebih efisien dan meningkatkan produktivitas dengan sistem "40 jam dalam seminggu”. <br>
+                                saya mendengar cerita mengenai perusahaan LOGIQUE. Mereka memperkenalkan cara kerja yang lebih efisien dan meningkatkan produktifitas dengan sistem "40 jam dalam seminggu”. <br>
                                 Seperti di LOGIQUE, kami berpikir bahwa kami juga dapat secara efektif melakukan kontrol <i>shift</i> kerja pada saat jumlah kerja puncak dengan menerapkan aturan cara kerja yang lebih fleksibel. <br>
                                 Pertama-tama pada jam kerja 8 jam dalam sehari, dirubah menjadi ada waktu inti 6 jam dan sisa 2 jam dapat dialokasikan pada saat sibuk. Bahkan sampai sekarang, saya terus-menerus meninjau dan mengoptimalkan aturan kerja yang sudah ada.
                                 </p>

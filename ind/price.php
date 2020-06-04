@@ -280,9 +280,9 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 
                                 <h3 class="faq__q blue2 fw-500">Q. Apa keuntungan yang didapatkan oleh perusahaan yang menerapkan Dokodemo-Kerja?</h3>
                                 <p>
-                                    A. Dengan Dokodemo-Kerja, perusahaan akan diuntungkan dengan produktivitas karyawan yang meningkat sehingga perusahaan dapat membuat target untuk para karyawan sesuai dengan kinerjanya masing-masing.
+                                    A. Dengan Dokodemo-Kerja, perusahaan akan diuntungkan dengan produktifitas karyawan yang meningkat sehingga perusahaan dapat membuat target untuk para karyawan sesuai dengan kinerjanya masing-masing.
                                 </p>
-                                <h3 class="faq__q blue2 fw-500">Q. Seberapa efektifkah Dokodemo-Kerja pada produktivitas karyawan?</h3>
+                                <h3 class="faq__q blue2 fw-500">Q. Seberapa efektifkah Dokodemo-Kerja pada produktifitas karyawan?</h3>
                                 <p>
                                     A. Sangat efektif, karena Dokodemo-Kerja mampu mengkalkulasikan total jam kerja karyawan secara real time dan transparan.
                                 </p>
@@ -325,7 +325,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                     <div class="div-above-footer">
                         <strong>Dokodemo-Kerja</strong> adalah solusi sistem kerja berupa aplikasi yang mampu
                         merekam, menghitung, serta mengelola aktivitas dan jam kerja karyawan guna meningkatkan
-                        produktivitas perusahaan.
+                        produktifitas perusahaan.
                     </div>
                     </div>
                 </div>

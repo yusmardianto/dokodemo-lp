@@ -135,7 +135,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                   perusahaan saya. Bagaimana saya bisa mendapatkannya?</span><br />
                   Anda hanya perlu menghubungi kami dengan mengisi formulir yang kami sediakan. Kami siap melayani
                   Anda.<br /><br />
-                  <span class="blue2 fw-500">Seberapa efektifkah <strong>Dokodemo-Kerja</strong> pada produktivitas
+                  <span class="blue2 fw-500">Seberapa efektifkah <strong>Dokodemo-Kerja</strong> pada produktifitas
                   karyawan?</span><br />
                   Sangat efektif, karena <strong>Dokodemo-Kerja</strong> mampu mengkalkulasikan total jam kerja
                   karyawan secara real time dan transparan.<br /><br />
