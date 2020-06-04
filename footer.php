@@ -14,10 +14,10 @@
                     <ul class="footer-menu-list first-list">
                         <li><a href="/">Home</a></li>
                         <li><a href="/about">About Us</a></li>
-                        <li><a href="/features">Feature</a></li>
+                        <li><a href="/features">Features</a></li>
                         <li><a href="/case-study">Case Study</a></li>
-                        <li><a href="/pricing">Price</a></li>
-                        <li><a href="/trial">Demo</a></li>
+                        <li><a href="/price">Price</a></li>
+                        <li><a href="/demo">Demo</a></li>
                         <li><a href="https://www.logique.co.id/blog/category/dokodemo-kerja/" target="_blank" rel="noopener noreferrer">Blog</a></li>
                     </ul>
                 </div>
@@ -26,7 +26,7 @@
                 <div class="footer-menu">
                     <ul class="footer-menu-list second-list">
                         <li><a href="/contact-us">Contact Us</a></li>
-                        <li><a href="/pricing#FAQ">FAQ</a></li>
+                        <li><a href="/price#FAQ">FAQ</a></li>
                         <li><a href="/subscribe">Subscribing Procedure</a></li>
                         <li><a data-toggle="collapse" href="#collapseExample">Setup Online Meeting</a></li>
                         <li><a href="/terms">Terms and Condition</a></li>

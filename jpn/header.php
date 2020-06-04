@@ -53,11 +53,11 @@
                 <li class="nav-item <?php active_case() ?>">
                     <a class="nav-link" href="/jpn/case-study/">Case Study</a>
                 </li>
-                <li class="nav-item <?php active('pricing') ?>">
-                    <a class="nav-link" href="/pricing">価格</a>
+                <li class="nav-item <?php active('price') ?>">
+                    <a class="nav-link" href="/price">価格</a>
                 </li>
-                <li class="nav-item <?php active('trial') ?>">
-                    <a class="nav-link" href="/trial">デモ</a>
+                <li class="nav-item <?php active('demo') ?>">
+                    <a class="nav-link" href="/demo">デモ</a>
                 </li>
                 <li class="nav-item">
                     <a class="nav-link" target="_blank" rel="noopener noreferrer"

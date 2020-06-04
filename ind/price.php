@@ -56,7 +56,7 @@
 	  gtag('config', 'UA-146404615-1');
 	</script>
 </head>
-<?php $page = 'pricing'; ?>
+<?php $page = 'price'; ?>
 <body>
 <!-- Google Tag Manager (noscript) -->
 <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-WT4MCDL"
@@ -224,7 +224,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                                 </p>
                                 <h3 class="faq__q blue2 fw-500">Q. Dapatkah saya melakukan uji coba Dokodemo-Kerja terlebih dahulu sebelum membelinya?</h3>
                                 <p>
-                                    A. Bisa. Buka halaman <a href="/ind/trial"> Trial </a> dan ikuti instruksi untuk mencoba demo, atau hubungi kami untuk bertanya tentang cara kerjanya.
+                                    A. Bisa. Buka halaman <a href="/ind/demo"> Trial </a> dan ikuti instruksi untuk mencoba demo, atau hubungi kami untuk bertanya tentang cara kerjanya.
                                 </p>
                                 <h3 class="faq__q blue2 fw-500">Q. Bagaimana jika saya punya masalah dalam menggunakan Dokodemo-Kerja?</h3>
                                 <p>
@@ -296,7 +296,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                                     A. Telusuri halaman <a href="/ind/subscribe">Subscribing Procedure</a> untuk membaca cara kerja berlangganan Dokodemo-Kerja.
                                 </p>
                                 <h3 class="faq__q blue2 fw-500">Q. Bagaimana cara menerapkan Dokodemo-Kerja?</h3>
-                                <p>A. Kami telah menyediakan sebuah panduan <i>step-by-step</i>. Dimulai dari cara akses ke akun utama, akses ke aplikasi dan prosedur instalasi, serta cara menggunakan program. Untuk penjelasan lebih, <a href="/ind/trial#nav-home-tab">tekan ini</a>.</p>
+                                <p>A. Kami telah menyediakan sebuah panduan <i>step-by-step</i>. Dimulai dari cara akses ke akun utama, akses ke aplikasi dan prosedur instalasi, serta cara menggunakan program. Untuk penjelasan lebih, <a href="/ind/demo#nav-home-tab">tekan ini</a>.</p>
                             </div>
                             <div class="col-md-12 mb-3">
                                 <h3 class="faq__q-title">SUBCRIPTION</h3>

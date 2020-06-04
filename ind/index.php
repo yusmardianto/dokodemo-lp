@@ -123,7 +123,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
             <div class="row">
                 <div class="offset-md-1 col-md-10">
                     <!-- <p class="fs-27 text-center header-demo-text">Coba <strong>Demo</strong> Sekarang</p> -->
-                    <a href="trial.php" class="btn-sign-up btn-try-demo" id="btn-sign-up-id">Coba Demo Sekarang</a>
+                    <a href="/ind/demo" class="btn-sign-up btn-try-demo" id="btn-sign-up-id">Coba Demo Sekarang</a>
                     <span class="text-center d-block pb-4 pt-2 fs-medium header-subdemo-text">*Tidak perlu Kartu Kredit</span>
                 </div>
             </div>
@@ -210,7 +210,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                 </div>
                 <div class="offset-md-1 col-md-10 home-feature__card-wrapper --btn">
                     <div>
-                        <a href="ind/features.php">
+                        <a href="ind/features">
                             <button class="btn btn-primary form-control feature-btn">Learn More</button>
                             <img src="/img/home/arrow-down.svg"  width="13" alt=""/>
                         </a>
@@ -466,7 +466,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                     <span class="d-block text-white text-center text-md-left fs-18 header-subdemo-text">*Tidak perlu Kartu Kredit</span>
                 </div>
                 <div class="col-md-4">
-                    <a href="trial.php" class="btn-sign-up btn-try-demo" id="btn-sign-up-id">Klik Disini</a>
+                    <a href="/ind/demo" class="btn-sign-up btn-try-demo" id="btn-sign-up-id">Klik Disini</a>
                 </div>
             </div>
         </div>

@@ -169,7 +169,7 @@
             <div class="row">
                 <div class="offset-md-1 col-md-10">
                     <!-- <p class="fs-27 text-center header-demo-text">Try the <strong>Demo</strong> Now</p> -->
-                    <a href="/trial.php" class="btn-sign-up btn-try-demo" id="btn-sign-up">デモをみる</a>
+                    <a href="/demo" class="btn-sign-up btn-try-demo" id="btn-sign-up">デモをみる</a>
                     <span class="text-center d-block pb-4 pt-2 fs-medium header-subdemo-text">会員登録等、必要ありません</span>
                 </div>
             </div>
@@ -475,7 +475,7 @@
                     <span class="d-block text-white text-center text-md-left fs-18 header-subdemo-text">ユーザー登録は必要ありません。</span>
                 </div>
                 <div class="col-md-4">
-                    <a href="/trial.php" class="btn-sign-up btn-try-demo" id="btn-sign-up">いますぐデモ環境を試す</a>
+                    <a href="/demo" class="btn-sign-up btn-try-demo" id="btn-sign-up">いますぐデモ環境を試す</a>
                 </div>
             </div>
         </div>

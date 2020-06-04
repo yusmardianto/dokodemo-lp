@@ -48,16 +48,16 @@
                     <a class="nav-link" href="/ind/about">About</a>
                 </li> -->
                 <li class="nav-item <?php active('features') ?>">
-                    <a class="nav-link" href="/ind/features">Feature</a>
+                    <a class="nav-link" href="/ind/features">Features</a>
                 </li>
                 <li class="nav-item <?php active_case() ?>">
                     <a class="nav-link" href="/ind/case-study">Studi Kasus</a>
                 </li>
-                <li class="nav-item <?php active('pricing') ?>">
-                    <a class="nav-link" href="/ind/pricing">Harga</a>
+                <li class="nav-item <?php active('price') ?>">
+                    <a class="nav-link" href="/ind/price">Harga</a>
                 </li>
-                <li class="nav-item <?php active('trial') ?>">
-                    <a class="nav-link" href="/ind/trial">Demo</a>
+                <li class="nav-item <?php active('demo') ?>">
+                    <a class="nav-link" href="/ind/demo">Demo</a>
                 </li>
                 <li class="nav-item">
                     <a class="nav-link" target="_blank" rel="noopener noreferrer"

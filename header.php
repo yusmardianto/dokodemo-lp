@@ -49,16 +49,16 @@
                     <a class="nav-link" href="/about">About Us</a>
                 </li> -->
                 <li class="nav-item <?php active('features') ?>">
-                    <a class="nav-link" href="/features">Feature</a>
+                    <a class="nav-link" href="/features">Features</a>
                 </li>
                 <li class="nav-item <?php active_case() ?>">
                     <a class="nav-link" href="/case-study/">Case Study</a>
                 </li>
-                <li class="nav-item <?php active('pricing') ?>">
-                    <a class="nav-link" href="/pricing">Price</a>
+                <li class="nav-item <?php active('price') ?>">
+                    <a class="nav-link" href="/price">Price</a>
                 </li>
-                <li class="nav-item <?php active('trial') ?>">
-                    <a class="nav-link" href="/trial">Demo</a>
+                <li class="nav-item <?php active('demo') ?>">
+                    <a class="nav-link" href="/demo">Demo</a>
                 </li>
                 <li class="nav-item">
                     <a class="nav-link" target="_blank" rel="noopener noreferrer"
