@@ -24,7 +24,7 @@
     <meta name="keywords" content="dokodemo, dokodemo-kerja, program perusahaan, program pemantauan, alat pelaporan, uji coba gratis, email dokodemo, bantuan dokodemo, kontak dokodemo, penjualan dokodemo, pemasaran dokodemo, pelatihan permintaan, kenali karyawan Anda, alat startup, logique person contact person, kontak dokodemo orang, apa itu dokodemo, apa itu kerja jarak jauh">
     <meta name="author" content="PT. LOGIQUE Digital Indonesia">
 	<meta name="google-site-verification" content="Xc9SFJQZdKYLsrWvrxEjLLTA-nyrnNPQTXQoMxs4gKI" />
-	<meta property="og:title" content="Tanya Dokodemo-Kerja | Tingkatkan Produktivitas dalam 1 Bulan">
+	<meta property="og:title" content="Tanya Dokodemo-Kerja | Tingkatkan produktifitas dalam 1 Bulan">
     <meta property="og:type" content="website">
     <meta property="og:site_name" content="Dokodemo-Kerja">
     <meta property="og:url" content="https://dokodemo-kerja.com">
@@ -36,7 +36,7 @@
 	<link rel="stylesheet" href="/css/header-footer.css" />
 	<link rel="stylesheet" href="/css/style.css" />
 	<link rel="shortcut icon" type="image/x-icon" href="favicon.ico">
-	<title>Tanya Dokodemo-Kerja | Tingkatkan Produktivitas dalam 1 Bulan</title>
+	<title>Tanya Dokodemo-Kerja | Tingkatkan produktifitas dalam 1 Bulan</title>
 	<!-- Google Tag Manager -->
 	<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
 	new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],

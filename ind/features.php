@@ -6,7 +6,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=5.0" />
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
 	<meta name="description" itemprop="description" content="Dokodemo-Kerja adalah sistem yang memungkinkan fitur pelacakan waktu, laporan waktu yang akurat, manajemen jam kerja, navigasi yang mudah, dan alat pemantauan kinerja yang fleksibel yang menguntungkan baik karyawan maupun pengusaha.">
-    <meta name="keywords" content="dokodemo, dokodemo-kerja, dokodemo kerja, pemantauan layar, monitor sceen, monitor karyawan, pemantauan karyawan, pelacak waktu, jam dalam perangkat lunak, perangkat lunak absensi, alat absensi, kalkulator jam kerja, kelola karyawan, alat untuk manajer, alat untuk jam, manajer pemberitahuan, alat produktivitas, penambah produktivitas, pengelola kinerja, pengelolaan kinerja, monitor kinerja, software clock in, fitur absensi">
+    <meta name="keywords" content="dokodemo, dokodemo-kerja, dokodemo kerja, pemantauan layar, monitor sceen, monitor karyawan, pemantauan karyawan, pelacak waktu, jam dalam perangkat lunak, perangkat lunak absensi, alat absensi, kalkulator jam kerja, kelola karyawan, alat untuk manajer, alat untuk jam, manajer pemberitahuan, alat produktifitas, penambah produktifitas, pengelola kinerja, pengelolaan kinerja, monitor kinerja, software clock in, fitur absensi">
     <meta name="author" content="PT. LOGIQUE Digital Indonesia">
 	<meta name="google-site-verification" content="Xc9SFJQZdKYLsrWvrxEjLLTA-nyrnNPQTXQoMxs4gKI" />
     <meta property="og:title" content="Fitur Dokodemo-Kerja | Alat Pemantau Waktu Kerja">
@@ -70,7 +70,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
             <div class="row">
                 <div class="col-md-10 offset-md-1 features-resp-config">
                     <h1 class="fw-semibold fs-23 text-center mb-4">FEATURES</h1>
-                    <p class="fw-semibold text-center">Dokodemo-Kerja adalah solusi berorientasi manajemen waktu untuk pengusaha dan karyawan. Melalui pemantauan dan kemampuan manajemennya yang efisien, Dokodemo-Kerja dapat membantu perusahaan meningkatkan tingkat produktivitas mereka, sementara di saat yang sama memberikan jam kerja yang fleksibel bagi karyawan.</p>
+                    <p class="fw-semibold text-center">Dokodemo-Kerja adalah solusi berorientasi manajemen waktu untuk pengusaha dan karyawan. Melalui pemantauan dan kemampuan manajemennya yang efisien, Dokodemo-Kerja dapat membantu perusahaan meningkatkan tingkat produktifitas mereka, sementara di saat yang sama memberikan jam kerja yang fleksibel bagi karyawan.</p>
                     <div class="row">
                         <div class="col-lg-6 features-item">
                             <span class="features-number">01</span>

@@ -438,7 +438,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                     <p class="testimony-author"><strong>Kevin</strong> - Staff HR</p>
                 </div>
                 <div class="testimony-item">
-                    <div class="testimony-text">Melakukan monitoring terhadap karyawan remote cukup sulit. Perbedaan tempat dan jarak yang jauh membuat saya sulit untuk memantau karyawan. Semenjak menggunakan Dokodemo-Kerja, saya dapat memantau karyawan dengan lebih baik. Saya bisa mengetahui produktivitas dan jam kerja mereka. Terimakasih Dokodemo-Kerja.</div>
+                    <div class="testimony-text">Melakukan monitoring terhadap karyawan remote cukup sulit. Perbedaan tempat dan jarak yang jauh membuat saya sulit untuk memantau karyawan. Semenjak menggunakan Dokodemo-Kerja, saya dapat memantau karyawan dengan lebih baik. Saya bisa mengetahui produktifitas dan jam kerja mereka. Terimakasih Dokodemo-Kerja.</div>
                     <p class="testimony-author"><strong>Arie</strong> - HR</p>
                 </div>
                 <div class="testimony-item">

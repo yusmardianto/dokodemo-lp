@@ -5,8 +5,8 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=5.0" />
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
-	<meta name="description" itemprop="description" content="Studi kasus No.2 untuk penggunaan Dokodemo-Kerja, aplikasi pada Perusahaan Pengembangan Sistem. Dokodemo-Kerja, alat manajemen kerja jarak jauh yang mencatat jam kerja aktual karyawan, melacak tempat mereka bekerja dengan GPS, dan memungkinkan gaya kerja yang fleksibel dan produktivitas yang tinggi.">
-    <meta name="keywords" content="dokodemo, dokodemo-kerja, dokodemo kerja, pemantauan layar, monitor sceen, monitor karyawan, pemantauan karyawan, pelacak waktu, jam dalam perangkat lunak, perangkat lunak absensi, alat absensi, kalkulator jam kerja, kelola karyawan, alat untuk manajer, alat untuk jam, manajer pemberitahuan, alat produktivitas, penambah produktivitas, pengelola kinerja, pengelolaan kinerja, monitor kinerja, software clock in, fitur absensi">
+	<meta name="description" itemprop="description" content="Studi kasus No.2 untuk penggunaan Dokodemo-Kerja, aplikasi pada Perusahaan Pengembangan Sistem. Dokodemo-Kerja, alat manajemen kerja jarak jauh yang mencatat jam kerja aktual karyawan, melacak tempat mereka bekerja dengan GPS, dan memungkinkan gaya kerja yang fleksibel dan produktifitas yang tinggi.">
+    <meta name="keywords" content="dokodemo, dokodemo-kerja, dokodemo kerja, pemantauan layar, monitor sceen, monitor karyawan, pemantauan karyawan, pelacak waktu, jam dalam perangkat lunak, perangkat lunak absensi, alat absensi, kalkulator jam kerja, kelola karyawan, alat untuk manajer, alat untuk jam, manajer pemberitahuan, alat produktifitas, penambah produktifitas, pengelola kinerja, pengelolaan kinerja, monitor kinerja, software clock in, fitur absensi">
     <meta name="author" content="PT. LOGIQUE Digital Indonesia">
 	<meta name="google-site-verification" content="Xc9SFJQZdKYLsrWvrxEjLLTA-nyrnNPQTXQoMxs4gKI" />
     <meta property="og:title" content="Alat Manajemen Kerja Remote Dokodemo-Kerja, Studi Kasus No.2 | LOGIQUE Digital Indonesia">
@@ -14,7 +14,7 @@
     <meta property="og:site_name" content="Dokodemo-Kerja">
     <meta property="og:url" content="https://dokodemo-kerja.com">
     <meta property="og:image" content="/img/dokodemo-og.jpg">
-    <meta property="og:description" content="Studi kasus No.2 untuk penggunaan Dokodemo-Kerja, aplikasi pada Perusahaan Pengembangan Sistem. Dokodemo-Kerja, alat manajemen kerja jarak jauh yang mencatat jam kerja aktual karyawan, melacak tempat mereka bekerja dengan GPS, dan memungkinkan gaya kerja yang fleksibel dan produktivitas yang tinggi.">
+    <meta property="og:description" content="Studi kasus No.2 untuk penggunaan Dokodemo-Kerja, aplikasi pada Perusahaan Pengembangan Sistem. Dokodemo-Kerja, alat manajemen kerja jarak jauh yang mencatat jam kerja aktual karyawan, melacak tempat mereka bekerja dengan GPS, dan memungkinkan gaya kerja yang fleksibel dan produktifitas yang tinggi.">
     <link rel="stylesheet" href="/css/bootstrap.min.css" />
     <link href="/fonts/font-awesome/css/font-awesome.min.css" rel="stylesheet">
     <link rel="stylesheet" href="/css/slick.css" />
@@ -118,7 +118,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                             <li>
                                 <p><b>Q: </b>Terima kasih atas telah membagikan kepada kami pengalaman berharga Anda. Apakah ada pesan-pesan untuk pembaca lainnya?</p>
                                 <p><b>A: </b>Biaya penggunaan “Dokodemo-Kerja” masih masuk akal dan saya pikir merupakan tool manajemen yang sangat baik. Saya pikir setiap perusahaan pasti memiliki masalah yang berbeda mengenai sumber daya manusia, tetapi jika perusahaan Anda mempunyai masalah yang sama seperti perusahaan kami dalam hal mengevaluasi pekerjaan atau permasalahan dengan tema yang serupa, saya rasa dengan menggunakan “Dokodemo-Kerja” dapat membuahkan sinergi yang baik. <br>
-                                Saya berharap sebagai alat yang dapat meningkatkan produktivitas suatu organisasi dan keterampilan serta motivasi individu, dapat berperan untuk membangun cara kerja yang lebih baik. <br>
+                                Saya berharap sebagai alat yang dapat meningkatkan produktifitas suatu organisasi dan keterampilan serta motivasi individu, dapat berperan untuk membangun cara kerja yang lebih baik. <br>
                                 Dari pihak kami sendiri akan terus menggunakannya, Kami juga berharap LOGIQUE akan terus meningkatkan <i>tools</i> yang sudah ada.
                                 </p>
                             </li>
