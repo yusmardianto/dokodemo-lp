@@ -26,7 +26,7 @@
                 <div class="footer-menu">
                     <ul class="footer-menu-list second-list">
                         <li><a href="/contact-us">問い合わせ</a></li>
-                        <li><a href="/price#FAQ">FAQ</a></li>
+                        <li><a href="/jpn/price#FAQ">よくある質問</a></li>
                         <li><a href="/subscribe">Subscribing Procedure</a></li>
                         <li><a data-toggle="collapse" href="#collapseExample">Setup Online Meeting</a></li>
                         <li><a href="/terms">Terms and Condition</a></li>
@@ -41,7 +41,7 @@
                             <span class="footer-contact-item">
                                 <a href="tel:02122708935">
                                     <img src="/img/call.png" class="footer-icon" alt="">
-                                    <span>(021) 22708935 / 36</span>
+                                    <span>(021) 22708935/36</span>
                                 </a>
                             </span>
                         </li>

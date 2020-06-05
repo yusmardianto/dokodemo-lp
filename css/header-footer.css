@@ -184,6 +184,15 @@ footer {
   padding-top: 40px;
 }
 
+@media (min-width: 813px) and (max-width: 992px) {
+  .footer-contact > .footer-menu-list {
+    display: flex;
+    flex-direction: row;
+    flex-grow: 1;
+    justify-content: space-evenly;
+  }
+}
+
 @media (max-width: 992px) {
   .footer-contact-item img {
     width: unset;
