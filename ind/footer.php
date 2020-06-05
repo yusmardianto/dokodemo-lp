@@ -41,7 +41,7 @@
                             <span class="footer-contact-item">
                                 <a href="tel:02122708935">
                                     <img src="../img/call.png" class="footer-icon" alt="">
-                                    <span>(021) 22708935 / 36</span>
+                                    <span>(021) 22708935/36</span>
                                 </a>
                             </span>
                         </li>
