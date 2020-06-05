@@ -54,7 +54,7 @@
                     <a class="nav-link" href="/jpn/case-study/">Case Study</a>
                 </li>
                 <li class="nav-item <?php active('price') ?>">
-                    <a class="nav-link" href="/price">価格</a>
+                    <a class="nav-link" href="/jpn/price">価格</a>
                 </li>
                 <li class="nav-item <?php active('demo') ?>">
                     <a class="nav-link" href="/demo">デモ</a>

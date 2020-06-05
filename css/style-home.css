@@ -359,7 +359,7 @@ body {
 .home-feature-content {
   font-size: 19px;
   text-align: center;
-  margin-bottom: 0.5em;
+  margin-bottom: 1.5em;
 }
 
 .home-feature-list {
@@ -370,7 +370,7 @@ body {
 .home-feature__card-wrapper {
   display: flex;
   margin-top: 35px;
-  margin-bottom: 25px;
+  margin-bottom: 2.5rem;
 }
 .home-feature__card-wrapper.--btn {
   justify-content: center;
@@ -380,7 +380,7 @@ body {
   flex-basis: 33.33%;
   max-width: 33.33%;
   text-align: center;
-  padding: 0 35px 6px;
+  padding: 0 10px 6px;
   background: url("../img/home/benefit-card-accent.svg") 55% bottom/40% no-repeat;
 }
 .home-feature__card-wrapper.--btn > div {
@@ -472,7 +472,8 @@ body {
 .home-benefit-content {
   font-size: 18px;
   font-weight: normal;
-  margin-bottom: 0.5rem;
+  margin-top: 1rem;
+  margin-bottom: 1.5rem;
   text-align: center;
 }
 
