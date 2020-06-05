@@ -211,7 +211,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                                 <h3 class="faq__q blue2">Q. Pada Operationg System apa saja Dokodemo-Kerja dapat dijalankan?</h3>
                                 <p>A. Dokodemo-Kerja mendukung PC dengan sistem operasi Windows, Linux, dan Mac. Versi Aplikasi Mobile sudah tersedia untuk Android, sedangkan untuk iOS akan tersedia dalam waktu dekat (Rencana di bulan Juli 2020)</p>
                                 <h3 class="faq__q blue2">Q. Dapatkah saya melakukan uji coba Dokodemo-Kerja terlebih dahulu sebelum membelinya?</h3>
-                                <p>A. Bisa. Buka halaman <a href="/ind/demo">Demo</a> lalu ikuti instruksi untuk mencoba demo. Kami juga dapat menyiapkan server khusus untuk perusahaan yang ingin mencobanya, untuk informasi lebih detil silakan <a href="/ind/contact-us">Hubungi Kami</a>.</p>
+                                <p>A. Bisa. Buka halaman <a target="_blank" href="/ind/demo">Demo</a> lalu ikuti instruksi untuk mencoba demo. Kami juga dapat menyiapkan server khusus untuk perusahaan yang ingin mencobanya, untuk informasi lebih detil silakan <a target="_blank" href="/ind/contact-us">Hubungi Kami</a>.</p>
                             </div>
                             <div class="col-md-12 mb-3">
                                 <h3 class="faq__q-title">SISTEM</h3>
@@ -245,9 +245,9 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                                 <h3 class="faq__q blue2">Q. Bagaimana cara Dokodemo-Kerja mengelola karyawan yang sedang bekerja di lapangan?</h3>
                                 <p>A. Apabila Anda berada dalam jangkauan adanya koneksi internet dan dapat bekerja menggunakan PC / Laptop, silakan untuk menggunakan aplikasi desktop Dokodemo-Kerja seperti biasa. Tetapi, jika Anda berada pada situasi yang tidak memungkinkan untuk menggunakan laptop / PC atau sedang dalam perjalanan, Anda dapat menggunakan Aplikasi Mobile Dokodemo-Kerja. Aplikasi ini dapat membantu melacak Jam Kerja dan Lokasi GPS Anda.</p>
                                 <h3 class="faq__q blue2">Q. Saya tertarik menggunakan Dokodemo-Kerja untuk perusahaan saya. Bagaimana saya bisa mendapatkannya?</h3>
-                                <p>A. Anda dapat menelusuri halaman <a href="/ind/subscribe">Prosedur Berlangganan</a> untuk membaca bagaimana cara kerja berlangganan Dokodemo-Kerja.</p>
+                                <p>A. Anda dapat menelusuri halaman <a target="_blank" href="/ind/subscribe">Prosedur Berlangganan</a> untuk membaca bagaimana cara kerja berlangganan Dokodemo-Kerja.</p>
                                 <h3 class="faq__q blue2">Q. Bagaimana cara menerapkan Dokodemo-Kerja?</h3>
-                                <p>A. Kami telah menyediakan sebuah panduan <i>step-by-step</i>. Dimulai dari cara prosedur instalasi, akses ke akun utama, akses ke aplikasi, serta cara menggunakan program. Untuk penjelasan lebih lengkapnya, Anda dapat <a href="/ind/demo#nav-home">Menekan</a> Ini. Setelah mengimplementasikan Dokodemo-Kerja, Jika ada pertanyaan lebih lanjut mengenai perubahan peraturan apa saja yang harus dilakukan oleh HR, silahkan <a href="/ind/contact-us">Hubungi Kami</a>.</p>
+                                <p>A. Kami telah menyediakan sebuah panduan <i>step-by-step</i>. Dimulai dari cara prosedur instalasi, akses ke akun utama, akses ke aplikasi, serta cara menggunakan program. Untuk penjelasan lebih lengkapnya, Anda dapat <a target="_blank" href="/ind/demo#nav-home">Menekan</a> Ini. Setelah mengimplementasikan Dokodemo-Kerja, Jika ada pertanyaan lebih lanjut mengenai perubahan peraturan apa saja yang harus dilakukan oleh HR, silahkan <a target="_blank" href="/ind/contact-us">Hubungi Kami</a>.</p>
                             </div>
                             <div class="col-md-12 mb-3">
                                 <h3 class="faq__q-title">SUBSKRIPSI</h3>

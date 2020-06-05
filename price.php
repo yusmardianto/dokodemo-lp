@@ -182,7 +182,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                     <h3 class="faq__q blue2">Q. Can you explain more about the Operating System required to run Dokodemo-Kerja?</h3>
                     <p>A. Dokodemo-Kerja supports all three Operating Systems: Windows, Linux, and Macintosh. For the mobile application, the Android version is currently the primary OS available, with an iOS version also being released soon (Plan: July 2020). </p>
                     <h3 class="faq__q blue2">Q. Can I try the Dokodemo-Kerja system before purchasing it?</h3>
-                    <p>A. Yes. Head on to the <a href="/demo">Demo</a> page and follow the instructions given to try out the demo. It is also possible to create a special environment for your company, please <a href="/contact-us">Contact Us</a> if you need more details.</p>
+                    <p>A. Yes. Head on to the <a target="_blank" href="/demo">Demo</a> page and follow the instructions given to try out the demo. It is also possible to create a special environment for your company, please <a target="_blank" href="/contact-us">Contact Us</a> if you need more details.</p>
                 </div>
                 <div class="col-md-12 mb-3">
                     <h3 class="faq__q-title">SYSTEM</h3>
@@ -216,9 +216,9 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                     <h3 class="faq__q blue2">Q. How does Dokodemo-Kerja manage staff who work outside of the office?</h3>
                     <p>A. If you have internet access and are able to work using your desktop / laptop, it is recommended to use the Dokodemo-Kerja desktop application as you do in office. In the case where you might not be able to use the desktop application, such as when using transportation, you can use the Dokodemo-Kerja Mobile Application, which will help you to track Work Hours and Locations based on GPS.</p>
                     <h3 class="faq__q blue2">Q. I am interested in implementing Dokodemo-Kerja into my company. How do I proceed?</h3>
-                    <p>A. Please access the <a href="/subscribe">Subscribing Procedure</a> page to see how our contract works, or if you have further inquiries please Contact Us.</p>
+                    <p>A. Please access the <a target="_blank" href="/subscribe">Subscribing Procedure</a> page to see how our contract works, or if you have further inquiries please Contact Us.</p>
                     <h3 class="faq__q blue2">Q. How do I set up Dokodemo-Kerja?</h3>
-                    <p>A. We have prepared a Dokodemo-Kerja manual outlining the app through a step-by-step process, starting from how to access the master account, the application access and installation procedure, to how employees can use the program. To find out more <a href="/demo#nav-home">Click Here</a>. After implementing Dokodemo-Kerja, if you want a consultation regarding changes or updates to HR rules in order to gain a better result, please do not hesitate to <a href="/contact-us">Contact Us</a>.</p>
+                    <p>A. We have prepared a Dokodemo-Kerja manual outlining the app through a step-by-step process, starting from how to access the master account, the application access and installation procedure, to how employees can use the program. To find out more <a target="_blank" href="/demo#nav-home">Click Here</a>. After implementing Dokodemo-Kerja, if you want a consultation regarding changes or updates to HR rules in order to gain a better result, please do not hesitate to <a target="_blank" href="/contact-us">Contact Us</a>.</p>
                 </div>
                 <div class="col-md-12 mb-3">
                     <h3 class="faq__q-title">SUBCRIPTION</h3>
