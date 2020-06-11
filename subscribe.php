@@ -5,10 +5,9 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=5.0" />
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
-  <meta name="description" itemprop="The subscribing procedure for using a service provided by Logique Digital Indonesia includes the agreement & consultation, purchase order and invoice.">
-    <meta name="keywords" content="Remote working software, remote working tool, remote working system, implementing remote working, remote working enabler, enabling remote working culture, remote culture, work on the road, logique, pt logique, logique digital indonesia, time tracking, time tracker, work hour tracker, work hour tracking, screenshot software enterprise">
-    <meta name="author" content="PT. LOGIQUE Digital Indonesia">
-  <meta name="google-site-verification" content="Xc9SFJQZdKYLsrWvrxEjLLTA-nyrnNPQTXQoMxs4gKI" />
+    <meta name="description" itemprop="The subscribing procedure for using a service provided by Logique Digital Indonesia includes the agreement & consultation, purchase order and invoice.">
+    <meta name="keywords" content="Agreement & Consultation, Subscribing Procedure, Dokodemo-Kerja, Purchase Order, Terms of Payment, Online Form, Direct Call">
+    <meta name="google-site-verification" content="Xc9SFJQZdKYLsrWvrxEjLLTA-nyrnNPQTXQoMxs4gKI" />
     <meta property="og:title" content="Subscribing Procedure | Steps to buy Dokodemo-Kerja">
     <meta property="og:type" content="website">
     <meta property="og:site_name" content="Dokodemo-Kerja">

@@ -6,7 +6,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=5.0" />
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
 	<meta name="description" itemprop="description" content="LOGIQUE Digital Indonesia provides digital solutions for human resources through remote working software, Dokodemo-Kerja, designed for reducing costs. ">
-    <meta name="keywords" content="LOGIQUE Digital Indonesia, digital solutions, human resources, remote working software, remote working, remote work, reducing costs, reduce costs, Nicholas Bloom, Working from home">
+    <meta name="keywords" content="LOGIQUE Digital Indonesia, Dokodemo-Kerja, digital solutions, human resources, remote working software, remote working, remote work, reducing costs, reduce costs, Nicholas Bloom, Working from home">
     <meta name="author" content="PT. LOGIQUE Digital Indonesia">
 	<meta name="google-site-verification" content="Xc9SFJQZdKYLsrWvrxEjLLTA-nyrnNPQTXQoMxs4gKI" />
     <meta property="og:title" content="About Dokodemo-Kerja | Cloud System for HR">
