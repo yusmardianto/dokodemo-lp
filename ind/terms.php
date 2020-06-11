@@ -5,16 +5,16 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
-  <meta name="description" itemprop="description" content="Syarat dan ketentuan yang berlaku tentang aturan penggunaan Dokodemo-kerja atau layanan lain yang disediakan oleh  Logique Digital Indonesia.">
-    <meta name="keywords" content="Remote working software, remote working tool, remote working system, implementing remote working, remote working enabler, enabling remote working culture, remote culture, work on the road, logique, pt logique, logique digital indonesia, time tracking, time tracker, work hour tracker, work hour tracking, screenshot software enterprise">
+    <meta name="description" itemprop="description" content="Logique Digital Indonesia’s terms and conditions outline the rules and regulations regarding the use of Dokodemo-kerja or the other services provided. ">
+    <meta name="keywords" content="Logique Digital Indonesia, Dokodemo-Kerja, Terms and Conditions, property rights, Dokodemo services, application form, User Account Information, data mining, data harvesting, data extraction, warranties, warranty, liability">
     <meta name="author" content="PT. LOGIQUE Digital Indonesia">
-  <meta name="google-site-verification" content="Xc9SFJQZdKYLsrWvrxEjLLTA-nyrnNPQTXQoMxs4gKI" />
+    <meta name="google-site-verification" content="Xc9SFJQZdKYLsrWvrxEjLLTA-nyrnNPQTXQoMxs4gKI" />
     <meta property="og:title" content="Syarat dan Ketentuan Dokodemo-Kerja">
     <meta property="og:type" content="website">
     <meta property="og:site_name" content="Dokodemo-Kerja">
     <meta property="og:url" content="https://dokodemo-kerja.com">
     <meta property="og:image" content="/img/dokodemo-og.jpg">
-    <meta property="og:description" content="Syarat dan ketentuan yang berlaku tentang aturan penggunaan Dokodemo-kerja atau layanan lain yang disediakan oleh  Logique Digital Indonesia.">
+    <meta property="og:description" content="Logique Digital Indonesia’s terms and conditions outline the rules and regulations regarding the use of Dokodemo-kerja or the other services provided. ">
     <link rel="stylesheet" href="/css/bootstrap.min.css" />
     <link href="/fonts/font-awesome/css/font-awesome.min.css" rel="stylesheet">
     <link rel="stylesheet" href="/css/slick.css" />
@@ -255,12 +255,5 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
         element.style.visibility = "visible";
         element.style.opacity = "1";
         }
-    </script>
-    <script>
-      (function(w,d,url,a,s,e){
-        w[a]= (w[a]||[]);
-        s = d.getElementsByTagName("script")[0];e = d.createElement("script");e.src=url;e.async=1;s.parentNode.insertBefore(e,s);
-        })(window,document,'//ec-concier.com/9fe9e4a7b389b44c/analytics.js','ara');
-        ara.push(['init', '9fe9e4a7b389b44c']);
     </script>
 </body>

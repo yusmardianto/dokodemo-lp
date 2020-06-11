@@ -6,7 +6,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=5.0" />
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
 	<meta name="description" itemprop="description" content="LOGIQUE Digital Indonesia provides digital solutions for human resources through remote working software, Dokodemo-Kerja, designed for reducing costs. ">
-    <meta name="keywords" content="LOGIQUE Digital Indonesia, digital solutions, human resources, remote working software, remote working, remote work, reducing costs, reduce costs, Nicholas Bloom, Working from home">
+    <meta name="keywords" content="LOGIQUE Digital Indonesia, Dokodemo-Kerja, digital solutions, human resources, remote working software, remote working, remote work, reducing costs, reduce costs, Nicholas Bloom, Working from home">
     <meta name="author" content="PT. LOGIQUE Digital Indonesia">
 	<meta name="google-site-verification" content="Xc9SFJQZdKYLsrWvrxEjLLTA-nyrnNPQTXQoMxs4gKI" />
     <meta property="og:title" content="About Dokodemo-Kerja | Cloud System for HR">
@@ -325,12 +325,5 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
         element.style.visibility = "visible";
         element.style.opacity = "1";
         }
-    </script>
-    <script>
-      (function(w,d,url,a,s,e){
-        w[a]= (w[a]||[]);
-        s = d.getElementsByTagName("script")[0];e = d.createElement("script");e.src=url;e.async=1;s.parentNode.insertBefore(e,s);
-        })(window,document,'//ec-concier.com/9fe9e4a7b389b44c/analytics.js','ara');
-        ara.push(['init', '9fe9e4a7b389b44c']);
     </script>
 </body>

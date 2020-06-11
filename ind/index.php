@@ -5,7 +5,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=5.0" />
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
-	<meta name="description" itemprop="description" content="Dokodemo-Kerja adalah alat management strategi HR dalam hal kerja remote dengan membuat evaluasi jadwal kerja karyawan dan mengambil screenshot.">
+	<meta name="description" itemprop="description" content="Dokodemo-Kerja adalah alat management strategi HR dalam hal kerja remote dengan membuat evaluasi jadwal kerja karyawan dan mengambil screenshot. ">
     <meta name="keywords" content="Dokodemo-Kerja, strategi HR, kerja remote, jam kerja karyawan, jadwal kerja">
 	<meta name="google-site-verification" content="Xc9SFJQZdKYLsrWvrxEjLLTA-nyrnNPQTXQoMxs4gKI" />
     <meta property="og:title" content="Alat Management Kerja Remote | Dokodemo-Kerja">
@@ -13,7 +13,7 @@
     <meta property="og:site_name" content="Dokodemo-Kerja">
     <meta property="og:url" content="https://dokodemo-kerja.com">
     <meta property="og:image" content="/img/dokodemo-og.jpg">
-    <meta property="og:description" content="Dokodemo-Kerja adalah alat management strategi HR dalam hal kerja remote dengan membuat evaluasi jadwal kerja karyawan dan mengambil screenshot.">
+    <meta property="og:description" content="Dokodemo-Kerja adalah alat management strategi HR dalam hal kerja remote dengan membuat evaluasi jadwal kerja karyawan dan mengambil screenshot. ">
     <link rel="stylesheet" href="/css/bootstrap.min.css" />
     <link href="/fonts/font-awesome/css/font-awesome.min.css" rel="stylesheet">
     <link rel="stylesheet" href="/css/slick.css" />
@@ -647,13 +647,6 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
         element.style.visibility = "visible";
         element.style.opacity = "1";
         }
-    </script>
-    <script>
-      (function(w,d,url,a,s,e){
-        w[a]= (w[a]||[]);
-        s = d.getElementsByTagName("script")[0];e = d.createElement("script");e.src=url;e.async=1;s.parentNode.insertBefore(e,s);
-        })(window,document,'//ec-concier.com/9fe9e4a7b389b44c/analytics.js','ara');
-        ara.push(['init', '9fe9e4a7b389b44c']);
     </script>
 </body>
 
