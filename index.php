@@ -678,13 +678,6 @@
     }, 4000);
     </script>
     <!-- end of  modal popup -->
-    <script>
-      (function(w,d,url,a,s,e){
-        w[a]= (w[a]||[]);
-        s = d.getElementsByTagName("script")[0];e = d.createElement("script");e.src=url;e.async=1;s.parentNode.insertBefore(e,s);
-        })(window,document,'//ec-concier.com/9fe9e4a7b389b44c/analytics.js','ara');
-        ara.push(['init', '9fe9e4a7b389b44c']);
-    </script>
     
 </body>
 
