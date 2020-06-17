@@ -404,9 +404,9 @@
                             <a href="/case-study/case-4" class="case-study__card-wrapper">
                                 <div class="case-study__card">
                                     <img class="card__img" src="/img/case-study/dokodemo-story-4-ghitta.jpg" alt="" style="object-position: top;">
-                                    <h4 class="card__title">PT. LOGIQUE Digital Indonesia</h4>
+                                    <h4 class="card__title">Dokodemo-Kerja Story 4</h4>
                                     <p class="card__news">
-                                        HR Department LOGIQUE
+                                        PT. LOGIQUE Digital Indonesia
                                     </p>
                                 </div>
                             </a>
