@@ -115,6 +115,18 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                         </div>
                     </a>
                 </div>
+                <div class="col-md-4">
+                    <a href="/case-study/case-4" class="case-study__card-wrapper">
+                        <div class="case-study__card">
+                            <img class="card__img" src="/img/case-study/dokodemo-story-4-ghitta.jpg" alt="" style="object-position: top;">
+                            <h2 class="card__headline">Dokodemo-Kerja Story 4</h2>
+                            <h4 class="card__title">PT. LOGIQUE Digital Indonesia</h4>
+                            <p class="card__text">
+                                Hello, my name is Ghitta. I started working as an HR staff member in 2017. I would like to take this opportunity to explain how to utilize “Dokodemo-Kerja” to help transition into new company policies to solve some HR problems. Previously, we had not implemented any special HR rules. We made several exceptions for some staff with special circumstances so they could work remotely. 
+                            </p>
+                        </div>
+                    </a>
+                </div>
             </div>
         </div>
     </section>

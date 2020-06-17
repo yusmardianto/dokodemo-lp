@@ -116,6 +116,18 @@ body {
 .case-study__story .blockquote-footer {
     font-size: 20px;
 }
+.case-study__story .story__list {
+    padding-left: 0;
+    margin-bottom: .5rem;
+}
+.case-study__story .story__list > li:first-child {
+    padding-top: .5rem;
+}
+.case-study__story .story__list > li {
+    padding-bottom: .5rem;
+    padding-left: .5rem;
+    margin-left: 3rem;
+}
 /* end case study section */
 
 .btn-see-more, .btn-see-more:hover {
