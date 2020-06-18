@@ -134,7 +134,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                                         <p>非常に生産性の高い社員でこういうことがあると悩ましいところですが、当社の場合は、このような態度を取るのは結果を出していない社員でしたので、厳しい評価をすることに決定。その効果もあって、自然と、人員の代謝が進みました。</p>
                                     </div>
                                 </div>
-                                <div class="col-lg-5 offset-lg-0 offset-sm-2 col-sm-8">
+                                <div class="col-lg-5 offset-lg-0 offset-sm-2 col-sm-8 mb-lg-0 mb-3">
                                     <img src="/img/case-study/dokodemo-story-4.2-ghitta.png" alt="" class="img-fluid w-100">
                                 </div>
                             </div>

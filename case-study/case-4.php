@@ -129,7 +129,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                                         <p>It would have been concerning if this was the case regarding our more productive employees, but in our company, the ones who have responded negatively are those with generally lower performance. Thus, I decided to employ a stricter standard of evaluation, which resulted in some personnel changes.</p>
                                     </div>
                                 </div>
-                                <div class="col-lg-5 offset-lg-0 offset-sm-2 col-sm-8">
+                                <div class="col-lg-5 offset-lg-0 offset-sm-2 col-sm-8 mb-lg-0 mb-3">
                                     <img src="/img/case-study/dokodemo-story-4.2-ghitta.png" alt="" class="img-fluid w-100">
                                 </div>
                             </div>

@@ -127,7 +127,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                                     <p>Walaupun sudah banyak karyawan yang mengubah cara kerja mereka menurut kebijakan yang telah dijelaskan di atas, akan tetapi masih ada beberapa karyawan yang tidak dapat mengikuti aturan. Misalnya, karyawan yang mengabaikan aturan penggunaan Dokodemo-Kerja dengan benar, dan ketika dikonfirmasi oleh HR mereka membalas dengan sombong.</p> 
                                     <p>Kalau hal ini terjadi pada karyawan yang produktif memang menjadi hal yang mengkhawatirkan, tetapi dalam kasus perusahaan kami, karyawan yang menunjukkan respon negatif merupakan karyawan yang tidak menunjukkan hasil, oleh karena itu saya memutuskan untuk memberikan evaluasi yang tegas. Sebagian karena efek itu, secara otomatis pergantian personel pun berjalan.</p> 
                                 </div>
-                                <div class="col-lg-5 offset-lg-0 offset-sm-2 col-sm-8 align-self-center">
+                                <div class="col-lg-5 offset-lg-0 offset-sm-2 col-sm-8 mb-lg-0 mb-3 align-self-center">
                                     <img src="/img/case-study/dokodemo-story-4.2-ghitta.png" alt="" class="img-fluid w-100">
                                 </div>
                             </div>
