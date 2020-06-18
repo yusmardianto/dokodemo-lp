@@ -111,6 +111,22 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                             <img src="/img/features/home_05-com.jpg" class="img-slide-screenshot modal-hover-opacity" alt="" />    
                         </div>
                     </div>
+                    <div class="row">
+                        <div class="col-lg-6 features-item">
+                            <span class="features-number">05</span>
+                            <h2 class="features-title">Employee just need to "<strong>Start</strong>" or "<strong>Stop</strong>" the application.</h2>
+                            <div class="employee-feature-list pl-0">
+                                <ul>
+                                    <li>Users will be able to work anywhere, at any time.</li>
+                                    <li>When taking breaks, users will have to press the “Stop” button, so as to accurately calculate working hours.</li>
+                                    <li>User can now more efficiently manage their responsibilities according to their task.</li>
+                                </ul>
+                            </div>
+                        </div>
+                        <div class="col-lg-6 features-item">
+                            <img src="/img/features/home_05-com.jpg" class="img-slide-screenshot modal-hover-opacity" alt="" />    
+                        </div>
+                    </div>
                 </div>
             </div>
         </div>
@@ -127,56 +143,9 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
     </section>
     <!-- req online meeting popup -->
     <?php include './component/online-meeting.php' ?>
-    <section>
-        <div class="container mt-5 mb-3">
-            <div class="row mt-5">
-                <div class="col-md-12 text-center font-weight-bold">
-                    <h1 class="tutorial-title">Easy Application</h1>
-                </div>
-            </div>
-        </div>
-    </section>
-    <section class="user-role">
-        <div class="container-fluid">
-            <div class="row employee-role">
-                <div class="col-md-6 program-sample">
-                    <img src="/img/features/doko.png" class="img-fluid img-doko" alt="" />
-                </div>
-                <div class="col-md-6 employee-feature-list pt-sm-4">
-                    <h3><strong>FOR EMPLOYEE:</strong></h3>
-                    <p>Employee just need to "<strong>Start</strong>" or "<strong>Stop</strong>" the application.</p>
-                    <ul>
-                        <li>Users will be able to work anywhere, at any time.</li>
-                        <li>When taking breaks, users will have to press the “Stop” button, so as to accurately calculate working hours.</li>
-                        <li>User can now more efficiently manage their responsibilities according to their task.</li>
-                    </ul>
-                </div>
-            </div>
-        </div>
-        <div class="container">
-            <div class="manager-role">
-                <h3 class="text-center"><strong>FOR MANAGERS AND HR:</strong></h3>
-                <p class="text-center">
-                    <strong>Easily track everyone's</strong> working hours and their <strong>activities</strong>
-                    <br>
-                    Below are some of the example policies for implementing Dokodemo-Kerja
-                </p>
-                <div class="row" style="width: 100%">
-                    <div class="col-md-6">
-                        <ul class="manager-activity-list">
-                            <li>HR can assign one staff member the task of monitoring all Dokodemo-Kerja related activities</li>
-                            <li>The assigned staff can manage employee work time frames and comments</li>
-                        </ul>
-                    </div>
-                    <div class="col-md-6">
-                        <ul class="manager-activity-list">
-                            <li>If an employee screenshot shows three of the same images consecutively, HR can then take further action, facilitated by evidence</li>
-                        </ul>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </section>
+
+    <hr class="footer__divider">
+    
     <section class="guides py-2 mt-3 mb-5">
         <div class="container">
             <div class="row">

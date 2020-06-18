@@ -147,6 +147,35 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
     <!-- req online meeting popup -->
     <?php include '../component/online-meeting.php' ?>
     <!-- end of req online meeting popup -->
+
+    <section class="apps-launch">
+        <div class="container">
+            <div class="row align-items-center">
+                <div class="offset-md-1 col-md-5">
+                    <div class="text-center">
+                        <h4 class="fs-18" style="font-weight: 600;">Has Been Released!!!</h4>
+                        <h2 class="apps-launch__title">DOKODEMO-KERJA</h2>
+                        <h4 class="apps-launch__sub-title">Mobile App</h4>
+                        <div class="form-row">
+                            <div class="offset-2 col-4">
+                                <a href="#">
+                                    <img class="img-fluid w-100" src="/img/trial/app-store.png" alt="">
+                                </a>
+                            </div>
+                            <div class="col-4">
+                                <a href="#">
+                                    <img class="img-fluid w-100" src="/img/trial/google-play.png" alt="">
+                                </a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-md-6">
+                    <img class="apps-launch__img img-fluid w-100" src="/img/home/apps-launch.png" alt="">
+                </div>
+            </div>
+        </div>
+    </section>
     
     <section class="feature-content mt-5">
         <div class="container">

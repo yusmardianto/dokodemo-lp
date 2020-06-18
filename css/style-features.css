@@ -350,6 +350,13 @@ body {
   margin-bottom: -15px;
 }
 
+.footer__divider {
+  background-color: #f4f4f4;
+  height: 5px;
+  border: none;
+  margin-top: 40px;
+}
+
 @media only screen and (min-width: 1441px) {
   .user-role > .container-fluid {
     max-width: 1110px;

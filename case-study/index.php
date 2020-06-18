@@ -20,6 +20,7 @@
     <link rel="stylesheet" href="/css/slick.css" />
     <link rel="stylesheet" href="/css/slick-theme.css" />
     <link rel="stylesheet" href="/css/header-footer.css" />
+    <link rel="stylesheet" href="/css/style-features.css" />
     <link rel="stylesheet" href="/css/style-case-study.css" />
     <link rel="stylesheet" href="/js/magnific-popup.css" />
 
@@ -126,6 +127,56 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                             </p>
                         </div>
                     </a>
+                </div>
+            </div>
+        </div>
+    </section>
+    <section>
+        <div class="container mt-5 mb-3">
+            <div class="row mt-5">
+                <div class="col-md-12 text-center font-weight-bold">
+                    <h1 class="tutorial-title">Easy Application</h1>
+                </div>
+            </div>
+        </div>
+    </section>
+    <section class="user-role">
+        <div class="container-fluid">
+            <div class="row employee-role">
+                <div class="col-md-6 program-sample">
+                    <img src="/img/features/doko.png" class="img-fluid img-doko" alt="" />
+                </div>
+                <div class="col-md-6 employee-feature-list pt-sm-4">
+                    <h3><strong>FOR EMPLOYEE:</strong></h3>
+                    <p>Employee just need to "<strong>Start</strong>" or "<strong>Stop</strong>" the application.</p>
+                    <ul>
+                        <li>Users will be able to work anywhere, at any time.</li>
+                        <li>When taking breaks, users will have to press the “Stop” button, so as to accurately calculate working hours.</li>
+                        <li>User can now more efficiently manage their responsibilities according to their task.</li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+        <div class="container">
+            <div class="manager-role">
+                <h3 class="text-center"><strong>FOR MANAGERS AND HR:</strong></h3>
+                <p class="text-center">
+                    <strong>Easily track everyone's</strong> working hours and their <strong>activities</strong>
+                    <br>
+                    Below are some of the example policies for implementing Dokodemo-Kerja
+                </p>
+                <div class="row" style="width: 100%">
+                    <div class="col-md-6">
+                        <ul class="manager-activity-list">
+                            <li>HR can assign one staff member the task of monitoring all Dokodemo-Kerja related activities</li>
+                            <li>The assigned staff can manage employee work time frames and comments</li>
+                        </ul>
+                    </div>
+                    <div class="col-md-6">
+                        <ul class="manager-activity-list">
+                            <li>If an employee screenshot shows three of the same images consecutively, HR can then take further action, facilitated by evidence</li>
+                        </ul>
+                    </div>
                 </div>
             </div>
         </div>
