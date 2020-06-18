@@ -118,6 +118,18 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                         </div>
                     </a>
                 </div>
+                <div class="col-md-4">
+                    <a href="/jpn/case-study/case-4" class="case-study__card-wrapper">
+                        <div class="case-study__card">
+                            <img class="card__img" src="/img/case-study/dokodemo-story-4-ghitta.jpg" alt="" style="object-position: top;">
+                            <h2 class="card__headline">「Dokodemo-Kerja」活用ストーリー4</h2>
+                            <h4 class="card__title">PT. LOGIQUE Digital Indonesia</h4>
+                            <p class="card__text">
+                                HRスタッフのGhittaです。2017年からHRスタッフとして働いています。今回は、「Dokodemo-Kerja」をどのように活用して人事ルールを改変し問題解決してきたかについてご紹介します。2017年当時、当時は、特別な人事規則はありませんでした。特例として、特別な理由のある一部のスタッフにのみ、リモートワークを許可する、という環境でした。ですので、本社勤務の大多数のスタッフは、朝８時から10時の間で勤務開始時刻を自ら設定。開始時間からお昼の休憩時間（１時間）を除いて８時間働くという条件になっていました。なお、ジョグジャカルタオフィスのスタッフは、朝８時から17時までの勤務形態になっていました。
+                            </p>
+                        </div>
+                    </a>
+                </div>
             </div>
         </div>
     </section>

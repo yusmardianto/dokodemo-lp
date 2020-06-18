@@ -13,7 +13,7 @@
         <div class="row mt-3">
             <div class="col-md-12">
                 <div class="row">
-                    <div class="col-md-4">
+                    <!-- <div class="col-md-4">
                         <a href="/jpn/case-study/" class="case-study__card-wrapper">
                             <div class="case-study__card">
                                 <img class="card__img" src="/img/case-study/detail-case-1-1.png" alt="" >
@@ -23,7 +23,7 @@
                                 </p>
                             </div>
                         </a>
-                    </div>
+                    </div> -->
                     <?php if ($current_url != "case-1"): ?>
                     <div class="col-md-4">
                         <a href="/jpn/case-study/case-1" class="case-study__card-wrapper">
@@ -59,6 +59,19 @@
                                 <h4 class="card__title">Accounting Firm A社</h4>
                                 <p class="card__news">
                                     Operation Director
+                                </p>
+                            </div>
+                        </a>
+                    </div>
+                    <?php endif; ?>
+                    <?php if ($current_url != "case-4"): ?>
+                    <div class="col-md-4">
+                        <a href="/jpn/case-study/case-4" class="case-study__card-wrapper">
+                            <div class="case-study__card">
+                                <img class="card__img" src="/img/case-study/dokodemo-story-4-ghitta.jpg" alt="" style="object-position: top;">
+                                <h4 class="card__title">PT. LOGIQUE Digital Indonesia</h4>
+                                <p class="card__news">
+                                    LOGIQUE人事部
                                 </p>
                             </div>
                         </a>
