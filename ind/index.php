@@ -377,19 +377,6 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                 <div class="col-md-12">
                     <div class="row">
                         <div class="col-md-4">
-                            <a href="/ind/case-study/case-1" class="case-study__card-wrapper">
-                                <div class="case-study__card">
-                                    <img class="card__img" src="/img/case-study/case-1.png" alt="" >
-                                    <h4 class="card__title">Cerita Dokodemo-Kerja 1</h4>
-                                    <p class="card__news">
-                                        PT. LOGIQUE Digital Indonesia <br>
-                                        President Director <br>
-                                        Takashi Yoshitsugu
-                                    </p>
-                                </div>
-                            </a>
-                        </div>
-                        <div class="col-md-4">
                             <a href="/ind/case-study/case-2" class="case-study__card-wrapper">
                                 <div class="case-study__card">
                                     <img class="card__img" src="/img/case-study/case-2.png" alt="" >
@@ -407,6 +394,17 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                                     <h4 class="card__title">Cerita Dokodemo-Kerja 3</h4>
                                     <p class="card__news">
                                         Perusahaan Akuntansi, PT. A
+                                    </p>
+                                </div>
+                            </a>
+                        </div>
+                        <div class="col-md-4">
+                            <a href="/ind/case-study/case-4" class="case-study__card-wrapper">
+                                <div class="case-study__card">
+                                    <img class="card__img" src="/img/case-study/dokodemo-story-4-ghitta.jpg" alt="" style="object-position: top;">
+                                    <h4 class="card__title">Cerita Dokodemo-Kerja 4</h4>
+                                    <p class="card__news">
+                                        PT. LOGIQUE Digital Indonesia
                                     </p>
                                 </div>
                             </a>

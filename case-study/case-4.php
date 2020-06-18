@@ -5,16 +5,16 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=5.0" />
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
-	<meta name="description" itemprop="description" content="Study case No.3 of Dokodemo-Kerja implementation, a study case on application in Accounting Firm. Introducing Dokodemo-Kerja, a remote work management tool that records the actual work hours of employees, tracks where they work with GPS, and enables flexible and highly productive working styles.">
+	<meta name="description" itemprop="description" content="Study case No.4 of Dokodemo-Kerja implementation, the changes to LOGIQUE's HR rules since implementing Dokodemo-Kerja. Introducing Dokodemo-Kerja, a remote work management tool that records the actual work hours of employees, tracks where they work with GPS, and enables flexible and highly productive working styles. ">
     <meta name="keywords" content="dokodemo, dokodemo-kerja, dokodemo kerja, screen monitoring, sceen monitor, monitor employee, employee monitoring, time tracker, clock in, clock in software, attendance software, attendance tool, work hour calculator,  manage employees, tool for managers, tool for hr, notification manager, productivity tool, productivity enhancer">
     <meta name="author" content="PT. LOGIQUE Digital Indonesia">
 	<meta name="google-site-verification" content="Xc9SFJQZdKYLsrWvrxEjLLTA-nyrnNPQTXQoMxs4gKI" />
-    <meta property="og:title" content="Remote Working Management Tool Dokodemo-Kerja, Study Case No.3 | LOGIQUE Digital Indonesia">
+    <meta property="og:title" content="Remote working management tool Dokodemo-Kerja, study case No.4 | LOGIQUE Digital Indonesia">
     <meta property="og:type" content="website">
     <meta property="og:site_name" content="Dokodemo-Kerja">
     <meta property="og:url" content="https://dokodemo-kerja.com">
     <meta property="og:image" content="/img/dokodemo-og.jpg">
-    <meta property="og:description" content="Study case No.3 of Dokodemo-Kerja implementation, a study case on application in Accounting Firm. Introducing Dokodemo-Kerja, a remote work management tool that records the actual work hours of employees, tracks where they work with GPS, and enables flexible and highly productive working styles.">
+    <meta property="og:description" content="Study case No.4 of Dokodemo-Kerja implementation, the changes to LOGIQUE's HR rules since implementing Dokodemo-Kerja. Introducing Dokodemo-Kerja, a remote work management tool that records the actual work hours of employees, tracks where they work with GPS, and enables flexible and highly productive working styles. ">
     <link rel="stylesheet" href="/css/bootstrap.min.css" />
     <link href="/fonts/font-awesome/css/font-awesome.min.css" rel="stylesheet">
     <link rel="stylesheet" href="/css/slick.css" />
@@ -24,7 +24,7 @@
     <link rel="stylesheet" href="/js/magnific-popup.css" />
 
 	<link rel="shortcut icon" type="image/x-icon" href="/favicon.ico">
-    <title>Remote Working Management Tool Dokodemo-Kerja, Study Case No.3 | LOGIQUE Digital Indonesia</title>
+    <title>Remote working management tool Dokodemo-Kerja, study case No.4 | LOGIQUE Digital Indonesia</title>
 	<!-- Google Tag Manager -->
 	<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
 	new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
@@ -58,7 +58,7 @@
 	  gtag('config', 'UA-146404615-1');
 	</script>
 </head>
-<?php $page = 'case-study/case-3'; ?>
+<?php $page = 'case-study/case-4'; ?>
 <body>
 <!-- Google Tag Manager (noscript) -->
 <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-WT4MCDL"
@@ -84,7 +84,6 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                     <div class="offset-md-1 col-md-10">
                         <section class="text-justify">
 
-                            
                             <div class="row">
                                 <div class="col-lg-5 offset-lg-0 offset-md-3 col-md-6">
                                     <img src="/img/case-study/dokodemo-story-4-ghitta.jpg" alt="" class="img-fluid w-100 mb-4">
