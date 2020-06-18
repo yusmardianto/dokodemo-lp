@@ -9,7 +9,7 @@
     <meta name="keywords" content="dokodemo, dokodemo-kerja, dokodemo kerja, screen monitoring, sceen monitor, monitor employee, employee monitoring, time tracker, clock in, clock in software, attendance software, attendance tool, work hour calculator,  manage employees, tool for managers, tool for hr, notification manager, productivity tool, productivity enhancer">
     <meta name="author" content="PT. LOGIQUE Digital Indonesia">
 	<meta name="google-site-verification" content="Xc9SFJQZdKYLsrWvrxEjLLTA-nyrnNPQTXQoMxs4gKI" />
-    <meta property="og:title" content="Remote working management tool Dokodemo-Kerja, study case No.4 | LOGIQUE Digital Indonesia">
+    <meta property="og:title" content="Remote Working Management Tool Dokodemo-Kerja, Study Case No.4 | LOGIQUE Digital Indonesia">
     <meta property="og:type" content="website">
     <meta property="og:site_name" content="Dokodemo-Kerja">
     <meta property="og:url" content="https://dokodemo-kerja.com">
@@ -24,7 +24,7 @@
     <link rel="stylesheet" href="/js/magnific-popup.css" />
 
 	<link rel="shortcut icon" type="image/x-icon" href="/favicon.ico">
-    <title>Remote working management tool Dokodemo-Kerja, study case No.4 | LOGIQUE Digital Indonesia</title>
+    <title>Remote Working Management Tool Dokodemo-Kerja, Study Case No.4 | LOGIQUE Digital Indonesia</title>
 	<!-- Google Tag Manager -->
 	<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
 	new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],

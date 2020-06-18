@@ -122,7 +122,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                             <h2 class="card__headline">Cerita Dokodemo-Kerja 4</h2>
                             <h4 class="card__title">PT. LOGIQUE Digital Indonesia</h4>
                             <p class="card__text">
-                            <b>Halo, nama saya Ghitta, saya mulai bekerja sebagai staf HR sejak tahun 2017. Pada kesempatan kali ini saya ingin memperkenalkan bagaimana cara memanfaatkan “Dokodemo-Kerja” untuk membantu merubah peraturan sekaligus memecahkan masalah HR. Tahun 2017, Pada saat itu tidak ada peraturan HR yang spesial. Kalaupun ada pengecualian atau peraturan khusus adalah dimana sebagian kecil staf yang memiliki alasan khusus diijinkan untuk remote working.
+                            Halo, nama saya Ghitta, saya mulai bekerja sebagai staf HR sejak tahun 2017. Pada kesempatan kali ini saya ingin memperkenalkan bagaimana cara memanfaatkan “Dokodemo-Kerja” untuk membantu merubah peraturan sekaligus memecahkan masalah HR. Tahun 2017, Pada saat itu tidak ada peraturan HR yang spesial. Kalaupun ada pengecualian atau peraturan khusus adalah dimana sebagian kecil staf yang memiliki alasan khusus diijinkan untuk remote working.
                             </p>
                         </div>
                     </a>
