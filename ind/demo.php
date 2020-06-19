@@ -331,11 +331,13 @@ $page = 'demo';
 									<div class="row">
 										<div class="col-md-6">
 											<p class="trial-tab-content">Mendownload Dokodemo-Kerja Mobile App melalui Play store</p>
-											<img src="/img/trial/mobile-1.png" class="mb-3 img-fluid w-100 img-border"/>
+											<div class="text-center">
+												<img src="/img/trial/mobile-1.png" class="mb-3 img-fluid img-border mobile-screenshot"/>
+											</div>
 										</div>
 										<div class="col-md-6">
 											<p class="trial-tab-content">Atau website Dokodemo-Kerja. <br><br></p>
-											<img src="/img/trial/mobile-2.png" class="mb-3 img-fluid w-100 img-border"/>
+											<img src="/img/trial/mobile-2.png" class="mb-3 img-fluid img-border mobile-screenshot"/>
 										</div>
 									</div>
 								</div>
@@ -370,7 +372,7 @@ $page = 'demo';
 													Beberapa fungsi yang tersedia pada Dokodemo-Kerja Mobile App 
 												</p>
 												<div class="text-center">
-													<img src="/img/trial/mobile-5.png" class="mb-3 img-fluid mobile-screenshot"/>
+													<img src="/img/trial/mobile-5.png" class="mb-3 img-fluid img-border mobile-screenshot"/>
 												</div>
 											</div>
 										</div>

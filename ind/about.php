@@ -70,11 +70,11 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                 <div class="col-lg-6 about-us-left">
                     <h1>TENTANG DOKODEMO-KERJA</h1>
                     <p class="about-us-desc">
-                        Dokodemo-Kerja adalah alat HR yang dikembangkan oleh PT. LOGIQUE Digital Indonesia, perusahaan solusi digital yang berpusat di Jakarta, Indonesia.
+                        <a href="/">Dokodemo-Kerja</a> adalah alat HR yang dikembangkan oleh <a target="_blank" href="https://www.logique.co.id">PT. LOGIQUE Digital Indonesia</a>, perusahaan solusi digital yang berpusat di Jakarta, Indonesia.
                         <br><br>
-                        Dokodemo-Kerja dibuat dengan harapan dapat membantu mempromosikan budaya kerja yang lebih sehat, produktif, dan juga fleksibel, yang menguntungkan pihak karyawan dan perusahaan.
+                        <a href="/">Dokodemo-Kerja</a> dibuat dengan harapan dapat membantu mempromosikan budaya kerja yang lebih sehat, produktif, dan juga fleksibel, yang menguntungkan pihak karyawan dan perusahaan.
                         <br><br>
-                        Dokodemo-Kerja merupakan gabungan dari bahasa Jepang dan Indonesia. "Dokodemo" berarti "Di mana saja" dan Kerja, dan jika digabung berarti Kerja Dimana Saja. Kami mewujudkannya dalam fungsi utama Dokodemo-Kerja yang memungkinkan karyawan untuk bekerja di lingkungan yang paling kondusif untuk mereka daripada harus terkurung di satu lokasi atau kantor. Namun, kami juga tidak melupakan sisi perusahaan yang harus tetap mengetahui kinerja karyawan tersebut.
+                        <a href="/">Dokodemo-Kerja</a> merupakan gabungan dari bahasa Jepang dan Indonesia. "Dokodemo" berarti "Di mana saja" dan Kerja, dan jika digabung berarti Kerja Dimana Saja. Kami mewujudkannya dalam fungsi utama <a href="/">Dokodemo-Kerja</a> yang memungkinkan karyawan untuk bekerja di lingkungan yang paling kondusif untuk mereka daripada harus terkurung di satu lokasi atau kantor. Namun, kami juga tidak melupakan sisi perusahaan yang harus tetap mengetahui kinerja karyawan tersebut.
                     </p>
                     <p class="about-us-contact">
                         Anda bisa melihat dan mendapatkan informasi lebih lanjut tentang Dokodemo-Kerja <a target="_blank" href="https://www.logique.co.id/blog/category/dokodemo-kerja/">di sini</a>. Jika ada pertanyaan lebih lanjut, jangan ragu untuk <a href="/ind/contact-us.php">HUBUNGI KAMI</a>.; kami akan dengan senang hati untuk membantu anda untuk mengenal Dokodemo-Kerja.
@@ -96,7 +96,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                     </ol>
 
                     <p>
-                        Dengan mengimplementasikan jadwal kerja rotasi yang tepat, Dokodemo-Kerja dapat menjadi alat yang tepat untuk membantu mengurangi anggaran, memaksimalkan kinerja, dan mempromosikan lingkungan kerja yang lebih produktif.
+                        Dengan mengimplementasikan jadwal kerja rotasi yang tepat, <a href="/">Dokodemo-Kerja</a> dapat menjadi alat yang tepat untuk membantu mengurangi anggaran, memaksimalkan kinerja, dan mempromosikan lingkungan kerja yang lebih produktif.
                     </p>
                 </div>
             </div>
