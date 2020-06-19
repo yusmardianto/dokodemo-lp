@@ -156,7 +156,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                         <h4 class="fs-18" style="font-weight: 600;">Telah Diluncurkan!!!</h4>
                         <h2 class="apps-launch__title">DOKODEMO-KERJA</h2>
                         <h4 class="apps-launch__sub-title">Mobile App</h4>
-                        <div class="form-row">
+                        <!-- <div class="form-row">
                             <div class="offset-2 col-4">
                                 <a href="#">
                                     <img class="img-fluid w-100" src="/img/trial/app-store.png" alt="">
@@ -167,7 +167,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                                     <img class="img-fluid w-100" src="/img/trial/google-play.png" alt="">
                                 </a>
                             </div>
-                        </div>
+                        </div> -->
                     </div>
                 </div>
                 <div class="col-md-6">

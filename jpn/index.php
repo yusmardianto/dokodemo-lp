@@ -184,7 +184,7 @@
                         <h4 class="fs-18" style="font-weight: 600;">Has Been Released!!!</h4>
                         <h2 class="apps-launch__title">DOKODEMO-KERJA</h2>
                         <h4 class="apps-launch__sub-title">Mobile App</h4>
-                        <div class="form-row">
+                        <!-- <div class="form-row">
                             <div class="offset-2 col-4">
                                 <a href="#">
                                     <img class="img-fluid w-100" src="/img/trial/app-store.png" alt="">
@@ -195,7 +195,7 @@
                                     <img class="img-fluid w-100" src="/img/trial/google-play.png" alt="">
                                 </a>
                             </div>
-                        </div>
+                        </div> -->
                     </div>
                 </div>
                 <div class="col-md-6">

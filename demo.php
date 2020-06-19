@@ -125,9 +125,6 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 							</a>
 						</div>
 					</div>
-					<!-- <a href="https://dokodemo-kerja.com/pdf/install-guide-ENG.pdf" target="_blank" aria-label="Install Guide" class="dl-guide" rel="noopener noreferrer">
-						<img src="/img/install.png" class="d-block img-fluid img-border m-auto" id="trial-install-guide" alt="" />
-					</a> -->
 				</div>
 			</div>
 		</div>
@@ -138,6 +135,10 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 			<div class="row mt-5">
 				<div class="offset-md-1 col-md-10">
 					<h3 class="trial-title">How To Use Dokodemo-Kerja</h3>
+					
+					<a href="https://dokodemo-kerja.com/pdf/install-guide-ENG.pdf" target="_blank" aria-label="Install Guide" class="dl-guide" rel="noopener noreferrer">
+						<img src="/img/install.png" class="d-block img-fluid img-border mx-auto mb-3" id="trial-install-guide" alt="" />
+					</a>
 				</div>
 				<div class="offset-md-1 col-md-10 tab-tutor-container">
 					<nav>
@@ -148,7 +149,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 							<a class="nav-item nav-link trial-tab" id="nav-profile-tab" data-toggle="tab" href="#nav-profile" role="tab" aria-controls="nav-profile" aria-selected="false">
 								<span class="trial-tabfont">Staff Desktop</span>
 							</a>
-							<a class="nav-item nav-link trial-tab" id="mobile-staff-tab" data-toggle="tab" href="#mobile-staff" role="tab" aria-controls="mobile-staff" aria-selected="false">
+							<a class="nav-item nav-link trial-tab --divider" id="mobile-staff-tab" data-toggle="tab" href="#mobile-staff" role="tab" aria-controls="mobile-staff" aria-selected="false">
 								<span class="trial-tabfont">Staff Mobile</span>
 							</a>
 						</div>
@@ -312,14 +313,15 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 								</div>
 								<div class="pl-4 mb-5">
 									<div class="row">
-										<div class="col-md-6">
+										<!-- <div class="col-md-6">
 											<p class="trial-tab-content">Mendownload Dokodemo-Kerja Mobile App melalui Play store</p>
 											<div class="text-center">
 												<img src="/img/trial/mobile-1.png" class="mb-3 img-fluid mobile-screenshot img-border"/>
 											</div>
-										</div>
+										</div> -->
 										<div class="col-md-6">
-											<p class="trial-tab-content">Atau website Dokodemo-Kerja. <br><br></p>
+											<!-- <p class="trial-tab-content">Atau website Dokodemo-Kerja. <br><br></p> -->
+											<p class="trial-tab-content">Download the Mobile App through your company's Dokodemo-Kerja website.</p>
 											<img src="/img/trial/mobile-2.png" class="mb-3 img-fluid mobile-screenshot img-border"/>
 										</div>
 									</div>
@@ -328,17 +330,17 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 								<div class="pl-4">
 									<div class="row">
 										<div class="col-md-6">
-											<h2 class="tab-content-title content-section-title">2. Layar Login</h2>
+											<h2 class="tab-content-title content-section-title">2. Login Page</h2>
 											<div class="trial-tab-content">
-												<p class="mb-0">Login dengan Company Code, Email dan Password yang sudah terdaftar, kemudian tekan tombol Login.</p>
+												<p class="mb-0">Login by filling in your Company code, E-mail, and Password, and click the Login button.</p>
 											</div>
 											<div class="text-center">
 												<img src="/img/trial/mobile-3.png" class="mb-3 img-fluid img-border mobile-screenshot"/>
 											</div>
 										</div>
 										<div class="col-md-6">
-											<h2 class="tab-content-title content-section-title">3. Pilih Task</h2>
-											<p class="trial-tab-content">User diminta untuk memilih Task <br><br><br></p>
+											<h2 class="tab-content-title content-section-title">3. Choose a Task</h2>
+											<p class="trial-tab-content">In order to start the time tracking, you must choose a task. This can also be done later.</p>
 											<div class="text-center">
 												<img src="/img/trial/mobile-4.png" class="mb-3 img-fluid img-border mobile-screenshot"/>
 											</div>
@@ -346,13 +348,13 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 									</div>
 								</div>
 
-								<h2 class="tab-content-title content-section-title">4. Layar Utama</h2>
+								<h2 class="tab-content-title content-section-title">4. Main Page</h2>
 								<div class="pl-4">
 									<div class="row">
 										<div class="col-md-6">
 											<div class="trial-tab-content">
 												<p>
-													Beberapa fungsi yang tersedia pada Dokodemo-Kerja Mobile App 
+													Here is the main display of the Dokodemo-Kerja Mobile App.
 												</p>
 												<div class="text-center">
 													<img src="/img/trial/mobile-5.png" class="mb-3 img-fluid img-border mobile-screenshot"/>
@@ -361,7 +363,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 										</div>
 										<div class="col-md-6">
 											<div class="trial-tab-content">
-												<p>Tombol “Start” dan “Stop” <br><br></p>
+												<p>The "Start" and "Stop" buttons are located at the bottom of the page.</p>
 												<div class="text-center">
 													<img src="/img/trial/mobile-6.png" class="mb-3 img-fluid img-border mobile-screenshot"/>
 												</div>
@@ -370,12 +372,12 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 									</div>
 								</div>
 
-								<h2 class="tab-content-title content-section-title">5. Fitur</h2>
+								<h2 class="tab-content-title content-section-title">5. Features</h2>
 								<div class="pl-4">
 									<div class="row">
 										<div class="col-md-6">
 											<div class="trial-tab-content">
-												<p>GPS Tracker untuk melacak user saat melakukan kegiatan di luar kantor.</p>
+												<p>GPS Tracker which can be used to track employees outside of the office.</p>
 												<div class="text-center">
 													<img src="/img/trial/mobile-7.png" class="mb-3 img-fluid img-border mobile-screenshot"/>
 												</div>
@@ -383,7 +385,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 										</div>
 										<div class="col-md-6">
 											<div class="trial-tab-content">
-												<p>Screenshot layar desktop saat sedang bekerja. (Desktop App)</p>
+												<p>Screenshot records taken through the desktop app. <br class="d-none d-md-block d-lg-none"><br class="d-none d-md-block d-lg-none"></p>
 												<div class="text-center">
 													<img src="/img/trial/mobile-8.png" class="mb-3 img-fluid img-border mobile-screenshot"/>
 												</div>
@@ -397,7 +399,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 										<div class="col-md-6">
 											<div class="trial-tab-content">
 												<h2 class="tab-content-title content-section-title">6. History Record</h2>
-												<p>User dapat melihat jam kerjanya secara Daily, Weekly dan Monthly.</p>
+												<p>Users can see their Daily, Weekly, and Monthly work hours record.</p>
 												<div class="text-center">
 													<img src="/img/trial/mobile-9.png" class="mb-3 img-fluid img-border mobile-screenshot"/>
 												</div>
@@ -406,7 +408,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 										<div class="col-md-6">
 											<div class="trial-tab-content">
 												<h2 class="tab-content-title content-section-title">6. Account</h2>
-												<p>Menu ini menampilkan profile user. <br><br></p>
+												<p>This menu displays the user's profile, and is used to log out of the app. <br class="d-none d-md-block d-lg-none"><br class="d-none d-md-block d-lg-none"></p>
 												<div class="text-center">
 													<img src="/img/trial/mobile-10.png" class="mb-3 img-fluid img-border mobile-screenshot"/>
 												</div>
@@ -475,6 +477,24 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
         setTimeout(function() {
             $('#myModal').modal();
         }, 4000);
+	</script>
+	<!-- set border based on active tab -->
+    <script>
+        $('.trial-tab').click(function(e) {
+			setTimeout(() => {
+				var tab_active, tab_position;
+				tab_active = $(this).attr('aria-selected');
+				tab_position = $(this).index();
+
+				$(this).parent().find('.trial-tab').removeClass('--divider');
+
+				if (tab_position == 2 && tab_active) { // last tab is active
+					$(this).parent().find('.trial-tab:nth-child(2)').addClass('--divider');
+				} else if (tab_position == 0 && tab_active) { // first tab is active
+					$(this).parent().find('.trial-tab:last-child').addClass('--divider');
+				}
+			}, 5);
+        })
     </script>
 </body>
 

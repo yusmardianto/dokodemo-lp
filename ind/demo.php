@@ -132,7 +132,7 @@ $page = 'demo';
 							<a target="_blank" href="https://drive.google.com/open?id=1PjZ9cwUU1dOCiS_kIx-cGC5UNxpSseta" class="btn btn-download bold uppercase hidden-xs" id="btn-download-linux-id"><i class="fa fa-download icon-download"></i>Linux</a>
 						</div>
 					</div>
-					<div class="row">
+					<!-- <div class="row">
 						<div class="offset-md-3 col-md-3">
 							<a href="#">
 								<img class="img-fluid w-100" src="/img/trial/app-store.png" alt="">
@@ -143,10 +143,7 @@ $page = 'demo';
 								<img class="img-fluid w-100" src="/img/trial/google-play.png" alt="">
 							</a>
 						</div>
-					</div>
-					<!-- <a href="https://dokodemo-kerja.com/pdf/install-guide.pdf" target="_blank" rel="noopener noreferrer" aria-label="Install Guide" class="dl-guide">
-						<img src="../img/install.png" class="d-block img-fluid img-border m-auto" id="trial-install-guide" alt="" />
-					</a> -->
+					</div> -->
 				</div>
 			</div>
 		</div>
@@ -157,6 +154,10 @@ $page = 'demo';
 			<div class="row mt-5">
 				<div class="offset-md-1 col-md-10">
 					<h3 class="trial-title">Cara Menggunakan Dokodemo-Kerja</h3>
+					
+					<a href="https://dokodemo-kerja.com/pdf/install-guide.pdf" target="_blank" rel="noopener noreferrer" aria-label="Install Guide" class="dl-guide">
+						<img src="/img/install.png" class="d-block img-fluid img-border mx-auto mb-3" id="trial-install-guide" alt="" />
+					</a>
 				</div>
 				<div class="offset-md-1 col-md-10 tab-tutor-container">
 					<nav>
@@ -167,7 +168,7 @@ $page = 'demo';
 							<a class="nav-item nav-link trial-tab" id="nav-profile-tab" data-toggle="tab" href="#nav-profile" role="tab" aria-controls="nav-profile" aria-selected="false">
 								<span class="trial-tabfont">Staff Admin</span>
 							</a>
-							<a class="nav-item nav-link trial-tab" id="mobile-staff-tab" data-toggle="tab" href="#mobile-staff" role="tab" aria-controls="mobile-staff" aria-selected="false">
+							<a class="nav-item nav-link trial-tab --divider" id="mobile-staff-tab" data-toggle="tab" href="#mobile-staff" role="tab" aria-controls="mobile-staff" aria-selected="false">
 								<span class="trial-tabfont">Staff Mobile</span>
 							</a>
 						</div>
@@ -329,14 +330,15 @@ $page = 'demo';
 								</div>
 								<div class="pl-4 mb-5">
 									<div class="row">
-										<div class="col-md-6">
+										<!-- <div class="col-md-6">
 											<p class="trial-tab-content">Mendownload Dokodemo-Kerja Mobile App melalui Play store</p>
 											<div class="text-center">
 												<img src="/img/trial/mobile-1.png" class="mb-3 img-fluid img-border mobile-screenshot"/>
 											</div>
-										</div>
+										</div> -->
 										<div class="col-md-6">
-											<p class="trial-tab-content">Atau website Dokodemo-Kerja. <br><br></p>
+											<!-- <p class="trial-tab-content">Atau website Dokodemo-Kerja. <br><br></p> -->
+											<p class="trial-tab-content">Download aplikasi mobile dari website Dokodemo perusahaan.</p>
 											<img src="/img/trial/mobile-2.png" class="mb-3 img-fluid img-border mobile-screenshot"/>
 										</div>
 									</div>
@@ -355,7 +357,7 @@ $page = 'demo';
 										</div>
 										<div class="col-md-6">
 											<h2 class="tab-content-title content-section-title">3. Pilih Task</h2>
-											<p class="trial-tab-content">User diminta untuk memilih Task <br><br><br></p>
+											<p class="trial-tab-content">User diminta untuk memilih Task <br class="d-none d-md-block"><br class="d-none d-md-block"><br class="d-none d-md-block"><br class="d-none d-md-block d-lg-none"></p>
 											<div class="text-center">
 												<img src="/img/trial/mobile-4.png" class="mb-3 img-fluid img-border mobile-screenshot"/>
 											</div>
@@ -378,7 +380,7 @@ $page = 'demo';
 										</div>
 										<div class="col-md-6">
 											<div class="trial-tab-content">
-												<p>Tombol “Start” dan “Stop” <br><br></p>
+												<p>Tombol “Start” dan “Stop” <br class="d-none d-md-block"><br class="d-none d-md-block"><br class="d-none d-md-block d-lg-none"></p>
 												<div class="text-center">
 													<img src="/img/trial/mobile-6.png" class="mb-3 img-fluid img-border mobile-screenshot"/>
 												</div>
@@ -400,7 +402,7 @@ $page = 'demo';
 										</div>
 										<div class="col-md-6">
 											<div class="trial-tab-content">
-												<p>Screenshot layar desktop saat sedang bekerja. (Desktop App)</p>
+												<p>Screenshot layar desktop saat sedang bekerja. (Desktop App)<br class="d-none d-md-block d-lg-none"><br class="d-none d-md-block d-lg-none"></p>
 												<div class="text-center">
 													<img src="/img/trial/mobile-8.png" class="mb-3 img-fluid img-border mobile-screenshot"/>
 												</div>
@@ -423,7 +425,7 @@ $page = 'demo';
 										<div class="col-md-6">
 											<div class="trial-tab-content">
 												<h2 class="tab-content-title content-section-title">6. Account</h2>
-												<p>Menu ini menampilkan profile user. <br><br></p>
+												<p>Menu ini menampilkan user profile, dan dapat digunakan untuk logout.</p>
 												<div class="text-center">
 													<img src="/img/trial/mobile-10.png" class="mb-3 img-fluid img-border mobile-screenshot"/>
 												</div>
@@ -498,6 +500,24 @@ $page = 'demo';
             $('#myModal').modal();
         }, 4000);
     </script>
+	<!-- set border based on active tab -->
+	<script>
+		$('.trial-tab').click(function(e) {
+			setTimeout(() => {
+				var tab_active, tab_position;
+				tab_active = $(this).attr('aria-selected');
+				tab_position = $(this).index();
+
+				$(this).parent().find('.trial-tab').removeClass('--divider');
+
+				if (tab_position == 2 && tab_active) { // last tab is active
+					$(this).parent().find('.trial-tab:nth-child(2)').addClass('--divider');
+				} else if (tab_position == 0 && tab_active) { // first tab is active
+					$(this).parent().find('.trial-tab:last-child').addClass('--divider');
+				}
+			}, 5);
+		})
+	</script>
 </body>
 
 </html>

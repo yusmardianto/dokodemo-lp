@@ -2,7 +2,7 @@
   font-weight: 700;
   font-size: 2.5rem;
   text-align: center;
-  margin: 3rem 0 4rem 0;
+  margin: 3rem 0 1rem 0;
   color: #000;
 }
 
@@ -26,6 +26,11 @@
   border-radius: 8px 8px 0 0;
   overflow: hidden;
   border: none;
+}
+
+.trial-tab.--divider {
+  border-left: solid 1px grey !important;
+  border-top-left-radius: 0;
 }
 
 .nav-tabs-trial .nav-item.show .nav-link,
