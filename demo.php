@@ -113,7 +113,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 							<a target="_blank" href="https://drive.google.com/open?id=1PjZ9cwUU1dOCiS_kIx-cGC5UNxpSseta" class="btn btn-download bold uppercase hidden-xs" id="btn-download-linux"><i class="fa fa-download icon-download"></i>Linux</a>
 						</div>
 					</div>
-					<div class="row">
+					<!-- <div class="row">
 						<div class="offset-md-3 col-md-3">
 							<a href="#">
 								<img class="img-fluid w-100" src="/img/trial/app-store.png" alt="">
@@ -124,7 +124,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 								<img class="img-fluid w-100" src="/img/trial/google-play.png" alt="">
 							</a>
 						</div>
-					</div>
+					</div> -->
 				</div>
 			</div>
 		</div>
