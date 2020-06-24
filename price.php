@@ -67,8 +67,8 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
          <div class="container mb-3">
              <div class="row">
                 <div class="col-md-12 text-center pricing-page-title">
-                    <h2>Start Remote Work. Save Money. Increase Transparency.</h2>
-                    <h3>Use Dokodemo-Kerja</h3>
+                    <h1><span class="fs-30">Start Remote Work. Save Money. Increase Transparency. </span><br>
+                    <span class="fs-26">Use Dokodemo-Kerja</span></h1>
                 </div>
             </div>
          </div>

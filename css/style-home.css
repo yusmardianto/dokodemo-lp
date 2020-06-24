@@ -1103,3 +1103,45 @@ body {
     font-size: 18px;
   }
 }
+
+/* apps launch */
+.apps-launch {
+  background: #f4f4f4;
+  min-height: 340px;
+}
+
+/* .apps-launch > .container {
+  background: url("/img/home/apps-launch.png") right/contain no-repeat;
+  min-height: 310px;
+} */
+
+.apps-launch .apps-launch__title {
+  font-size: 30px;
+  font-weight: bold;
+  margin-top: 10px;
+  margin-bottom: 0;
+}
+
+.apps-launch .apps-launch__sub-title {
+  font-size: 22px;
+  margin-bottom: 15px;
+}
+
+.apps-launch .apps-launch__img {
+  max-height: 420px;
+  object-fit: contain;
+  margin-top: -50px;
+  margin-bottom: -40px;
+}
+
+.apps-launch .apps-launch__icon {
+  width: 100%;
+  max-width: 170px;
+}
+
+@media (max-width: 991.98px) {
+  .apps-launch {
+    min-height: 240px;
+  }
+}
+/* end apps launch */

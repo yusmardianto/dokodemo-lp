@@ -21,6 +21,7 @@
     <link rel="stylesheet" href="/css/slick-theme.css" />
     <link rel="stylesheet" href="/css/header-footer.css" />
     <link rel="stylesheet" href="/css/style-case-study.css" />
+    <link rel="stylesheet" href="/css/style-features.css" />
     <link rel="stylesheet" href="/js/magnific-popup.css" />
 
 	<link rel="shortcut icon" type="image/x-icon" href="/favicon.ico">
@@ -75,6 +76,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
             </nav>
         </div>
     </section>
+
     <section class="mb-5">
         <div class="container">
             <h1 class="text-center mb-5">Studi Kasus: Bagaimana Anda Menggunakan Dokodemo-Kerja</h1>
@@ -130,6 +132,59 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
             </div>
         </div>
     </section>
+
+    <section>
+        <div class="container mt-5 mb-3">
+            <div class="row mt-5">
+                <div class="col-md-12 text-center font-weight-bold">
+                    <h1 class="tutorial-title">Mudah Diaplikasikan</h1>
+                </div>
+            </div>
+        </div>
+    </section>
+    
+    <section class="user-role">
+        <div class="container-fluid">
+            <div class="row employee-role">
+                <div class="col-md-6 program-sample">
+                    <img src="/img/features/doko.png" class="img-fluid img-doko" alt="" />
+                </div>
+                <div class="col-md-6 employee-feature-list pt-sm-4">
+                    <h3><strong>KARYAWAN</strong></h3>
+                    <p>Para Karyawan hanya "<strong>Memulai</strong>" atau "<strong>Menghentikan</strong>" aplikasi.</p>
+                    <ul>
+                        <li>Dengan jam kerja yang fleksibel, pengguna akan dapat bekerja di mana saja, kapan saja.</li>
+                        <li>Saat istirahat, pengguna harus menekan tombol "stop", untuk menghitung jam kerja secara akurat.</li>
+                        <li>Pengguna dapat menjadi lebih efisien mengelola waktu untuk tugas mereka.</li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+        <div class="container">
+            <div class="manager-role">
+                <h3 class="text-center"><strong>MANAGER / HR</strong></h3>
+                <p class="text-center">
+                    Managers dan tim HR dapat <strong>dengan mudah melacak</strong> jam kerja semua orang dan <strong>aktivitas</strong> mereka.
+                    <br>
+                    Berikut contoh kebijakan yang bisa diterapkan saat menggunakan Dokodemo-Kerja
+                </p>
+                <div class="row" style="width: 100%">
+                    <div class="col-md-6">
+                        <ul class="manager-activity-list">
+                            <li>HR dapat menugaskan satu anggota staf untuk memantau semua kegiatan yang terkait dengan Dokodemo.</li>
+                            <li>Staf dapat mengelola kerangka waktu kerja dan komentar karyawan.</li>
+                        </ul>
+                    </div>
+                    <div class="col-md-6">
+                        <ul class="manager-activity-list">
+                            <li>Jika tangkapan layar karyawan menunjukkan tiga gambar yang sama secara berurutan, HR kemudian dapat mengambil tindakan lebih lanjut yang difasilitasi oleh bukti.</li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
     <section class="hide-button-on-mobile">
         <span id="popup-text">
             <div class="speech-bubble">

@@ -113,9 +113,18 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 							<a target="_blank" href="https://drive.google.com/open?id=1PjZ9cwUU1dOCiS_kIx-cGC5UNxpSseta" class="btn btn-download bold uppercase hidden-xs" id="btn-download-linux"><i class="fa fa-download icon-download"></i>Linux</a>
 						</div>
 					</div>
-					<a href="https://dokodemo-kerja.com/pdf/install-guide-ENG.pdf" target="_blank" aria-label="Install Guide" class="dl-guide" rel="noopener noreferrer">
-						<img src="/img/install.png" class="d-block img-fluid img-border m-auto" id="trial-install-guide" alt="" />
-					</a>
+					<div class="row">
+						<!-- <div class="offset-md-3 col-md-3">
+							<a href="#">
+								<img class="img-fluid mobile-apps__icon" src="/img/trial/app-store.png" alt="">
+							</a>
+						</div> -->
+						<div class="offset-md-4 col-md-4">
+							<a href="https://play.google.com/store/apps/details?id=com.dokodemomobile">
+								<img class="img-fluid mobile-apps__icon" src="/img/trial/google-play.png" alt="">
+							</a>
+						</div>
+					</div>
 				</div>
 			</div>
 		</div>
@@ -126,15 +135,33 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 			<div class="row mt-5">
 				<div class="offset-md-1 col-md-10">
 					<h3 class="trial-title">How To Use Dokodemo-Kerja</h3>
+					
+					<!-- <a href="https://dokodemo-kerja.com/pdf/install-guide-ENG.pdf" target="_blank" aria-label="Install Guide" class="dl-guide" rel="noopener noreferrer">
+						<img src="/img/install.png" class="d-block img-fluid img-border mx-auto mb-3" id="trial-install-guide" alt="" />
+					</a> -->
+					<div class="installation-manual">
+						Download installation manual here:
+						<a class="installation-manual__item" target="_blank" href="https://drive.google.com/file/d/1jZut6Ouhi_HA26QoL4mvty45qZMAgdii/view?usp=sharing">
+							<img src="/img/trial/pdf.svg" alt="">
+							Desktop
+						</a>
+						<a class="installation-manual__item" target="_blank" href="https://drive.google.com/file/d/1g7X_m57cUDF-GJsgPyKgFWtx8LLeADbH/view?usp=sharing">
+							<img src="/img/trial/pdf.svg" alt="">
+							Mobile
+						</a>
+					</div>
 				</div>
 				<div class="offset-md-1 col-md-10 tab-tutor-container">
 					<nav>
 						<div class="nav nav-tabs nav-tabs-trial" id="nav-tab" role="tablist">
-							<a class="nav-item nav-link active trial-tab" id="nav-home-tab" data-toggle="tab" href="#nav-home" role="tab" aria-controls="nav-home" aria-selected="true">
+							<a class="nav-item nav-link trial-tab active" id="nav-home-tab" data-toggle="tab" href="#nav-home" role="tab" aria-controls="nav-home" aria-selected="true">
 								<span class="trial-tabfont">Admin</span>
 							</a>
 							<a class="nav-item nav-link trial-tab" id="nav-profile-tab" data-toggle="tab" href="#nav-profile" role="tab" aria-controls="nav-profile" aria-selected="false">
-								<span class="trial-tabfont">Staff</span>
+								<span class="trial-tabfont">Staff Desktop</span>
+							</a>
+							<a class="nav-item nav-link trial-tab --divider" id="mobile-staff-tab" data-toggle="tab" href="#mobile-staff" role="tab" aria-controls="mobile-staff" aria-selected="false">
+								<span class="trial-tabfont">Staff Mobile</span>
 							</a>
 						</div>
 					</nav>
@@ -142,8 +169,8 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 						<div class="tab-pane fade show active" id="nav-home" role="tabpanel" aria-labelledby="nav-home-tab">
 							<div class="trial-tab-container">
 								<div>
-									<h2 class="tab-content-title content-section-title d-inline-block">1. Access Demo Environment</h2>
-									<p class="trial-tab-content --no-list d-block d-md-inline">Click <a href="https://demo.dokodemo-kerja.com/" target="_blank" rel="noopener noreferrer">this link</a> to access the Demo page</p>
+									<h2 class="tab-content-title content-section-title">1. Access Demo Environment</h2>
+									<p class="trial-tab-content --no-list d-block mt-0">Click <a href="https://demo.dokodemo-kerja.com/" target="_blank" rel="noopener noreferrer">this link</a> to access the Demo page</p>
 								</div>
 								<div class="pl-4 mb-5">
 									<div class="row">
@@ -209,8 +236,8 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 						<div class="tab-pane fade" id="nav-profile" role="tabpanel" aria-labelledby="nav-profile-tab">
 							<div class="trial-tab-container">
 								<div>
-									<h2 class="tab-content-title content-section-title d-inline-block">1. Access Demo Environment</h2>
-									<p class="trial-tab-content --no-list d-block d-md-inline">Click <a href="https://demo.dokodemo-kerja.com/" target="_blank" rel="noopener noreferrer">this link</a> to access the Demo page</p>
+									<h2 class="tab-content-title content-section-title">1. Access Demo Environment</h2>
+									<p class="trial-tab-content --no-list mt-0">Click <a href="https://demo.dokodemo-kerja.com/" target="_blank" rel="noopener noreferrer">this link</a> to access the Demo page</p>
 								</div>
 								<div class="pl-4 mb-5">
 									<div class="row">
@@ -290,6 +317,119 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 								</div>
 							</div>
 						</div>
+						<div class="tab-pane fade" id="mobile-staff" role="tabpanel" aria-labelledby="mobile-staff-tab">
+							<div class="trial-tab-container">
+								<div>
+									<h2 class="tab-content-title content-section-title d-inline-block">1. Download Dokodemo-Kerja Mobile App</h2>
+								</div>
+								<div class="pl-4 mb-5">
+									<div class="row">
+										<div class="col-md-6">
+											<p class="trial-tab-content">Look for "Dokodemo Mobile" in the Play Store, and tap "Install"</p>
+											<div class="text-center">
+												<img src="/img/trial/mobile-1.png" class="mb-3 img-fluid mobile-screenshot img-border"/>
+											</div>
+										</div>
+										<div class="col-md-6">
+											<!-- <p class="trial-tab-content">Atau website Dokodemo-Kerja. <br><br></p> -->
+											<p class="trial-tab-content">Or download the Mobile App through your company's Dokodemo-Kerja website.</p>
+											<img src="/img/trial/mobile-2.png" class="mb-3 img-fluid mobile-screenshot img-border"/>
+										</div>
+									</div>
+								</div>
+
+								<div class="pl-4">
+									<div class="row">
+										<div class="col-md-6">
+											<h2 class="tab-content-title content-section-title">2. Login Page</h2>
+											<div class="trial-tab-content">
+												<p class="mb-0">Login by filling in your Company code, E-mail, and Password, and click the Login button.</p>
+											</div>
+											<div class="text-center">
+												<img src="/img/trial/mobile-3.png" class="mb-3 img-fluid img-border mobile-screenshot"/>
+											</div>
+										</div>
+										<div class="col-md-6">
+											<h2 class="tab-content-title content-section-title">3. Choose a Task</h2>
+											<p class="trial-tab-content">In order to start the time tracking, you must choose a task. This can also be done later.</p>
+											<div class="text-center">
+												<img src="/img/trial/mobile-4.png" class="mb-3 img-fluid img-border mobile-screenshot"/>
+											</div>
+										</div>
+									</div>
+								</div>
+
+								<h2 class="tab-content-title content-section-title">4. Main Page</h2>
+								<div class="pl-4">
+									<div class="row">
+										<div class="col-md-6">
+											<div class="trial-tab-content">
+												<p>
+													Here is the main display of the Dokodemo-Kerja Mobile App.
+												</p>
+												<div class="text-center">
+													<img src="/img/trial/mobile-5.png" class="mb-3 img-fluid img-border mobile-screenshot"/>
+												</div>
+											</div>
+										</div>
+										<div class="col-md-6">
+											<div class="trial-tab-content">
+												<p>The "Start" and "Stop" buttons are located at the bottom of the page.</p>
+												<div class="text-center">
+													<img src="/img/trial/mobile-6.png" class="mb-3 img-fluid img-border mobile-screenshot"/>
+												</div>
+											</div>
+										</div>
+									</div>
+								</div>
+
+								<h2 class="tab-content-title content-section-title">5. Features</h2>
+								<div class="pl-4">
+									<div class="row">
+										<div class="col-md-6">
+											<div class="trial-tab-content">
+												<p>GPS Tracker which can be used to track employees outside of the office.</p>
+												<div class="text-center">
+													<img src="/img/trial/mobile-7.png" class="mb-3 img-fluid img-border mobile-screenshot"/>
+												</div>
+											</div>
+										</div>
+										<div class="col-md-6">
+											<div class="trial-tab-content">
+												<p>Screenshot records taken through the desktop app. <br class="d-none d-md-block d-lg-none"><br class="d-none d-md-block d-lg-none"></p>
+												<div class="text-center">
+													<img src="/img/trial/mobile-8.png" class="mb-3 img-fluid img-border mobile-screenshot"/>
+												</div>
+											</div>
+										</div>
+									</div>
+								</div>
+
+								<div class="pl-4">
+									<div class="row">
+										<div class="col-md-6">
+											<div class="trial-tab-content">
+												<h2 class="tab-content-title content-section-title">6. History Record</h2>
+												<p>Users can see their Daily, Weekly, and Monthly work hours record.</p>
+												<div class="text-center">
+													<img src="/img/trial/mobile-9.png" class="mb-3 img-fluid img-border mobile-screenshot"/>
+												</div>
+											</div>
+										</div>
+										<div class="col-md-6">
+											<div class="trial-tab-content">
+												<h2 class="tab-content-title content-section-title">6. Account</h2>
+												<p>This menu displays the user's profile, and is used to log out of the app. <br class="d-none d-md-block d-lg-none"><br class="d-none d-md-block d-lg-none"></p>
+												<div class="text-center">
+													<img src="/img/trial/mobile-10.png" class="mb-3 img-fluid img-border mobile-screenshot"/>
+												</div>
+											</div>
+										</div>
+									</div>
+								</div>
+								
+							</div>
+						</div>
 					</div>
 				</div>
 			</div>
@@ -348,6 +488,24 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
         setTimeout(function() {
             $('#myModal').modal();
         }, 4000);
+	</script>
+	<!-- set border based on active tab -->
+    <script>
+        $('.trial-tab').click(function(e) {
+			setTimeout(() => {
+				var tab_active, tab_position;
+				tab_active = $(this).attr('aria-selected');
+				tab_position = $(this).index();
+
+				$(this).parent().find('.trial-tab').removeClass('--divider');
+
+				if (tab_position == 2 && tab_active) { // last tab is active
+					$(this).parent().find('.trial-tab:nth-child(2)').addClass('--divider');
+				} else if (tab_position == 0 && tab_active) { // first tab is active
+					$(this).parent().find('.trial-tab:last-child').addClass('--divider');
+				}
+			}, 5);
+        })
     </script>
 </body>
 

@@ -132,9 +132,18 @@ $page = 'demo';
 							<a target="_blank" href="https://drive.google.com/open?id=1PjZ9cwUU1dOCiS_kIx-cGC5UNxpSseta" class="btn btn-download bold uppercase hidden-xs" id="btn-download-linux-id"><i class="fa fa-download icon-download"></i>Linux</a>
 						</div>
 					</div>
-					<a href="https://dokodemo-kerja.com/pdf/install-guide.pdf" target="_blank" rel="noopener noreferrer" aria-label="Install Guide" class="dl-guide">
-						<img src="../img/install.png" class="d-block img-fluid img-border m-auto" id="trial-install-guide" alt="" />
-					</a>
+					<div class="row">
+						<!-- <div class="offset-md-3 col-md-3">
+							<a href="#">
+								<img class="img-fluid mobile-apps__icon" src="/img/trial/app-store.png" alt="">
+							</a>
+						</div> -->
+						<div class="offset-md-4 col-md-4">
+							<a href="https://play.google.com/store/apps/details?id=com.dokodemomobile">
+								<img class="img-fluid mobile-apps__icon" src="/img/trial/google-play.png" alt="">
+							</a>
+						</div>
+					</div>
 				</div>
 			</div>
 		</div>
@@ -145,15 +154,33 @@ $page = 'demo';
 			<div class="row mt-5">
 				<div class="offset-md-1 col-md-10">
 					<h3 class="trial-title">Cara Menggunakan Dokodemo-Kerja</h3>
+					
+					<!-- <a href="https://dokodemo-kerja.com/pdf/install-guide.pdf" target="_blank" rel="noopener noreferrer" aria-label="Install Guide" class="dl-guide">
+						<img src="/img/install.png" class="d-block img-fluid img-border mx-auto mb-3" id="trial-install-guide" alt="" />
+					</a> -->
+					<div class="installation-manual">
+						Download manual instalasi di sini:
+						<a class="installation-manual__item" target="_blank" href="https://drive.google.com/file/d/1JSkS98_d3fUzaNcVLv0QWtX0eGEVq4HR/view?usp=sharing">
+							<img src="/img/trial/pdf.svg" alt="">
+							Desktop
+						</a>
+						<a class="installation-manual__item" target="_blank" href="https://drive.google.com/file/d/1mhugySDha-QKR0lSwtDjNKZip-lf8CK4/view?usp=sharing">
+							<img src="/img/trial/pdf.svg" alt="">
+							Mobile
+						</a>
+					</div>
 				</div>
 				<div class="offset-md-1 col-md-10 tab-tutor-container">
 					<nav>
 						<div class="nav nav-tabs nav-tabs-trial" id="nav-tab" role="tablist">
-							<a class="nav-item nav-link active trial-tab" id="nav-home-tab" data-toggle="tab" href="#nav-home" role="tab" aria-controls="nav-home" aria-selected="true">
+							<a class="nav-item nav-link trial-tab active" id="nav-home-tab" data-toggle="tab" href="#nav-home" role="tab" aria-controls="nav-home" aria-selected="true">
 								<span class="trial-tabfont">Admin</span>
 							</a>
 							<a class="nav-item nav-link trial-tab" id="nav-profile-tab" data-toggle="tab" href="#nav-profile" role="tab" aria-controls="nav-profile" aria-selected="false">
-								<span class="trial-tabfont">Staff</span>
+								<span class="trial-tabfont">Staff Admin</span>
+							</a>
+							<a class="nav-item nav-link trial-tab --divider" id="mobile-staff-tab" data-toggle="tab" href="#mobile-staff" role="tab" aria-controls="mobile-staff" aria-selected="false">
+								<span class="trial-tabfont">Staff Mobile</span>
 							</a>
 						</div>
 					</nav>
@@ -161,8 +188,8 @@ $page = 'demo';
 						<div class="tab-pane fade show active" id="nav-home" role="tabpanel" aria-labelledby="nav-home-tab">
 							<div class="trial-tab-container">
 								<div>
-									<h2 class="tab-content-title content-section-title d-inline-block">1. Akses Demo Environment</h2>
-									<p class="trial-tab-content --no-list d-block d-md-inline">Tekan <a href="https://demo.dokodemo-kerja.com/" target="_blank" rel="noopener noreferrer">Link ini</a> untuk mengakses halaman admin Dokodemo-Kerja.</p>
+									<h2 class="tab-content-title content-section-title">1. Akses Demo Environment</h2>
+									<p class="trial-tab-content --no-list d-block mt-0">Tekan <a href="https://demo.dokodemo-kerja.com/" target="_blank" rel="noopener noreferrer">Link ini</a> untuk mengakses halaman admin Dokodemo-Kerja.</p>
 								</div>
 								<div class="pl-4 mb-5">
 									<div class="row">
@@ -176,7 +203,7 @@ $page = 'demo';
 										</div>
 									</div>
 								</div>
-								<h2 class="content-section-title">2. Menambah Staff</h2>
+								<h2 class="tab-content-title content-section-title">2. Menambah Staff</h2>
 								<div class="pl-4">
 									<p class="trial-tab-content">Tekan tombol <strong>"Staff"</strong></p>
 									<img src="/img/trial/admin-3.png" class="mb-3 img-fluid w-100 img-border" alt="" />
@@ -228,8 +255,8 @@ $page = 'demo';
 						<div class="tab-pane fade" id="nav-profile" role="tabpanel" aria-labelledby="nav-profile-tab">
 							<div class="trial-tab-container">
 								<div>
-									<h2 class="tab-content-title content-section-title d-inline-block">1. Akses Demo Environment</h2>
-									<p class="trial-tab-content --no-list d-block d-md-inline">Tekan <a href="https://demo.dokodemo-kerja.com/" target="_blank" rel="noopener noreferrer">Link ini</a> untuk mengakses halaman admin Dokodemo-Kerja.</p>
+									<h2 class="tab-content-title content-section-title">1. Akses Demo Environment</h2>
+									<p class="trial-tab-content --no-list mt-0">Tekan <a href="https://demo.dokodemo-kerja.com/" target="_blank" rel="noopener noreferrer">Link ini</a> untuk mengakses halaman admin Dokodemo-Kerja.</p>
 								</div>
 								<div class="pl-4 mb-5">
 									<div class="row">
@@ -244,7 +271,7 @@ $page = 'demo';
 									</div>
 								</div>
 
-								<h2 class="content-section-title">2. Menggunakan Homepage</h2>
+								<h2 class="tab-content-title content-section-title">2. Menggunakan Homepage</h2>
 								<div class="pl-4">
 									<div class="row">
 										<div class="col-md-6">
@@ -305,6 +332,119 @@ $page = 'demo';
 									<p class="trial-tab-content">Anda bisa melihat hasil tangkapan layar serta berapa lama anda telah bekerja. Icon yang ada di dalam kolom berwarna adalah untuk mengubah waktu secara manual. Selain itu, terdapat waktu riwayat pengubahan waktu dan komentar dari karyawan lain</p>
 									<img src="/img/trial/staff-7.png" class="mb-5 img-fluid w-100 img-border"/>
 								</div>
+							</div>
+						</div>
+						<div class="tab-pane fade" id="mobile-staff" role="tabpanel" aria-labelledby="mobile-staff-tab">
+							<div class="trial-tab-container">
+								<div>
+									<h2 class="tab-content-title content-section-title d-inline-block">1. Download Dokodemo-Kerja Mobile App</h2>
+								</div>
+								<div class="pl-4 mb-5">
+									<div class="row">
+										<div class="col-md-6">
+											<p class="trial-tab-content">Cari aplikasi "Dokodemo Mobile" di Play Store, dan tekan "Install"</p>
+											<div class="text-center">
+												<img src="/img/trial/mobile-1.png" class="mb-3 img-fluid img-border mobile-screenshot"/>
+											</div>
+										</div>
+										<div class="col-md-6">
+											<!-- <p class="trial-tab-content">Atau website Dokodemo-Kerja. <br><br></p> -->
+											<p class="trial-tab-content">Atau download aplikasi mobile dari website Dokodemo perusahaan.</p>
+											<img src="/img/trial/mobile-2.png" class="mb-3 img-fluid img-border mobile-screenshot"/>
+										</div>
+									</div>
+								</div>
+
+								<div class="pl-4">
+									<div class="row">
+										<div class="col-md-6">
+											<h2 class="tab-content-title content-section-title">2. Layar Login</h2>
+											<div class="trial-tab-content">
+												<p class="mb-0">Login dengan Company Code, Email dan Password yang sudah terdaftar, kemudian tekan tombol Login.</p>
+											</div>
+											<div class="text-center">
+												<img src="/img/trial/mobile-3.png" class="mb-3 img-fluid img-border mobile-screenshot"/>
+											</div>
+										</div>
+										<div class="col-md-6">
+											<h2 class="tab-content-title content-section-title">3. Pilih Task</h2>
+											<p class="trial-tab-content">User diminta untuk memilih Task <br class="d-none d-md-block"><br class="d-none d-md-block"><br class="d-none d-md-block"><br class="d-none d-md-block d-lg-none"></p>
+											<div class="text-center">
+												<img src="/img/trial/mobile-4.png" class="mb-3 img-fluid img-border mobile-screenshot"/>
+											</div>
+										</div>
+									</div>
+								</div>
+
+								<h2 class="tab-content-title content-section-title">4. Layar Utama</h2>
+								<div class="pl-4">
+									<div class="row">
+										<div class="col-md-6">
+											<div class="trial-tab-content">
+												<p>
+													Beberapa fungsi yang tersedia pada Dokodemo-Kerja Mobile App 
+												</p>
+												<div class="text-center">
+													<img src="/img/trial/mobile-5.png" class="mb-3 img-fluid img-border mobile-screenshot"/>
+												</div>
+											</div>
+										</div>
+										<div class="col-md-6">
+											<div class="trial-tab-content">
+												<p>Tombol “Start” dan “Stop” <br class="d-none d-md-block"><br class="d-none d-md-block"><br class="d-none d-md-block d-lg-none"></p>
+												<div class="text-center">
+													<img src="/img/trial/mobile-6.png" class="mb-3 img-fluid img-border mobile-screenshot"/>
+												</div>
+											</div>
+										</div>
+									</div>
+								</div>
+
+								<h2 class="tab-content-title content-section-title">5. Fitur</h2>
+								<div class="pl-4">
+									<div class="row">
+										<div class="col-md-6">
+											<div class="trial-tab-content">
+												<p>GPS Tracker untuk melacak user saat melakukan kegiatan di luar kantor.</p>
+												<div class="text-center">
+													<img src="/img/trial/mobile-7.png" class="mb-3 img-fluid img-border mobile-screenshot"/>
+												</div>
+											</div>
+										</div>
+										<div class="col-md-6">
+											<div class="trial-tab-content">
+												<p>Screenshot layar desktop saat sedang bekerja. (Desktop App)<br class="d-none d-md-block d-lg-none"><br class="d-none d-md-block d-lg-none"></p>
+												<div class="text-center">
+													<img src="/img/trial/mobile-8.png" class="mb-3 img-fluid img-border mobile-screenshot"/>
+												</div>
+											</div>
+										</div>
+									</div>
+								</div>
+
+								<div class="pl-4">
+									<div class="row">
+										<div class="col-md-6">
+											<div class="trial-tab-content">
+												<h2 class="tab-content-title content-section-title">6. History Record</h2>
+												<p>User dapat melihat jam kerjanya secara Daily, Weekly dan Monthly.</p>
+												<div class="text-center">
+													<img src="/img/trial/mobile-9.png" class="mb-3 img-fluid img-border mobile-screenshot"/>
+												</div>
+											</div>
+										</div>
+										<div class="col-md-6">
+											<div class="trial-tab-content">
+												<h2 class="tab-content-title content-section-title">6. Account</h2>
+												<p>Menu ini menampilkan user profile, dan dapat digunakan untuk logout.</p>
+												<div class="text-center">
+													<img src="/img/trial/mobile-10.png" class="mb-3 img-fluid img-border mobile-screenshot"/>
+												</div>
+											</div>
+										</div>
+									</div>
+								</div>
+								
 							</div>
 						</div>
 					</div>
@@ -371,6 +511,24 @@ $page = 'demo';
             $('#myModal').modal();
         }, 4000);
     </script>
+	<!-- set border based on active tab -->
+	<script>
+		$('.trial-tab').click(function(e) {
+			setTimeout(() => {
+				var tab_active, tab_position;
+				tab_active = $(this).attr('aria-selected');
+				tab_position = $(this).index();
+
+				$(this).parent().find('.trial-tab').removeClass('--divider');
+
+				if (tab_position == 2 && tab_active) { // last tab is active
+					$(this).parent().find('.trial-tab:nth-child(2)').addClass('--divider');
+				} else if (tab_position == 0 && tab_active) { // first tab is active
+					$(this).parent().find('.trial-tab:last-child').addClass('--divider');
+				}
+			}, 5);
+		})
+	</script>
 </body>
 
 </html>
