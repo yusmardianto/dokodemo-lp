@@ -71,9 +71,9 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                     <h1>ABOUT DOKODEMO-KERJA</h1>
 
                     <p class="about-us-desc">
-                        Dokodemo-Kerja is a Human Resource tool developed by PT. LOGIQUE Digital Indonesia, a company providing Digital Solutions, based in Jakarta, Indonesia. Dokodemo-Kerja was designed to promote healthier and more productive work cultures in a way that benefits both the Company and Employees alike.
+                        <a href="/">Dokodemo-Kerja</a> is a Human Resource tool developed by <a target="_blank" href="https://www.logique.co.id">PT. LOGIQUE Digital Indonesia</a>, a company providing Digital Solutions, based in Jakarta, Indonesia. <a href="/">Dokodemo-Kerja</a> was designed to promote healthier and more productive work cultures in a way that benefits both the Company and Employees alike.
                         <br><br>
-                        Dokodemo-Kerja takes its name from both the Japanese and Indonesian languages, with “Dokodemo” meaning “Anywhere” and “Kerja” meaning “to work”, which then translates to “Work Anywhere.” This is reflected on its main function, as it allows for employees to work in an environment most suited to them, instead of being confined to a single location, while efficiently monitoring their daily working routines.
+                        <a href="/">Dokodemo-Kerja</a> takes its name from both the Japanese and Indonesian languages, with “Dokodemo” meaning “Anywhere” and “Kerja” meaning “to work”, which then translates to “Work Anywhere.” This is reflected on its main function, as it allows for employees to work in an environment most suited to them, instead of being confined to a single location, while efficiently monitoring their daily working routines.
                     </p>
 
                     <p class="about-us-contact">
@@ -101,7 +101,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                         </ol>
 
                     <p>
-                        By implementing work rotation schedules, Dokodemo-Kerja can prove to be a powerful tool to help reducing costs, maximizing workforce potential and promoting a productive work environment.
+                        By implementing work rotation schedules, <a href="/">Dokodemo-Kerja</a> can prove to be a powerful tool to help reducing costs, maximizing workforce potential and promoting a productive work environment.
                     </p>
                                                             
                 </div>

@@ -2,7 +2,7 @@
   font-weight: 700;
   font-size: 2.5rem;
   text-align: center;
-  margin: 3rem 0 4rem 0;
+  margin: 3rem 0 1rem 0;
   color: #000;
 }
 
@@ -26,6 +26,11 @@
   border-radius: 8px 8px 0 0;
   overflow: hidden;
   border: none;
+}
+
+.trial-tab.--divider {
+  border-left: solid 1px grey !important;
+  border-top-left-radius: 0;
 }
 
 .nav-tabs-trial .nav-item.show .nav-link,
@@ -78,6 +83,11 @@
   font-size: 18px;
 }
 
+.mobile-apps__icon {
+  width: 100%;
+  max-width: 170px;
+}
+
 .tab-content {
   padding: 20px;
   padding-right: calc(1.4rem + 20px);
@@ -85,10 +95,11 @@
   margin-top: 1.5em;
   margin-bottom: 2.5em;
   border-radius: 8px;
+  border: solid 1px rgba(0,119,199, .5);
 }
 
 .trial-tab {
-  width: 50%;
+  width: 33.3%;
 }
 
 .trial-tabfont {
@@ -282,6 +293,11 @@
   border: 4px solid rgba(18, 130, 194, 0.3);
 }
 
+.mobile-screenshot {
+  height: 330px;
+  object-fit: contain;
+}
+
 @media screen and (max-width: 768px) {
   .download-container {
     padding: 15px 45px;
@@ -310,3 +326,41 @@
 .survey-pop-btn-promo {
   font-weight: bold;
 }
+
+/* installation manual */
+.installation-manual {
+  display: flex;
+  align-items: flex-end;
+  justify-content: center;
+  margin-bottom: 25px;
+}
+
+.installation-manual > .installation-manual__item {
+  background-color: #cbe6f5;
+  color: #1282c2;
+  font-weight: 600;
+  padding: 5px 8px;
+  border-radius: 4px;
+  display: flex;
+  align-items: flex-end;
+  margin-left: 15px;
+  line-height: .8;
+  transition: .2s;
+}
+
+.installation-manual > .installation-manual__item:hover {
+  background-color: #1282c2;
+  color: #cbe6f5;
+}
+
+.installation-manual__item > img {
+  width: 12px;
+  margin-right: 8px;
+}
+
+@media (max-width: 767.98px) {
+  .installation-manual {
+    flex-wrap: wrap;
+  }
+}
+/* end installation manual */

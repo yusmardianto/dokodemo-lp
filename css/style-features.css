@@ -112,11 +112,14 @@ body {
   max-width: 100%;
   height: auto;
   max-height: 300px;
-  margin: 0 auto;
+  /* margin: 0 auto; */
   object-position: center;
   object-fit: cover;
   /* padding: 1em 3px; */
   /* cursor: pointer; */
+  width: 90%;
+  margin-left: auto;
+  display: block;
 }
 
 .slick-prev {
@@ -348,6 +351,13 @@ body {
   border-bottom: 0;
   margin-left: 0;
   margin-bottom: -15px;
+}
+
+.footer__divider {
+  background-color: #f4f4f4;
+  height: 5px;
+  border: none;
+  margin-top: 40px;
 }
 
 @media only screen and (min-width: 1441px) {
