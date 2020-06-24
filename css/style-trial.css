@@ -83,6 +83,11 @@
   font-size: 18px;
 }
 
+.mobile-apps__icon {
+  width: 100%;
+  max-width: 170px;
+}
+
 .tab-content {
   padding: 20px;
   padding-right: calc(1.4rem + 20px);
@@ -321,3 +326,41 @@
 .survey-pop-btn-promo {
   font-weight: bold;
 }
+
+/* installation manual */
+.installation-manual {
+  display: flex;
+  align-items: flex-end;
+  justify-content: center;
+  margin-bottom: 25px;
+}
+
+.installation-manual > .installation-manual__item {
+  background-color: #cbe6f5;
+  color: #1282c2;
+  font-weight: 600;
+  padding: 5px 8px;
+  border-radius: 4px;
+  display: flex;
+  align-items: flex-end;
+  margin-left: 15px;
+  line-height: .8;
+  transition: .2s;
+}
+
+.installation-manual > .installation-manual__item:hover {
+  background-color: #1282c2;
+  color: #cbe6f5;
+}
+
+.installation-manual__item > img {
+  width: 12px;
+  margin-right: 8px;
+}
+
+@media (max-width: 767.98px) {
+  .installation-manual {
+    flex-wrap: wrap;
+  }
+}
+/* end installation manual */

@@ -113,18 +113,18 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 							<a target="_blank" href="https://drive.google.com/open?id=1PjZ9cwUU1dOCiS_kIx-cGC5UNxpSseta" class="btn btn-download bold uppercase hidden-xs" id="btn-download-linux"><i class="fa fa-download icon-download"></i>Linux</a>
 						</div>
 					</div>
-					<!-- <div class="row">
-						<div class="offset-md-3 col-md-3">
+					<div class="row">
+						<!-- <div class="offset-md-3 col-md-3">
 							<a href="#">
-								<img class="img-fluid w-100" src="/img/trial/app-store.png" alt="">
+								<img class="img-fluid mobile-apps__icon" src="/img/trial/app-store.png" alt="">
+							</a>
+						</div> -->
+						<div class="offset-md-4 col-md-4">
+							<a href="https://play.google.com/store/apps/details?id=com.dokodemomobile">
+								<img class="img-fluid mobile-apps__icon" src="/img/trial/google-play.png" alt="">
 							</a>
 						</div>
-						<div class="col-md-3">
-							<a href="#">
-								<img class="img-fluid w-100" src="/img/trial/google-play.png" alt="">
-							</a>
-						</div>
-					</div> -->
+					</div>
 				</div>
 			</div>
 		</div>
@@ -136,9 +136,20 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 				<div class="offset-md-1 col-md-10">
 					<h3 class="trial-title">How To Use Dokodemo-Kerja</h3>
 					
-					<a href="https://dokodemo-kerja.com/pdf/install-guide-ENG.pdf" target="_blank" aria-label="Install Guide" class="dl-guide" rel="noopener noreferrer">
+					<!-- <a href="https://dokodemo-kerja.com/pdf/install-guide-ENG.pdf" target="_blank" aria-label="Install Guide" class="dl-guide" rel="noopener noreferrer">
 						<img src="/img/install.png" class="d-block img-fluid img-border mx-auto mb-3" id="trial-install-guide" alt="" />
-					</a>
+					</a> -->
+					<div class="installation-manual">
+						Download installation manual here:
+						<a class="installation-manual__item" target="_blank" href="https://drive.google.com/file/d/1jZut6Ouhi_HA26QoL4mvty45qZMAgdii/view?usp=sharing">
+							<img src="/img/trial/pdf.svg" alt="">
+							Desktop
+						</a>
+						<a class="installation-manual__item" target="_blank" href="https://drive.google.com/file/d/1g7X_m57cUDF-GJsgPyKgFWtx8LLeADbH/view?usp=sharing">
+							<img src="/img/trial/pdf.svg" alt="">
+							Mobile
+						</a>
+					</div>
 				</div>
 				<div class="offset-md-1 col-md-10 tab-tutor-container">
 					<nav>

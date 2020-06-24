@@ -1134,4 +1134,14 @@ body {
   margin-bottom: -40px;
 }
 
+.apps-launch .apps-launch__icon {
+  width: 100%;
+  max-width: 170px;
+}
+
+@media (max-width: 991.98px) {
+  .apps-launch {
+    min-height: 240px;
+  }
+}
 /* end apps launch */
