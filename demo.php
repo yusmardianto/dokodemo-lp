@@ -169,8 +169,8 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 						<div class="tab-pane fade show active" id="nav-home" role="tabpanel" aria-labelledby="nav-home-tab">
 							<div class="trial-tab-container">
 								<div>
-									<h2 class="tab-content-title content-section-title d-inline-block">1. Access Demo Environment</h2>
-									<p class="trial-tab-content --no-list d-block d-md-inline">Click <a href="https://demo.dokodemo-kerja.com/" target="_blank" rel="noopener noreferrer">this link</a> to access the Demo page</p>
+									<h2 class="tab-content-title content-section-title">1. Access Demo Environment</h2>
+									<p class="trial-tab-content --no-list d-block mt-0">Click <a href="https://demo.dokodemo-kerja.com/" target="_blank" rel="noopener noreferrer">this link</a> to access the Demo page</p>
 								</div>
 								<div class="pl-4 mb-5">
 									<div class="row">
@@ -324,15 +324,15 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 								</div>
 								<div class="pl-4 mb-5">
 									<div class="row">
-										<!-- <div class="col-md-6">
-											<p class="trial-tab-content">Mendownload Dokodemo-Kerja Mobile App melalui Play store</p>
+										<div class="col-md-6">
+											<p class="trial-tab-content">Look for "Dokodemo Mobile" in the Play Store, and tap "Install"</p>
 											<div class="text-center">
 												<img src="/img/trial/mobile-1.png" class="mb-3 img-fluid mobile-screenshot img-border"/>
 											</div>
-										</div> -->
+										</div>
 										<div class="col-md-6">
 											<!-- <p class="trial-tab-content">Atau website Dokodemo-Kerja. <br><br></p> -->
-											<p class="trial-tab-content">Download the Mobile App through your company's Dokodemo-Kerja website.</p>
+											<p class="trial-tab-content">Or download the Mobile App through your company's Dokodemo-Kerja website.</p>
 											<img src="/img/trial/mobile-2.png" class="mb-3 img-fluid mobile-screenshot img-border"/>
 										</div>
 									</div>

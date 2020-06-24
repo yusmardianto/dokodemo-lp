@@ -159,7 +159,7 @@ $page = 'demo';
 						<img src="/img/install.png" class="d-block img-fluid img-border mx-auto mb-3" id="trial-install-guide" alt="" />
 					</a> -->
 					<div class="installation-manual">
-						Download installation manual here:
+						Download manual instalasi di sini:
 						<a class="installation-manual__item" target="_blank" href="https://drive.google.com/file/d/1JSkS98_d3fUzaNcVLv0QWtX0eGEVq4HR/view?usp=sharing">
 							<img src="/img/trial/pdf.svg" alt="">
 							Desktop
@@ -188,8 +188,8 @@ $page = 'demo';
 						<div class="tab-pane fade show active" id="nav-home" role="tabpanel" aria-labelledby="nav-home-tab">
 							<div class="trial-tab-container">
 								<div>
-									<h2 class="tab-content-title content-section-title d-inline-block">1. Akses Demo Environment</h2>
-									<p class="trial-tab-content --no-list d-block d-md-inline">Tekan <a href="https://demo.dokodemo-kerja.com/" target="_blank" rel="noopener noreferrer">Link ini</a> untuk mengakses halaman admin Dokodemo-Kerja.</p>
+									<h2 class="tab-content-title content-section-title">1. Akses Demo Environment</h2>
+									<p class="trial-tab-content --no-list d-block mt-0">Tekan <a href="https://demo.dokodemo-kerja.com/" target="_blank" rel="noopener noreferrer">Link ini</a> untuk mengakses halaman admin Dokodemo-Kerja.</p>
 								</div>
 								<div class="pl-4 mb-5">
 									<div class="row">
@@ -341,15 +341,15 @@ $page = 'demo';
 								</div>
 								<div class="pl-4 mb-5">
 									<div class="row">
-										<!-- <div class="col-md-6">
-											<p class="trial-tab-content">Mendownload Dokodemo-Kerja Mobile App melalui Play store</p>
+										<div class="col-md-6">
+											<p class="trial-tab-content">Cari aplikasi "Dokodemo Mobile" di Play Store, dan tekan "Install"</p>
 											<div class="text-center">
 												<img src="/img/trial/mobile-1.png" class="mb-3 img-fluid img-border mobile-screenshot"/>
 											</div>
-										</div> -->
+										</div>
 										<div class="col-md-6">
 											<!-- <p class="trial-tab-content">Atau website Dokodemo-Kerja. <br><br></p> -->
-											<p class="trial-tab-content">Download aplikasi mobile dari website Dokodemo perusahaan.</p>
+											<p class="trial-tab-content">Atau download aplikasi mobile dari website Dokodemo perusahaan.</p>
 											<img src="/img/trial/mobile-2.png" class="mb-3 img-fluid img-border mobile-screenshot"/>
 										</div>
 									</div>
