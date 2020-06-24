@@ -236,8 +236,8 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 						<div class="tab-pane fade" id="nav-profile" role="tabpanel" aria-labelledby="nav-profile-tab">
 							<div class="trial-tab-container">
 								<div>
-									<h2 class="tab-content-title content-section-title d-inline-block">1. Access Demo Environment</h2>
-									<p class="trial-tab-content --no-list d-block d-md-inline">Click <a href="https://demo.dokodemo-kerja.com/" target="_blank" rel="noopener noreferrer">this link</a> to access the Demo page</p>
+									<h2 class="tab-content-title content-section-title">1. Access Demo Environment</h2>
+									<p class="trial-tab-content --no-list mt-0">Click <a href="https://demo.dokodemo-kerja.com/" target="_blank" rel="noopener noreferrer">this link</a> to access the Demo page</p>
 								</div>
 								<div class="pl-4 mb-5">
 									<div class="row">
