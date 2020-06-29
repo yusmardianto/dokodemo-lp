@@ -150,12 +150,12 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
         <div class="container">
             <div class="row">
                 <div class="col-md-4 offset-md-2 col-10 offset-1 py-2">
-                    <a href="https://dokodemo-kerja.com/pdf/manual-guide-ENG.pdf" class="dl-guide" aria-label="manual guide">
+                    <a href="https://drive.google.com/file/d/1kJA4zw9AlRcPQgkQThKdXOs9nfVI00ab/view?usp=sharing" class="dl-guide" aria-label="manual guide">
                         <img src="/img/manual.png" class="img-fluid mx-auto d-block" id="features-manual-guide" alt="" />
                     </a>
                 </div>
                 <div class="col-md-4 col-10 offset-md-0 offset-1 py-2">
-                    <a href="https://dokodemo-kerja.com/pdf/install-guide-ENG.pdf" class="dl-guide" aria-label="dl-guide">
+                    <a href="https://drive.google.com/file/d/1jZut6Ouhi_HA26QoL4mvty45qZMAgdii/view?usp=sharing" class="dl-guide" aria-label="dl-guide">
                         <img src="/img/install.png" class="img-fluid mx-auto d-block" id="features-install-guide" alt="" />
                     </a>
                 </div>

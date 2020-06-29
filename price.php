@@ -168,7 +168,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                 <div class="col-md-12 mb-3">
                     <div class="faq-title">FAQ</div>
                     <div class="faq-subtitle">If your questions are not answered, do
-                        <a href="contact-us.php">Contact Us</a></div>
+                        <a href="/contact-us.php">Contact Us</a></div>
                 </div>
                 <div class="col-md-12 mb-3">
                     <h3 class="faq__q-title">GENERAL</h3>

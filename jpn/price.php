@@ -166,7 +166,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
             <div class="row">
                 <div class="col-md-12 mb-3">
                     <div class="faq-title">よくあるご質問</div>
-                    <div class="faq-subtitle">以下で解決しない場合はこちらからお問い合わせください。<a href="contact-us.php">Contact Us</a></div>
+                    <div class="faq-subtitle">以下で解決しない場合はこちらからお問い合わせください。<a href="/contact-us.php">Contact Us</a></div>
                 </div>
                 <div class="col-md-12 mb-3">
                     <h3 class="faq__q-title">一般</h3>

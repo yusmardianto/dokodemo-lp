@@ -166,7 +166,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
             <p class="subscribe-foooter-content">
               If your questions are not answered
             </p>
-            <a href="contact-us.php">
+            <a href="/contact-us.php">
               <button class="btn btn-primary">Get in Touch</button>
             </a>
           </div>

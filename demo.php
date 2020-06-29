@@ -83,7 +83,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 		<h1 class="banner-text-white">Try Our Free Demo</h1>
 		<img src="/img/home/arrow-down.svg" class="pt-4 pb-3" width="20" alt=""/>
 		<a href="https://demo.dokodemo-kerja.com" class="btn btn-trial-contact bold uppercase" target="_blank" rel="noopener noreferrer" id="btn-demo">Admin Demo</a>
-		<a href="https://dokodemo-kerja.com/pdf/manual-guide-ENG.pdf" target="_blank" rel="noopener noreferrer">
+		<a href="https://drive.google.com/file/d/1kJA4zw9AlRcPQgkQThKdXOs9nfVI00ab/view?usp=sharing" target="_blank" rel="noopener noreferrer">
 			<p class="trial-header-content">For staff demo, please follow the instruction below.</p>
 		</a>
 	</section>
@@ -445,7 +445,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 					</p>
 					<a href="/contact-us.php" class="btn btn-trial-contact bold uppercase" id="btn-contact-us">Contact Us</a>
 					<p class="q-title" style="text-decoration:underline">
-						<a href="/pdf/manual-guide-ENG.pdf" target="_blank" rel="noopener noreferrer" style="color:#fff">
+						<a href="https://drive.google.com/file/d/1kJA4zw9AlRcPQgkQThKdXOs9nfVI00ab/view?usp=sharing" target="_blank" rel="noopener noreferrer" style="color:#fff">
 							Download the manual guide
 						</a>
 					</p>

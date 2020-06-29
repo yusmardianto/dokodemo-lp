@@ -103,7 +103,7 @@ $page = 'demo';
 		<h1 class="banner-text-white">Coba Demo Gratis Dulu</h1>
 		<img src="/img/home/arrow-down.svg" class="pt-4 pb-3" width="20" alt=""/>
 		<a href="https://demo.dokodemo-kerja.com" class="btn btn-trial-contact bold uppercase" target="_blank" rel="noopener noreferrer" id="btn-demo-trial-id">Admin Demo</a>
-		<a href="https://dokodemo-kerja.com/manual-guide.pdf" target="_blank" rel="noopener noreferrer">
+		<a href="https://drive.google.com/file/d/1itRszKytvu-x6RxoN0Ba1i_dNvtFlEHF/view?usp=sharing" target="_blank" rel="noopener noreferrer">
 			<p class="trial-header-content">Untuk mencoba versi staff, silahkan ikut instruksi dibawah</p>
 		</a>
 	</section>
@@ -462,7 +462,7 @@ $page = 'demo';
 					</p>
 					<a href="/ind/contact-us.php" class="btn btn-trial-contact bold uppercase" id="btn-contact-us-id">Hubungi Kami</a>
 					<p class="q-title" style="text-decoration:underline">
-					<a href="https://dokodemo-kerja.com/pdf/install-guide.pdf" target="_blank" rel="noopener noreferrer" style="color:#fff">
+					<a href="https://drive.google.com/file/d/1itRszKytvu-x6RxoN0Ba1i_dNvtFlEHF/view?usp=sharing" target="_blank" rel="noopener noreferrer" style="color:#fff">
 						Download Panduan Manual Dokodemo
 					</a>
 					</p>
