@@ -62,7 +62,7 @@
                 </li>
                 <li class="nav-item">
                     <a class="nav-link" target="_blank" rel="noopener noreferrer"
-                        href="https://www.logique.co.id/blog/category/dokodemo-kerja/">Blog</a>
+                        href="https://www.logique.co.id/blog/en/category/dokodemo-kerja-en/">Blog</a>
                 </li>
                 <li class="nav-item <?php active('contact-us') ?>">
                     <a class="nav-link" href="/contact-us">Contact Us</a>
