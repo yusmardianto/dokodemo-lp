@@ -121,7 +121,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                                 </a>
                             </div>
                             <div class="col-md-6 plan-btn-right">
-                                <a href="/contact-us.php" class="btn-price-buy-plan" id="btn-price-buy-plan">
+                                <a href="/ind/contact-us.php" class="btn-price-buy-plan" id="btn-price-buy-plan">
                                     Buy Plan
                                 </a>
                             </div>
@@ -170,14 +170,14 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                         </div>
                         <div class="row mb-3">
                             <div class="col-md-12">
-                                <a href="/contact-us.php" class="btn-price-try-demo" id="btn-price-try-demo">
+                                <a href="/ind/contact-us.php" class="btn-price-try-demo" id="btn-price-try-demo">
                                     Hubungi Kami
                                 </a>
                             </div>
                         </div>
                         <div class="row mb-5">
                             <div class="col-md-12">
-                                <a href="/contact-us.php" style="text-decoration:underline">
+                                <a href="/ind/contact-us.php" style="text-decoration:underline">
                                     Atau request Meeting Online
                                 </a>
                             </div>
@@ -194,7 +194,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                 <div class="col-md-12 mb-3">
                     <div class="faq-title">FAQ</div>
                     <div class="faq-subtitle">Untuk pertanyaan yang tidak terjawab, silakan
-                        <a href="contact-us.php">Hubungi Kami</a></div>
+                        <a href="/ind/contact-us.php">Hubungi Kami</a></div>
                 </div>
                 <div class="div-faq">
                     <div class="container">

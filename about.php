@@ -77,7 +77,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                     </p>
 
                     <p class="about-us-contact">
-                    You can see and get further information regarding Dokodemo-Kerja <a target="_blank" href="https://www.logique.co.id/blog/category/dokodemo-kerja/">here</a>. If you have any further questions, please do not hesitate to <a href="contact-us.php">CONTACT US</a>; we will be delighted to explain about Dokodemo-Kerja
+                    You can see and get further information regarding Dokodemo-Kerja <a target="_blank" href="https://www.logique.co.id/blog/category/dokodemo-kerja/">here</a>. If you have any further questions, please do not hesitate to <a href="/contact-us.php">CONTACT US</a>; we will be delighted to explain about Dokodemo-Kerja
                     </p>
 
                     <br class="d-none d-lg-block"><br class="d-none d-lg-block">

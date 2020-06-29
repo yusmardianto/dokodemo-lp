@@ -12,7 +12,7 @@
             <div class="col-lg-3 col-md-3 col-sm-6 footer-menu-container-1">
                 <div class="footer-menu">
                     <ul class="footer-menu-list first-list">
-                        <li><a href="/jp">ホーム</a></li>
+                        <li><a href="/jpn">ホーム</a></li>
                         <li><a href="/about">Dokodemo-Kerjaについて</a></li>
                         <li><a href="/features">機能</a></li>
                         <li><a href="/jpn/case-study">Case Study</a></li>

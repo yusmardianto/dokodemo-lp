@@ -239,7 +239,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                 </div>
                 <div class="offset-md-1 col-md-10 home-feature__card-wrapper --btn">
                     <div>
-                        <a href="ind/features">
+                        <a href="/ind/features">
                             <button class="btn btn-primary form-control feature-btn">Learn More</button>
                             <img src="/img/home/arrow-down.svg"  width="13" alt=""/>
                         </a>

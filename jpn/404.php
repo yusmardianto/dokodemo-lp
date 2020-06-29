@@ -97,7 +97,7 @@
       <div class="container-404">
         <div class="element">
             <p>The page you are looking for doesn't exist.</p>
-            <a href="/jp">
+            <a href="/jpn">
                 <button class="btn-404">Go To Homepage</button>
             </a>
         </div>
