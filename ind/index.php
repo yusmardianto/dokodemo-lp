@@ -8,7 +8,7 @@
 	<meta name="description" itemprop="description" content="Dokodemo-Kerja adalah alat management strategi HR dalam hal kerja remote dengan membuat evaluasi jadwal kerja karyawan dan mengambil screenshot. ">
     <meta name="keywords" content="Dokodemo-Kerja, strategi HR, kerja remote, jam kerja karyawan, jadwal kerja">
 	<meta name="google-site-verification" content="Xc9SFJQZdKYLsrWvrxEjLLTA-nyrnNPQTXQoMxs4gKI" />
-    <meta property="og:title" content="Alat Management Kerja Remote | Dokodemo-Kerja">
+    <meta property="og:title" content="Kerja Remote Dengan Dokodemo | Meningkatkan Efisiensi Karyawan">
     <meta property="og:type" content="website">
     <meta property="og:site_name" content="Dokodemo-Kerja">
     <meta property="og:url" content="https://dokodemo-kerja.com">
@@ -22,7 +22,7 @@
     <link rel="stylesheet" href="/css/style-home.css" />
     <link rel="stylesheet" href="/js/magnific-popup.css" />
     <link rel="shortcut icon" type="image/x-icon" href="favicon.ico">
-    <title>Alat Management Kerja Remote | Dokodemo-Kerja</title>
+    <title>Kerja Remote Dengan Dokodemo | Meningkatkan Efisiensi Karyawan</title>
 	<!-- Google Tag Manager -->
 	<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
 	new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],

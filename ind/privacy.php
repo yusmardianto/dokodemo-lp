@@ -9,7 +9,7 @@
     <meta name="keywords" content="PT LOGIQUE Digital Indonesia, privacy policy, informasi pribadi, terms and conditions, terma and condition, cookies, Penggunaan Informasi">
     <meta name="author" content="PT. LOGIQUE Digital Indonesia">
     <meta name="google-site-verification" content="Xc9SFJQZdKYLsrWvrxEjLLTA-nyrnNPQTXQoMxs4gKI" />
-    <meta property="og:title" content="Privacy Policy Dokodemo-Kerja">
+    <meta property="og:title" content="Privacy Policy Logique: Cookies / Syarat dan Ketentuan">
     <meta property="og:type" content="website">
     <meta property="og:site_name" content="Dokodemo-Kerja">
     <meta property="og:url" content="https://dokodemo-kerja.com">
@@ -22,7 +22,7 @@
     <link rel="stylesheet" href="/css/header-footer.css" />
     <link rel="stylesheet" href="/css/style-subscribe.css" />
   <link rel="shortcut icon" type="image/x-icon" href="favicon.ico">
-    <title>Privacy Policy Dokodemo-Kerja</title>
+    <title>Privacy Policy Logique: Cookies / Syarat dan Ketentuan</title>
   <!-- Google Tag Manager -->
   <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
   new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],

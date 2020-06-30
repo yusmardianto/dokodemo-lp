@@ -20,7 +20,7 @@
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=5.0" />
   <meta http-equiv="X-UA-Compatible" content="ie=edge" />
-  <meta name="description" itemprop="description" content="Contact our marketing team to get a free dokodemo trial. We provide free trials, training support, pre-sales consultation, and we are ready to answer any questions you might have regarding our product. ">
+  <meta name="description" itemprop="description" content="Contact Us to receive further information about Dokodemo-Kerja, a monitoring and reporting tool made for remote working purposes.">
   <meta name="keywords" content="dokodemo, dokodemo-kerja, enterprise program, monitoring program, reporting tool, Buy Light Plan, dokodemo email, dokodemo help, dokodemo contact, dokodemo sales, dokodemo marketing, request training, know your employee, startup tool, logique contact person, dokodemo contact person, what is dokodemo, what is remote working">
   <meta name="author" content="PT. LOGIQUE Digital Indonesia">
   <meta name="google-site-verification" content="Xc9SFJQZdKYLsrWvrxEjLLTA-nyrnNPQTXQoMxs4gKI" />
@@ -29,7 +29,7 @@
     <meta property="og:site_name" content="Dokodemo-Kerja">
     <meta property="og:url" content="https://dokodemo-kerja.com">
     <meta property="og:image" content="/img/dokodemo-og.jpg">
-    <meta property="og:description" content="Dokodemo-Kerja merupakan software atau desktop app dari LOGIQUE bagi karyawan yang kerja remote atau di luar kantor. Aplikasi ini mampu merekam dan kalkulasi jam kerja karyawan secara akurat, dilengkapi fitur screencapture otomatis. Dengan begitu, karyawan Anda menjadi lebih produktif.">
+    <meta property="og:description" content="Contact Us to receive further information about Dokodemo-Kerja, a monitoring and reporting tool made for remote working purposes.">
 
   <link rel="stylesheet" href="/css/bootstrap.min.css" />
     <link href="/fonts/font-awesome/css/font-awesome.min.css" rel="stylesheet">
@@ -79,16 +79,17 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 <!-- End Google Tag Manager (noscript) -->
 	<?php include 'header.php' ?>
 	<section class="contact-top text-center">
-	  <div class="container">
-		  <div class="row contact-resp-settings">
-			  <div class="col-sm-12 fs-30 uppercase bold" style="margin-bottom:20px">
-				Contact Us
-			  </div>
-			  <div class="col-md-6 offset-md-3 fs-20 semibold">
-				For more information about Dokodemo-Kerja, please contact us by filling out the form below.
-			  </div>
-		  </div>
-	  </div>
+	  	<div class="container">
+		 	 <div class="row contact-resp-settings">
+		  		<h1 class="d-none">Contact Logique about the Remote Working Tool, Dokodemo Kerja </h1>
+				<div class="col-sm-12 fs-30 uppercase bold" style="margin-bottom:20px">
+					Contact Us
+				</div>
+				<div class="col-md-6 offset-md-3 fs-20 semibold">
+					For more information about Dokodemo-Kerja, please contact us by filling out the form below.
+				</div>
+		  	</div>
+	 	 </div>
 	</section>
 	<section class="hide-button-on-mobile">
         <span id="popup-text">

@@ -5,8 +5,8 @@
     <meta charset="UTF-8">
    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=5.0" />
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
-	<meta name="description" itemprop="description" content="Dokodemo adalah solusi murah untuk menghemat uang Anda. Tentukan siapa saja yang pantas dibayar lebih tinggi, siapa yang berhak atas bonus, dan siapa yang benar-benar pantas mendapatkan promosi. Gunakan dokodemo-kerja dan rasakan perbedaannya.">
-    <meta name="keywords" content="platform manajer pengguna yang murah, perangkat lunak manajemen orang murah, perangkat lunak manajemen orang, dokodemo, dokodemo-kerja, perangkat lunak perusahaan, perangkat lunak perusahaan murah, alat manajemen orang yang efektif, alat manajemen murah">
+	<meta name="description" itemprop="description" content="Dokodemo-Kerja: alat manajemen efektif & solusi murah untuk menghemat uang pada karyawan.">
+    <meta name="keywords" content="platform manajer pengguna yang murah, perangkat lunak manajemen orang murah, perangkat lunak manajemen orang, dokodemo, dokodemo-kerja, perangkat lunak perusahaan, perangkat lunak perusahaan murah, alat manajemen orang yang efektif, alat manajemen murah, Kerja Remote, kerja independen">
     <meta name="author" content="PT. Logique Digital Indonesia">
 	<meta name="google-site-verification" content="Xc9SFJQZdKYLsrWvrxEjLLTA-nyrnNPQTXQoMxs4gKI" />
     <meta property="og:title" content="Harga Dokodemo-Kerja | Monitor Kinerja mulai dari 1 juta">
@@ -14,7 +14,7 @@
     <meta property="og:site_name" content="Dokodemo-Kerja">
     <meta property="og:url" content="https://dokodemo-kerja.com">
     <meta property="og:image" content="/img/dokodemo-og.jpg">
-    <meta property="og:description" content="Dokodemo adalah solusi murah untuk menghemat uang Anda. Tentukan siapa saja yang pantas dibayar lebih tinggi, siapa yang berhak atas bonus, dan siapa yang benar-benar pantas mendapatkan promosi. Gunakan dokodemo-kerja dan rasakan perbedaannya.">
+    <meta property="og:description" content="Dokodemo-Kerja: alat manajemen efektif & solusi murah untuk menghemat uang pada karyawan.">
     <link rel="stylesheet" href="/css/bootstrap.min.css" />
     <link href="/fonts/font-awesome/css/font-awesome.min.css" rel="stylesheet">
     <link rel="stylesheet" href="/css/slick.css" />
@@ -76,6 +76,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
         <div class="container mb-3">
             <div class="row">
                 <div class="col-md-12 text-center pricing-page-title">
+                    <h1 class="d-none">Hubungi Kami Untuk Informasi Seputar Dokodemo Kerja</h1>
                     <h2>Start Remote Work. Save Money. Increase Transparency.</h2>
                     <h3>Use Dokodemo-Kerja</h3>
                 </div>

@@ -20,23 +20,23 @@
 	<meta charset="UTF-8" />
 	<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=5.0" />
 	<meta http-equiv="X-UA-Compatible" content="ie=edge" />
-	<meta name="description" itemprop="description" content="Hubungi tim pemasaran kami untuk mendapatkan uji coba dokodemo gratis. Kami menyediakan uji coba gratis, dukungan pelatihan, konsultasi pra-penjualan, dan kami siap menjawab pertanyaan apa pun yang mungkin Anda miliki tentang produk kami.">
+	<meta name="description" itemprop="description" content="Hubungi Kami untuk menerima informasi lebih lanjut tentang Dokodemo-Kerja, alat pemantauan dan pelaporan yang dibuat untuk tujuan kerja jarak jauh.">
     <meta name="keywords" content="dokodemo, dokodemo-kerja, program perusahaan, program pemantauan, alat pelaporan, uji coba gratis, email dokodemo, bantuan dokodemo, kontak dokodemo, penjualan dokodemo, pemasaran dokodemo, pelatihan permintaan, kenali karyawan Anda, alat startup, logique person contact person, kontak dokodemo orang, apa itu dokodemo, apa itu kerja jarak jauh">
     <meta name="author" content="PT. LOGIQUE Digital Indonesia">
 	<meta name="google-site-verification" content="Xc9SFJQZdKYLsrWvrxEjLLTA-nyrnNPQTXQoMxs4gKI" />
-	<meta property="og:title" content="Tanya Dokodemo-Kerja | Tingkatkan produktifitas dalam 1 Bulan">
+	<meta property="og:title" content="Hubungi Kami Tentang Dokodemo-Kerja, Atau Pertanyaan Yang Mungkin Anda Miliki">
     <meta property="og:type" content="website">
     <meta property="og:site_name" content="Dokodemo-Kerja">
     <meta property="og:url" content="https://dokodemo-kerja.com">
     <meta property="og:image" content="/img/dokodemo-og.jpg">
-    <meta property="og:description" content="Dokodemo-Kerja merupakan software atau desktop app dari LOGIQUE bagi karyawan yang kerja remote atau di luar kantor. Aplikasi ini mampu merekam dan kalkulasi jam kerja karyawan secara akurat, dilengkapi fitur screencapture otomatis. Dengan begitu, karyawan Anda menjadi lebih produktif.">
+    <meta property="og:description" content="Hubungi Kami untuk menerima informasi lebih lanjut tentang Dokodemo-Kerja, alat pemantauan dan pelaporan yang dibuat untuk tujuan kerja jarak jauh.">
 
 	<link rel="stylesheet" href="/css/bootstrap.min.css" />
 	<link href="/fonts/font-awesome/css/font-awesome.min.css" rel="stylesheet">
 	<link rel="stylesheet" href="/css/header-footer.css" />
 	<link rel="stylesheet" href="/css/style.css" />
 	<link rel="shortcut icon" type="image/x-icon" href="favicon.ico">
-	<title>Tanya Dokodemo-Kerja | Tingkatkan produktifitas dalam 1 Bulan</title>
+	<title>Hubungi Kami Tentang Dokodemo-Kerja, Atau Pertanyaan Yang Mungkin Anda Miliki</title>
 	<!-- Google Tag Manager -->
 	<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
 	new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
@@ -80,6 +80,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 	<section class="contact-top text-center">
 		<div class="container">
 			<div class="row contact-resp-settings">
+				<h1 class="d-none">Hubungi Logique Untuk Alat Kerja Remote Dokodemo Kerja</h1>
 				<div class="col-sm-12 fs-30 uppercase bold" style="margin-bottom:20px">
 					HUBUNGI KAMI
 				</div>

@@ -5,15 +5,15 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=5.0" />
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
-    <meta name="description" itemprop="description" content="Prosedur berlangganan untuk menggunakan layanan yang disediakan oleh Logique Digital Indonesia termasuk persetujuan & konsultasi, purchase order dan invoice.">
+    <meta name="description" itemprop="description" content="Prosedur berlangganan untuk menggunakan layanan yang disediakan oleh Logique Digital Indonesia, termasuk perjanjian & konsultasi dan pesanan pembelian. ">
     <meta name="keywords" content="Prosedur Berlangganan, Dokodemo-Kerja, PT LOGIQUE Digital Indonesia, Hubungi Kami, Persetujuan & Konsultasi, consultation, dokodemo instalasi, proses instalasi">
     <meta name="google-site-verification" content="Xc9SFJQZdKYLsrWvrxEjLLTA-nyrnNPQTXQoMxs4gKI" />
-    <meta property="og:title" content="Prosedur Berlangganan | Langkah-langkah pembelian Dokodemo-Kerja">
+    <meta property="og:title" content="Prosedur Berlangganan Dokodemo-Kerja">
     <meta property="og:type" content="website">
     <meta property="og:site_name" content="Dokodemo-Kerja">
     <meta property="og:url" content="https://dokodemo-kerja.com">
     <meta property="og:image" content="/img/dokodemo-og.jpg">
-    <meta property="og:description" content="Prosedur berlangganan untuk menggunakan layanan yang disediakan oleh Logique Digital Indonesia termasuk persetujuan & konsultasi, purchase order dan invoice.">
+    <meta property="og:description" content="Prosedur berlangganan untuk menggunakan layanan yang disediakan oleh Logique Digital Indonesia, termasuk perjanjian & konsultasi dan pesanan pembelian. ">
     <link rel="stylesheet" href="/css/bootstrap.min.css" />
     <link href="/fonts/font-awesome/css/font-awesome.min.css" rel="stylesheet">
     <link rel="stylesheet" href="/css/slick.css" />
@@ -21,7 +21,7 @@
     <link rel="stylesheet" href="/css/header-footer.css" />
     <link rel="stylesheet" href="/css/style-subscribe.css" />
     <link rel="shortcut icon" type="image/x-icon" href="favicon.ico">
-    <title>Prosedur Berlangganan | Langkah-langkah pembelian Dokodemo-Kerja</title>
+    <title>Prosedur Berlangganan Dokodemo-Kerja</title>
   <!-- Google Tag Manager -->
   <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
   new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
