@@ -67,7 +67,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
       <div class="container subscribe-header-container pb-3">
         <div class="row">
           <div class="col-lg-12">
-            <h1 class="subscribe-header-title">Terms and Conditions of Dokodemo-Kerja</h1>
+            <h1 class="subscribe-header-title">Dokodemo-Kerja's Terms and Conditions</h1>
           </div>
         </div>
       </div>
