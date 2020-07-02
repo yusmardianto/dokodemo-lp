@@ -219,7 +219,7 @@
         <div class="container">
             <div class="row">
                 <div class="offset-md-1 col-md-10">
-                    <h1 class="home-feature-title">Features</h1>
+                    <h2 class="home-feature-title">Features</h2>
                 </div>
             </div>
             <div class="row mt-3">
@@ -331,7 +331,7 @@
         <div class="container my-5">
             <div class="row">
                 <div class="offset-md-1 col-md-10">
-                    <h1 class="home-feature-title">Benefits</h1>
+                    <h2 class="home-feature-title">Benefits</h2>
                     <p class="home-benefit-content">Your company will be able to implement innovative and flexible HR strategies, strengthening the overall output of your work force, while enhancing your staff’s wellbeing. Allowing employees to work remotely grants them flexible working hours, giving them the chance to work in a comfortable environment suited to them, while at the same time increasing productivity and improving upon practical management strategies which allow for the fair evaluation of staff. Overall, the advantages are many, for both the Company and Employees alike. These include:</p>
                 </div>
             </div>
@@ -401,7 +401,7 @@
         <div class="container my-5">
             <div class="row">
                 <div class="col-md-12">
-                    <h1 class="home-feature-title">Case Study</h1>
+                    <h2 class="home-feature-title">Case Study</h2>
                 </div>
             </div>
             <div class="row mt-3">
@@ -447,7 +447,7 @@
     </section>
 
     <section class="user-testimony" id="testimony">
-        <h1 class="section-title">USER TESTIMONY</h1>
+        <h2 class="section-title">USER TESTIMONY</h2>
         <div class="container-fluid">
             <div class="testimony-slider">
                 <div class="testimony-item">

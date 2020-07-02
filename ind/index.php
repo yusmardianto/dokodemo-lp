@@ -181,21 +181,12 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
         <div class="container">
             <div class="row">
                 <div class="offset-md-1 col-md-10">
-                    <h1 class="home-feature-title">Features</h1>
-                    <!-- <p>Dokodemo-Kerja is a time-management oriented solution for both employers and employees alike. Through its efficient monitoring and management capabilities, Dokodemo-Kerja can further help companies improve their levels of productivity, while at the same time provide flexible working hours for employees.</p> -->
+                    <h2 class="home-feature-title">Features</h2>
                 </div>
             </div>
             <div class="row mt-3">              
                 <div class="offset-md-1 col-md-10">
-                    <p class="home-feature-content">Dokodemo-Kerja dengan secara acak menyimpan gambar layar komputer dan mencatat jam kerja, yang mempermudah evaluasi kinerja karyawan. Dan dengan adanya fungsi GPS yang mencatat sejarah lokasi dari aplikasi handphone dapat membantu karyawan untuk mempunyai cara kerja yang lebih fleksibel sekaligus mempermudah pihak perusahaan dalam mengatur jadwal kerja.</p>           
-                    <!-- <ol class="home-feature-list">
-                        <li>Pantau tugas dan jam kerja karyawan.</li>
-                        <li>Pantau sejarah lokasi dengan aplikasi handphone.</li>
-                        <li>Mengatur dan menganalisa kapan dan dimana mereka telah bekerja.</li>
-                    </ol>
-                    <a href="/ind/features.php">
-                        <button class="btn btn-primary feature-btn">Learn More</button>
-                    </a> -->
+                    <p class="home-feature-content">Dokodemo-Kerja dengan secara acak menyimpan gambar layar komputer dan mencatat jam kerja, yang mempermudah evaluasi kinerja karyawan. Dan dengan adanya fungsi GPS yang mencatat sejarah lokasi dari aplikasi handphone dapat membantu karyawan untuk mempunyai cara kerja yang lebih fleksibel sekaligus mempermudah pihak perusahaan dalam mengatur jadwal kerja.</p>       
                 </div>
                 <div class="offset-md-2 col-md-8">
                      <div class="embed-responsive embed-responsive-16by9 feature-video">
@@ -300,7 +291,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
         <div class="container mt-5">
             <div class="row">
                 <div class="offset-md-1 col-md-10">
-                    <h1 class="home-feature-title">Benefit</h1>
+                    <h2 class="home-feature-title">Benefit</h2>
                     <p class="home-benefit-content">Perusahaan anda dapat menerapkan strategi-strategi HR yang lebih inovatif dan fleksibel, yang dapat meningkatkan kinerja total perusahaan anda sekaligus memberikan nilai positif bagi kesejahteraan karyawan. Dengan memberikan karyawan pilihan untuk kerja secara remote dan jam kerja yang fleksibel, maka akan membantu mereka untuk menemukan lingkungan kerja mereka yang paling kondusif dan di saat yang sama meningkatkan kinerja. Adanya jam kerja yang tercatat akan membantu perusahaan untuk membuat evaluasi yang lebih adil. Banyak manfaat lain yang bisa didapatkan oleh perusahaan dan karyawan di antaranya :</p>
                 </div>
             </div>
@@ -399,7 +390,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
         <div class="container my-5">
             <div class="row">
                 <div class="col-md-12">
-                    <h1 class="home-feature-title">Case Study</h1>
+                    <h2 class="home-feature-title">Case Study</h2>
                 </div>
             </div>
             <div class="row mt-3">
@@ -445,7 +436,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
     </section>
     
     <section class="user-testimony" id="testimony">
-        <h1 class="section-title">USER TESTIMONY</h1>
+        <h2 class="section-title">USER TESTIMONY</h2>
         <div class="container-fluid">
             <div class="testimony-slider">
                 <div class="testimony-item">

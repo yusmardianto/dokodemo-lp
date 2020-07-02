@@ -137,7 +137,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
         <div class="container mt-5 mb-3">
             <div class="row mt-5">
                 <div class="col-md-12 text-center font-weight-bold">
-                    <h1 class="tutorial-title">Mudah Diaplikasikan</h1>
+                    <h2 class="tutorial-title">Mudah Diaplikasikan</h2>
                 </div>
             </div>
         </div>

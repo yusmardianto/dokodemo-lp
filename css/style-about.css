@@ -78,7 +78,8 @@ body {
   padding: 2em 1em 0em 2em;
 }
 
-.about-us-right h1 {
+.about-us-right h1,
+.about-us-right h2 {
   font-weight: bold;
   font-size: 27px;
 }
@@ -110,7 +111,7 @@ body {
 .hr-managers {
   text-align: center;
 }
-.hr-managers h1 {
+.hr-managers h3 {
   font-weight: 600;
   font-size: 24px;
   padding-bottom: 1em;
