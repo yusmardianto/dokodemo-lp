@@ -5,16 +5,16 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=5.0" />
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
-	<meta name="description" itemprop="description" content="Studi kasus No.3 untuk penggunaan Dokodemo-Kerja, aplikasi pada Perusahaan Akuntansi. Dokodemo-Kerja, alat manajemen kerja jarak jauh yang mencatat jam kerja aktual karyawan, melacak tempat mereka bekerja dengan GPS, dan memungkinkan gaya kerja yang fleksibel dan produktifitas yang tinggi.">
-    <meta name="keywords" content="dokodemo, dokodemo-kerja, dokodemo kerja, pemantauan layar, monitor sceen, monitor karyawan, pemantauan karyawan, pelacak waktu, jam dalam perangkat lunak, perangkat lunak absensi, alat absensi, kalkulator jam kerja, kelola karyawan, alat untuk manajer, alat untuk jam, manajer pemberitahuan, alat produktifitas, penambah produktifitas, pengelola kinerja, pengelolaan kinerja, monitor kinerja, software clock in, fitur absensi">
+	<meta name="description" itemprop="description" content="Studi Kasus Dokodemo-Kerja meneliti penggunaan alat HR yang dikembangkan oleh Logique terhadap bisnis akunting, dan efek dari strategi kerja jarak jauh.">
+    <meta name="keywords" content="dokodemo, dokodemo-kerja, kasus dokodemo, dokodemo story, alat kantor akuntan, logique digital Indonesia, THR, pemantauan karyawan, manajemen SDM, manajemen HR, alat manajemen, departemen SDM, departemen HR">
     <meta name="author" content="PT. LOGIQUE Digital Indonesia">
 	<meta name="google-site-verification" content="Xc9SFJQZdKYLsrWvrxEjLLTA-nyrnNPQTXQoMxs4gKI" />
-    <meta property="og:title" content="Alat Manajemen Kerja Remote Dokodemo-Kerja, Studi Kasus No.3 | LOGIQUE Digital Indonesia">
+    <meta property="og:title" content="Manajemen Kerja Remote | Dokodemo-Kerja Kasus #3">
     <meta property="og:type" content="website">
     <meta property="og:site_name" content="Dokodemo-Kerja">
     <meta property="og:url" content="https://dokodemo-kerja.com">
     <meta property="og:image" content="/img/dokodemo-og.jpg">
-    <meta property="og:description" content="Studi kasus No.3 untuk penggunaan Dokodemo-Kerja, aplikasi pada Perusahaan Akuntansi. Dokodemo-Kerja, alat manajemen kerja jarak jauh yang mencatat jam kerja aktual karyawan, melacak tempat mereka bekerja dengan GPS, dan memungkinkan gaya kerja yang fleksibel dan produktifitas yang tinggi.">
+    <meta property="og:description" content="Studi Kasus Dokodemo-Kerja meneliti penggunaan alat HR yang dikembangkan oleh Logique terhadap bisnis akunting, dan efek dari strategi kerja jarak jauh.">
     <link rel="stylesheet" href="/css/bootstrap.min.css" />
     <link href="/fonts/font-awesome/css/font-awesome.min.css" rel="stylesheet">
     <link rel="stylesheet" href="/css/slick.css" />
@@ -24,7 +24,7 @@
     <link rel="stylesheet" href="/js/magnific-popup.css" />
 
 	<link rel="shortcut icon" type="image/x-icon" href="/favicon.ico">
-    <title>Alat Manajemen Kerja Remote Dokodemo-Kerja, Studi Kasus No.3 | LOGIQUE Digital Indonesia</title>
+    <title>Manajemen Kerja Remote | Dokodemo-Kerja Kasus #3</title>
 	<!-- Google Tag Manager -->
 	<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
 	new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],

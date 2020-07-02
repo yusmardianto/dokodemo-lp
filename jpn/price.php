@@ -6,7 +6,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=5.0" />
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
 	<meta name="description" itemprop="description" content="リモートワークやフレキシブルな人事規則の適用を可能にして生産性向上をもたらす勤怠管理クラウドツールDokodemo-Kerjaの料金とよくあるご質問について説明します。Dokodemo-KerjaはインドネシアのITコンサル会社LOGIQUEデジタルインドネシアが開発販売しています。">
-    <meta name="keywords" content="cheap user manager platform, cheap people management software, people management software, dokodemo, dokodemo-kerja, enterprise software, cheap enterprise software, effective people management tool, management tool cheap">
+    <meta name="keywords" content="">
     <meta name="author" content="PT. LOGIQUE Digital Indonesia">
 	<meta name="google-site-verification" content="Xc9SFJQZdKYLsrWvrxEjLLTA-nyrnNPQTXQoMxs4gKI" />
     <meta property="og:title" content="リモートワーク管理ツールDokodemo-Kerjaの料金｜LOGIQUE Digital インドネシア">

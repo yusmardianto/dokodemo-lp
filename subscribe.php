@@ -5,15 +5,15 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=5.0" />
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
-    <meta name="description" itemprop="The subscribing procedure for using a service provided by Logique Digital Indonesia includes the agreement & consultation, purchase order and invoice.">
-    <meta name="keywords" content="Agreement & Consultation, Subscribing Procedure, Dokodemo-Kerja, Purchase Order, Terms of Payment, Online Form, Direct Call">
+    <meta name="description" itemprop="Subscription procedures for using services provided by Logique Digital Indonesia includes agreements & consultations and purchase orders.">
+    <meta name="keywords" content="Dokodemo-Kerja, Agreement & Consultation, Purchase Order, invoice, Terms of Payment, Direct Cal, Subscribing Procedure, installation process, get in touch, dokodemo whatsapp, custom features, vat, total cost">
     <meta name="google-site-verification" content="Xc9SFJQZdKYLsrWvrxEjLLTA-nyrnNPQTXQoMxs4gKI" />
-    <meta property="og:title" content="Subscribing Procedure | Steps to buy Dokodemo-Kerja">
+    <meta property="og:title" content="Dokodemo-Kerja: Subscribing Procedure ">
     <meta property="og:type" content="website">
     <meta property="og:site_name" content="Dokodemo-Kerja">
     <meta property="og:url" content="https://dokodemo-kerja.com">
     <meta property="og:image" content="/img/dokodemo-og.jpg">
-    <meta property="og:description" content="The subscribing procedure for using a service provided by Logique Digital Indonesia includes the agreement & consultation, purchase order and invoice.">
+    <meta property="og:description" content="Subscription procedures for using services provided by Logique Digital Indonesia includes agreements & consultations and purchase orders.">
     <link rel="stylesheet" href="/css/bootstrap.min.css" />
     <link href="/fonts/font-awesome/css/font-awesome.min.css" rel="stylesheet">
     <link rel="stylesheet" href="/css/slick.css" />
@@ -21,7 +21,7 @@
     <link rel="stylesheet" href="/css/header-footer.css" />
     <link rel="stylesheet" href="/css/style-subscribe.css" />
   <link rel="shortcut icon" type="image/x-icon" href="favicon.ico">
-    <title>Subscribing Procedure | Steps to buy Dokodemo-Kerja</title>
+    <title>Dokodemo-Kerja: Subscribing Procedure </title>
   <!-- Google Tag Manager -->
   <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
   new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],

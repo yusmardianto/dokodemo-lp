@@ -5,8 +5,8 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=5.0" />
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
-	<meta name="description" itemprop="description" content="Dokodemo is a cheap solution to save your money on overpaying your employees. Easily determine who deserves to be paid more, who deserves that bonus, and who really deserves a promotion. Use this tool and feel the difference.">
-    <meta name="keywords" content="cheap user manager platform, cheap people management software, people management software, dokodemo, dokodemo-kerja, enterprise software, cheap enterprise software, effective people management tool, management tool cheap">
+	<meta name="description" itemprop="description" content="Dokodemo-Kerja is an effective people management tool & a cheap solution to save money on employees. Determine who deserves that bonus, and promotion.">
+    <meta name="keywords" content="Dokodemo-Kerja, remote working strategies, employee productivity, employee performance, management software, enterprise software, cheap enterprise software, overtime work, human resource tool, cheap management tool">
     <meta name="author" content="PT. LOGIQUE Digital Indonesia">
 	<meta name="google-site-verification" content="Xc9SFJQZdKYLsrWvrxEjLLTA-nyrnNPQTXQoMxs4gKI" />
     <meta property="og:title" content="Price of Dokodemo-Kerja | Employees' Screen Monitoring Tool">
@@ -14,7 +14,7 @@
     <meta property="og:site_name" content="Dokodemo-Kerja">
     <meta property="og:url" content="https://dokodemo-kerja.com">
     <meta property="og:image" content="/img/dokodemo-og.jpg">
-    <meta property="og:description" content="Dokodemo-Kerja merupakan software atau desktop app dari LOGIQUE bagi karyawan yang kerja remote atau di luar kantor. Aplikasi ini mampu merekam dan kalkulasi jam kerja karyawan secara akurat, dilengkapi fitur screencapture otomatis. Dengan begitu, karyawan Anda menjadi lebih produktif.">
+    <meta property="og:description" content="Dokodemo-Kerja is an effective people management tool & a cheap solution to save money on employees. Determine who deserves that bonus, and promotion.">
     <link rel="stylesheet" href="/css/bootstrap.min.css" />
     <link href="/fonts/font-awesome/css/font-awesome.min.css" rel="stylesheet">
     <link rel="stylesheet" href="/css/slick.css" />
@@ -67,8 +67,9 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
          <div class="container mb-3">
              <div class="row">
                 <div class="col-md-12 text-center pricing-page-title">
-                    <h1><span class="fs-30">Start Remote Work. Save Money. Increase Transparency. </span><br>
-                    <span class="fs-26">Use Dokodemo-Kerja</span></h1>
+                    <h1 class="d-none">Dokodemo-Kerja Pricing: Work Remotely and Save Money </h1>
+                    <h2><span class="fs-30">Start Remote Work. Save Money. Increase Transparency. </span><br>
+                    <span class="fs-26">Use Dokodemo-Kerja</span></h2>
                 </div>
             </div>
          </div>

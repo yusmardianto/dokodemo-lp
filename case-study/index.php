@@ -5,8 +5,8 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=5.0" />
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
-	<meta name="description" itemprop="description" content="Dokodemo-Kerja case study. Introducing Dokodemo-Kerja, a remote work management tool that records the actual work hours of employees, tracks where they work with GPS, and enables flexible and highly productive working styles. If you would like to try it out, please feel do not hesitate to contact LOGIQUE.">
-    <meta name="keywords" content="dokodemo, dokodemo-kerja, dokodemo kerja, screen monitoring, sceen monitor, monitor employee, employee monitoring, time tracker, clock in, clock in software, attendance software, attendance tool, work hour calculator,  manage employees, tool for managers, tool for hr, notification manager, productivity tool, productivity enhancer">
+	<meta name="description" itemprop="description" content="Dokodemo Kerja Case Study: a remote work management tool that records employee work hours, and tracks their location via GPS, enabling flexible work.">
+    <meta name="keywords" content="dokodemo-kerja, case studies, tool for managers, Logique Digital Indonesia, remote working system, billing system services, accounting firm, screen monitoring, monitor employee, employee monitoring">
     <meta name="author" content="PT. LOGIQUE Digital Indonesia">
 	<meta name="google-site-verification" content="Xc9SFJQZdKYLsrWvrxEjLLTA-nyrnNPQTXQoMxs4gKI" />
     <meta property="og:title" content="Case Study of Dokodemo-Kerja | Working Hours Tracking Tool">
@@ -14,7 +14,7 @@
     <meta property="og:site_name" content="Dokodemo-Kerja">
     <meta property="og:url" content="https://dokodemo-kerja.com">
     <meta property="og:image" content="/img/dokodemo-og.jpg">
-    <meta property="og:description" content="Dokodemo-Kerja case study. Introducing Dokodemo-Kerja, a remote work management tool that records the actual work hours of employees, tracks where they work with GPS, and enables flexible and highly productive working styles. If you would like to try it out, please feel do not hesitate to contact LOGIQUE.">
+    <meta property="og:description" content="Dokodemo Kerja Case Study: a remote work management tool that records employee work hours, and tracks their location via GPS, enabling flexible work.">
     <link rel="stylesheet" href="/css/bootstrap.min.css" />
     <link href="/fonts/font-awesome/css/font-awesome.min.css" rel="stylesheet">
     <link rel="stylesheet" href="/css/slick.css" />
@@ -78,7 +78,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
     </section>
     <section class="mb-5">
         <div class="container">
-            <h1 class="text-center mb-5">Case Study: How You Utilize Dokodemo-Kerja</h1>
+            <h1 class="text-center mb-5">Case Study: How To Utilize Dokodemo-Kerja</h1>
             <div class="row">
                 <div class="col-md-4">
                     <a href="/case-study/case-1" class="case-study__card-wrapper">

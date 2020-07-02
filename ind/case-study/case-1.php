@@ -6,10 +6,10 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=5.0" />
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
 	<meta name="description" itemprop="description" content="Studi kasus No.1 untuk penggunaan Dokodemo-Kerja, perkenalan mengenai proses pengembangan alat ini. Dokodemo-Kerja, alat manajemen kerja jarak jauh yang mencatat jam kerja aktual karyawan, melacak tempat mereka bekerja dengan GPS, dan memungkinkan gaya kerja yang fleksibel dan produktifitas yang tinggi.">
-    <meta name="keywords" content="dokodemo, dokodemo-kerja, dokodemo kerja, pemantauan layar, monitor sceen, monitor karyawan, pemantauan karyawan, pelacak waktu, jam dalam perangkat lunak, perangkat lunak absensi, alat absensi, kalkulator jam kerja, kelola karyawan, alat untuk manajer, alat untuk jam, manajer pemberitahuan, alat produktifitas, penambah produktifitas, pengelola kinerja, pengelolaan kinerja, monitor kinerja, software clock in, fitur absensi">
+    <meta name="keywords" content="dokodemo, dokodemo-kerja, kasus dokodemo, dokodemo story, alat untuk manajer, alat bekerja dalam tim, strategi kerja jarak jauh, alat kerja jarak jauh, alat SDM, alat HR, manajemen HR, manajemen SDM">
     <meta name="author" content="PT. LOGIQUE Digital Indonesia">
 	<meta name="google-site-verification" content="Xc9SFJQZdKYLsrWvrxEjLLTA-nyrnNPQTXQoMxs4gKI" />
-    <meta property="og:title" content="Alat Manajemen Kerja Remote Dokodemo-Kerja, Studi Kasus No.1 | LOGIQUE Digital Indonesia">
+    <meta property="og:title" content="Manajemen Kerja Remote | Dokodemo-Kerja Kasus #1">
     <meta property="og:type" content="website">
     <meta property="og:site_name" content="Dokodemo-Kerja">
     <meta property="og:url" content="https://dokodemo-kerja.com">
@@ -24,7 +24,7 @@
     <link rel="stylesheet" href="/js/magnific-popup.css" />
 
 	<link rel="shortcut icon" type="image/x-icon" href="/favicon.ico">
-    <title>Alat Manajemen Kerja Remote Dokodemo-Kerja, Studi Kasus No.1 | LOGIQUE Digital Indonesia</title>
+    <title>Manajemen Kerja Remote | Dokodemo-Kerja Kasus #1</title>
 	<!-- Google Tag Manager -->
 	<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
 	new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
