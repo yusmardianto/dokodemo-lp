@@ -87,7 +87,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                     <br class="d-none d-lg-block"><br class="d-none d-lg-block">
                 </div>
                 <div class="col-lg-6 about-us-right">
-                    <h1>WHY DOKODEMO-KERJA?</h1>
+                    <h2>WHY DOKODEMO-KERJA?</h2>
 
                     <p>
                         For businesses operating from Jakarta, a city well known for its high levels of traffic congestion, coming to work late has become a pervasive part of millennial culture. We aim to change that.
@@ -119,7 +119,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
         </a>
     </section>
     <!-- <section id="benefits" class="benefits-features">
-        <h1 class="section-title pb-4">BENEFITS AND FEATURES</h1>
+        <h2 class="section-title pb-4">BENEFITS AND FEATURES</h2>
         <div class="container pt-4">
             <div class="row">
                 <div class="col-md-4 features feature-1">
@@ -169,7 +169,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
             <div class="row">
                 <div class="col-md-6 offset-md-3">
                     <div class="hr-managers">
-                        <h1>To Whom?</h1>
+                        <h3>To Whom?</h3>
                         <h2>HR and Managers</h2>
                         <p class="fw-semibold" style="font-size: 18px;">Dokodemo-Kerja will help you manage your employees' activity. You do not need to know where they are, but you know what they are doing.</p>
                     </div>

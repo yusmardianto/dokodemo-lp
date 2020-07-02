@@ -82,7 +82,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                     <img src="/img/about/dokodemo-about.png" class="img-dokodemo-about" alt="" />
                 </div>
                 <div class="col-lg-6 about-us-right">
-                    <h1>KENAPA DOKODEMO-KERJA?</h1>
+                    <h2>KENAPA DOKODEMO-KERJA?</h2>
                     <p>
                         Untuk perusahaan yang beroperasi dari Ibukota Jakarta yang terkenal dengan kemacetannya, telat datang ke kantor karena macet sudah menjadi alasan yang biasa dimaklumi. Kami ingin mengubah budaya itu.
                         <br>
@@ -113,7 +113,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
         </a>
     </section>
     <!-- <section id="benefits" class="benefits-features">
-        <h1 class="section-title pb-4">FITUR DAN KEUNTUNGAN</h1>
+        <h2 class="section-title pb-4">FITUR DAN KEUNTUNGAN</h2>
         <div class="container pt-4">
             <div class="row">
                 <div class="col-md-4 features feature-1">
@@ -162,7 +162,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
             <div class="row">
                 <div class="col-md-6 offset-md-3">
                     <div class="hr-managers">
-                        <h1>Untuk Siapa dan Bagaimana?</h1>
+                        <h3>Untuk Siapa dan Bagaimana?</h3>
                         <h2>HR and Managers</h2>
                         <p class="fw-semibold" style="font-size: 20px;">Dokodemo-Kerja dapat membantu mengelola aktivitas karyawan. Kalian dapat mengetahui kinerja karyawan tanpa perlu tahu mereka ada di mana.</p>
                     </div>

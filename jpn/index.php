@@ -221,7 +221,7 @@
         <div class="container">
             <div class="row">
                 <div class="offset-md-1 col-md-10">
-                    <h1 class="home-feature-title">機能</h1>
+                    <h2 class="home-feature-title">機能</h2>
                 </div>
             </div>
             <div class="row mt-3">
@@ -333,7 +333,7 @@
         <div class="container my-5">
             <div class="row">
                 <div class="offset-md-1 col-md-10">
-                    <h1 class="home-feature-title">使用するメリット</h1>
+                    <h2 class="home-feature-title">使用するメリット</h2>
                     <p class="home-benefit-content">Dokodemo-Kerjaをご利用いただくことにより、柔軟なHRルールを適用することが可能になります。いつでも、どこでも働けるルールを適用可能です。リモートワーカーだけに限らず、オフィスで働く従業員にも適用することで、労働時間不足、働き過ぎを把握でき、労働中に業務に関係ないことをしていないか知ることができます。従業員の働き方を可視化することで更に生産性を上げるためのHRルールの最適化が行えます。</p>
                 </div>
             </div>
@@ -403,7 +403,7 @@
         <div class="container my-5">
             <div class="row">
                 <div class="col-md-12">
-                    <h1 class="home-feature-title">Case Study</h1>
+                    <h2 class="home-feature-title">Case Study</h2>
                 </div>
             </div>
             <div class="row mt-3">
@@ -449,7 +449,7 @@
     </section>
 
     <section class="user-testimony" id="testimony">
-        <h1 class="section-title">実際のお客様の声</h1>
+        <h2 class="section-title">実際のお客様の声</h2>
         <div class="container-fluid">
             <div class="testimony-slider">
                 <div class="testimony-item">
