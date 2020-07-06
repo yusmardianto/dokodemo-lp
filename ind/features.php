@@ -78,7 +78,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                             <p class="features-desc"><span class="fw-semibold">Dokodemo-Kerja</span> mengambil tangkapan layar beresolusi rendah dari aktivitas desktop atau laptop karyawan Anda dalam interval waktu acak ketika aplikasi diaktifkan dan mengirimkan gambar ke tim manajemen. </p>
                         </div>
                         <div class="col-lg-6 features-item">
-                             <img src="../img/features/feature-1.png" class="img-slide-screenshot modal-hover-opacity" alt="" />    
+                             <img src="../img/features/feature-1.png" class="img-slide-screenshot modal-hover-opacity" alt="Dokodemo-Kerja is compatible with PC, Mobile & Tablet" />    
                         </div>
                     </div>
                     <div class="row">
@@ -88,7 +88,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                             <p class="features-desc"><span class="fw-semibold">Dokodemo-Kerja</span> secara akurat menghitung dan mengkompilasi data kerja karyawan dan kemudian menampilkannya dalam format yang mudah dibaca hanya dalam 1 klik sederhana. Dokodemo dapat sangat membantu SDM meningkatkan akurasi keseluruhan tugas evaluasi kinerja.</p>
                         </div>
                         <div class="col-lg-6 features-item">
-                            <img src="../img/features/feature-2.png" class="img-slide-screenshot modal-hover-opacity" alt="" />   
+                            <img src="../img/features/feature-2.png" class="img-slide-screenshot modal-hover-opacity" alt="Dokodemo-Kerja is compatible with PC, Mobile & Tablet" />   
                         </div>
                     </div>
                     <div class="row">
@@ -98,7 +98,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                             <p class="features-desc">Lacak total jam kerja yang dihabiskan oleh setiap karyawan untuk setiap tugas individu, sehingga perusahaan Anda dapat dengan mudah memprediksi dan mengatur tenggat waktu target sesuai dengan kemampuan karyawan Anda.</p>
                         </div>
                         <div class="col-lg-6 features-item">
-                            <img src="../img/features/feature-3.png" class="img-slide-screenshot modal-hover-opacity" alt="" />    
+                            <img src="../img/features/feature-3.png" class="img-slide-screenshot modal-hover-opacity" alt="Dokodemo-Kerja is compatible with PC, Mobile & Tablet" />    
                         </div>
                     </div>
                     <div class="row">
@@ -108,7 +108,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                             <p class="features-desc">Aplikasi Mobile Dokodemo-Kerja menggunakan pelacakan GPS, sehingga memungkinkan HR untuk dengan mudah melacak lokasi setiap karyawan secara real time selama acara di lokasi seperti pertemuan atau kunjungan klien.</p>
                         </div>
                         <div class="col-lg-6 features-item">
-                            <img src="../img/features/feature-4.png" class="img-slide-screenshot modal-hover-opacity" alt="" />    
+                            <img src="../img/features/feature-4.png" class="img-slide-screenshot modal-hover-opacity" alt="Dokodemo GPS features" />    
                         </div>
                     </div>
                     <div class="row">
@@ -124,7 +124,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                             </div>
                         </div>
                         <div class="col-lg-6 features-item">
-                            <img src="../img/features/feature-5.png" class="img-slide-screenshot modal-hover-opacity" alt="" />    
+                            <img src="../img/features/feature-5.png" class="img-slide-screenshot modal-hover-opacity" alt="Dokodemo-Kerja is compatible with PC, Mobile & Tablet" />    
                         </div>
                     </div>
                 </div>
@@ -153,12 +153,12 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
             <div class="row">
                 <div class="col-md-4 offset-md-2 col-10 offset-1 py-2">
                     <a href="https://drive.google.com/file/d/1itRszKytvu-x6RxoN0Ba1i_dNvtFlEHF/view?usp=sharing" class="dl-guide" aria-label="manual guide link">
-                        <img src="../img/manual.png" class="img-fluid mx-auto d-block" id="features-manual-guide" alt="" />
+                        <img src="../img/manual.png" class="img-fluid mx-auto d-block" id="features-manual-guide" alt="Dokodemo-Kerja Manual Guide" />
                     </a>
                 </div>
                 <div class="col-md-4 col-10 offset-md-0 offset-1 py-2">
                     <a href="https://drive.google.com/file/d/1jZut6Ouhi_HA26QoL4mvty45qZMAgdii/view?usp=sharing" class="dl-guide" aria-label="install guide link">
-                        <img src="../img/install.png" class="img-fluid mx-auto d-block" id="features-install-guide" alt="" />
+                        <img src="../img/install.png" class="img-fluid mx-auto d-block" id="features-install-guide" alt="Dokodemo-Kerja Install Guide" />
                     </a>
                 </div>
             </div>

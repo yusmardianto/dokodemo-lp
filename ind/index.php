@@ -171,7 +171,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                     </div>
                 </div>
                 <div class="col-md-6">
-                    <img class="apps-launch__img img-fluid w-100" src="/img/home/apps-launch.png" alt="">
+                    <img class="apps-launch__img img-fluid w-100" src="/img/home/apps-launch.png" alt="Dokodemo-Kerja Mobile">
                 </div>
             </div>
         </div>
@@ -245,35 +245,35 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                 <div>
                     <a href="../img/features/home_01.png" data-source="../img/features/home_01.png" title="Daily Working Screen Capture" aria-label="Daily Working Screen Capture">
                     <div class="img-slide-screenshot--wrapper">
-                        <img src="../img/features/home_01-com.jpg" class="img-slide-screenshot modal-hover-opacity" alt="" />
+                        <img src="../img/features/home_01-com.jpg" class="img-slide-screenshot modal-hover-opacity" alt="Screenshot of the Dokodemo-Kerja Application" />
                     </div>    
                     </a>
                 </div>
                 <div>
                     <a href="../img/features/home_02.png" data-source="../img/features/home_02.png" title="Daily Working Hours Bars" aria-label="Daily Working Hours Bars">
                     <div class="img-slide-screenshot--wrapper">
-                        <img src="../img/features/home_02-com.jpg" class="img-slide-screenshot modal-hover-opacity" alt=""/>
+                        <img src="../img/features/home_02-com.jpg" class="img-slide-screenshot modal-hover-opacity" alt="Screenshot of the Dokodemo-Kerja Application"/>
                     </div>    
                     </a>
                 </div>
                 <div>
                     <a href="../img/features/home_03.png" data-source="../img/features/home_03.png" title="Staff Management" aria-label="Staff Management">
                     <div class="img-slide-screenshot--wrapper">
-                        <img src="../img/features/home_03-com.jpg" class="img-slide-screenshot modal-hover-opacity" alt=""/>
+                        <img src="../img/features/home_03-com.jpg" class="img-slide-screenshot modal-hover-opacity" alt="Dokodemo displaying several employee's daily work records"/>
                     </div>    
                     </a>
                 </div>
                 <div>
                     <a href="../img/features/home_04.png" data-source="../img/features/home_04.png" title="Daily Working Screen Capture" aria-label="Daily Working Screen Capture">
                     <div class="img-slide-screenshot--wrapper">
-                        <img src="../img/features/home_04-com.jpg" class="img-slide-screenshot modal-hover-opacity" alt=""/>
+                        <img src="../img/features/home_04-com.jpg" class="img-slide-screenshot modal-hover-opacity" alt="Screenshot of the Dokodemo-Kerja Application"/>
                     </div>    
                     </a>
                 </div>
                 <div>
                     <a href="../img/features/home_05.png" data-source="../img/features/home_05.png" title="Daily Working Hours Bars" aria-label="Daily Working Hours Bars">
                     <div class="img-slide-screenshot--wrapper">
-                        <img src="../img/features/home_05-com.jpg" class="img-slide-screenshot modal-hover-opacity" alt=""/>
+                        <img src="../img/features/home_05-com.jpg" class="img-slide-screenshot modal-hover-opacity" alt="Logique's Google Maps Location"/>
                     </div>    
                     </a>
                 </div>
@@ -399,7 +399,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                         <div class="col-md-4">
                             <a href="/ind/case-study/case-2" class="case-study__card-wrapper">
                                 <div class="case-study__card">
-                                    <img class="card__img" src="/img/case-study/case-2.png" alt="" >
+                                    <img class="card__img" src="/img/case-study/case-2.png" alt="Computer placed on a table in a dimly lit room" >
                                     <h4 class="card__title">Cerita Dokodemo-Kerja 2</h4>
                                     <p class="card__news">
                                         Perusahaan Pengembangan Sistem, PT. B
@@ -410,7 +410,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                         <div class="col-md-4">
                             <a href="/ind/case-study/case-3" class="case-study__card-wrapper">
                                 <div class="case-study__card">
-                                    <img class="card__img" src="/img/case-study/case-3.png" alt="" >
+                                    <img class="card__img" src="/img/case-study/case-3.png" alt="Computer chip with a flashing LED light" >
                                     <h4 class="card__title">Cerita Dokodemo-Kerja 3</h4>
                                     <p class="card__news">
                                         Perusahaan Akuntansi, PT. A
@@ -421,7 +421,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                         <div class="col-md-4">
                             <a href="/ind/case-study/case-4" class="case-study__card-wrapper">
                                 <div class="case-study__card">
-                                    <img class="card__img" src="/img/case-study/dokodemo-story-4-ghitta.jpg" alt="" style="object-position: top;">
+                                    <img class="card__img" src="/img/case-study/dokodemo-story-4-ghitta.jpg" alt="A Logique Employee" style="object-position: top;">
                                     <h4 class="card__title">Cerita Dokodemo-Kerja 4</h4>
                                     <p class="card__news">
                                         PT. LOGIQUE Digital Indonesia

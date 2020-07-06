@@ -85,7 +85,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                         <div class="row">
                             <div class="col-lg-6 d-none d-lg-block">
                                 <div class="text-center" style="line-height: 1; height: calc(100% - 60px);">
-                                    <img src="/img/case-study/dokodemo-story-1-1.jpg" alt="" class="story__img pb-1" style="object-position: right;">
+                                    <img src="/img/case-study/dokodemo-story-1-1.jpg" alt="Logique's CEO, Yoshitsugu, working outdoors" class="story__img pb-1" style="object-position: right;">
                                     <small>Saya juga bekerja "Dokodemo" (dimana saja). Gambar diatas adalah saat saya sedang menulis artikel ketika bekerja di pedesaan Jepang, tentu saja sembari menggunakan Dokodemo-Kerja.</small>
                                 </div>
                             </div>
@@ -109,7 +109,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                                 <p class="mb-0">Keberadaan Nippo sedikit membantu dalam <i>remote working</i>, tetapi masalah pun masih saja ada. Masalah terjadi saat mereka sudah berusaha, tetapi tidak bisa mengeluarkan hasil yang sesuai. Seperti di saat ada task yang seharusnya dapat diselesaikan dengan cepat, akan tetapi nyatanya membutuhkan waktu yang lebih lama dari perkiraan, apakah karena mereka tidak konsentrasi atau ada hal-hal lain yang tidak dapat dihindari. Pada saat-saat seperti inilah kami mulai kesulitan untuk menilai secara objektif.</p>
                             </div>
                             <div class="col-lg-6 pr-0 d-none d-lg-block">
-                                <img src="/img/case-study/dokodemo-story-1-2.jpg" alt="" class="story__img" style="object-position: right;">
+                                <img src="/img/case-study/dokodemo-story-1-2.jpg" alt="Logique's CEO, Yoshitsugu, working indoors" class="story__img" style="object-position: right;">
                             </div>
                         </div>
                         <div class="mt-3">

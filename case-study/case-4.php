@@ -86,7 +86,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 
                             <div class="row">
                                 <div class="col-lg-5 offset-lg-0 offset-md-3 col-md-6">
-                                    <img src="/img/case-study/dokodemo-story-4-ghitta.jpg" alt="" class="img-fluid w-100 mb-4">
+                                    <img src="/img/case-study/dokodemo-story-4-ghitta.jpg" alt="A Logique Employee" class="img-fluid w-100 mb-4">
                                 </div>
                                 <div class="col-lg-7">
                                     <p>Hello, my name is Ghitta. I started working as an HR staff member in 2017. I would like to take this opportunity to explain how to utilize “Dokodemo-Kerja” to help transition into new company policies to solve some HR problems.</p>
@@ -130,7 +130,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                                     </div>
                                 </div>
                                 <div class="col-lg-5 offset-lg-0 offset-sm-2 col-sm-8 mb-lg-0 mb-3">
-                                    <img src="/img/case-study/dokodemo-story-4.2-ghitta.png" alt="" class="img-fluid w-100">
+                                    <img src="/img/case-study/dokodemo-story-4.2-ghitta.png" alt="Logique Employees" class="img-fluid w-100">
                                 </div>
                             </div>
 

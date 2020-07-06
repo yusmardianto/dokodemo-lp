@@ -28,7 +28,7 @@
                     <div class="col-md-4">
                         <a href="/jpn/case-study/case-1" class="case-study__card-wrapper">
                             <div class="case-study__card">
-                                <img class="card__img" src="/img/case-study/case-1.png" alt="" >
+                                <img class="card__img" src="/img/case-study/case-1.png" alt="Working at the Computer" >
                                 <h4 class="card__title">PT. LOGIQUE Digital Indonesia</h4>
                                 <p class="card__news">
                                     President Director <br>
@@ -42,7 +42,7 @@
                     <div class="col-md-4">
                         <a href="/jpn/case-study/case-2" class="case-study__card-wrapper">
                             <div class="case-study__card">
-                                <img class="card__img" src="/img/case-study/case-2.png" alt="" >
+                                <img class="card__img" src="/img/case-study/case-2.png" alt="Computer placed on a table in a dimly lit room" >
                                 <h4 class="card__title">システム開発会社B社</h4>
                                 <p class="card__news">
                                     President Director
@@ -55,7 +55,7 @@
                     <div class="col-md-4">
                         <a href="/jpn/case-study/case-3" class="case-study__card-wrapper">
                             <div class="case-study__card">
-                                <img class="card__img" src="/img/case-study/case-3.png" alt="" >
+                                <img class="card__img" src="/img/case-study/case-3.png" alt="Computer chip with a flashing LED light" >
                                 <h4 class="card__title">Accounting Firm A社</h4>
                                 <p class="card__news">
                                     Operation Director
@@ -68,7 +68,7 @@
                     <div class="col-md-4">
                         <a href="/jpn/case-study/case-4" class="case-study__card-wrapper">
                             <div class="case-study__card">
-                                <img class="card__img" src="/img/case-study/dokodemo-story-4-ghitta.jpg" alt="" style="object-position: top;">
+                                <img class="card__img" src="/img/case-study/dokodemo-story-4-ghitta.jpg" alt="A Logique Employee" style="object-position: top;">
                                 <h4 class="card__title">PT. LOGIQUE Digital Indonesia</h4>
                                 <p class="card__news">
                                     LOGIQUE人事部

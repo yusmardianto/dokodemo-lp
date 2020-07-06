@@ -83,7 +83,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                 <div class="col-md-4">
                     <a href="/case-study/case-1" class="case-study__card-wrapper">
                         <div class="case-study__card">
-                            <img class="card__img" src="/img/case-study/case-1.png" alt="">
+                            <img class="card__img" src="/img/case-study/case-1.png" alt="Working at the Computer">
                             <h2 class="card__headline">Dokodemo-Kerja Story 1</h2>
                             <h4 class="card__title">PT. LOGIQUE Digital Indonesia</h4>
                             <p class="card__text">
@@ -95,7 +95,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                 <div class="col-md-4">
                     <a href="/case-study/case-2" class="case-study__card-wrapper">
                         <div class="case-study__card">
-                            <img class="card__img" src="/img/case-study/case-2.png" alt="">
+                            <img class="card__img" src="/img/case-study/case-2.png" alt="Computer placed on a table in a dimly lit room">
                             <h2 class="card__headline">Dokodemo-Kerja Story 2</h2>
                             <h4 class="card__title">System Development, Company B</h4>
                             <p class="card__text">
@@ -107,7 +107,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                 <div class="col-md-4">
                     <a href="/case-study/case-3" class="case-study__card-wrapper">
                         <div class="case-study__card">
-                            <img class="card__img" src="/img/case-study/case-3.png" alt="">
+                            <img class="card__img" src="/img/case-study/case-3.png" alt="Computer chip with a flashing LED light">
                             <h2 class="card__headline">Dokodemo-Kerja Story 3</h2>
                             <h4 class="card__title">Accounting Firm, Company A</h4>
                             <p class="card__text">
@@ -119,7 +119,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                 <div class="col-md-4">
                     <a href="/case-study/case-4" class="case-study__card-wrapper">
                         <div class="case-study__card">
-                            <img class="card__img" src="/img/case-study/dokodemo-story-4-ghitta.jpg" alt="" style="object-position: top;">
+                            <img class="card__img" src="/img/case-study/dokodemo-story-4-ghitta.jpg" alt="A Logique Employee" style="object-position: top;">
                             <h2 class="card__headline">Dokodemo-Kerja Story 4</h2>
                             <h4 class="card__title">PT. LOGIQUE Digital Indonesia</h4>
                             <p class="card__text">
@@ -144,7 +144,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
         <div class="container-fluid">
             <div class="row employee-role">
                 <div class="col-md-6 program-sample">
-                    <img src="/img/features/doko.png" class="img-fluid img-doko" alt="" />
+                    <img src="/img/features/doko.png" class="img-fluid img-doko" alt="Dokodemo-Kerja Time Tracking" />
                 </div>
                 <div class="col-md-6 employee-feature-list pt-sm-4">
                     <h3><strong>FOR EMPLOYEE:</strong></h3>

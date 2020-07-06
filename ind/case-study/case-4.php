@@ -86,7 +86,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 
                             <div class="row">
                                 <div class="col-lg-5 offset-lg-0 offset-md-3 col-md-6">
-                                    <img src="/img/case-study/dokodemo-story-4-ghitta.jpg" alt="" class="img-fluid w-100 mb-4">
+                                    <img src="/img/case-study/dokodemo-story-4-ghitta.jpg" alt="A Logique Employee" class="img-fluid w-100 mb-4">
                                 </div>
                                 <div class="col-lg-7">
                                     <p>Halo, nama saya Ghitta, saya mulai bekerja sebagai staf HR sejak tahun 2017. Pada kesempatan kali ini saya ingin memperkenalkan bagaimana cara memanfaatkan “Dokodemo-Kerja” untuk membantu merubah peraturan sekaligus memecahkan masalah HR.</p>
@@ -128,7 +128,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                                     <p>Kalau hal ini terjadi pada karyawan yang produktif memang menjadi hal yang mengkhawatirkan, tetapi dalam kasus perusahaan kami, karyawan yang menunjukkan respon negatif merupakan karyawan yang tidak menunjukkan hasil, oleh karena itu saya memutuskan untuk memberikan evaluasi yang tegas. Sebagian karena efek itu, secara otomatis pergantian personel pun berjalan.</p> 
                                 </div>
                                 <div class="col-lg-5 offset-lg-0 offset-sm-2 col-sm-8 mb-lg-0 mb-3 align-self-center">
-                                    <img src="/img/case-study/dokodemo-story-4.2-ghitta.png" alt="" class="img-fluid w-100">
+                                    <img src="/img/case-study/dokodemo-story-4.2-ghitta.png" alt="Logique Employees" class="img-fluid w-100">
                                 </div>
                             </div>
 

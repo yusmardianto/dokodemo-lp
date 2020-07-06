@@ -156,7 +156,7 @@ $page = 'demo';
 					<h3 class="trial-title">Cara Menggunakan Dokodemo-Kerja</h3>
 					
 					<!-- <a href="https://dokodemo-kerja.com/pdf/install-guide.pdf" target="_blank" rel="noopener noreferrer" aria-label="Install Guide" class="dl-guide">
-						<img src="/img/install.png" class="d-block img-fluid img-border mx-auto mb-3" id="trial-install-guide" alt="" />
+						<img src="/img/install.png" class="d-block img-fluid img-border mx-auto mb-3" id="trial-install-guide" alt="Dokodemo-Kerja Install Guide" />
 					</a> -->
 					<div class="installation-manual">
 						Download manual instalasi di sini:
@@ -195,58 +195,58 @@ $page = 'demo';
 									<div class="row">
 										<div class="col-md-6 col-lg-8">
 											<p class="trial-tab-content">Tekan <strong>"LOGIN"</strong> <br class="d-none d-md-block"><br class="d-none d-md-block"><br class="d-none d-md-block d-xl-none"></p>
-											<img src="/img/trial/admin-1.png" class ="mb-3 img-fluid w-100 img-border" alt="" style="height: 295px; object-fit: contain;"/>
+											<img src="/img/trial/admin-1.png" class="img-fluid w-100 img-border mb-3" alt="Dokodemo-Kerja Website Login" style="height: 295px; object-fit: contain;"/>
 										</div>
 										<div class="col-md-6 col-lg-4">
 											<p class="trial-tab-content">Login dengan email dan password yang tersedia.</p>
-											<img src="/img/trial/admin-2.png" class ="mb-3 img-fluid w-100 img-border" alt="" style="height: 295px; object-fit: cover;"/>
+											<img src="/img/trial/admin-2.png" class="img-fluid w-100 img-border mb-3" alt="Dokodemo-Kerja Sign In" style="height: 295px; object-fit: cover;"/>
 										</div>
 									</div>
 								</div>
 								<h2 class="tab-content-title content-section-title">2. Menambah Staff</h2>
 								<div class="pl-4">
 									<p class="trial-tab-content">Tekan tombol <strong>"Staff"</strong></p>
-									<img src="/img/trial/admin-3.png" class="mb-3 img-fluid w-100 img-border" alt="" />
+									<img src="/img/trial/admin-3.png" class="mb-3 img-fluid w-100 img-border" alt="Dokodemo-Kerja Drop Down Account Access Option" />
 									<div class="row">
 										<div class="col-md-6">
 											<p class="trial-tab-content">Tekan tombol <strong>"Add New"</strong></p>
-											<img src="/img/trial/admin-4.png" class="mb-3 img-fluid w-100 img-border" alt="" />
+											<img src="/img/trial/admin-4.png" class="mb-3 img-fluid w-100 img-border" alt="Dokodemo-Kerja 'Add New' Button" />
 										</div>
 										<div class="col-md-6">
 											<p class="trial-tab-content">Isi Informasi staff</p>
-											<img src="/img/trial/admin-5.png" class="mb-3 img-fluid w-100 img-border" alt="" />
+											<img src="/img/trial/admin-5.png" class="mb-3 img-fluid w-100 img-border" alt="Dokodemo-Kerja's Add Staff option" />
 										</div>
 									</div>
 									<p class="trial-tab-content">Staff akan terdaftar di demo environment dan sebuah email akan dikirimkan kepada staff.</p>
-									<img src="/img/trial/admin-6.png" class="mb-5 img-fluid w-100 img-border" alt="" />
+									<img src="/img/trial/admin-6.png" class="mb-5 img-fluid w-100 img-border" alt="Dokodemo-Kerja Staff Management" />
 								</div>
 								<h2 class="tab-content-title content-section-title">3. Menambah Task</h2>
 								<div class="pl-4">
 									<p class="trial-tab-content">Tekan tombol <strong>"Task"</strong></p>
-									<img src="/img/trial/admin-3.png" class="mb-3 img-fluid w-100 img-border" alt="" />
+									<img src="/img/trial/admin-3.png" class="mb-3 img-fluid w-100 img-border" alt="Dokodemo-Kerja Drop Down Account Access Option" />
 									<div class="row">
 										<div class="col-md-6">
 											<p class="trial-tab-content">Tekan <strong>"Add New"</strong> pada task management <br class="d-none d-md-block"><br class="d-none d-md-block"><br class="d-none d-md-block d-lg-none"></p>
-											<img src="/img/trial/admin-7.png" class="mb-5 img-fluid w-100 img-border" alt="" />
+											<img src="/img/trial/admin-7.png" class="mb-5 img-fluid w-100 img-border" alt="Dokodemo-Kerja 'Add New' Button" />
 										</div>
 										<div class="col-md-6">
 											<p class="trial-tab-content">Isi informasi task baru, tekan Submit, dan Task Baru telah ditambahkan </p>
-											<img src="/img/trial/admin-8.png" class="mb-5 img-fluid w-100 img-border" alt="" />
+											<img src="/img/trial/admin-8.png" class="mb-5 img-fluid w-100 img-border" alt="Dokodemo-Kerja Install Guide" />
 										</div>
 									</div>
 								</div>
 								<h2 class="tab-content-title content-section-title">4. Menambah Team</h2>
 								<div class="pl-4">
 									<p class="trial-tab-content">Tekan tombol <strong>"Team"</strong></p>
-									<img src="/img/trial/admin-3.png" class="mb-3 img-fluid w-100 img-border" alt="" />
+									<img src="/img/trial/admin-3.png" class="mb-3 img-fluid w-100 img-border" alt="Dokodemo-Kerja Drop Down Account Access Option" />
 									<div class="row">
 										<div class="col-md-6">
 											<p class="trial-tab-content">Tekan <strong>"Add New"</strong> pada team management <br class="d-none d-md-block"><br class="d-none d-md-block"></p>
-											<img src="/img/trial/admin-7.png" class="mb-5 img-fluid w-100 img-border" alt="" />
+											<img src="/img/trial/admin-7.png" class="mb-5 img-fluid w-100 img-border" alt="Dokodemo-Kerja 'Add New' Button" />
 										</div>
 										<div class="col-md-6">
 											<p class="trial-tab-content">Isi nama team dan leader, tekan Submit, dan Team Baru telah ditambahkan</p>
-											<img src="/img/trial/admin-9.png" class="mb-5 img-fluid w-100 img-border" alt="" />
+											<img src="/img/trial/admin-9.png" class="mb-5 img-fluid w-100 img-border" alt="Dokodemo-Kerja Add Team Management" />
 										</div>
 									</div>
 								</div>
@@ -262,11 +262,11 @@ $page = 'demo';
 									<div class="row">
 										<div class="col-md-6">
 											<p class="trial-tab-content">Extract folder demo dan cari program Dokodemo-Kerja</p>
-											<img src="/img/trial/staff-1.png" class="mb-3 img-fluid w-100 img-border"/>
+											<img src="/img/trial/staff-1.png" class="mb-3 img-fluid w-100 img-border" alt="Dokodemo-Kerja Zip File"/>
 										</div>
 										<div class="col-md-6">
 											<p class="trial-tab-content">Run Aplikasi tersebut <br class="d-none d-md-block"><br class="d-none d-md-block"></p>
-											<img src="/img/trial/staff-2.png" class="mb-3 img-fluid w-100 img-border"/>
+											<img src="/img/trial/staff-2.png" class="mb-3 img-fluid w-100 img-border" alt="Downloaded Dokodemo-Kerja App Icon"/>
 										</div>
 									</div>
 								</div>
@@ -288,13 +288,13 @@ $page = 'demo';
 													<span class="font-weight-bold">: Dokodemo-123</span>
 												</div>
 											</div>
-											<img src="/img/trial/staff-3.png" class="mb-3 img-fluid w-100 img-border"/>
+											<img src="/img/trial/staff-3.png" class="mb-3 img-fluid w-100 img-border" alt="Dokodemo-Kerja Version 2.0.0"/>
 										</div>
 										<div class="col-md-6">
 											<p class="trial-tab-content">Pilih Project dan tekan tombol "Play"</p>
-											<img src="/img/trial/staff-4.png" class="mb-3 img-fluid w-100 img-border"/>
+											<img src="/img/trial/staff-4.png" class="mb-3 img-fluid w-100 img-border" alt="Dokodemo-Kerja Application"/>
 											<p class="trial-tab-content">Tekan tombol merah untuk menghentikan penghitungan</p>
-											<img src="/img/trial/staff-5.png" class="mb-5 img-fluid w-100 img-border"/>
+											<img src="/img/trial/staff-5.png" class="mb-5 img-fluid w-100 img-border" alt="Dokodemo-Kerja Application Appearance"/>
 										</div>
 									</div>
 								</div>
@@ -322,7 +322,7 @@ $page = 'demo';
 											</div>
 										</div>
 										<div class="col-md-6">
-											<img src="/img/trial/staff-6.png" class="mb-3 img-fluid w-100 img-border"/>
+											<img src="/img/trial/staff-6.png" class="mb-3 img-fluid w-100 img-border" alt="Dokodemo-Kerja Application"/>
 										</div>
 									</div>
 								</div>
@@ -330,7 +330,7 @@ $page = 'demo';
 								<h2 class="content-section-title">4. Tangkapan Layar</h2>
 								<div class="pl-4">
 									<p class="trial-tab-content">Anda bisa melihat hasil tangkapan layar serta berapa lama anda telah bekerja. Icon yang ada di dalam kolom berwarna adalah untuk mengubah waktu secara manual. Selain itu, terdapat waktu riwayat pengubahan waktu dan komentar dari karyawan lain</p>
-									<img src="/img/trial/staff-7.png" class="mb-5 img-fluid w-100 img-border"/>
+									<img src="/img/trial/staff-7.png" class="mb-5 img-fluid w-100 img-border" alt="Dokodemo-Kerja Time Tracking"/>
 								</div>
 							</div>
 						</div>
@@ -344,13 +344,13 @@ $page = 'demo';
 										<div class="col-md-6">
 											<p class="trial-tab-content">Cari aplikasi "Dokodemo Mobile" di Play Store, dan tekan "Install"</p>
 											<div class="text-center">
-												<img src="/img/trial/mobile-1.png" class="mb-3 img-fluid img-border mobile-screenshot"/>
+												<img src="/img/trial/mobile-1.png" class="mb-3 img-fluid mobile-screenshot img-border" alt="Download Dokodemo-Kerja from the Google Play Store"/>
 											</div>
 										</div>
 										<div class="col-md-6">
 											<!-- <p class="trial-tab-content">Atau website Dokodemo-Kerja. <br><br></p> -->
 											<p class="trial-tab-content">Atau download aplikasi mobile dari website Dokodemo perusahaan.</p>
-											<img src="/img/trial/mobile-2.png" class="mb-3 img-fluid img-border mobile-screenshot"/>
+											<img src="/img/trial/mobile-2.png" class="mb-3 img-fluid mobile-screenshot img-border" alt="Download Dokodemo-Kerja Mobile for iOS or Android"/>
 										</div>
 									</div>
 								</div>
@@ -363,14 +363,14 @@ $page = 'demo';
 												<p class="mb-0">Login dengan Company Code, Email dan Password yang sudah terdaftar, kemudian tekan tombol Login.</p>
 											</div>
 											<div class="text-center">
-												<img src="/img/trial/mobile-3.png" class="mb-3 img-fluid img-border mobile-screenshot"/>
+												<img src="/img/trial/mobile-3.png" class="mb-3 img-fluid img-border mobile-screenshot" alt="Dokodemo-Kerja Login Page"/>
 											</div>
 										</div>
 										<div class="col-md-6">
 											<h2 class="tab-content-title content-section-title">3. Pilih Task</h2>
 											<p class="trial-tab-content">User diminta untuk memilih Task <br class="d-none d-md-block"><br class="d-none d-md-block"><br class="d-none d-md-block"><br class="d-none d-md-block d-lg-none"></p>
 											<div class="text-center">
-												<img src="/img/trial/mobile-4.png" class="mb-3 img-fluid img-border mobile-screenshot"/>
+												<img src="/img/trial/mobile-4.png" class="mb-3 img-fluid img-border mobile-screenshot" alt="Dokodemo-Kerja Task Selection"/>
 											</div>
 										</div>
 									</div>
@@ -385,7 +385,7 @@ $page = 'demo';
 													Beberapa fungsi yang tersedia pada Dokodemo-Kerja Mobile App 
 												</p>
 												<div class="text-center">
-													<img src="/img/trial/mobile-5.png" class="mb-3 img-fluid img-border mobile-screenshot"/>
+													<img src="/img/trial/mobile-5.png" class="mb-3 img-fluid img-border mobile-screenshot" alt="Dokodemo-Kerja Mobile Staff Login"/>
 												</div>
 											</div>
 										</div>
@@ -393,7 +393,7 @@ $page = 'demo';
 											<div class="trial-tab-content">
 												<p>Tombol “Start” dan “Stop” <br class="d-none d-md-block"><br class="d-none d-md-block"><br class="d-none d-md-block d-lg-none"></p>
 												<div class="text-center">
-													<img src="/img/trial/mobile-6.png" class="mb-3 img-fluid img-border mobile-screenshot"/>
+													<img src="/img/trial/mobile-6.png" class="mb-3 img-fluid img-border mobile-screenshot" alt="Dokodemo-Kerja Play Button"/>
 												</div>
 											</div>
 										</div>
@@ -407,7 +407,7 @@ $page = 'demo';
 											<div class="trial-tab-content">
 												<p>GPS Tracker untuk melacak user saat melakukan kegiatan di luar kantor.</p>
 												<div class="text-center">
-													<img src="/img/trial/mobile-7.png" class="mb-3 img-fluid img-border mobile-screenshot"/>
+													<img src="/img/trial/mobile-7.png" class="mb-3 img-fluid img-border mobile-screenshot" alt="Dokodemo-Kerja Mobile Location Tracking"/>
 												</div>
 											</div>
 										</div>
@@ -415,7 +415,7 @@ $page = 'demo';
 											<div class="trial-tab-content">
 												<p>Screenshot layar desktop saat sedang bekerja. (Desktop App)<br class="d-none d-md-block d-lg-none"><br class="d-none d-md-block d-lg-none"></p>
 												<div class="text-center">
-													<img src="/img/trial/mobile-8.png" class="mb-3 img-fluid img-border mobile-screenshot"/>
+													<img src="/img/trial/mobile-8.png" class="mb-3 img-fluid img-border mobile-screenshot" alt="Dokodemo-Kerja Mobile Screen Recording Record"/>
 												</div>
 											</div>
 										</div>
@@ -429,7 +429,7 @@ $page = 'demo';
 												<h2 class="tab-content-title content-section-title">6. History Record</h2>
 												<p>User dapat melihat jam kerjanya secara Daily, Weekly dan Monthly.</p>
 												<div class="text-center">
-													<img src="/img/trial/mobile-9.png" class="mb-3 img-fluid img-border mobile-screenshot"/>
+													<img src="/img/trial/mobile-9.png" class="mb-3 img-fluid img-border mobile-screenshot" alt="Dokodemo-Kerja Mobile Screen Record"/>
 												</div>
 											</div>
 										</div>
@@ -438,7 +438,7 @@ $page = 'demo';
 												<h2 class="tab-content-title content-section-title">6. Account</h2>
 												<p>Menu ini menampilkan user profile, dan dapat digunakan untuk logout.</p>
 												<div class="text-center">
-													<img src="/img/trial/mobile-10.png" class="mb-3 img-fluid img-border mobile-screenshot"/>
+													<img src="/img/trial/mobile-10.png" class="mb-3 img-fluid img-border mobile-screenshot" alt="Dokodemo-Kerja Mobile Login"/>
 												</div>
 											</div>
 										</div>

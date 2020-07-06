@@ -78,7 +78,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                             <p class="features-desc">Dokodemo-Kerja takes low-resolution screenshots of your employee's desktop or laptop activities during random intervals when the application is switched on and sends the images to the management team.</p>
                         </div>
                         <div class="col-lg-6 features-item">
-                             <img src="/img/features/feature-1.png" class="img-slide-screenshot modal-hover-opacity" alt="" />    
+                             <img src="/img/features/feature-1.png" class="img-slide-screenshot modal-hover-opacity" alt="Dokodemo-Kerja is compatible with PC, Mobile & Tablet" />    
                         </div>
                     </div>
                     <div class="row">
@@ -88,7 +88,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                             <p class="features-desc">Dokodemo-Kerja accurately calculates and compiles employee work data and then displays it in an easy-to-read-format in just 1 simple click. This can greatly assist HR improve the overall accuracy of performance evaluation tasks.</p>
                         </div>
                         <div class="col-lg-6 features-item">
-                            <img src="/img/features/feature-2.png" class="img-slide-screenshot modal-hover-opacity" alt="" />   
+                            <img src="/img/features/feature-2.png" class="img-slide-screenshot modal-hover-opacity" alt="Dokodemo-Kerja is compatible with PC, Mobile & Tablet" />   
                         </div>
                     </div>
                     <div class="row">
@@ -98,7 +98,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                             <p class="features-desc">Track the total man-hours spent by each employee on each individual task, so your company can easily predict and arrange target deadlines according to your employee's capabilities.</p>
                         </div>
                         <div class="col-lg-6 features-item">
-                            <img src="/img/features/feature-3.png" class="img-slide-screenshot modal-hover-opacity" alt="" />    
+                            <img src="/img/features/feature-3.png" class="img-slide-screenshot modal-hover-opacity" alt="Dokodemo-Kerja is compatible with PC, Mobile & Tablet" />    
                         </div>
                     </div>
                     <div class="row">
@@ -108,7 +108,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                             <p class="features-desc">Dokodemo-Kerja’s Mobile Application utilizes GPS tracking, thereby allowing HR to easily track the location of each employee in real time during onsite events such as meetings or client visits.</p>
                         </div>
                         <div class="col-lg-6 features-item">
-                            <img src="/img/features/feature-4.png" class="img-slide-screenshot modal-hover-opacity" alt="" />    
+                            <img src="/img/features/feature-4.png" class="img-slide-screenshot modal-hover-opacity" alt="Dokodemo GPS features" />    
                         </div>
                     </div>
                     <div class="row">
@@ -124,7 +124,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                             </div>
                         </div>
                         <div class="col-lg-6 features-item">
-                            <img src="/img/features/feature-5.png" class="img-slide-screenshot modal-hover-opacity" alt="" />    
+                            <img src="/img/features/feature-5.png" class="img-slide-screenshot modal-hover-opacity" alt="Dokodemo-Kerja is compatible with PC, Mobile & Tablet" />    
                         </div>
                     </div>
                 </div>
@@ -151,12 +151,12 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
             <div class="row">
                 <div class="col-md-4 offset-md-2 col-10 offset-1 py-2">
                     <a href="https://drive.google.com/file/d/1kJA4zw9AlRcPQgkQThKdXOs9nfVI00ab/view?usp=sharing" class="dl-guide" aria-label="manual guide">
-                        <img src="/img/manual.png" class="img-fluid mx-auto d-block" id="features-manual-guide" alt="" />
+                        <img src="/img/manual.png" class="img-fluid mx-auto d-block" id="features-manual-guide" alt="Dokodemo-Kerja Manual Guide" />
                     </a>
                 </div>
                 <div class="col-md-4 col-10 offset-md-0 offset-1 py-2">
                     <a href="https://drive.google.com/file/d/1jZut6Ouhi_HA26QoL4mvty45qZMAgdii/view?usp=sharing" class="dl-guide" aria-label="dl-guide">
-                        <img src="/img/install.png" class="img-fluid mx-auto d-block" id="features-install-guide" alt="" />
+                        <img src="/img/install.png" class="img-fluid mx-auto d-block" id="features-install-guide" alt="Dokodemo-Kerja Install Guide" />
                     </a>
                 </div>
             </div>

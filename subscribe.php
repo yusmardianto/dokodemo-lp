@@ -118,7 +118,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                       A recurring invoice will be sent to you at the beginning of the following month. You can view the invoice on your admin dashboard, or from an email that we will send you at the end of every month. 
                     </p>
                     <p>
-                      <img src="/img/dokodemo-invoice.png" class="img-fluid img-thumbnail" alt="" />
+                      <img src="/img/dokodemo-invoice.png" class="img-fluid img-thumbnail" alt="Dokodemo-Kerja Invoice" />
                     </p>
                     <p>Note that:</p>
                     <ol>

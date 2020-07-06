@@ -85,7 +85,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                         <div class="row">
                             <div class="col-lg-6 d-none d-lg-block">
                                 <div class="text-center" style="line-height: 1; height: calc(100% - 50px);">
-                                    <img src="/img/case-study/dokodemo-story-1-1.jpg" alt="" class="story__img pb-1" style="object-position: right;">
+                                    <img src="/img/case-study/dokodemo-story-1-1.jpg" alt="Logique's CEO, Yoshitsugu, working outdoors" class="story__img pb-1" style="object-position: right;">
                                     <small>The image was taken when I wrote this article while working in the Japanese countryside. I have also used and implemented Dokodemo-Kerja myself.</small>
                                 </div>
                             </div>
@@ -108,7 +108,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                                 <p  class="mb-0">Nippo slightly improved the function of our remote working strategy. However, there were still some problems, specifically, when a task has been attempted but is not done correctly, or takes longer than expected; for example, when a task that takes 3 hours to complete is recorded as taking 8 hours on Nippo. This problem could be due to many reasons: lack of concentration, or due to situations which could not be avoided. I realized that there are many uniquely difficult cases.   </p>
                             </div>
                             <div class="col-lg-6 pr-0 d-none d-lg-block">
-                                <img src="/img/case-study/dokodemo-story-1-2.jpg" alt="" class="story__img" style="object-position: right;">
+                                <img src="/img/case-study/dokodemo-story-1-2.jpg" alt="Logique's CEO, Yoshitsugu, working indoors" class="story__img" style="object-position: right;">
                             </div>
                         </div>
                         <div class="mt-3"> 
