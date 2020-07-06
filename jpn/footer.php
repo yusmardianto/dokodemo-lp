@@ -40,7 +40,7 @@
                         <li>
                             <span class="footer-contact-item">
                                 <a target="_blank" href="https://www.instagram.com/dokodemokerja/">
-                                    <i class="fa fa-instagram"></i>
+                                    <i class="fa fa-instagram footer-icon"></i>
                                     <span>dokodemokerja</span>
                                 </a>
                             </span>
