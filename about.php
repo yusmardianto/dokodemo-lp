@@ -64,7 +64,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 <!-- End Google Tag Manager (noscript) -->
     <?php include "header.php" ?>
     <section class="top-content">
-        <img src="/img/about/bg.jpg" class="img-bg" alt="" />
+        <img src="/img/about/bg.jpg" class="img-bg" alt="Logique's Office in AD Premier" />
         <div class="container">
             <div class="row align-items-end">
                 <div class="col-lg-6 about-us-left">
@@ -82,7 +82,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 
                     <br class="d-none d-lg-block"><br class="d-none d-lg-block">
                     
-                    <img src="/img/about/dokodemo-about.png" class="img-dokodemo-about" alt="" />
+                    <img src="/img/about/dokodemo-about.png" class="img-dokodemo-about" alt="Dokodemo-Kerja is Compatible for Macintosh" />
 
                     <br class="d-none d-lg-block"><br class="d-none d-lg-block">
                 </div>
@@ -271,8 +271,8 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
         <div class="container p-md-0 position-relative">
             <div class="row no-gutters ">
                 <div class="col-md-6 ">
-                    <img src="/img/home/bg-feature-1.png" class="w-100 img-fluid" alt="" />
-                    <img src="/img/home/dokodemo-user.png" class="dokodemo-user-float" alt="" />
+                    <img src="/img/home/bg-feature-1.png" class="w-100 img-fluid" alt="View from above the Mountains" />
+                    <img src="/img/home/dokodemo-user.png" class="dokodemo-user-float" alt="Dokodemo-Kerja is compatible with Macintosh" />
                 </div>
                 <div class="col-md-6 d-flex align-items-center">
                     <div class="benefit-content right">
@@ -295,12 +295,12 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 
                 </div>
                 <div class="col-md-6 order-1 order-md-2">
-                    <img src="/img/home/work-anywhere.png" class="img-fluid" alt="" />
+                    <img src="/img/home/work-anywhere.png" class="img-fluid" alt="Work at home from your computer" />
                 </div>
             </div>
             <div class="row no-gutters">
                 <div class="col-md-6">
-                    <img src="/img/home/work-efficiency.png" width="100%" class="img-fluid" alt="" />
+                    <img src="/img/home/work-efficiency.png" width="100%" class="img-fluid" alt="Dokodemo-Kerja for PC" />
                 </div>
                 <div class="col-md-6 d-flex align-items-center">
                     <div class="benefit-content right">

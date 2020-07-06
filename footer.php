@@ -39,6 +39,14 @@
                     <ul class="footer-menu-list">
                         <li>
                             <span class="footer-contact-item">
+                                <a target="_blank" href="https://www.instagram.com/dokodemokerja/">
+                                    <i class="fa fa-instagram footer-icon"></i>
+                                    <span>dokodemokerja</span>
+                                </a>
+                            </span>
+                        </li>
+                        <li>
+                            <span class="footer-contact-item">
                                 <a href="tel:02122708935">
                                     <img src="/img/call.png" class="footer-icon" alt="">
                                     <span>(021) 22708935/36</span>

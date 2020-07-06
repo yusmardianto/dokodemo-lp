@@ -88,7 +88,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                         <div class="row">
                             <div class="col-lg-6 d-none d-lg-block">
                                 <div class="text-center" style="line-height: 1; height: calc(100% - 40px);">
-                                    <img src="/img/case-study/dokodemo-story-1-1.jpg" alt="" class="story__img pb-1" style="object-position: right;">
+                                    <img src="/img/case-study/dokodemo-story-1-1.jpg" alt="Logique's CEO, Yoshitsugu, working outdoors" class="story__img pb-1" style="object-position: right;">
                                     <small>私もDokodemo-Kerjaを利用しています。この記事を書いたときは日本の田舎町で仕事していました。</small>
                                 </div>
                             </div>
@@ -118,7 +118,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                                 <p class="mb-0">そこで、さらなる適正かつ納得性の高い業務の可視化を目的に、『Dokodemo-Kerja』を開発しました。これが、2017年11月のことでした。</p>
                             </div>
                             <div class="col-lg-6 pr-0 d-none d-lg-block">
-                                <img src="/img/case-study/dokodemo-story-1-2.jpg" alt="" class="story__img" style="object-position: right;">
+                                <img src="/img/case-study/dokodemo-story-1-2.jpg" alt="Logique's CEO, Yoshitsugu, working indoors" class="story__img" style="object-position: right;">
                             </div>
                         </div>
                         <div class="mt-3"> 

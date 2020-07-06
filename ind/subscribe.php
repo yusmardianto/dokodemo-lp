@@ -121,7 +121,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                       Faktur berulang akan dikirimkan kepada Anda pada awal bulan berikutnya. Anda dapat melihat faktur di dashboard admin Anda, atau dari email yang akan kami kirimkan setiap akhir bulan. 
                     </p>
                     <p>
-                      <img src="../img/dokodemo-invoice.png" class="img-fluid img-thumbnail" alt="" />
+                      <img src="../img/dokodemo-invoice.png" class="img-fluid img-thumbnail" alt="Dokodemo-Kerja Invoice" />
                     </p>
                     <p>Perhatikan bahwa:</p>
                     <ol>

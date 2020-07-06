@@ -64,7 +64,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 <!-- End Google Tag Manager (noscript) -->
     <?php include "header.php" ?>
     <section class="top-content">
-        <img src="/img/about/bg.jpg" class="img-bg" alt="" />
+        <img src="/img/about/bg.jpg" class="img-bg" alt="Logique's Office in AD Premier" />
         <div class="container">
             <div class="row align-items-end">
                 <div class="col-lg-6 about-us-left">
@@ -79,7 +79,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                     <p class="about-us-contact">
                         Anda bisa melihat dan mendapatkan informasi lebih lanjut tentang Dokodemo-Kerja <a target="_blank" href="https://www.logique.co.id/blog/category/dokodemo-kerja/">di sini</a>. Jika ada pertanyaan lebih lanjut, jangan ragu untuk <a href="/ind/contact-us.php">HUBUNGI KAMI</a>.; kami akan dengan senang hati untuk membantu anda untuk mengenal Dokodemo-Kerja.
                     </p>
-                    <img src="/img/about/dokodemo-about.png" class="img-dokodemo-about" alt="" />
+                    <img src="/img/about/dokodemo-about.png" class="img-dokodemo-about" alt="Dokodemo-Kerja is Compatible for Macintosh" />
                 </div>
                 <div class="col-lg-6 about-us-right">
                     <h2>KENAPA DOKODEMO-KERJA?</h2>
@@ -255,7 +255,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
         <div class="container p-md-0 position-relative">
             <div class="row no-gutters ">
                 <div class="col-md-6 ">
-                    <img src="/img/home/bg-feature-1.png" class="w-100 img-fluid" alt=""/>
+                    <img src="/img/home/bg-feature-1.png" class="w-100 img-fluid" alt="View from above the Mountains"/>
                     <img src="/img/home/dokodemo-user.png" class="dokodemo-user-float" alt=""/>
                 </div>
                 <div class="col-md-6 d-flex align-items-center">
@@ -279,12 +279,12 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 
                 </div>
                 <div class="col-md-6 order-1 order-md-2">
-                    <img src="/img/home/work-anywhere.png" class="img-fluid" alt=""/>
+                    <img src="/img/home/work-anywhere.png" class="img-fluid" alt="Work at home from your computer"/>
                 </div>
             </div>
             <div class="row no-gutters">
                 <div class="col-md-6">
-                    <img src="/img/home/work-efficiency.png" width="100%" class="img-fluid" alt=""/>
+                    <img src="/img/home/work-efficiency.png" width="100%" class="img-fluid" alt="Dokodemo-Kerja for PC"/>
                 </div>
                 <div class="col-md-6 d-flex align-items-center">
                     <div class="benefit-content right">

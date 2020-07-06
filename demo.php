@@ -137,7 +137,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 					<h3 class="trial-title">How To Use Dokodemo-Kerja</h3>
 					
 					<!-- <a href="https://dokodemo-kerja.com/pdf/install-guide-ENG.pdf" target="_blank" aria-label="Install Guide" class="dl-guide" rel="noopener noreferrer">
-						<img src="/img/install.png" class="d-block img-fluid img-border mx-auto mb-3" id="trial-install-guide" alt="" />
+						<img src="/img/install.png" class="d-block img-fluid img-border mx-auto mb-3" id="trial-install-guide" alt="Dokodemo-Kerja Install Guide" />
 					</a> -->
 					<div class="installation-manual">
 						Download installation manual here:
@@ -176,58 +176,58 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 									<div class="row">
 										<div class="col-md-6 col-lg-8">
 											<p class="trial-tab-content">Click <strong>"LOGIN"</strong> <br class="d-none d-md-block"><br class="d-none d-md-block"><br class="d-none d-lg-block d-xl-none"></p>
-											<img src="/img/trial/admin-1.png" class="img-fluid w-100 img-border mb-3" style="height: 295px; object-fit: contain;" alt="" />
+											<img src="/img/trial/admin-1.png" class="img-fluid w-100 img-border mb-3" alt="Dokodemo-Kerja Website Login" style="height: 295px; object-fit: contain;"/>
 										</div>
 										<div class="col-md-6 col-lg-4">
 											<p class="trial-tab-content">Login with the provided email and password</p>
-											<img src="/img/trial/admin-2.png" class="img-fluid w-100 img-border mb-3" style="height: 295px; object-fit: cover;" alt="" />
+											<img src="/img/trial/admin-2.png" class="img-fluid w-100 img-border mb-3" alt="Dokodemo-Kerja Sign In"  style="height: 295px; object-fit: cover;" />
 										</div>
 									</div>
 								</div>
 								<h2 class="tab-content-title content-section-title">2. Add New Staff</h2>
 								<div class="pl-4">
 									<p class="trial-tab-content">Click the <strong>"Staff"</strong> button</p>
-									<img src="/img/trial/admin-3.png" class="mb-3 img-fluid w-100 img-border" alt="" />
+									<img src="/img/trial/admin-3.png" class="mb-3 img-fluid w-100 img-border" alt="Dokodemo-Kerja Drop Down Account Access Option" />
 									<div class="row">
 										<div class="col-md-6">
 											<p class="trial-tab-content">Click <strong>"Add New"</strong> <br class="d-none d-md-block d-lg-none"><br class="d-none d-md-block d-lg-none"></p>
-											<img src="/img/trial/admin-4.png" class="mb-3 img-fluid w-100 img-border" alt="" />
+											<img src="/img/trial/admin-4.png" class="mb-3 img-fluid w-100 img-border" alt="Dokodemo-Kerja 'Add New' Button" />
 										</div>
 										<div class="col-md-6">
 											<p class="trial-tab-content">Fill in the Staff information</p>
-											<img src="/img/trial/admin-5.png" class="mb-3 img-fluid w-100 img-border" alt="" />
+											<img src="/img/trial/admin-5.png" class="mb-3 img-fluid w-100 img-border" alt="Dokodemo-Kerja's Add Staff option" />
 										</div>
 									</div>
 									<p class="trial-tab-content">The staff will be drafted in the demo environment and an email will be sent to the staff's email.</p>
-									<img src="/img/trial/admin-6.png" class="mb-5 img-fluid w-100 img-border" alt="" />
+									<img src="/img/trial/admin-6.png" class="mb-5 img-fluid w-100 img-border" alt="Dokodemo-Kerja Staff Management" />
 								</div>
 								<h2 class="tab-content-title content-section-title">3. Add New Task</h2>
 								<div class="pl-4">
 									<p class="trial-tab-content">Click the <strong>"Task"</strong> button</p>
-									<img src="/img/trial/admin-3.png" class="mb-3 img-fluid w-100 img-border" alt="" />
+									<img src="/img/trial/admin-3.png" class="mb-3 img-fluid w-100 img-border" alt="Dokodemo-Kerja Drop Down Account Access Option" />
 									<div class="row">
 										<div class="col-md-6">
 											<p class="trial-tab-content">Click <strong>"Add New"</strong> on task management <br class="d-none d-md-block d-lg-none d-xl-block"><br class="d-none d-md-block d-lg-none d-xl-block"><br class="d-none d-md-block d-lg-none"></p>
-											<img src="/img/trial/admin-7.png" class="mb-5 img-fluid w-100 img-border" alt="" />
+											<img src="/img/trial/admin-7.png" class="mb-5 img-fluid w-100 img-border" alt="Dokodemo-Kerja 'Add New' Button" />
 										</div>
 										<div class="col-md-6">
 											<p class="trial-tab-content">Fill the task new information, click Submit, and New Task Added </p>
-											<img src="/img/trial/admin-8.png" class="mb-5 img-fluid w-100 img-border" alt="" />
+											<img src="/img/trial/admin-8.png" class="mb-5 img-fluid w-100 img-border" alt="Dokodemo-Kerja Install Guide" />
 										</div>
 									</div>
 								</div>
 								<h2 class="tab-content-title content-section-title">4. Add New Team</h2>
 								<div class="pl-4">
 									<p class="trial-tab-content">Click the <strong>"Team"</strong> button</p>
-									<img src="/img/trial/admin-3.png" class="mb-3 img-fluid w-100 img-border" alt="" />
+									<img src="/img/trial/admin-3.png" class="mb-3 img-fluid w-100 img-border" alt="Dokodemo-Kerja Drop Down Account Access Option" />
 									<div class="row">
 										<div class="col-md-6">
 											<p class="trial-tab-content">Click <strong>"Add New"</strong> on team management <br class="d-none d-md-block d-lg-none d-xl-block"><br class="d-none d-md-block d-lg-none d-xl-block"></p>
-											<img src="/img/trial/admin-7.png" class="mb-5 img-fluid w-100 img-border" alt="" />
+											<img src="/img/trial/admin-7.png" class="mb-5 img-fluid w-100 img-border" alt="Dokodemo-Kerja 'Add New' Button" />
 										</div>
 										<div class="col-md-6">
 											<p class="trial-tab-content">fill the team name and leader, click Submit, and New Team Added </p>
-											<img src="/img/trial/admin-9.png" class="mb-5 img-fluid w-100 img-border" alt="" />
+											<img src="/img/trial/admin-9.png" class="mb-5 img-fluid w-100 img-border" alt="Dokodemo-Kerja Add Team Management" />
 										</div>
 									</div>
 								</div>
@@ -243,11 +243,11 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 									<div class="row">
 										<div class="col-md-6">
 											<p class="trial-tab-content ">Extract demo's folder and find Dokodemo-Kerja programs</p>
-											<img src="/img/trial/staff-1.png" class="mb-3 img-fluid w-100 img-border"/>
+											<img src="/img/trial/staff-1.png" class="mb-3 img-fluid w-100 img-border" alt="Dokodemo-Kerja Zip File"/>
 										</div>
 										<div class="col-md-6">
 											<p class="trial-tab-content">Run that application <br class="d-none d-md-block"><br class="d-none d-md-block"></p>
-											<img src="/img/trial/staff-2.png" class="mb-3 img-fluid w-100 img-border"/>
+											<img src="/img/trial/staff-2.png" class="mb-3 img-fluid w-100 img-border" alt="Downloaded Dokodemo-Kerja App Icon"/>
 										</div>
 									</div>
 								</div>
@@ -269,13 +269,13 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 													<span class="font-weight-bold">: Dokodemo-123</span>
 												</div>
 											</div>
-											<img src="/img/trial/staff-3.png" class="mb-3 img-fluid w-100 img-border"/>
+											<img src="/img/trial/staff-3.png" class="mb-3 img-fluid w-100 img-border" alt="Dokodemo-Kerja Version 2.0.0"/>
 										</div>
 										<div class="col-md-6">
 											<p class="trial-tab-content">Choose project and press "Play" button</p>
-											<img src="/img/trial/staff-4.png" class="mb-3 img-fluid w-100 img-border"/>
+											<img src="/img/trial/staff-4.png" class="mb-3 img-fluid w-100 img-border" alt="Dokodemo-Kerja Application"/>
 											<p class="trial-tab-content">Press the red button for stop counting</p>
-											<img src="/img/trial/staff-5.png" class="mb-5 img-fluid w-100 img-border"/>
+											<img src="/img/trial/staff-5.png" class="mb-5 img-fluid w-100 img-border" alt="Dokodemo-Kerja Application Appearance"/>
 										</div>
 									</div>
 								</div>
@@ -303,7 +303,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 											</div>
 										</div>
 										<div class="col-md-6">
-											<img src="/img/trial/staff-6.png" class="mb-3 img-fluid w-100 img-border"/>
+											<img src="/img/trial/staff-6.png" class="mb-3 img-fluid w-100 img-border" alt="Dokodemo-Kerja Application"/>
 										</div>
 									</div>
 								</div>
@@ -313,7 +313,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 									<p class="trial-tab-content">
 										You can view the Screen record and how long you've worked. The icon inside the collored bar is to manually edit your work hour. And also show the time edited history and comment from other staff
 									</p>
-									<img src="/img/trial/staff-7.png" class="mb-5 img-fluid w-100 img-border"/>
+									<img src="/img/trial/staff-7.png" class="mb-5 img-fluid w-100 img-border" alt="Dokodemo-Kerja Time Tracking"/>
 								</div>
 							</div>
 						</div>
@@ -327,13 +327,13 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 										<div class="col-md-6">
 											<p class="trial-tab-content">Look for "Dokodemo Mobile" in the Play Store, and tap "Install"</p>
 											<div class="text-center">
-												<img src="/img/trial/mobile-1.png" class="mb-3 img-fluid mobile-screenshot img-border"/>
+												<img src="/img/trial/mobile-1.png" class="mb-3 img-fluid mobile-screenshot img-border" alt="Download Dokodemo-Kerja from the Google Play Store"/>
 											</div>
 										</div>
 										<div class="col-md-6">
 											<!-- <p class="trial-tab-content">Atau website Dokodemo-Kerja. <br><br></p> -->
 											<p class="trial-tab-content">Or download the Mobile App through your company's Dokodemo-Kerja website.</p>
-											<img src="/img/trial/mobile-2.png" class="mb-3 img-fluid mobile-screenshot img-border"/>
+											<img src="/img/trial/mobile-2.png" class="mb-3 img-fluid mobile-screenshot img-border" alt="Download Dokodemo-Kerja Mobile for iOS or Android"/>
 										</div>
 									</div>
 								</div>
@@ -346,14 +346,14 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 												<p class="mb-0">Login by filling in your Company code, E-mail, and Password, and click the Login button.</p>
 											</div>
 											<div class="text-center">
-												<img src="/img/trial/mobile-3.png" class="mb-3 img-fluid img-border mobile-screenshot"/>
+												<img src="/img/trial/mobile-3.png" class="mb-3 img-fluid img-border mobile-screenshot" alt="Dokodemo-Kerja Login Page"/>
 											</div>
 										</div>
 										<div class="col-md-6">
 											<h2 class="tab-content-title content-section-title">3. Choose a Task</h2>
 											<p class="trial-tab-content">In order to start the time tracking, you must choose a task. This can also be done later.</p>
 											<div class="text-center">
-												<img src="/img/trial/mobile-4.png" class="mb-3 img-fluid img-border mobile-screenshot"/>
+												<img src="/img/trial/mobile-4.png" class="mb-3 img-fluid img-border mobile-screenshot" alt="Dokodemo-Kerja Task Selection"/>
 											</div>
 										</div>
 									</div>
@@ -368,7 +368,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 													Here is the main display of the Dokodemo-Kerja Mobile App.
 												</p>
 												<div class="text-center">
-													<img src="/img/trial/mobile-5.png" class="mb-3 img-fluid img-border mobile-screenshot"/>
+													<img src="/img/trial/mobile-5.png" class="mb-3 img-fluid img-border mobile-screenshot" alt="Dokodemo-Kerja Mobile Staff Login"/>
 												</div>
 											</div>
 										</div>
@@ -376,7 +376,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 											<div class="trial-tab-content">
 												<p>The "Start" and "Stop" buttons are located at the bottom of the page.</p>
 												<div class="text-center">
-													<img src="/img/trial/mobile-6.png" class="mb-3 img-fluid img-border mobile-screenshot"/>
+													<img src="/img/trial/mobile-6.png" class="mb-3 img-fluid img-border mobile-screenshot" alt="Dokodemo-Kerja Play Button"/>
 												</div>
 											</div>
 										</div>
@@ -390,7 +390,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 											<div class="trial-tab-content">
 												<p>GPS Tracker which can be used to track employees outside of the office.</p>
 												<div class="text-center">
-													<img src="/img/trial/mobile-7.png" class="mb-3 img-fluid img-border mobile-screenshot"/>
+													<img src="/img/trial/mobile-7.png" class="mb-3 img-fluid img-border mobile-screenshot" alt="Dokodemo-Kerja Mobile Location Tracking"/>
 												</div>
 											</div>
 										</div>
@@ -398,7 +398,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 											<div class="trial-tab-content">
 												<p>Screenshot records taken through the desktop app. <br class="d-none d-md-block d-lg-none"><br class="d-none d-md-block d-lg-none"></p>
 												<div class="text-center">
-													<img src="/img/trial/mobile-8.png" class="mb-3 img-fluid img-border mobile-screenshot"/>
+													<img src="/img/trial/mobile-8.png" class="mb-3 img-fluid img-border mobile-screenshot" alt="Dokodemo-Kerja Mobile Screen Recording Record"/>
 												</div>
 											</div>
 										</div>
@@ -412,7 +412,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 												<h2 class="tab-content-title content-section-title">6. History Record</h2>
 												<p>Users can see their Daily, Weekly, and Monthly work hours record.</p>
 												<div class="text-center">
-													<img src="/img/trial/mobile-9.png" class="mb-3 img-fluid img-border mobile-screenshot"/>
+													<img src="/img/trial/mobile-9.png" class="mb-3 img-fluid img-border mobile-screenshot" alt="Dokodemo-Kerja Mobile Screen Record"/>
 												</div>
 											</div>
 										</div>
@@ -421,7 +421,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 												<h2 class="tab-content-title content-section-title">6. Account</h2>
 												<p>This menu displays the user's profile, and is used to log out of the app. <br class="d-none d-md-block d-lg-none"><br class="d-none d-md-block d-lg-none"></p>
 												<div class="text-center">
-													<img src="/img/trial/mobile-10.png" class="mb-3 img-fluid img-border mobile-screenshot"/>
+													<img src="/img/trial/mobile-10.png" class="mb-3 img-fluid img-border mobile-screenshot" alt="Dokodemo-Kerja Mobile Login"/>
 												</div>
 											</div>
 										</div>
