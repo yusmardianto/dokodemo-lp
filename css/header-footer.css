@@ -253,6 +253,10 @@ footer {
   .footer-menu-list li {
     padding: 0.5em 0;
   }
+
+  .footer-menu-list .text-nowrap {
+    white-space: normal !important;
+  }
 }
 
 @media (min-width: 1200px) {
