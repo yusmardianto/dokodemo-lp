@@ -258,16 +258,8 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 										<div class="col-md-6">
 											<div class="trial-tab-content">
 												<p class="mb-0">
-													Login with credential that has been sent to email, or login with:
+													Login with the account registered in the demo Admin website.
 												</p>
-												<div class="trial-tab-content__list">
-													<span>ID</span>
-													<span class="font-weight-bold">: sales@dokodemo-kerja.com</span>
-												</div>
-												<div class="trial-tab-content__list">
-													<span>Pass</span>
-													<span class="font-weight-bold">: Dokodemo-123</span>
-												</div>
 											</div>
 											<img src="/img/trial/staff-3.png" class="mb-3 img-fluid w-100 img-border" alt="Dokodemo-Kerja Version 2.0.0"/>
 										</div>
@@ -343,7 +335,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 										<div class="col-md-6">
 											<h2 class="tab-content-title content-section-title">2. Login Page</h2>
 											<div class="trial-tab-content">
-												<p class="mb-0">Login by filling in your Company code, E-mail, and Password, and click the Login button.</p>
+												<p class="mb-0">Login dengan Company Code (DKDM), E-mail dan Password yang sudah didaftarkan di website demo Admin, kemudian tekan tombol Login.</p>
 											</div>
 											<div class="text-center">
 												<img src="/img/trial/mobile-3.png" class="mb-3 img-fluid img-border mobile-screenshot" alt="Dokodemo-Kerja Login Page"/>
@@ -351,7 +343,10 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 										</div>
 										<div class="col-md-6">
 											<h2 class="tab-content-title content-section-title">3. Choose a Task</h2>
-											<p class="trial-tab-content">In order to start the time tracking, you must choose a task. This can also be done later.</p>
+											<p class="trial-tab-content">In order to start the time tracking, you must choose a task. This can also be done later.
+											<br class="d-none d-md-block"><br class="d-none d-md-block">
+											<br class="d-none d-md-block"><br class="d-none d-md-block d-lg-none">
+											</p>
 											<div class="text-center">
 												<img src="/img/trial/mobile-4.png" class="mb-3 img-fluid img-border mobile-screenshot" alt="Dokodemo-Kerja Task Selection"/>
 											</div>

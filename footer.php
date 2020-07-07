@@ -53,11 +53,11 @@
                                 </a>
                             </span>
                         </li>
-                        <li>
+                        <li class="text-nowrap">
                             <span class="footer-contact-item">
-                                <a href="mailto:info@logique.co.id">
+                                <a href="mailto:sales@dokodemo-kerja.com">
                                     <img src="/img/mail.png" class="footer-icon" alt="">
-                                    <span>info@logique.co.id</span>
+                                    <span>sales@dokodemo-kerja.com</span>
                                 </a>
                             </span>
                         </li>

@@ -277,16 +277,8 @@ $page = 'demo';
 										<div class="col-md-6">
 											<div class="trial-tab-content">
 												<p class="mb-0">
-													Login dengan credential yang diterima di email, atau login dengan:
+													Login dengan akun yang sudah didaftarkan di website demo Admin.
 												</p>
-												<div class="trial-tab-content__list">
-													<span>ID</span>
-													<span class="font-weight-bold">: sales@dokodemo-kerja.com</span>
-												</div>
-												<div class="trial-tab-content__list">
-													<span>Pass</span>
-													<span class="font-weight-bold">: Dokodemo-123</span>
-												</div>
 											</div>
 											<img src="/img/trial/staff-3.png" class="mb-3 img-fluid w-100 img-border" alt="Dokodemo-Kerja Version 2.0.0"/>
 										</div>
@@ -360,7 +352,7 @@ $page = 'demo';
 										<div class="col-md-6">
 											<h2 class="tab-content-title content-section-title">2. Layar Login</h2>
 											<div class="trial-tab-content">
-												<p class="mb-0">Login dengan Company Code, Email dan Password yang sudah terdaftar, kemudian tekan tombol Login.</p>
+												<p class="mb-0">Login dengan Company Code (DKDM), E-mail dan Password yang sudah didaftarkan di website demo Admin, kemudian tekan tombol Login.</p>
 											</div>
 											<div class="text-center">
 												<img src="/img/trial/mobile-3.png" class="mb-3 img-fluid img-border mobile-screenshot" alt="Dokodemo-Kerja Login Page"/>
@@ -368,7 +360,10 @@ $page = 'demo';
 										</div>
 										<div class="col-md-6">
 											<h2 class="tab-content-title content-section-title">3. Pilih Task</h2>
-											<p class="trial-tab-content">User diminta untuk memilih Task <br class="d-none d-md-block"><br class="d-none d-md-block"><br class="d-none d-md-block"><br class="d-none d-md-block d-lg-none"></p>
+											<p class="trial-tab-content">User diminta untuk memilih Task 
+											<br class="d-none d-md-block"><br class="d-none d-md-block">
+											<br class="d-none d-md-block"><br class="d-none d-md-block">
+											<br class="d-none d-md-block d-lg-none"><br class="d-none d-md-block d-lg-none"></p>
 											<div class="text-center">
 												<img src="/img/trial/mobile-4.png" class="mb-3 img-fluid img-border mobile-screenshot" alt="Dokodemo-Kerja Task Selection"/>
 											</div>
