@@ -397,17 +397,6 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                 <div class="col-md-12">
                     <div class="row">
                         <div class="col-md-4">
-                            <a href="/ind/case-study/case-2" class="case-study__card-wrapper">
-                                <div class="case-study__card">
-                                    <img class="card__img" src="/img/case-study/case-2.png" alt="Computer placed on a table in a dimly lit room" >
-                                    <h4 class="card__title">Cerita Dokodemo-Kerja 2</h4>
-                                    <p class="card__news">
-                                        Perusahaan Pengembangan Sistem, PT. B
-                                    </p>
-                                </div>
-                            </a>
-                        </div>
-                        <div class="col-md-4">
                             <a href="/ind/case-study/case-3" class="case-study__card-wrapper">
                                 <div class="case-study__card">
                                     <img class="card__img" src="/img/case-study/case-3.png" alt="Computer chip with a flashing LED light" >
@@ -425,6 +414,17 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                                     <h4 class="card__title">Cerita Dokodemo-Kerja 4</h4>
                                     <p class="card__news">
                                         PT. LOGIQUE Digital Indonesia
+                                    </p>
+                                </div>
+                            </a>
+                        </div>
+                        <div class="col-md-4">
+                            <a href="/ind/case-study/case-5" class="case-study__card-wrapper">
+                                <div class="case-study__card">
+                                    <img class="card__img" src="/img/case-study/dokodemo-story-5.jpg" alt="A Logique Employee" style="object-position: top;">
+                                    <h4 class="card__title">Cerita Dokodemo-Kerja 5</h4>
+                                    <p class="card__news">
+                                    Mengapa Memilih Dokodemo-Kerja Saat Memberlakukan Work From Home? #NewNormal
                                     </p>
                                 </div>
                             </a>

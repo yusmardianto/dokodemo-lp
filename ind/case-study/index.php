@@ -129,6 +129,18 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                         </div>
                     </a>
                 </div>
+                <div class="col-md-4">
+                    <a href="/ind/case-study/case-5" class="case-study__card-wrapper">
+                        <div class="case-study__card">
+                            <img class="card__img" src="/img/case-study/dokodemo-story-5.jpg" alt="A Logique Employee">
+                            <h2 class="card__headline">Cerita Dokodemo-Kerja 4</h2>
+                            <h4 class="card__title">Mengapa Memilih Dokodemo-Kerja Saat Memberlakukan Work From Home? #NewNormal</h4>
+                            <p class="card__text">
+                            Bergejolaknya wabah virus corona di Indonesia membuat banyak perusahaan untuk memberlakukan sistem work from home (WFH). Tidak semua perusahaan memiliki persiapan untuk menerapkan WFH secara cepat dan efektif. Alhasil, cara yang paling aman dan logis yaitu dengan mengadopsi berbagai teknologi.
+                            </p>
+                        </div>
+                    </a>
+                </div>
             </div>
         </div>
     </section>

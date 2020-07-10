@@ -128,6 +128,18 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                         </div>
                     </a>
                 </div>
+                <div class="col-md-4">
+                    <a href="/case-study/case-5" class="case-study__card-wrapper">
+                        <div class="case-study__card">
+                            <img class="card__img" src="/img/case-study/dokodemo-story-5.jpg" alt="A Logique Employee">
+                            <h2 class="card__headline">Dokodemo-Kerja Story 5</h2>
+                            <h4 class="card__title">Reasons to choose Dokodemo-Kerja when Working from Home?</h4>
+                            <p class="card__text">
+                                The coronavirus outbreak in Indonesia has led many companies to implement a work from home (WFH) policy. Not all companies have the necessary preparation to implement WFH quickly and effectively. The safest and most logical way is to adopt various technologies to aid the transition.
+                            </p>
+                        </div>
+                    </a>
+                </div>
             </div>
         </div>
     </section>
