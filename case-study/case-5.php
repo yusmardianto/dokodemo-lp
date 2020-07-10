@@ -169,18 +169,13 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                                     <h5>HashMicro</h5>
                                     <p>The product developed by HashMicro, EQUIP has been used by several large companies in Indonesia. EQUIP offers cloud-based features as follows:</p>
                                     <ul>
-                                        <li>Discipline Management</li>
                                         <li>Attendance Management</li>
                                         <li>Human Resource Planning</li>
                                         <li>Overtime Salary & Wage Calculation</li>
                                         <li>Employee Performance & Appreciation Indicators</li>
                                         <li>Leave Management</li>
                                         <li>Expenditure calculation</li>
-                                        <li>Management assessment of employees</li>
-                                        <li>Management Substitution of work time</li>
                                         <li>Management Training</li>
-                                        <li>Automatic Commission Calculation</li>
-                                        <li>Smart Dashboard</li>
                                     </ul>
                                     <p>HashMicro also offers unlimited licenses so that it can be accessed as much as possible without additional costs to the user. The EQUIP HR software can also be integrated with other modules according to the company's requirements.</p>
                                 </li>

@@ -168,25 +168,17 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                                     <h5>HashMicro</h5>
                                     <p>Produk yang dikembangkan oleh HashMicro, EQUIP sudah digunakan oleh beberapa perusahaan besar di Indonesia seperti The <i>Face Shop, Trans Corp</i> dan lainnya. EQUIP menawarkan fitur-fitur berbasis <i>cloud</i> seperti dibawah ini:</p>
                                     <ul>
-                                        <li>Manajemen Kedisiplinan</li>
                                         <li>Manajemen Kehadiran</li>
                                         <li>Perencanaan Sumber Daya Manusia</li>
                                         <li>Perhitungan Gaji & Upah Lembur</li>
                                         <li>Indikator Performa & Penghargaan Kayrawan</li>
                                         <li>Manajemen Cuti</li>
                                         <li>Perhitungan pengeluaran</li>
-                                        <li>Manajemen penilian karyawan</li>
-                                        <li>Manajemen Pergantian waktu kerja</li>
                                         <li>Manajemen Pelatihan</li>
-                                        <li>Perhitungan Komisi Otomatis</li>
-                                        <li><i>Dashboard</i> Pintar</li>
                                     </ul>
                                     <p>Selain deretan fitur-fitur tersebut, HashMicro juga menawarkan lisensi tidak terbatas sehingga dapat diakses sebanyak mungkin tanpa biaya tambahan oleh pengguna. HR <i>software</i> EQUIP juga bisa terintegrasi dengan modul-modul lainnya sesuai dengan kebutuhan perusahaan karena sistemnnya dikembangkan secara kostumisasi dan <i>in-house</i>.</p>
                                 </li>
                             </ol>
-
-                            <h5><b>Mengapa Dokodemo-Kerja?</b></h5>
-                            <p>Mengapa Anda harus memilih Dokodemo-Kerja? Sesuai dengan fitur-fitur yang telah dijelaskan sebelumnya, Dokodemo-Kerja memiliki fitur “Screen Capture” yang akan memudahkan para Manager atau Supervisor untuk memantau karyawannya saat bekerja dari rumah. Selain itu, Dokodemo-Kerja juga memiliki sistem “Start” dan “Stop” tanpa harus clock-in dan clock-out menggunakan time-card­ seperti HR Tools lainnya. Dokodemo-Kerja juga menjadi salah satu HR Tools termurah dibandingkan tools lainnya.</p>
                         </section>  
                     </div>
                 </div>
