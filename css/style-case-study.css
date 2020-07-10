@@ -128,6 +128,19 @@ body {
     padding-left: .5rem;
     margin-left: 3rem;
 }
+
+.story-5__list > li {
+    margin-bottom: 2rem;
+}
+
+.story-5__list h5 {
+    font-weight: bold;
+}
+
+.story-5__list ul {
+    list-style: disc;
+    margin-bottom: 1rem;
+}
 /* end case study section */
 
 .btn-see-more, .btn-see-more:hover {
