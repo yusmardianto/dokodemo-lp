@@ -102,16 +102,6 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
             </div>
         </div>
     </section>
-    <section class="hide-button-on-mobile">
-        <span id="popup-text">
-            <div class="speech-bubble">
-                Hubungi kami melalui Whatsapp
-            </div>
-        </span>
-        <a href="https://api.whatsapp.com/send?phone=62811870321&text=Halo, saya ingin bertanya tentang software Dokodemo-Kerja" target="_blank" rel="noopener noreferrer" aria-label="whatsapp link">
-            <img src="../img/whatsapp.svg" id="fixedbutton" alt=""/>
-        </a>
-    </section>
     <!-- <section id="benefits" class="benefits-features">
         <h2 class="section-title pb-4">FITUR DAN KEUNTUNGAN</h2>
         <div class="container pt-4">
@@ -238,9 +228,6 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
             </div>
         </div>
     </section>
-    <!-- req online meeting popup -->
-    <?php include '../component/online-meeting.php' ?>
-    <!-- end of req online meeting popup -->
     <section class="employee-benefits">
         <div class="container">
             <h2 class="text-center fs-30">EMPLOYEES</h2>

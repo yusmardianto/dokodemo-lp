@@ -28,7 +28,6 @@
                         <li><a href="/ind/contact-us">Contact Us</a></li>
                         <li><a href="/ind/price#FAQ">FAQ</a></li>
                         <li><a href="/ind/subscribe">Subscribing Procedure</a></li>
-                        <li><a data-toggle="collapse" href="#collapseExample">Setup Online Meeting</a></li>
                         <li><a href="/ind/terms">Terms and Condition</a></li>
                         <li><a href="/ind/privacy">Privacy Policy</a></li>
                     </ul>

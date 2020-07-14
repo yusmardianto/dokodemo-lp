@@ -28,7 +28,6 @@
                         <li><a href="/contact-us">問い合わせ</a></li>
                         <li><a href="/jpn/price#FAQ">よくある質問</a></li>
                         <li><a href="/subscribe">Subscribing Procedure</a></li>
-                        <li><a data-toggle="collapse" href="#collapseExample">Setup Online Meeting</a></li>
                         <li><a href="/terms">Terms and Condition</a></li>
                         <li><a href="/privacy">Privacy Policy</a></li>
                     </ul>
