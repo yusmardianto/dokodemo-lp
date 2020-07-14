@@ -48,7 +48,7 @@
                         <li>
                             <span class="footer-contact-item">
                                 <a href="tel:02122708935">
-                                    <img src="/img/call.png" class="footer-icon" alt="">
+                                    <img src="../img/call.png" class="footer-icon" alt="">
                                     <span>(021) 22708935/36</span>
                                 </a>
                             </span>
@@ -56,7 +56,7 @@
                         <li class="text-nowrap">
                             <span class="footer-contact-item">
                                 <a href="mailto:sales@dokodemo-kerja.com">
-                                    <img src="/img/mail.png" class="footer-icon" alt="">
+                                    <img src="../img/mail.png" class="footer-icon" alt="">
                                     <span>sales@dokodemo-kerja.com</span>
                                 </a>
                             </span>
@@ -64,7 +64,7 @@
                         <li>
                             <span class="footer-contact-item">
                                 <a href="https://api.whatsapp.com/send?phone=62811870321" target="_blank" rel="noopener noreferrer">
-                                    <img src="/img/whatsapp.png" class="footer-icon" alt="">
+                                    <img src="../img/whatsapp.png" class="footer-icon" alt="">
                                     <span>0811-870-321</span>
                                 </a>
                             </span>
