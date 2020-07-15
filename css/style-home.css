@@ -1145,4 +1145,11 @@ body {
     min-height: 240px;
   }
 }
+
+@media (max-width: 767.98px) {
+  .apps-launch {
+    padding-top: 40px;
+    padding-bottom: 40px;
+  }
+}
 /* end apps launch */

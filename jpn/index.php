@@ -182,7 +182,7 @@
             <div class="row align-items-center">
                 <div class="offset-md-1 col-md-5">
                     <div class="text-center">
-                        <h4 class="fs-18 mt-5 mt-sm-0" style="font-weight: 600;">Now Released!!!</h4>
+                        <h4 class="fs-18" style="font-weight: 600;">Now Released!!!</h4>
                         <h2 class="apps-launch__title">DOKODEMO-KERJA</h2>
                         <h4 class="apps-launch__sub-title">Mobile App</h4>
                         <div class="form-row">

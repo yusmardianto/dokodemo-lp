@@ -27,6 +27,11 @@
   display: flex;
   align-items: center;
 }
+
+.nav-item .nav-link {
+  text-align: center;
+}
+
 .navbar .nav-item:hover,
 .navbar .nav-item.active {
   background: linear-gradient(#ffca13,#ffca13) bottom/ 35% 2px no-repeat;
