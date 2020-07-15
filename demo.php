@@ -278,7 +278,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 										<div class="col-md-6">
 											<div class="trial-tab-content">
 												<p class="mb-0">
-													There’s also today’s and week’s total hours writen on homepage and,
+													There’s also today’s and week’s total hours written on homepage and,
 												</p>
 												<div class="trial-tab-content__list">
 													<span style="color: #098AE4"><strong>Blue</strong></span>
