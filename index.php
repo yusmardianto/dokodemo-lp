@@ -28,6 +28,7 @@
     <link href="/fonts/font-awesome/css/font-awesome.min.css" rel="stylesheet">
     <link rel="shortcut icon" type="image/x-icon" href="favicon.ico">
     <title>Remote Working Management Tool | Dokodemo-Kerja</title>
+    <script src="https://www.googleoptimize.com/optimize.js?id=OPT-P232K37"></script>
     <!-- Google Tag Manager -->
     <script>
     (function(w, d, s, l, i) {

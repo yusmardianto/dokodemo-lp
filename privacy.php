@@ -23,6 +23,7 @@
   <link rel="stylesheet" href="/css/style-subscribe.css" />
   <link rel="shortcut icon" type="image/x-icon" href="favicon.ico">
   <title>Privacy Policy Dokodemo-Kerja</title>
+    <script src="https://www.googleoptimize.com/optimize.js?id=OPT-P232K37"></script>
   <!-- Google Tag Manager -->
   <script>
   (function(w, d, s, l, i) {
