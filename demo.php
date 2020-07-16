@@ -105,13 +105,13 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 					<h3 class="download-title hidden-xs">Install demo application from the links below:</h3>
 					<div class="row">
 						<div class="col-md-4">
-							<a target="_blank" href="https://drive.google.com/file/d/19e2Mdv1ev8twsOV_ZYXMmgHkTPfKa5sC/view?usp=sharing" class="btn btn-download bold uppercase hidden-xs" id="btn-download-windows"><i class="fa fa-download icon-download"></i>Windows</a>
+							<a target="_blank" href="https://drive.google.com/file/d/18ZUmxIFhUxRESeFTYbcHVQRtWi--qBIM/view?usp=sharing" class="btn btn-download bold hidden-xs" id="btn-download-windows"><i class="fa fa-download icon-download"></i>Windows</a>
 						</div>
 						<div class="col-md-4">
-							<a target="_blank" href="https://drive.google.com/open?id=1UgpsJ3_3tmzdvESSF9hmTczLWAlAEzUE" class="btn btn-download bold uppercase hidden-xs" id="btn-download-ios"><i class="fa fa-download icon-download"></i>IOS</a>
+							<a target="_blank" href="https://drive.google.com/file/d/1GukieIxu7c2GZimddqd1X5KTtReS80nG/view?usp=sharing" class="btn btn-download bold hidden-xs" id="btn-download-ios"><i class="fa fa-download icon-download"></i>Mac OS</a>
 						</div>
 						<div class="col-md-4">
-							<a target="_blank" href="https://drive.google.com/open?id=1PjZ9cwUU1dOCiS_kIx-cGC5UNxpSseta" class="btn btn-download bold uppercase hidden-xs" id="btn-download-linux"><i class="fa fa-download icon-download"></i>Linux</a>
+							<a target="_blank" href="https://drive.google.com/file/d/1AhIhlocfOUcNJ_9RCKEdmpu99sH5lTms/view?usp=sharing" class="btn btn-download bold hidden-xs" id="btn-download-linux"><i class="fa fa-download icon-download"></i>Linux</a>
 						</div>
 					</div>
 					<div class="row">
@@ -121,7 +121,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 							</a>
 						</div> -->
 						<div class="offset-md-4 col-md-4">
-							<a href="https://play.google.com/store/apps/details?id=com.dokodemomobile">
+							<a target="_blank" href="https://play.google.com/store/apps/details?id=com.dokodemomobile" id="btn-download-android">
 								<img class="img-fluid mobile-apps__icon" src="/img/trial/google-play.png" alt="">
 							</a>
 						</div>
