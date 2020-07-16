@@ -9,11 +9,11 @@
     <meta name="keywords" content="dokodemo, dokodemo-kerja, dokodemo case, dokodemo story, team leaders tool, tool for managers, manage employees, working in teams, remote working strategies, remote work tool, HR tool, logique">
     <meta name="author" content="PT. LOGIQUE Digital Indonesia">
 	<meta name="google-site-verification" content="Xc9SFJQZdKYLsrWvrxEjLLTA-nyrnNPQTXQoMxs4gKI" />
-    <meta property="og:title" content="Remote Work Management | Dokodemo-Kerja Case Study #1">
+    <meta property="og:title" content="Dokodemo-Kerja Case Study #1 | Remote Work Tracking Tool">
     <meta property="og:type" content="website">
     <meta property="og:site_name" content="Dokodemo-Kerja">
     <meta property="og:url" content="https://dokodemo-kerja.com">
-    <meta property="og:image" content="/img/dokodemo-og.jpg">
+    <meta property="og:image" content="https://dokodemo-kerja.com/img/og-img/ case-study.jpg">
     <meta property="og:description" content="Dokodemo-Kerja Case Study looks at implementing remote work strategies into Logique, using the HR tool for managers & team leaders.">
     <link rel="stylesheet" href="/css/bootstrap.min.css" />
     <link href="/fonts/font-awesome/css/font-awesome.min.css" rel="stylesheet">

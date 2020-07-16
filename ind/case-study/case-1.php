@@ -13,7 +13,7 @@
     <meta property="og:type" content="website">
     <meta property="og:site_name" content="Dokodemo-Kerja">
     <meta property="og:url" content="https://dokodemo-kerja.com">
-    <meta property="og:image" content="/img/dokodemo-og.jpg">
+    <meta property="og:image" content="https://dokodemo-kerja.com/img/og-img/ case-study.jpg">
     <meta property="og:description" content="Studi kasus No.1 untuk penggunaan Dokodemo-Kerja, perkenalan mengenai proses pengembangan alat ini. Dokodemo-Kerja, alat manajemen kerja jarak jauh yang mencatat jam kerja aktual karyawan, melacak tempat mereka bekerja dengan GPS, dan memungkinkan gaya kerja yang fleksibel dan produktifitas yang tinggi.">
     <link rel="stylesheet" href="/css/bootstrap.min.css" />
     <link href="/fonts/font-awesome/css/font-awesome.min.css" rel="stylesheet">

@@ -9,12 +9,12 @@
     <meta name="keywords" content="dokodemo, dokodemo-kerja, dokodemo case, dokodemo story, accounting firm tool,  logique digital Indonesia, THR, employee monitoring, HR management, management tool, HR department">
     <meta name="author" content="PT. LOGIQUE Digital Indonesia">
 	<meta name="google-site-verification" content="Xc9SFJQZdKYLsrWvrxEjLLTA-nyrnNPQTXQoMxs4gKI" />
-    <meta property="og:title" content="Remote Work Management | Dokodemo-Kerja Case Study #3">
+    <meta property="og:title" content="Dokodemo-Kerja Case Study #3 | Remote Work Tracking Tool">
     <meta property="og:type" content="website">
     <meta property="og:site_name" content="Dokodemo-Kerja">
     <meta property="og:url" content="https://dokodemo-kerja.com">
-    <meta property="og:image" content="/img/dokodemo-og.jpg">
-    <meta property="og:description" content="Dokodemo-Kerja Case Study looks at implementing the employee monitoring, remote management tool developed by Logique in an Accounting firm. ">
+    <meta property="og:image" content="https://dokodemo-kerja.com/img/og-img/ case-study.jpg">
+    <meta property="og:description" content="Dokodemo-Kerja is an employee monitoring tool for managers, used as an attendance tracking software for employee management, with a focus on (but not limited to) Remote Workers & System Development Companies.">
     <link rel="stylesheet" href="/css/bootstrap.min.css" />
     <link href="/fonts/font-awesome/css/font-awesome.min.css" rel="stylesheet">
     <link rel="stylesheet" href="/css/slick.css" />

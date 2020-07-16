@@ -24,15 +24,14 @@
   <meta name="keywords" content="dokodemo, dokodemo-kerja, enterprise program, monitoring program, reporting tool, Buy Light Plan, dokodemo email, dokodemo help, dokodemo contact, dokodemo sales, dokodemo marketing, request training, know your employee, startup tool, logique contact person, dokodemo contact person, what is dokodemo, what is remote working">
   <meta name="author" content="PT. LOGIQUE Digital Indonesia">
   <meta name="google-site-verification" content="Xc9SFJQZdKYLsrWvrxEjLLTA-nyrnNPQTXQoMxs4gKI" />
-	<meta property="og:title" content="Contact Dokodemo-Kerja | Maximize Productivity in a Month">
-    <meta property="og:type" content="website">
-    <meta property="og:site_name" content="Dokodemo-Kerja">
-    <meta property="og:url" content="https://dokodemo-kerja.com">
-    <meta property="og:image" content="/img/dokodemo-og.jpg">
-    <meta property="og:description" content="Contact Us to receive further information about Dokodemo-Kerja, a monitoring and reporting tool made for remote working purposes.">
-
+  <meta property="og:title" content="Contact Dokodemo-Kerja | Maximize Office Productivity">
+  <meta property="og:type" content="website">
+  <meta property="og:site_name" content="Dokodemo-Kerja">
+  <meta property="og:url" content="https://dokodemo-kerja.com">
+  <meta property="og:image" content="https://dokodemo-kerja.com/img/og-img/ contact-us.jpg">
+  <meta property="og:description" content="Contact Us to receive further information about Dokodemo-Kerja, a Time Tracking Tool with Screen Monitoring Features, made for employee management & remote working purposes.">
   <link rel="stylesheet" href="/css/bootstrap.min.css" />
-    <link href="/fonts/font-awesome/css/font-awesome.min.css" rel="stylesheet">
+  <link href="/fonts/font-awesome/css/font-awesome.min.css" rel="stylesheet">
   <link href="/fonts/font-awesome/css/font-awesome.min.css" rel="stylesheet">
   <link rel="stylesheet" href="/css/header-footer.css" />
   <link rel="stylesheet" href="/css/style.css" />

@@ -8,11 +8,11 @@
     <meta name="description" itemprop="Subscription procedures for using services provided by Logique Digital Indonesia includes agreements & consultations and purchase orders.">
     <meta name="keywords" content="Dokodemo-Kerja, Agreement & Consultation, Purchase Order, invoice, Terms of Payment, Direct Cal, Subscribing Procedure, installation process, get in touch, dokodemo whatsapp, custom features, vat, total cost">
     <meta name="google-site-verification" content="Xc9SFJQZdKYLsrWvrxEjLLTA-nyrnNPQTXQoMxs4gKI" />
-    <meta property="og:title" content="Dokodemo-Kerja: Subscribing Procedure ">
+    <meta property="og:title" content="Dokodemo-Kerja: Subscribing Procedure">
     <meta property="og:type" content="website">
     <meta property="og:site_name" content="Dokodemo-Kerja">
     <meta property="og:url" content="https://dokodemo-kerja.com">
-    <meta property="og:image" content="/img/dokodemo-og.jpg">
+    <meta property="og:image" content="https://dokodemo-kerja.com/img/og-img/ subscribe.jpg">
     <meta property="og:description" content="Subscription procedures for using services provided by Logique Digital Indonesia includes agreements & consultations and purchase orders.">
     <link rel="stylesheet" href="/css/bootstrap.min.css" />
     <link href="/fonts/font-awesome/css/font-awesome.min.css" rel="stylesheet">
