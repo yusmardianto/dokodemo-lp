@@ -15,7 +15,7 @@
     <meta property="og:type" content="website">
     <meta property="og:site_name" content="Dokodemo-Kerja">
     <meta property="og:url" content="https://dokodemo-kerja.com">
-    <meta property="og:image" content="/img/dokodemo-og.jpg">
+    <meta property="og:image" content="http://dokodemo-kerja.static.logique.co.id/img/og-img/index.jpg">
     <meta property="og:description"
         content="Work anywhere with Dokodemo-Kerja, a management tool with a time tracker that monitors productivity through taking low resolution screenshots.">
     <link rel="stylesheet" href="/css/bootstrap.min.css" />
