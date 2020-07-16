@@ -19,6 +19,7 @@
     <link href="/fonts/font-awesome/css/font-awesome.min.css" rel="stylesheet">
     <link rel="shortcut icon" type="image/x-icon" href="favicon.ico">
     <title>Dokodemo-Kerja | Home</title>
+    <script src="https://www.googleoptimize.com/optimize.js?id=OPT-P232K37"></script>
     <!-- Google Tag Manager -->
     <script>
         (function(w, d, s, l, i) {
@@ -82,16 +83,6 @@
     <!-- End Google Tag Manager (noscript) -->
     <section class="top-section">
         <?php include './header.php' ?>
-    </section>
-    <section class="hide-button-on-mobile">
-        <span id="popup-text">
-            <div class="speech-bubble">
-                Chat us on Whatsapp
-            </div>
-        </span>
-        <a href="https://api.whatsapp.com/send?phone=62811870321&text=Halo, saya ingin bertanya tentang software Dokodemo-Kerja" target="_blank">
-            <img src="/img/whatsapp.svg" id="fixedbutton"/>
-        </a>
     </section>
     <section>
       <div class="container-404">

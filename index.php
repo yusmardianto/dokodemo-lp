@@ -15,7 +15,7 @@
     <meta property="og:type" content="website">
     <meta property="og:site_name" content="Dokodemo-Kerja">
     <meta property="og:url" content="https://dokodemo-kerja.com">
-    <meta property="og:image" content="/img/dokodemo-og.jpg">
+    <meta property="og:image" content="https://dokodemo-kerja.com/img/og-img/ index.jpg">
     <meta property="og:description"
         content="Work anywhere with Dokodemo-Kerja, a management tool with a time tracker that monitors productivity through taking low resolution screenshots.">
     <link rel="stylesheet" href="/css/bootstrap.min.css" />
@@ -28,6 +28,7 @@
     <link href="/fonts/font-awesome/css/font-awesome.min.css" rel="stylesheet">
     <link rel="shortcut icon" type="image/x-icon" href="favicon.ico">
     <title>Remote Working Management Tool | Dokodemo-Kerja</title>
+    <script src="https://www.googleoptimize.com/optimize.js?id=OPT-P232K37"></script>
     <!-- Google Tag Manager -->
     <script>
     (function(w, d, s, l, i) {
@@ -179,7 +180,7 @@
             <div class="row align-items-center">
                 <div class="offset-md-1 col-md-5">
                     <div class="text-center">
-                        <h4 class="fs-18 mt-5 mt-sm-0" style="font-weight: 600;">Now Released!!!</h4>
+                        <h4 class="fs-18" style="font-weight: 600;">Now Released!!!</h4>
                         <h2 class="apps-launch__title">DOKODEMO-KERJA</h2>
                         <h4 class="apps-launch__sub-title">Mobile App</h4>
                         <div class="form-row">
@@ -201,18 +202,6 @@
                 </div>
             </div>
         </div>
-    </section>
-
-    <section class="hide-button-on-mobile">
-        <span id="popup-text">
-            <div class="speech-bubble">
-                Chat us on Whatsapp
-            </div>
-        </span>
-        <a href="https://api.whatsapp.com/send?phone=62811870321&text=Halo, saya ingin bertanya tentang software Dokodemo-Kerja"
-            target="_blank" rel="noopener noreferrer" aria-label="Whatsapp Link">
-            <img src="../img/whatsapp.svg" id="fixedbutton" alt="" />
-        </a>
     </section>
 
     <section class="feature-content mt-5">
@@ -537,8 +526,6 @@
         </div>
     </section>
 
-    <!-- req online meeting popup -->
-    <?php include './component/online-meeting.php' ?>
 <?php /*   <section  class="news-list-container">
         <div class="container">
             <div class="newscontainer">

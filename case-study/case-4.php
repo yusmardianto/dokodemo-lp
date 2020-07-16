@@ -9,12 +9,12 @@
     <meta name="keywords" content="dokodemo, dokodemo-kerja, dokodemo kerja, screen monitoring, sceen monitor, monitor employee, employee monitoring, time tracker, clock in, clock in software, attendance software, attendance tool, work hour calculator,  manage employees, tool for managers, tool for hr, notification manager, productivity tool, productivity enhancer">
     <meta name="author" content="PT. LOGIQUE Digital Indonesia">
 	<meta name="google-site-verification" content="Xc9SFJQZdKYLsrWvrxEjLLTA-nyrnNPQTXQoMxs4gKI" />
-    <meta property="og:title" content="Remote Work Management | Dokodemo-Kerja Case Study #4">
+    <meta property="og:title" content="Dokodemo-Kerja Case Study #2 | Remote Work Tracking Tool">
     <meta property="og:type" content="website">
     <meta property="og:site_name" content="Dokodemo-Kerja">
     <meta property="og:url" content="https://dokodemo-kerja.com">
-    <meta property="og:image" content="/img/dokodemo-og.jpg">
-    <meta property="og:description" content="Dokodemo-Kerja Case Study: the GPS tracking Remote Work management & employee monitoring software has improved Logique’s productive employee work styles.">
+    <meta property="og:image" content="https://dokodemo-kerja.com/img/og-img/ case-study.jpg">
+    <meta property="og:description" content="Dokodemo-Kerja is an employee monitoring tool for managers, used as an attendance tracking software for employee management, with a focus on Remote Workers & System Development Companies in particular.">
     <link rel="stylesheet" href="/css/bootstrap.min.css" />
     <link href="/fonts/font-awesome/css/font-awesome.min.css" rel="stylesheet">
     <link rel="stylesheet" href="/css/slick.css" />
@@ -25,6 +25,7 @@
 
 	<link rel="shortcut icon" type="image/x-icon" href="/favicon.ico">
     <title>Remote Working Management Tool Dokodemo-Kerja, Study Case No.4 | LOGIQUE Digital Indonesia</title>
+    <script src="https://www.googleoptimize.com/optimize.js?id=OPT-P232K37"></script>
 	<!-- Google Tag Manager -->
 	<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
 	new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
@@ -102,7 +103,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                             <div class="mb-4">
                                 <h5 class="mb-1"><b>Challenges</b></h5>
                                 <p>The majority of our Jakarta staff start working from 10:00 AM, while staff in Yogyakarta work from 08:00 AM. To make this work, I have suggested that both sides start working at 10:00 AM, but the latter refused because they would rather leave early than start late.</p>
-                                <p>Another notable problem that had occured in the Jakarta office was the lack of means to maintain productivity when HR and other high ranking staff, who usually left the office at 18:00 PM, were not present. Employee productivity would decrease significantly because, while some of them would begin praying, the rest of the staff who had already finished their job would sit around eating and chatting with those who haven’t. As for those who worked from home, we wouldn’t have known. The only thing I could have done was to wait until the deadline for a project was over or there was an actual delay, after which I could review their activities and implement minor changes based on it.</p>
+                                <p>Another notable problem that had occurred in the Jakarta office was the lack of means to maintain productivity when HR and other high ranking staff, who usually left the office at 18:00 PM, were not present. Employee productivity would decrease significantly because, while some of them would begin praying, the rest of the staff who had already finished their job would sit around eating and chatting with those who haven’t. As for those who worked from home, we wouldn’t have known. The only thing I could have done was to wait until the deadline for a project was over or there was an actual delay, after which I could review their activities and implement minor changes based on it.</p>
                             </div>
         
                             <div class="mb-4">
@@ -190,19 +191,6 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
         </div>
     </section>
     <?php include "other-case.php" ?>
-    <section class="hide-button-on-mobile">
-        <span id="popup-text">
-            <div class="speech-bubble">
-                Chat us on Whatsapp
-            </div>
-        </span>
-        <a href="https://api.whatsapp.com/send?phone=62811870321&text=Halo, saya ingin bertanya tentang software Dokodemo-Kerja" target="_blank" aria-label="Whatsapp Link" rel="noopener noreferrer">
-            <img src="../img/whatsapp.svg" id="fixedbutton" alt="" />
-        </a>
-    </section>
-    <!-- req online meeting popup -->
-    <?php include '../component/online-meeting.php' ?>
-    <!-- end of req online meeting popup -->
     <?php include "../footer.php" ?>
     <script src="/js/jquery-3.4.1.min.js"></script>
     <script src="/js/bootstrap.min.js"></script>

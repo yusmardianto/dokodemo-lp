@@ -9,12 +9,12 @@
     <meta name="keywords" content="LOGIQUE Digital Indonesia, Dokodemo-Kerja, digital solutions, human resources, remote working software, remote working, remote work, reducing costs, reduce costs, Nicholas Bloom, Working from home">
     <meta name="author" content="PT. LOGIQUE Digital Indonesia">
 	<meta name="google-site-verification" content="Xc9SFJQZdKYLsrWvrxEjLLTA-nyrnNPQTXQoMxs4gKI" />
-    <meta property="og:title" content="About Dokodemo-Kerja | Cloud System for HR">
+    <meta property="og:title" content="About Dokodemo-Kerja | Remote Work Tracking Tool for HR">
     <meta property="og:type" content="website">
     <meta property="og:site_name" content="Dokodemo-Kerja">
     <meta property="og:url" content="https://dokodemo-kerja.com">
-    <meta property="og:image" content="/img/dokodemo-og.jpg">
-    <meta property="og:description" content="LOGIQUE Digital Indonesia provides digital solutions for human resources through remote working software, Dokodemo-Kerja, designed for reducing costs. ">
+    <meta property="og:image" content="https://dokodemo-kerja.com/img/og-img/ about.jpg">
+    <meta property="og:description" content="Dokodemo-Kerja is a Human Resource tool developed by PT. LOGIQUE Digital Indonesia, a company providing Digital Solutions, based in Jakarta, Indonesia. Dokodemo-Kerja was designed to promote healthier and more productive work cultures in a way that benefits both the Company and Employees alike.">
     <link rel="stylesheet" href="/css/bootstrap.min.css" />
     <link href="/fonts/font-awesome/css/font-awesome.min.css" rel="stylesheet">
     <link rel="stylesheet" href="/css/slick.css" />
@@ -23,6 +23,7 @@
     <link rel="stylesheet" href="/css/style-about.css" />
 	<link rel="shortcut icon" type="image/x-icon" href="favicon.ico">
     <title>About Dokodemo-Kerja | Cloud System for HR</title>
+    <script src="https://www.googleoptimize.com/optimize.js?id=OPT-P232K37"></script>
 	<!-- Google Tag Manager -->
 	<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
 	new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
@@ -108,16 +109,6 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
             </div>
         </div>
     </section>
-    <section class="hide-button-on-mobile">
-        <span id="popup-text">
-            <div class="speech-bubble">
-                Chat us on Whatsapp
-            </div>
-        </span>
-        <a href="https://api.whatsapp.com/send?phone=62811870321&text=Halo, saya ingin bertanya tentang software Dokodemo-Kerja" target="_blank" aria-label="Whatsapp Link" rel="noopener noreferrer">
-            <img src="../img/whatsapp.svg" id="fixedbutton" alt=""/>
-        </a>
-    </section>
     <!-- <section id="benefits" class="benefits-features">
         <h2 class="section-title pb-4">BENEFITS AND FEATURES</h2>
         <div class="container pt-4">
@@ -177,9 +168,6 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
             </div>
         </div>
     </section>
-    <!-- req online meeting popup -->
-    <?php include './component/online-meeting.php' ?>
-    <!-- end of req online meeting popup -->
     <section class="hr-manager-benefits">
         <div class="container">
             <div class="row">

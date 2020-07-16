@@ -28,6 +28,7 @@
     <link href="/fonts/font-awesome/css/font-awesome.min.css" rel="stylesheet">
     <link rel="shortcut icon" type="image/x-icon" href="favicon.ico">
     <title>リモートワークを可能にする勤務時間管理クラウドツール | ドコデモクルジャ | LOGIQUE Digital Indonesia</title>
+    <script src="https://www.googleoptimize.com/optimize.js?id=OPT-P232K37"></script>
     <!-- Google Tag Manager -->
     <script>
     (function(w, d, s, l, i) {
@@ -181,7 +182,7 @@
             <div class="row align-items-center">
                 <div class="offset-md-1 col-md-5">
                     <div class="text-center">
-                        <h4 class="fs-18 mt-5 mt-sm-0" style="font-weight: 600;">Now Released!!!</h4>
+                        <h4 class="fs-18" style="font-weight: 600;">Now Released!!!</h4>
                         <h2 class="apps-launch__title">DOKODEMO-KERJA</h2>
                         <h4 class="apps-launch__sub-title">Mobile App</h4>
                         <div class="form-row">
@@ -203,18 +204,6 @@
                 </div>
             </div>
         </div>
-    </section>
-
-    <section class="hide-button-on-mobile">
-        <span id="popup-text">
-            <div class="speech-bubble">
-                Chat us on Whatsapp
-            </div>
-        </span>
-        <a href="https://api.whatsapp.com/send?phone=62811870321&text=Halo, saya ingin bertanya tentang software Dokodemo-Kerja"
-            target="_blank" rel="noopener noreferrer" aria-label="Whatsapp Link">
-            <img src="../img/whatsapp.svg" id="fixedbutton" alt="" />
-        </a>
     </section>
 
     <section class="feature-content mt-5">
@@ -507,10 +496,6 @@
             </div>
         </div>
     </section>
-
-    <!-- req online meeting popup -->
-    <?php include '../component/online-meeting.php' ?>
-    <!-- end of req online meeting popup -->
 <?php /*   <section  class="news-list-container">
         <div class="container">
             <div class="newscontainer">

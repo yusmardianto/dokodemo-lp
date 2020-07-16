@@ -12,8 +12,8 @@
     <meta property="og:type" content="website">
     <meta property="og:site_name" content="Dokodemo-Kerja">
     <meta property="og:url" content="https://dokodemo-kerja.com">
-    <meta property="og:image" content="/img/dokodemo-og.jpg">
-    <meta property="og:description" content="Dokodemo-Kerja adalah alat management strategi HR dalam hal kerja remote dengan membuat evaluasi jadwal kerja karyawan dan mengambil screenshot. ">
+    <meta property="og:image" content="https://dokodemo-kerja.com/img/og-img/ index.jpg">
+    <meta property="og:description" content="Dokodemo-Kerja dengan secara acak menyimpan gambar layar komputer dan mencatat jam kerja, dan mengunakan fungsi GPS yang mencatat sejarah lokasi dari aplikasi handphone dapat membantu karyawan untuk mempunyai cara kerja yang lebih fleksibel.">
     <link rel="stylesheet" href="/css/bootstrap.min.css" />
     <link href="/fonts/font-awesome/css/font-awesome.min.css" rel="stylesheet">
     <link rel="stylesheet" href="/css/slick.css" />
@@ -23,6 +23,7 @@
     <link rel="stylesheet" href="/js/magnific-popup.css" />
     <link rel="shortcut icon" type="image/x-icon" href="favicon.ico">
     <title>Kerja Remote Dengan Dokodemo | Meningkatkan Efisiensi Karyawan</title>
+    <script src="https://www.googleoptimize.com/optimize.js?id=OPT-P232K37"></script>
 	<!-- Google Tag Manager -->
 	<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
 	new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
@@ -133,27 +134,12 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
         </div>
     </section>
 
-    <section class="hide-button-on-mobile">
-        <span id="popup-text">
-            <div class="speech-bubble">
-                Hubungi kami melalui Whatsapp
-            </div>
-        </span>
-        <a href="https://api.whatsapp.com/send?phone=62811870321&text=Halo, saya ingin bertanya tentang software Dokodemo-Kerja" aria-label="whatsapp link" target="_blank" rel="noopener noreferrer">
-            <img src="../img/whatsapp.svg" id="fixedbutton" alt="" />
-        </a>
-    </section>
-    
-    <!-- req online meeting popup -->
-    <?php include '../component/online-meeting.php' ?>
-    <!-- end of req online meeting popup -->
-
     <section class="apps-launch">
         <div class="container">
             <div class="row align-items-center">
                 <div class="offset-md-1 col-md-5">
                     <div class="text-center">
-                        <h4 class="fs-18 mt-5 mt-sm-0" style="font-weight: 600;">Telah Diluncurkan!!!</h4>
+                        <h4 class="fs-18" style="font-weight: 600;">Telah Diluncurkan!!!</h4>
                         <h2 class="apps-launch__title">DOKODEMO-KERJA</h2>
                         <h4 class="apps-launch__sub-title">Mobile App</h4>
                         <div class="form-row">

@@ -38,6 +38,7 @@ $page = 'demo';
 	<link rel="stylesheet" href="/css/style-trial.css" />
 	<link rel="shortcut icon" type="image/x-icon" href="favicon.ico">
 	<title>Demo Dokodemo-Kerja | Alat Pelacak Waktu Kerja</title>
+    <script src="https://www.googleoptimize.com/optimize.js?id=OPT-P232K37"></script>
 	<!-- Google Tag Manager -->
 	<script>
 		(function(w, d, s, l, i) {
@@ -465,21 +466,6 @@ $page = 'demo';
 			</div>
 		</div>
 	</section>
-
-	<section class="hide-button-on-mobile">
-        <span id="popup-text">
-            <div class="speech-bubble">
-                Hubungi kami melalui Whatsapp
-            </div>
-        </span>
-        <a href="https://api.whatsapp.com/send?phone=62811870321&text=Halo, saya ingin bertanya tentang software Dokodemo-Kerja" aria-label="whatsapp link" target="_blank" rel="noopener noreferrer">
-            <img src="../img/whatsapp.svg" id="fixedbutton" alt="" />
-        </a>
-	</section>
-	
-    <!-- req online meeting popup -->
-    <?php include '../component/online-meeting.php' ?>
-	<!-- end of req online meeting popup -->
 	
 	<?php include 'footer.php' ?>
 	<script src="/js/jquery-3.4.1.min.js"></script>

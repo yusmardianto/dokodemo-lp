@@ -23,6 +23,7 @@
     <link rel="stylesheet" href="/css/style-subscribe.css" />
   <link rel="shortcut icon" type="image/x-icon" href="favicon.ico">
     <title>Subscribe: Procedure of Dokodemo-Kerja Subscription | Remote Work Management Tool | HR Cloud System</title>
+    <script src="https://www.googleoptimize.com/optimize.js?id=OPT-P232K37"></script>
   <!-- Google Tag Manager -->
   <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
   new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
@@ -72,19 +73,6 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
         </div>
       </div>
     </section>
-    <section class="hide-button-on-mobile">
-        <span id="popup-text">
-            <div class="speech-bubble">
-                Chat us on Whatsapp
-            </div>
-        </span>
-        <a href="https://api.whatsapp.com/send?phone=62811870321&text=Halo, saya ingin bertanya tentang software Dokodemo-Kerja" target="_blank">
-            <img src="../img/whatsapp.svg" id="fixedbutton"/>
-        </a>
-    </section>
-    <!-- req online meeting popup -->
-    <?php include '../component/online-meeting.php' ?>
-    <!-- end of req online meeting popup -->
     <section class="hr-manager-benefits">
       <div class="container">
           <div class="row">

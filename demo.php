@@ -39,6 +39,7 @@
 	<link rel="stylesheet" href="/css/style-trial.css" />
 	<link rel="shortcut icon" type="image/x-icon" href="favicon.ico">
 	<title>Demo of Dokodemo-Kerja | Available in 3 Platforms</title>
+    <script src="https://www.googleoptimize.com/optimize.js?id=OPT-P232K37"></script>
 	<!-- Google Tag Manager -->
 	<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
 	new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
@@ -278,7 +279,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 										<div class="col-md-6">
 											<div class="trial-tab-content">
 												<p class="mb-0">
-													There’s also today’s and week’s total hours writen on homepage and,
+													There’s also today’s and week’s total hours written on homepage and,
 												</p>
 												<div class="trial-tab-content__list">
 													<span style="color: #098AE4"><strong>Blue</strong></span>
@@ -448,18 +449,6 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 			</div>
 		</div>
 	</section>
-    <!-- req online meeting popup -->
-    <?php include './component/online-meeting.php' ?>
-	<section class="hide-button-on-mobile">
-        <span id="popup-text" class="hide-popup-mobile">
-            <div class="speech-bubble">
-                Chat us on Whatsapp
-            </div>
-        </span>
-        <a href="https://api.whatsapp.com/send?phone=62811870321&text=Halo, saya ingin bertanya tentang software Dokodemo-Kerja" aria-label="whatsapp link" rel="noopener noreferrer" target="_blank">
-            <img src="../img/whatsapp.svg" id="fixedbutton" alt="" />
-        </a>
-    </section>
 	<?php include 'footer.php' ?>
 	<script src="/js/jquery-3.4.1.min.js"></script>
 	<script src="/js/bootstrap.min.js"></script>

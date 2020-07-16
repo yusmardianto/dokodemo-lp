@@ -9,12 +9,12 @@
     <meta name="keywords" content="Remote working software, remote working tool, remote working system, implementing remote working, remote working enabler, enabling remote working culture, remote culture, work on the road, logique, pt logique, logique digital indonesia, time tracking, time tracker, work hour tracker, work hour tracking, screenshot software enterprise">
     <meta name="author" content="PT. Logique Digital Indonesia">
   <meta name="google-site-verification" content="Xc9SFJQZdKYLsrWvrxEjLLTA-nyrnNPQTXQoMxs4gKI" />
-    <meta property="og:title" content="Terms and Conditions of Dokodemo-Kerja">
+    <meta property="og:title" content="Dokodemo-Kerja's Terms and Conditions">
     <meta property="og:type" content="website">
     <meta property="og:site_name" content="Dokodemo-Kerja">
     <meta property="og:url" content="https://dokodemo-kerja.com">
-    <meta property="og:image" content="/img/dokodemo-og.jpg">
-    <meta property="og:description" content="Logique Digital Indonesia’s terms and conditions outline the rules and regulations regarding the use of Dokodemo-kerja or the other services provided. ">
+    <meta property="og:image" content="https://dokodemo-kerja.com/img/og-img/ terms-condition.jpg">
+    <meta property="og:description" content="Logique Digital Indonesia’s terms and conditions outline the rules and regulations regarding the use of Dokodemo-kerja or the other services provided.">
     <link rel="stylesheet" href="/css/bootstrap.min.css" />
     <link href="/fonts/font-awesome/css/font-awesome.min.css" rel="stylesheet">
     <link rel="stylesheet" href="/css/slick.css" />
@@ -23,6 +23,7 @@
     <link rel="stylesheet" href="/css/style-subscribe.css" />
   <link rel="shortcut icon" type="image/x-icon" href="favicon.ico">
     <title>Terms and Conditions of Dokodemo-Kerja</title>
+    <script src="https://www.googleoptimize.com/optimize.js?id=OPT-P232K37"></script>
   <!-- Google Tag Manager -->
   <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
   new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
@@ -72,18 +73,6 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
         </div>
       </div>
     </section>
-    <section class="hide-button-on-mobile">
-        <span id="popup-text">
-            <div class="speech-bubble">
-                Chat us on Whatsapp
-            </div>
-        </span>
-        <a href="https://api.whatsapp.com/send?phone=62811870321&text=Halo, saya ingin bertanya tentang software Dokodemo-Kerja" target="_blank">
-            <img src="../img/whatsapp.svg" id="fixedbutton"/>
-        </a>
-    </section>
-    <!-- req online meeting popup -->
-    <?php include './component/online-meeting.php' ?>
     <section class="hr-manager-benefits">
       <div class="container">
         <div class="row">

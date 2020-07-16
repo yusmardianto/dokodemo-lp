@@ -23,6 +23,7 @@
     <link rel="stylesheet" href="/css/style-about.css" />
     <link rel="shortcut icon" type="image/x-icon" href="favicon.ico">
     <title>Tentang Dokodemo-Kerja | Cloud System for HR</title>
+    <script src="https://www.googleoptimize.com/optimize.js?id=OPT-P232K37"></script>
 	<!-- Google Tag Manager -->
 	<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
 	new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
@@ -101,16 +102,6 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                 </div>
             </div>
         </div>
-    </section>
-    <section class="hide-button-on-mobile">
-        <span id="popup-text">
-            <div class="speech-bubble">
-                Hubungi kami melalui Whatsapp
-            </div>
-        </span>
-        <a href="https://api.whatsapp.com/send?phone=62811870321&text=Halo, saya ingin bertanya tentang software Dokodemo-Kerja" target="_blank" rel="noopener noreferrer" aria-label="whatsapp link">
-            <img src="../img/whatsapp.svg" id="fixedbutton" alt=""/>
-        </a>
     </section>
     <!-- <section id="benefits" class="benefits-features">
         <h2 class="section-title pb-4">FITUR DAN KEUNTUNGAN</h2>
@@ -238,9 +229,6 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
             </div>
         </div>
     </section>
-    <!-- req online meeting popup -->
-    <?php include '../component/online-meeting.php' ?>
-    <!-- end of req online meeting popup -->
     <section class="employee-benefits">
         <div class="container">
             <h2 class="text-center fs-30">EMPLOYEES</h2>

@@ -28,6 +28,7 @@
 
 	<link rel="shortcut icon" type="image/x-icon" href="/favicon.ico">
     <title>リモートワーク管理ツールDokodemo-Kerjaの活用事例 | LOGIQUE Digital インドネシア</title>
+    <script src="https://www.googleoptimize.com/optimize.js?id=OPT-P232K37"></script>
 	<!-- Google Tag Manager -->
 	<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
 	new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
@@ -133,19 +134,6 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
             </div>
         </div>
     </section>
-    <section class="hide-button-on-mobile">
-        <span id="popup-text">
-            <div class="speech-bubble">
-                Chat us on Whatsapp
-            </div>
-        </span>
-        <a href="https://api.whatsapp.com/send?phone=62811870321&text=Halo, saya ingin bertanya tentang software Dokodemo-Kerja" target="_blank" aria-label="Whatsapp Link" rel="noopener noreferrer">
-            <img src="../img/whatsapp.svg" id="fixedbutton" alt="" />
-        </a>
-    </section>
-    <!-- req online meeting popup -->
-    <?php include '../../component/online-meeting.php' ?>
-    <!-- end of req online meeting popup -->
     <?php include "../footer.php" ?>
     <script src="/js/jquery-3.4.1.min.js"></script>
     <script src="/js/bootstrap.min.js"></script>

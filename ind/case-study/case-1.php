@@ -13,7 +13,7 @@
     <meta property="og:type" content="website">
     <meta property="og:site_name" content="Dokodemo-Kerja">
     <meta property="og:url" content="https://dokodemo-kerja.com">
-    <meta property="og:image" content="/img/dokodemo-og.jpg">
+    <meta property="og:image" content="https://dokodemo-kerja.com/img/og-img/ case-study.jpg">
     <meta property="og:description" content="Studi kasus No.1 untuk penggunaan Dokodemo-Kerja, perkenalan mengenai proses pengembangan alat ini. Dokodemo-Kerja, alat manajemen kerja jarak jauh yang mencatat jam kerja aktual karyawan, melacak tempat mereka bekerja dengan GPS, dan memungkinkan gaya kerja yang fleksibel dan produktifitas yang tinggi.">
     <link rel="stylesheet" href="/css/bootstrap.min.css" />
     <link href="/fonts/font-awesome/css/font-awesome.min.css" rel="stylesheet">
@@ -25,6 +25,7 @@
 
 	<link rel="shortcut icon" type="image/x-icon" href="/favicon.ico">
     <title>Manajemen Kerja Remote | Dokodemo-Kerja Kasus #1</title>
+    <script src="https://www.googleoptimize.com/optimize.js?id=OPT-P232K37"></script>
 	<!-- Google Tag Manager -->
 	<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
 	new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
@@ -140,20 +141,6 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
         </div>
     </section>
     <?php include "other-case.php" ?>
-    <section class="hide-button-on-mobile">
-        <span id="popup-text">
-            <div class="speech-bubble">
-                Chat us on Whatsapp
-            </div>
-        </span>
-        <a href="https://api.whatsapp.com/send?phone=62811870321&text=Halo, saya ingin bertanya tentang software Dokodemo-Kerja" target="_blank" aria-label="Whatsapp Link" rel="noopener noreferrer">
-            <img src="../img/whatsapp.svg" id="fixedbutton" alt="" />
-        </a>
-    </section>
-
-    <!-- req online meeting popup -->
-    <?php include '../../component/online-meeting.php' ?>
-    <!-- end of req online meeting popup -->
     
     <?php include "../footer.php" ?>
     <script src="/js/jquery-3.4.1.min.js"></script>

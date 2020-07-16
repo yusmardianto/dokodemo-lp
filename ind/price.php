@@ -13,8 +13,8 @@
     <meta property="og:type" content="website">
     <meta property="og:site_name" content="Dokodemo-Kerja">
     <meta property="og:url" content="https://dokodemo-kerja.com">
-    <meta property="og:image" content="/img/dokodemo-og.jpg">
-    <meta property="og:description" content="Dokodemo-Kerja: alat manajemen efektif & solusi murah untuk menghemat uang pada karyawan.">
+    <meta property="og:image" content="https://dokodemo-kerja.com/img/og-img/ price.jpg">
+    <meta property="og:description" content="Dokodemo-Kerja: alat manajemen efektif & solusi murah untuk menghemat uang pada karyawan. Dokodemo-Kerja dibuat untuk perusahaan-perusahaan yang menggunakan sistem kerja remote dan independen agar dapat meningkatkan produktifitas karyawannya.">
     <link rel="stylesheet" href="/css/bootstrap.min.css" />
     <link href="/fonts/font-awesome/css/font-awesome.min.css" rel="stylesheet">
     <link rel="stylesheet" href="/css/slick.css" />
@@ -23,6 +23,7 @@
     <link rel="stylesheet" href="/css/style-pricing.css" />
     <link rel="shortcut icon" type="image/x-icon" href="favicon.ico">
     <title>Harga Dokodemo-Kerja | Monitor Kinerja mulai dari 1 juta</title>
+    <script src="https://www.googleoptimize.com/optimize.js?id=OPT-P232K37"></script>
 	<!-- Google Tag Manager -->
 	<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
 	new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
@@ -132,20 +133,6 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
             </div>
         </div>
     </section>
-    <section class="hide-button-on-mobile">
-        <span id="popup-text">
-            <div class="speech-bubble">
-                Chat us on Whatsapp
-            </div>
-        </span>
-        <a href="https://api.whatsapp.com/send?phone=62811870321&text=Halo, saya ingin bertanya tentang software Dokodemo-Kerja" target="_blank" rel="noopener noreferrer" aria-label="whatsapp link">
-            <img src="../img/whatsapp.svg" id="fixedbutton" alt="" />
-        </a>
-    </section>
-
-    <!-- req online meeting popup -->
-    <?php include '../component/online-meeting.php' ?>
-    <!-- end req online meeting popup -->
 
     <section class="mb-5">
         <div class="container">

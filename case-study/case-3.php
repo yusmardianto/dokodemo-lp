@@ -9,12 +9,12 @@
     <meta name="keywords" content="dokodemo, dokodemo-kerja, dokodemo case, dokodemo story, accounting firm tool,  logique digital Indonesia, THR, employee monitoring, HR management, management tool, HR department">
     <meta name="author" content="PT. LOGIQUE Digital Indonesia">
 	<meta name="google-site-verification" content="Xc9SFJQZdKYLsrWvrxEjLLTA-nyrnNPQTXQoMxs4gKI" />
-    <meta property="og:title" content="Remote Work Management | Dokodemo-Kerja Case Study #3">
+    <meta property="og:title" content="Dokodemo-Kerja Case Study #3 | Remote Work Tracking Tool">
     <meta property="og:type" content="website">
     <meta property="og:site_name" content="Dokodemo-Kerja">
     <meta property="og:url" content="https://dokodemo-kerja.com">
-    <meta property="og:image" content="/img/dokodemo-og.jpg">
-    <meta property="og:description" content="Dokodemo-Kerja Case Study looks at implementing the employee monitoring, remote management tool developed by Logique in an Accounting firm. ">
+    <meta property="og:image" content="https://dokodemo-kerja.com/img/og-img/ case-study.jpg">
+    <meta property="og:description" content="Dokodemo-Kerja is an employee monitoring tool for managers, used as an attendance tracking software for employee management, with a focus on (but not limited to) Remote Workers & System Development Companies.">
     <link rel="stylesheet" href="/css/bootstrap.min.css" />
     <link href="/fonts/font-awesome/css/font-awesome.min.css" rel="stylesheet">
     <link rel="stylesheet" href="/css/slick.css" />
@@ -25,6 +25,7 @@
 
 	<link rel="shortcut icon" type="image/x-icon" href="/favicon.ico">
     <title>Remote Work Management | Dokodemo-Kerja Case Study #3</title>
+    <script src="https://www.googleoptimize.com/optimize.js?id=OPT-P232K37"></script>
 	<!-- Google Tag Manager -->
 	<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
 	new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
@@ -131,19 +132,6 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
         </div>
     </section>
     <?php include "other-case.php" ?>
-    <section class="hide-button-on-mobile">
-        <span id="popup-text">
-            <div class="speech-bubble">
-                Chat us on Whatsapp
-            </div>
-        </span>
-        <a href="https://api.whatsapp.com/send?phone=62811870321&text=Halo, saya ingin bertanya tentang software Dokodemo-Kerja" target="_blank" aria-label="Whatsapp Link" rel="noopener noreferrer">
-            <img src="../img/whatsapp.svg" id="fixedbutton" alt="" />
-        </a>
-    </section>
-    <!-- req online meeting popup -->
-    <?php include '../component/online-meeting.php' ?>
-    <!-- end of req online meeting popup -->
     <?php include "../footer.php" ?>
     <script src="/js/jquery-3.4.1.min.js"></script>
     <script src="/js/bootstrap.min.js"></script>

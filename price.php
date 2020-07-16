@@ -9,12 +9,12 @@
     <meta name="keywords" content="Dokodemo-Kerja, remote working strategies, employee productivity, employee performance, management software, enterprise software, cheap enterprise software, overtime work, human resource tool, cheap management tool">
     <meta name="author" content="PT. LOGIQUE Digital Indonesia">
 	<meta name="google-site-verification" content="Xc9SFJQZdKYLsrWvrxEjLLTA-nyrnNPQTXQoMxs4gKI" />
-    <meta property="og:title" content="Price of Dokodemo-Kerja | Employees' Screen Monitoring Tool">
+    <meta property="og:title" content="Dokodemo-Kerja | Price | Save Money & Start Working Remotely ">
     <meta property="og:type" content="website">
     <meta property="og:site_name" content="Dokodemo-Kerja">
     <meta property="og:url" content="https://dokodemo-kerja.com">
-    <meta property="og:image" content="/img/dokodemo-og.jpg">
-    <meta property="og:description" content="Dokodemo-Kerja is an effective people management tool & a cheap solution to save money on employees. Determine who deserves that bonus, and promotion.">
+    <meta property="og:image" content="https://dokodemo-kerja.com/img/og-img/ price.jpg">
+    <meta property="og:description" content="Save Money with Dokodemo-Kerja, a system made for companies that seek to employ remote workers and/or freelancers in order to increase their overall productivity, offering  a flexible option of work within their company.">
     <link rel="stylesheet" href="/css/bootstrap.min.css" />
     <link href="/fonts/font-awesome/css/font-awesome.min.css" rel="stylesheet">
     <link rel="stylesheet" href="/css/slick.css" />
@@ -23,6 +23,7 @@
     <link rel="stylesheet" href="/css/style-pricing.css" />
 	<link rel="shortcut icon" type="image/x-icon" href="favicon.ico">
     <title>Price of Dokodemo-Kerja | Employees' Screen Monitoring Tool</title>
+    <script src="https://www.googleoptimize.com/optimize.js?id=OPT-P232K37"></script>
 	<!-- Google Tag Manager -->
 	<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
 	new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
@@ -109,18 +110,6 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
             </div>
         </div>
     </section>
-    <section class="hide-button-on-mobile">
-        <span id="popup-text">
-            <div class="speech-bubble">
-                Chat us on Whatsapp
-            </div>
-        </span>
-        <a href="https://api.whatsapp.com/send?phone=62811870321&text=Halo, saya ingin bertanya tentang software Dokodemo-Kerja" target="_blank" rel="noopener noreferrer" aria-label="whatsapp linkbtnReqOnlineMeeting">
-            <img src="../img/whatsapp.svg" id="fixedbutton" alt="" />
-        </a>
-    </section>
-    <!-- req online meeting popup -->
-    <?php include './component/online-meeting.php' ?>
     <section class="mb-5">
         <div class="container">
             <div class="row">
