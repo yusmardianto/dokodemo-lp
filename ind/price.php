@@ -9,7 +9,7 @@
     <meta name="keywords" content="platform manajer pengguna yang murah, perangkat lunak manajemen orang murah, perangkat lunak manajemen orang, dokodemo, dokodemo-kerja, perangkat lunak perusahaan, perangkat lunak perusahaan murah, alat manajemen orang yang efektif, alat manajemen murah, Kerja Remote, kerja independen">
     <meta name="author" content="PT. Logique Digital Indonesia">
 	<meta name="google-site-verification" content="Xc9SFJQZdKYLsrWvrxEjLLTA-nyrnNPQTXQoMxs4gKI" />
-    <meta property="og:title" content="Harga Dokodemo-Kerja | Monitor Kinerja mulai dari 1 juta">
+    <meta property="og:title" content="Harga Dokodemo-Kerja | Software Monitor Kinerja mulai dari 1 juta">
     <meta property="og:type" content="website">
     <meta property="og:site_name" content="Dokodemo-Kerja">
     <meta property="og:url" content="https://dokodemo-kerja.com">
@@ -22,7 +22,7 @@
     <link rel="stylesheet" href="/css/header-footer.css" />
     <link rel="stylesheet" href="/css/style-pricing.css" />
     <link rel="shortcut icon" type="image/x-icon" href="favicon.ico">
-    <title>Harga Dokodemo-Kerja | Monitor Kinerja mulai dari 1 juta</title>
+    <title>Harga Dokodemo-Kerja | Software Monitor Kinerja mulai dari 1 juta</title>
     <script src="https://www.googleoptimize.com/optimize.js?id=OPT-P232K37"></script>
 	<!-- Google Tag Manager -->
 	<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':

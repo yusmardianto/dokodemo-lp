@@ -5,7 +5,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=5.0" />
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
-	<meta name="description" itemprop="description" content="Dokodemo-Kerja adalah alat management strategi HR dalam hal kerja remote dengan membuat evaluasi jadwal kerja karyawan dan mengambil screenshot. ">
+	<meta name="description" itemprop="description" content="Dokodemo-Kerja adalah alat management strategi HR untuk meningkatkan efisiensi karyawan melalui evaluasi jadwal kerja karyawan.">
     <meta name="keywords" content="Dokodemo-Kerja, strategi HR, kerja remote, jam kerja karyawan, jadwal kerja">
 	<meta name="google-site-verification" content="Xc9SFJQZdKYLsrWvrxEjLLTA-nyrnNPQTXQoMxs4gKI" />
     <meta property="og:title" content="Kerja Remote Dengan Dokodemo | Meningkatkan Efisiensi Karyawan">

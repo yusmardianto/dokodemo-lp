@@ -5,7 +5,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=5.0" />
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
-	<meta name="description" itemprop="description" content="Dokodemo-Kerja is an effective people management tool & a cheap solution to save money on employees. Determine who deserves that bonus, and promotion.">
+	<meta name="description" itemprop="description" content="Dokodemo-Kerja is an effective people management tool with screen monitoring abilities; a cheap solution to save money on employees. Determine who deserves a bonus & promotion.">
     <meta name="keywords" content="Dokodemo-Kerja, remote working strategies, employee productivity, employee performance, management software, enterprise software, cheap enterprise software, overtime work, human resource tool, cheap management tool">
     <meta name="author" content="PT. LOGIQUE Digital Indonesia">
 	<meta name="google-site-verification" content="Xc9SFJQZdKYLsrWvrxEjLLTA-nyrnNPQTXQoMxs4gKI" />

@@ -9,7 +9,7 @@
     <meta name="keywords" content="dokodemo, dokodemo-kerja, Dokodemo kasus, Digital Logique Indonesia, sistem kerja jarak jauh, system kerja remote, perusahan pengembangan system, monitor karyawan, alat kerja remote, alat untuk manajer, perusahaan akuntansi">
     <meta name="author" content="PT. LOGIQUE Digital Indonesia">
 	<meta name="google-site-verification" content="Xc9SFJQZdKYLsrWvrxEjLLTA-nyrnNPQTXQoMxs4gKI" />
-    <meta property="og:title" content="Studi Kasus Dokodemo-Kerja | Alat Pemantau Waktu Kerja">
+    <meta property="og:title" content="Studi Kasus Dokodemo-Kerja | Cara Menggunakan Software Kerja Jarak Jauh">
     <meta property="og:type" content="website">
     <meta property="og:site_name" content="Dokodemo-Kerja">
     <meta property="og:url" content="https://dokodemo-kerja.com">
@@ -25,7 +25,7 @@
     <link rel="stylesheet" href="/js/magnific-popup.css" />
 
 	<link rel="shortcut icon" type="image/x-icon" href="/favicon.ico">
-    <title>Studi Kasus Dokodemo-Kerja | Alat Pemantau Waktu Kerja</title>
+    <title>Studi Kasus Dokodemo-Kerja | Cara Menggunakan Software Kerja Jarak Jauh</title>
     <script src="https://www.googleoptimize.com/optimize.js?id=OPT-P232K37"></script>
 	<!-- Google Tag Manager -->
 	<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':

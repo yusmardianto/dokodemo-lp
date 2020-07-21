@@ -9,7 +9,7 @@
     <meta name="keywords" content="Dokodemo-Kerja, Dokodemo features, Mobile Dokodemo-Kerja, kerja yang fleksibel, Dokodemo GPS, Kerja remote , Kerja jarak jauh, Jam Kerja Karyawan, aktivitas desktop , laptop karyawan">
     <meta name="author" content="PT. LOGIQUE Digital Indonesia">
 	<meta name="google-site-verification" content="Xc9SFJQZdKYLsrWvrxEjLLTA-nyrnNPQTXQoMxs4gKI" />
-    <meta property="og:title" content="Fitur Dokodemo-Kerja | Alat Pemantau Waktu Kerja">
+    <meta property="og:title" content="Fitur Dokodemo-Kerja | Alat Pemantau Waktu Kerja untuk Sistem Kerja Jarak Jauh.">
     <meta property="og:type" content="website">
     <meta property="og:site_name" content="Dokodemo-Kerja">
     <meta property="og:url" content="https://dokodemo-kerja.com">
@@ -24,7 +24,7 @@
     <link rel="stylesheet" href="/js/magnific-popup.css" />
 
     <link rel="shortcut icon" type="image/x-icon" href="favicon.ico">
-    <title>Fitur Dokodemo-Kerja | Alat Pemantau Waktu Kerja</title>
+    <title>Fitur Dokodemo-Kerja | Alat Pemantau Waktu Kerja untuk Sistem Kerja Jarak Jauh.</title>
     <script src="https://www.googleoptimize.com/optimize.js?id=OPT-P232K37"></script>
 	<!-- Google Tag Manager -->
 	<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
