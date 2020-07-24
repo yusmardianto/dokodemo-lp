@@ -28,7 +28,7 @@
     <meta property="og:type" content="website">
     <meta property="og:site_name" content="Dokodemo-Kerja">
     <meta property="og:url" content="https://dokodemo-kerja.com">
-    <meta property="og:image" content="https://dokodemo-kerja.com/img/og-img/ contact-us.jpg">
+    <meta property="og:image" content="https://dokodemo-kerja.com/img/og-img/contact-us.jpg">
     <meta property="og:description" content="Untuk informasi lebih lanjut tentang Dokodemo-Kerja, hubungilah kami dengan mengisi formulir.">
 	<link rel="stylesheet" href="/css/bootstrap.min.css" />
 	<link href="/fonts/font-awesome/css/font-awesome.min.css" rel="stylesheet">

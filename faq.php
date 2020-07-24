@@ -13,7 +13,7 @@
     <meta property="og:type" content="website">
     <meta property="og:site_name" content="Dokodemo-Kerja">
     <meta property="og:url" content="https://dokodemo-kerja.com">
-    <meta property="og:image" content="/img/dokodemo-og.jpg">
+    <meta property="og:image" content="https://dokodemo-kerja.com/img/dokodemo-og.jpg">
     <meta property="og:description" content="Dokodemo-Kerja merupakan software atau desktop app dari LOGIQUE bagi karyawan yang kerja remote atau di luar kantor. Aplikasi ini mampu merekam dan kalkulasi jam kerja karyawan secara akurat, dilengkapi fitur screencapture otomatis. Dengan begitu, karyawan Anda menjadi lebih produktif.">
     <link rel="stylesheet" href="/css/bootstrap.min.css" />
     <link href="/fonts/font-awesome/css/font-awesome.min.css" rel="stylesheet">

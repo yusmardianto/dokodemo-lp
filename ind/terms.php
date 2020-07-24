@@ -13,7 +13,7 @@
     <meta property="og:type" content="website">
     <meta property="og:site_name" content="Dokodemo-Kerja">
     <meta property="og:url" content="https://dokodemo-kerja.com">
-    <meta property="og:image" content="https://dokodemo-kerja.com/img/og-img/ terms-condition.jpg">
+    <meta property="og:image" content="https://dokodemo-kerja.com/img/og-img/terms-condition.jpg">
     <meta property="og:description" content="Logique Digital Indonesia’s terms and conditions outline the rules and regulations regarding the use of Dokodemo-kerja or the other services provided.">
     <link rel="stylesheet" href="/css/bootstrap.min.css" />
     <link href="/fonts/font-awesome/css/font-awesome.min.css" rel="stylesheet">

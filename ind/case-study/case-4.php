@@ -13,7 +13,7 @@
     <meta property="og:type" content="website">
     <meta property="og:site_name" content="Dokodemo-Kerja">
     <meta property="og:url" content="https://dokodemo-kerja.com">
-    <meta property="og:image" content="https://dokodemo-kerja.com/img/og-img/ case-study.jpg">
+    <meta property="og:image" content="https://dokodemo-kerja.com/img/og-img/case-study.jpg">
     <meta property="og:description" content="Studi kasus Dokodemo-Kerja ke-4 meneliti efek positif dari penggunaan alat manajemen HR untuk pekerja di kantor, dan untuk pekerjaan jarak jauh.">
     <link rel="stylesheet" href="/css/bootstrap.min.css" />
     <link href="/fonts/font-awesome/css/font-awesome.min.css" rel="stylesheet">

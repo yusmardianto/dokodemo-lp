@@ -13,7 +13,7 @@
     <meta property="og:type" content="website">
     <meta property="og:site_name" content="Dokodemo-Kerja">
     <meta property="og:url" content="https://dokodemo-kerja.com">
-    <meta property="og:image" content="/img/dokodemo-og.jpg">
+    <meta property="og:image" content="https://dokodemo-kerja.com/img/dokodemo-og.jpg">
     <meta property="og:description" content="リモートワークやフレキシブルな人事規則の適用を可能にして生産性向上をもたらす勤怠管理クラウドツールDokodemo-Kerjaの料金とよくあるご質問について説明します。Dokodemo-KerjaはインドネシアのITコンサル会社LOGIQUEデジタルインドネシアが開発販売しています。">
     <link rel="stylesheet" href="/css/bootstrap.min.css" />
     <link href="/fonts/font-awesome/css/font-awesome.min.css" rel="stylesheet">

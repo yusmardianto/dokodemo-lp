@@ -13,7 +13,7 @@
     <meta property="og:type" content="website">
     <meta property="og:site_name" content="Dokodemo-Kerja">
     <meta property="og:url" content="https://dokodemo-kerja.com">
-    <meta property="og:image" content="https://dokodemo-kerja.com/img/og-img/ about.jpg">
+    <meta property="og:image" content="https://dokodemo-kerja.com/img/og-img/about.jpg">
     <meta property="og:description" content="Dokodemo-Kerja is a Human Resource tool developed by PT. LOGIQUE Digital Indonesia, a company providing Digital Solutions, based in Jakarta, Indonesia. Dokodemo-Kerja was designed to promote healthier and more productive work cultures in a way that benefits both the Company and Employees alike.">
     <link rel="stylesheet" href="/css/bootstrap.min.css" />
     <link href="/fonts/font-awesome/css/font-awesome.min.css" rel="stylesheet">
