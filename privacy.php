@@ -13,7 +13,7 @@
   <meta property="og:type" content="website">
   <meta property="og:site_name" content="Dokodemo-Kerja">
   <meta property="og:url" content="https://dokodemo-kerja.com">
-  <meta property="og:image" content="https://dokodemo-kerja.com/img/og-img/ privacy-policy.jpg">
+  <meta property="og:image" content="https://dokodemo-kerja.com/img/og-img/privacy-policy.jpg">
   <meta property="og:description" content="Logique Digital Indonesia’s privacy policy regarding Dokodemo-Kerja outlines the rules of consent about processing personal information.">
   <link rel="stylesheet" href="/css/bootstrap.min.css" />
   <link href="/fonts/font-awesome/css/font-awesome.min.css" rel="stylesheet">

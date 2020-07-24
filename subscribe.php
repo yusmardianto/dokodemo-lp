@@ -12,7 +12,7 @@
     <meta property="og:type" content="website">
     <meta property="og:site_name" content="Dokodemo-Kerja">
     <meta property="og:url" content="https://dokodemo-kerja.com">
-    <meta property="og:image" content="https://dokodemo-kerja.com/img/og-img/ subscribe.jpg">
+    <meta property="og:image" content="https://dokodemo-kerja.com/img/og-img/subscribe.jpg">
     <meta property="og:description" content="Subscription procedures for using services provided by Logique Digital Indonesia includes agreements & consultations and purchase orders.">
     <link rel="stylesheet" href="/css/bootstrap.min.css" />
     <link href="/fonts/font-awesome/css/font-awesome.min.css" rel="stylesheet">

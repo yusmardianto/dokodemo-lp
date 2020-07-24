@@ -13,7 +13,7 @@
     <meta property="og:type" content="website">
     <meta property="og:site_name" content="Dokodemo-Kerja">
     <meta property="og:url" content="https://dokodemo-kerja.com">
-    <meta property="og:image" content="https://dokodemo-kerja.com/img/og-img/ price.jpg">
+    <meta property="og:image" content="https://dokodemo-kerja.com/img/og-img/price.jpg">
     <meta property="og:description" content="Dokodemo-Kerja: alat manajemen efektif & solusi murah untuk menghemat uang pada karyawan. Dokodemo-Kerja dibuat untuk perusahaan-perusahaan yang menggunakan sistem kerja remote dan independen agar dapat meningkatkan produktifitas karyawannya.">
     <link rel="stylesheet" href="/css/bootstrap.min.css" />
     <link href="/fonts/font-awesome/css/font-awesome.min.css" rel="stylesheet">

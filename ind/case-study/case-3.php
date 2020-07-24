@@ -13,7 +13,7 @@
     <meta property="og:type" content="website">
     <meta property="og:site_name" content="Dokodemo-Kerja">
     <meta property="og:url" content="https://dokodemo-kerja.com">
-    <meta property="og:image" content="https://dokodemo-kerja.com/img/og-img/ case-study.jpg">
+    <meta property="og:image" content="https://dokodemo-kerja.com/img/og-img/case-study.jpg">
     <meta property="og:description" content="Studi Kasus Dokodemo-Kerja meneliti penggunaan alat HR yang dikembangkan oleh Logique terhadap bisnis akunting, dan efek dari strategi kerja jarak jauh.">
     <link rel="stylesheet" href="/css/bootstrap.min.css" />
     <link href="/fonts/font-awesome/css/font-awesome.min.css" rel="stylesheet">

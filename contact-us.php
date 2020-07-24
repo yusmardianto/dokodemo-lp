@@ -28,7 +28,7 @@
   <meta property="og:type" content="website">
   <meta property="og:site_name" content="Dokodemo-Kerja">
   <meta property="og:url" content="https://dokodemo-kerja.com">
-  <meta property="og:image" content="https://dokodemo-kerja.com/img/og-img/ contact-us.jpg">
+  <meta property="og:image" content="https://dokodemo-kerja.com/img/og-img/contact-us.jpg">
   <meta property="og:description" content="Contact Us to receive further information about Dokodemo-Kerja, a Time Tracking Tool with Screen Monitoring Features, made for employee management & remote working purposes.">
   <link rel="stylesheet" href="/css/bootstrap.min.css" />
   <link href="/fonts/font-awesome/css/font-awesome.min.css" rel="stylesheet">
