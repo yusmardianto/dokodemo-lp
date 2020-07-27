@@ -127,10 +127,10 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
         <div class="row">
           <div class="col-lg-12">
             <h3 class="subscribe-footer-title">Decrease Expenses, Earn More</h3>
-            <p class="subscribe-foooter-content">
+            <!-- <p class="subscribe-foooter-content">
               Set up an online meeting with us to see how it works!
             </p>
-            <button class="btn btn-primary" data-toggle="collapse" href="#collapseExample">Get in Touch</button>
+            <button class="btn btn-primary" data-toggle="collapse" href="#collapseExample">Get in Touch</button> -->
           </div>
         </div>
       </div>
