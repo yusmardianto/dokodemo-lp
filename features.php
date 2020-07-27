@@ -149,11 +149,6 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                     </a>
                 </div>
             </div>
-            <div class="row mt-3">
-                <div class="col-md-12 text-center">
-                    <button class="btn btn-primary" data-toggle="collapse" href="#collapseExample">Setup Online Meeting</button>
-                </div>
-            </div>
         </div>
     </section>
     <?php include "footer.php" ?>
