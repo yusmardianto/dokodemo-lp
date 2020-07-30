@@ -30,6 +30,7 @@
   <meta property="og:url" content="https://dokodemo-kerja.com">
   <meta property="og:image" content="https://dokodemo-kerja.com/img/og-img/contact-us.jpg">
   <meta property="og:description" content="Contact Us to receive further information about Dokodemo-Kerja, a Time Tracking Tool with Screen Monitoring Features, made for employee management & remote working purposes.">
+  <link rel="canonical" href="https://dokodemo-kerja.com/contact-us">
   <link rel="stylesheet" href="/css/bootstrap.min.css" />
   <link href="/fonts/font-awesome/css/font-awesome.min.css" rel="stylesheet">
   <link href="/fonts/font-awesome/css/font-awesome.min.css" rel="stylesheet">

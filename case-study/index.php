@@ -15,6 +15,7 @@
     <meta property="og:url" content="https://dokodemo-kerja.com">
     <meta property="og:image" content="https://dokodemo-kerja.com/img/og-img/case-study.jpg">
     <meta property="og:description" content="Dokodemo Kerja is a remote work management tool that records employee work hours, both within and outside of the office. It can track their location via GPS, enabling flexible work.">
+    <link rel="canonical" href="https://dokodemo-kerja.com/case-study/">
     <link rel="stylesheet" href="/css/bootstrap.min.css" />
     <link href="/fonts/font-awesome/css/font-awesome.min.css" rel="stylesheet">
     <link rel="stylesheet" href="/css/slick.css" />

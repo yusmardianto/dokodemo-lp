@@ -15,6 +15,7 @@
     <meta property="og:url" content="https://dokodemo-kerja.com">
     <meta property="og:image" content="https://dokodemo-kerja.com/img/dokodemo-og.jpg">
     <meta property="og:description" content="Dokodemo-Kerja menyajikan berbagai studi kasus tentang penggunaan alat kerja jarak jauh untuk HR & manajer di dalam Logique dan perusahaan lain.">
+    <link rel="canonical" href="https://dokodemo-kerja.com/ind/case-study/">
     <link rel="stylesheet" href="/css/bootstrap.min.css" />
     <link href="/fonts/font-awesome/css/font-awesome.min.css" rel="stylesheet">
     <link rel="stylesheet" href="/css/slick.css" />
@@ -23,8 +24,7 @@
     <link rel="stylesheet" href="/css/style-case-study.css" />
     <link rel="stylesheet" href="/css/style-features.css" />
     <link rel="stylesheet" href="/js/magnific-popup.css" />
-
-	<link rel="shortcut icon" type="image/x-icon" href="/favicon.ico">
+	<link rel="shortcut icon" type="image/x-icon" href="/favicon.ico" />
     <title>Studi Kasus Dokodemo-Kerja | Cara Menggunakan Software Kerja Jarak Jauh</title>
     <script src="https://www.googleoptimize.com/optimize.js?id=OPT-P232K37"></script>
 	<!-- Google Tag Manager -->

@@ -18,6 +18,7 @@
     <meta property="og:image" content="https://dokodemo-kerja.com/img/og-img/index.jpg">
     <meta property="og:description"
         content="Work anywhere with Dokodemo-Kerja, a management tool with a time tracker that monitors productivity through taking low resolution screenshots.">
+    <link rel="canonical" href="https://dokodemo-kerja.com/">
     <link rel="stylesheet" href="/css/bootstrap.min.css" />
     <link href="/fonts/font-awesome/css/font-awesome.min.css" rel="stylesheet">
     <link rel="stylesheet" href="/css/slick.css" />
