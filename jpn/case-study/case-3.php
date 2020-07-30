@@ -18,6 +18,7 @@
     <meta property="og:image" content="https://dokodemo-kerja.com/img/dokodemo-og.jpg">
     <meta property="og:description"
         content="Dokodemo-Kerjaの活用事例その３。会計事務所での活用事例を紹介します。従業員の実勤務時間を記録、GPSで働いた場所をトラッキング、フレキシブルで生産性の高い働き方を可能とするリモートワーク管理ツールDokodemo-Kerja（ドコデモクルジャ）のケーススタディ。">
+    <link rel="canonical" href="https://dokodemo-kerja.com/jpn/case-study/case-3">
     <link rel="stylesheet" href="/css/bootstrap.min.css" />
     <link href="/fonts/font-awesome/css/font-awesome.min.css" rel="stylesheet">
     <link rel="stylesheet" href="/css/slick.css" />

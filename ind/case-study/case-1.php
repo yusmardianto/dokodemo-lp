@@ -15,6 +15,7 @@
     <meta property="og:url" content="https://dokodemo-kerja.com">
     <meta property="og:image" content="https://dokodemo-kerja.com/img/og-img/case-study.jpg">
     <meta property="og:description" content="Studi kasus No.1 untuk penggunaan Dokodemo-Kerja, perkenalan mengenai proses pengembangan alat ini. Dokodemo-Kerja, alat manajemen kerja jarak jauh yang mencatat jam kerja aktual karyawan, melacak tempat mereka bekerja dengan GPS, dan memungkinkan gaya kerja yang fleksibel dan produktifitas yang tinggi.">
+    <link rel="canonical" href="https://dokodemo-kerja.com/ind/case-study/case-1">
     <link rel="stylesheet" href="/css/bootstrap.min.css" />
     <link href="/fonts/font-awesome/css/font-awesome.min.css" rel="stylesheet">
     <link rel="stylesheet" href="/css/slick.css" />
@@ -22,7 +23,6 @@
     <link rel="stylesheet" href="/css/header-footer.css" />
     <link rel="stylesheet" href="/css/style-case-study.css" />
     <link rel="stylesheet" href="/js/magnific-popup.css" />
-
 	<link rel="shortcut icon" type="image/x-icon" href="/favicon.ico">
     <title>Manajemen Kerja Remote | Dokodemo-Kerja Kasus #1</title>
     <script src="https://www.googleoptimize.com/optimize.js?id=OPT-P232K37"></script>
