@@ -134,10 +134,10 @@ $page = 'demo';
 						</div>
 					</div>
 					<div class="row">
-						<!-- <div class="offset-md-3 col-md-3">
-							<a target="_blank" href="#" class="mobile-apps__icon mobile-apps__icon--ios" id="btn-download-android-id">
+						<div class="offset-md-3 col-md-3">
+							<a target="_blank" href="#" class="mobile-apps__icon mobile-apps__icon--ios" id="btn-download-ios-id">
 							</a>
-						</div> -->
+						</div>
 						<div class="offset-md-4 col-md-4">
 							<a target="_blank" href="https://play.google.com/store/apps/details?id=com.dokodemomobile" class="mobile-apps__icon mobile-apps__icon--android" id="btn-download-android-id"></a>
 						</div>

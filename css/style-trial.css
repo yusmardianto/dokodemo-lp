@@ -83,25 +83,6 @@
   font-size: 18px;
 }
 
-.mobile-apps__icon {
-  display: block;
-  height: 50px;
-  width: 100%;
-  max-width: 170px;
-  margin: auto;
-  background-size: contain;
-  background-repeat: no-repeat;
-  background-position: center;
-}
-
-.mobile-apps__icon.mobile-apps__icon--android {
-  background-image: url('/img/trial/google-play.png');
-}
-
-.mobile-apps__icon.mobile-apps__icon--ios {
-  background-image: url('/img/trial/app-store.png');
-}
-
 .tab-content {
   padding: 20px;
   padding-right: calc(1.4rem + 20px);
