@@ -332,7 +332,7 @@ $page = 'demo';
 								<div class="pl-4 mb-5">
 									<div class="row">
 										<div class="col-md-6">
-											<p class="trial-tab-content">Cari aplikasi "Dokodemo Mobile" di Play Store, dan tekan "Install"</p>
+											<p class="trial-tab-content">Cari aplikasi "Dokodemo Mobile" di Play Store / App Store, dan tekan "Install"</p>
 											<div class="text-center">
 												<img src="/img/trial/mobile-1.png" class="mb-3 img-fluid mobile-screenshot img-border" alt="Download Dokodemo-Kerja from the Google Play Store"/>
 											</div>
