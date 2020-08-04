@@ -135,7 +135,7 @@ $page = 'demo';
 					</div>
 					<div class="row">
 						<div class="offset-md-3 col-md-3">
-							<a target="_blank" href="#" class="mobile-apps__icon mobile-apps__icon--ios" id="btn-download-ios-id">
+							<a target="_blank" href="https://apps.apple.com/id/app/dokodemo-kerja/id1506859201" class="mobile-apps__icon mobile-apps__icon--ios" id="btn-download-ios-id">
 							</a>
 						</div>
 						<div class="offset-md-4 col-md-4">
