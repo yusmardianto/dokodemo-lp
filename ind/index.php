@@ -20,6 +20,7 @@
     <link rel="stylesheet" href="/css/slick.css" />
     <link rel="stylesheet" href="/css/slick-theme.css" />
     <link rel="stylesheet" href="/css/header-footer.css" />
+    <link rel="stylesheet" href="/css/style.css" />
     <link rel="stylesheet" href="/css/style-home.css" />
     <link rel="stylesheet" href="/js/magnific-popup.css" />
     <link rel="shortcut icon" type="image/x-icon" href="favicon.ico">
@@ -144,15 +145,11 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                         <h2 class="apps-launch__title">DOKODEMO-KERJA</h2>
                         <h4 class="apps-launch__sub-title">Mobile App</h4>
                         <div class="form-row">
-                            <!-- <div class="offset-2 col-4">
-                                <a href="#">
-                                    <img class="img-fluid apps-launch__icon" src="/img/trial/app-store.png" alt="">
-                                </a>
-                            </div> -->
-                            <div class="offset-4 col-4">
-                                <a href="https://play.google.com/store/apps/details?id=com.dokodemomobile">
-                                    <img class="img-fluid apps-launch__icon" src="/img/trial/google-play.png" alt="">
-                                </a>
+                            <div class="offset-2 col-4">
+                                <a href="https://apps.apple.com/id/app/dokodemo-kerja/id1506859201" class="mobile-apps__icon mobile-apps__icon--ios" id="btn_demo_ios_id"></a>
+                            </div>
+                            <div class="col-4">
+                                <a href="https://play.google.com/store/apps/details?id=com.dokodemomobile" class="mobile-apps__icon mobile-apps__icon--android" id="btn_demo_android_id"></a>
                             </div>
                         </div>
                     </div>
