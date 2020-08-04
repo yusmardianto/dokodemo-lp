@@ -255,8 +255,8 @@
                         </div>
                     </div>
                 </div>
-                <div class="offset-md-1 col-md-10 home-feature__card-wrapper --btn">
-                    <div style="flex-basis: 50%;max-width: 50%;">
+                <div class="offset-md-1 col-md-10 home-feature__card-wrapper --btn --jpn">
+                    <div>
                         <a href="/features.php">
                             <button class="btn btn-primary form-control feature-btn" style="padding: 6px 40px; width: max-content;">機能をもっと詳しくみる</button>
                             <img src="/img/home/arrow-down.svg"  width="13" alt=""/>
