@@ -20,3 +20,5 @@ User-agent: yahoo-blogs/v3.9
 Disallow:
 User-agent: *
 Disallow: /cgi-bin/
+Disallow: /dashboard
+Disallow: /ind/dashboard
