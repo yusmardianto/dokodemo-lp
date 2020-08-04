@@ -134,11 +134,11 @@ $page = 'demo';
 						</div>
 					</div>
 					<div class="row">
-						<!-- <div class="offset-md-3 col-md-3">
-							<a target="_blank" href="#" class="mobile-apps__icon mobile-apps__icon--ios" id="btn-download-android-id">
+						<div class="offset-md-2 col-md-4 mb-2 mb-sm-0">
+							<a target="_blank" href="https://apps.apple.com/id/app/dokodemo-kerja/id1506859201" class="mobile-apps__icon mobile-apps__icon--ios" id="btn-download-ios-id">
 							</a>
-						</div> -->
-						<div class="offset-md-4 col-md-4">
+						</div>
+						<div class="col-md-4">
 							<a target="_blank" href="https://play.google.com/store/apps/details?id=com.dokodemomobile" class="mobile-apps__icon mobile-apps__icon--android" id="btn-download-android-id"></a>
 						</div>
 					</div>
@@ -332,7 +332,7 @@ $page = 'demo';
 								<div class="pl-4 mb-5">
 									<div class="row">
 										<div class="col-md-6">
-											<p class="trial-tab-content">Cari aplikasi "Dokodemo Mobile" di Play Store, dan tekan "Install"</p>
+											<p class="trial-tab-content">Cari aplikasi "Dokodemo Mobile" di Play Store / App Store, dan tekan "Install"</p>
 											<div class="text-center">
 												<img src="/img/trial/mobile-1.png" class="mb-3 img-fluid mobile-screenshot img-border" alt="Download Dokodemo-Kerja from the Google Play Store"/>
 											</div>

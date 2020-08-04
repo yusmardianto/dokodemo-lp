@@ -24,6 +24,7 @@
     <link rel="stylesheet" href="/css/slick.css" />
     <link rel="stylesheet" href="/css/slick-theme.css" />
     <link rel="stylesheet" href="/css/header-footer.css" />
+    <link rel="stylesheet" href="/css/style.css" />
     <link rel="stylesheet" href="/css/style-home.css" />
     <link rel="stylesheet" href="/js/magnific-popup.css" />
     <link href="/fonts/font-awesome/css/font-awesome.min.css" rel="stylesheet">
@@ -187,15 +188,11 @@
                         <h2 class="apps-launch__title">DOKODEMO-KERJA</h2>
                         <h4 class="apps-launch__sub-title">Mobile App</h4>
                         <div class="form-row">
-                            <!-- <div class="offset-2 col-4">
-                                <a href="#">
-                                    <img class="img-fluid apps-launch__icon" src="/img/trial/app-store.png" alt="">
-                                </a>
-                            </div> -->
-                            <div class="offset-4 col-4">
-                                <a href="https://play.google.com/store/apps/details?id=com.dokodemomobile">
-                                    <img class="img-fluid apps-launch__icon" src="/img/trial/google-play.png" alt="">
-                                </a>
+                            <div class="offset-2 col-4">
+                                <a href="https://apps.apple.com/id/app/dokodemo-kerja/id1506859201" class="mobile-apps__icon mobile-apps__icon--ios" id="btn_demo_ios_jp"></a>
+                            </div>
+                            <div class="col-4">
+                                <a href="https://play.google.com/store/apps/details?id=com.dokodemomobile" class="mobile-apps__icon mobile-apps__icon--android" id="btn_demo_android_jp"></a>
                             </div>
                         </div>
                     </div>
@@ -258,8 +255,8 @@
                         </div>
                     </div>
                 </div>
-                <div class="offset-md-1 col-md-10 home-feature__card-wrapper --btn">
-                    <div style="flex-basis: 50%;max-width: 50%;">
+                <div class="offset-md-1 col-md-10 home-feature__card-wrapper --btn --jpn">
+                    <div>
                         <a href="/features.php">
                             <button class="btn btn-primary form-control feature-btn" style="padding: 6px 40px; width: max-content;">機能をもっと詳しくみる</button>
                             <img src="/img/home/arrow-down.svg"  width="13" alt=""/>

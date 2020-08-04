@@ -397,6 +397,7 @@ body {
   border-color: transparent;
   height: 62px;
   font-size: 20px;
+  padding-right: 30px;
 }
 .home-benefit__card.--btn img,
 .home-feature__card-wrapper.--btn img {
@@ -526,6 +527,20 @@ body {
   align-items: center;
   justify-content: center;
 }
+@media (max-width: 991.98px) {
+  .home-benefit__card.--btn .feature-btn,
+  .home-feature__card-wrapper.--btn .feature-btn {
+    height: auto;
+  }
+}
+@media (max-width: 767.98px) {
+  .home-benefit__card.--btn {
+    min-height: 100px;
+  }
+  .home-benefit__card.--btn > .card__content {
+    width: 100%;
+  }
+}
 .newscontainer{
   margin-bottom: 30px;
 }
@@ -607,6 +622,10 @@ body {
   .testimony-text {
     font-size: 16px;
     min-height: 360px;
+  }  
+  .home-feature__card-wrapper.--jpn > div {
+    flex-basis: 55%;
+    max-width: 55%;
   }
 }
 
@@ -704,6 +723,7 @@ body {
   .home-feature__card-wrapper {
     flex-wrap: wrap;
   }
+  .home-feature__card-wrapper.--jpn > div,
   .home-feature__card-wrapper > div {
     flex-basis: 100%;
     max-width: 100%;
@@ -1110,11 +1130,6 @@ body {
   background: #f4f4f4;
   min-height: 340px;
 }
-
-/* .apps-launch > .container {
-  background: url("/img/home/apps-launch.png") right/contain no-repeat;
-  min-height: 310px;
-} */
 
 .apps-launch .apps-launch__title {
   font-size: 30px;
