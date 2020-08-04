@@ -127,7 +127,7 @@ $page = 'demo';
 							<a target="_blank" href="https://drive.google.com/file/d/18ZUmxIFhUxRESeFTYbcHVQRtWi--qBIM/view?usp=sharing" class="btn btn-download bold hidden-xs" id="btn-download-windows-id"><i class="fa fa-download icon-download"></i>Windows</a>
 						</div>
 						<div class="col-md-4">
-							<a target="_blank" href="https://drive.google.com/file/d/1GukieIxu7c2GZimddqd1X5KTtReS80nG/view?usp=sharing" class="btn btn-download bold hidden-xs" id="btn-download-ios-id"><i class="fa fa-download icon-download"></i>Mac OS</a>
+							<a target="_blank" href="https://drive.google.com/file/d/1GukieIxu7c2GZimddqd1X5KTtReS80nG/view?usp=sharing" class="btn btn-download bold hidden-xs" id="btn_download_mac_id"><i class="fa fa-download icon-download"></i>Mac OS</a>
 						</div>
 						<div class="col-md-4">
 							<a target="_blank" href="https://drive.google.com/file/d/1AhIhlocfOUcNJ_9RCKEdmpu99sH5lTms/view?usp=sharing" class="btn btn-download bold hidden-xs" id="btn-download-linux-id"><i class="fa fa-download icon-download"></i>Linux</a>
