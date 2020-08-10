@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="45px" height="46px" viewBox="0 0 45 46" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: sketchtool 58 (101010) - https://sketch.com -->
+    <title>F4931389-7F3C-479E-A2B1-BA0B1BFEA4B7@1.00x</title>
+    <desc>Created with sketchtool.</desc>
+    <defs>
+        <rect id="path-1" x="0.842679311" y="26.9380297" width="24" height="4" rx="2"></rect>
+        <path d="M2.71469956,12.9550495 L23.0495355,1.23023908 C23.7667613,0.816695693 24.6834309,1.06287896 25.0969743,1.7801048 C25.1969308,1.95346362 25.2611662,2.14508086 25.2858932,2.34365871 L25.4010778,3.2686869 C25.5004538,4.0667584 25.1121315,4.84672282 24.4154136,5.24844156 L4.0805777,16.973252 C3.36335186,17.3867954 2.44668229,17.1406121 2.0331389,16.4233863 C1.93318238,16.2500274 1.86894698,16.0584102 1.84422003,15.8598323 L1.72903535,14.9348042 C1.62965934,14.1367327 2.01798171,13.3567682 2.71469956,12.9550495 Z" id="path-2"></path>
+        <path d="M24.2853004,49.7515584 L3.95046452,38.026748 C3.23323868,37.6132046 2.3165691,37.8593879 1.90302571,38.5766137 C1.8030692,38.7499726 1.7388338,38.9415898 1.71410685,39.1401677 L1.59892217,40.0651958 C1.49954616,40.8632673 1.88786853,41.6432318 2.58458638,42.0449505 L22.9194223,53.7697609 C23.6366481,54.1833043 24.5533177,53.937121 24.9668611,53.2198952 C25.0668176,53.0465364 25.131053,52.8549191 25.15578,52.6563413 L25.2709646,51.7313131 C25.3703407,50.9332416 24.9820183,50.1532772 24.2853004,49.7515584 Z" id="path-3"></path>
+    </defs>
+    <g id="Web" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Landing-Page-(Japanese)" transform="translate(-171.000000, -693.000000)">
+            <g id="Group-10" transform="translate(197.500000, 720.500000) scale(-1, 1) rotate(-43.000000) translate(-197.500000, -720.500000) translate(184.000000, 693.000000)">
+                <g id="Rectangle-Copy-9">
+                    <use fill="#0B5EA2" xlink:href="#path-1"></use>
+                    <use fill="#000000" xlink:href="#path-1"></use>
+                    <use fill="#FFCA13" xlink:href="#path-1"></use>
+                </g>
+                <g id="Rectangle-Copy-10">
+                    <use fill="#0B5EA2" xlink:href="#path-2"></use>
+                    <use fill="#000000" xlink:href="#path-2"></use>
+                    <use fill="#FFCA13" xlink:href="#path-2"></use>
+                </g>
+                <g id="Rectangle-Copy-11">
+                    <use fill="#0B5EA2" xlink:href="#path-3"></use>
+                    <use fill="#000000" xlink:href="#path-3"></use>
+                    <use fill="#FFCA13" xlink:href="#path-3"></use>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
