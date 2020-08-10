@@ -115,8 +115,10 @@
             <div class="row top-section__header">
                 <div class="col-md-6">
                     <div class="d-flex align-items-center justify-content-center justify-content-md-start mb-3 mb-0">
-                        <img src="/img/dokodemo.svg" width="50" class="mr-3" alt="">
-                        <img src="/img/lgq-white.png" height="20" alt="">
+                        <a href="/">
+                            <img src="/img/dokodemo.svg" width="50" class="mr-3" alt="">
+                            <img src="/img/lgq-white.png" height="20" alt="">
+                        </a>
                     </div>
                 </div>
                 <div class="col-md-6">
