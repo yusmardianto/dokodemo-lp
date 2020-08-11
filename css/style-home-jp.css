@@ -58,6 +58,7 @@
 
 /* top section */
 .top-section {
+    color: #fff;
     position: relative;
     background: url('/img/home/bg-jp.png') center bottom/cover no-repeat;
     background-image: url('/img/home/bg-jp.webp');
@@ -153,7 +154,7 @@
 .home__price .price__content .content__item .item > h5 {
     font-size: 18px;
     font-weight: bold;
-    background: linear-gradient(rgba(255, 202, 19, .5), rgba(255, 202, 19, .5)) center/100% 7px no-repeat;
+    background: linear-gradient(rgba(255, 202, 19, .3), rgba(255, 202, 19, .3)) center calc(50% - 3px)/100% 7px no-repeat;
     width: max-content;
     margin: auto;
 }
@@ -254,7 +255,6 @@
     background-position: center;
     background-size: cover;
     background-repeat: no-repeat;
-    cursor: pointer;
 }
 
 .home__link .link__item .item > .item__wrapper {
