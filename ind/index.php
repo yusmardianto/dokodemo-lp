@@ -460,19 +460,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
         </div>
 
     </section>
-    <section class="user-demo">
-        <div class="container">
-            <div class="row">
-                <div class="offset-md-2 col-md-4 pb-4 pb-md-0">
-                    <p class="fs-27 text-white text-center text-md-left header-demo-text mb-0"><strong>Coba Demo Sekarang</strong></p>
-                    <span class="d-block text-white text-center text-md-left fs-18 header-subdemo-text">*Tidak perlu Kartu Kredit</span>
-                </div>
-                <div class="col-md-4">
-                    <a href="/ind/demo" class="btn-sign-up btn-try-demo" id="btn-sign-up-id">Klik Disini</a>
-                </div>
-            </div>
-        </div>
-    </section>
+    <?php include 'component/demo-banner.php' ?>
      <section  class="news-list-container">
         <div class="container">
             <div class="newscontainer">
