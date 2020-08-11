@@ -198,9 +198,18 @@ footer {
 @media (min-width: 813px) and (max-width: 992px) {
   .footer-contact > .footer-menu-list {
     display: flex;
-    flex-direction: row;
+    /* flex-direction: row; */
     flex-grow: 1;
     justify-content: space-evenly;
+  }
+  .footer-contact > .footer-menu-list > li {
+    padding: 10px 0;
+  }
+  .footer-contact-item > a > i {
+    font-size: 40px;
+  }
+  .footer-contact-item {
+    padding: 0 !important;
   }
 }
 
