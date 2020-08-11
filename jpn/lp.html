@@ -255,104 +255,17 @@
 
     <section class="home__footer">
         <div class="container text-center">
-            &copy; <?php echo date('Y')?> LOGIQUE Digital Indonesia, All Rights Reserved
+            &copy; <span class="footer__year"></span> LOGIQUE Digital Indonesia, All Rights Reserved
         </div>
     </section>
 
 
     <script src="/js/jquery-3.4.1.min.js"></script>
     <script src="/js/bootstrap.min.js"></script>
-    <script src="/js/slick.min.js"></script>
-    <script src="/js/jquery.magnific-popup.min.js"></script>
     <script>
-    $(".screenshot-slide").slick({
-            infinite: true,
-            arrows: false,
-            autoplay: true,
-            pauseOnFocus: true,
-            slidesToShow: 3,
-            slidesToScroll: 1,
-            centerMode: true,
-            responsive: [{
-                breakpoint: 992,
-                settings: {
-                    slidesToShow: 2,
-                    slidesToScroll: 2
-                }
-            }, {
-                breakpoint: 768,
-                settings: {
-                    slidesToShow: 1,
-                    slidesToScroll: 1
-                }
-            }, ]
-        })
-    $('.testimony-slider').slick({
-        infinite: true,
-        arrows: false,
-        autoplay: true,
-        pauseOnFocus: true,
-        slidesToShow: 2.3,
-        slidesToScroll: 1,
-        centerMode: true,
-        dots: true,
-        responsive: [{
-            breakpoint: 992,
-            settings: {
-                slidesToShow: 2,
-                slidesToScroll: 2
-            }
-        }, {
-            breakpoint: 768,
-            settings: {
-                slidesToShow: 1,
-                slidesToScroll: 1
-            }
-        }, ]
-    });
-    $(function() {
-        $('.smooth').click(function() {
-            if (location.pathname.replace(/^\//, '') == this.pathname.replace(/^\//, '') && location
-                .hostname == this.hostname) {
-                var target = $(this.hash);
-                target = target.length ? target : $('[name=' + this.hash.slice(1) + ']');
-                if (target.length) {
-                    $('html, body').animate({
-                        scrollTop: target.offset().top
-                    }, 1000);
-                    return false;
-                }
-            }
+        $(function() {
+            $('.footer__year').html(new Date().getFullYear());
         });
-    });
-    </script>
-    <script>
-    $(document).ready(function() {
-        $('.zoom-gallery').magnificPopup({
-            delegate: 'a',
-            type: 'image',
-            closeOnContentClick: false,
-            closeBtnInside: false,
-            mainClass: 'mfp-with-zoom mfp-img-mobile',
-            image: {
-                verticalFit: true,
-                titleSrc: function(item) {
-                    return item.el.attr('title') + ' &middot; <a class="image-source-link" href="'+item.el.attr('data-source')+'" target="_blank" rel="noopener noreferrer">Full Image</a>';
-                }
-            },
-            gallery: {
-                enabled: false
-            },
-            zoom: {
-                enabled: true,
-                duration: 300, // don't foget to change the duration also in CSS
-                opener: function(element) {
-                    return element.find('img');
-                }
-            }
-
-        });
-    });
     </script>
     <script>
     var element = document.getElementById("popup-text");
