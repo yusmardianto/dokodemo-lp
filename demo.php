@@ -147,6 +147,13 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 							Mobile
 						</a>
 					</div>
+					<div class="installation-manual">
+						Download user manual here:
+						<a class="installation-manual__item" target="_blank" href="/pdf/user_manual_dokodemo_ver_2.1_english.pdf" download>
+							<img src="/img/trial/pdf.svg" alt="">
+							Desktop
+						</a>
+					</div>
 				</div>
 				<div class="offset-md-1 col-md-10 tab-tutor-container">
 					<nav>
@@ -288,6 +295,14 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 												<div class="trial-tab-content__list">
 													<span style="color: #E3092A"><strong>Red</strong></span>
 													<span>: for Logout</span>
+												</div>
+												<div class="trial-tab-content__list">
+													<span><strong>Today</strong></span>
+													<span>: shows today's accumulative work hours</span>
+												</div>
+												<div class="trial-tab-content__list">
+													<span><strong>Weekly</strong></span>
+													<span>: shows this week's accumulative work hours</span>
 												</div>
 											</div>
 										</div>

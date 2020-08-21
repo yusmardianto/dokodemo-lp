@@ -167,6 +167,14 @@ $page = 'demo';
 							Mobile
 						</a>
 					</div>
+
+					<div class="installation-manual">
+						Download user manual di sini:
+						<a class="installation-manual__item" target="_blank" href="/pdf/user_manual_dokodemo_ver_2.1.pdf" download>
+							<img src="/img/trial/pdf.svg" alt="">
+							Desktop
+						</a>
+					</div>
 				</div>
 				<div class="offset-md-1 col-md-10 tab-tutor-container">
 					<nav>
@@ -308,6 +316,14 @@ $page = 'demo';
 												<div class="trial-tab-content__list">
 													<span style="color: #E3092A"><strong>Merah</strong></span>
 													<span>: untuk Keluar</span>
+												</div>
+												<div class="trial-tab-content__list">
+													<span><strong>Today</strong></span>
+													<span>: menunjukkan total jam kerja pada hari ini</span>
+												</div>
+												<div class="trial-tab-content__list">
+													<span><strong>Weekly</strong></span>
+													<span>: menunjukkan total jam kerja dalam minggu ini</span>
 												</div>
 											</div>
 										</div>
