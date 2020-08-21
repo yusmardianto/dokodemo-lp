@@ -140,6 +140,7 @@
 }
 .trial-tab-content__list > span:first-child {
   flex-basis: 75px;
+  min-width: 75px;
 }
 
 .trial-contact {
