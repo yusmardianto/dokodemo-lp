@@ -13,7 +13,7 @@ $(function(){
     .on('update.countdown', function(event){
         var days = event.strftime("%D").split('');
         var hours = event.strftime("%H").split('');
-        var minutes = event.strftime("%S").split('');
+        var minutes = event.strftime("%M").split('');
 
         $(".digit-d-1").text(days[0]);
         $(".digit-d-2").text(days[1]);
