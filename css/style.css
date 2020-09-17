@@ -118,13 +118,15 @@ strong {
 }
 
 .free-seminar-section{
-  min-height: 120px;
+  min-height: 140px;
   background: url("../img/bg-countdown.png") no-repeat ;
   background-size: cover;
-  background-position: center;
+  background-position: right;
   display: flex;
   align-items: center;
   position: relative;
+  color: white;
+  padding: 10px 0;
 }
 
 .free-seminar-section .img-close-banner{
