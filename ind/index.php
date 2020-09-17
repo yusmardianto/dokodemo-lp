@@ -66,6 +66,8 @@
 height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 <!-- End Google Tag Manager (noscript) -->
     <section class="top-section">
+        <?php include '../component/seminar-banner/seminar-banner.php' ?>
+
         <?php include 'header.php' ?>
         <div class="container">
             <div class="row">
@@ -539,6 +541,10 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
     <script src="/js/bootstrap.min.js"></script>
     <script src="/js/slick.min.js"></script>
     <script src="/js/jquery.magnific-popup.min.js"></script>
+    <script src="/js/jquery.countdown.min.js"></script>
+    <script>
+        <?php include '../component/seminar-banner/seminar-banner.js'?>
+    </script>
     <script>
         $(".screenshot-slide").slick({
             infinite: true,
@@ -638,6 +644,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
         element.style.opacity = "1";
         }
     </script>
+
 </body>
 
 </html>
