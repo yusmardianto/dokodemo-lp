@@ -117,6 +117,125 @@ strong {
   letter-spacing: 1.33px;
 }
 
+.free-seminar-section{
+  min-height: 120px;
+  background: url("../img/bg-countdown.png") no-repeat ;
+  background-size: cover;
+  background-position: center;
+  display: flex;
+  align-items: center;
+  position: relative;
+}
+
+.free-seminar-section .img-close-banner{
+  cursor: pointer;
+  position: absolute;
+  top: 10px;
+  right: 10px;
+  z-index: 2;
+}
+.free-seminar-section .save-date-wrapper{
+  height: 130px;
+  position: relative;
+  width: 208px;
+}
+
+.free-seminar-section .save-date-wrapper .save-date-img{
+  height: auto;
+  width: 208px
+}
+
+.free-seminar-section .save-date-wrapper .save-date-text{
+  font-size: 22px;
+  letter-spacing: -0.22px;
+  line-height: 20px;
+  text-align: center;
+  position: absolute;
+  font-weight: bold;
+  right: 21px;
+  top: 49px;
+}
+
+.free-seminar-section .description-wrapper{
+  color: #0a5b95;
+}
+
+.free-seminar-section .description-title{
+  color: #0a5b95;
+  margin: 5px 0;
+  font-size: 20px;
+}
+.free-seminar-section .description-location,
+.free-seminar-section .date {
+  display: block;
+}
+
+.free-seminar-section .countdown-wrapper{
+  display: flex;
+  justify-content: space-around;
+}
+.free-seminar-section #countdown{
+  display: flex;
+}
+.free-seminar-section .countdown-wrapper .time-wrapper{
+  display: flex;
+  flex-direction: column;
+}
+.free-seminar-section .countdown-wrapper .time-text{
+  font-size: 12px;
+  letter-spacing: 1.5px;
+  text-align: center;
+  color: #08548e;
+}
+.free-seminar-section .countdown-wrapper .digit-format{
+  background: rgb(255, 255, 255);
+  border-radius: 11px;
+  box-shadow: inset 0px 1px 7px 0px rgba(0, 0, 0, 0.1);
+  padding: 6px 8px;
+  display: inline-block;
+  margin: 2px;
+}
+
+.free-seminar-section .countdown-wrapper .digit{
+  border-radius: 5px;
+  box-shadow: 0px 1px 5px 0px rgba(0, 0, 0, 0.18);
+  background: linear-gradient(0deg, rgb(42, 166, 255) 0%, rgb(136, 226, 242) 100%);
+  font-size: 30px;
+  font-weight: bold;
+  padding: 18px 14px 12px;
+  line-height: 1;
+  display: inline-block;
+  vertical-align: middle;
+  letter-spacing: -0.3px;
+  position: relative;
+}
+
+.free-seminar-section .countdown-wrapper .digit-hr{
+  position:absolute; 
+  width: 100%; 
+  top: 14px; 
+  left: 0;
+  border-color: rgb(46, 168, 254);
+}
+
+.free-seminar-section .countdown-wrapper .digit-text{
+  z-index: 2;
+  position: relative;
+}
+
+.free-seminar-section .btn-sign-up-free{
+  background: #ff3e1d;
+  text-align: center;
+  font-size: 16px;
+  font-weight: bold;
+  color: white;
+  padding: 9px 20px;
+  border-radius: 5px;
+  display: inline-block;
+  letter-spacing: 0px;
+  margin: 2px 0;
+}
+
 .trial-top {
   background: url(../img/trial-bg.png) no-repeat;
   background-size: cover;
@@ -428,7 +547,34 @@ strong {
   padding: 10px;
 }
 
-@media (max-width: 767px) {
+@media (max-width: 1200px){
+  .free-seminar-section{
+    background: url('../img/bg-countdown-mobile.png');
+    background-size: cover;
+    background-position: center;
+  }
+}
+
+@media (max-width: 768px) {
+  .free-seminar-section{
+    min-height: 190px;
+  }
+
+  .free-seminar-section .description-title{
+    font-size: 14px;
+    line-height: 18px;
+  }
+  .free-seminar-section .countdown-wrapper .digit{
+    padding: 10px 10px 6px;
+    font-size: 20px;
+  }
+  .free-seminar-section .countdown-wrapper .digit-hr{
+    top: 1px;
+  }
+  .free-seminar-section .btn-sign-up-free{
+    padding: 7px 20px;
+    font-size: 14px;
+  }
   .dl-guide {
     display: block;
     margin-bottom: 20px;
@@ -444,6 +590,49 @@ strong {
   }
   .trial-top .dokodemo-form {
     margin-top: 0;
+  }
+}
+
+@media (max-width: 576px){
+  .free-seminar-section .img-close-banner{
+    top: 7px;
+  }
+  .free-seminar-section .save-date-wrapper{
+    width: 116px;
+    height: auto;
+  }
+  .free-seminar-section .save-date-wrapper .save-date-img{
+    width: 116px;
+  }
+  .free-seminar-section .save-date-wrapper .save-date-text{
+    font-size: 12px;
+    line-height: 12px;
+    top: 26px;
+    right: 12px;
+  }
+  .free-seminar-section .btn-sign-up-free{
+    padding: 5px 20px;
+    font-size: 13px;
+  }
+  .free-seminar-section .description-date{
+    font-size: 14px;
+    letter-spacing: -0.14px;
+    font-weight: 600;
+  }
+  .free-seminar-section .description-location{
+    letter-spacing: -0.14px;
+    /* text-align: center; */
+  }
+  .free-seminar-section .countdown-wrapper .digit{
+    padding: 6px 7px 2px;
+    font-size: 20px;
+  }
+  .free-seminar-section .countdown-wrapper .digit-hr{
+    top: -2px;
+  }
+  .free-seminar-section .countdown-wrapper .digit-format{
+    padding: 4px 3px;
+    border-radius: 5px;
   }
 }
 
