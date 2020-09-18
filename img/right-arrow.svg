@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="27px" height="24px" viewBox="0 0 27 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: sketchtool 58 (101010) - https://sketch.com -->
+    <title>9249BD32-6F5B-4F1B-8E04-7283540426B2@1.00x</title>
+    <desc>Created with sketchtool.</desc>
+    <defs>
+        <filter x="-8.0%" y="-40.0%" width="116.0%" height="180.0%" filterUnits="objectBoundingBox" id="filter-1">
+            <feOffset dx="0" dy="2" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="3" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.173923733 0" type="matrix" in="shadowBlurOuter1" result="shadowMatrixOuter1"></feColorMatrix>
+            <feMerge>
+                <feMergeNode in="shadowMatrixOuter1"></feMergeNode>
+                <feMergeNode in="SourceGraphic"></feMergeNode>
+            </feMerge>
+        </filter>
+    </defs>
+    <g id="Dokodemo-Web-Profile" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Home-Revision" transform="translate(-1153.000000, -64.000000)" fill="#FFFFFF" fill-rule="nonzero">
+            <g id="Top---CDWeb-(Alt-1)" transform="translate(0.000000, -79.000000)">
+                <g id="Group-2-Copy" filter="url(#filter-1)" transform="translate(999.000000, 133.000000)">
+                    <g id="right-arrow-(1)" transform="translate(160.000000, 14.000000)">
+                        <path d="M14.7602427,5.59955414 L9.3432147,0.237092257 C9.18858184,0.084020474 8.982486,0 8.76273174,0 C8.54273357,0 8.33675968,0.084141193 8.18212683,0.237092257 L7.69030167,0.724072992 C7.53579076,0.876903337 7.45066952,1.08103929 7.45066952,1.29869577 C7.45066952,1.51623154 7.53579076,1.72724848 7.69030167,1.88007882 L10.8505192,5.01527384 L0.81035909,5.01527384 C0.357679941,5.01527384 0,5.36608346 0,5.81431337 L0,6.50277424 C0,6.95100415 0.357679941,7.33718446 0.81035909,7.33718446 L10.8863725,7.33718446 L7.69042362,10.4898837 C7.53591271,10.6429555 7.45079147,10.8415384 7.45079147,11.0591949 C7.45079147,11.2766099 7.53591271,11.4780901 7.69042362,11.6310411 L8.18224878,12.1164525 C8.33688163,12.2695243 8.54285552,12.3529412 8.76285369,12.3529412 C8.98260795,12.3529412 9.18870379,12.2684378 9.34333665,12.115366 L14.7603646,6.75302488 C14.9153633,6.59947022 15.0006065,6.39448923 15,6.17659131 C15.0004846,5.95796907 14.9153633,5.75286737 14.7602427,5.59955414 Z" id="Path"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
