@@ -139,7 +139,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                         </div>
                         <p class="description-title d-block d-md-none text-center"><strong>Utilizing Work-From-Home<br>Technology</strong></p>
                         <div class="text-center pl-xl-4 pt-xl-0">
-                            <a class="btn-sign-up-free" href="#">Sign Up For Free <img src="/img/right-arrow.svg"/></a>
+                            <a class="btn-sign-up-free" href="https://www.eventbrite.com/e/utilizing-work-from-home-technologies-tickets-121665226969" rel="noopener noreferrer" target="_blank">Sign Up For Free <img src="/img/right-arrow.svg"/></a>
                         </div>
                         
                     </div>
@@ -289,7 +289,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                     </div>
                     <p class="description-title d-block d-md-none text-center"><strong>Utilizing Work-From-Home<br>Technology</strong></p>
                     <div class="text-center pl-xl-4 pt-xl-0">
-                        <a class="btn-sign-up-free" href="#">Sign Up For Free <img src="/img/right-arrow.svg"/></a>
+                        <a class="btn-sign-up-free" href="https://www.eventbrite.com/e/utilizing-work-from-home-technologies-tickets-121665226969" rel="noopener noreferrer" target="_blank">Sign Up For Free <img src="/img/right-arrow.svg"/></a>
                     </div>
                     
                 </div>
