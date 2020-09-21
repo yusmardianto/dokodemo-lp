@@ -9,7 +9,7 @@ $(function(){
       $(".free-seminar-section").first().hide();
   })
 
-  $("#countdown").countdown('2020/09/30 00:00:00')
+  $("#countdown").countdown('2020/09/30 14:00:00')
     .on('update.countdown', function(event){
         var days = event.strftime("%D").split('');
         var hours = event.strftime("%H").split('');
