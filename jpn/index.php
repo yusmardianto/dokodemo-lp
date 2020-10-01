@@ -190,7 +190,7 @@
                     </div>
                     <div class="description-wrapper">
                         <small class="description-date">2 November 2020</small>
-                        <p class="description-title d-md-block d-none"><strong>Utilizing Work-From-Home Technology</strong></p>
+                        <p class="description-title d-md-block d-none"><strong>Utilizing Work from Home Technologies: Dokodemo-Kerja</strong></p>
                         <small class="description-location">Online seminar in <strong>GOOGLE MEET</strong></small>
                     </div>
                 </div>
@@ -252,7 +252,7 @@
                     </div>
                     <p class="description-title d-block d-md-none text-center"><strong>Utilizing Work-From-Home<br>Technology</strong></p>
                     <div class="text-center pl-xl-4 pt-xl-0">
-                        <a class="btn-sign-up-free" href="https://www.eventbrite.com/e/utilizing-work-from-home-technologies-tickets-121665226969" target="_blank" rel="noopener noreferrer">Sign Up For Free <img src="/img/right-arrow.svg"/></a>
+                        <a class="btn-sign-up-free" href="https://www.eventbrite.com/e/utilizing-work-from-home-technologies-dokodemo-kerja-tickets-123442109673" target="_blank" rel="noopener noreferrer">Sign Up For Free <img src="/img/right-arrow.svg"/></a>
                     </div>
                 </div>
             </div>
@@ -360,13 +360,13 @@
                         </div>
                     </a>
                 </div>
-                <!-- <div>
-                    <a href="/img/features/screen-3.jpg" data-source="/img/features/screen-3.jpg" title="Staff Management" aria-label="Staff Management">
+                <div>
+                    <a href="/img/features/home_06.png" data-source="/img/features/home_06.png" title="Daily Working Hours Bars" aria-label="Daily Working Hours Bars">
                         <div class="img-slide-screenshot--wrapper">
-                            <img src="/img/features/screen-3.jpg" class="img-slide-screenshot modal-hover-opacity" alt=""/>
+                            <img src="/img/features/home_06-com.jpg" class="img-slide-screenshot modal-hover-opacity" alt="Monthly Attendance"/>
                         </div>
                     </a>
-                </div> -->
+                </div>
             </div>
         </div>
     </section>
