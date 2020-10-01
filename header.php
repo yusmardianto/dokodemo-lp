@@ -31,6 +31,15 @@
     } 
 ?>
 
+<?php
+    ini_set('date.timezone', 'Asia/Jakarta');
+    $date_now = date("m/d/Y H:i:s", time());
+    $date_deadline = date("m/d/Y H:i:s", strtotime("11/02/2020 13:00:00"));
+    if ($date_now <= $date_deadline) {
+        include ($_SERVER['DOCUMENT_ROOT'].'/component/free-seminar-banner.php');
+    }
+?>
+
 <nav class="navbar navbar-expand-lg navbar-light">
     <div class="container">
         <a class="navbar-brand" href="/" aria-label="Back To Home">
@@ -45,11 +54,11 @@
                 <li class="nav-item <?php active('') ?>">
                     <a class="nav-link" href="/">Home</a>
                 </li>
-                <!-- <li class="nav-item <?php active('about') ?>">
+                <!-- <li class="nav-item <//?php active('about') ?>">
                     <a class="nav-link" href="/about">About Us</a>
                 </li> -->
                 <li class="nav-item <?php active('features') ?>">
-                    <a class="nav-link" href="/features">Features</a>
+                    <a class="nav-link" href="/features">Work From Home</a>
                 </li>
                 <li class="nav-item <?php active_case() ?>">
                     <a class="nav-link" href="/case-study/">Case Study</a>

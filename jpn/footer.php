@@ -14,7 +14,7 @@
                     <ul class="footer-menu-list first-list">
                         <li><a href="/jpn">ホーム</a></li>
                         <li><a href="/about">Dokodemo-Kerjaについて</a></li>
-                        <li><a href="/features">機能</a></li>
+                        <li><a href="/features">在宅勤務</a></li>
                         <li><a href="/jpn/case-study">Case Study</a></li>
                         <li><a href="/price">価格</a></li>
                         <li><a href="/demo">デモ</a></li>
