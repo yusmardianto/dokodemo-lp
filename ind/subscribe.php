@@ -20,6 +20,7 @@
     <link rel="stylesheet" href="/css/slick.css" />
     <link rel="stylesheet" href="/css/slick-theme.css" />
     <link rel="stylesheet" href="/css/header-footer.css" />
+    <link rel="stylesheet" href="/css/style.css" />
     <link rel="stylesheet" href="/css/style-subscribe.css" />
     <link rel="shortcut icon" type="image/x-icon" href="favicon.ico">
     <title>Prosedur Berlangganan Dokodemo-Kerja</title>
@@ -108,9 +109,6 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                     <p>
                       Faktur berulang akan dikirimkan kepada Anda pada awal bulan berikutnya. Anda dapat melihat faktur di dashboard admin Anda, atau dari email yang akan kami kirimkan setiap akhir bulan. 
                     </p>
-                    <p>
-                      <img src="../img/dokodemo-invoice.png" class="img-fluid img-thumbnail" alt="Dokodemo-Kerja Invoice" />
-                    </p>
                     <p>Perhatikan bahwa:</p>
                     <ol>
                       <li>
@@ -146,6 +144,8 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
     <?php include "footer.php" ?>
   <script src="/js/jquery-3.4.1.min.js"></script>
     <script src="/js/bootstrap.min.js"></script>
+    <script src="/js/jquery.countdown.min.js"></script>
+    <script src="/js/seminar-banner/seminar-banner.js"></script>
     <script>
         var element = document.getElementById("popup-text");
 

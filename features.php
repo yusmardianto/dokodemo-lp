@@ -21,6 +21,7 @@
     <link rel="stylesheet" href="/css/slick.css" />
     <link rel="stylesheet" href="/css/slick-theme.css" />
     <link rel="stylesheet" href="/css/header-footer.css" />
+    <link rel="stylesheet" href="/css/style.css" />
     <link rel="stylesheet" href="/css/style-features.css" />
     <link rel="stylesheet" href="/js/magnific-popup.css" />
 
@@ -116,7 +117,27 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                     <div class="row">
                         <div class="col-lg-6 features-item">
                             <span class="features-number">05</span>
-                            <h2 class="features-title">Employee just need to "<strong>Start</strong>" or "<strong>Stop</strong>" the application.</h2>
+                            <h2 class="features-title">Manage Attendance</h2>
+                            <p class="features-desc">Dokodemo-Kerja can be used to keep track of absence history. Additionally, late records and overtime records are also accounted for in the attendance feature.</p>
+                        </div>
+                        <div class="col-lg-6 features-item">
+                            <img src="/img/features/feature-5.jpg" class="img-slide-screenshot modal-hover-opacity" alt="Manage Attendance" />    
+                        </div>
+                    </div>
+                    <div class="row">
+                        <div class="col-lg-6 features-item">
+                            <span class="features-number">06</span>
+                            <h2 class="features-title">Manage Leaves and Day Offs</h2>
+                            <p class="features-desc">Leave or Day Off request processes can easily be streamlined. Forget about going through stacks of emails because everything will be recorded in the system.</p>
+                        </div>
+                        <div class="col-lg-6 features-item">
+                            <img src="/img/features/feature-6.jpg" class="img-slide-screenshot modal-hover-opacity" alt="Manage Leaves and Day Offs" />    
+                        </div>
+                    </div>
+                    <div class="row">
+                        <div class="col-lg-6 features-item">
+                            <span class="features-number">07</span>
+                            <h2 class="features-title">Employee just need to "<strong>Start</strong>" or "<strong>Stop</strong>" the application</h2>
                             <div class="employee-feature-list pl-0">
                                 <ul>
                                     <li>Users will be able to work anywhere, at any time.</li>
@@ -126,7 +147,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                             </div>
                         </div>
                         <div class="col-lg-6 features-item">
-                            <img src="/img/features/feature-5.png" class="img-slide-screenshot modal-hover-opacity" alt="Dokodemo-Kerja is compatible with PC, Mobile & Tablet" />    
+                            <img src="/img/features/feature-7.png" class="img-slide-screenshot modal-hover-opacity" alt="Dokodemo-Kerja is compatible with PC, Mobile & Tablet" />    
                         </div>
                     </div>
                 </div>
@@ -158,6 +179,8 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
     <script src="/js/bootstrap.min.js"></script>
     <script src="/js/slick.min.js"></script>
     <script src="/js/jquery.magnific-popup.min.js"></script>
+    <script src="/js/jquery.countdown.min.js"></script>
+    <script src="/js/seminar-banner/seminar-banner.js"></script>
 
     <script>
         $(".screenshot-slide").slick({

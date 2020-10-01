@@ -22,6 +22,7 @@
     <link rel="stylesheet" href="/css/slick-theme.css" />
     <link rel="stylesheet" href="/css/header-footer.css" />
     <link rel="stylesheet" href="/css/style-features.css" />
+    <link rel="stylesheet" href="/css/style.css" />
     <link rel="stylesheet" href="/css/style-case-study.css" />
     <link rel="stylesheet" href="/js/magnific-popup.css" />
 
@@ -189,6 +190,8 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
     <script src="/js/bootstrap.min.js"></script>
     <script src="/js/slick.min.js"></script>
     <script src="/js/jquery.magnific-popup.min.js"></script>
+    <script src="/js/jquery.countdown.min.js"></script>
+    <script src="/js/seminar-banner/seminar-banner.js"></script>
 
     <script>
         $(".screenshot-slide").slick({
