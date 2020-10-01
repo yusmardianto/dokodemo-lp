@@ -6,7 +6,7 @@ $(function(){
 
 
   $(".img-close-banner").on('click', function(){
-      $(".free-seminar-section").first().hide();
+      $(".free-seminar-section").hide();
   })
 
   $("#countdown").countdown('2020/11/2 13:00:00')
