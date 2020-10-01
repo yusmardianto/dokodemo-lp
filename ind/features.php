@@ -21,6 +21,7 @@
     <link rel="stylesheet" href="/css/slick.css" />
     <link rel="stylesheet" href="/css/slick-theme.css" />
     <link rel="stylesheet" href="/css/header-footer.css" />
+    <link rel="stylesheet" href="/css/style.css" />
     <link rel="stylesheet" href="/css/style-features.css" />
     <link rel="stylesheet" href="/js/magnific-popup.css" />
 
@@ -116,7 +117,27 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                     <div class="row">
                         <div class="col-lg-6 features-item">
                             <span class="features-number">05</span>
-                            <h2 class="features-title">Para Karyawan hanya "<strong>Memulai</strong>" atau "<strong>Menghentikan</strong>" aplikasi.</h2>
+                            <h2 class="features-title">Mengelola Attendance</h2>
+                            <p class="features-desc">Dokodemo-Kerja dapat digunakan untuk menyimpan riwayat absensi. Selain dari itu, riwayat keterlambatan serta lembur juga terhitung di dalam fitur absensi.</p>
+                        </div>
+                        <div class="col-lg-6 features-item">
+                            <img src="/img/features/feature-5.jpg" class="img-slide-screenshot modal-hover-opacity" alt="Mengelola Attendance" />    
+                        </div>
+                    </div>
+                    <div class="row">
+                        <div class="col-lg-6 features-item">
+                            <span class="features-number">06</span>
+                            <h2 class="features-title">Mengelola Cuti dan Izin</h2>
+                            <p class="features-desc">Permohonan atau pengajuan cuti dan izin dapat dilakukan dengan mudah. Tidak perlu lagi menggali setumpuk email-email karena semuanya sudah terekam di dalam sistem.</p>
+                        </div>
+                        <div class="col-lg-6 features-item">
+                            <img src="/img/features/feature-6.jpg" class="img-slide-screenshot modal-hover-opacity" alt="Mengelola Cuti dan Izin" />    
+                        </div>
+                    </div>
+                    <div class="row">
+                        <div class="col-lg-6 features-item">
+                            <span class="features-number">07</span>
+                            <h2 class="features-title">Para Karyawan hanya "<strong>Memulai</strong>" atau "<strong>Menghentikan</strong>" aplikasi</h2>
                             <div class="employee-feature-list pl-0">
                                 <ul>
                                     <li>Dengan jam kerja yang fleksibel, pengguna akan dapat bekerja di mana saja, kapan saja.</li>
@@ -126,7 +147,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                             </div>
                         </div>
                         <div class="col-lg-6 features-item">
-                            <img src="../img/features/feature-5.png" class="img-slide-screenshot modal-hover-opacity" alt="Dokodemo-Kerja is compatible with PC, Mobile & Tablet" />    
+                            <img src="../img/features/feature-7.png" class="img-slide-screenshot modal-hover-opacity" alt="Dokodemo-Kerja is compatible with PC, Mobile & Tablet" />    
                         </div>
                     </div>
                 </div>
@@ -158,6 +179,8 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
     <script src="/js/bootstrap.min.js"></script>
     <script src="/js/slick.min.js"></script>
     <script src="/js/jquery.magnific-popup.min.js"></script>
+    <script src="/js/jquery.countdown.min.js"></script>
+    <script src="/js/seminar-banner/seminar-banner.js"></script>
 
     <script>
         $(".screenshot-slide").slick({

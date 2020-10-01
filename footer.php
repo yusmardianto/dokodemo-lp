@@ -14,7 +14,7 @@
                     <ul class="footer-menu-list first-list">
                         <li><a href="/">Home</a></li>
                         <li><a href="/about">About Us</a></li>
-                        <li><a href="/features">Features</a></li>
+                        <li><a href="/features">Work From Home</a></li>
                         <li><a href="/case-study">Case Study</a></li>
                         <li><a href="/price">Price</a></li>
                         <li><a href="/demo">Demo</a></li>

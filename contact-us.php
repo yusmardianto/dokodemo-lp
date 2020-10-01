@@ -208,6 +208,8 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
     <script src="/js/bootstrap.min.js"></script>
 	<link href="https://cdnjs.cloudflare.com/ajax/libs/select2/4.0.7/css/select2.min.css" rel="stylesheet" />
 	<script src="https://cdnjs.cloudflare.com/ajax/libs/select2/4.0.7/js/select2.min.js"></script>
+    <script src="/js/jquery.countdown.min.js"></script>
+    <script src="/js/seminar-banner/seminar-banner.js"></script>
 	<script>
 
 		document.getElementById("submit-btn-en").disabled = true;
