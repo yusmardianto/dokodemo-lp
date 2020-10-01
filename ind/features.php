@@ -117,11 +117,11 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                     <div class="row">
                         <div class="col-lg-6 features-item">
                             <span class="features-number">05</span>
-                            <h2 class="features-title">Mengelola Attendance</h2>
+                            <h2 class="features-title">Mengelola Absensi</h2>
                             <p class="features-desc">Dokodemo-Kerja dapat digunakan untuk menyimpan riwayat absensi. Selain dari itu, riwayat keterlambatan serta lembur juga terhitung di dalam fitur absensi.</p>
                         </div>
                         <div class="col-lg-6 features-item">
-                            <img src="/img/features/feature-5.jpg" class="img-slide-screenshot modal-hover-opacity" alt="Mengelola Attendance" />    
+                            <img src="/img/features/feature-5.jpg" class="img-slide-screenshot modal-hover-opacity" alt="Mengelola Absensi" />    
                         </div>
                     </div>
                     <div class="row">
