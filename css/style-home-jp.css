@@ -1,0 +1,297 @@
+/* btn */
+.btn.btn--jp {
+    position: relative;
+    width: 270px;
+    height: 40px;
+    margin-left: auto;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 10px 50px 5px 20px;
+    border-radius: 5px;
+    overflow: hidden;
+    border: none;
+    box-shadow: 0px 4px 13px 0px rgba(0, 0, 0, 0.5);
+}
+
+.btn.btn--jp::before {
+    content: "";
+    position: absolute;
+    right: -15px;
+    top: 50%;
+    transform: translateY(-50%);
+    width: 50px;
+    height: 50px;
+    border-radius: 100%;
+    background-color: #fff;
+}
+
+.btn.btn--icon:after {
+    content: "";
+    position: absolute;
+    right: 8px;
+    top: 50%;
+    transform: translateY(-50%);
+    background-image: url('/img/icon/chevron-right.svg');
+    width: 13px;
+    height: 13px;
+    background-size: contain;
+    background-repeat: no-repeat;
+}
+
+.btn.btn--yellow {
+    background-color: #ffca13;
+}
+
+.btn.btn--blue {
+    color: #fff;
+    background: linear-gradient(-225deg, rgb(43, 159, 255) 0%, rgb(10, 98, 171) 100%) rgb(255, 255, 255);
+}
+
+@media (max-width: 413.98px) {
+    .btn.btn--jp {
+        width: 260px;
+        padding: 10px 50px 5px 10px;
+    }
+}
+/* end btn */
+
+/* top section */
+.top-section {
+    color: #fff;
+    position: relative;
+    background: url('/img/home/bg-jp.png') center bottom/cover no-repeat;
+    background-image: url('/img/home/bg-jp.webp');
+    padding-top: 35px;
+    padding-bottom: 120px;
+    overflow: hidden;
+}
+
+.top-section::before {
+    content: "";
+    position: absolute;
+    bottom: 0;
+    right: -35px;
+    height: 530px;
+    width: 375px;
+    background: url('/img/home/bg-jp-woman.png') center bottom/contain no-repeat;
+    background-image: url('/img/home/bg-jp-woman.webp');
+}
+
+.top-section__content h1 {
+    margin-top: 30px;
+    margin-bottom: 70px;
+    font-size: 30px;
+    line-height: 56px;
+}
+
+.top-section .content__item .item > img {
+    height: 80px;
+    margin-bottom: 30px;
+}
+
+@media (max-width: 1439.98px) {
+    .top-section {
+        padding-top: 35px;
+        padding-bottom: 120px;
+    }
+    .top-section::before {
+        content: none;
+    }
+}
+
+@media (max-width: 767.98px) {
+    .top-section {
+        background-image: url('/img/home/bg.png');
+    }
+}
+
+/* end top section */
+
+/* price */
+.home__price {
+    margin-top: 90px;
+    margin-bottom: 70px;
+    background: linear-gradient(#0b5ea2, #0b5ea2) bottom/100% 1px no-repeat;
+}
+
+.home__price .price__content .content__price {
+    display: flex;
+    align-items: center;
+    font-size: 32px;
+    font-weight: bold;
+    width: max-content;
+    height: 215px;
+    margin-right: 60px;
+    padding: 10px 45px 40px;
+    background: url('/img/home/content-price-bg.svg') center/contain no-repeat;
+}
+
+.home__price .price__content .content__price::before,
+.home__price .price__content .content__price::after {
+    content: "";
+    position: absolute;
+    height: 55px;
+    width: 55px;
+}
+
+.home__price .price__content .content__price::before {
+    top: -25px;
+    left: 10px;
+    background: url('/img/home/content-price-bg-accent-top.svg') center/contain no-repeat;
+}
+
+.home__price .price__content .content__price::after {
+    bottom: 10px;
+    right: 10px;
+    background: url('/img/home/content-price-bg-accent-bottom.svg') center/contain no-repeat;
+}
+
+.home__price .price__content .content__item .item {
+    text-align: center;
+}
+
+.home__price .price__content .content__item .item > h5 {
+    font-size: 18px;
+    font-weight: bold;
+    background: linear-gradient(rgba(255, 202, 19, .3), rgba(255, 202, 19, .3)) center calc(50% - 3px)/100% 7px no-repeat;
+    width: max-content;
+    margin: auto;
+}
+
+.home__price .price__content .content__item .item > h2 {
+    font-size: 32px;
+    font-weight: bold;
+    color: #0b5ea2;
+}
+.home__price .price__content .content__item .item > small {
+    font-size: 10px;
+    display: block;
+    line-height: 15px;
+}
+
+.home__price .price__content .content__item .item > img {
+    margin-top: 10px;
+    margin-bottom: 20px;
+    height: 30px;
+}
+
+@media (max-width: 992.98px) {
+    .home__price .price__content .content__price {
+        margin: 0 auto 30px;
+    }
+    .home__price .price__content .content__item .item:last-child {
+        margin-bottom: 20px;
+    }
+}
+
+@media (max-width: 767.98px) {
+    .home__price .price__content .content__item .item:last-child {
+        margin-top: 20px;
+    }
+}
+
+@media (max-width: 413.98px) {
+    .home__price .price__content .content__price {
+        font-size: 26px;
+        padding: 20px 45px 40px;        
+    }
+}
+/* end price */
+
+/* measure */
+.home__measure {
+    margin-bottom: 70px;
+}
+.home__measure .measure__content h3 {
+    font-size: 28px;
+    font-weight: bold;
+    margin-bottom: 0;
+}
+
+.home__measure .measure__content span,
+.home__measure .measure__content p {
+    font-size: 20px;
+    font-weight: normal;
+}
+
+.home__measure .measure__content .content--bold {
+    font-size: 30px;
+    font-weight: bold;
+    color: #0b5ea2;
+}
+
+.home__measure .measure__content .content__ribbon {
+    background: url('/img/home/measure-ribbon.png') center/100% 100% no-repeat;
+    font-size: 20px;
+    color: #0b5ea2;
+    height: 50px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding-top: 10px;
+    padding-bottom: 5px;
+    margin-top: 30px;
+}
+
+.home__measure .measure__content .content__ribbon {
+    height: auto;
+    background-size: calc(100% - 20px) 100%;
+    text-align: center;
+}
+
+/* end measure */
+
+/* link */
+.home__link .link__item .item {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100px;
+    width: 100%;
+    margin-bottom: 30px;
+    font-size: 20px;
+    border-radius: 5px;
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.home__link .link__item .item > .item__wrapper {
+    width: 100%;
+}
+
+@media (max-width: 767.98px) {
+    .home__link .link__item .item {
+        height: auto;
+        padding-top: 20px;
+        padding-bottom: 20px;
+    }
+
+    .home__link .btn.btn--jp {
+        margin: 20px auto 0;
+    }
+}
+/* end link */
+
+/* footer */
+.home__footer {
+    font-size: 14px;
+    position: relative;
+    background-color: #000;
+    color: #fff;
+    margin-top: 40px;
+    padding-top: 15px;
+    padding-bottom: 10px;
+}
+
+.home__footer::before {
+    content: "";
+    position: absolute;
+    width: 100%;
+    height: 4px;
+    background-color: #000;
+    left: 0;
+    top: -6px;
+}
+/* end footer */

@@ -108,7 +108,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 							<a target="_blank" href="https://drive.google.com/file/d/18ZUmxIFhUxRESeFTYbcHVQRtWi--qBIM/view?usp=sharing" class="btn btn-download bold hidden-xs" id="btn-download-windows"><i class="fa fa-download icon-download"></i>Windows</a>
 						</div>
 						<div class="col-md-4">
-							<a target="_blank" href="https://drive.google.com/file/d/1GukieIxu7c2GZimddqd1X5KTtReS80nG/view?usp=sharing" class="btn btn-download bold hidden-xs" id="btn-download-ios"><i class="fa fa-download icon-download"></i>Mac OS</a>
+							<a target="_blank" href="https://drive.google.com/file/d/1GukieIxu7c2GZimddqd1X5KTtReS80nG/view?usp=sharing" class="btn btn-download bold hidden-xs" id="btn_download_mac"><i class="fa fa-download icon-download"></i>Mac OS</a>
 						</div>
 						<div class="col-md-4">
 							<a target="_blank" href="https://drive.google.com/file/d/1AhIhlocfOUcNJ_9RCKEdmpu99sH5lTms/view?usp=sharing" class="btn btn-download bold hidden-xs" id="btn-download-linux"><i class="fa fa-download icon-download"></i>Linux</a>
@@ -145,6 +145,13 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 						<a class="installation-manual__item" target="_blank" href="https://drive.google.com/file/d/1g7X_m57cUDF-GJsgPyKgFWtx8LLeADbH/view?usp=sharing">
 							<img src="/img/trial/pdf.svg" alt="">
 							Mobile
+						</a>
+					</div>
+					<div class="installation-manual">
+						Download user manual here:
+						<a class="installation-manual__item" target="_blank" href="/pdf/user_manual_dokodemo_ver_2.1_english.pdf" download>
+							<img src="/img/trial/pdf.svg" alt="">
+							Desktop
 						</a>
 					</div>
 				</div>
@@ -288,6 +295,14 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 												<div class="trial-tab-content__list">
 													<span style="color: #E3092A"><strong>Red</strong></span>
 													<span>: for Logout</span>
+												</div>
+												<div class="trial-tab-content__list">
+													<span><strong>Today</strong></span>
+													<span>: shows today's accumulative work hours</span>
+												</div>
+												<div class="trial-tab-content__list">
+													<span><strong>Weekly</strong></span>
+													<span>: shows this week's accumulative work hours</span>
 												</div>
 											</div>
 										</div>

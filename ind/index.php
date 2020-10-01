@@ -66,6 +66,87 @@
 height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 <!-- End Google Tag Manager (noscript) -->
     <section class="top-section">
+        <div class="free-seminar-section">
+            <img src="/img/close.svg" alt="" class="img-close-banner">
+            <div class="container-fluid">
+                <div class="row">
+                    <div class="col-5 offset-sm-1 col-sm-4 offset-md-0 col-md-6 col-lg-6 d-flex align-items-lg-center flex-column flex-md-row">
+                        <div class="save-date-wrapper ml-lg-5 mr-4">
+                            <img class="save-date-img" src="/img/save-the-date.svg" alt="save-date">
+                            <span class="save-date-text">SAVE<br>THE<br>DATE!</span>
+                        </div>
+                        <div class="description-wrapper">
+                            <small class="description-date">30 September 2020</small>
+                            <p class="description-title d-md-block d-none"><strong>Utilizing Work-From-Home Technology</strong></p>
+                            <small class="description-location">Online seminar in <strong>ZOOM</strong></small>
+                        </div>
+                    </div>
+                    <div class="col-7 col-sm-7 col-md-5 col-lg-6 d-flex align-items-center justify-content-center flex-column flex-xl-row">
+                        <div class="countdown-wrapper">
+                            <div id="countdown">
+                                <div class="time-wrapper">
+                                    <span class="time-text">DAYS</span>
+                                    <div class="d-flex">
+                                        <span class="digit-format">
+                                            <span class="digit">
+                                                <hr class="digit-hr">
+                                                <div class="digit-text digit-d-1"></div>
+                                            </span>
+                                        </span>
+                                        <span class="digit-format">
+                                            <span class="digit">
+                                                <hr class="digit-hr">
+                                                <div class="digit-text digit-d-2"></div>
+                                            </span>
+                                        </span>
+                                    </div>
+                                </div>
+                                <div class="time-wrapper">
+                                    <span class="time-text">HOURS</span>
+                                    <div class="d-flex">
+                                        <span class="digit-format">
+                                            <span class="digit">
+                                                <hr class="digit-hr">
+                                                <div class="digit-text digit-h-1"></div>
+                                            </span>
+                                        </span>
+                                        <span class="digit-format">
+                                            <span class="digit">
+                                                <hr class="digit-hr">
+                                                <div class="digit-text digit-h-2"></div>
+                                            </span>
+                                        </span>
+                                    </div>
+                                </div>
+                                <div class="time-wrapper">
+                                    <span class="time-text">MINUTES</span>
+                                    <div class="d-flex">
+                                        <span class="digit-format">
+                                            <span class="digit">
+                                                <hr class="digit-hr">
+                                                <div class="digit-text digit-m-1"></div>
+                                            </span>
+                                        </span>
+                                        <span class="digit-format">
+                                            <span class="digit">
+                                                <hr class="digit-hr">
+                                                <div class="digit-text digit-m-2"></div>
+                                            </span>
+                                        </span>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <p class="description-title d-block d-md-none text-center"><strong>Utilizing Work-From-Home<br>Technology</strong></p>
+                        <div class="text-center pl-xl-4 pt-xl-0">
+                            <a class="btn-sign-up-free" href="https://www.eventbrite.com/e/utilizing-work-from-home-technologies-tickets-121665226969" rel="noopener noreferrer" target="_blank">Sign Up For Free <img src="/img/right-arrow.svg"/></a>
+                        </div>
+                        
+                    </div>
+                </div>
+            </div>
+        </div>
+
         <?php include 'header.php' ?>
         <div class="container">
             <div class="row">
@@ -136,30 +217,85 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
         </div>
     </section>
 
-    <section class="apps-launch">
-        <div class="container">
-            <div class="row align-items-center">
-                <div class="offset-md-1 col-md-5">
-                    <div class="text-center">
-                        <h4 class="fs-18" style="font-weight: 600;">Telah Diluncurkan!!!</h4>
-                        <h2 class="apps-launch__title">DOKODEMO-KERJA</h2>
-                        <h4 class="apps-launch__sub-title">Mobile App</h4>
-                        <div class="form-row">
-                            <div class="offset-2 col-4">
-                                <a href="https://apps.apple.com/id/app/dokodemo-kerja/id1506859201" class="mobile-apps__icon mobile-apps__icon--ios" id="btn_demo_ios_id"></a>
+    <div class="free-seminar-section">
+        <div class="container-fluid">
+            <div class="row">
+                <div class="col-5 offset-sm-1 col-sm-4 offset-md-0 col-md-6 col-lg-6 d-flex align-items-lg-center flex-column flex-md-row">
+                    <div class="save-date-wrapper ml-lg-5 mr-4">
+                        <img class="save-date-img" src="/img/save-the-date.svg" alt="save-date">
+                        <span class="save-date-text">SAVE<br>THE<br>DATE!</span>
+                    </div>
+                    <div class="description-wrapper">
+                        <small class="description-date">30 September 2020</small>
+                        <p class="description-title d-md-block d-none"><strong>Utilizing Work-From-Home Technology</strong></p>
+                        <small class="description-location">Online seminar in <strong>ZOOM</strong></small>
+                    </div>
+                </div>
+                <div class="col-7 col-sm-7 col-md-5 col-lg-6 d-flex align-items-center justify-content-center flex-column flex-xl-row">
+                    <div class="countdown-wrapper">
+                        <div id="countdown">
+                            <div class="time-wrapper">
+                                <span class="time-text">DAYS</span>
+                                <div class="d-flex">
+                                    <span class="digit-format">
+                                        <span class="digit">
+                                            <hr class="digit-hr">
+                                            <div class="digit-text digit-d-1"></div>
+                                        </span>
+                                    </span>
+                                    <span class="digit-format">
+                                        <span class="digit">
+                                            <hr class="digit-hr">
+                                            <div class="digit-text digit-d-2"></div>
+                                        </span>
+                                    </span>
+                                </div>
                             </div>
-                            <div class="col-4">
-                                <a href="https://play.google.com/store/apps/details?id=com.dokodemomobile" class="mobile-apps__icon mobile-apps__icon--android" id="btn_demo_android_id"></a>
+                            <div class="time-wrapper">
+                                <span class="time-text">HOURS</span>
+                                <div class="d-flex">
+                                    <span class="digit-format">
+                                        <span class="digit">
+                                            <hr class="digit-hr">
+                                            <div class="digit-text digit-h-1"></div>
+                                        </span>
+                                    </span>
+                                    <span class="digit-format">
+                                        <span class="digit">
+                                            <hr class="digit-hr">
+                                            <div class="digit-text digit-h-2"></div>
+                                        </span>
+                                    </span>
+                                </div>
+                            </div>
+                            <div class="time-wrapper">
+                                <span class="time-text">MINUTES</span>
+                                <div class="d-flex">
+                                    <span class="digit-format">
+                                        <span class="digit">
+                                            <hr class="digit-hr">
+                                            <div class="digit-text digit-m-1"></div>
+                                        </span>
+                                    </span>
+                                    <span class="digit-format">
+                                        <span class="digit">
+                                            <hr class="digit-hr">
+                                            <div class="digit-text digit-m-2"></div>
+                                        </span>
+                                    </span>
+                                </div>
                             </div>
                         </div>
                     </div>
-                </div>
-                <div class="col-md-6">
-                    <img class="apps-launch__img img-fluid w-100" src="/img/home/apps-launch.png" alt="Dokodemo-Kerja Mobile">
+                    <p class="description-title d-block d-md-none text-center"><strong>Utilizing Work-From-Home<br>Technology</strong></p>
+                    <div class="text-center pl-xl-4 pt-xl-0">
+                        <a class="btn-sign-up-free" href="https://www.eventbrite.com/e/utilizing-work-from-home-technologies-tickets-121665226969" rel="noopener noreferrer" target="_blank">Sign Up For Free <img src="/img/right-arrow.svg"/></a>
+                    </div>
+                    
                 </div>
             </div>
         </div>
-    </section>
+    </div>
     
     <section class="feature-content mt-5">
         <div class="container">
@@ -460,19 +596,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
         </div>
 
     </section>
-    <section class="user-demo">
-        <div class="container">
-            <div class="row">
-                <div class="offset-md-2 col-md-4 pb-4 pb-md-0">
-                    <p class="fs-27 text-white text-center text-md-left header-demo-text mb-0"><strong>Coba Demo Sekarang</strong></p>
-                    <span class="d-block text-white text-center text-md-left fs-18 header-subdemo-text">*Tidak perlu Kartu Kredit</span>
-                </div>
-                <div class="col-md-4">
-                    <a href="/ind/demo" class="btn-sign-up btn-try-demo" id="btn-sign-up-id">Klik Disini</a>
-                </div>
-            </div>
-        </div>
-    </section>
+    <?php include 'component/demo-banner.php' ?>
      <section  class="news-list-container">
         <div class="container">
             <div class="newscontainer">
@@ -551,6 +675,10 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
     <script src="/js/bootstrap.min.js"></script>
     <script src="/js/slick.min.js"></script>
     <script src="/js/jquery.magnific-popup.min.js"></script>
+    <script src="/js/jquery.countdown.min.js"></script>
+    <script>
+        <?php include '../js/seminar-banner/seminar-banner.js'?>
+    </script>
     <script>
         $(".screenshot-slide").slick({
             infinite: true,
@@ -650,6 +778,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
         element.style.opacity = "1";
         }
     </script>
+
 </body>
 
 </html>
