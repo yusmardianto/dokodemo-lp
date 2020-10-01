@@ -627,7 +627,7 @@
     <script src="/js/slick.min.js"></script>
     <script src="/js/jquery.magnific-popup.min.js"></script>
     <script src="/js/jquery.countdown.min.js"></script>
-    <script src="/js/seminar-banner/seminar-banner.js"></script>
+    <script src="/js/seminar-banner/seminar-banner.js?v=1.1"></script>
     <script>
     $(".screenshot-slide").slick({
             infinite: true,
