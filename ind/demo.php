@@ -194,66 +194,120 @@ $page = 'demo';
 						<div class="tab-pane fade show active" id="nav-home" role="tabpanel" aria-labelledby="nav-home-tab">
 							<div class="trial-tab-container">
 								<div>
-									<h2 class="tab-content-title content-section-title">1. Akses Demo Environment</h2>
-									<p class="trial-tab-content --no-list d-block mt-0">Tekan <a href="https://demo.dokodemo-kerja.com/" target="_blank" rel="noopener noreferrer">Link ini</a> untuk mengakses halaman admin Dokodemo-Kerja.</p>
-								</div>
-								<div class="pl-4 mb-5">
-									<div class="row">
-										<div class="col-md-6 col-lg-8">
-											<p class="trial-tab-content">Tekan <strong>"LOGIN"</strong> <br class="d-none d-md-block"><br class="d-none d-md-block"><br class="d-none d-md-block d-xl-none"></p>
-											<img src="/img/trial/admin-1.png" class="img-fluid w-100 img-border mb-3" alt="Dokodemo-Kerja Website Login" style="height: 295px; object-fit: contain;"/>
-										</div>
-										<div class="col-md-6 col-lg-4">
-											<p class="trial-tab-content">Login dengan email dan password yang tersedia.</p>
-											<img src="/img/trial/admin-2.png" class="img-fluid w-100 img-border mb-3" alt="Dokodemo-Kerja Sign In" style="height: 295px; object-fit: cover;"/>
+									<div>
+										<h2 class="tab-content-title content-section-title">1. Akses Demo Environment</h2>
+										<p class="trial-tab-content --no-list d-block mt-0">Tekan <a href="https://demo.dokodemo-kerja.com/" target="_blank" rel="noopener noreferrer">Link ini</a> untuk mengakses halaman admin Dokodemo-Kerja.</p>
+									</div>
+									<div class="pl-4 mb-5">
+										<div class="row">
+											<div class="col-md-6 col-lg-8">
+												<p class="trial-tab-content">Tekan <strong>"LOGIN"</strong> <br class="d-none d-md-block"><br class="d-none d-md-block"><br class="d-none d-md-block d-xl-none"></p>
+												<picture>
+													<source srcset="/img/trial/admin-1.webp" type="image/webp">
+													<img src="/img/trial/admin-1.jpg" alt="Dokodemo-Kerja Website Login" class="img-fluid d-block img-border mb-3 mx-auto" style="height: 295px; object-fit: contain;">
+												</picture>
+											</div>
+											<div class="col-md-6 col-lg-4">
+												<p class="trial-tab-content">Login dengan email dan password yang tersedia.</p>
+												<picture>
+													<source srcset="/img/trial/admin-2.webp" type="image/webp">
+													<img src="/img/trial/admin-2.jpg" alt="Dokodemo-Kerja Sign In" class="img-fluid d-block img-border mb-3 mx-auto" style="height: 295px; object-fit: cover;">
+												</picture>
+											</div>
 										</div>
 									</div>
 								</div>
-								<h2 class="tab-content-title content-section-title">2. Menambah Staff</h2>
-								<div class="pl-4">
-									<p class="trial-tab-content">Tekan tombol <strong>"Staff"</strong></p>
-									<img src="/img/trial/admin-3.png" class="mb-3 img-fluid w-100 img-border" alt="Dokodemo-Kerja Drop Down Account Access Option" />
-									<div class="row">
-										<div class="col-md-6">
-											<p class="trial-tab-content">Tekan tombol <strong>"Add New"</strong></p>
-											<img src="/img/trial/admin-4.png" class="mb-3 img-fluid w-100 img-border" alt="Dokodemo-Kerja 'Add New' Button" />
-										</div>
-										<div class="col-md-6">
-											<p class="trial-tab-content">Isi Informasi staff</p>
-											<img src="/img/trial/admin-5.png" class="mb-3 img-fluid w-100 img-border" alt="Dokodemo-Kerja's Add Staff option" />
-										</div>
-									</div>
-									<p class="trial-tab-content">Staff akan terdaftar di demo environment dan sebuah email akan dikirimkan kepada staff.</p>
-									<img src="/img/trial/admin-6.png" class="mb-5 img-fluid w-100 img-border" alt="Dokodemo-Kerja Staff Management" />
-								</div>
-								<h2 class="tab-content-title content-section-title">3. Menambah Task</h2>
-								<div class="pl-4">
-									<p class="trial-tab-content">Tekan tombol <strong>"Task"</strong></p>
-									<img src="/img/trial/admin-3.png" class="mb-3 img-fluid w-100 img-border" alt="Dokodemo-Kerja Drop Down Account Access Option" />
-									<div class="row">
-										<div class="col-md-6">
-											<p class="trial-tab-content">Tekan <strong>"Add New"</strong> pada task management <br class="d-none d-md-block"><br class="d-none d-md-block"><br class="d-none d-md-block d-lg-none"></p>
-											<img src="/img/trial/admin-7.png" class="mb-5 img-fluid w-100 img-border" alt="Dokodemo-Kerja 'Add New' Button" />
-										</div>
-										<div class="col-md-6">
-											<p class="trial-tab-content">Isi informasi task baru, tekan Submit, dan Task Baru telah ditambahkan </p>
-											<img src="/img/trial/admin-8.png" class="mb-5 img-fluid w-100 img-border" alt="Dokodemo-Kerja Install Guide" />
+								<div>
+									<h2 class="tab-content-title content-section-title">2. Menambah Task</h2>
+									<div class="pl-4">
+										<p class="trial-tab-content">Tekan <strong>Tombol Profile</strong> > <strong>Settings</strong> > <strong>Task</strong></p>
+										<!-- <img src="/img/trial/admin-3.png" class="mb-3 img-fluid w-100 img-border" alt="Dokodemo-Kerja Drop Down Account Access Option" /> -->
+										<picture>
+											<source srcset="/img/trial/admin-3-1.webp" type="image/webp">
+											<img src="/img/trial/admin-3-1.jpg" alt="Dokodemo-Kerja Drop Down Account Access Option" class="mb-3 img-fluid w-100 img-border">
+										</picture>
+										<div class="row">
+											<div class="col-md-6">
+												<p class="trial-tab-content">Tekan <strong>"Add New"</strong> pada task management <br class="d-none d-md-block"><br class="d-none d-md-block"><br class="d-none d-md-block d-lg-none"></p>
+												<!-- <img src="/img/trial/admin-7.png" class="mb-5 img-fluid w-100 img-border" alt="Dokodemo-Kerja 'Add New' Button" /> -->
+												<picture>
+													<source srcset="/img/trial/admin-3-2.webp" type="image/webp">
+													<img src="/img/trial/admin-3-2.jpg" alt="Dokodemo-Kerja 'Add New' Button" class="mb-3 img-fluid w-100 img-border">
+												</picture>
+											</div>
+											<div class="col-md-6">
+												<p class="trial-tab-content">Isi informasi task baru, tekan Submit, dan Task Baru telah ditambahkan </p>
+												<!-- <img src="/img/trial/admin-8.png" class="mb-5 img-fluid w-100 img-border" alt="Dokodemo-Kerja Install Guide" /> -->
+												<picture>
+													<source srcset="/img/trial/admin-3-3.webp" type="image/webp">
+													<img src="/img/trial/admin-3-3.jpg" alt="Dokodemo-Kerja Install Guide" class="mb-5 img-fluid w-100 img-border">
+												</picture>
+											</div>
 										</div>
 									</div>
 								</div>
-								<h2 class="tab-content-title content-section-title">4. Menambah Team</h2>
-								<div class="pl-4">
-									<p class="trial-tab-content">Tekan tombol <strong>"Team"</strong></p>
-									<img src="/img/trial/admin-3.png" class="mb-3 img-fluid w-100 img-border" alt="Dokodemo-Kerja Drop Down Account Access Option" />
-									<div class="row">
-										<div class="col-md-6">
-											<p class="trial-tab-content">Tekan <strong>"Add New"</strong> pada team management <br class="d-none d-md-block"><br class="d-none d-md-block"></p>
-											<img src="/img/trial/admin-7.png" class="mb-5 img-fluid w-100 img-border" alt="Dokodemo-Kerja 'Add New' Button" />
+								<div>
+									<h2 class="tab-content-title content-section-title">3. Menambah Team</h2>
+									<div class="pl-4">
+										<p class="trial-tab-content">Tekan <strong>Tombol Profile</strong> > <strong>Settings</strong> > <strong>Team</strong></p>
+										<!-- <img src="/img/trial/admin-3.png" class="mb-3 img-fluid w-100 img-border" alt="Dokodemo-Kerja Drop Down Account Access Option" /> -->
+										<picture>
+											<source srcset="/img/trial/admin-4-1.webp" type="image/webp">
+											<img src="/img/trial/admin-4-1.jpg" alt="Dokodemo-Kerja Drop Down Account Access Option" class="mb-3 img-fluid w-100 img-border">
+										</picture>
+										<div class="row">
+											<div class="col-md-6">
+												<p class="trial-tab-content">Tekan <strong>"Add New"</strong> pada team management <br class="d-none d-md-block"><br class="d-none d-md-block"></p>
+												<!-- <img src="/img/trial/admin-7.png" class="mb-5 img-fluid w-100 img-border" alt="Dokodemo-Kerja 'Add New' Button" /> -->
+												<picture>
+													<source srcset="/img/trial/admin-4-2.webp" type="image/webp">
+													<img src="/img/trial/admin-4-2.jpg" alt="Dokodemo-Kerja 'Add New' Button" class="mb-5 img-fluid w-100 img-border">
+												</picture>
+											</div>
+											<div class="col-md-6">
+												<p class="trial-tab-content">Isi nama team dan leader, tekan Submit, dan Team Baru telah ditambahkan</p>
+												<!-- <img src="/img/trial/admin-9.png" class="mb-5 img-fluid w-100 img-border" alt="Dokodemo-Kerja Add Team Management" /> -->
+												<picture>
+													<source srcset="/img/trial/admin-4-3.webp" type="image/webp">
+													<img src="/img/trial/admin-4-3.jpg" alt="Dokodemo-Kerja Add Team Management" class="mb-5 img-fluid w-100 img-border">
+												</picture>
+											</div>
 										</div>
-										<div class="col-md-6">
-											<p class="trial-tab-content">Isi nama team dan leader, tekan Submit, dan Team Baru telah ditambahkan</p>
-											<img src="/img/trial/admin-9.png" class="mb-5 img-fluid w-100 img-border" alt="Dokodemo-Kerja Add Team Management" />
+									</div>
+								</div>
+								<div>
+									<h2 class="tab-content-title content-section-title">4. Menambah Staff</h2>
+									<div class="pl-4">
+										<p class="trial-tab-content">Tekan <strong>Tombol Profile</strong> > <strong>Settings</strong> > <strong>Staff</strong></p>
+										<!-- <img src="/img/trial/admin-3.png" class="mb-3 img-fluid w-100 img-border" alt="Dokodemo-Kerja Drop Down Account Access Option" /> -->
+										<picture>
+											<source srcset="/img/trial/admin-2-1.webp" type="image/webp">
+											<img src="/img/trial/admin-2-1.jpg" alt="Dokodemo-Kerja Drop Down Account Access Option" class="mb-3 img-fluid w-100 img-border">
+										</picture>
+										<div class="row">
+											<div class="col-md-6">
+												<p class="trial-tab-content">Tekan tombol <strong>"Add New"</strong></p>
+												<!-- <img src="/img/trial/admin-4.png" class="mb-3 img-fluid w-100 img-border" alt="Dokodemo-Kerja 'Add New' Button" /> -->
+												<picture>
+													<source srcset="/img/trial/admin-2-2.webp" type="image/webp">
+													<img src="/img/trial/admin-2-2.jpg" alt="Dokodemo-Kerja 'Add New' Button" class="mb-3 img-fluid w-100 img-border">
+												</picture>
+											</div>
+											<div class="col-md-6">
+												<p class="trial-tab-content">Isi Informasi staff</p>
+												<!-- <img src="/img/trial/admin-5.png" class="mb-3 img-fluid w-100 img-border" alt="Dokodemo-Kerja's Add Staff option" /> -->
+												<picture>
+													<source srcset="/img/trial/admin-2-3.webp" type="image/webp">
+													<img src="/img/trial/admin-2-3.jpg" alt="Dokodemo-Kerja's Add Staff option" class="mb-3 img-fluid w-100 img-border">
+												</picture>
+											</div>
 										</div>
+										<p class="trial-tab-content">Staff akan terdaftar di demo environment dan sebuah email akan dikirimkan kepada staff.</p>
+										<!-- <img src="/img/trial/admin-6.png" class="mb-5 img-fluid w-100 img-border" alt="Dokodemo-Kerja Staff Management" /> -->
+										<picture>
+											<source srcset="/img/trial/admin-2-4.webp" type="image/webp">
+											<img src="/img/trial/admin-2-4.jpg" alt="Dokodemo-Kerja Staff Management" class="mb-5 img-fluid w-100 img-border">
+										</picture>
 									</div>
 								</div>
 							</div>
