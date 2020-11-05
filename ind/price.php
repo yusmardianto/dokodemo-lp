@@ -272,7 +272,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
     <script src="/js/jquery-3.4.1.min.js"></script>
     <script src="/js/bootstrap.min.js"></script>
     <script src="/js/jquery.countdown.min.js"></script>
-    <script src="/js/seminar-banner/seminar-banner.js"></script>
+    <script src="/js/seminar-banner/seminar-banner.js?v=1.1"></script>
     <script>
         var element = document.getElementById("popup-text");
 
