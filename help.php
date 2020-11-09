@@ -163,8 +163,8 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                         <div class="">
                             <hr class="mb-3 mt-5">
                             Do you need more help? Contact Us through these links: <br>
-                            WA: <br>    
-                            Email:
+                            WA: <a target="_blank" href="https://api.whatsapp.com/send?phone=62811870321">0811870321</a> <br>    
+                            Email: <a href="mailto:sales@dokodemo-kerja.com">sales@dokodemo-kerja.com</a>
                         </div>
                     </div>
                 </div>
