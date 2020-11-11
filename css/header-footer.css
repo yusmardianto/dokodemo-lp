@@ -38,7 +38,8 @@
 }
 
 .nav-item:hover .nav-link,
-.nav-item.active .nav-link {
+.nav-item.active .nav-link,
+.nav-item .nav-link.active {
   color: #ffca13 !important;
   /* font-weight: 00; */
 }

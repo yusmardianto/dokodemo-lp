@@ -1,7 +1,22 @@
+html, body {
+    scroll-behavior: smooth;
+}
+
+.bg--blue {
+    background-color: #1A8BE2;
+}
+
+.w-25px {
+    width: 25px;
+}
+
+.nav-item .nav-link.active
+
+/*  */
 .help__explain .explain__topic .nav-link {
     width: 100%;
     text-align: left;
-    font-size: 22px;
+    font-size: 20px;
 }
 
 .help__explain .explain__topic .nav-item:first-child .nav-link {
@@ -14,6 +29,44 @@
 }
 
 .help__explain .explain__topic .nav-item ul {
-    margin-top: -20px;
+    /* margin-top: -20px; */
     margin-left: 30px;
+}
+
+.help__explain .explain__topic .nav-item ul a:not(:last-child) li {
+    margin-bottom: 5px;
+}
+
+.help__explain .explain__topic .nav-item ul a:hover {
+    text-decoration: none;
+    color: #ffca13;
+}
+
+/*  */
+.help__explain .explain__content .tab-pane p {
+    text-indent: 3rem;
+}
+
+/* custom ordered list */
+.list--multi-level {
+    list-style-type: none;
+    counter-reset: item;
+    margin: 0;
+    padding: 0;
+}
+  
+.list--multi-level > li {
+    display: table;
+    counter-increment: item;
+}
+  
+.list--multi-level > li:before {
+    content: var(--start) "." counters(item, ".");
+    display: table-cell;
+    padding-right: 0.6em;    
+}
+
+.list--multi-level.list--bold > li:before {
+    font-weight: bold;
+    font-size: 1.25rem;
 }

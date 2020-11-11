@@ -78,56 +78,106 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                                 </li>
                                 <li class="nav-item" data-toggle="collapse" href="#login_list">
                                     <a class="nav-link" id="" data-toggle="tab" href="#help_login" role="tab" aria-controls="login" aria-selected="false">Login
-
-                                        <ul class="list-unstyled collapse" id="login_list" data-parent="#accordion">
-                                            <a href="#"><li>Login</li></a>
-                                            <a href="#"><li>Remember Me</li></a>
-                                            <a href="#"><li>Forgot Your Password</li></a>
-                                        </ul>
-                                    </a>    
+                                    </a> 
+                                </li>
+                                <li class="nav-item">  
+                                    <ul class="ml-5 list-unstyled collapse" id="login_list" data-parent="#accordion">
+                                        <a href="#"><li>Login</li></a>
+                                        <a href="#"><li>Remember Me</li></a>
+                                        <a href="#"><li>Forgot Your Password</li></a>
+                                    </ul> 
                                 </li>
                                 <li class="nav-item" data-toggle="collapse" href="#homepage_list">
                                     <a class="nav-link" id="" data-toggle="tab" href="#help_homepage" role="tab" aria-controls="homepage" aria-selected="false">Homepage - Admin
-
-                                        <ul class="list-unstyled collapse" id="homepage_list" data-parent="#accordion">
-                                            <a href="#"><li>Filter by Team</li></a>
-                                            <a href="#"><li>Filter by Staff Name</li></a>
-                                            <a href="#"><li>Filter by Date</li></a>
-                                            <a href="#"><li>Daily</li></a>
-                                            <a href="#"><li>Weekly</li></a>
-                                            <a href="#"><li>Monthly</li></a>
-                                            <a href="#"><li>Edit Time Tracking</li></a>
-                                            <a href="#"><li>Notification</li></a>
-                                            <a href="#"><li>Staff Detail</li></a>
-                                        </ul>
                                     </a>    
+                                </li>
+                                <li class="nav-item">
+                                    <ul class="ml-5 list-unstyled collapse" id="homepage_list" data-parent="#accordion">
+                                        <a href="#"><li>Filter by Team</li></a>
+                                        <a href="#"><li>Filter by Staff Name</li></a>
+                                        <a href="#"><li>Filter by Date</li></a>
+                                        <a href="#"><li>Daily</li></a>
+                                        <a href="#"><li>Weekly</li></a>
+                                        <a href="#"><li>Monthly</li></a>
+                                        <a href="#"><li>Edit Time Tracking</li></a>
+                                        <a href="#"><li>Show Data</li></a>
+                                        <a href="#"><li>Pagination</li></a>
+                                        <a href="#"><li>Notification</li></a>
+                                        <a href="#"><li>Staff Detail</li></a>
+                                    </ul>
                                 </li>
                                 <li class="nav-item" data-toggle="collapse" href="#profile_list">
                                     <a class="nav-link" id="" data-toggle="tab" href="#help_profile" role="tab" aria-controls="profile" aria-selected="false">Profile
-
-                                        <ul class="list-unstyled collapse" id="profile_list" data-parent="#accordion">
-                                            <a href="#"><li>My Profile</li></a>
-                                            <a href="#"><li>Bills</li></a>
-                                            <a href="#"><li>Settings</li></a>
-                                            <a href="#"><li>Change Password</li></a>
-                                            <a href="#"><li>Logout</li></a>
-                                        </ul>
                                     </a>    
                                 </li>
-                                <li class="nav-item" data-toggle="collapse" href="#">
-                                    <a class="nav-link active" id="" data-toggle="tab" href="#help_intro" role="tab" aria-controls="introduction" aria-selected="true">Setting - Staff</a>
+                                <li class="nav-item">
+                                    <ul class="ml-5 list-unstyled collapse" id="profile_list" data-parent="#accordion">
+                                        <a href="#"><li>My Profile</li></a>
+                                        <a href="#"><li>Bills</li></a>
+                                        <a href="#"><li>Settings</li></a>
+                                        <a href="#"><li>Change Password</li></a>
+                                        <a href="#"><li>Logout</li></a>
+                                    </ul>
                                 </li>
                                 <li class="nav-item" data-toggle="collapse" href="#">
-                                    <a class="nav-link active" id="" data-toggle="tab" href="#help_intro" role="tab" aria-controls="introduction" aria-selected="true">Setting - Task</a>
+                                    <a class="nav-link active" id="" data-toggle="tab" href="#help_setting_staff" role="tab" aria-controls="introduction" aria-selected="true">Setting - Staff</a>
+                                </li>
+                                <li class="nav-item">
+                                    <ul class="ml-5 list-unstyled collapse" id="setting_staff_list" data-parent="#accordion">
+                                        <a href="#"><li>Add Staff</li></a>
+                                        <a href="#"><li>Edit Staff</li></a>
+                                        <a href="#"><li>Reset Password</li></a>
+                                        <a href="#"><li>Change Status</li></a>
+                                        <a href="#"><li>Filter By atau Search Data</li></a>
+                                        <a href="#"><li>Pagination</li></a>
+                                    </ul>
                                 </li>
                                 <li class="nav-item" data-toggle="collapse" href="#">
-                                    <a class="nav-link active" id="" data-toggle="tab" href="#help_intro" role="tab" aria-controls="introduction" aria-selected="true">Setting - Team</a>
+                                    <a class="nav-link active" id="" data-toggle="tab" href="#help_setting_task" role="tab" aria-controls="task setting" aria-selected="true">Setting - Task</a>
+                                </li>
+                                <li class="nav-item">
+                                    <ul class="ml-5 list-unstyled collapse" id="setting_task_list" data-parent="#accordion">
+                                        <a href="#"><li>Add Staff</li></a>
+                                        <a href="#"><li>Edit Staff</li></a>
+                                        <a href="#"><li>Reset Password</li></a>
+                                        <a href="#"><li>Change Status</li></a>
+                                        <a href="#"><li>Filter By atau Search Data</li></a>
+                                        <a href="#"><li>Pagination</li></a>
+                                    </ul>
                                 </li>
                                 <li class="nav-item" data-toggle="collapse" href="#">
-                                    <a class="nav-link active" id="" data-toggle="tab" href="#help_intro" role="tab" aria-controls="introduction" aria-selected="true">Setting - Day Off</a>
+                                    <a class="nav-link active" id="" data-toggle="tab" href="#help_setting_team" role="tab" aria-controls="team setting" aria-selected="true">Setting - Team</a>
+                                </li>
+                                <li class="nav-item">
+                                    <ul class="ml-5 list-unstyled collapse" id="setting_team_list" data-parent="#accordion">
+                                        <a href="#"><li>Add Team</li></a>
+                                        <a href="#"><li>Edit Team</li></a>
+                                        <a href="#"><li>Change Status</li></a>
+                                        <a href="#"><li>Filter By atau Search Data</li></a>
+                                        <a href="#"><li>Pagination</li></a>
+                                    </ul>
+                                </li>
+                                <li class="nav-item" data-toggle="collapse" href="#">
+                                    <a class="nav-link active" id="" data-toggle="tab" href="#help_day_off" role="tab" aria-controls="day off setting" aria-selected="true">Setting - Day Off</a>
+                                </li>
+                                <li class="nav-item">
+                                    <ul class="ml-5 list-unstyled collapse" id="day_off_list" data-parent="#accordion">
+                                        <a href="#"><li>Add Team</li></a>
+                                        <a href="#"><li>Edit Team</li></a>
+                                        <a href="#"><li>Change Status</li></a>
+                                        <a href="#"><li>Filter By atau Search Data</li></a>
+                                        <a href="#"><li>Pagination</li></a>
+                                    </ul>
                                 </li>
                                 <li class="nav-item" data-toggle="collapse" href="#">
                                     <a class="nav-link active" id="" data-toggle="tab" href="#help_intro" role="tab" aria-controls="introduction" aria-selected="true">Attendance Admin</a>
+                                </li>
+                                <li class="nav-item">
+                                    <ul class="ml-5 list-unstyled collapse" id="day_off_list" data-parent="#accordion">
+                                        <a href="#"><li>Day Off/Leave</li></a>
+                                        <a href="#"><li>Attendance History</li></a>
+                                        <a href="#"><li>Late</li></a>
+                                    </ul>
                                 </li>
                                 <li class="nav-item" data-toggle="collapse" href="#">
                                     <a class="nav-link active" id="" data-toggle="tab" href="#help_intro" role="tab" aria-controls="introduction" aria-selected="true">Desktop App</a>
@@ -135,12 +185,28 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                                 <li class="nav-item" data-toggle="collapse" href="#">
                                     <a class="nav-link active" id="" data-toggle="tab" href="#help_intro" role="tab" aria-controls="introduction" aria-selected="true">Dashboard - Staff</a>
                                 </li>
+                                <li class="nav-item">
+                                    <ul class="ml-5 list-unstyled collapse" id="day_off_list" data-parent="#accordion">
+                                        <a href="#"><li>Homepage Staff</li></a>
+                                        <a href="#"><li>Attendance Staff</li></a>
+                                    </ul>
+                                </li>
                             </ul>
                         </div>
                     </div>
                     <div class="col-md-8">
                         <div class="tab-content">
                             <div class="tab-pane fade show active" id="help_intro" role="tabpanel" aria-labelledby="">
+                                <h2 class="mb-4">Introduction</h2>
+                                <p>This page is used to view the subscription and transaction histories which have/have not been completed. This page can also be used to upload payment proof and to view the Invoice and Tax files of a transaction.</p>
+                                <ol class="pl-3">
+                                    <li class="mb-3"><b>Select Year</b>: This filter can be used to view all the transactions which happened in the span of the selected year.</li>
+                                    <li class="mb-3"><b>UNPAID</b>: This table displays paid, unpaid, pending, and overdue bills.</li>
+                                    <li class="mb-3"><b>PAID</b>: This table displays bills which have been paid and confirmed.</li>
+                                    <li class="mb-3"><b>Invoice & Tax</b>: These buttons will only appear after payments have been confirmed. The files will always be saved in the system, and can be downloaded whenever. If there are no buttons, it means that the payment is free.</li>
+                                </ol>
+                            </div>
+                            <div class="tab-pane fade" id="help_" role="tabpanel" aria-labelledby="">
                                 <h2 class="mb-4">Bills</h2>
                                 <p>This page is used to view the subscription and transaction histories which have/have not been completed. This page can also be used to upload payment proof and to view the Invoice and Tax files of a transaction.</p>
                                 <ol class="pl-3">
@@ -152,6 +218,8 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                             </div>
                             <div class="tab-pane fade" id="help_login" role="tabpanel" aria-labelledby="">
                                 Login
+
+                                <div id="list_test">dd</div>
                             </div>                        
                             <div class="tab-pane fade" id="help_homepage" role="tabpanel" aria-labelledby="">
                                 Homepage
