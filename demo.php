@@ -180,17 +180,10 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 									<div class="pl-4 mb-5">
 										<div class="row">
 											<div class="col-md-6 col-lg-8">
-												<p class="trial-tab-content">Click <strong>"LOGIN"</strong> <br class="d-none d-md-block"><br class="d-none d-md-block"><br class="d-none d-lg-block d-xl-none"></p>
-												<picture>
-													<source srcset="/img/trial/admin-1.webp" type="image/webp">
-													<img src="/img/trial/admin-1.jpg" alt="Dokodemo-Kerja Website Login" class="img-fluid d-block img-border mb-3 mx-auto" style="height: 295px; object-fit: contain;">
-												</picture>
-											</div>
-											<div class="col-md-6 col-lg-4">
 												<p class="trial-tab-content">Login with the provided email and password</p>
 												<picture>
-													<source srcset="/img/trial/admin-2.webp" type="image/webp">
-													<img src="/img/trial/admin-2.jpg" alt="Dokodemo-Kerja Sign In" class="img-fluid d-block img-border mb-3 mx-auto" style="height: 295px; object-fit: cover;">
+													<source srcset="/img/trial/admin-1.webp" type="image/webp">
+													<img src="/img/trial/admin-1.jpg" alt="Dokodemo-Kerja Website Login" class="img-fluid img-border mb-3">
 												</picture>
 											</div>
 										</div>
