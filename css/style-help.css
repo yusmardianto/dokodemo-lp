@@ -45,10 +45,6 @@ html, body {
 }
 
 /* content */
-.help__explain .explain__content .tab-pane p:not(.no-indent) {
-    text-indent: 3rem;
-}
-
 .help__explain .explain__content .tab-pane picture img {
     border: solid 1px #ccc;
     box-shadow: 2px 2px 12px 1px rgba(0,0,0,.15);
@@ -90,9 +86,6 @@ ol.list--bold > li::marker {
 
 @media (max-width: 767.98px) {
     .help__explain .explain__topic {
-        /* column-count: 2;
-        -webkit-column-count: 2;
-        -moz-column-count: 2; */
         margin-bottom: 20px;
     }
     .help__explain .explain__topic .nav-link {

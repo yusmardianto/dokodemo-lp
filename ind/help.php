@@ -73,15 +73,12 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                     <div class="col-md-4">
                         <div class="explain__topic">
                             <ul class="d-flex flex-column nav" role="tablist" id="accordion">
-                                <li class="nav-item" data-toggle="collapse" href="#">
-                                    <a class="nav-link active" id="" data-toggle="tab" href="#help_intro" role="tab" aria-controls="pengantar" aria-selected="true">Pengantar</a>
-                                </li>
                                 <li class="nav-item" data-toggle="collapse" href="#login_list">
-                                    <a class="nav-link" id="" data-toggle="tab" href="#help_login" role="tab" aria-controls="login" aria-selected="false">Login
+                                    <a class="nav-link active" id="" data-toggle="tab" href="#help_login" role="tab" aria-controls="login" aria-selected="true">Login
                                     </a> 
                                 </li>
                                 <li class="nav-item">  
-                                    <ul class="ml-5 list-unstyled collapse" id="login_list" data-parent="#accordion">
+                                    <ul class="ml-5 list-unstyled collapse show" id="login_list" data-parent="#accordion">
                                         <li><a href="#login_1">Login</a></li>
                                         <li><a href="#login_2">Remember Me</a></li>
                                         <li><a href="#login_3">Forgot Your Password</a></li>
@@ -196,13 +193,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                     </div>
                     <div class="col-md-8">
                         <div class="tab-content explain__content">
-                            <div class="tab-pane fade show active" id="help_intro" role="tabpanel" aria-labelledby="">
-                                <h2 class="mb-4">Pengantar</h2>
-                                <p>Dokodemo-Kerja adalah sistem kerja profesional yang dibuat untuk para pekerja independen dan fleksibel, namun tetap ingin lebih dalam hal produktivitas kerja. Sistem kerja ini merupakan solusi terbaik bagi perusahaan agar dapat mengetahui secara detail kinerja dari seluruh karyawannya.</p>
-                                <p>Dengan menggunakan sistem teknologi ini, perusahaan dapat menerapkan sistem kerja remote bagi karyawannya di mana pun dan kapan pun. Karyawan pun dibebaskan dari kejenuhan dan ketatnya suasana kerja dalam kantor.</p>
-                                <p>Selain untuk karyawan dengan sistem remote, Dokodemo-Kerja ternyata juga dapat Anda pergunakan untuk memantau produktivitas karyawan di kantor. Selain untuk memantau pekerjaan, Dokodemo-Kerja juga dapat digunakan oleh HR dan Manajer sebagai salah satu syarat untuk menentukan kinerja para karyawan.</p>                                
-                            </div>
-                            <div class="tab-pane fade" id="help_login" role="tabpanel" aria-labelledby="">
+                            <div class="tab-pane fade show active" id="help_login" role="tabpanel" aria-labelledby="">
                                 <h2 class="mb-4">Login</h2>
                                 <ol class="list--multi-level list--bold" style="--start: '1'">
                                     <li class="mb-3" id="login_1">
@@ -777,7 +768,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                                         <ol class="pl-3 list--bold">
                                             <li class="mb-2">
                                                 <h6 class="font-weight-bold">Mass Adjust Leave Quota</h6>
-                                                <p class="no-indent">Fitur ini digunakan untuk memperbarui kuota cuti per tim ataupun semuanya sekaligus. Penambahan kuota cuti berlaku selama 1 tahun.</p>
+                                                <p>Fitur ini digunakan untuk memperbarui kuota cuti per tim ataupun semuanya sekaligus. Penambahan kuota cuti berlaku selama 1 tahun.</p>
                                                 <ul class="pl-3">
                                                     <li class="mb-2"><b>Team</b>: Jika perbaruan tidak dibatasi oleh tim, pilih All pada dropdown</li>
                                                     <li class="mb-2"><b>Staff</b>: Opsi ini hanya akan muncul setelah sebuah tim dipilih. Jika tidak, opsi ini tidak akan terlihat.</li>
@@ -787,7 +778,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                                             </li>
                                             <li class="mb-2">
                                                 <h6 class="font-weight-bold">Import Day Off Data</h6>
-                                                <p class="no-indent">Fitur ini digunakan untuk memperbarui kuota cuti berdasarkan berkas csv yang diunggah. Unduh contoh/format data dari <a href="http://dokodemo-kerja.l72.logique.co.id/template/dayoff/import_leave_quota_template.csv">link ini</a>.</p>
+                                                <p>Fitur ini digunakan untuk memperbarui kuota cuti berdasarkan berkas csv yang diunggah. Unduh contoh/format data dari <a href="http://dokodemo-kerja.l72.logique.co.id/template/dayoff/import_leave_quota_template.csv">link ini</a>.</p>
                                                 <ul class="pl-3">
                                                     <li class="mb-2"><b>Add/Reset</b>: Add adalah untuk menambah kuota cuti, dan reset adalah untuk mengganti kuota cuti</li>
                                                     <li class="mb-2"><b>Import</b>: Setelah mengunduh dan melengkapi format kuota cuti yang ada di atas, unggah berkas yang tepat dengan menekan tombol Choose File, lalu tekan tombol Import.</li>
@@ -854,11 +845,11 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                                         <ol class="list--bold pl-3 mb-3">
                                             <li class="mb-2">
                                                 <h6 class="font-weight-bold">Working Days</h6>
-                                                <p class="no-indent">Menu ini digunakan untuk menentukan hari kerja per minggu. Tekan panah biru yang ada di kolom Action, pilih Yes untuk hari kerja, dan No untuk hari libur.</p>
+                                                <p>Menu ini digunakan untuk menentukan hari kerja per minggu. Tekan panah biru yang ada di kolom Action, pilih Yes untuk hari kerja, dan No untuk hari libur.</p>
                                             </li>
                                             <li class="mb-2">
                                                 <h6 class="font-weight-bold">2. Holidays</h6>
-                                                <p class="no-indent">Menu ini digunakan untuk menambah, mengubah, dan menghapus hari libur yang lebih spesifik. Berikut adalah detail pengaturan Holidays.</p>
+                                                <p>Menu ini digunakan untuk menambah, mengubah, dan menghapus hari libur yang lebih spesifik. Berikut adalah detail pengaturan Holidays.</p>
                                                 <ul>
                                                     <li class="mb-2"><b>Holiday Name</b>: nama liburan</li>
                                                     <li class="mb-2"><b>Holiday Start</b>: tanggal mulai liburan</li>
@@ -888,19 +879,19 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                                         <ol class="pl-3 list--bold">
                                             <li class="mb-2">
                                                 <h6 class="font-weight-bold">Late Tolerance</h6>
-                                                <p class="no-indent">Tekan dropdown Late Tolerance, pilih waktu, dan klik tombol Save Changes. <u>Contoh</u>: Jika dropdown yang dipilih adalah 15 menit, dan karyawan Start program 16 menit melebihi Starting Time yang telah diterapkan, maka Late yang tehitung adalah 16 menit, dan bukan 1 menit.</p>
+                                                <p>Tekan dropdown Late Tolerance, pilih waktu, dan klik tombol Save Changes. <u>Contoh</u>: Jika dropdown yang dipilih adalah 15 menit, dan karyawan Start program 16 menit melebihi Starting Time yang telah diterapkan, maka Late yang tehitung adalah 16 menit, dan bukan 1 menit.</p>
                                             </li>
                                             <li class="mb-2">
                                                 <h6 class="font-weight-bold">Workhour notification schedule</h6>
-                                                <p class="no-indent">Fitur ini adalah untuk memilih apakah super admin / admin akan menerima email notifikasi yang berisikan daftar nama karyawan yang belum memenuhi jam kerja minimum, yaitu 40 jam. Dropdown digunakan untuk memilih hari, atau untuk tidak menerima email sama sekali.</p>
+                                                <p>Fitur ini adalah untuk memilih apakah super admin / admin akan menerima email notifikasi yang berisikan daftar nama karyawan yang belum memenuhi jam kerja minimum, yaitu 40 jam. Dropdown digunakan untuk memilih hari, atau untuk tidak menerima email sama sekali.</p>
                                             </li>
                                             <li class="mb-2">
                                                 <h6 class="font-weight-bold">Workhour notification time</h6>
-                                                <p class="no-indent">Fitur ini digunakan untuk menentukan jam berapa email dikirimkan.</p>
+                                                <p>Fitur ini digunakan untuk menentukan jam berapa email dikirimkan.</p>
                                             </li>
                                             <li class="mb-2">
                                                 <h6 class="font-weight-bold">Set Staff weekly workhour email notification receiver</h6>
-                                                <p class="no-indent">Tabel ini menunjukkan daftar admin dan super admin yang dapat menerima email notifikasi jam kerja. Tekan checkbox untuk menentukan siapa saja yang akan menerima email.</p>
+                                                <p>Tabel ini menunjukkan daftar admin dan super admin yang dapat menerima email notifikasi jam kerja. Tekan checkbox untuk menentukan siapa saja yang akan menerima email.</p>
                                             </li>
                                         </ol>
                                     </li>
@@ -938,11 +929,11 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                                         <ol class="pl-3 list--bold">
                                             <li class="mb-2">
                                                     <h6 class="font-weight-bold">My Day Off Request</h6>
-                                                    <p class="no-indent">Tabel pertama adalah untuk mengelola pengajuan day off sendiri. Menu ini terdiri dari 2 tab; Active dan Closed.</p>
+                                                    <p>Tabel pertama adalah untuk mengelola pengajuan day off sendiri. Menu ini terdiri dari 2 tab; Active dan Closed.</p>
 
                                                     <ul class="pl-3">
-                                                        <li class="mb-2">Tab <b class="">Active</b> menyimpan pengajuan-pengajuan yang masih menunggu persetujuan (<b class="text-info">Pending</b>), dan yang sudah disetujui (<b class="text-success">Approved</b>).</li>
-                                                        <li class="mb-2">Tab <b class="">Closed</b> menyimpan pengajuan-pengajuan yang telah ditolak (<b class="text-danger">Rejected</b>) dan yang sudah lewat.
+                                                        <li class="mb-2">Tab <b>Active</b> menyimpan pengajuan-pengajuan yang masih menunggu persetujuan (<b class="text-info">Pending</b>), dan yang sudah disetujui (<b class="text-success">Approved</b>).</li>
+                                                        <li class="mb-2">Tab <b>Closed</b> menyimpan pengajuan-pengajuan yang telah ditolak (<b class="text-danger">Rejected</b>) dan yang sudah lewat.
                                                             <div class="my-3">
                                                                 <picture>
                                                                     <source srcset="/img/help/webp/attendance-8-2.webp" type="image/webp">
@@ -950,8 +941,8 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                                                                 </picture>
                                                                 <small class="d-block">Gambar 8.2 My Day Off Request</small>
                                                             </div>  
-                                                            <p class="no-indent">Untuk mengajukan day off, tekan tombol Request Day Off. Sebuah formulir, seperti yang di Gambar 8.3 akan muncul.</p>         
-                                                            <div class="">
+                                                            <p>Untuk mengajukan day off, tekan tombol Request Day Off. Sebuah formulir, seperti yang di Gambar 8.3 akan muncul.</p>         
+                                                            <div>
                                                                 <picture>
                                                                     <source srcset="/img/help/webp/attendance-8-3.webp" type="image/webp">
                                                                     <img src="/img/help/jpg/attendance-8-3.jpg" alt="dokodemo form day off request" class="img-fluid">
@@ -969,7 +960,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                                             </li>
                                             <li class="mb-2">
                                                 <h6 class="font-weight-bold">Day Off Request</h6>
-                                                <p class="no-indent">Day Off Request (Team’s Day Off Request untuk team leader) pada table kedua berisikan pengajuan day off dari staff. Berikut adalah penjelasan dari kolom-kolom yang bisa dilihat di Gambar 8.4.</p>
+                                                <p>Day Off Request (Team’s Day Off Request untuk team leader) pada table kedua berisikan pengajuan day off dari staff. Berikut adalah penjelasan dari kolom-kolom yang bisa dilihat di Gambar 8.4.</p>
                                                 <ul class="pl-3 mb-4">
                                                     <li class="mb-2"><b>Date</b>: Tanggal day off yang diajukan</li>
                                                     <li class="mb-2"><b>Leave Type</b>: Tipe day off yang dipilih</li>
@@ -1003,7 +994,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                                         <ol class="pl-3 list--bold">
                                             <li class="mb-2">
                                                 <h6 class="font-weight-bold">Monthly</h6>
-                                                <p class="no-indent">Gambar 8.6 menunjukkan absensi karyawan selama 1 bulan. Nama Staff bisa di klik untuk memunculkan riwayat absensi (Lihat Gambar 8.7).</p>
+                                                <p>Gambar 8.6 menunjukkan absensi karyawan selama 1 bulan. Nama Staff bisa di klik untuk memunculkan riwayat absensi (Lihat Gambar 8.7).</p>
                                                 <div class="mb-3">
                                                     <picture>
                                                         <source srcset="/img/help/webp/attendance-8-6.webp" type="image/webp">
@@ -1018,13 +1009,13 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                                                     </picture>
                                                     <small class="d-block">Gambar 8.7 Detail Absensi Karyawan</small>
                                                 </div>
-                                                <p class="no-indent">Di sebelah kiri table, bisa dilihat kesimpulan absensi karyawan yang berisikan riwayat cuti dan riwayat keterlambatan selama 1 bulan.</p>
-                                                <p class="no-indent">Terdapat 2 tabel di detail absensi. Day off menunjukkan semua day off yang sudah lewat, dan Late menunjukkan pada hari apa saja karyawan tersebut terlambat.</p>
+                                                <p>Di sebelah kiri table, bisa dilihat kesimpulan absensi karyawan yang berisikan riwayat cuti dan riwayat keterlambatan selama 1 bulan.</p>
+                                                <p>Terdapat 2 tabel di detail absensi. Day off menunjukkan semua day off yang sudah lewat, dan Late menunjukkan pada hari apa saja karyawan tersebut terlambat.</p>
 
                                                 <ul class="pl-3">
                                                     <li class="mb-2">
                                                         <h6>Day Off</h6>
-                                                        <p class="no-indent">Day off yang tidak diajukan oleh staff bisa ditambahkan sendiri oleh Admin dengan menekan tombol Add New (Lihat Gambar 8.8). Saat tombol Add New ditekan, akan muncul formulir yang sama dengan Day Off Request (Gambar 8.3).</p>
+                                                        <p>Day off yang tidak diajukan oleh staff bisa ditambahkan sendiri oleh Admin dengan menekan tombol Add New (Lihat Gambar 8.8). Saat tombol Add New ditekan, akan muncul formulir yang sama dengan Day Off Request (Gambar 8.3).</p>
                                                         <picture>
                                                             <source srcset="/img/help/webp/attendance-8-8.webp" type="image/webp">
                                                             <img src="/img/help/jpg/attendance-8-8.jpg" alt="dokodemo monthly attendance" class="img-fluid">
@@ -1033,7 +1024,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                                                     </li>
                                                     <li class="mb-2">
                                                         <h6>Late</h6>
-                                                        <p class="no-indent">Tabel Late (Gambar 8.9) menunjukkan berapa kali karyawan tersebut terlambat dalam 1 bulan. Data akan ditambahkan secara otomatis, sehingga tidak ada tombol Add New di table ini. Jika tombol edit ditekan, maka muncul sebuah formulir untuk mengubah detail keterlambatan (Lihat Gambar 8.).</p>
+                                                        <p>Tabel Late (Gambar 8.9) menunjukkan berapa kali karyawan tersebut terlambat dalam 1 bulan. Data akan ditambahkan secara otomatis, sehingga tidak ada tombol Add New di table ini. Jika tombol edit ditekan, maka muncul sebuah formulir untuk mengubah detail keterlambatan (Lihat Gambar 8.).</p>
                                                         <picture>
                                                             <source srcset="/img/help/webp/attendance-8-9.webp" type="image/webp">
                                                             <img src="/img/help/jpg/attendance-8-9.jpg" alt="dokodemo monthly attendance" class="img-fluid">
@@ -1044,7 +1035,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                                             </li>
                                             <li class="mb-2">
                                                 <h6 class="font-weight-bold">Yearly</h6>
-                                                <p class="no-indent">Admin harus memilih team dan nama staff dulu untuk menampilkan riwayat absesnsi karyawan tersebut. Tabel Pertama menunjukkan sejarah kehadiran, keterlambatan, day off, cuti, serta hari-hari libur selama 1 tahun.</p>
+                                                <p>Admin harus memilih team dan nama staff dulu untuk menampilkan riwayat absesnsi karyawan tersebut. Tabel Pertama menunjukkan sejarah kehadiran, keterlambatan, day off, cuti, serta hari-hari libur selama 1 tahun.</p>
                                                 <picture>
                                                     <source srcset="/img/help/webp/attendance-8-9.webp" type="image/webp">
                                                     <img src="/img/help/jpg/attendance-8-9.jpg" alt="dokodemo yearly attendance" class="img-fluid">
@@ -1061,7 +1052,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                                         <ol class="pl-3">
                                             <li class="mb-2">
                                                 <h6 class="font-weight-bold">Started</h6>
-                                                <p class="no-indent">Berisikan nama-nama orang yang terlambat, namun sudah memulai aplikasi (Lihat Gambar 8.10). Tombol Edit digunakan untuk menambahkan alasan keterlambatan (Lihat Gambar 8.11).</p>
+                                                <p>Berisikan nama-nama orang yang terlambat, namun sudah memulai aplikasi (Lihat Gambar 8.10). Tombol Edit digunakan untuk menambahkan alasan keterlambatan (Lihat Gambar 8.11).</p>
                                                 <div class="mb-4">
                                                     <picture>
                                                         <source srcset="/img/help/webp/attendance-8-10.webp" type="image/webp">
@@ -1069,7 +1060,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                                                     </picture>
                                                     <small class="d-block">Gambar 8.10 Halaman Late History</small>
                                                 </div>
-                                                <div class="">
+                                                <div>
                                                     <picture>
                                                         <source srcset="/img/help/webp/attendance-8-11.webp" type="image/webp">
                                                         <img src="/img/help/jpg/attendance-8-11.jpg" alt="dokodemo late detail" class="img-fluid">
@@ -1079,7 +1070,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                                             </li>
                                             <li class="mb-2">
                                                 <h6 class="font-weight-bold">Started</h6>
-                                                <p class="no-indent">Berisikan nama-nama orang yang sudah terlambat, dan belum memulai aplikasi (Lihat Gambar 8.12).</p>
+                                                <p>Berisikan nama-nama orang yang sudah terlambat, dan belum memulai aplikasi (Lihat Gambar 8.12).</p>
                                                 <picture>
                                                     <source srcset="/img/help/webp/attendance-8-12.webp" type="image/webp">
                                                     <img src="/img/help/jpg/attendance-8-12.jpg" alt="dokodemo profile popup" class="img-fluid">
@@ -1093,7 +1084,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                             </div>                        
                             <div class="tab-pane fade" id="help_desktop" role="tabpanel" aria-labelledby="">
                                 <h2 class="mb-4">Desktop App</h2>
-                                <p>Desktop App Dokodemo-Kerja bisa diunduh melalui menu navigasi, seperti yang tertera pada Gambar 8.1. Dokodemo-kerja Desktop App tersedia dalam 3 platform, yaitu Linux, Mac, dan Windows. Sedangkan untuk Mobile App, Dokodemo-Kerja tersedia dalam Android dan iOS, yang dapat diunduh dari Play Store, App Store, ataupun website.</p>
+                                <p>Desktop App Dokodemo-Kerja bisa diunduh melalui menu navigasi, seperti yang tertera pada Gambar 9.1. Dokodemo-kerja Desktop App tersedia dalam 3 platform, yaitu Linux, Mac, dan Windows. Sedangkan untuk Mobile App, Dokodemo-Kerja tersedia dalam Android dan iOS, yang dapat diunduh dari Play Store, App Store, ataupun website.</p>
                                 <div class="mb-3">
                                     <picture>
                                         <source srcset="/img/help/webp/desktop-9-1.webp" type="image/webp">
@@ -1106,7 +1097,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                                 <ol class="pl-3 list--bold">
                                     <li class="mb-2">
                                         <h6 class="font-weight-bold">Login</h6>
-                                        <p class="no-indent">Login dengan menggunakan email dan password yang benar. Koneksi internet dibutuhkan untuk tahap ini. (Lihat Gambar 9.2)</p>
+                                        <p>Login dengan menggunakan email dan password yang benar. Koneksi internet dibutuhkan untuk tahap ini. (Lihat Gambar 9.2)</p>
                                         <picture>
                                             <source srcset="/img/help/webp/desktop-9-2.webp" type="image/webp">
                                             <img src="/img/help/jpg/desktop-9-2.jpg" alt="dokodemo desktop login" class="img-fluid">
@@ -1115,7 +1106,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                                     </li>
                                     <li class="mb-2">
                                         <h6 class="font-weight-bold">Start / Stop Task</h6>
-                                        <p class="no-indent">Untuk memulai perhitungan waktu, tekan tombol “Play”. (Lihat Gambar 9.3)</p>
+                                        <p>Untuk memulai perhitungan waktu, tekan tombol “Play”. (Lihat Gambar 9.3)</p>
                                         <div class="mb-3">
                                             <picture>
                                                 <source srcset="/img/help/webp/desktop-9-3.webp" type="image/webp">
@@ -1123,11 +1114,11 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                                             </picture>
                                             <small class="d-block">Gambar 9.3 Desktop App Play</small>
                                         </div>
-                                        <p class="no-indent">Untuk menghentikan perhitungan waktu, tekan tombol Stop. (Lihat Gambar 9.4)</p>
-                                        <div class="">
+                                        <p>Untuk menghentikan perhitungan waktu, tekan tombol Stop. (Lihat Gambar 9.4)</p>
+                                        <div>
                                             <picture>
-                                                <source srcset="/img/help/webp/desktop-9-.webp" type="image/webp">
-                                                <img src="/img/help/jpg/desktop-9-.jpg" alt="dokodemo desktop app stop" class="img-fluid">
+                                                <source srcset="/img/help/webp/desktop-9-4.webp" type="image/webp">
+                                                <img src="/img/help/jpg/desktop-9-4.jpg" alt="dokodemo desktop app stop" class="img-fluid">
                                             </picture>
                                             <small class="d-block">Gambar 9.4 Desktop App Stop</small>
                                         </div>
@@ -1158,6 +1149,13 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                                     <li class="mb-2" id="dashboard_1">
                                         <h5 class="font-weight-bold">Homepage Staff</h5>
                                         <p>Halaman utama staff dapat digunakan untuk melihat sesi, screenshot, dan lokasi yang direkam oleh Dokodemo-Kerja. Berikut adalah fitur-fitur yang ada di halaman ini.</p>
+                                        <div class="mb-5">
+                                            <picture>
+                                                <source srcset="/img/help/webp/dashboard-10-1.webp" type="image/webp">
+                                                <img src="/img/help/jpg/dashboard-10-1.jpg" alt="dokodemo staff web dashboard" class="img-fluid">
+                                            </picture>
+                                            <small class="d-block">Gambar 10.1 Staff Web Dashboard</small>
+                                        </div>
 
                                         <ol class="pl-3 list--bold">
                                             <li class="mb-2"><b>Filter by Date</b>: staff dapat melihat time tracking pada tanggal-tanggal sebelumnya. Klik panah berwarna biru, atau pilih tanggal yang diinginkan untuk memuncul time tracking tanggal yang berbeda.</li>
@@ -1173,22 +1171,15 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                                                     <li class="mb-2"><b>Pagination</b>: Digunakan jika jumlah baris task lebih dari angka yang dipilih di Show.</li>
                                                 </ul>
                                                 <picture>
-                                                    <source srcset="/img/help/webp/dashboard-10-1.webp" type="image/webp">
-                                                    <img src="/img/help/jpg/dashboard-10-1.jpg" alt="dokodemo staff time tracker" class="img-fluid">
+                                                    <source srcset="/img/help/webp/dashboard-10-2.webp" type="image/webp">
+                                                    <img src="/img/help/jpg/dashboard-10-2.jpg" alt="dokodemo staff time tracker" class="img-fluid">
                                                 </picture>
-                                                <small class="d-block">Gambar 10.1 Time Tracker Staff</small>
+                                                <small class="d-block">Gambar 10.2 Time Tracker Staff</small>
                                             </li>
                                             <li class="mb-2"><b>Total Time / Set Time</b>: Total jam kerja 1 hari dan jam mulai kerja karyawan</li>
                                             <li class="mb-2"><b>Comment</b>: Staff dapat menerima dan membalas komentar yang didapatkan dari team leader atau admin dari menu ini.</li>
                                             <li class="mb-2">
                                                 <b>History Edited Time</b>: Sejarah pergantian waktu kerja.
-                                                <div class="mt-3">
-                                                    <picture>
-                                                        <source srcset="/img/help/webp/dashboard-10-2.webp" type="image/webp">
-                                                        <img src="/img/help/jpg/dashboard-10-2.jpg" alt="dokodemo staff web dashboard" class="img-fluid">
-                                                    </picture>
-                                                    <small class="d-block">Gambar 10.2 Staff Web Dashboard</small>
-                                                </div>
                                             </li>
                                             <li class="mb-2">
                                                 <b>Session Details</b>: Fitur ini dugunakan sebagai catatan kerja per hari. Satu sesi akan muncul saat staff menekan tombol Start dan Stop. Walaupun task yang dipilih sama, sesi akan dipisah. Tombol Edit digunakan untuk mengisi penjelasan sesi. (Lihat Gambar 10.3)
@@ -1216,7 +1207,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                                                     <li class="mb-2">Pinpoint merah dapat di klik untuk menunjukkan tanggal dan waktu seorang karyawan berada pada lokasi tertentu.</li>
                                                     <li class="mb-2">Icon bulatan hijau bisa bergerak dari titik mulai sampai ke titik akhir untuk menunjukkan rute yang diambil staff.</li>
                                                 </ul>
-                                                <div class="">
+                                                <div>
                                                     <picture>
                                                         <source srcset="/img/help/webp/dashboard-10-5.webp" type="image/webp">
                                                         <img src="/img/help/jpg/dashboard-10-5.jpg" alt="dokodemo track location" class="img-fluid">
@@ -1239,7 +1230,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                                 </ol>
                             </div>                        
                         </div>
-                        <div class="">
+                        <div>
                             <hr class="mb-3 mt-5">
                             Do you need more help? Contact Us through these links: <br>
                             WA: <a target="_blank" href="https://api.whatsapp.com/send?phone=62811870321">0811870321</a> <br>    
