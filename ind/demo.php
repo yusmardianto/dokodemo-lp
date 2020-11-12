@@ -170,7 +170,7 @@ $page = 'demo';
 
 					<div class="installation-manual">
 						Download user manual di sini:
-						<a class="installation-manual__item" target="_blank" href="/pdf/user_manual_dokodemo_ver_2.1.pdf" download>
+						<a class="installation-manual__item" target="_blank" href="/pdf/user_manual_dokodemo_ver_2-2-2-id.pdf" download>
 							<img src="/img/trial/pdf.svg" alt="">
 							Desktop
 						</a>
