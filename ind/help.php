@@ -9,7 +9,7 @@
     <meta name="keywords" content="LOGIQUE Digital Indonesia, Dokodemo-Kerja, digital solutions, human resources, remote working software, remote working, remote work, reducing costs, reduce costs, Nicholas Bloom, Working from home">
     <meta name="author" content="PT. LOGIQUE Digital Indonesia">
 	<meta name="google-site-verification" content="Xc9SFJQZdKYLsrWvrxEjLLTA-nyrnNPQTXQoMxs4gKI" />
-    <meta property="og:title" content="Help Dokodemo-Kerja | Remote Work Tracking Tool for HR">
+    <meta property="og:title" content="Bantuan Dokodemo-Kerja | Remote Work Tracking Tool for HR">
     <meta property="og:type" content="website">
     <meta property="og:site_name" content="Dokodemo-Kerja">
     <meta property="og:url" content="https://dokodemo-kerja.com">
@@ -22,7 +22,7 @@
     <link rel="stylesheet" href="/css/header-footer.css" />
     <link rel="stylesheet" href="/css/style-help.css" />
 	<link rel="shortcut icon" type="image/x-icon" href="favicon.ico">
-    <title>About Dokodemo-Kerja | Cloud System for HR</title>
+    <title>Bantuan Dokodemo-Kerja | Cloud System for HR</title>
     <script src="https://www.googleoptimize.com/optimize.js?id=OPT-P232K37"></script>
 	<!-- Google Tag Manager -->
 	<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
@@ -203,7 +203,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                                             <source srcset="/img/help/webp/login-1-1.webp" type="image/webp">
                                             <img src="/img/help/jpg/login-1-1.jpg" alt="login page dokodemo" class="img-fluid">
                                         </picture>
-                                        <small class="d-block">Gambar 1.1</small>                                
+                                        <small class="d-block">Gambar 1.1 Halaman Login</small>                                
                                     </li>
                                     <li class="mb-3" id="login_2">
                                         <h5 class="font-weight-bold">Remember Me</h5>
@@ -213,17 +213,17 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                                         <h5 class="font-weight-bold">Forgot your Password</h5>
                                         <p>Fitur ini digunakan untuk mendapatkan password kembali jika user lupa dengan passwordnya. Cara untuk mendapatkan password kembali:</p>
                                         <ul class="mb-4">
-                                            <li>Klik forgot your password pada halaman login. <br> (Lihat Gambar 1.3.1)</li>
-                                            <li>Masukan email address.</li>
-                                            <li>Link reset password akan dikirimkan ke email user.</li>
+                                            <li class="mb-2">Klik forgot your password pada halaman login. <br> (Lihat Gambar 1.3.1)</li>
+                                            <li class="mb-2">Masukan email address.</li>
+                                            <li class="mb-2">Link reset password akan dikirimkan ke email user.</li>
                                         </ul>
                                         <div class="row">
                                             <div class="col-md-7">
                                                 <picture>
                                                     <source srcset="/img/help/webp/login-1-2.webp" type="image/webp">
-                                                    <img src="/img/help/jpg/login-1-2.jpg" alt="login page dokodemo" class="img-fluid">
+                                                    <img src="/img/help/jpg/login-1-2.jpg" alt="forgot password dokodemo" class="img-fluid">
                                                 </picture>
-                                                <small class="d-block">Gambar 1.1</small>
+                                                <small class="d-block">Gambar 1.2 Halaman Forgot Password</small>
                                             </div>
                                         </div>
                                     </li>
