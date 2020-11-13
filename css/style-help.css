@@ -11,6 +11,11 @@ html, body {
 }
 
 /* navigation */
+.explain__topic {
+    position: sticky;
+    position: -webkit-sticky;
+    top: 0;
+}
 .help__explain .explain__topic .nav-link,
 .help__explain .explain__topic .nav-item > .collapse a {
     display: block;
