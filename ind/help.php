@@ -198,12 +198,11 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                                 <ol class="list--multi-level list--bold" style="--start: '1'">
                                     <li class="mb-3" id="login_1">
                                         <h5 class="font-weight-bold">Login</h5>
-                                        <p>Masukan email dan password yang sudah terdaftar lalu centang box captcha. (Lihat Gambar 1.1)</p>
+                                        <p>Masukan email dan password yang sudah terdaftar lalu centang box captcha.</p>
                                         <picture>
                                             <source srcset="/img/help/webp/login-1-1.webp" type="image/webp">
                                             <img src="/img/help/jpg/login-1-1.jpg" alt="login page dokodemo" class="img-fluid">
-                                        </picture>
-                                        <small class="d-block">Gambar 1.1 Halaman Login</small>                                
+                                        </picture>                              
                                     </li>
                                     <li class="mb-3" id="login_2">
                                         <h5 class="font-weight-bold">Remember Me</h5>
@@ -213,7 +212,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                                         <h5 class="font-weight-bold">Forgot your Password</h5>
                                         <p>Fitur ini digunakan untuk mendapatkan password kembali jika user lupa dengan passwordnya. Cara untuk mendapatkan password kembali:</p>
                                         <ul class="mb-4">
-                                            <li class="mb-2">Klik forgot your password pada halaman login. <br> (Lihat Gambar 1.3.1)</li>
+                                            <li class="mb-2">Klik forgot your password pada halaman login.</li>
                                             <li class="mb-2">Masukan email address.</li>
                                             <li class="mb-2">Link reset password akan dikirimkan ke email user.</li>
                                         </ul>
@@ -223,7 +222,6 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                                                     <source srcset="/img/help/webp/login-1-2.webp" type="image/webp">
                                                     <img src="/img/help/jpg/login-1-2.jpg" alt="forgot password dokodemo" class="img-fluid">
                                                 </picture>
-                                                <small class="d-block">Gambar 1.2 Halaman Forgot Password</small>
                                             </div>
                                         </div>
                                     </li>
@@ -237,7 +235,6 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                                         <source srcset="/img/help/webp/homepage-2-1.webp" type="image/webp">
                                         <img src="/img/help/jpg/homepage-2-1.jpg" alt="homepage admin page" class="img-fluid">
                                     </picture>
-                                    <small class="d-block">Gambar 2.1 Halaman Homepage – Admin</small>
                                 </div>
                                 <ol class="pl-3 mb-5">
                                     <li class="mb-2"><b>Filter by Team</b>: Fitur ini digunakan untuk menyortir tabel berdasarkan Team.</li>
@@ -256,40 +253,37 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 
                                     <li class="mb-3" id="homepage_1">
                                         <h5 class="font-weight-bold">Filter by Team</h5>
-                                        <p>Admin dapat melakukan filter time tracking berdasarkan Team melalui fitur ini. Setelah memilih nama Team, website akan menampilkan time tracking seluruh karyawan yang termasuk di dalam Team tersebut. (Lihat Gambar 2.2)</p>
+                                        <p>Admin dapat melakukan filter time tracking berdasarkan Team melalui fitur ini. Setelah memilih nama Team, website akan menampilkan time tracking seluruh karyawan yang termasuk di dalam Team tersebut.</p>
                                         <div class="row col-md-11">
                                             <picture>
                                                 <source srcset="/img/help/webp/homepage-2-2.webp" type="image/webp">
                                                 <img src="/img/help/jpg/homepage-2-2.jpg" alt="fiter by team" class="img-fluid">
                                             </picture>
-                                            <small class="d-block">Gambar 2.2 Filter by Team</small>
                                         </div>
                                     </li>
     
                                     <li class="mb-3" id="homepage_2">
                                         <h5 class="font-weight-bold">Filter by Staff Name</h5>
-                                        <p>Admin dapat melakukan filter time tracking berdasarkan nama karyawan melalui fitur ini. Setelah memilih nama karyawan, website akan menampilkan data time tracking karyawan yang dipilih. (Lihat Gambar 2.3)</p>
+                                        <p>Admin dapat melakukan filter time tracking berdasarkan nama karyawan melalui fitur ini. Setelah memilih nama karyawan, website akan menampilkan data time tracking karyawan yang dipilih.</p>
                                         <picture>
                                             <source srcset="/img/help/webp/homepage-2-3.webp" type="image/webp">
                                             <img src="/img/help/jpg/homepage-2-3.jpg" alt="Filter by Staff Name" class="img-fluid">
                                         </picture>
-                                        <small class="d-block">Gambar 2.3 Filter by Staff Name</small>
                                     </li>                                
     
                                     <li class="mb-3" id="homepage_3">
                                         <h5 class="font-weight-bold">Filter by Date</h5>
                                         <p>Admin dapat melakukan filter time tracking berdasarkan tanggal melalui fitur ini. Setelah meng-klik tanggal yang dipilih, website akan menampilkan time tracking seluruh karyawan pada tanggal yang telah dipilih.</p>
-                                        <p>Warna biru menunjukkan tanggal yang dipilih, sedangkan warna kuning menunjukkan tanggal hari ini. (Lihat Gambar 2.4)</p>
+                                        <p>Warna biru menunjukkan tanggal yang dipilih, sedangkan warna kuning menunjukkan tanggal hari ini.</p>
                                         <picture>
                                             <source srcset="/img/help/webp/homepage-2-4.webp" type="image/webp">
                                             <img src="/img/help/jpg/homepage-2-4.jpg" alt="Filter by Date" class="img-fluid">
                                         </picture>
-                                        <small class="d-block">Gambar 2.4 Filter by Date</small>
                                     </li>
     
                                     <li class="mb-3" id="homepage_4">
                                         <h5 class="font-weight-bold">Daily</h5>
-                                        <p>Halaman ini digunakan untuk menampilkan jam kerja karyawan per hari. Dengan fitur ini admin dapat melihat data time tracking harian karyawan. Pada halaman ini terdapat kolom nama staff, time worked, dan tanggal per harinya. (Lihat Gambar 2.5)</p>
+                                        <p>Halaman ini digunakan untuk menampilkan jam kerja karyawan per hari. Dengan fitur ini admin dapat melihat data time tracking harian karyawan. Pada halaman ini terdapat kolom nama staff, time worked, dan tanggal per harinya.</p>
                                         <ul class="mb-3">
                                             <li><b>Staff Name</b>: Kolom ini berisikan nama-nama staff yang mengaktifkan Dokodemo-Kerja.</li>
                                             <li><b>Time Worked</b>: Jumlah jam kerja per hari.</li>
@@ -301,12 +295,11 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                                             <source srcset="/img/help/webp/homepage-2-5.webp" type="image/webp">
                                             <img src="/img/help/jpg/homepage-2-5.jpg" alt="Daily Work Hour" class="img-fluid">
                                         </picture>
-                                        <small class="d-block">Gambar 2.5 Daily Work Hour</small>
                                     </li>
     
                                     <li class="mb-3" id="homepage_5">
                                         <h5 class="font-weight-bold">Weekly</h5>
-                                        <p>Halaman yang digunakan untuk menampilkan jam kerja karyawan selama 7 hari / 1 minggu. Dengan fitur ini admin dapat melihat data time tracking mingguan karyawan. Pada halaman ini terdapat kolom nama staff, time worked, dan tanggal selama 1 minggu. (Lihat Gambar 2.6)</p>
+                                        <p>Halaman yang digunakan untuk menampilkan jam kerja karyawan selama 7 hari / 1 minggu. Dengan fitur ini admin dapat melihat data time tracking mingguan karyawan. Pada halaman ini terdapat kolom nama staff, time worked, dan tanggal selama 1 minggu.</p>
                                         <ul class="mb-3">
                                             <li><b>Staff Name</b>: Kolom yang berisikan nama-nama staff yang mengaktifkan Dokodemo-Kerja.</li>
                                             <li><b>Time Worked</b>: Jumlah jam kerja selama 1 minggu.</li>
@@ -318,12 +311,11 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                                             <source srcset="/img/help/webp/homepage-2-6.webp" type="image/webp">
                                             <img src="/img/help/jpg/homepage-2-6.jpg" alt="Weekly Work Hour" class="img-fluid">
                                         </picture>
-                                        <small class="d-block">Gambar 2.6 Weekly Work Hour</small>
                                     </li>
     
                                     <li class="mb-3" id="homepage_6">
                                         <h5 class="font-weight-bold">Monthly</h5>
-                                        <p>Halaman yang digunakan untuk menampilkan jam kerja karyawan selama 1 bulan. Dengan fitur ini admin dapat melihat time tracking bulanan karyawan. Pada halaman ini terdapat kolom nama staff, time worked, dan tanggal selama 1 bulan. (Lihat Gambar 2.7)</p>
+                                        <p>Halaman yang digunakan untuk menampilkan jam kerja karyawan selama 1 bulan. Dengan fitur ini admin dapat melihat time tracking bulanan karyawan. Pada halaman ini terdapat kolom nama staff, time worked, dan tanggal selama 1 bulan.</p>
                                         <ul class="mb-3">
                                             <li><b>Staff Name</b>: Kolom yang berisikan nama-nama staff yang mengaktifkan Dokodemo-Kerja.</li>
                                             <li><b>Time Worked</b>: Jumlah jam kerja selama 1 bulan.</li>
@@ -335,12 +327,11 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                                             <source srcset="/img/help/webp/homepage-2-7.webp" type="image/webp">
                                             <img src="/img/help/jpg/homepage-2-7.jpg" alt="Monthly Work Hour" class="img-fluid">
                                         </picture>
-                                        <small class="d-block">Gambar 2.7 Monthly Work Hour</small>
                                     </li>
     
                                     <li class="mb-3" id="homepage_7">
                                         <h5 class="font-weight-bold">Edit Time Tracking</h5>
-                                        <p>Fitur ini berfungsi untuk mengganti / merubah waktu yang telah tersimpan di menu time tracking. Pada fitur ini terdapat bagian start time, end time, dan reason. (Gambar 2.8)</p>
+                                        <p>Fitur ini berfungsi untuk mengganti / merubah waktu yang telah tersimpan di menu time tracking. Pada fitur ini terdapat bagian start time, end time, dan reason.</p>
                                         <ul class="mb-3">
                                             <li>Start time: Waktu ketika mulai mengaktifkan Dokodemo-Kerja.</li>
                                             <li>End time: Waktu ketika mengakhiri Dokodemo-Kerja.</li>
@@ -358,48 +349,43 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                                             <source srcset="/img/help/webp/homepage-2-9.webp" type="image/webp">
                                             <img src="/img/help/jpg/homepage-2-9.jpg" alt="Edit Time Tracking" class="img-fluid">
                                         </picture>
-                                        <small class="d-block">Gambar 2.8 Edit Time Tracking</small>
                                     </li>
     
                                     <li class="mb-3" id="homepage_8">
                                         <h5 class="font-weight-bold">Show Data</h5>
-                                        <p>Fitur ini berfungsi untuk menampilkan banyaknya data karyawan yang ditampilkan di tiap halamannya. Admin dapat memilih untuk menampilkan 10, 15, 25, 50, atau semuanya. (Lihat Gambar 2.9)</p>
+                                        <p>Fitur ini berfungsi untuk menampilkan banyaknya data karyawan yang ditampilkan di tiap halamannya. Admin dapat memilih untuk menampilkan 10, 15, 25, 50, atau semuanya.</p>
                                         <picture>
                                             <source srcset="/img/help/webp/homepage-2-10.webp" type="image/webp">
                                             <img src="/img/help/jpg/homepage-2-10.jpg" alt="Data Show" class="img-fluid">
                                         </picture>
-                                        <small class="d-block">Gambar 2.9 Data Show</small>
                                     </li>
     
                                     <li class="mb-3" id="homepage_9">
                                         <h5 class="font-weight-bold">Pagination</h5>
-                                        <p>Fitur ini berfungsi untuk pindah ke halaman selanjutnya untuk melihat data yang melebihi batas angka yang dipilih di Show Data. (Lihat Gambar 2.10)</p>
+                                        <p>Fitur ini berfungsi untuk pindah ke halaman selanjutnya untuk melihat data yang melebihi batas angka yang dipilih di Show Data.</p>
                                         <picture>
                                             <source srcset="/img/help/webp/homepage-2-11.webp" type="image/webp">
                                             <img src="/img/help/jpg/homepage-2-11.jpg" alt="pagination" class="img-fluid">
                                         </picture>
-                                        <small class="d-block">Gambar 2.10 Pagination</small>
                                     </li>
     
                                     <li class="mb-3" id="homepage_10">
                                         <h5 class="font-weight-bold">Staff Detail</h5>
-                                        <p>Fitur ini berfungsi untuk melihat detail time tracking dan screenshot time tracking staff yang bersangkutan. Pada halaman ini admin dapat melihat total jam kerja karyawan, memberikan komentar, melihat sesi kerja, screenshot layar computer, serta lokasi karyawan pada waktu – waktu tertentu, dan juga untuk melihat history pengeditan time tracking yang dilakukan oleh karyawan bersangkutan. (Lihat Gambar 2.13)</p>
+                                        <p>Fitur ini berfungsi untuk melihat detail time tracking dan screenshot time tracking staff yang bersangkutan. Pada halaman ini admin dapat melihat total jam kerja karyawan, memberikan komentar, melihat sesi kerja, screenshot layar computer, serta lokasi karyawan pada waktu – waktu tertentu, dan juga untuk melihat history pengeditan time tracking yang dilakukan oleh karyawan bersangkutan.</p>
                                         <picture>
                                             <source srcset="/img/help/webp/homepage-2-12.webp" type="image/webp">
                                             <img src="/img/help/jpg/homepage-2-12.jpg" alt="Staff Detail" class="img-fluid">
                                         </picture>
-                                        <small class="d-block">Gambar 2.13 Staff Detail</small>
                                     </li>
     
                                     <li class="mb-3" id="homepage_11">
                                         <h5 class="font-weight-bold">Notification</h5>
-                                        <p>Fitur ini digunakan untuk melihat notifikasi yang masuk, seperti penambahan user baru, screenshot yang duplikat, perubahan status, dll. (Lihat Gambar 2.11)</p>
+                                        <p>Fitur ini digunakan untuk melihat notifikasi yang masuk, seperti penambahan user baru, screenshot yang duplikat, perubahan status, dll.</p>
                                         <div class="mb-3">
                                             <picture>
                                                 <source srcset="/img/help/webp/homepage-2-13.webp" type="image/webp">
                                                 <img src="/img/help/jpg/homepage-2-13.jpg" alt="Notifikasi Admin" class="img-fluid">
                                             </picture>
-                                            <small class="d-block">Gambar 2.11 Notifikasi Admin</small>
                                         </div>
                                         <p>Tombol “View All” akan membawa user ke halaman baru untuk menampilkan riwayat notifikasi yang telah dikategorikan menurut tipenya. Kata ‘Mark as read’ bisa ditekan untuk menandakan bahwa notifikasi sudah terbaca.</p>
                                         <div class="mb-3">
@@ -407,7 +393,6 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                                                 <source srcset="/img/help/webp/homepage-2-14.webp" type="image/webp">
                                                 <img src="/img/help/jpg/homepage-2-14.jpg" alt="Staff Detail" class="img-fluid">
                                             </picture>
-                                            <small class="d-block">Gambar 2.12 Screenshot Duplikat</small>
                                         </div>
                                         <ul>
                                             <li><b>All</b>: Riwayat semua notifikasi yang muncul</li>
@@ -425,7 +410,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                             </div>
                             <div class="tab-pane fade" id="help_profile" role="tabpanel" aria-labelledby="">                                    
                                 <h2 class="mb-4">Profile</h2>
-                                <p>Menu Profile dapat diakses melalui icon yang ada di ujung kanan atas website. Berikut adalah beberapa fitur yang bisa diakses dari menu ini. (Lihat Gambar 3.1)</p>
+                                <p>Menu Profile dapat diakses melalui icon yang ada di ujung kanan atas website. Berikut adalah beberapa fitur yang bisa diakses dari menu ini.</p>
                                 <ol class="mb-3">
                                     <li class="mb-2"><b>My profile</b>: Halaman ini berisikan keterangan profil user.</li>
                                     <li class="mb-2"><b>Settings</b>: Halaman ini digunakan untuk mengubah pengaturan Staff, Task, Team, dan Absensi.</li>
@@ -437,18 +422,16 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                                     <picture>
                                         <source srcset="/img/help/webp/profile-3-1.webp" type="image/webp">
                                         <img src="/img/help/jpg/profile-3-1.jpg" alt="dokodemo profile icon dropdown" class="img-fluid">
-                                        <small class="d-block">Gambar 3.1 Profile Icon Dropdown</small>
                                     </picture>
                                 </div>
 
                                 <ol class="list--multi-level list--bold" style="--start: '3'">
                                     <li class="mb-3" id="profile_1">
                                         <h5 class="font-weight-bold">My Profile</h5>
-                                        <p>Menu ini digunakan untuk melihat keterangan profil user. (Lihat gambar 3.2)</p>
+                                        <p>Menu ini digunakan untuk melihat keterangan profil user.</p>
                                         <picture>
                                             <source srcset="/img/help/webp/profile-3-2.webp" type="image/webp">
                                             <img src="/img/help/jpg/profile-3-2.jpg" alt="dokodemo profile popup" class="img-fluid">
-                                            <small class="d-block">Gambar 3.2 My Profile Pop Up</small>
                                         </picture>
                                     </li>
 
@@ -464,44 +447,40 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                                         <picture>
                                             <source srcset="/img/help/webp/profile-3-3.webp" type="image/webp">
                                             <img src="/img/help/jpg/profile-3-3.jpg" alt="dokodemo bill page" class="img-fluid">
-                                            <small class="d-block">Gambar 3.3 Halaman Bills</small>
                                         </picture>
                                     </li>
 
                                     <li class="mb-3" id="profile_3">
                                         <h5 class="font-weight-bold">Settings</h5>
-                                        <p>Menu ini digunakan untuk mengakses setting Staff, Task, Team, dan Day Off Settings. (Lihat Gambar 3.4) Detail penggunaan setiap halaman dapat dilihat di bab selanjutnya.</p>
+                                        <p>Menu ini digunakan untuk mengakses setting Staff, Task, Team, dan Day Off Settings. Detail penggunaan setiap halaman dapat dilihat di bab selanjutnya.</p>
                                         <picture>
                                             <source srcset="/img/help/webp/profile-3-4.webp" type="image/webp">
                                             <img src="/img/help/jpg/profile-3-4.jpg" alt="dokodemo profile settings popup" class="img-fluid">
-                                            <small class="d-block">Gambar 3.4 My Profile Pop Up</small>
                                         </picture>
                                     </li>
 
                                     <li class="mb-3" id="profile_4">
                                         <h5 class="font-weight-bold">Change Password</h5>
-                                        <p>Menu ini digunakan untuk merubah password user. (Lihat Gambar 3.5)</p>
+                                        <p>Menu ini digunakan untuk merubah password user.</p>
                                         <picture>
                                             <source srcset="/img/help/webp/profile-3-5.webp" type="image/webp">
                                             <img src="/img/help/jpg/profile-3-5.jpg" alt="dokodemo profile popup" class="img-fluid">
-                                            <small class="d-block">Gambar 3.5 Change Password</small>
                                         </picture>
                                     </li>
 
                                     <li class="mb-3" id="profile_5">
                                         <h5 class="font-weight-bold">Logout</h5>
-                                        <p>Fitur ini digunakan untuk keluar dari Dokodemo-Kerja. (Lihat Gambar 3.6)</p>
+                                        <p>Fitur ini digunakan untuk keluar dari Dokodemo-Kerja.</p>
                                         <picture>
                                             <source srcset="/img/help/webp/profile-3-5.webp" type="image/webp">
                                             <img src="/img/help/jpg/profile-3-5.jpg" alt="dokodemo logout" class="img-fluid">
-                                            <small class="d-block">Gambar 3.6 Menu Logout</small>
                                         </picture>
                                     </li>
                                 </ol>
                             </div>
                             <div class="tab-pane fade" id="help_setting_staff" role="tabpanel" aria-labelledby="">
                                 <h2 class="mb-4">Settings – Staff</h2>
-                                <p>Halaman staff dapat diakses melalui menu navigasi, yang berisikan informasi tentang staff yang terdaftar pada Dokodemo-Kerja. Halaman ini memiliki beberapa fitur seperti yang terjabar dibawah ini. (Lihat Gambar 4.1)</p>
+                                <p>Halaman staff dapat diakses melalui menu navigasi, yang berisikan informasi tentang staff yang terdaftar pada Dokodemo-Kerja. Halaman ini memiliki beberapa fitur seperti yang terjabar dibawah ini.</p>
                                 <ol class="pl-3">
                                     <li class="mb-2"><b>Add Staff</b>: Fitur untuk menambah data staff baru.</li>
                                     <li class="mb-2"><b>Name</b>: Berisikan nama staff yang terdaftar.</li>
@@ -518,14 +497,13 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                                         <source srcset="/img/help/webp/setting-staff-4-1.webp" type="image/webp">
                                         <img src="/img/help/jpg/setting-staff-4-1.jpg" alt="dokodemo staff management" class="img-fluid">
                                     </picture>
-                                    <small class="d-block">Gambar 4.1 Halaman Staff Management</small>
                                 </div>
 
                                 <ol class="list--multi-level list--bold" style="--start: '4'">
 
                                     <li class="mb-3" id="setting_staff_1">
                                         <h5 class="font-weight-bold">Add Staff</h5>
-                                        <p>Fitur ini digunakan untuk menambahkan user staff pada Dokodemo-Kerja. Fitur ini berisikan field email, full name, access level, team, <i>set time</i> (jam mulai kerja), dan <i>join date</i> (tanggal mulai kerja). (Lihat Gambar 4.2)</p>
+                                        <p>Fitur ini digunakan untuk menambahkan user staff pada Dokodemo-Kerja. Fitur ini berisikan field email, full name, access level, team, <i>set time</i> (jam mulai kerja), dan <i>join date</i> (tanggal mulai kerja).</p>
                                         <p>Access Level terbagi menjadi 4:</p>
                                         <ol class="pl-3 mb-3">
                                             <li class="mb-2">Super Admin: Memiliki otoritas untuk mengelola Billing, Staff, Task, Team, dan melihat jam kerja serta tangkapan layar semua karyawan.</li>
@@ -536,57 +514,51 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                                         <picture>
                                             <source srcset="/img/help/webp/setting-staff-4-2.webp" type="image/webp">
                                             <img src="/img/help/jpg/setting-staff-4-2.jpg" alt="dokodemo form add staff" class="img-fluid">
-                                            <small class="d-block">Gambar 4.2 Form Add Staff</small>
                                         </picture>
                                     </li>
                                 
                                     <li class="mb-3" id="setting_staff_2">
                                         <h5 class="font-weight-bold">Edit Staff</h5>
-                                        <p>Tombol untuk mengubah informasi staff yang telah terdaftar. Fitur ini berisikan field email, full name, access level, team, set time, join date, device info, dan leave quota. (Lihat Gambar 4.3)</p>
+                                        <p>Tombol untuk mengubah informasi staff yang telah terdaftar. Fitur ini berisikan field email, full name, access level, team, set time, join date, device info, dan leave quota.</p>
                                         <picture>
                                             <source srcset="/img/help/webp/setting-staff-4-3.webp" type="image/webp">
                                             <img src="/img/help/jpg/setting-staff-4-3.jpg" alt="dokodemo edit staff" class="img-fluid">
-                                            <small class="d-block">Gambar 4.3 Edit Staff</small>
                                         </picture>
                                     </li>
                                 
                                     <li class="mb-3" id="setting_staff_3">
                                         <h5 class="font-weight-bold">Reset Password</h5>
-                                        <p>Tombol untuk mengubah password user. Password baru akan dikirim ke email staff yang dipilih setelah menekan tombol Reset. (Lihat Gambar 4.4)</p>
+                                        <p>Tombol untuk mengubah password user. Password baru akan dikirim ke email staff yang dipilih setelah menekan tombol Reset.</p>
                                         <picture>
                                             <source srcset="/img/help/webp/setting-staff-4-4.webp" type="image/webp">
                                             <img src="/img/help/jpg/setting-staff-4-4.jpg" alt="dokodemo reset password" class="img-fluid">
-                                            <small class="d-block">Gambar 4.4 Reset Password Staff</small>
                                         </picture>
                                     </li>
                                 
                                     <li class="mb-3" id="setting_staff_4">
                                         <h5 class="font-weight-bold">Change Status</h5>
-                                        <p>Tombol untuk mengubah status staff menjadi aktif atau non-aktif. (Lihat Gambar 4.5)</p>
+                                        <p>Tombol untuk mengubah status staff menjadi aktif atau non-aktif.</p>
                                         <picture>
                                             <source srcset="/img/help/webp/setting-staff-4-5.webp" type="image/webp">
                                             <img src="/img/help/jpg/setting-staff-4-5.jpg" alt="dokodemo staff status" class="img-fluid">
-                                            <small class="d-block">Gambar 4.5 Change Staff Status</small>
                                         </picture>
                                     </li>
                                 
                                     <li class="mb-3" id="setting_staff_5">
                                         <h5 class="font-weight-bold">Filter By atau Search Data</h5>
-                                        <p>Filter ini digunakan untuk mencari informasi staff berdasarkan alamat email. (Lihat Gambar 4.6)</p>
+                                        <p>Filter ini digunakan untuk mencari informasi staff berdasarkan alamat email.</p>
                                         <picture>
                                             <source srcset="/img/help/webp/setting-staff-4-6.webp" type="image/webp">
                                             <img src="/img/help/jpg/setting-staff-4-6.jpg" alt="dokodemo profile popup" class="img-fluid">
-                                            <small class="d-block">Gambar 4.6 Email Filter</small>
                                         </picture>
                                     </li>
                                 
                                     <li class="mb-3" id="setting_staff_6">
                                         <h5 class="font-weight-bold">Pagination</h5>
-                                        <p>Fitur ini berfungsi untuk pindah ke halaman sebelumnya, atau selanjutnya. (Lihat Gambar 4.7)</p>
+                                        <p>Fitur ini berfungsi untuk pindah ke halaman sebelumnya, atau selanjutnya.</p>
                                         <picture>
                                             <source srcset="/img/help/webp/setting-staff-4-7.webp" type="image/webp">
                                             <img src="/img/help/jpg/setting-staff-4-7.jpg" alt="dokodemo profile popup" class="img-fluid">
-                                            <small class="d-block">Gambar 4.7 Pagination Staff</small>
                                         </picture>
                                     </li>
 
@@ -594,7 +566,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                             </div>
                             <div class="tab-pane fade" id="help_setting_task" role="tabpanel" aria-labelledby="">
                                 <h2 class="mb-4">Settings – Task</h2>
-                                <p>Halaman project berisikan informasi task yang tersedia pada Dokodemo-Kerja. Halaman ini berisikan beberapa fitur seperti dibawah ini. (Lihat Gambar 5.1)</p>
+                                <p>Halaman project berisikan informasi task yang tersedia pada Dokodemo-Kerja. Halaman ini berisikan beberapa fitur seperti dibawah ini.</p>
                                 <ol class="pl-3 mb-3">
                                     <li class="mb-2"><b>Add New</b>: Tombol untuk menambahkan task baru.</li>
                                     <li class="mb-2"><b>Task Name</b>: Berisikan nama task yang terdaftar pada task yang bersangkutan.</li>
@@ -607,76 +579,69 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                                         <source srcset="/img/help/webp/setting-task-5-1.webp" type="image/webp">
                                         <img src="/img/help/jpg/setting-task-5-1.jpg" alt="dokodemo task management page" class="img-fluid">
                                     </picture>
-                                    <small class="d-block">Gambar 5.1 Task Management</small>
                                 </div>
 
                                 <ol class="list--multi-level list--bold" style="--start: '5'">
                                 
                                     <li class="mb-3" id="setting_task_1">
                                         <h5 class="font-weight-bold">Add New Task</h5>
-                                        <p>Fitur ini digunakan untuk menambahkan task baru pada Dokodemo-Kerja. Admin hrus mengisi task name, team, dan color tag untuk menambahkan task. (Lihat Gambar 5.2)</p>
+                                        <p>Fitur ini digunakan untuk menambahkan task baru pada Dokodemo-Kerja. Admin hrus mengisi task name, team, dan color tag untuk menambahkan task.</p>
                                         <picture>
                                             <source srcset="/img/help/webp/setting-task-5-2.webp" type="image/webp">
                                             <img src="/img/help/jpg/setting-task-5-2.jpg" alt="dokodemo add new task" class="img-fluid">
                                         </picture>
-                                        <small class="d-block">Gambar 5.2 Menambah Task Baru</small>
                                     </li>
                                 
                                     <li class="mb-3" id="setting_task_2">
                                         <h5 class="font-weight-bold">Edit Task</h5>
-                                        <p>Fitur ini digunakan untuk mengubah detail task pada Dokodemo-Kerja. Admin informasi yang dapat diubah adalah task name, team, dan color tag. (Lihat Gambar 5.3)</p>
+                                        <p>Fitur ini digunakan untuk mengubah detail task pada Dokodemo-Kerja. Admin informasi yang dapat diubah adalah task name, team, dan color tag.</p>
                                         <picture>
                                             <source srcset="/img/help/webp/setting-task-5-3.webp" type="image/webp">
                                             <img src="/img/help/jpg/setting-task-5-3.jpg" alt="dokodemo edit task" class="img-fluid">
                                         </picture>
-                                        <small class="d-block">Gambar 5.3 Edit Task</small>
                                     </li>
                                 
                                     <li class="mb-3" id="setting_task_3">
                                         <h5 class="font-weight-bold">Change Status</h5>
-                                        <p>Fitur untuk mengubah status staff menjadi aktif atau non-aktif. (Lihat Gambar 5.4)</p>
+                                        <p>Fitur untuk mengubah status staff menjadi aktif atau non-aktif.</p>
                                         <picture>
                                             <source srcset="/img/help/webp/setting-task-5-4.webp" type="image/webp">
                                             <img src="/img/help/jpg/setting-task-5-4.jpg" alt="dokodemo change task's status" class="img-fluid">
                                         </picture>
-                                        <small class="d-block">Gambar 5.4 Ubah Status Task</small>
                                     </li>
                                 
                                     <li class="mb-3" id="setting_task_4">
                                         <h5 class="font-weight-bold">Delete Task</h5>
-                                        <p>Fitur ini digunakan untuk menghapus task. (Lihat Gambar 5.5)</p>
+                                        <p>Fitur ini digunakan untuk menghapus task.</p>
                                         <picture>
                                             <source srcset="/img/help/webp/setting-task-5-5.webp" type="image/webp">
                                             <img src="/img/help/jpg/setting-task-5-5.jpg" alt="dokodemo delete task" class="img-fluid">
                                         </picture>
-                                        <small class="d-block">Gambar 5.5 Hapus Task</small>
                                     </li>
                                 
                                     <li class="mb-3" id="setting_task_5">
                                         <h5 class="font-weight-bold">Filter By atau Search Data</h5>
-                                        <p>Fitur ini digunakan untuk mencari data task yang dapat disortir berdasarkan nama task di pada halaman task management. (Lihat Gambar 5.6)</p>
+                                        <p>Fitur ini digunakan untuk mencari data task yang dapat disortir berdasarkan nama task di pada halaman task management.</p>
                                         <picture>
                                             <source srcset="/img/help/webp/setting-task-5-6.webp" type="image/webp">
                                             <img src="/img/help/jpg/setting-task-5-6.jpg" alt="dokodemo filter task" class="img-fluid">
                                         </picture>
-                                        <small class="d-block">Gambar 5.6 Filter Task Management</small>
                                     </li>
                                 
                                     <li class="mb-3" id="setting_task_6">
                                         <h5 class="font-weight-bold">Pagination</h5>
-                                        <p>Fitur ini digunakan untuk berpindah ke halaman berikutnya atau ke halaman yang dituju. (Lihat Gambar 5.7)</p>
+                                        <p>Fitur ini digunakan untuk berpindah ke halaman berikutnya atau ke halaman yang dituju.</p>
                                         <picture>
                                             <source srcset="/img/help/webp/setting-task-5-7.webp" type="image/webp">
                                             <img src="/img/help/jpg/setting-task-5-7.jpg" alt="dokodemo profile popup" class="img-fluid">
                                         </picture>
-                                        <small class="d-block">Gambar 5.7 Pagination Task Management</small>
                                     </li>
 
                                 </ol>
                             </div>   
                             <div class="tab-pane fade" id="help_setting_team" role="tabpanel" aria-labelledby="">
                                 <h2 class="mb-4">Settings – Team</h2>
-                                <p>Halaman team berisi informasi tentang team yang ada di Dokodemo-Kerja. Berikut adalah fitur-fitur yang ada di halaman ini. (Lihat Gambar 6.1)</p>
+                                <p>Halaman team berisi informasi tentang team yang ada di Dokodemo-Kerja. Berikut adalah fitur-fitur yang ada di halaman ini.</p>
                                 <ol class="pl-3 mb-3">
                                     <li class="mb-2"><b>Add New Team</b>: Fitur ini digunakan untuk menambahkan team baru pada bagian team management.</li>
                                     <li class="mb-2"><b>Filter by</b>: Fitur ini digunakan untuk mencari nama.</li>
@@ -691,59 +656,53 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                                         <source srcset="/img/help/webp/setting-team-6-1.webp" type="image/webp">
                                         <img src="/img/help/jpg/setting-team-6-1.jpg" alt="dokodemo settings team" class="img-fluid">
                                     </picture>
-                                    <small class="d-block">Gambar 6.1 Halaman Settings Team</small>
                                 </div>
 
                                 <ol class="list--multi-level list--bold" style="--start: '6'">
                                 
                                     <li class="mb-3" id="setting_team_1">
                                         <h5 class="font-weight-bold">Add Team</h5>
-                                        <p>Fitur ini digunakan untuk menambahkan team kedalam Dokodemo-Kerja. Admin harus menambahkan team name dan leader name untuk menambahkan team baru. (Lihat Gambar 6.2)</p>
+                                        <p>Fitur ini digunakan untuk menambahkan team kedalam Dokodemo-Kerja. Admin harus menambahkan team name dan leader name untuk menambahkan team baru.</p>
                                         <picture>
                                             <source srcset="/img/help/webp/setting-team-6-2.webp" type="image/webp">
                                             <img src="/img/help/jpg/setting-team-6-2.jpg" alt="dokodemo add team" class="img-fluid">
                                         </picture>
-                                        <small class="d-block">Gambar 6.2 Add Team</small>
                                     </li>
                                 
                                     <li class="mb-3" id="setting_team_2">
                                         <h5 class="font-weight-bold">Edit Team</h5>
-                                        <p>Fitur ini digunakan untuk mengedit team yang telah terdaftar. (Lihat Gambar 6.3)</p>
+                                        <p>Fitur ini digunakan untuk mengedit team yang telah terdaftar.</p>
                                         <picture>
                                             <source srcset="/img/help/webp/setting-team-6-3.webp" type="image/webp">
                                             <img src="/img/help/jpg/setting-team-6-3.jpg" alt="dokodemo edite team" class="img-fluid">
                                         </picture>
-                                        <small class="d-block">Gambar 6.3 Edit Team</small>
                                     </li>
                                 
                                     <li class="mb-3" id="setting_team_3">
                                         <h5 class="font-weight-bold">Change Status</h5>
-                                        <p>Fitur untuk mengubah status staff menjadi aktif atau non-aktif. (Lihat Gambar 6.4)</p>
+                                        <p>Fitur untuk mengubah status staff menjadi aktif atau non-aktif.</p>
                                         <picture>
                                             <source srcset="/img/help/webp/setting-team-6-4.webp" type="image/webp">
                                             <img src="/img/help/jpg/setting-team-6-4.jpg" alt="dokodemo camge team's status" class="img-fluid">
                                         </picture>
-                                        <small class="d-block">Gambar 6.4 Change Status Team</small>
                                     </li>
                                 
                                     <li class="mb-3" id="setting_team_4">
                                         <h5 class="font-weight-bold">Filter By atau Search Data</h5>
-                                        <p>Filter ini digunakan untuk menemukan nama yang ingin dicari pada bagian team. (Lihat Gambar 6.5)</p>
+                                        <p>Filter ini digunakan untuk menemukan nama yang ingin dicari pada bagian team.</p>
                                         <picture>
                                             <source srcset="/img/help/webp/setting-team-6-5.webp" type="image/webp">
                                             <img src="/img/help/jpg/setting-team-6-5.jpg" alt="dokodemo filter team" class="img-fluid">
                                         </picture>
-                                        <small class="d-block">Gambar 6.5 Filter Team</small>
                                     </li>
                                 
                                     <li class="mb-3" id="setting_team_5">
                                         <h5 class="font-weight-bold">Pagination</h5>
-                                        <p>Fitur ini digunakan untuk berpindah ke halaman berikutnya atau ke halaman yang ingin dituju. (Lihat Gambar 6.6)</p>
+                                        <p>Fitur ini digunakan untuk berpindah ke halaman berikutnya atau ke halaman yang ingin dituju.</p>
                                         <picture>
                                             <source srcset="/img/help/webp/setting-team-6-6.webp" type="image/webp">
                                             <img src="/img/help/jpg/setting-team-6-6.jpg" alt="dokodemo team pagination" class="img-fluid">
                                         </picture>
-                                        <small class="d-block">Gambar 6.6 Pagination Team</small>
                                     </li>
 
                                 </ol>
@@ -756,13 +715,12 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                                 
                                     <li class="mb-3" id="setting_day_off_1">
                                         <h5 class="font-weight-bold">Update Leave</h5>
-                                        <p>Menu yang di sebelah kiri digunakan untuk mengupdate kuota cuti per team ataupun semuanya sekaligus. Sedangkan yang di sebelah kanan adalah untuk mengupdate quota individual yang telah dijabarkan dalam bentuk csv. (Lihat Gambar 7.1)</p>
+                                        <p>Menu yang di sebelah kiri digunakan untuk mengupdate kuota cuti per team ataupun semuanya sekaligus. Sedangkan yang di sebelah kanan adalah untuk mengupdate quota individual yang telah dijabarkan dalam bentuk csv.</p>
                                         <div class="mb-4">
                                             <picture>
                                                 <source srcset="/img/help/webp/setting-day-off-7-1.webp" type="image/webp">
                                                 <img src="/img/help/jpg/setting-day-off-7-1.jpg" alt="dokodemo leave settings" class="img-fluid">
                                             </picture>
-                                            <small class="d-block">Gambar 7.1 Update Leave Settings</small>
                                         </div>
 
                                         <ol class="pl-3 list--bold">
@@ -789,7 +747,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                                 
                                     <li class="mb-3" id="setting_day_off_2">
                                         <h5 class="font-weight-bold">Custom Day Off</h5>
-                                        <p>Halaman ini digunakan untuk menambahkan tipe day off dan cuti. Terdapat beberapa tombol di halaman ini, yaitu; Add New, Edit, dan Delete. (Lihat Gambar 7.2)</p>
+                                        <p>Halaman ini digunakan untuk menambahkan tipe day off dan cuti. Terdapat beberapa tombol di halaman ini, yaitu; Add New, Edit, dan Delete.</p>
                                         <ol class="pl-3 mb-4 list--bold">
                                             <li class="mb-2"><b>Edit</b>: befungsi untuk mengubah detail day off yang telah terdaftar</li>
                                             <li class="mb-2"><b>Delete</b>: berfungsi untuk menghapus day off yang telah terdaftar</li>
@@ -799,8 +757,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                                             <picture>
                                                 <source srcset="/img/help/webp/setting-day-off-7-2.webp" type="image/webp">
                                                 <img src="/img/help/jpg/setting-day-off-7-2.jpg" alt="dokodemo custom day off" class="img-fluid">
-                                            </picture>        
-                                            <small class="d-block">Gambar 7.2 Custom Day off Settings</small>                                    
+                                            </picture>                                          
                                         </div>
                                         <p>Berikut adalah detail pengaturan day off.</p>
                                         <ol class="mb-4 list--bold">
@@ -830,7 +787,6 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                                             <source srcset="/img/help/webp/setting-day-off-7-3.webp" type="image/webp">
                                             <img src="/img/help/jpg/setting-day-off-7-3.jpg" alt="dokodemo custom day off" class="img-fluid">
                                         </picture>        
-                                        <small class="d-block">Gambar 7.3 Custom Day off Settings</small>  
                                     </li>
                                 
                                     <li class="mb-3" id="setting_day_off_3">
@@ -840,7 +796,6 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                                             <source srcset="/img/help/webp/setting-day-off-7-4.webp" type="image/webp">
                                             <img src="/img/help/jpg/setting-day-off-7-4.jpg" alt="dokodemo set working and holiday" class="img-fluid">
                                         </picture>
-                                        <small class="d-block">Gambar 7.4 Halaman Working Days / Holidays</small>
 
                                         <ol class="list--bold pl-3 mb-3">
                                             <li class="mb-2">
@@ -862,18 +817,16 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                                             <source srcset="/img/help/webp/setting-day-off-7-5.webp" type="image/webp">
                                             <img src="/img/help/jpg/setting-day-off-7-5.jpg" alt="dokodemo form working and holiday" class="img-fluid">
                                         </picture>
-                                        <small class="d-block">Gambar 7.5 Add Holiday Form</small>
                                     </li>
                                 
                                     <li class="mb-3" id="setting_day_off_4">
                                         <h5 class="font-weight-bold">Attendance</h5>
-                                        <p>Menu ini digunakan untuk menentukan toleransi keterlambatan dan untuk mengatur notifikasi jam kerja yang langsung dikirim ke email. (Lihat Gambar 7.6)</p>
+                                        <p>Menu ini digunakan untuk menentukan toleransi keterlambatan dan untuk mengatur notifikasi jam kerja yang langsung dikirim ke email.</p>
                                         <div class="mb-5">
                                             <picture>
                                                 <source srcset="/img/help/webp/setting-day-off-7-6.webp" type="image/webp">
                                                 <img src="/img/help/jpg/setting-day-off-7-6.jpg" alt="dokodemo attendance settings" class="img-fluid">
                                             </picture>
-                                            <small class="d-block">Gambar 7.6 Menu Attendance Settings</small>
                                         </div>
                                         
                                         <ol class="pl-3 list--bold">
@@ -898,13 +851,12 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                                 
                                     <li class="mb-3" id="setting_day_off_5">
                                         <h5 class="font-weight-bold">Day Off Notification</h5>
-                                        <p>Menu ini digunakan untuk menentukan super admin / admin yang akan menerima email notifikasi pengajuan day off semua staff. (Lihat Gambar 7.7)</p>
+                                        <p>Menu ini digunakan untuk menentukan super admin / admin yang akan menerima email notifikasi pengajuan day off semua staff.</p>
                                         <p>Walaupun nama team leader tidak terdaftar di tabel, mereka tetap akan menerima email, namun hanya saat mereka terpilih sebagai person informed di formulir pengajuan.</p>
                                         <picture>
                                             <source srcset="/img/help/webp/setting-day-off-7-7.webp" type="image/webp">
                                             <img src="/img/help/jpg/setting-day-off-7-7.jpg" alt="dokodemo attendace page" class="img-fluid">
                                         </picture>
-                                        <small class="d-block">Gambar 7.7 Halaman attendance settings</small>
                                     </li>
 
                                 </ol>
@@ -917,7 +869,6 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                                         <source srcset="/img/help/webp/attendance-8-1.webp" type="image/webp">
                                         <img src="/img/help/jpg/attendance-8-1.jpg" alt="dokodemo attendance admin" class="img-fluid">
                                     </picture>
-                                    <small class="d-block">Gambar 8.1 Halaman Attendance Admin</small>
                                 </div>
 
                                 <ol class="list--multi-level list--bold" style="--start: '8'">
@@ -939,15 +890,13 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                                                                     <source srcset="/img/help/webp/attendance-8-2.webp" type="image/webp">
                                                                     <img src="/img/help/jpg/attendance-8-2.jpg" alt="dokodemo day off request" class="img-fluid">
                                                                 </picture>
-                                                                <small class="d-block">Gambar 8.2 My Day Off Request</small>
                                                             </div>  
-                                                            <p>Untuk mengajukan day off, tekan tombol Request Day Off. Sebuah formulir, seperti yang di Gambar 8.3 akan muncul.</p>         
+                                                            <p>Untuk mengajukan day off, tekan tombol Request Day Off. Sebuah formulir akan muncul.</p>         
                                                             <div>
                                                                 <picture>
                                                                     <source srcset="/img/help/webp/attendance-8-3.webp" type="image/webp">
                                                                     <img src="/img/help/jpg/attendance-8-3.jpg" alt="dokodemo form day off request" class="img-fluid">
                                                                 </picture>
-                                                                <small class="d-block">Gambar 8.3 Formulir Day Off Request</small>
                                                             </div>              
                                                         </li>
                                                         <li class="mb-2"><b>Remaining Active Leave Quota</b>: Sisa kuota cuti. Jika tanggal day off yang diajukan melebihi kuota cuti yang tertera, dengan catatan tipe day off yang dipilih akan mengurangi kuota cuti, maka pengajuan akan ditolak secara otomatis.</li>
@@ -960,7 +909,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                                             </li>
                                             <li class="mb-2">
                                                 <h6 class="font-weight-bold">Day Off Request</h6>
-                                                <p>Day Off Request (Team’s Day Off Request untuk team leader) pada table kedua berisikan pengajuan day off dari staff. Berikut adalah penjelasan dari kolom-kolom yang bisa dilihat di Gambar 8.4.</p>
+                                                <p>Day Off Request (Team’s Day Off Request untuk team leader) pada table kedua berisikan pengajuan day off dari staff. Berikut adalah penjelasan dari kolom-kolom yang bisa dilihat pada Gambar di bawah.</p>
                                                 <ul class="pl-3 mb-4">
                                                     <li class="mb-2"><b>Date</b>: Tanggal day off yang diajukan</li>
                                                     <li class="mb-2"><b>Leave Type</b>: Tipe day off yang dipilih</li>
@@ -969,20 +918,18 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                                                     <li class="mb-2"><b>Supervisor Status</b>: Keputusan Team Leader mengenai pengajuan day off. Status ini hanya sebagai pertimbangan, dan bukan penentu</li>
                                                     <li class="mb-2"><b>Delegated To</b>: Pemindahan tanggung jawab. Hanya bisa dipilih oleh Team Leader.</li>
                                                     <li class="mb-2"><b>Final Status</b>: Keputusan Admin mengenai pengajuan day off. Status ini adalah penentu diterima atau ditolaknya pengajuan day off.</li>
-                                                    <li class="mb-2"><b>Action</b>: Tombol View menampilkan detail pengajuan day off untuk menerima/menolak pengajuan day off (Lihat Gambar 8.5).</li>
+                                                    <li class="mb-2"><b>Action</b>: Tombol View menampilkan detail pengajuan day off untuk menerima/menolak pengajuan day off.</li>
                                                 </ul>
                                                 <div class="mb-3">
                                                     <picture>
                                                         <source srcset="/img/help/webp/attendance-8-4.webp" type="image/webp">
                                                         <img src="/img/help/jpg/attendance-8-4.jpg" alt="dokodemo table request day off" class="img-fluid">
                                                     </picture>
-                                                    <small class="d-block">Gambar 8.4 Tabel Day Off Request</small>
                                                 </div>
                                                 <picture>
                                                     <source srcset="/img/help/webp/attendance-8-5.webp" type="image/webp">
                                                     <img src="/img/help/jpg/attendance-8-5.jpg" alt="dokodemo view day off" class="img-fluid">
                                                 </picture>
-                                                <small class="d-block">Gambar 8.5 View Day Off Request</small>
                                             </li>
                                         </ol>
                                     </li>
@@ -994,20 +941,18 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                                         <ol class="pl-3 list--bold">
                                             <li class="mb-2">
                                                 <h6 class="font-weight-bold">Monthly</h6>
-                                                <p>Gambar 8.6 menunjukkan absensi karyawan selama 1 bulan. Nama Staff bisa di klik untuk memunculkan riwayat absensi (Lihat Gambar 8.7).</p>
+                                                <p>Gambar di bawah menunjukkan absensi karyawan selama 1 bulan. Nama Staff bisa di klik untuk memunculkan riwayat absensi.</p>
                                                 <div class="mb-3">
                                                     <picture>
                                                         <source srcset="/img/help/webp/attendance-8-6.webp" type="image/webp">
                                                         <img src="/img/help/jpg/attendance-8-6.jpg" alt="dokodemo profile popup" class="img-fluid">
                                                     </picture>
-                                                    <small class="d-block">Gambar 8.6 Absensi karyawan 1 bulan</small>
                                                 </div>
                                                 <div class="mb-3">
                                                     <picture>
                                                         <source srcset="/img/help/webp/attendance-8-7.webp" type="image/webp">
                                                         <img src="/img/help/jpg/attendance-8-7.jpg" alt="dokodemo profile popup" class="img-fluid">
                                                     </picture>
-                                                    <small class="d-block">Gambar 8.7 Detail Absensi Karyawan</small>
                                                 </div>
                                                 <p>Di sebelah kiri table, bisa dilihat kesimpulan absensi karyawan yang berisikan riwayat cuti dan riwayat keterlambatan selama 1 bulan.</p>
                                                 <p>Terdapat 2 tabel di detail absensi. Day off menunjukkan semua day off yang sudah lewat, dan Late menunjukkan pada hari apa saja karyawan tersebut terlambat.</p>
@@ -1015,21 +960,19 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                                                 <ul class="pl-3">
                                                     <li class="mb-2">
                                                         <h6>Day Off</h6>
-                                                        <p>Day off yang tidak diajukan oleh staff bisa ditambahkan sendiri oleh Admin dengan menekan tombol Add New (Lihat Gambar 8.8). Saat tombol Add New ditekan, akan muncul formulir yang sama dengan Day Off Request (Gambar 8.3).</p>
+                                                        <p>Day off yang tidak diajukan oleh staff bisa ditambahkan sendiri oleh Admin dengan menekan tombol Add New. Saat tombol Add New ditekan, akan muncul formulir yang sama dengan Day Off Request.</p>
                                                         <picture>
                                                             <source srcset="/img/help/webp/attendance-8-8.webp" type="image/webp">
                                                             <img src="/img/help/jpg/attendance-8-8.jpg" alt="dokodemo monthly attendance" class="img-fluid">
                                                         </picture>
-                                                        <small class="d-block">Gambar 8.8 Tabel Day Off – Monthly Attendance</small>
                                                     </li>
                                                     <li class="mb-2">
                                                         <h6>Late</h6>
-                                                        <p>Tabel Late (Gambar 8.9) menunjukkan berapa kali karyawan tersebut terlambat dalam 1 bulan. Data akan ditambahkan secara otomatis, sehingga tidak ada tombol Add New di table ini. Jika tombol edit ditekan, maka muncul sebuah formulir untuk mengubah detail keterlambatan (Lihat Gambar 8.).</p>
+                                                        <p>Tabel Late menunjukkan berapa kali karyawan tersebut terlambat dalam 1 bulan. Data akan ditambahkan secara otomatis, sehingga tidak ada tombol Add New di table ini. Jika tombol edit ditekan, maka muncul sebuah formulir untuk mengubah detail keterlambatan>
                                                         <picture>
                                                             <source srcset="/img/help/webp/attendance-8-9.webp" type="image/webp">
                                                             <img src="/img/help/jpg/attendance-8-9.jpg" alt="dokodemo monthly attendance" class="img-fluid">
                                                         </picture>
-                                                        <small class="d-block">Gambar 8.9 Tabel Late – Monthly Attendance</small>
                                                     </li>
                                                 </ul>
                                             </li>
@@ -1040,7 +983,6 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                                                     <source srcset="/img/help/webp/attendance-8-9.webp" type="image/webp">
                                                     <img src="/img/help/jpg/attendance-8-9.jpg" alt="dokodemo yearly attendance" class="img-fluid">
                                                 </picture>
-                                                <small class="d-block">Gambar 8.9 Tabel Late – Yearly Attendance</small>
                                             </li>
                                         </ol>
                                     </li>
@@ -1052,30 +994,27 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                                         <ol class="pl-3">
                                             <li class="mb-2">
                                                 <h6 class="font-weight-bold">Started</h6>
-                                                <p>Berisikan nama-nama orang yang terlambat, namun sudah memulai aplikasi (Lihat Gambar 8.10). Tombol Edit digunakan untuk menambahkan alasan keterlambatan (Lihat Gambar 8.11).</p>
+                                                <p>Berisikan nama-nama orang yang terlambat, namun sudah memulai aplikasi. Tombol Edit digunakan untuk menambahkan alasan keterlambatan.</p>
                                                 <div class="mb-4">
                                                     <picture>
                                                         <source srcset="/img/help/webp/attendance-8-10.webp" type="image/webp">
                                                         <img src="/img/help/jpg/attendance-8-10.jpg" alt="dokodemo late history" class="img-fluid">
                                                     </picture>
-                                                    <small class="d-block">Gambar 8.10 Halaman Late History</small>
                                                 </div>
                                                 <div>
                                                     <picture>
                                                         <source srcset="/img/help/webp/attendance-8-11.webp" type="image/webp">
                                                         <img src="/img/help/jpg/attendance-8-11.jpg" alt="dokodemo late detail" class="img-fluid">
                                                     </picture>
-                                                    <small class="d-block">Gambar 8.11 Edit Late Detail</small>
                                                 </div>
                                             </li>
                                             <li class="mb-2">
                                                 <h6 class="font-weight-bold">Started</h6>
-                                                <p>Berisikan nama-nama orang yang sudah terlambat, dan belum memulai aplikasi (Lihat Gambar 8.12).</p>
+                                                <p>Berisikan nama-nama orang yang sudah terlambat, dan belum memulai aplikasi.</p>
                                                 <picture>
                                                     <source srcset="/img/help/webp/attendance-8-12.webp" type="image/webp">
                                                     <img src="/img/help/jpg/attendance-8-12.jpg" alt="dokodemo profile popup" class="img-fluid">
                                                 </picture>
-                                                <small class="d-block">Gambar 8.12 Edit Late Detail</small>
                                             </li>
                                         </ol>
                                     </li>
@@ -1084,43 +1023,39 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                             </div>                        
                             <div class="tab-pane fade" id="help_desktop" role="tabpanel" aria-labelledby="">
                                 <h2 class="mb-4">Desktop App</h2>
-                                <p>Desktop App Dokodemo-Kerja bisa diunduh melalui menu navigasi, seperti yang tertera pada Gambar 9.1. Dokodemo-kerja Desktop App tersedia dalam 3 platform, yaitu Linux, Mac, dan Windows. Sedangkan untuk Mobile App, Dokodemo-Kerja tersedia dalam Android dan iOS, yang dapat diunduh dari Play Store, App Store, ataupun website.</p>
+                                <p>Desktop App Dokodemo-Kerja bisa diunduh melalui menu navigasi, seperti yang tertera pada Gambar di bawah. Dokodemo-kerja Desktop App tersedia dalam 3 platform, yaitu Linux, Mac, dan Windows. Sedangkan untuk Mobile App, Dokodemo-Kerja tersedia dalam Android dan iOS, yang dapat diunduh dari Play Store, App Store, ataupun website.</p>
                                 <div class="mb-3">
                                     <picture>
                                         <source srcset="/img/help/webp/desktop-9-1.webp" type="image/webp">
                                         <img src="/img/help/jpg/desktop-9-1.jpg" alt="dokodemo download links" class="img-fluid">
                                     </picture>
-                                    <small class="d-block">Gambar 9.1 Download Link Desktop App</small>
                                 </div>
                                 <p>Desktop application dapat digunakan oleh semua staff yang telah terdaftar di sistem Dokodemo-Kerja. Berikut adalah fitur-fiturnya.</p>
 
                                 <ol class="pl-3 list--bold">
                                     <li class="mb-2">
                                         <h6 class="font-weight-bold">Login</h6>
-                                        <p>Login dengan menggunakan email dan password yang benar. Koneksi internet dibutuhkan untuk tahap ini. (Lihat Gambar 9.2)</p>
+                                        <p>Login dengan menggunakan email dan password yang benar. Koneksi internet dibutuhkan untuk tahap ini.</p>
                                         <picture>
                                             <source srcset="/img/help/webp/desktop-9-2.webp" type="image/webp">
                                             <img src="/img/help/jpg/desktop-9-2.jpg" alt="dokodemo desktop login" class="img-fluid">
                                         </picture>
-                                        <small class="d-block">Gambar 9.2 Login Desktop App</small>
                                     </li>
                                     <li class="mb-2">
                                         <h6 class="font-weight-bold">Start / Stop Task</h6>
-                                        <p>Untuk memulai perhitungan waktu, tekan tombol “Play”. (Lihat Gambar 9.3)</p>
+                                        <p>Untuk memulai perhitungan waktu, tekan tombol “Play”.</p>
                                         <div class="mb-3">
                                             <picture>
                                                 <source srcset="/img/help/webp/desktop-9-3.webp" type="image/webp">
                                                 <img src="/img/help/jpg/desktop-9-3.jpg" alt="dokodemo desktop app play" class="img-fluid">
                                             </picture>
-                                            <small class="d-block">Gambar 9.3 Desktop App Play</small>
                                         </div>
-                                        <p>Untuk menghentikan perhitungan waktu, tekan tombol Stop. (Lihat Gambar 9.4)</p>
+                                        <p>Untuk menghentikan perhitungan waktu, tekan tombol Stop.</p>
                                         <div>
                                             <picture>
                                                 <source srcset="/img/help/webp/desktop-9-4.webp" type="image/webp">
                                                 <img src="/img/help/jpg/desktop-9-4.jpg" alt="dokodemo desktop app stop" class="img-fluid">
                                             </picture>
-                                            <small class="d-block">Gambar 9.4 Desktop App Stop</small>
                                         </div>
                                     </li>
                                     <li class="mb-2">
@@ -1136,7 +1071,6 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                                             <source srcset="/img/help/webp/desktop-9-4.webp" type="image/webp">
                                             <img src="/img/help/jpg/desktop-9-4.jpg" alt="dokodemo desktop app features" class="img-fluid">
                                         </picture>
-                                        <small class="d-block">Gambar 9.5 Desktop App Features</small>
                                     </li>
                                 </ol>
                             </div>                        
@@ -1154,7 +1088,6 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                                                 <source srcset="/img/help/webp/dashboard-10-1.webp" type="image/webp">
                                                 <img src="/img/help/jpg/dashboard-10-1.jpg" alt="dokodemo staff web dashboard" class="img-fluid">
                                             </picture>
-                                            <small class="d-block">Gambar 10.1 Staff Web Dashboard</small>
                                         </div>
 
                                         <ol class="pl-3 list--bold">
@@ -1174,7 +1107,6 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                                                     <source srcset="/img/help/webp/dashboard-10-2.webp" type="image/webp">
                                                     <img src="/img/help/jpg/dashboard-10-2.jpg" alt="dokodemo staff time tracker" class="img-fluid">
                                                 </picture>
-                                                <small class="d-block">Gambar 10.2 Time Tracker Staff</small>
                                             </li>
                                             <li class="mb-2"><b>Total Time / Set Time</b>: Total jam kerja 1 hari dan jam mulai kerja karyawan</li>
                                             <li class="mb-2"><b>Comment</b>: Staff dapat menerima dan membalas komentar yang didapatkan dari team leader atau admin dari menu ini.</li>
@@ -1182,13 +1114,12 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                                                 <b>History Edited Time</b>: Sejarah pergantian waktu kerja.
                                             </li>
                                             <li class="mb-2">
-                                                <b>Session Details</b>: Fitur ini dugunakan sebagai catatan kerja per hari. Satu sesi akan muncul saat staff menekan tombol Start dan Stop. Walaupun task yang dipilih sama, sesi akan dipisah. Tombol Edit digunakan untuk mengisi penjelasan sesi. (Lihat Gambar 10.3)
+                                                <b>Session Details</b>: Fitur ini dugunakan sebagai catatan kerja per hari. Satu sesi akan muncul saat staff menekan tombol Start dan Stop. Walaupun task yang dipilih sama, sesi akan dipisah. Tombol Edit digunakan untuk mengisi penjelasan sesi.
                                                 <div class="mt-3">
                                                     <picture>
                                                         <source srcset="/img/help/webp/dashboard-10-3.webp" type="image/webp">
                                                         <img src="/img/help/jpg/dashboard-10-3.jpg" alt="dokodemo profile popup" class="img-fluid">
                                                     </picture>
-                                                    <small class="d-block">Gambar 10.3 Edit Session Detail</small>
                                                 </div>
                                             </li>
                                             <li class="mb-2">
@@ -1198,7 +1129,6 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                                                         <source srcset="/img/help/webp/dashboard-10-4.webp" type="image/webp">
                                                         <img src="/img/help/jpg/dashboard-10-4.jpg" alt="dokodemo profile popup" class="img-fluid">
                                                     </picture>
-                                                    <small class="d-block">Gambar 10.4 Session Record</small>
                                                 </div>
                                             </li>
                                             <li class="mb-2">
@@ -1212,7 +1142,6 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                                                         <source srcset="/img/help/webp/dashboard-10-5.webp" type="image/webp">
                                                         <img src="/img/help/jpg/dashboard-10-5.jpg" alt="dokodemo track location" class="img-fluid">
                                                     </picture>
-                                                    <small class="d-block">Gambar 10.5 Location Track</small>
                                                 </div>
                                             </li>
                                         </ol>
@@ -1220,12 +1149,11 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 
                                     <li class="mb-2" id="dashboard_2">
                                         <h5 class="font-weight-bold">Attendance Staff</h5>
-                                        <p>Staff tidak bisa melihat absensi mereka sendiri, namun mereka bisa mengajukan day off seperti halnya admin dan supervisor melalui menu navigasi di atas. Jika tombol request ditekan, akan keluar formulir pada Gambar 8.2.</p>
+                                        <p>Staff tidak bisa melihat absensi mereka sendiri, namun mereka bisa mengajukan day off seperti halnya admin dan supervisor melalui menu navigasi di atas. Jika tombol request ditekan, akan keluar formulir.</p>
                                         <picture>
                                             <source srcset="/img/help/webp/dashboard-10-6.webp" type="image/webp">
                                             <img src="/img/help/jpg/dashboard-10-6.jpg" alt="dokodemo day off / leave staff request" class="img-fluid">
                                         </picture>
-                                        <small class="d-block">Gambar 10.6 Halaman Day Off / Leave Request - Staff</small>
                                     </li>
                                 </ol>
                             </div>                        
