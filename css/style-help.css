@@ -1,0 +1,99 @@
+html, body {
+    scroll-behavior: smooth;
+}
+
+.bg--blue {
+    background-color: #1A8BE2;
+}
+
+.w-25px {
+    width: 25px;
+}
+
+/* navigation */
+.explain__topic {
+    position: sticky;
+    position: -webkit-sticky;
+    top: 0;
+}
+.help__explain .explain__topic .nav-link,
+.help__explain .explain__topic .nav-item > .collapse a {
+    display: block;
+    width: 100%;
+}
+
+.help__explain .explain__topic .nav-link {
+    text-align: left;
+    font-size: 20px;
+}
+
+.help__explain .explain__topic .nav-item:first-child .nav-link {
+    padding-top: 0;
+}
+
+.help__explain .explain__topic .nav-item {
+    flex-direction: column;
+    align-items: flex-start;
+}
+
+.help__explain .explain__topic .nav-item ul {
+    margin-left: 30px;
+}
+
+.help__explain .explain__topic .nav-item ul a:not(:last-child) li {
+    margin-bottom: 5px;
+}
+
+.help__explain .explain__topic .nav-item ul a:hover {
+    text-decoration: none;
+    color: #ffca13;
+}
+
+/* content */
+.help__explain .explain__content .tab-pane picture img {
+    border: solid 1px #ccc;
+    box-shadow: 2px 2px 12px 1px rgba(0,0,0,.15);
+}
+
+/* custom ordered list */
+.list--multi-level {
+    list-style-type: none;
+    counter-reset: item;
+    margin: 0;
+    padding: 0;
+}
+  
+.list--multi-level > li {
+    display: table;
+    counter-increment: item;
+}
+  
+.list--multi-level > li:before {
+    content: var(--start) "." counters(item, ".");
+    display: table-cell;
+    padding-right: 0.6em;    
+}
+
+.list--multi-level.list--bold > li:before {
+    font-weight: bold;
+    font-size: 1.25rem;
+}
+
+ol.list--bold > li::marker {
+    font-weight: bold;
+}
+
+@media (max-width: 991.98px) {
+    .help__explain .explain__topic .nav-item {
+        margin-left: 0;
+    }
+}
+
+@media (max-width: 767.98px) {
+    .help__explain .explain__topic {
+        margin-bottom: 20px;
+    }
+    .help__explain .explain__topic .nav-link {
+        padding-left: 0;
+    }
+}
