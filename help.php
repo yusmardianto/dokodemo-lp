@@ -69,9 +69,11 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
     
         <section class="help__explain">
             <div class="container">
+                <div class="btn__nav-menu"></div>
                 <div class="row">
-                    <div class="col-md-4">
-                        <div class="explain__topic">
+                    <div class="col-1 col-lg-4">
+                        <div class="explain__topic hide-mobile">
+                            <div class="btn__close-sidebar">&#10006;</div>
                             <ul class="d-flex flex-column nav" role="tablist" id="accordion">
                                 <li class="nav-item" data-toggle="collapse" href="#login_list">
                                     <a class="nav-link active" id="" data-toggle="tab" href="#help_login" role="tab" aria-controls="login" aria-selected="true">Login
@@ -191,7 +193,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                             </ul>
                         </div>
                     </div>
-                    <div class="col-md-8">
+                    <div class="col-11 col-lg-8">
                         <div class="tab-content explain__content">
                             <div class="tab-pane fade show active" id="help_login" role="tabpanel" aria-labelledby="">
                                 <h2 class="mb-4">Login</h2>
@@ -1173,7 +1175,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                 </div>
             </div>
         </section>
-
+        <div class="sidebar-overlay hide-mobile"></div>
     </div>
     
     <?php include "footer.php" ?>
@@ -1190,6 +1192,17 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
         }
     </script>
     <script>
+        // sidebar open
+        $(".btn__nav-menu").on('click', function(){
+            $(".explain__topic").removeClass('hide-mobile')
+            $(".sidebar-overlay").removeClass('hide-mobile')
+        })
+        // sidebar close
+        $(".btn__close-sidebar, .sidebar-overlay").on('click', function(){
+            $(".explain__topic").addClass('hide-mobile')
+            $(".sidebar-overlay").addClass('hide-mobile')
+        })
+        
         $(".help__explain .explain__topic .nav-item[href='#']").click(function(){
             $(".collapse").collapse('hide')
         })
