@@ -20,6 +20,7 @@ body {
   position: sticky;
   position: -webkit-sticky;
   top: 0;
+  padding-top: 20px;
 }
 .help__explain .explain__topic .nav-link,
 .help__explain .explain__topic .nav-item > .collapse a {
@@ -100,6 +101,7 @@ body {
     left: 0;
     border-radius: 0px 5px 5px 0;
     transition: background-color .3s;
+    cursor: pointer;
   }
   .btn__nav-menu:hover{
     background: #ebbc13;
