@@ -100,6 +100,7 @@ body {
     left: 0;
     border-radius: 0px 5px 5px 0;
     transition: background-color .3s;
+    cursor: pointer;
   }
   .btn__nav-menu:hover{
     background: #ebbc13;
