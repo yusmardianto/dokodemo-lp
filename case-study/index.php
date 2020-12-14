@@ -131,6 +131,24 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                         </div>
                     </a>
                 </div>
+                <div class="col-md-4">
+                    <a href="/case-study/case-5" class="case-study__card-wrapper">
+                        <div class="case-study__card">
+                            <img class="card__img" src="/img/case-study/dokodemo-story-5.png" alt="New Feature" style="object-position: top;">
+                            <h2 class="card__headline">Dokodemo-Kerja Story 5</h2>
+                            <h4 class="card__title">PT LOGIQUE Digital Indonesia</h4>
+                            <p class="card__text">
+                            Apa saja fitur baru Dokodemo-Kerja dan bagaimana PT Logique memanfaatkannya?
+                            <ol class="card__list">
+                                <li>Riwayat Absensi</li>
+                                <li>Keterlambatan</li>
+                                <li>Pengajuan Cuti atau Day Off</li>
+                            </ol>
+                            </p>
+                            
+                        </div>
+                    </a>
+                </div>
             </div>
         </div>
     </section>

@@ -1206,5 +1206,10 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
         $(".help__explain .explain__topic .nav-item[href='#']").click(function(){
             $(".collapse").collapse('hide')
         })
+
+       var url = document.location.toString();
+       if(url.includes("#attendance")){
+           $("a[href='#help_attendance']").tab('show');
+       }
     </script>
 </body>
