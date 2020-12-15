@@ -143,6 +143,15 @@ body {
     max-width: 450px;
     margin-bottom: 1em;
 }
+
+.case-study__story .new-feature-link{
+    text-decoration: underline !important;
+}
+
+.case-study__story.case-study__new-feature li::marker,
+.case-study__story.case-study__new-feature .feature-title{
+    font-weight: 600;
+}
 /* end case study section */
 
 .btn-see-more, .btn-see-more:hover {

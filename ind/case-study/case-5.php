@@ -83,7 +83,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
     <section class="mb-5">
         <div class="container">
             <h1 class="text-center mb-5">Studi Kasus Dokodemo 5: <br> Fitur Baru Dokodemo-Kerja 2.1.3: Pengelolaan Keterlambatan, Cuti, & Absensi yang Mudah</h1>
-            <div class="case-study__story">
+            <div class="case-study__story case-study__new-feature">
                 <div class="row">
                     <div class="offset-md-1 col-md-10">
                         <section class="text-justify">
@@ -109,15 +109,15 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                                 <h5 class="mb-1"><b>Apa Saja Fitur Baru Dokodemo-Kerja ?</b></h5>
                                 <ol>
                                     <li>
-                                        <h5 class="feature-title"><a target="_blank" rel=”noreferrer” href="/ind/help#attendance_2">Riwayat Absensi</a></h5>
+                                        <h5 class="feature-title"><a target="_blank" rel=”noreferrer” href="/ind/help#attendance_2" class="new-feature-link">Riwayat Absensi</a></h5>
                                         <p>Fitur ini berguna untuk menunjukan daftar absensi karyawan dalam satu bulan atau satu tahun. Di dalamnya, Anda dapat melihat jumlah hari libur, cuti, sakit, ataupun day off lainnya.</p>
                                     </li>
                                     <li>
-                                        <h5 class="feature-title"><a target="_blank" rel=”noreferrer” href="/ind/help#attendance_3">Keterlambatan</a></h5>
+                                        <h5 class="feature-title"><a target="_blank" rel=”noreferrer” href="/ind/help#attendance_3" class="new-feature-link">Keterlambatan</a></h5>
                                         <p>Setiap perusahaan pasti memiliki jam kerja atau set time masing-masing, dan fitur baru Dokodemo-Kerja ini akan mempermudah staff HR untuk mengetahui siapa saja karyawannya yang terlambat untuk bekerja.</p>
                                     </li>
                                     <li>
-                                        <h5 class="feature-title"><a target="_blank" rel=”noreferrer” href="/ind/help#attendance_1">Pengajuan Cuti atau Day Off</a></h5>
+                                        <h5 class="feature-title"><a target="_blank" rel=”noreferrer” href="/ind/help#attendance_1" class="new-feature-link">Pengajuan Cuti atau Day Off</a></h5>
                                         <p>Pengajuan cuti konvensional biasanya dilakukan dengan proses yang panjang. Karyawan harus mengisi formulir, mengirimnya ke atasan, kemudian meminta cap dan tanda tangan sebagai persetujuan. Karyawan juga harus melaporkan persetujuan pengajuan cuti tersebut kepada staff HR agar informasi tersebut di update ke dalam database karyawan.</p>
                                     </li>
                                 </ol>

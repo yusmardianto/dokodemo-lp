@@ -82,7 +82,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
     <section class="mb-5">
         <div class="container">
             <h1 class="text-center mb-5">Dokodemo-Kerja Story 5: <br>Dokodemo-Kerja 2.1.3’s Newest Features: Easy Lateness, Leave, & Attendance Management Capabilities</h1>
-            <div class="case-study__story">
+            <div class="case-study__story case-study__new-feature">
                 <div class="row">
                     <div class="offset-md-1 col-md-10">
                         <section class="text-justify">
@@ -108,15 +108,15 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                                 <h5 class="mb-1"><b>What are the new features of Dokodemo-Kerja?</b></h5>
                                 <ol>
                                     <li>
-                                        <h5 class="feature-title"><a target="_blank" rel=”noreferrer” href="/help#attendance_2">Attendance History</a></h5>
+                                        <h5 class="feature-title"><a target="_blank" rel=”noreferrer” href="/help#attendance_2" class="new-feature-link">Attendance History</a></h5>
                                         <p>This feature is useful for showing a list of employee attendance for one month or one year. In it, you can see the number of days off, leave, sickness, or other day offs.</p>
                                     </li>
                                     <li>
-                                        <h5 class="feature-title"><a target="_blank" rel=”noreferrer” href="/help#attendance_3">Delay</a></h5>
+                                        <h5 class="feature-title"><a target="_blank" rel=”noreferrer” href="/help#attendance_3" class="new-feature-link">Delay</a></h5>
                                         <p>Every company sets its own standards in regards to working hours and set times. Appropriately, this new Dokodemo-Kerja feature will make it easier for HR staff to identify employees who, on occasion, do not meet these standards when coming late to work.</p>
                                     </li>
                                     <li>
-                                        <h5 class="feature-title"><a target="_blank" rel=”noreferrer” href="/help#attendance_1">Requesting a Leave or Day Off</a></h5>
+                                        <h5 class="feature-title"><a target="_blank" rel=”noreferrer” href="/help#attendance_1" class="new-feature-link">Requesting a Leave or Day Off</a></h5>
                                         <p>Conventionally, applying for leave from the office can be lengthy process. Employees must fill out a form, send it to their supervisor, and then ask for a stamp and signature for an approval. Employees must also report their approval for their leave requests to HR staff so that the information can be updated via the employee database.</p>
                                     </li>
                                 </ol>

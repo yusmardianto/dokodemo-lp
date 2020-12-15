@@ -138,14 +138,13 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                             <h2 class="card__headline">Dokodemo-Kerja Story 5</h2>
                             <h4 class="card__title">PT LOGIQUE Digital Indonesia</h4>
                             <p class="card__text">
-                            Apa saja fitur baru Dokodemo-Kerja dan bagaimana PT Logique memanfaatkannya?
+                            What are the new features of Dokodemo-Kerja and how does PT Logique Utilize them?
                             <ol class="card__list">
-                                <li>Riwayat Absensi</li>
-                                <li>Keterlambatan</li>
-                                <li>Pengajuan Cuti atau Day Off</li>
+                                <li>Attendance History</li>
+                                <li>Delay</li>
+                                <li>Requesting a Leave or Day Off</li>
                             </ol>
                             </p>
-                            
                         </div>
                     </a>
                 </div>
