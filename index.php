@@ -176,7 +176,7 @@
             </div>
         </div>
     </section>
-
+    
     <section class="feature-content mt-5">
         <div class="container">
             <div class="row">
@@ -487,18 +487,17 @@
     </section>
 
     <?php include './component/demo-banner.php' ?>
-
-    <?php /*   <section  class="news-list-container">
+    <section  class="news-list-container">
         <div class="container">
             <div class="newscontainer">
                 <div class="row justify-content-md-center">
-                    <div class="col-sm-10">
+                    <div class="col-sm-8">
                         <h2>Latest <strong>News</strong></h2>
                     </div>
                 </div>
                 <?php
                 $rss = new DOMDocument();
-                $rss->load('https://www.logique.co.id/blog/category/dokodemo-kerja/feed/');
+                $rss->load('https://www.logique.co.id/blog/en/category/dokodemo-kerja-en/feed/');
                 $feed = array();
                 foreach ($rss->getElementsByTagName('item') as $node) {
                 $item = array ( 
@@ -509,8 +508,28 @@
                 );
                 array_push($feed, $item);
                 }
-                $limit = 5; 
- 
+                $limit = 4; 
+
+                function tgl_indo($tanggal){
+                    $bulan = array (
+                        1 =>   'Jan',
+                        'Feb',
+                        'Mar',
+                        'Apr',
+                        'Mei',
+                        'Jun',
+                        'Jul',
+                        'Ags',
+                        'Sep',
+                        'Okt',
+                        'Nov',
+                        'Des'
+                    );
+                    $pecahkan = explode('-', $tanggal);
+                     
+                 
+                    return $pecahkan[2] . ' ' . $bulan[ (int)$pecahkan[1] ] . ' ' . $pecahkan[0];
+                }
 
                 ?>
 
@@ -520,7 +539,7 @@
             $title = str_replace(' & ', ' &amp; ', $feed[$x]['title']);
             $link = $feed[$x]['link'];
             $description = $feed[$x]['desc'];
-            $date = date('M d, Y', strtotime($feed[$x]['date']));
+            $date = date('F d, Y', strtotime($feed[$x]['date']));
             // echo '<p><strong><a href="'.$link.'" title="'.$title.'">'.$title.'</a></strong><br />';
             // echo '<small><em>Posted on '.$date.'</em></small></p>';
             // echo '<p>'.$description.'</p>';
@@ -528,9 +547,9 @@
           ?>
           <div class="row justify-content-md-center">
              
-            <div class="col-sm-10">
+            <div class="col-sm-8">
                 <div class="news-item">
-                <span class="feeddate"> <?php echo $date;?></span><a href="<?php echo $link ?>" target="_blank" rel="noreferrer"><?php echo $title ?></a>
+                <span class="feeddate"> <?php echo tgl_indo(date('Y-m-d', strtotime($feed[$x]['date'])));;?></span><a href="<?php echo $link ?>" target="_blank" rel="noreferrer"><?php echo $title ?></a>
                 </div>
             </div>
                   
@@ -540,7 +559,7 @@
          </div>
             </div>
         </div>
-    </section> */?> 
+    </section>
     <?php include 'footer.php' ?>
     <script src="/js/jquery-3.4.1.min.js"></script>
     <script src="/js/bootstrap.min.js"></script>
