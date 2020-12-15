@@ -61,7 +61,7 @@
 	  gtag('config', 'UA-146404615-1');
 	</script>
 </head>
-<?php $page = 'case-study/case-4'; ?>
+<?php $page = 'case-study/case-5'; ?>
 <body>
 <!-- Google Tag Manager (noscript) -->
 <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-WT4MCDL"
@@ -108,15 +108,15 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                                 <h5 class="mb-1"><b>What are the new features of Dokodemo-Kerja?</b></h5>
                                 <ol>
                                     <li>
-                                        <h5 class="feature-title"><a href="/help#attendance_2">Attendance History</a></h5>
+                                        <h5 class="feature-title"><a target="_blank" rel=”noreferrer” href="/help#attendance_2">Attendance History</a></h5>
                                         <p>This feature is useful for showing a list of employee attendance for one month or one year. In it, you can see the number of days off, leave, sickness, or other day offs.</p>
                                     </li>
                                     <li>
-                                        <h5 class="feature-title"><a href="/help#attendance_3">Delay</a></h5>
+                                        <h5 class="feature-title"><a target="_blank" rel=”noreferrer” href="/help#attendance_3">Delay</a></h5>
                                         <p>Every company sets its own standards in regards to working hours and set times. Appropriately, this new Dokodemo-Kerja feature will make it easier for HR staff to identify employees who, on occasion, do not meet these standards when coming late to work.</p>
                                     </li>
                                     <li>
-                                        <h5 class="feature-title"><a href="/help#attendance_1">Requesting a Leave or Day Off</a></h5>
+                                        <h5 class="feature-title"><a target="_blank" rel=”noreferrer” href="/help#attendance_1">Requesting a Leave or Day Off</a></h5>
                                         <p>Conventionally, applying for leave from the office can be lengthy process. Employees must fill out a form, send it to their supervisor, and then ask for a stamp and signature for an approval. Employees must also report their approval for their leave requests to HR staff so that the information can be updated via the employee database.</p>
                                     </li>
                                 </ol>
