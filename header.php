@@ -33,8 +33,9 @@
 
 <?php
     ini_set('date.timezone', 'Asia/Jakarta');
-    $date_now = date("m/d/Y H:i:s", time());
-    $date_deadline = date("m/d/Y H:i:s", strtotime("11/02/2020 13:00:00"));
+    $date_now = strtotime(date("m/d/Y H:i:s", time()));
+    $date_deadline = strtotime(date("m/d/Y H:i:s", strtotime("11/02/2020 13:00:00")));
+
     if ($date_now <= $date_deadline) {
         include ($_SERVER['DOCUMENT_ROOT'].'/component/free-seminar-banner.php');
     }
