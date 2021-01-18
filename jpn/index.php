@@ -6,18 +6,18 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=5.0" />
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
     <meta name="description" itemprop="description"
-        content="従業員の実勤務時間を記録、GPSで働いた場所をトラッキング、フレキシブルで生産性の高い働き方を可能とするリモートワーク管理ツールDokodemo-Kerja（ドコデモクルジャ）の紹介ページ。試用をご希望の方はお気軽にLOGIQUEまでご連絡ください。">
+        content="Dokodemo-Kerjaは従業員の勤怠と作業内容をプライバシーに配慮した形で適切に把握できるだけでなく、従業員にいつ・どこで働くかの自由度を与えることを可能にするので生産性向上に寄与する、Win-Winな人事管理クラウドツールです。インドネシアで展開している製品です。">
     <meta name="keywords"
         content="dokodemo, dokodemo-kerja, dokodemo kerja, work everywhere, work whenever, work wherever, project management tool, project management software, human resource tool, human resource software, monitoring software, monitoring tool, monitor desktop, monitor with privacy, low res monitoring, low resolution monitoring, time tracker, logique product, pt logique">
     <meta name="author" content="PT. LOGIQUE Digital Indonesia">
     <meta name="google-site-verification" content="Xc9SFJQZdKYLsrWvrxEjLLTA-nyrnNPQTXQoMxs4gKI" />
-    <meta property="og:title" content="リモートワークを可能にする勤務時間管理クラウドツール | ドコデモクルジャ | LOGIQUE Digital Indonesia">
+    <meta property="og:title" content="勤怠管理＆生産性向上ツール | Dokodemo-Kerja">
     <meta property="og:type" content="website">
     <meta property="og:site_name" content="Dokodemo-Kerja">
     <meta property="og:url" content="https://dokodemo-kerja.com">
     <meta property="og:image" content="https://dokodemo-kerja.com/img/dokodemo-og.jpg">
     <meta property="og:description"
-        content="従業員の実勤務時間を記録、GPSで働いた場所をトラッキング、フレキシブルで生産性の高い働き方を可能とするリモートワーク管理ツールDokodemo-Kerja（ドコデモクルジャ）の紹介ページ。試用をご希望の方はお気軽にLOGIQUEまでご連絡ください。">
+        content="Dokodemo-Kerjaは従業員の勤怠と作業内容をプライバシーに配慮した形で適切に把握することが可能なインドネシアで開発されたクラウドツールです。">
     <link rel="canonical" href="https://dokodemo-kerja.com/jpn/">
     <link rel="stylesheet" href="/css/bootstrap.min.css" />
     <link href="/fonts/font-awesome/css/font-awesome.min.css" rel="stylesheet">
@@ -29,63 +29,17 @@
     <link rel="stylesheet" href="/js/magnific-popup.css" />
     <link href="/fonts/font-awesome/css/font-awesome.min.css" rel="stylesheet">
     <link rel="shortcut icon" type="image/x-icon" href="favicon.ico">
-    <title>リモートワークを可能にする勤務時間管理クラウドツール | ドコデモクルジャ | LOGIQUE Digital Indonesia</title>
+    <title>勤怠管理＆生産性向上ツール | Dokodemo-Kerja | LOGIQUEインドネシア</title>
     <script src="https://www.googleoptimize.com/optimize.js?id=OPT-P232K37"></script>
     <!-- Google Tag Manager -->
-    <script>
-    (function(w, d, s, l, i) {
-        w[l] = w[l] || [];
-        w[l].push({
-            'gtm.start': new Date().getTime(),
-            event: 'gtm.js'
-        });
-        var f = d.getElementsByTagName(s)[0],
-            j = d.createElement(s),
-            dl = l != 'dataLayer' ? '&l=' + l : '';
-        j.async = true;
-        j.src =
-            'https://www.googletagmanager.com/gtm.js?id=' + i + dl;
-        f.parentNode.insertBefore(j, f);
-    })(window, document, 'script', 'dataLayer', 'GTM-WT4MCDL');
-    </script>
+    <script>(function(w, d, s, l, i){ w[l]=w[l] || []; w[l].push({ 'gtm.start':new Date().getTime(), event:'gtm.js'}); var f=d.getElementsByTagName(s)[0], j=d.createElement(s), dl=l !='dataLayer' ? '&l=' + l :''; j.async=true; j.src='https://www.googletagmanager.com/gtm.js?id=' + i + dl; f.parentNode.insertBefore(j, f);})(window, document, 'script', 'dataLayer', 'GTM-WT4MCDL'); </script>
 
     <!-- Global site tag (gtag.js) - Google Analytics -->
     <script async src="https://www.googletagmanager.com/gtag/js?id=UA-146404615-1"></script>
-    <script>
-    window.dataLayer = window.dataLayer || [];
-
-    function gtag() {
-        dataLayer.push(arguments);
-    }
-    gtag('js', new Date());
-    gtag('config', 'UA-146404615-1', {
-        'optimize_id': 'GTM-W8R96P7'
-    });
-    </script>
+    <script>window.dataLayer=window.dataLayer || []; function gtag(){ dataLayer.push(arguments);} gtag('js', new Date()); gtag('config', 'UA-146404615-1',{ 'optimize_id':'GTM-W8R96P7'}); </script>
 
     <!-- Facebook Pixel Code -->
-    <script>
-    ! function(f, b, e, v, n, t, s) {
-        if (f.fbq) return;
-        n = f.fbq = function() {
-            n.callMethod ?
-                n.callMethod.apply(n, arguments) : n.queue.push(arguments)
-        };
-        if (!f._fbq) f._fbq = n;
-        n.push = n;
-        n.loaded = !0;
-        n.version = '2.0';
-        n.queue = [];
-        t = b.createElement(e);
-        t.async = !0;
-        t.src = v;
-        s = b.getElementsByTagName(e)[0];
-        s.parentNode.insertBefore(t, s)
-    }(window, document, 'script',
-        'https://connect.facebook.net/en_US/fbevents.js');
-    fbq('init', '713777762291663');
-    fbq('track', 'PageView');
-    </script>
+    <script>! function(f, b, e, v, n, t, s){ if (f.fbq) return; n=f.fbq=function(){ n.callMethod ? n.callMethod.apply(n, arguments) :n.queue.push(arguments)}; if (!f._fbq) f._fbq=n; n.push=n; n.loaded=!0; n.version='2.0'; n.queue=[]; t=b.createElement(e); t.async=!0; t.src=v; s=b.getElementsByTagName(e)[0]; s.parentNode.insertBefore(t, s)}(window, document, 'script', 'https://connect.facebook.net/en_US/fbevents.js'); fbq('init', '713777762291663'); fbq('track', 'PageView'); </script>
     <noscript><img height="1" width="1" style="display:none"
             src="https://www.facebook.com/tr?id=713777762291663&ev=PageView&noscript=1" /></noscript>
     <!-- End Facebook Pixel Code -->

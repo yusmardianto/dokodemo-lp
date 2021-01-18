@@ -20,23 +20,23 @@
 	<meta charset="UTF-8" />
 	<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=5.0" />
 	<meta http-equiv="X-UA-Compatible" content="ie=edge" />
-	<meta name="description" itemprop="description" content="Hubungi Kami untuk menerima informasi lebih lanjut tentang Dokodemo-Kerja, alat pemantauan dan pelaporan yang dibuat untuk tujuan kerja jarak jauh.">
+	<meta name="description" itemprop="description" content="Untuk pertanyaan tentang alat manajemen kehadiran, Dokodemo-Kerja, silakan gunakan halaman ini. Dokodemo-Kerja dikembangkan oleh  perusahaan digital Indonesia, LOGIQUE. Produk ini akan menunjukkan efek langsung dengan harga yang wajar. ">
     <meta name="keywords" content="dokodemo, dokodemo-kerja, program perusahaan, program pemantauan, alat pelaporan, uji coba gratis, email dokodemo, bantuan dokodemo, kontak dokodemo, penjualan dokodemo, pemasaran dokodemo, pelatihan permintaan, kenali karyawan Anda, alat startup, logique person contact person, kontak dokodemo orang, apa itu dokodemo, apa itu kerja jarak jauh">
     <meta name="author" content="PT. LOGIQUE Digital Indonesia">
 	<meta name="google-site-verification" content="Xc9SFJQZdKYLsrWvrxEjLLTA-nyrnNPQTXQoMxs4gKI" />
-	<meta property="og:title" content="Hubungi Kami">
+	<meta property="og:title" content="Employee Management Tool Dokodemo-Kerja">
     <meta property="og:type" content="website">
     <meta property="og:site_name" content="Dokodemo-Kerja">
     <meta property="og:url" content="https://dokodemo-kerja.com">
     <meta property="og:image" content="https://dokodemo-kerja.com/img/og-img/contact-us.jpg">
-    <meta property="og:description" content="Untuk informasi lebih lanjut tentang Dokodemo-Kerja, hubungilah kami dengan mengisi formulir.">
+    <meta property="og:description" content="Untuk pertanyaan tentang alat manajemen kehadiran, Dokodemo-Kerja, silakan kirimkan pertanyaan Anda dari halaman ini. Dokodemo-Kerja dikembangkan oleh perusahaan pengembang Indonesia, LOGIQUE.">
     <link rel="canonical" href="https://dokodemo-kerja.com/ind/contact-us">
 	<link rel="stylesheet" href="/css/bootstrap.min.css" />
 	<link href="/fonts/font-awesome/css/font-awesome.min.css" rel="stylesheet">
 	<link rel="stylesheet" href="/css/header-footer.css" />
 	<link rel="stylesheet" href="/css/style.css" />
 	<link rel="shortcut icon" type="image/x-icon" href="favicon.ico">
-	<title>Hubungi Kami Tentang Dokodemo-Kerja, Atau Pertanyaan Yang Mungkin Anda Miliki</title>
+	<title>Alat Pengelola Karyawan Dokodemo-Kerja | LOGIQUE Digital Indonesia</title>
     <script src="https://www.googleoptimize.com/optimize.js?id=OPT-P232K37"></script>
 	<!-- Google Tag Manager -->
 	<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':

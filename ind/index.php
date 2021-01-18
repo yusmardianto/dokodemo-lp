@@ -5,15 +5,15 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=5.0" />
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
-	<meta name="description" itemprop="description" content="Dokodemo-Kerja adalah alat management strategi HR untuk meningkatkan efisiensi karyawan melalui evaluasi jadwal kerja karyawan.">
+	<meta name="description" itemprop="description" content="Dokodemo-Kerja memungkinkan karyawan untuk melihat kehadiran dan pekerjaan mereka dengan cara yang  privacy-friendly, dan juga memberikan kebebasan kepada karyawan untuk bekerja di mana pun dan kapan pun, yang berkontribusi pada peningkatan produktivitas.">
     <meta name="keywords" content="Dokodemo-Kerja, strategi HR, kerja remote, jam kerja karyawan, jadwal kerja">
 	<meta name="google-site-verification" content="Xc9SFJQZdKYLsrWvrxEjLLTA-nyrnNPQTXQoMxs4gKI" />
-    <meta property="og:title" content="Kerja Remote Dengan Dokodemo | Meningkatkan Efisiensi Karyawan">
+    <meta property="og:title" content="Attendance Management & Productivity Tools | Dokodemo-Kerja">
     <meta property="og:type" content="website">
     <meta property="og:site_name" content="Dokodemo-Kerja">
     <meta property="og:url" content="https://dokodemo-kerja.com">
     <meta property="og:image" content="https://dokodemo-kerja.com/img/og-img/index.jpg">
-    <meta property="og:description" content="Dokodemo-Kerja dengan secara acak menyimpan gambar layar komputer dan mencatat jam kerja, dan mengunakan fungsi GPS yang mencatat sejarah lokasi dari aplikasi handphone dapat membantu karyawan untuk mempunyai cara kerja yang lebih fleksibel.">
+    <meta property="og:description" content="Dokodemo-Kerja adalah alat cloud yang dikembangkan di Indonesia yang memungkinkan Anda kehadiran untuk melihat kehadiran dan rincian kerja karyawan dengan tepat dan ramah privasi.">
     <link rel="canonical" href="https://dokodemo-kerja.com/ind/">
     <link rel="stylesheet" href="/css/bootstrap.min.css" />
     <link href="/fonts/font-awesome/css/font-awesome.min.css" rel="stylesheet">
@@ -24,7 +24,7 @@
     <link rel="stylesheet" href="/css/style-home.css" />
     <link rel="stylesheet" href="/js/magnific-popup.css" />
     <link rel="shortcut icon" type="image/x-icon" href="favicon.ico">
-    <title>Kerja Remote Dengan Dokodemo | Meningkatkan Efisiensi Karyawan</title>
+    <title>Alat Absensi & Peningkat Produktivitas | Dokodemo-Kerja | LOGIQUE Indonesia</title>
     <script src="https://www.googleoptimize.com/optimize.js?id=OPT-P232K37"></script>
 	<!-- Google Tag Manager -->
 	<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
@@ -33,18 +33,7 @@
 	'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
 	})(window,document,'script','dataLayer','GTM-WT4MCDL');</script>
 	<!-- Facebook Pixel Code -->
-	<script>
-	  !function(f,b,e,v,n,t,s)
-	  {if(f.fbq)return;n=f.fbq=function(){n.callMethod?
-	  n.callMethod.apply(n,arguments):n.queue.push(arguments)};
-	  if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';
-	  n.queue=[];t=b.createElement(e);t.async=!0;
-	  t.src=v;s=b.getElementsByTagName(e)[0];
-	  s.parentNode.insertBefore(t,s)}(window, document,'script',
-	  'https://connect.facebook.net/en_US/fbevents.js');
-	  fbq('init', '713777762291663');
-	  fbq('track', 'PageView');
-	</script>
+	<script>!function(f,b,e,v,n,t,s) {if(f.fbq)return;n=f.fbq=function(){n.callMethod? n.callMethod.apply(n,arguments):n.queue.push(arguments)}; if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0'; n.queue=[];t=b.createElement(e);t.async=!0; t.src=v;s=b.getElementsByTagName(e)[0]; s.parentNode.insertBefore(t,s)}(window, document,'script', 'https://connect.facebook.net/en_US/fbevents.js'); fbq('init', '713777762291663'); fbq('track', 'PageView');</script>
 	<noscript><img height="1" width="1" style="display:none"
 	  src="https://www.facebook.com/tr?id=713777762291663&ev=PageView&noscript=1"
 	/></noscript>
