@@ -135,7 +135,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
             </div>
             <div class="row mt-3">              
                 <div class="offset-md-1 col-md-10">
-                    <p class="home-feature-content">Dokodemo-Kerja dengan secara acak menyimpan gambar layar komputer dan mencatat jam kerja, yang mempermudah evaluasi kinerja karyawan. Dan dengan adanya fungsi GPS yang mencatat sejarah lokasi dari aplikasi handphone dapat membantu karyawan untuk mempunyai cara kerja yang lebih fleksibel sekaligus mempermudah pihak perusahaan dalam mengatur jadwal kerja.</p>       
+                    <p class="home-feature-content">Seperti pada alat manajemen absensi lainnya, karyawan diwajibkan untuk menandakan kapan mereka mulai dan berhenti bekerja. Perbedaannya adalah dapat diverifikasi validitas dari jam kerja tersebut. Dengan menangkap layar pengguna yang sedang bekerja secara acak dan menyimpannya di server cloud, Anda dapat memahami dan membedakan antara pengguna yang bekerja aktual, bermain game, menonton Youtube, dll sehingga dapat mencegah kegiatan yang melanggar aturan kantor. Kami juga mendukung sistem pekerjaan HR yang efisien seperti penghitungan jam lembur, pengelolaan cuti, dan juga analisa waktu kerja berdasarkan tugas, departemen, harian, mingguan, dan bulanan.</p>       
                 </div>
                 <div class="offset-md-2 col-md-8">
                      <div class="embed-responsive embed-responsive-16by9 feature-video">
@@ -162,7 +162,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                                 2.
                             </div>
                             <div class="card__content">
-                                Pantau sejarah lokasi dengan aplikasi handphone.
+                                Dengan waktu yang tidak tentu akan menangkap gambar layar dan menyimpan di server. (Resolusi gambar rendah dan tidak mengganggu privasi)
                             </div>
                         </div>
                     </div>
@@ -172,7 +172,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                                 3.
                             </div>
                             <div class="card__content">
-                                Mengatur dan menganalisa kapan dan dimana mereka telah bekerja. 
+                                Dengan adanya aplikasi pada handphone, dapat mempermudah untuk mengelola waktu dan lokasi kerja karyawan yang sering dinas keluar kantor. 
                             </div>
                         </div>
                     </div>
@@ -260,7 +260,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                             <h3 class="card__header">Perekrutan tanpa Batas</h3>
                             <img class="card__img" src="/img/home/research.svg" alt="Perekrutan tanpa Batas">
                             <p class="card__text">
-                            Perusahaan dapat mempekerjakan karyawan dari mana saja, bahkan luar negri.
+                            Tanpa perlu mengkhawatirkan lokasi kantor, perusahaan dapat mempekerjakan sumber daya manusia yang berkualitas tinggi dari mana saja.
                             </p>
                         </div>
                     </div>
@@ -296,7 +296,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                     <div class="home-benefit__card --btn">
                         <div class="card__content">
                             <a href="https://www.logique.co.id/blog/category/dokodemo-kerja/">
-                                <button class="btn btn-primary form-control feature-btn" style="font-size: 20px; padding-top: .4em;">Learn More</button>
+                                <button class="btn btn-primary form-control feature-btn" style="height: auto; font-size: 20px; padding-top: .4em;">Cari tahu lebih lanjut tentang fungsi-fungsi di Dokodemo-Kerja</button>
                                 <img src="/img/home/arrow-down.svg"  width="13" alt=""/>
                             </a>
                         </div>

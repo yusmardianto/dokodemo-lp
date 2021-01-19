@@ -114,7 +114,7 @@
             <div class="row">
                 <div class="offset-md-1 col-md-10">
                     <p class="fs-18 subbanner-header-text">
-                    どこでも、何時でも、働いた時間と作業内容を記録することで、会社と従業員の双方にメリットのあるリモートワークを可能とします。<br>
+                    どこでも、何時でも、働いた時間と作業内容を記録することで、会社と従業員の双方にメリットのある働き方を実現可能とする勤怠管理＆リモートワーク管理ツールです。正確に勤務時間を管理可能になり、残業時間や有給消化数の計算などが効率化されます。スクリーンキャプチャを取得して管理することで勤務時間中のさぼりを抑止します。 <br>
                     Version 2.0からはGPSトラック機能も実装しましたので、外出が多いスタッフの勤務実態も管理可能となりました。</strong>
                     </p>
                 </div>
@@ -143,7 +143,7 @@
             </div>
             <div class="row mt-3">
                 <div class="offset-md-1 col-md-10">
-                    <p class="home-feature-content">他の多くの勤怠管理ツールと違って、勤務開始＆ストップするだけでなく、勤務中のユーザーのスクリーンをランダムにキャプチャを取得してクラウドサーバーに保存することで、画面に向かっているだけで働いていないということを防止できます。Version2.0からモバイルAppも利用可能となり、外出時などLaptopを使用しない勤務が多いユーザーの勤怠管理にも利用できるようになりました。</p>           
+                    <p class="home-feature-content">他の多くの勤怠管理ツールと同様に従業員に勤務スタートとストップを合図してもらいます。異なるのは、それが妥当かどうかを検証できる点です。勤務中のユーザーのスクリーンをランダムにキャプチャしてクラウドサーバーに保存することで、実は働いていない、ゲームをしている、Youtubeをみているなどを把握、また抑止できます。残業時間の計算、有給消化数の管理、タスク別、部署別、日次、週次、月次での作業時間分析など効率的な人事業務をサポートします。</p>           
                 </div>
                 <div class="offset-md-2 col-md-8">
                      <div class="embed-responsive embed-responsive-16by9 feature-video">
@@ -170,7 +170,7 @@
                                 2.
                             </div>
                             <div class="card__content">
-                                モバイルAppの使用で勤務場所（GPS)をトラックします。 
+                                ランダムに作業スクリーンをキャプチャしてサーバーに送信します。（プライバシーに配慮した解像度になっています） 
                             </div>
                         </div>
                     </div>
@@ -180,7 +180,7 @@
                                 3.
                             </div>
                             <div class="card__content">
-                                Team別・人別に勤務時間・タスク内容を分析可能です。 
+                                外回りの社員に対しては、スマホアプリを使用することで勤務時間と勤務場所（GPSトラッキング)を管理可能です。
                             </div>
                         </div>
                     </div>
@@ -270,7 +270,7 @@
                             <h3 class="card__header">場所フリーな採用</h3>
                             <img class="card__img" src="/img/home/research.svg" alt="Universal Hiring">
                             <p class="card__text">
-                            地理に関連なく、世界中の優秀な人材を採用＆働いてもらうことが可能になります。
+                            オフィスがある場所に囚われず、世界中の優秀な人材を採用＆働いてもらうことが可能になります。
                             </p>
                         </div>
                     </div>
@@ -306,7 +306,7 @@
                     <div class="home-benefit__card --btn">
                         <div class="card__content">
                             <a href="/features.php">
-                                <button class="btn btn-primary form-control feature-btn" style="font-size: 20px; padding-top: .4em;">もっと詳しくみる</button>
+                                <button class="btn btn-primary form-control feature-btn" style="height: auto; font-size: 20px; padding-top: .4em;">Dokodemo-Kerjaの機能をもっと詳しくみる</button>
                                 <img src="/img/home/arrow-down.svg"  width="13" alt=""/>
                             </a>
                         </div>

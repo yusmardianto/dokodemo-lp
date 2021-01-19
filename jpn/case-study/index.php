@@ -59,7 +59,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
             <nav aria-label="breadcrumb">
                 <ol class="breadcrumb">
                     <li class="breadcrumb-item"><a href="/">Dokodemo-Kerja Home</a></li>
-                    <li class="breadcrumb-item active" aria-current="page">Case Study</li>
+                    <li class="breadcrumb-item active" aria-current="page">事例</li>
                 </ol>
             </nav>
         </div>

@@ -131,7 +131,7 @@
             </div>
             <div class="row mt-3">
                 <div class="offset-md-1 col-md-10">
-                    <p class="home-feature-content">Employee working routines can be easily tracked, anywhere and at any time, through the inbuilt Random Screen Capture feature. Additionally, the Dokodemo-Kerja Mobile Application will be able to track and record when and where they have worked via GPS, allowing for greater employee flexibility, as well as making it easier for employers to manage their work schedules.</p>           
+                    <p class="home-feature-content">As with many other attendance management tools, employees will have to signal their start and stop working time. The difference is that you can verify that the recorded working hour is valid. By randomly capturing the screens of working users and saving them on a cloud server, you can understand whether they are doing actual work, playing games, watching Youtube, etc, where in turn can be used as a solid evidence to suppress or prevent the activities. We support efficient HR operations such as calculation of overtime hours, management of paid leave, task-based, department-based, daily, weekly, and monthly work time analysis.</p>           
                 </div>
                 <div class="offset-md-2 col-md-8">
                      <div class="embed-responsive embed-responsive-16by9 feature-video">
@@ -158,7 +158,7 @@
                                 2.
                             </div>
                             <div class="card__content">
-                                Track and record location via the Mobile Application. 
+                                Randomly capture the work screen and then send it to the server. (The resolution is privacy-friendly) 
                             </div>
                         </div>
                     </div>
@@ -168,7 +168,7 @@
                                 3.
                             </div>
                             <div class="card__content">
-                                Manage and Analyze where and when users have worked. 
+                                By using the smartphone application, it is easy to manage working hours and location (GPS tracking) on employees going outside of office. 
                             </div>
                         </div>
                     </div>
@@ -258,7 +258,7 @@
                             <h3 class="card__header">Universal Hiring</h3>
                             <img class="card__img" src="/img/home/research.svg" alt="Universal Hiring">
                             <p class="card__text">
-                            Employers can hire talented individuals from anywhere; even overseas.
+                            Employers will be able to hire and work with excellent human resources from all over the world, regardless of where the office is located.
                             </p>
                         </div>
                     </div>
@@ -294,7 +294,7 @@
                     <div class="home-benefit__card --btn">
                         <div class="card__content">
                             <a href="/features.php">
-                                <button class="btn btn-primary form-control feature-btn" style="font-size: 20px; padding-top: .4em;">Learn More</button>
+                                <button class="btn btn-primary form-control feature-btn" style="height: auto; font-size: 20px; padding-top: .4em;">Find out more about features in Dokodemo-Kerja</button>
                                 <img src="/img/home/arrow-down.svg"  width="13" alt=""/>
                             </a>
                         </div>

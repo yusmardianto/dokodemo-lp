@@ -85,9 +85,9 @@
             <div class="ml-auto">
                 <p class="text-center txt-lang">Language</p>
                 <div class="switch-language">
-                    <a href="/<?php echo $page;?>"><label for="radio-one">ENG</label></a>
-                    <a href="/ind/"><label class="active" for="radio-two">IND</label></a>
-                    <a href="/jpn/<?php echo $page;?>"><label for="radio-three">JPN</label></a>
+                    <a href="/ind/"><label class="active" for="radio-two">ID</label></a>
+                    <a href="/<?php echo $page;?>"><label for="radio-one">EN</label></a>
+                    <a href="/jpn/<?php echo $page;?>"><label for="radio-three">JP</label></a>
                 </div>
             </div>
         </div>
