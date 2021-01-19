@@ -67,7 +67,7 @@
                     <a class="nav-link" href="/jpn/price">価格</a>
                 </li>
                 <li class="nav-item <?php active('demo') ?>">
-                    <a class="nav-link" href="/jpn/demo">お問い合わせ</a>
+                    <a class="nav-link" href="/jpn/demo">デモ</a>
                 </li>
                 <li class="nav-item">
                     <a class="nav-link" target="_blank" rel="noopener noreferrer"
