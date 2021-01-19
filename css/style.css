@@ -56,6 +56,7 @@ strong {
   font-weight: 700 !important;
 }
 
+/* font */
 .fs-48 {
   font-size: 50px;
 }
@@ -87,8 +88,10 @@ strong {
   font-size: 16px;
 }
 .fs-12 {
-  font-size: 14px;
+  font-size: 12px;
 }
+
+/* line height */
 .lh-40 {
   line-height: 40px;
 }
@@ -98,6 +101,104 @@ strong {
 .lh-27 {
   line-height: 27px;
 }
+
+/* position */
+.top-0 {
+  top: 0;
+}
+
+.right-0 {
+  right: 0;
+}
+
+/* height */
+.m-h--40px {
+  min-height: 40px;
+}
+
+/* color */
+.color--gray {
+  color: #c0c0c0;
+}
+
+.color--blue {
+  color: #3b81bf;
+}
+
+.bg--blue {
+  background-color: #3b81bf;
+}
+
+.bg--yellow {
+  background-color: #ffca13;
+}
+
+.border--blue {
+  border-color: #3b81bf;
+}
+
+/* btn */
+.btn.form-control {
+  height: auto;
+}
+
+.btn.form-control:focus {
+  background-color: inherit;
+}
+
+.btn.btn--rounded {
+  border-radius: 20px;
+}
+
+.btn.bg--yellow {
+  color: #fff;
+}
+
+.btn.bg--yellow:hover {
+  background-color: #ffd954 !important;
+}
+
+.btn.bg--yellow:focus {
+  box-shadow: 0 0 0 0.2rem rgba(255, 217, 84,.25);
+  border-color: #ffd954;
+  background-color: #ffd954
+}
+
+/* spacing */
+.mb--30px {
+  margin-bottom: 30px;
+}
+
+.mb--40px {
+  margin-bottom: 40px;
+}
+
+/* input */
+input.border--blue:focus,
+textarea.border--blue:focus {
+  border-color: #3b81bf;
+  box-shadow: 0 0 0 0.2rem rgba(59, 129, 191,.25);
+}
+
+input.form-control.color--blue:focus {
+  color: #3b81bf;
+}
+
+.input--icon img {
+  position: absolute;
+  top: 50%;
+  left: 10px;
+  transform: translateY(-50%);
+}
+
+.input--icon input {
+  padding-left: 40px;
+}
+
+
+
+
+
 .bold {
   font-weight: 700;
 }
@@ -548,6 +649,52 @@ strong {
 .cp-bot-container p a {
   padding: 10px;
 }
+
+/* modal */
+.modal.modal--meeting .meeting__accent {
+  width: 85px;
+  bottom: -35px;
+}
+
+.modal.modal--meeting .meeting__accent:last-of-type {
+  right: -20px;
+}
+
+.modal-body .modal-body__input label,
+.modal-body .modal-body__input .input--icon img {
+  transition: all .15s ease-in-out;
+}
+
+.modal-body__input input.border--blue,
+.modal-body__input textarea.border--blue {
+  border-color: #c0c0c0;
+}
+
+.modal-body__input:focus-within input.border--blue,
+.modal-body__input:focus-within textarea.border--blue {
+  border-color: #194f86;
+}
+
+.modal-body .modal-body__input label,
+.modal-body .modal-body__input input.color--blue,
+.modal-body .modal-body__input textarea.color--blue {
+  color: #c0c0c0;
+}
+
+.modal-body .modal-body__input .input--icon img {
+  filter: grayscale(1) contrast(1) brightness(1.5);
+}
+
+.modal-body .modal-body__input:focus-within label,
+.modal-body .modal-body__input:focus-within input.color--blue,
+.modal-body .modal-body__input:focus-within textarea.color--blue {
+  color: #194f86;
+}
+
+.modal-body .modal-body__input:focus-within .input--icon img {
+  filter: none;
+}
+
 
 @media (max-width: 1200px){
   .free-seminar-section{

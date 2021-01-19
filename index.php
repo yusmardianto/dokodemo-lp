@@ -432,6 +432,7 @@
     </section>
 
     <?php include './component/demo-banner.php' ?>
+    <?php include './component/modal-meeting.php' ?>
     <section  class="news-list-container">
         <div class="container">
             <div class="newscontainer">
@@ -512,6 +513,7 @@
     <script src="/js/jquery.magnific-popup.min.js"></script>
     <script src="/js/jquery.countdown.min.js"></script>
     <script src="/js/seminar-banner/seminar-banner.js?v=1.1"></script>
+    <script src="/js/main.js"></script>
     <script>
     $(".screenshot-slide").slick({
             infinite: true,
