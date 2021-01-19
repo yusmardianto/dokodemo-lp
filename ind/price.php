@@ -5,16 +5,16 @@
     <meta charset="UTF-8">
    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=5.0" />
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
-	<meta name="description" itemprop="description" content="Dokodemo-Kerja: alat manajemen efektif & solusi murah untuk menghemat uang pada karyawan.">
+	<meta name="description" itemprop="description" content="Dokodemo-Kerja adalah alat cloud yang memungkinkan Anda mengelola kehadiran dan pekerjaan karyawan dengan perekaman tangkapan layar. Program ini dikembangkan dan dijual di Indonesia. Harga mulai dari Rp1.000.000 per bulan.">
     <meta name="keywords" content="platform manajer pengguna yang murah, perangkat lunak manajemen orang murah, perangkat lunak manajemen orang, dokodemo, dokodemo-kerja, perangkat lunak perusahaan, perangkat lunak perusahaan murah, alat manajemen orang yang efektif, alat manajemen murah, Kerja Remote, kerja independen">
     <meta name="author" content="PT. Logique Digital Indonesia">
 	<meta name="google-site-verification" content="Xc9SFJQZdKYLsrWvrxEjLLTA-nyrnNPQTXQoMxs4gKI" />
-    <meta property="og:title" content="Harga Dokodemo-Kerja | Software Monitor Kinerja mulai dari 1 juta">
+    <meta property="og:title" content="Remote Work Management Tool Dokodemo-Kerja Pricing">
     <meta property="og:type" content="website">
     <meta property="og:site_name" content="Dokodemo-Kerja">
     <meta property="og:url" content="https://dokodemo-kerja.com">
     <meta property="og:image" content="https://dokodemo-kerja.com/img/og-img/price.jpg">
-    <meta property="og:description" content="Dokodemo-Kerja: alat manajemen efektif & solusi murah untuk menghemat uang pada karyawan. Dokodemo-Kerja dibuat untuk perusahaan-perusahaan yang menggunakan sistem kerja remote dan independen agar dapat meningkatkan produktifitas karyawannya.">
+    <meta property="og:description" content="Dokodemo-Kerja adalah alat pengelola absensi & manajemen kerja jarak jauh yang bisa Anda dapatkan hanya dengan Rp 1 Juta per bulan.">
     <link rel="canonical" href="https://dokodemo-kerja.com/ind/price">
     <link rel="stylesheet" href="/css/bootstrap.min.css" />
     <link href="/fonts/font-awesome/css/font-awesome.min.css" rel="stylesheet">
@@ -24,7 +24,7 @@
     <link rel="stylesheet" href="/css/style.css" />
     <link rel="stylesheet" href="/css/style-pricing.css" />
     <link rel="shortcut icon" type="image/x-icon" href="favicon.ico">
-    <title>Harga Dokodemo-Kerja | Software Monitor Kinerja mulai dari 1 juta</title>
+    <title>Harga Alat Manajemen Kerja Remote Dokodemo-Kerja </title>
     <script src="https://www.googleoptimize.com/optimize.js?id=OPT-P232K37"></script>
 	<!-- Google Tag Manager -->
 	<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
@@ -33,31 +33,14 @@
 	'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
 	})(window,document,'script','dataLayer','GTM-WT4MCDL');</script>
 	<!-- Facebook Pixel Code -->
-	<script>
-	  !function(f,b,e,v,n,t,s)
-	  {if(f.fbq)return;n=f.fbq=function(){n.callMethod?
-	  n.callMethod.apply(n,arguments):n.queue.push(arguments)};
-	  if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';
-	  n.queue=[];t=b.createElement(e);t.async=!0;
-	  t.src=v;s=b.getElementsByTagName(e)[0];
-	  s.parentNode.insertBefore(t,s)}(window, document,'script',
-	  'https://connect.facebook.net/en_US/fbevents.js');
-	  fbq('init', '713777762291663');
-	  fbq('track', 'PageView');
-	</script>
+	<script> !function(f,b,e,v,n,t,s) {if(f.fbq)return;n=f.fbq=function(){n.callMethod? n.callMethod.apply(n,arguments):n.queue.push(arguments)}; if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0'; n.queue=[];t=b.createElement(e);t.async=!0; t.src=v;s=b.getElementsByTagName(e)[0]; s.parentNode.insertBefore(t,s)}(window, document,'script', 'https://connect.facebook.net/en_US/fbevents.js'); fbq('init', '713777762291663'); fbq('track', 'PageView');</script>
 	<noscript><img height="1" width="1" style="display:none"
 	  src="https://www.facebook.com/tr?id=713777762291663&ev=PageView&noscript=1"
 	/></noscript>
 	<!-- End Facebook Pixel Code -->
 	<!-- Global site tag (gtag.js) - Google Analytics -->
 	<script async src="https://www.googletagmanager.com/gtag/js?id=UA-146404615-1"></script>
-	<script>
-	  window.dataLayer = window.dataLayer || [];
-	  function gtag(){dataLayer.push(arguments);}
-	  gtag('js', new Date());
-
-	  gtag('config', 'UA-146404615-1');
-	</script>
+	<script> window.dataLayer=window.dataLayer || []; function gtag(){dataLayer.push(arguments)} gtag('js', new Date()); gtag('config', 'UA-146404615-1');</script>
 </head>
 <?php $page = 'price'; ?>
 <body>

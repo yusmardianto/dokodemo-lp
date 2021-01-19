@@ -6,31 +6,31 @@
     // require 'vendor/autoload.php';
 
     // Load config
-	$config = include('config/app.php');
+	$config = include('../config/app.php');
 
-	require 'action/c-trial.php';
+	require '../action/c-trial.php';
 
 	$page = 'demo';
 ?>
 
 
 <!DOCTYPE html>
-<html lang="en">
+<html lang="ja">
 
 <head>
 	<meta charset="UTF-8" />
 	<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=5.0" />
 	<meta http-equiv="X-UA-Compatible" content="ie=edge" />
-	<meta name="description" itemprop="description" content="You can check the demo of the attendance management tool Dokodemo-Kerja here. By using Dokodemo-Kerja, you can immediately introduce remote work and working hour calculation system. It's not just a tool for managing employees, it's also a tool for employees. Ideal for use in Indonesia.">
+	<meta name="description" itemprop="description" content="勤怠管理ツールDokodemo-Kerjaのデモはこちらから確認いただけます。Dokodemo-Kerjaを使うことでリモートワークも時短勤務制度も即時導入可能となります。従業員を管理するだけのツールではなく従業員にもメリットのあるツールです。インドネシアでの利用に最適です。">
     <meta name="keywords" content="weed out underperforming employees, get rid of lazy employees, increase productivity, dokodemo trial, dokodemo free, free hr tool, free management tool, small business tool, low budget tool, low budget hr tool, low budget management tool, free time tracker, free employee time tracker, free man hour tracker, screenshot tracker, screenshot employee monitor software cheap">
     <meta name="author" content="PT. LOGIQUE Digital Indonesia">
 	<meta name="google-site-verification" content="Xc9SFJQZdKYLsrWvrxEjLLTA-nyrnNPQTXQoMxs4gKI" />
-	<meta property="og:title" content="Attendance management tool Dokodemo-Kerja demo">
+	<meta property="og:title" content="勤怠管理ツールDokodemo-Kerjaのデモ">
     <meta property="og:type" content="website">
     <meta property="og:site_name" content="Dokodemo-Kerja">
     <meta property="og:url" content="https://dokodemo-kerja.com">
     <meta property="og:image" content="https://dokodemo-kerja.com/img/dokodemo-og.jpg">
-    <meta property="og:description" content="For inquiries about the attendance management tool, Dokodemo-Kerja, please send your inquiries from this page. Dokodemo-Kerja is developed by an Indonesian development company, LOGIQUE.">
+    <meta property="og:description" content="勤怠管理ツールDokodemo-Kerjaのデモはこちらから確認いただけます。インドネシアでの利用に最適です。">
     <link rel="canonical" href="https://dokodemo-kerja.com/demo">
 	<link rel="stylesheet" href="/css/bootstrap.min.css" />
   	<link href="/fonts/font-awesome/css/font-awesome.min.css" rel="stylesheet">
@@ -38,7 +38,7 @@
 	<link rel="stylesheet" href="/css/style.css" />
 	<link rel="stylesheet" href="/css/style-trial.css" />
 	<link rel="shortcut icon" type="image/x-icon" href="favicon.ico">
-	<title>Attendance Management Tool Dokodemo-Kerja Demo | LOGIQUE Digital Indonesia</title>
+	<title>勤怠管理ツールDokodemo-Kerjaのデモ | LOGIQUEデジタルインドネシア</title>
     <script src="https://www.googleoptimize.com/optimize.js?id=OPT-P232K37"></script>
 	<!-- Google Tag Manager -->
 	<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
@@ -47,7 +47,7 @@
 	'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
 	})(window,document,'script','dataLayer','GTM-WT4MCDL');</script>
 	<!-- Facebook Pixel Code -->
-	<script>!function(f,b,e,v,n,t,s) {if(f.fbq)return;n=f.fbq=function(){n.callMethod? n.callMethod.apply(n,arguments):n.queue.push(arguments)}; if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0'; n.queue=[];t=b.createElement(e);t.async=!0; t.src=v;s=b.getElementsByTagName(e)[0]; s.parentNode.insertBefore(t,s)}(window, document,'script', 'https://connect.facebook.net/en_US/fbevents.js'); fbq('init', '713777762291663'); fbq('track', 'PageView');</script>
+	<script> !function(f,b,e,v,n,t,s) {if(f.fbq)return;n=f.fbq=function(){n.callMethod? n.callMethod.apply(n,arguments):n.queue.push(arguments)}; if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0'; n.queue=[];t=b.createElement(e);t.async=!0; t.src=v;s=b.getElementsByTagName(e)[0]; s.parentNode.insertBefore(t,s)}(window, document,'script', 'https://connect.facebook.net/en_US/fbevents.js'); fbq('init', '713777762291663'); fbq('track', 'PageView');</script>
 	<noscript><img height="1" width="1" style="display:none"
 	  src="https://www.facebook.com/tr?id=713777762291663&ev=PageView&noscript=1"
 	/></noscript>
@@ -64,11 +64,11 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 <!-- End Google Tag Manager (noscript) -->
 	<?php include 'header.php' ?>
 	<section class="intro-section text-center px-4">
-		<h1 class="banner-text-white">Try Our Free Demo</h1>
+		<h1 class="banner-text-white">無料デモをお試しください</h1>
 		<img src="/img/home/arrow-down.svg" class="pt-4 pb-3" width="20" alt=""/>
-		<a href="https://demo.dokodemo-kerja.com" class="btn btn-trial-contact bold uppercase" target="_blank" rel="noopener noreferrer" id="btn-demo">Admin Demo</a>
+		<a href="https://demo.dokodemo-kerja.com" class="btn btn-trial-contact bold uppercase" target="_blank" rel="noopener noreferrer" id="btn-demo">管理者用のデモを試す</a>
 		<a href="https://drive.google.com/file/d/1kJA4zw9AlRcPQgkQThKdXOs9nfVI00ab/view?usp=sharing" target="_blank" rel="noopener noreferrer">
-			<p class="trial-header-content">For staff demo, please follow the instruction below.</p>
+			<p class="trial-header-content">従業員用デモは下記に従ってお試しください</p>
 		</a>
 	</section>
 
@@ -85,7 +85,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                     </div>
 				</div>
 				<div class="offset-md-1 col-md-10 download-container text-center">
-					<h3 class="download-title hidden-xs">Install demo application from the links below:</h3>
+					<h3 class="download-title hidden-xs">デモアプリのインストールはこちらから</h3>
 					<div class="row">
 						<div class="col-md-4">
 							<a target="_blank" href="https://drive.google.com/file/d/1DkDLY7qhuf--1PbI7f1ZI2UlFVxo4ugl/view?usp=sharing" class="btn btn-download bold hidden-xs" id="btn-download-windows"><i class="fa fa-download icon-download"></i>Windows</a>
@@ -114,13 +114,13 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 		<div class="container">
 			<div class="row mt-5">
 				<div class="offset-md-1 col-md-10">
-					<h3 class="trial-title">How To Use Dokodemo-Kerja</h3>
+					<h3 class="trial-title">Dokodemo-Kerjaデモ版のご利用方法</h3>
 					
 					<!-- <a href="https://dokodemo-kerja.com/pdf/install-guide-ENG.pdf" target="_blank" aria-label="Install Guide" class="dl-guide" rel="noopener noreferrer">
 						<img src="/img/install.png" class="d-block img-fluid img-border mx-auto mb-3" id="trial-install-guide" alt="Dokodemo-Kerja Install Guide" />
 					</a> -->
 					<div class="installation-manual">
-						Download installation manual here:
+					インストールマニュアルはこちらからダウンロードください
 						<a class="installation-manual__item" target="_blank" href="https://drive.google.com/file/d/1jZut6Ouhi_HA26QoL4mvty45qZMAgdii/view?usp=sharing">
 							<img src="/img/trial/pdf.svg" alt="">
 							Desktop
@@ -131,7 +131,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 						</a>
 					</div>
 					<div class="installation-manual">
-						Download user manual here:
+					操作マニュアルはこちらからダウンロードください
 						<a class="installation-manual__item" target="_blank" href="/pdf/user_manual_dokodemo_ver_2-2-2-en.pdf">
 							<img src="/img/trial/pdf.svg" alt="">
 							Desktop
@@ -142,13 +142,13 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 					<nav>
 						<div class="nav nav-tabs nav-tabs-trial" id="nav-tab" role="tablist">
 							<a class="nav-item nav-link trial-tab active" id="nav-home-tab" data-toggle="tab" href="#nav-home" role="tab" aria-controls="nav-home" aria-selected="true">
-								<span class="trial-tabfont">Admin</span>
+								<span class="trial-tabfont">管理者用機能</span>
 							</a>
 							<a class="nav-item nav-link trial-tab" id="nav-profile-tab" data-toggle="tab" href="#nav-profile" role="tab" aria-controls="nav-profile" aria-selected="false">
-								<span class="trial-tabfont">Staff Desktop</span>
+								<span class="trial-tabfont">一般ユーザー用</span>
 							</a>
 							<a class="nav-item nav-link trial-tab --divider" id="mobile-staff-tab" data-toggle="tab" href="#mobile-staff" role="tab" aria-controls="mobile-staff" aria-selected="false">
-								<span class="trial-tabfont">Staff Mobile</span>
+								<span class="trial-tabfont">スマホアプリ</span>
 							</a>
 						</div>
 					</nav>
@@ -157,13 +157,13 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 							<div class="trial-tab-container">
 								<div>
 									<div>
-										<h2 class="tab-content-title content-section-title">1. Access Demo Environment</h2>
-										<p class="trial-tab-content --no-list d-block mt-0">Click <a href="https://demo.dokodemo-kerja.com/" target="_blank" rel="noopener noreferrer">this link</a> to access the Demo page</p>
+										<h2 class="tab-content-title content-section-title">1. デモ環境にアクセスする</h2>
+										<p class="trial-tab-content --no-list d-block mt-0"><a class="font-weight-bold" href="https://demo.dokodemo-kerja.com/" target="_blank" rel="noopener noreferrer">このリンク</a>にアクセスしてください</p>
 									</div>
 									<div class="pl-4 mb-5">
 										<div class="row">
 											<div class="col-md-6 col-lg-8">
-												<p class="trial-tab-content">Login with the provided email and password</p>
+												<p class="trial-tab-content">別途ご連絡するIDとパスワードでログインします</p>
 												<picture>
 													<source srcset="/img/trial/admin-1.webp" type="image/webp">
 													<img src="/img/trial/admin-1.jpg" alt="Dokodemo-Kerja Website Login" class="img-fluid img-border mb-3">
@@ -173,23 +173,23 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 									</div>
 								</div>
 								<div>
-									<h2 class="tab-content-title content-section-title">2. Add New Task</h2>
+									<h2 class="tab-content-title content-section-title">2. タスクを設定管理できます</h2>
 									<div class="pl-4">
-										<p class="trial-tab-content">Click the <strong>Profile Button</strong> > <strong>Settings</strong> > <strong>Task</strong></p>
+										<p class="trial-tab-content"><strong>Profile</strong> - <strong>Settings</strong> - <strong>Task</strong>から設定できます</p>
 										<picture>
 											<source srcset="/img/trial/admin-3-1.webp" type="image/webp">
 											<img src="/img/trial/admin-3-1.jpg" alt="Dokodemo-Kerja Drop Down Account Access Option" class="mb-3 img-fluid w-100 img-border">
 										</picture>
 										<div class="row">
 											<div class="col-md-6">
-												<p class="trial-tab-content">Click <strong>"Add New"</strong> on task management <br class="d-none d-md-block d-lg-none d-xl-block"><br class="d-none d-md-block d-lg-none d-xl-block"><br class="d-none d-md-block d-lg-none"></p>
+												<p class="trial-tab-content"><strong>Add New</strong>から新規タスクを登録できます</p>
 												<picture>
 													<source srcset="/img/trial/admin-3-2.webp" type="image/webp">
 													<img src="/img/trial/admin-3-2.jpg" alt="Dokodemo-Kerja 'Add New' Button" class="mb-3 img-fluid w-100 img-border">
 												</picture>
 											</div>
 											<div class="col-md-6">
-												<p class="trial-tab-content">Fill the task new information, click Submit, and New Task Added </p>
+												<p class="trial-tab-content">入力後、Submitボタンを押してください</p>
 												<picture>
 													<source srcset="/img/trial/admin-3-3.webp" type="image/webp">
 													<img src="/img/trial/admin-3-3.jpg" alt="Dokodemo-Kerja Install Guide" class="mb-5 img-fluid w-100 img-border">
@@ -199,23 +199,23 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 									</div>
 								</div>
 								<div>
-									<h2 class="tab-content-title content-section-title">3. Add New Team</h2>
+									<h2 class="tab-content-title content-section-title">3. 部署・チームを設定管理します</h2>
 									<div class="pl-4">
-										<p class="trial-tab-content">Click the <strong>Profile Button</strong> > <strong>Settings</strong> > <strong>Team</strong></p>
+										<p class="trial-tab-content"><strong>Profile</strong> - <strong>Settings</strong> - <strong>Team</strong>から設定できます</p>
 										<picture>
 											<source srcset="/img/trial/admin-4-1.webp" type="image/webp">
 											<img src="/img/trial/admin-4-1.jpg" alt="Dokodemo-Kerja Drop Down Account Access Option" class="mb-3 img-fluid w-100 img-border">
 										</picture>
 										<div class="row">
 											<div class="col-md-6">
-												<p class="trial-tab-content">Click <strong>"Add New"</strong> on team management <br class="d-none d-md-block d-lg-none d-xl-block"><br class="d-none d-md-block d-lg-none d-xl-block"></p>
+												<p class="trial-tab-content"><strong>Add New</strong>から新規チームを登録できます<br class="d-none d-md-block d-lg-none d-xl-block"><br class="d-none d-md-block d-lg-none d-xl-block"></p>
 												<picture>
 													<source srcset="/img/trial/admin-4-2.webp" type="image/webp">
 													<img src="/img/trial/admin-4-2.jpg" alt="Dokodemo-Kerja 'Add New' Button" class="mb-5 img-fluid w-100 img-border">
 												</picture>
 											</div>
 											<div class="col-md-6">
-												<p class="trial-tab-content">fill the team name and leader, click Submit, and New Team Added </p>
+												<p class="trial-tab-content">チーム名、チーム長情報入力して、登録します</p>
 												<picture>
 													<source srcset="/img/trial/admin-4-3.webp" type="image/webp">
 													<img src="/img/trial/admin-4-3.jpg" alt="Dokodemo-Kerja Add Team Management" class="mb-5 img-fluid w-100 img-border">
@@ -225,30 +225,30 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 									</div>
 								</div>
 								<div>
-									<h2 class="tab-content-title content-section-title">4. Add New Staff</h2>
+									<h2 class="tab-content-title content-section-title">4. スタッフ情報を設定管理します</h2>
 									<div class="pl-4">
-										<p class="trial-tab-content"> Click the <strong>Profile Button</strong> > <strong>Settings</strong> > <strong>Staff</strong></p>
+										<p class="trial-tab-content"><strong>Profile</strong> - <strong>Settings</strong> - <strong>Staff</strong>から設定管理します</p>
 										<picture>
 											<source srcset="/img/trial/admin-2-1.webp" type="image/webp">
 											<img src="/img/trial/admin-2-1.jpg" alt="Dokodemo-Kerja Drop Down Account Access Option" class="mb-3 img-fluid w-100 img-border">
 										</picture>
 										<div class="row">
 											<div class="col-md-6">
-												<p class="trial-tab-content">Click <strong>"Add New"</strong> <br class="d-none d-md-block d-lg-none"><br class="d-none d-md-block d-lg-none"></p>
+												<p class="trial-tab-content"><strong>Add New</strong>から新規スタッフ情報を登録できます</p>
 												<picture>
 													<source srcset="/img/trial/admin-2-2.webp" type="image/webp">
 													<img src="/img/trial/admin-2-2.jpg" alt="Dokodemo-Kerja 'Add New' Button" class="mb-3 img-fluid w-100 img-border">
 												</picture>
 											</div>
 											<div class="col-md-6">
-												<p class="trial-tab-content">Fill in the Staff information</p>
+												<p class="trial-tab-content">スタッフ情報を入力し登録します<br class="d-none d-md-block"><br class="d-none d-md-block"></p>
 												<picture>
 													<source srcset="/img/trial/admin-2-3.webp" type="image/webp">
 													<img src="/img/trial/admin-2-3.jpg" alt="Dokodemo-Kerja's Add Staff option" class="mb-3 img-fluid w-100 img-border">
 												</picture>
 											</div>
 										</div>
-										<p class="trial-tab-content">The staff will be drafted in the demo environment and an email will be sent to the staff's email.</p>
+										<p class="trial-tab-content">入力されたEメール宛にログイン情報が送られるので、それを使ってログイン後、ご利用ください</p>
 										<picture>
 											<source srcset="/img/trial/admin-2-4.webp" type="image/webp">
 											<img src="/img/trial/admin-2-4.jpg" alt="Dokodemo-Kerja Staff Management" class="mb-5 img-fluid w-100 img-border">
@@ -260,37 +260,37 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 						<div class="tab-pane fade" id="nav-profile" role="tabpanel" aria-labelledby="nav-profile-tab">
 							<div class="trial-tab-container">
 								<div>
-									<h2 class="tab-content-title content-section-title">1. Access Demo Environment</h2>
-									<p class="trial-tab-content --no-list mt-0">Click <a href="https://demo.dokodemo-kerja.com/" target="_blank" rel="noopener noreferrer">this link</a> to access the Demo page</p>
+									<h2 class="tab-content-title content-section-title">1. Dokodemo-Kerjaをインストールする</h2>
+									<p class="trial-tab-content --no-list mt-0"><a href="https://demo.dokodemo-kerja.com/" target="_blank" rel="noopener noreferrer" class="font-weight-bold">ここから</a>Dokodemo-Kerjaデスクトップアプリをダウンロードしてください</p>
 								</div>
 								<div class="pl-4 mb-5">
 									<div class="row">
 										<div class="col-md-6">
-											<p class="trial-tab-content ">Extract demo's folder and find Dokodemo-Kerja programs</p>
+											<p class="trial-tab-content ">アプリを展開して実行ファイルを見つけてください</p>
 											<img src="/img/trial/staff-1.png" class="mb-3 img-fluid w-100 img-border" alt="Dokodemo-Kerja Zip File"/>
 										</div>
 										<div class="col-md-6">
-											<p class="trial-tab-content">Run that application <br class="d-none d-md-block"><br class="d-none d-md-block"></p>
+											<p class="trial-tab-content">インストールします <br class="d-none d-md-block"><br class="d-none d-md-block"></p>
 											<img src="/img/trial/staff-2.png" class="mb-3 img-fluid w-100 img-border" alt="Downloaded Dokodemo-Kerja App Icon"/>
 										</div>
 									</div>
 								</div>
 
-								<h2 class="tab-content-title content-section-title">2. Using Homepage</h2>
+								<h2 class="tab-content-title content-section-title">2. ログインして利用開始する</h2>
 								<div class="pl-4">
 									<div class="row">
 										<div class="col-md-6">
 											<div class="trial-tab-content">
 												<p class="mb-0">
-													Login with the account registered in the demo Admin website.
+												Eメールに届いている（Adminから付与された）ID/Passを使いログインしてください
 												</p>
 											</div>
 											<img src="/img/trial/staff-3.png" class="mb-3 img-fluid w-100 img-border" alt="Dokodemo-Kerja Version 2.0.0"/>
 										</div>
 										<div class="col-md-6">
-											<p class="trial-tab-content">Choose project and press "Play" button</p>
+											<p class="trial-tab-content">タスク（プロジェクト）を選択してPlayボタンを押してスタートします</p>
 											<img src="/img/trial/staff-4.png" class="mb-3 img-fluid w-100 img-border" alt="Dokodemo-Kerja Application"/>
-											<p class="trial-tab-content">Press the red button for stop counting</p>
+											<p class="trial-tab-content">赤いボタンで停止します</p>
 											<img src="/img/trial/staff-5.png" class="mb-5 img-fluid w-100 img-border" alt="Dokodemo-Kerja Application Appearance"/>
 										</div>
 									</div>
@@ -302,27 +302,27 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 										<div class="col-md-6">
 											<div class="trial-tab-content">
 												<p class="mb-0">
-													There’s also today’s and week’s total hours written on homepage and,
+												その他の操作
 												</p>
 												<div class="trial-tab-content__list">
-													<span style="color: #098AE4"><strong>Blue</strong></span>
-													<span>: for Minimize</span>
+													<span style="color: #098AE4"><strong>青色ボタン</strong></span>
+													<span>: Dokodemo-Kerja操作パネルを最小化します</span>
 												</div>
 												<div class="trial-tab-content__list">
-													<span style="color: #E6B403"><strong>Yellow</strong></span>
-													<span>: go to Website</span>
+													<span style="color: #E6B403"><strong>黄色ボタン</strong></span>
+													<span>: Dokodemo-Kerja管理画面（Web）を表示します</span>
 												</div>
 												<div class="trial-tab-content__list">
-													<span style="color: #E3092A"><strong>Red</strong></span>
-													<span>: for Logout</span>
+													<span style="color: #E3092A"><strong>赤色ボタン</strong></span>
+													<span>: ログアウトします</span>
 												</div>
 												<div class="trial-tab-content__list">
 													<span><strong>Today</strong></span>
-													<span>: shows today's accumulative work hours</span>
+													<span>: 当日のいままでの作業時間を表します</span>
 												</div>
 												<div class="trial-tab-content__list">
 													<span><strong>Weekly</strong></span>
-													<span>: shows this week's accumulative work hours</span>
+													<span>: 今週のいままでの合計作業時間を表します</span>
 												</div>
 											</div>
 										</div>
@@ -332,10 +332,10 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 									</div>
 								</div>
 
-								<h2 class="tab-content-title content-section-title">4. Screen Record</h2>
+								<h2 class="tab-content-title content-section-title">4. 画面表示</h2>
 								<div class="pl-4">
 									<p class="trial-tab-content">
-										You can view the Screen record and how long you've worked. The icon inside the collored bar is to manually edit your work hour. And also show the time edited history and comment from other staff
+									何時から何時までどのタスクを行ったのかが確認できます。編集マークをクリックすることで作業時間の編集を行えます。編集履歴も画面中部に表示されます。画面下部には取得されたスクリーンキャプチャが表示されます。
 									</p>
 									<img src="/img/trial/staff-7.png" class="mb-5 img-fluid w-100 img-border" alt="Dokodemo-Kerja Time Tracking"/>
 								</div>
@@ -344,19 +344,19 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 						<div class="tab-pane fade" id="mobile-staff" role="tabpanel" aria-labelledby="mobile-staff-tab">
 							<div class="trial-tab-container">
 								<div>
-									<h2 class="tab-content-title content-section-title d-inline-block">1. Download Dokodemo-Kerja Mobile App</h2>
+									<h2 class="tab-content-title content-section-title d-inline-block">1. スマホアプリをダウンロード＆インストールします</h2>
 								</div>
 								<div class="pl-4 mb-5">
 									<div class="row">
 										<div class="col-md-6">
-											<p class="trial-tab-content">Look for "Dokodemo Mobile" in the Play Store / App Store, and tap "Install"</p>
+											<p class="trial-tab-content">Play Store / App StoreでDokodemo Mobileを検索しダウンロードします</p>
 											<div class="text-center">
 												<img src="/img/trial/mobile-1.png" class="mb-3 img-fluid mobile-screenshot img-border" alt="Download Dokodemo-Kerja from the Google Play Store"/>
 											</div>
 										</div>
 										<div class="col-md-6">
 											<!-- <p class="trial-tab-content">Atau website Dokodemo-Kerja. <br><br></p> -->
-											<p class="trial-tab-content">Or download the Mobile App through your company's Dokodemo-Kerja website.</p>
+											<p class="trial-tab-content">もしくは下記のリンクからダウンロードしてください</p>
 											<img src="/img/trial/mobile-2.png" class="mb-3 img-fluid mobile-screenshot img-border" alt="Download Dokodemo-Kerja Mobile for iOS or Android"/>
 										</div>
 									</div>
@@ -365,16 +365,16 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 								<div class="pl-4">
 									<div class="row">
 										<div class="col-md-6">
-											<h2 class="tab-content-title content-section-title">2. Login Page</h2>
+											<h2 class="tab-content-title content-section-title">2. ログイン</h2>
 											<div class="trial-tab-content">
-												<p class="mb-0">Login dengan Company Code (DKDM), E-mail dan Password yang sudah didaftarkan di website demo Admin, kemudian tekan tombol Login.</p>
+												<p class="mb-0">会社ID、メールアドレス、パスワードを入力してログインします</p>
 											</div>
 											<div class="text-center">
 												<img src="/img/trial/mobile-3.png" class="mb-3 img-fluid img-border mobile-screenshot" alt="Dokodemo-Kerja Login Page"/>
 											</div>
 										</div>
 										<div class="col-md-6">
-											<h2 class="tab-content-title content-section-title">3. Choose a Task</h2>
+											<h2 class="tab-content-title content-section-title">3. タスクを選択します</h2>
 											<p class="trial-tab-content">In order to start the time tracking, you must choose a task. This can also be done later.
 											<br class="d-none d-md-block"><br class="d-none d-md-block">
 											<br class="d-none d-md-block"><br class="d-none d-md-block d-lg-none">
@@ -386,13 +386,13 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 									</div>
 								</div>
 
-								<h2 class="tab-content-title content-section-title">4. Main Page</h2>
+								<h2 class="tab-content-title content-section-title">4. メイン画面</h2>
 								<div class="pl-4">
 									<div class="row">
 										<div class="col-md-6">
 											<div class="trial-tab-content">
 												<p>
-													Here is the main display of the Dokodemo-Kerja Mobile App.
+												メイン画面です
 												</p>
 												<div class="text-center">
 													<img src="/img/trial/mobile-5.png" class="mb-3 img-fluid img-border mobile-screenshot" alt="Dokodemo-Kerja Mobile Staff Login"/>
@@ -401,7 +401,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 										</div>
 										<div class="col-md-6">
 											<div class="trial-tab-content">
-												<p>The "Start" and "Stop" buttons are located at the bottom of the page.</p>
+												<p>スタートとストップは画面下部です</p>
 												<div class="text-center">
 													<img src="/img/trial/mobile-6.png" class="mb-3 img-fluid img-border mobile-screenshot" alt="Dokodemo-Kerja Play Button"/>
 												</div>
@@ -410,12 +410,12 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 									</div>
 								</div>
 
-								<h2 class="tab-content-title content-section-title">5. Features</h2>
+								<h2 class="tab-content-title content-section-title">5. 機能</h2>
 								<div class="pl-4">
 									<div class="row">
 										<div class="col-md-6">
 											<div class="trial-tab-content">
-												<p>GPS Tracker which can be used to track employees outside of the office.</p>
+												<p>GPSが位置情報をトレースします</p>
 												<div class="text-center">
 													<img src="/img/trial/mobile-7.png" class="mb-3 img-fluid img-border mobile-screenshot" alt="Dokodemo-Kerja Mobile Location Tracking"/>
 												</div>
@@ -423,7 +423,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 										</div>
 										<div class="col-md-6">
 											<div class="trial-tab-content">
-												<p>Screenshot records taken through the desktop app. <br class="d-none d-md-block d-lg-none"><br class="d-none d-md-block d-lg-none"></p>
+												<p>デスクトップ版を使った間のスクリーンキャプチャも表示されます <br class="d-none d-md-block d-lg-none"><br class="d-none d-md-block d-lg-none"></p>
 												<div class="text-center">
 													<img src="/img/trial/mobile-8.png" class="mb-3 img-fluid img-border mobile-screenshot" alt="Dokodemo-Kerja Mobile Screen Recording Record"/>
 												</div>
@@ -436,8 +436,8 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 									<div class="row">
 										<div class="col-md-6">
 											<div class="trial-tab-content">
-												<h2 class="tab-content-title content-section-title">6. History Record</h2>
-												<p>Users can see their Daily, Weekly, and Monthly work hours record.</p>
+												<h2 class="tab-content-title content-section-title">6. 履歴</h2>
+												<p>日別、週別、月別の勤務時間履歴を確認できます</p>
 												<div class="text-center">
 													<img src="/img/trial/mobile-9.png" class="mb-3 img-fluid img-border mobile-screenshot" alt="Dokodemo-Kerja Mobile Screen Record"/>
 												</div>
@@ -445,8 +445,8 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 										</div>
 										<div class="col-md-6">
 											<div class="trial-tab-content">
-												<h2 class="tab-content-title content-section-title">6. Account</h2>
-												<p>This menu displays the user's profile, and is used to log out of the app. <br class="d-none d-md-block d-lg-none"><br class="d-none d-md-block d-lg-none"></p>
+												<h2 class="tab-content-title content-section-title">7. アカウント情報</h2>
+												<p>ユーザーProfileを表示します。ログアウト可能です。 <br class="d-none d-md-block d-lg-none"><br class="d-none d-md-block d-lg-none"></p>
 												<div class="text-center">
 													<img src="/img/trial/mobile-10.png" class="mb-3 img-fluid img-border mobile-screenshot" alt="Dokodemo-Kerja Mobile Login"/>
 												</div>

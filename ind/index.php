@@ -5,15 +5,15 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=5.0" />
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
-	<meta name="description" itemprop="description" content="Dokodemo-Kerja adalah alat management strategi HR untuk meningkatkan efisiensi karyawan melalui evaluasi jadwal kerja karyawan.">
+	<meta name="description" itemprop="description" content="Dokodemo-Kerja memungkinkan karyawan untuk melihat kehadiran dan pekerjaan mereka dengan cara yang  privacy-friendly, dan juga memberikan kebebasan kepada karyawan untuk bekerja di mana pun dan kapan pun, yang berkontribusi pada peningkatan produktivitas.">
     <meta name="keywords" content="Dokodemo-Kerja, strategi HR, kerja remote, jam kerja karyawan, jadwal kerja">
 	<meta name="google-site-verification" content="Xc9SFJQZdKYLsrWvrxEjLLTA-nyrnNPQTXQoMxs4gKI" />
-    <meta property="og:title" content="Kerja Remote Dengan Dokodemo | Meningkatkan Efisiensi Karyawan">
+    <meta property="og:title" content="Attendance Management & Productivity Tools | Dokodemo-Kerja">
     <meta property="og:type" content="website">
     <meta property="og:site_name" content="Dokodemo-Kerja">
     <meta property="og:url" content="https://dokodemo-kerja.com">
     <meta property="og:image" content="https://dokodemo-kerja.com/img/og-img/index.jpg">
-    <meta property="og:description" content="Dokodemo-Kerja dengan secara acak menyimpan gambar layar komputer dan mencatat jam kerja, dan mengunakan fungsi GPS yang mencatat sejarah lokasi dari aplikasi handphone dapat membantu karyawan untuk mempunyai cara kerja yang lebih fleksibel.">
+    <meta property="og:description" content="Dokodemo-Kerja adalah alat cloud yang dikembangkan di Indonesia yang memungkinkan Anda kehadiran untuk melihat kehadiran dan rincian kerja karyawan dengan tepat dan ramah privasi.">
     <link rel="canonical" href="https://dokodemo-kerja.com/ind/">
     <link rel="stylesheet" href="/css/bootstrap.min.css" />
     <link href="/fonts/font-awesome/css/font-awesome.min.css" rel="stylesheet">
@@ -24,7 +24,7 @@
     <link rel="stylesheet" href="/css/style-home.css" />
     <link rel="stylesheet" href="/js/magnific-popup.css" />
     <link rel="shortcut icon" type="image/x-icon" href="favicon.ico">
-    <title>Kerja Remote Dengan Dokodemo | Meningkatkan Efisiensi Karyawan</title>
+    <title>Alat Absensi & Peningkat Produktivitas | Dokodemo-Kerja | LOGIQUE Indonesia</title>
     <script src="https://www.googleoptimize.com/optimize.js?id=OPT-P232K37"></script>
 	<!-- Google Tag Manager -->
 	<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
@@ -33,18 +33,7 @@
 	'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
 	})(window,document,'script','dataLayer','GTM-WT4MCDL');</script>
 	<!-- Facebook Pixel Code -->
-	<script>
-	  !function(f,b,e,v,n,t,s)
-	  {if(f.fbq)return;n=f.fbq=function(){n.callMethod?
-	  n.callMethod.apply(n,arguments):n.queue.push(arguments)};
-	  if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';
-	  n.queue=[];t=b.createElement(e);t.async=!0;
-	  t.src=v;s=b.getElementsByTagName(e)[0];
-	  s.parentNode.insertBefore(t,s)}(window, document,'script',
-	  'https://connect.facebook.net/en_US/fbevents.js');
-	  fbq('init', '713777762291663');
-	  fbq('track', 'PageView');
-	</script>
+	<script>!function(f,b,e,v,n,t,s) {if(f.fbq)return;n=f.fbq=function(){n.callMethod? n.callMethod.apply(n,arguments):n.queue.push(arguments)}; if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0'; n.queue=[];t=b.createElement(e);t.async=!0; t.src=v;s=b.getElementsByTagName(e)[0]; s.parentNode.insertBefore(t,s)}(window, document,'script', 'https://connect.facebook.net/en_US/fbevents.js'); fbq('init', '713777762291663'); fbq('track', 'PageView');</script>
 	<noscript><img height="1" width="1" style="display:none"
 	  src="https://www.facebook.com/tr?id=713777762291663&ev=PageView&noscript=1"
 	/></noscript>
@@ -115,8 +104,10 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
             </div>
             <div class="row">
                 <div class="offset-md-1 col-md-10">
-                    <p class="text-center fs-18 subbanner-header-text">Dapatkan jam kerja karyawan secara akurat, dimanapun mereka bekerja. Dokodemo-Kerja versi 2.0 mempunyai fungsi GPS yang mencatat sejarah lokasi di aplikasi handphone. <strong>Mari Inovasikan cara kita bekerja!</strong>
-                    </p>
+                    <div class="text-center fs-18 subbanner-header-text">
+                        <p>Dokodemo-Kerja adalah alat manajemen kehadiran & manajemen kerja jarak jauh yang memungkinkan untuk mewujudkan gaya kerja flesksibel yang bermanfaat bagi perusahaan dan karyawan dengan mencatat jam kerja dan isi pekerjaan kapan saja, di mana saja. Hal ini akan memungkinkan untuk mengatur jam kerja secara akurat, dan perhitungan jam lembur dan jumlah cuti akan disederhanakan. Dengan adanya fungsi mengambil dan mengelola tangkapan layar pada saat bekerja, Anda dapat mencegah prilaku yang tidak sesuai selama jam kerja.</p>
+                        <p>Sejak Versi 2.0, fungsi pelacakan GPS juga telah diterapkan aplikasi handphone, sehingga memungkinkan untuk mengelola kondisi kerja sebenarnya dari staf yang sering keluar.</p>
+                    </div>
                 </div>
             </div>
             <div class="row">
@@ -146,7 +137,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
             </div>
             <div class="row mt-3">              
                 <div class="offset-md-1 col-md-10">
-                    <p class="home-feature-content">Dokodemo-Kerja dengan secara acak menyimpan gambar layar komputer dan mencatat jam kerja, yang mempermudah evaluasi kinerja karyawan. Dan dengan adanya fungsi GPS yang mencatat sejarah lokasi dari aplikasi handphone dapat membantu karyawan untuk mempunyai cara kerja yang lebih fleksibel sekaligus mempermudah pihak perusahaan dalam mengatur jadwal kerja.</p>       
+                    <p class="home-feature-content">Seperti pada alat manajemen absensi lainnya, karyawan diwajibkan untuk menandakan kapan mereka mulai dan berhenti bekerja. Perbedaannya adalah dapat diverifikasi validitas dari jam kerja tersebut. Dengan menangkap layar pengguna yang sedang bekerja secara acak dan menyimpannya di server cloud, Anda dapat memahami dan membedakan antara pengguna yang bekerja aktual, bermain game, menonton Youtube, dll sehingga dapat mencegah kegiatan yang melanggar aturan kantor. Kami juga mendukung sistem pekerjaan HR yang efisien seperti penghitungan jam lembur, pengelolaan cuti, dan juga analisa waktu kerja berdasarkan tugas, departemen, harian, mingguan, dan bulanan.</p>       
                 </div>
                 <div class="offset-md-2 col-md-8">
                      <div class="embed-responsive embed-responsive-16by9 feature-video">
@@ -173,7 +164,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                                 2.
                             </div>
                             <div class="card__content">
-                                Pantau sejarah lokasi dengan aplikasi handphone.
+                                Dengan waktu yang tidak tentu akan menangkap gambar layar dan menyimpan di server. (Resolusi gambar rendah dan tidak mengganggu privasi)
                             </div>
                         </div>
                     </div>
@@ -183,7 +174,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                                 3.
                             </div>
                             <div class="card__content">
-                                Mengatur dan menganalisa kapan dan dimana mereka telah bekerja. 
+                                Dengan adanya aplikasi pada handphone, dapat mempermudah untuk mengelola waktu dan lokasi kerja karyawan yang sering dinas keluar kantor. 
                             </div>
                         </div>
                     </div>
@@ -271,7 +262,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                             <h3 class="card__header">Perekrutan tanpa Batas</h3>
                             <img class="card__img" src="/img/home/research.svg" alt="Perekrutan tanpa Batas">
                             <p class="card__text">
-                            Perusahaan dapat mempekerjakan karyawan dari mana saja, bahkan luar negri.
+                            Tanpa perlu mengkhawatirkan lokasi kantor, perusahaan dapat mempekerjakan sumber daya manusia yang berkualitas tinggi dari mana saja.
                             </p>
                         </div>
                     </div>
@@ -307,7 +298,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                     <div class="home-benefit__card --btn">
                         <div class="card__content">
                             <a href="https://www.logique.co.id/blog/category/dokodemo-kerja/">
-                                <button class="btn btn-primary form-control feature-btn" style="font-size: 20px; padding-top: .4em;">Learn More</button>
+                                <button class="btn btn-primary form-control feature-btn" style="height: auto; font-size: 20px; padding-top: .4em;">Cari tahu lebih lanjut tentang fungsi-fungsi di Dokodemo-Kerja</button>
                                 <img src="/img/home/arrow-down.svg"  width="13" alt=""/>
                             </a>
                         </div>

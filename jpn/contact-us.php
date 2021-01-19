@@ -6,38 +6,38 @@
 	// require 'vendor/autoload.php';
 
 	// Load config
-	$config = include('config/app.php');
+	$config = include('../config/app.php');
 
-	require 'action/c-contact-us.php';
+	require '../action/c-contact-us.php';
 
 	$page = 'contact-us';
 ?>
 
 <!DOCTYPE html>
-<html lang="en"></html>
+<html lang="ja">
 
 <head>
-  <meta charset="UTF-8" />
-  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=5.0" />
-  <meta http-equiv="X-UA-Compatible" content="ie=edge" />
-  <meta name="description" itemprop="description" content="For inquiries about the attendance management tool, Dokodemo-Kerja, please use this page. Dokodemo-Kerja was developed by an Indonesian development company LOGIQUE. It is a product that will show an immediate effect at a reasonable price. Please feel free to contact us.">
-  <meta name="keywords" content="dokodemo, dokodemo-kerja, enterprise program, monitoring program, reporting tool, Buy Light Plan, dokodemo email, dokodemo help, dokodemo contact, dokodemo sales, dokodemo marketing, request training, know your employee, startup tool, logique contact person, dokodemo contact person, what is dokodemo, what is remote working">
-  <meta name="author" content="PT. LOGIQUE Digital Indonesia">
-  <meta name="google-site-verification" content="Xc9SFJQZdKYLsrWvrxEjLLTA-nyrnNPQTXQoMxs4gKI" />
-  <meta property="og:title" content="Employee Management Tool Dokodemo-Kerja">
-  <meta property="og:type" content="website">
-  <meta property="og:site_name" content="Dokodemo-Kerja">
-  <meta property="og:url" content="https://dokodemo-kerja.com">
-  <meta property="og:image" content="https://dokodemo-kerja.com/img/og-img/contact-us.jpg">
-  <meta property="og:description" content="For inquiries about the attendance management tool Dokodemo-Kerja, please send from here. Dokodemo-Kerja was developed by Indonesian development company LOGIQUE.">
-  <link rel="canonical" href="https://dokodemo-kerja.com/contact-us">
-  <link rel="stylesheet" href="/css/bootstrap.min.css" />
-  <link href="/fonts/font-awesome/css/font-awesome.min.css" rel="stylesheet">
-  <link href="/fonts/font-awesome/css/font-awesome.min.css" rel="stylesheet">
-  <link rel="stylesheet" href="/css/header-footer.css" />
-  <link rel="stylesheet" href="/css/style.css" />
-  <link rel="shortcut icon" type="image/x-icon" href="favicon.ico">
-  <title>Employee Management Tool Dokodemo-Kerja | LOGIQUE Digital Indonesia</title>
+	<meta charset="UTF-8" />
+	<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=5.0" />
+	<meta http-equiv="X-UA-Compatible" content="ie=edge" />
+	<meta name="description" itemprop="description" content="勤怠管理ツールDokodemo-Kerjaに関するお問い合わせはこちらからお送りください。Dokodemo-Kerjaはインドネシアの開発会社LOGIQUE社が開発しました。リーズナブルな価格で即効果のでる製品です。お気軽にお問い合わせください。">
+	<meta name="keywords" content="dokodemo, dokodemo-kerja, enterprise program, monitoring program, reporting tool, Buy Light Plan, dokodemo email, dokodemo help, dokodemo contact, dokodemo sales, dokodemo marketing, request training, know your employee, startup tool, logique contact person, dokodemo contact person, what is dokodemo, what is remote working">
+	<meta name="author" content="PT. LOGIQUE Digital Indonesia">
+	<meta name="google-site-verification" content="Xc9SFJQZdKYLsrWvrxEjLLTA-nyrnNPQTXQoMxs4gKI" />
+	<meta property="og:title" content="従業員管理ツールDokodemo-Kerja">
+	<meta property="og:type" content="website">
+	<meta property="og:site_name" content="Dokodemo-Kerja">
+	<meta property="og:url" content="https://dokodemo-kerja.com">
+	<meta property="og:image" content="https://dokodemo-kerja.com/img/og-img/contact-us.jpg">
+	<meta property="og:description" content="勤怠管理ツールDokodemo-Kerjaに関するお問い合わせはこちらからお送りください。Dokodemo-Kerjaはインドネシアの開発会社LOGIQUE社が開発しました。">
+	<link rel="canonical" href="https://dokodemo-kerja.com/contact-us">
+	<link rel="stylesheet" href="/css/bootstrap.min.css" />
+	<link href="/fonts/font-awesome/css/font-awesome.min.css" rel="stylesheet">
+	<link href="/fonts/font-awesome/css/font-awesome.min.css" rel="stylesheet">
+	<link rel="stylesheet" href="/css/header-footer.css" />
+	<link rel="stylesheet" href="/css/style.css" />
+	<link rel="shortcut icon" type="image/x-icon" href="favicon.ico">
+	<title>従業員管理ツールDokodemo-Kerja | LOGIQUEデジタルIndonesia</title>
     <script src="https://www.googleoptimize.com/optimize.js?id=OPT-P232K37"></script>
 	<!-- Google Tag Manager -->
 	<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
@@ -67,10 +67,10 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 		 	 <div class="row contact-resp-settings">
 		  		<h1 class="d-none">Contact Logique about the Remote Working Tool, Dokodemo Kerja </h1>
 				<div class="col-sm-12 fs-30 uppercase bold" style="margin-bottom:20px">
-					Contact Us
+				お問い合わせ
 				</div>
 				<div class="col-md-6 offset-md-3 fs-20 semibold">
-					For more information about Dokodemo-Kerja, please contact us by filling out the form below.
+				勤怠管理、作業履歴把握ツール、Dokodemo-Kerjaに関するお問い合わせは下記のフォームからお願いいたします。
 				</div>
 		  	</div>
 	 	 </div>
@@ -79,7 +79,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 	<div class="container dokodemo-customoption">
 	  <div class="row">
 		  <div class="col-md-8 offset-md-2 contact-resp-settings">
-			<div class="semibold fs-18 subtitle-contact">If you have some enquiry regarding Free Trial, Subscription, or any question on Dokodemo-Kerja please contact us by filling the form below.</div>
+			<div class="semibold fs-18 subtitle-contact">無料トライアル、料金に関して等、どんなことでもお気軽にお問い合わせください。日本語でご入力いただいて構いません。</div>
 
 			<?php
             if (!is_null($success)) {

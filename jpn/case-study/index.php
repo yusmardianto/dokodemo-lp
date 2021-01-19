@@ -6,18 +6,18 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=5.0" />
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
     <meta name="description" itemprop="description"
-        content="Dokodemo-Kerjaの活用事例。従業員の実勤務時間を記録、GPSで働いた場所をトラッキング、フレキシブルで生産性の高い働き方を可能とするリモートワーク管理ツールDokodemo-Kerja（ドコデモクルジャ）の紹介。試用をご希望の方はお気軽にLOGIQUEまでご連絡ください。">
+        content="Dokodemo-Kerjaを利用することで、従業員にWFHを許容できる、さぼり防止、時短勤務制度を導入できた、残業時間の計算の自動化などでHR業務効率化など、さまざまな導入メリットを感じていただけます。幾つかのDokodemo-Kerjaの導入事例を紹介します。">
     <meta name="keywords"
         content="dokodemo, dokodemo-kerja, dokodemo kerja, work everywhere, work whenever, work wherever, project management tool, project management software, human resource tool, human resource software, monitoring software, monitoring tool, monitor desktop, monitor with privacy, low res monitoring, low resolution monitoring, time tracker, logique product, pt logique">
     <meta name="author" content="PT. LOGIQUE Digital Indonesia">
     <meta name="google-site-verification" content="Xc9SFJQZdKYLsrWvrxEjLLTA-nyrnNPQTXQoMxs4gKI" />
-    <meta property="og:title" content="リモートワーク管理ツールDokodemo-Kerjaの活用事例 | LOGIQUE Digital インドネシア">
+    <meta property="og:title" content="Dokodemo-KerjaでWFHを実現">
     <meta property="og:type" content="website">
     <meta property="og:site_name" content="Dokodemo-Kerja">
     <meta property="og:url" content="https://dokodemo-kerja.com">
     <meta property="og:image" content="https://dokodemo-kerja.com/img/dokodemo-og.jpg">
     <meta property="og:description"
-        content="Dokodemo-Kerjaの活用事例。従業員の実勤務時間を記録、GPSで働いた場所をトラッキング、フレキシブルで生産性の高い働き方を可能とするリモートワーク管理ツールDokodemo-Kerja（ドコデモクルジャ）の紹介。試用をご希望の方はお気軽にLOGIQUEまでご連絡ください。">
+        content="Dokodemo-Kerjaを利用することで、従業員にWFHを許容できる、さぼり防止、時短勤務制度を導入できた、など、さまざまな導入メリットを感じていただけます。">
     <link rel="canonical" href="https://dokodemo-kerja.com/jpn/case-study/">
     <link rel="stylesheet" href="/css/bootstrap.min.css" />
     <link href="/fonts/font-awesome/css/font-awesome.min.css" rel="stylesheet">
@@ -29,7 +29,7 @@
     <link rel="stylesheet" href="/js/magnific-popup.css" />
 
 	<link rel="shortcut icon" type="image/x-icon" href="/favicon.ico">
-    <title>リモートワーク管理ツールDokodemo-Kerjaの活用事例 | LOGIQUE Digital インドネシア</title>
+    <title>WFHを実現 | 働き方改善支援ツール | さぼり防止 | インドネシア事例</title>
     <script src="https://www.googleoptimize.com/optimize.js?id=OPT-P232K37"></script>
 	<!-- Google Tag Manager -->
 	<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
@@ -38,31 +38,14 @@
 	'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
 	})(window,document,'script','dataLayer','GTM-WT4MCDL');</script>
 	<!-- Facebook Pixel Code -->
-	<script>
-	  !function(f,b,e,v,n,t,s)
-	  {if(f.fbq)return;n=f.fbq=function(){n.callMethod?
-	  n.callMethod.apply(n,arguments):n.queue.push(arguments)};
-	  if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';
-	  n.queue=[];t=b.createElement(e);t.async=!0;
-	  t.src=v;s=b.getElementsByTagName(e)[0];
-	  s.parentNode.insertBefore(t,s)}(window, document,'script',
-	  'https://connect.facebook.net/en_US/fbevents.js');
-	  fbq('init', '713777762291663');
-	  fbq('track', 'PageView');
-	</script>
+	<script>!function(f,b,e,v,n,t,s) {if(f.fbq)return;n=f.fbq=function(){n.callMethod? n.callMethod.apply(n,arguments):n.queue.push(arguments)}; if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0'; n.queue=[];t=b.createElement(e);t.async=!0; t.src=v;s=b.getElementsByTagName(e)[0]; s.parentNode.insertBefore(t,s)}(window, document,'script', 'https://connect.facebook.net/en_US/fbevents.js'); fbq('init', '713777762291663'); fbq('track', 'PageView');</script>
 	<noscript><img height="1" width="1" style="display:none"
 	  src="https://www.facebook.com/tr?id=713777762291663&ev=PageView&noscript=1"
 	/></noscript>
 	<!-- End Facebook Pixel Code -->
 	<!-- Global site tag (gtag.js) - Google Analytics -->
 	<script async src="https://www.googletagmanager.com/gtag/js?id=UA-146404615-1"></script>
-	<script>
-	  window.dataLayer = window.dataLayer || [];
-	  function gtag(){dataLayer.push(arguments);}
-	  gtag('js', new Date());
-
-	  gtag('config', 'UA-146404615-1');
-	</script>
+	<script>window.dataLayer=window.dataLayer || []; function gtag(){dataLayer.push(arguments)} gtag('js', new Date()); gtag('config', 'UA-146404615-1');</script>
 </head>
 <?php $page = 'case-study/'; ?>
 <body>
@@ -76,14 +59,14 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
             <nav aria-label="breadcrumb">
                 <ol class="breadcrumb">
                     <li class="breadcrumb-item"><a href="/">Dokodemo-Kerja Home</a></li>
-                    <li class="breadcrumb-item active" aria-current="page">Case Study</li>
+                    <li class="breadcrumb-item active" aria-current="page">事例</li>
                 </ol>
             </nav>
         </div>
     </section>
     <section class="mb-5">
         <div class="container">
-            <h1 class="text-center mb-5">Case Study: How You Utilize Dokodemo-Kerja</h1>
+            <h1 class="text-center mb-5">事例：Dokodemo-Kerjaの活用事例</h1>
             <div class="row">
                 <div class="col-md-4">
                     <a href="/jpn/case-study/case-1" class="case-study__card-wrapper">

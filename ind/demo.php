@@ -20,16 +20,16 @@ $page = 'demo';
 	<meta charset="UTF-8" />
 	<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=5.0" />
 	<meta http-equiv="X-UA-Compatible" content="ie=edge" />
-	<meta name="description" itemprop="description" content="Gunakan dokodemo kerja untuk menyingkirkan karyawan malas dan mempertahankan karyawan terbaik Anda. Hadiahi mereka yang berprestasi dan rasakan peningkatan produktifitas. Gratis uji coba dan dapatkan harga khusus untuk skala perusahaan.">
+	<meta name="description" itemprop="description" content="Anda dapat memeriksa demo alat manajemen kehadiran Dokodemo-Kerja di sini. Dengan menggunakan Dokodemo-Kerja, Anda dapat langsung memperkenalkan sistem kerja jarak jauh dan perhitungan  jam kerja. Ini bukan hanya alat untuk mengelola karyawan, tetapi juga alat untuk karyawan. Ideal untuk digunakan di Indonesia.">
 	<meta name="keywords" content="menyingkirkan karyawan yang berkinerja buruk, menyingkirkan karyawan yang malas, meningkatkan produktifitas, uji coba dokodemo, dokodemo gratis, alat jam gratis, alat manajemen gratis, alat bisnis kecil, alat anggaran rendah, alat anggaran rendah, alat manajemen anggaran rendah, alat manajemen anggaran rendah, pelacak waktu gratis, pelacak waktu karyawan gratis, pelacak jam kerja gratis, pelacak tangkapan layar, tangkapan layar perangkat lunak monitor karyawan murah">
 	<meta name="author" content="PT. LOGIQUE Digital Indonesia">
 	<meta name="google-site-verification" content="Xc9SFJQZdKYLsrWvrxEjLLTA-nyrnNPQTXQoMxs4gKI" />
-	<meta property="og:title" content="Fitur Dokodemo-Kerja | Cara Kerja Software Dekodemo untuk Meningkatkan Produktivitas">
+	<meta property="og:title" content="Attendance management tool Dokodemo-Kerja demo">
     <meta property="og:type" content="website">
     <meta property="og:site_name" content="Dokodemo-Kerja">
     <meta property="og:url" content="https://dokodemo-kerja.com">
     <meta property="og:image" content="https://dokodemo-kerja.com/img/dokodemo-og.jpg">
-    <meta property="og:description" content="Dokodemo-Kerja merupakan software atau desktop app dari LOGIQUE bagi karyawan yang kerja remote atau di luar kantor. Aplikasi ini mampu merekam dan kalkulasi jam kerja karyawan secara akurat, dilengkapi fitur screencapture otomatis. Dengan begitu, karyawan Anda menjadi lebih produktif.">
+    <meta property="og:description" content="Anda dapat memeriksa demo alat manajemen kehadiran Dokodemo-Kerja di sini. Dengan menggunakan Dokodemo-Kerja, Anda dapat langsung memperkenalkan sistem penghitungan jam kerja dan kerja jarak jauh. Sangat cocok untuk digunakan di Indonesia.">
     <link rel="canonical" href="https://dokodemo-kerja.com/ind/demo">
 	<link rel="stylesheet" href="/css/bootstrap.min.css" />
 	<link href="/fonts/font-awesome/css/font-awesome.min.css" rel="stylesheet">
@@ -37,62 +37,17 @@ $page = 'demo';
 	<link rel="stylesheet" href="/css/style.css" />
 	<link rel="stylesheet" href="/css/style-trial.css" />
 	<link rel="shortcut icon" type="image/x-icon" href="favicon.ico">
-	<title>Fitur Dokodemo-Kerja | Cara Kerja Software Dekodemo untuk Meningkatkan Produktivitas</title>
+	<title>Attendance Management Tool Dokodemo-Kerja Demo | LOGIQUE Digital Indonesia</title>
     <script src="https://www.googleoptimize.com/optimize.js?id=OPT-P232K37"></script>
 	<!-- Google Tag Manager -->
-	<script>
-		(function(w, d, s, l, i) {
-			w[l] = w[l] || [];
-			w[l].push({
-				'gtm.start': new Date().getTime(),
-				event: 'gtm.js'
-			});
-			var f = d.getElementsByTagName(s)[0],
-				j = d.createElement(s),
-				dl = l != 'dataLayer' ? '&l=' + l : '';
-			j.async = true;
-			j.src =
-				'https://www.googletagmanager.com/gtm.js?id=' + i + dl;
-			f.parentNode.insertBefore(j, f);
-		})(window, document, 'script', 'dataLayer', 'GTM-WT4MCDL');
-	</script>
+	<script>(function(w, d, s, l, i){w[l]=w[l] || [];w[l].push({'gtm.start':new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],j=d.createElement(s),dl=l !='dataLayer' ? '&l=' + l :'';j.async=true;j.src='https://www.googletagmanager.com/gtm.js?id=' + i + dl;f.parentNode.insertBefore(j, f)})(window, document, 'script', 'dataLayer', 'GTM-WT4MCDL');</script>
 	<!-- Facebook Pixel Code -->
-	<script>
-		! function(f, b, e, v, n, t, s) {
-			if (f.fbq) return;
-			n = f.fbq = function() {
-				n.callMethod ?
-					n.callMethod.apply(n, arguments) : n.queue.push(arguments)
-			};
-			if (!f._fbq) f._fbq = n;
-			n.push = n;
-			n.loaded = !0;
-			n.version = '2.0';
-			n.queue = [];
-			t = b.createElement(e);
-			t.async = !0;
-			t.src = v;
-			s = b.getElementsByTagName(e)[0];
-			s.parentNode.insertBefore(t, s)
-		}(window, document, 'script',
-			'https://connect.facebook.net/en_US/fbevents.js');
-		fbq('init', '713777762291663');
-		fbq('track', 'PageView');
-	</script>
+	<script>! function(f, b, e, v, n, t, s){if (f.fbq) return;n=f.fbq=function(){n.callMethod ?n.callMethod.apply(n, arguments) :n.queue.push(arguments)};if (!f._fbq) f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';n.queue=[];t=b.createElement(e);t.async=!0;t.src=v;s=b.getElementsByTagName(e)[0];s.parentNode.insertBefore(t, s)}(window, document, 'script','https://connect.facebook.net/en_US/fbevents.js');fbq('init', '713777762291663');fbq('track', 'PageView');</script>
 	<noscript><img height="1" width="1" style="display:none" src="https://www.facebook.com/tr?id=713777762291663&ev=PageView&noscript=1" /></noscript>
 	<!-- End Facebook Pixel Code -->
 	<!-- Global site tag (gtag.js) - Google Analytics -->
 	<script async src="https://www.googletagmanager.com/gtag/js?id=UA-146404615-1"></script>
-	<script>
-		window.dataLayer = window.dataLayer || [];
-
-		function gtag() {
-			dataLayer.push(arguments);
-		}
-		gtag('js', new Date());
-
-		gtag('config', 'UA-146404615-1');
-	</script>
+	<script>window.dataLayer=window.dataLayer || []; function gtag(){dataLayer.push(arguments);}gtag('js', new Date()); gtag('config', 'UA-146404615-1');</script>
 </head>
 
 <body class="not-home">

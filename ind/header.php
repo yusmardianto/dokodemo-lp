@@ -33,8 +33,9 @@
 
 <?php
     ini_set('date.timezone', 'Asia/Jakarta');
-    $date_now = date("m/d/Y H:i:s", time());
-    $date_deadline = date("m/d/Y H:i:s", strtotime("11/02/2020 13:00:00"));
+    $date_now = strtotime(date("m/d/Y H:i:s", time()));
+    $date_deadline = strtotime(date("m/d/Y H:i:s", strtotime("11/02/2020 13:00:00")));
+    
     if ($date_now <= $date_deadline) {
         include ($_SERVER['DOCUMENT_ROOT'].'/component/free-seminar-banner.php');
     }
@@ -84,9 +85,9 @@
             <div class="ml-auto">
                 <p class="text-center txt-lang">Language</p>
                 <div class="switch-language">
-                    <a href="/<?php echo $page;?>"><label for="radio-one">ENG</label></a>
-                    <a href="/ind/"><label class="active" for="radio-two">IND</label></a>
-                    <a href="/jpn/<?php echo $page;?>"><label for="radio-three">JPN</label></a>
+                    <a href="/ind/"><label class="active" for="radio-two">ID</label></a>
+                    <a href="/<?php echo $page;?>"><label for="radio-one">EN</label></a>
+                    <a href="/jpn/<?php echo $page;?>"><label for="radio-three">JP</label></a>
                 </div>
             </div>
         </div>

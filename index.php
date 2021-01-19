@@ -6,18 +6,18 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=5.0" />
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
     <meta name="description" itemprop="description"
-        content="Work anywhere with Dokodemo-Kerja, a remote working management tool with a time tracker that monitors productivity through taking low resolution screenshots.">
+        content="Dokodemo-Kerja allows employees to properly understand their attendance and work content in a privacy-friendly manner, and also gives employees the freedom to work wherever and whenever, which contributes to productivity improvement. Win-win personnel management cloud tool. A product developed in Indonesia.">
     <meta name="keywords"
         content="dokodemo, dokodemo-kerja, dokodemo kerja, work everywhere, work whenever, work wherever, project management tool, project management software, human resource tool, human resource software, monitoring software, monitoring tool, monitor desktop, monitor with privacy, low res monitoring, low resolution monitoring, time tracker, logique product, pt logique">
     <meta name="author" content="PT. LOGIQUE Digital Indonesia">
     <meta name="google-site-verification" content="Xc9SFJQZdKYLsrWvrxEjLLTA-nyrnNPQTXQoMxs4gKI" />
-    <meta property="og:title" content="Remote Working Management Tool | Dokodemo-Kerja">
+    <meta property="og:title" content="Attendance Management & Productivity Tools | Dokodemo-Kerja">
     <meta property="og:type" content="website">
     <meta property="og:site_name" content="Dokodemo-Kerja">
     <meta property="og:url" content="https://dokodemo-kerja.com">
     <meta property="og:image" content="https://dokodemo-kerja.com/img/og-img/index.jpg">
     <meta property="og:description"
-        content="Work anywhere with Dokodemo-Kerja, a management tool with a time tracker that monitors productivity through taking low resolution screenshots.">
+        content="Dokodemo-Kerja is a cloud tool developed in Indonesia that enables you to properly grasp the attendance and work contents of employees in a privacy-friendly manner.">
     <link rel="canonical" href="https://dokodemo-kerja.com/">
     <link rel="stylesheet" href="/css/bootstrap.min.css" />
     <link href="/fonts/font-awesome/css/font-awesome.min.css" rel="stylesheet">
@@ -29,78 +29,23 @@
     <link rel="stylesheet" href="/js/magnific-popup.css" />
     <link href="/fonts/font-awesome/css/font-awesome.min.css" rel="stylesheet">
     <link rel="shortcut icon" type="image/x-icon" href="favicon.ico">
-    <title>Remote Working Management Tool | Dokodemo-Kerja</title>
+    <title>Attendance management & productivity improvement tool | Dokodemo-Kerja | LOGIQUE Indonesia</title>
     <script src="https://www.googleoptimize.com/optimize.js?id=OPT-P232K37"></script>
     <!-- Google Tag Manager -->
-    <script>
-    (function(w, d, s, l, i) {
-        w[l] = w[l] || [];
-        w[l].push({
-            'gtm.start': new Date().getTime(),
-            event: 'gtm.js'
-        });
-        var f = d.getElementsByTagName(s)[0],
-            j = d.createElement(s),
-            dl = l != 'dataLayer' ? '&l=' + l : '';
-        j.async = true;
-        j.src =
-            'https://www.googletagmanager.com/gtm.js?id=' + i + dl;
-        f.parentNode.insertBefore(j, f);
-    })(window, document, 'script', 'dataLayer', 'GTM-WT4MCDL');
-    </script>
+    <script> (function(w, d, s, l, i){ w[l]=w[l] || []; w[l].push({ 'gtm.start':new Date().getTime(), event:'gtm.js'}); var f=d.getElementsByTagName(s)[0], j=d.createElement(s), dl=l !='dataLayer' ? '&l=' + l :''; j.async=true; j.src='https://www.googletagmanager.com/gtm.js?id=' + i + dl; f.parentNode.insertBefore(j, f);})(window, document, 'script', 'dataLayer', 'GTM-WT4MCDL'); </script>
 
     <!-- Global site tag (gtag.js) - Google Analytics -->
     <script async src="https://www.googletagmanager.com/gtag/js?id=UA-146404615-1"></script>
-    <script>
-    window.dataLayer = window.dataLayer || [];
-
-    function gtag() {
-        dataLayer.push(arguments);
-    }
-    gtag('js', new Date());
-    gtag('config', 'UA-146404615-1', {
-        'optimize_id': 'GTM-W8R96P7'
-    });
-    </script>
+    <script>window.dataLayer=window.dataLayer || []; function gtag(){ dataLayer.push(arguments);} gtag('js', new Date()); gtag('config', 'UA-146404615-1',{ 'optimize_id':'GTM-W8R96P7'}); </script>
 
     <!-- Facebook Pixel Code -->
-    <script>
-    ! function(f, b, e, v, n, t, s) {
-        if (f.fbq) return;
-        n = f.fbq = function() {
-            n.callMethod ?
-                n.callMethod.apply(n, arguments) : n.queue.push(arguments)
-        };
-        if (!f._fbq) f._fbq = n;
-        n.push = n;
-        n.loaded = !0;
-        n.version = '2.0';
-        n.queue = [];
-        t = b.createElement(e);
-        t.async = !0;
-        t.src = v;
-        s = b.getElementsByTagName(e)[0];
-        s.parentNode.insertBefore(t, s)
-    }(window, document, 'script',
-        'https://connect.facebook.net/en_US/fbevents.js');
-    fbq('init', '713777762291663');
-    fbq('track', 'PageView');
-    </script>
+    <script>! function(f, b, e, v, n, t, s){ if (f.fbq) return; n=f.fbq=function(){ n.callMethod ? n.callMethod.apply(n, arguments) :n.queue.push(arguments)}; if (!f._fbq) f._fbq=n; n.push=n; n.loaded=!0; n.version='2.0'; n.queue=[]; t=b.createElement(e); t.async=!0; t.src=v; s=b.getElementsByTagName(e)[0]; s.parentNode.insertBefore(t, s)}(window, document, 'script', 'https://connect.facebook.net/en_US/fbevents.js'); fbq('init', '713777762291663'); fbq('track', 'PageView'); </script>
     <noscript><img height="1" width="1" style="display:none"
             src="https://www.facebook.com/tr?id=713777762291663&ev=PageView&noscript=1" /></noscript>
     <!-- End Facebook Pixel Code -->
     <!-- Global site tag (gtag.js) - Google Analytics -->
     <script async src="https://www.googletagmanager.com/gtag/js?id=UA-146404615-1"></script>
-    <script>
-    window.dataLayer = window.dataLayer || [];
-
-    function gtag() {
-        dataLayer.push(arguments);
-    }
-    gtag('js', new Date());
-
-    gtag('config', 'UA-146404615-1');
-    </script>
+    <script> window.dataLayer=window.dataLayer || []; function gtag(){ dataLayer.push(arguments);} gtag('js', new Date()); gtag('config', 'UA-146404615-1'); </script>
 </head>
 <?php $page = ''; ?>
 
@@ -156,10 +101,10 @@
             </div>
             <div class="row">
                 <div class="offset-md-1 col-md-10">
-                    <p class="text-center fs-18 subbanner-header-text">
-                    Accurately track employee working hours, no matter where they are. Dokodemo-Kerja ver 2.0 also has a GPS location record feature in its mobile application.
-                    <strong>Let’s innovate the way we work!</strong>
-                    </p>
+                    <div class="text-center fs-18 subbanner-header-text">
+                        <p>Dokodemo-Kerja is both an attendance management & remote work management tool that enables a flexible work styles that are beneficial to both the company and employees by recording the hours worked and its content no matter where or when you work. Since it is able manage work hours accurately, it makes the calculation of overtime hours and the number of paid leave to be more efficient. Also, by taking and managing screen captures during the work session, prevent slacking during working hours can be prevented.</p>
+                        <p>Since Version 2.0, the GPS track function has also been implemented in the mobile application, so it is possible to manage the actual working conditions of staff who often go out.</p>
+                    </div>
                 </div>
             </div>
             <div class="row">
@@ -176,7 +121,7 @@
             </div>
         </div>
     </section>
-
+    
     <section class="feature-content mt-5">
         <div class="container">
             <div class="row">
@@ -186,7 +131,7 @@
             </div>
             <div class="row mt-3">
                 <div class="offset-md-1 col-md-10">
-                    <p class="home-feature-content">Employee working routines can be easily tracked, anywhere and at any time, through the inbuilt Random Screen Capture feature. Additionally, the Dokodemo-Kerja Mobile Application will be able to track and record when and where they have worked via GPS, allowing for greater employee flexibility, as well as making it easier for employers to manage their work schedules.</p>           
+                    <p class="home-feature-content">As with many other attendance management tools, employees will have to signal their start and stop working time. The difference is that you can verify that the recorded working hour is valid. By randomly capturing the screens of working users and saving them on a cloud server, you can understand whether they are doing actual work, playing games, watching Youtube, etc, where in turn can be used as a solid evidence to suppress or prevent the activities. We support efficient HR operations such as calculation of overtime hours, management of paid leave, task-based, department-based, daily, weekly, and monthly work time analysis.</p>           
                 </div>
                 <div class="offset-md-2 col-md-8">
                      <div class="embed-responsive embed-responsive-16by9 feature-video">
@@ -213,7 +158,7 @@
                                 2.
                             </div>
                             <div class="card__content">
-                                Track and record location via the Mobile Application. 
+                                Randomly capture the work screen and then send it to the server. (The resolution is privacy-friendly) 
                             </div>
                         </div>
                     </div>
@@ -223,7 +168,7 @@
                                 3.
                             </div>
                             <div class="card__content">
-                                Manage and Analyze where and when users have worked. 
+                                By using the smartphone application, it is easy to manage working hours and location (GPS tracking) on employees going outside of office. 
                             </div>
                         </div>
                     </div>
@@ -313,7 +258,7 @@
                             <h3 class="card__header">Universal Hiring</h3>
                             <img class="card__img" src="/img/home/research.svg" alt="Universal Hiring">
                             <p class="card__text">
-                            Employers can hire talented individuals from anywhere; even overseas.
+                            Employers will be able to hire and work with excellent human resources from all over the world, regardless of where the office is located.
                             </p>
                         </div>
                     </div>
@@ -349,7 +294,7 @@
                     <div class="home-benefit__card --btn">
                         <div class="card__content">
                             <a href="/features.php">
-                                <button class="btn btn-primary form-control feature-btn" style="font-size: 20px; padding-top: .4em;">Learn More</button>
+                                <button class="btn btn-primary form-control feature-btn" style="height: auto; font-size: 20px; padding-top: .4em;">Find out more about features in Dokodemo-Kerja</button>
                                 <img src="/img/home/arrow-down.svg"  width="13" alt=""/>
                             </a>
                         </div>
@@ -487,18 +432,17 @@
     </section>
 
     <?php include './component/demo-banner.php' ?>
-
-    <?php /*   <section  class="news-list-container">
+    <section  class="news-list-container">
         <div class="container">
             <div class="newscontainer">
                 <div class="row justify-content-md-center">
-                    <div class="col-sm-10">
+                    <div class="col-sm-8">
                         <h2>Latest <strong>News</strong></h2>
                     </div>
                 </div>
                 <?php
                 $rss = new DOMDocument();
-                $rss->load('https://www.logique.co.id/blog/category/dokodemo-kerja/feed/');
+                $rss->load('https://www.logique.co.id/blog/en/category/dokodemo-kerja-en/feed/');
                 $feed = array();
                 foreach ($rss->getElementsByTagName('item') as $node) {
                 $item = array ( 
@@ -509,8 +453,28 @@
                 );
                 array_push($feed, $item);
                 }
-                $limit = 5; 
- 
+                $limit = 4; 
+
+                function tgl_indo($tanggal){
+                    $bulan = array (
+                        1 =>   'Jan',
+                        'Feb',
+                        'Mar',
+                        'Apr',
+                        'Mei',
+                        'Jun',
+                        'Jul',
+                        'Ags',
+                        'Sep',
+                        'Okt',
+                        'Nov',
+                        'Des'
+                    );
+                    $pecahkan = explode('-', $tanggal);
+                     
+                 
+                    return $pecahkan[2] . ' ' . $bulan[ (int)$pecahkan[1] ] . ' ' . $pecahkan[0];
+                }
 
                 ?>
 
@@ -520,7 +484,7 @@
             $title = str_replace(' & ', ' &amp; ', $feed[$x]['title']);
             $link = $feed[$x]['link'];
             $description = $feed[$x]['desc'];
-            $date = date('M d, Y', strtotime($feed[$x]['date']));
+            $date = date('F d, Y', strtotime($feed[$x]['date']));
             // echo '<p><strong><a href="'.$link.'" title="'.$title.'">'.$title.'</a></strong><br />';
             // echo '<small><em>Posted on '.$date.'</em></small></p>';
             // echo '<p>'.$description.'</p>';
@@ -528,9 +492,9 @@
           ?>
           <div class="row justify-content-md-center">
              
-            <div class="col-sm-10">
+            <div class="col-sm-8">
                 <div class="news-item">
-                <span class="feeddate"> <?php echo $date;?></span><a href="<?php echo $link ?>" target="_blank" rel="noreferrer"><?php echo $title ?></a>
+                <span class="feeddate"> <?php echo tgl_indo(date('Y-m-d', strtotime($feed[$x]['date'])));;?></span><a href="<?php echo $link ?>" target="_blank" rel="noreferrer"><?php echo $title ?></a>
                 </div>
             </div>
                   
@@ -540,7 +504,7 @@
          </div>
             </div>
         </div>
-    </section> */?> 
+    </section>
     <?php include 'footer.php' ?>
     <script src="/js/jquery-3.4.1.min.js"></script>
     <script src="/js/bootstrap.min.js"></script>

@@ -1,20 +1,20 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="ja">
 
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=5.0" />
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
-	<meta name="description" itemprop="description" content="By introducing Dokodemo-Kerja, it will be possible for employees to accurately grasp working hours and contents no matter where or when they work. Helps introduce a remote work system. A cloud tool developed by an Indonesian web production company.">
+	<meta name="description" itemprop="description" content="Dokodemo-Kerjaを導入することで従業員がどこで・いつ働いても正確に勤務時間と内容を把握することが可能となります。リモートワーク制度の導入を助けます。インドネシアのWeb制作会社が開発したクラウドツール。">
     <meta name="keywords" content="dokodemo, dokodemo features, work monitor, monitor tasks, screenshot employee desktop, screen monitoring, management tool, tool for managers, employee management software, GPS tracking, calculate working hours">
     <meta name="author" content="PT. LOGIQUE Digital Indonesia">
 	<meta name="google-site-verification" content="Xc9SFJQZdKYLsrWvrxEjLLTA-nyrnNPQTXQoMxs4gKI" />
-    <meta property="og:title" content="Remote Work Management Tool | Dokodemo-Kerja">
+    <meta property="og:title" content="リモートワーク管理ツール | Dokodemo-Kerja">
     <meta property="og:type" content="website">
     <meta property="og:site_name" content="Dokodemo-Kerja">
     <meta property="og:url" content="https://dokodemo-kerja.com">
     <meta property="og:image" content="https://dokodemo-kerja.com/img/og-img/features.jpg">
-    <meta property="og:description" content="By introducing Dokodemo-Kerja, it will be possible for employees to accurately grasp working hours and contents wherever and whenever they work. This tool helps introduce a remote work system.">
+    <meta property="og:description" content="Dokodemo-Kerjaを導入することで従業員がどこで・いつ働いても正確に勤務時間と内容を把握することが可能となります。リモートワーク制度の導入を助けます。">
     <link rel="canonical" href="https://dokodemo-kerja.com/features">
     <link rel="stylesheet" href="/css/bootstrap.min.css" />
     <link href="/fonts/font-awesome/css/font-awesome.min.css" rel="stylesheet">
@@ -26,7 +26,7 @@
     <link rel="stylesheet" href="/js/magnific-popup.css" />
 
 	<link rel="shortcut icon" type="image/x-icon" href="favicon.ico">
-    <title>Remote Work Management Tool | Dokodemo-Kerja | LOGIQUE Indonesia</title>
+    <title>リモートワーク管理ツール | Dokodemo-Kerja | LOGIQUEインドネシア</title>
     <script src="https://www.googleoptimize.com/optimize.js?id=OPT-P232K37"></script>
 	<!-- Google Tag Manager -->
 	<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
@@ -42,7 +42,7 @@
 	<!-- End Facebook Pixel Code -->
 	<!-- Global site tag (gtag.js) - Google Analytics -->
 	<script async src="https://www.googletagmanager.com/gtag/js?id=UA-146404615-1"></script>
-	<script> window.dataLayer=window.dataLayer || []; function gtag(){dataLayer.push(arguments)} gtag('js', new Date()); gtag('config', 'UA-146404615-1');</script>
+	<script>window.dataLayer=window.dataLayer || []; function gtag(){dataLayer.push(arguments)} gtag('js', new Date()); gtag('config', 'UA-146404615-1');</script>
 </head>
 <?php $page = 'features'; ?>
 <body>
@@ -55,13 +55,13 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
         <div class="container">
             <div class="row">
                 <div class="col-md-10 offset-md-1 features-resp-config">
-                    <h1 class="fw-semibold fs-23 text-center mb-4">FEATURES</h1>
-                    <p class="fw-semibold text-center">Dokodemo-Kerja is a time-management oriented solution for both employers and employees alike. Through its efficient monitoring and management capabilities, Dokodemo-Kerja can further help companies improve their levels of productivity, while at the same time provide flexible working hours for employees.</p>
+                    <h1 class="fw-semibold fs-23 text-center mb-4">Dokodemo-Kerjaの機能</h1>
+                    <p class="fw-semibold text-center">Dokodemo-Kerjaは勤務時間トラッキング機能（スクリーンキャプチャ機能あり）をベースにした勤怠管理、作業内容管理システムです。勤怠管理、残業代の計算、有休消化数の計算など人事業務の効率化に有効なだけでなく、リモートワークや時短勤務などフレキシブルな働き方の導入を可能にします。結果としてこれが従業員の生産性を向上することに繋がります。</p>
                     <div class="row">
                         <div class="col-lg-6 features-item">
                             <span class="features-number">01</span>
-                            <h2 class="features-title">Track Working Hours and Monitor Tasks</h2>
-                            <p class="features-desc">Dokodemo-Kerja takes low-resolution screenshots of your employee's desktop or laptop activities during random intervals when the application is switched on and sends the images to the management team.</p>
+                            <h2 class="features-title">作業中、スクリーンキャプチャを取得し管理します</h2>
+                            <p class="features-desc">最長10分間に1回画面を記録して保存します。プライバシーに配慮しキャプチャ画像の解像度は低く、eメールやメッセージツール内のテキストなどは読めません。開いているWindowのアプリケーション種類やWebサイトの種類が判別できるものです。ゲーム画面やYoutubeが開かれている。同じ画面のまま動きがないということは判明します。</p>
                         </div>
                         <div class="col-lg-6 features-item">
                              <img src="/img/features/feature-1.png" class="img-slide-screenshot modal-hover-opacity" alt="Dokodemo-Kerja is compatible with PC, Mobile & Tablet" />    
@@ -70,8 +70,8 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                     <div class="row">
                         <div class="col-lg-6 features-item">
                             <span class="features-number">02</span>
-                            <h2 class="features-title">Accurate Time Reports</h2>
-                            <p class="features-desc">Dokodemo-Kerja accurately calculates and compiles employee work data and then displays it in an easy-to-read-format in just 1 simple click. This can greatly assist HR improve the overall accuracy of performance evaluation tasks.</p>
+                            <h2 class="features-title">タスク別に作業時間を正確に記録します</h2>
+                            <p class="features-desc">端末にインストールされたアプリケーションより、タスクを選択して作業の開始、と終了を記録します。作業中のステータスのときに上記のスクリーンキャプチャが取得されます。開始忘れ、終了忘れのために、時間編集機能があります。編集されたことは管理者に通知されます。</p>
                         </div>
                         <div class="col-lg-6 features-item">
                             <img src="/img/features/feature-2.png" class="img-slide-screenshot modal-hover-opacity" alt="Dokodemo-Kerja is compatible with PC, Mobile & Tablet" />   
@@ -80,8 +80,8 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                     <div class="row">
                         <div class="col-lg-6 features-item">
                             <span class="features-number">03</span>
-                            <h2 class="features-title">Manage Employees Man-Hours</h2>
-                            <p class="features-desc">Track the total man-hours spent by each employee on each individual task, so your company can easily predict and arrange target deadlines according to your employee's capabilities.</p>
+                            <h2 class="features-title">分析可能</h2>
+                            <p class="features-desc">タスク別、部署別、人別に勤務時間を集計表示＆データエクスポートができます。作業時間は、日別、週次、月次での表示ができますので、HRの勤怠管理業務を容易にします。</p>
                         </div>
                         <div class="col-lg-6 features-item">
                             <img src="/img/features/feature-3.png" class="img-slide-screenshot modal-hover-opacity" alt="Dokodemo-Kerja is compatible with PC, Mobile & Tablet" />    
@@ -90,8 +90,8 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                     <div class="row">
                         <div class="col-lg-6 features-item">
                             <span class="features-number">04</span>
-                            <h2 class="features-title">Manage Off-Site Meetings</h2>
-                            <p class="features-desc">Dokodemo-Kerja’s Mobile Application utilizes GPS tracking, thereby allowing HR to easily track the location of each employee in real time during onsite events such as meetings or client visits.</p>
+                            <h2 class="features-title">非デスクワークも管理</h2>
+                            <p class="features-desc">スマホアプリをご利用いただくことで、外回り社員の行動履歴をトラッキングできます。勤務時間と場所を記録します。午前中はデスクワークで午後は客先でミーティングなどの場合にも勤務時間を完全に把握可能です。</p>
                         </div>
                         <div class="col-lg-6 features-item">
                             <img src="/img/features/feature-4.png" class="img-slide-screenshot modal-hover-opacity" alt="Dokodemo GPS features" />    
@@ -100,8 +100,8 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                     <div class="row">
                         <div class="col-lg-6 features-item">
                             <span class="features-number">05</span>
-                            <h2 class="features-title">Manage Attendance</h2>
-                            <p class="features-desc">Dokodemo-Kerja can be used to keep track of absence history. Additionally, late records and overtime records are also accounted for in the attendance feature.</p>
+                            <h2 class="features-title">欠勤、遅刻、勤務時間不足の管理</h2>
+                            <p class="features-desc">規定の勤務時間に足りて無いケース、遅刻、早退などを容易に発見可能になります。残業時間の計算も非常に簡易に行えます。</p>
                         </div>
                         <div class="col-lg-6 features-item">
                             <img src="/img/features/feature-5.jpg" class="img-slide-screenshot modal-hover-opacity" alt="Manage Attendance" />    
@@ -110,8 +110,8 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                     <div class="row">
                         <div class="col-lg-6 features-item">
                             <span class="features-number">06</span>
-                            <h2 class="features-title">Manage Leaves and Day Offs</h2>
-                            <p class="features-desc">Leave or Day Off request processes can easily be streamlined. Forget about going through stacks of emails because everything will be recorded in the system.</p>
+                            <h2 class="features-title">休暇の管理</h2>
+                            <p class="features-desc">Dokodemo-Kerjaを通して、休暇の申請承認を行えます。HRは休暇取得数や有給休暇残数の管理を容易に行えます。</p>
                         </div>
                         <div class="col-lg-6 features-item">
                             <img src="/img/features/feature-6.jpg" class="img-slide-screenshot modal-hover-opacity" alt="Manage Leaves and Day Offs" />    
@@ -120,12 +120,12 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                     <div class="row">
                         <div class="col-lg-6 features-item">
                             <span class="features-number">07</span>
-                            <h2 class="features-title">Employee just need to "<strong>Start</strong>" or "<strong>Stop</strong>" the application</h2>
+                            <h2 class="features-title">ユーザーは”スタート”と”ストップ”をしていただくだけです</h2>
                             <div class="employee-feature-list pl-0">
                                 <ul>
-                                    <li>Users will be able to work anywhere, at any time.</li>
-                                    <li>When taking breaks, users will have to press the “Stop” button, so as to accurately calculate working hours.</li>
-                                    <li>User can now more efficiently manage their responsibilities according to their task.</li>
+                                    <li>ユーザーは、いつでも、どこででも働くことができるようになります。</li>
+                                    <li>生産性高く働ける時に、心地よい場所で作業をすることを可能にします。</li>
+                                    <li>休憩するとき、作業を終了するときにはストップボタンをクリックする必要があります。</li>
                                 </ul>
                             </div>
                         </div>

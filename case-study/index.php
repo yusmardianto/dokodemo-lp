@@ -5,16 +5,16 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=5.0" />
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
-	<meta name="description" itemprop="description" content="Dokodemo Kerja Case Study: a remote work management tool that records employee work hours, and tracks their location via GPS, enabling flexible work.">
+	<meta name="description" itemprop="description" content="By using Dokodemo-Kerja, we were able to let employees WHF, reduce slacking, introduce a working hour calculation system, automate the calculation of overtime hours, and improve HR work efficiency. Here are some case studies of Dokodemo-Kerja.">
     <meta name="keywords" content="dokodemo-kerja, case studies, tool for managers, Logique Digital Indonesia, remote working system, billing system services, accounting firm, screen monitoring, monitor employee, employee monitoring">
     <meta name="author" content="PT. LOGIQUE Digital Indonesia">
 	<meta name="google-site-verification" content="Xc9SFJQZdKYLsrWvrxEjLLTA-nyrnNPQTXQoMxs4gKI" />
-    <meta property="og:title" content="Dokodemo-Kerja Case Studies | A New Remote Work Tracking Tool">
+    <meta property="og:title" content="Dokodemo-Achieve WFH with Kerja">
     <meta property="og:type" content="website">
     <meta property="og:site_name" content="Dokodemo-Kerja">
     <meta property="og:url" content="https://dokodemo-kerja.com">
     <meta property="og:image" content="https://dokodemo-kerja.com/img/og-img/case-study.jpg">
-    <meta property="og:description" content="Dokodemo Kerja is a remote work management tool that records employee work hours, both within and outside of the office. It can track their location via GPS, enabling flexible work.">
+    <meta property="og:description" content="By using Dokodemo-Kerja, you can get various benefits such as allowing employees to work from home, prevent slacking, and introduce a reduced working hours system.">
     <link rel="canonical" href="https://dokodemo-kerja.com/case-study/">
     <link rel="stylesheet" href="/css/bootstrap.min.css" />
     <link href="/fonts/font-awesome/css/font-awesome.min.css" rel="stylesheet">
@@ -27,7 +27,7 @@
     <link rel="stylesheet" href="/js/magnific-popup.css" />
 
 	<link rel="shortcut icon" type="image/x-icon" href="/favicon.ico">
-    <title>Case Study of Dokodemo-Kerja | Working Hours Tracking Tool</title>
+    <title>Realizing WFH | Work Style Improvement Support Tool | Prevention of Scraping | Indonesia Case Study</title>
     <script src="https://www.googleoptimize.com/optimize.js?id=OPT-P232K37"></script>
 	<!-- Google Tag Manager -->
 	<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
@@ -36,31 +36,14 @@
 	'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
 	})(window,document,'script','dataLayer','GTM-WT4MCDL');</script>
 	<!-- Facebook Pixel Code -->
-	<script>
-	  !function(f,b,e,v,n,t,s)
-	  {if(f.fbq)return;n=f.fbq=function(){n.callMethod?
-	  n.callMethod.apply(n,arguments):n.queue.push(arguments)};
-	  if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';
-	  n.queue=[];t=b.createElement(e);t.async=!0;
-	  t.src=v;s=b.getElementsByTagName(e)[0];
-	  s.parentNode.insertBefore(t,s)}(window, document,'script',
-	  'https://connect.facebook.net/en_US/fbevents.js');
-	  fbq('init', '713777762291663');
-	  fbq('track', 'PageView');
-	</script>
+	<script> !function(f,b,e,v,n,t,s) {if(f.fbq)return;n=f.fbq=function(){n.callMethod? n.callMethod.apply(n,arguments):n.queue.push(arguments)}; if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0'; n.queue=[];t=b.createElement(e);t.async=!0; t.src=v;s=b.getElementsByTagName(e)[0]; s.parentNode.insertBefore(t,s)}(window, document,'script', 'https://connect.facebook.net/en_US/fbevents.js'); fbq('init', '713777762291663'); fbq('track', 'PageView');</script>
 	<noscript><img height="1" width="1" style="display:none"
 	  src="https://www.facebook.com/tr?id=713777762291663&ev=PageView&noscript=1"
 	/></noscript>
 	<!-- End Facebook Pixel Code -->
 	<!-- Global site tag (gtag.js) - Google Analytics -->
 	<script async src="https://www.googletagmanager.com/gtag/js?id=UA-146404615-1"></script>
-	<script>
-	  window.dataLayer = window.dataLayer || [];
-	  function gtag(){dataLayer.push(arguments);}
-	  gtag('js', new Date());
-
-	  gtag('config', 'UA-146404615-1');
-	</script>
+	<script> window.dataLayer=window.dataLayer || []; function gtag(){dataLayer.push(arguments)} gtag('js', new Date()); gtag('config', 'UA-146404615-1');</script>
 </head>
 <?php $page = 'case-study/'; ?>
 <body>
@@ -127,6 +110,23 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                             <h4 class="card__title">PT. LOGIQUE Digital Indonesia</h4>
                             <p class="card__text">
                                 Hello, my name is Ghitta. I started working as an HR staff member in 2017. I would like to take this opportunity to explain how to utilize “Dokodemo-Kerja” to help transition into new company policies to solve some HR problems. Previously, we had not implemented any special HR rules. We made several exceptions for some staff with special circumstances so they could work remotely. 
+                            </p>
+                        </div>
+                    </a>
+                </div>
+                <div class="col-md-4">
+                    <a href="/case-study/case-5" class="case-study__card-wrapper">
+                        <div class="case-study__card">
+                            <img class="card__img" src="/img/case-study/dokodemo-story-5.png" alt="New Feature" style="object-position: top;">
+                            <h2 class="card__headline">Dokodemo-Kerja Story 5</h2>
+                            <h4 class="card__title">PT LOGIQUE Digital Indonesia</h4>
+                            <p class="card__text">
+                            What are the new features of Dokodemo-Kerja and how does PT Logique Utilize them?
+                            <ol class="card__list">
+                                <li>Attendance History</li>
+                                <li>Delay</li>
+                                <li>Requesting a Leave or Day Off</li>
+                            </ol>
                             </p>
                         </div>
                     </a>
