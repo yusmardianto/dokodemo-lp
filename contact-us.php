@@ -79,7 +79,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 	<div class="container dokodemo-customoption">
 	  <div class="row">
 		  <div class="col-md-8 offset-md-2 contact-resp-settings">
-			<div class="semibold fs-18 subtitle-contact">To start using Dokodemo-Kerja, choose a plan and fill in the form below.</div>
+			<div class="semibold fs-18 subtitle-contact">If you have some enquiry regarding Free Trial, Subscription, or any question on Dokodemo-Kerja please contact us by filling the form below.</div>
 
 			<?php
             if (!is_null($success)) {

@@ -104,8 +104,10 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
             </div>
             <div class="row">
                 <div class="offset-md-1 col-md-10">
-                    <p class="text-center fs-18 subbanner-header-text">Dapatkan jam kerja karyawan secara akurat, dimanapun mereka bekerja. Dokodemo-Kerja versi 2.0 mempunyai fungsi GPS yang mencatat sejarah lokasi di aplikasi handphone. <strong>Mari Inovasikan cara kita bekerja!</strong>
-                    </p>
+                    <div class="text-center fs-18 subbanner-header-text">
+                        <p>Dokodemo-Kerja adalah alat manajemen kehadiran & manajemen kerja jarak jauh yang memungkinkan untuk mewujudkan gaya kerja flesksibel yang bermanfaat bagi perusahaan dan karyawan dengan mencatat jam kerja dan isi pekerjaan kapan saja, di mana saja. Hal ini akan memungkinkan untuk mengatur jam kerja secara akurat, dan perhitungan jam lembur dan jumlah cuti akan disederhanakan. Dengan adanya fungsi mengambil dan mengelola tangkapan layar pada saat bekerja, Anda dapat mencegah prilaku yang tidak sesuai selama jam kerja.</p>
+                        <p>Sejak Versi 2.0, fungsi pelacakan GPS juga telah diterapkan aplikasi handphone, sehingga memungkinkan untuk mengelola kondisi kerja sebenarnya dari staf yang sering keluar.</p>
+                    </div>
                 </div>
             </div>
             <div class="row">

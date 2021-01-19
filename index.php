@@ -101,10 +101,10 @@
             </div>
             <div class="row">
                 <div class="offset-md-1 col-md-10">
-                    <p class="text-center fs-18 subbanner-header-text">
-                    Accurately track employee working hours, no matter where they are. Dokodemo-Kerja ver 2.0 also has a GPS location record feature in its mobile application.
-                    <strong>Let’s innovate the way we work!</strong>
-                    </p>
+                    <div class="text-center fs-18 subbanner-header-text">
+                        <p>Dokodemo-Kerja is both an attendance management & remote work management tool that enables a flexible work styles that are beneficial to both the company and employees by recording the hours worked and its content no matter where or when you work. Since it is able manage work hours accurately, it makes the calculation of overtime hours and the number of paid leave to be more efficient. Also, by taking and managing screen captures during the work session, prevent slacking during working hours can be prevented.</p>
+                        <p>Since Version 2.0, the GPS track function has also been implemented in the mobile application, so it is possible to manage the actual working conditions of staff who often go out.</p>
+                    </div>
                 </div>
             </div>
             <div class="row">

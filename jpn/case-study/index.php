@@ -66,7 +66,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
     </section>
     <section class="mb-5">
         <div class="container">
-            <h1 class="text-center mb-5">Case Study: How You Utilize Dokodemo-Kerja</h1>
+            <h1 class="text-center mb-5">事例：Dokodemo-Kerjaの活用事例</h1>
             <div class="row">
                 <div class="col-md-4">
                     <a href="/jpn/case-study/case-1" class="case-study__card-wrapper">
