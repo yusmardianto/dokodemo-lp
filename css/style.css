@@ -164,6 +164,10 @@ strong {
   background-color: #ffd954
 }
 
+.btn.bg--blue:hover {
+  background-color: #4c9de4;
+}
+
 /* spacing */
 .mb--30px {
   margin-bottom: 30px;
@@ -195,9 +199,35 @@ input.form-control.color--blue:focus {
   padding-left: 40px;
 }
 
+input[type="time"]::-webkit-calendar-picker-indicator { 
+  background: none; 
+  display:none; 
+}
 
+.input--time-step {
+  border-radius: 4px;
+  overflow: hidden;
+}
 
+.input--time-step .time-step {
+  position: absolute;
+  width: 30px;
+  padding: 0;
+  right: 0;
+  border-radius: 0;
+  height: 50%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
 
+.input--time-step .time-step.time-step--up {
+  top: 0;
+}
+
+.input--time-step .time-step.time-step--down {
+  bottom: 0;
+}
 
 .bold {
   font-weight: 700;
@@ -666,13 +696,17 @@ input.form-control.color--blue:focus {
 }
 
 .modal-body__input input.border--blue,
-.modal-body__input textarea.border--blue {
+.modal-body__input textarea.border--blue{
   border-color: #c0c0c0;
 }
 
 .modal-body__input:focus-within input.border--blue,
 .modal-body__input:focus-within textarea.border--blue {
   border-color: #194f86;
+}
+
+.modal-body .modal-body__input .input--time-step .btn.bg--blue {
+  background-color: #c0c0c0;
 }
 
 .modal-body .modal-body__input label,
@@ -689,6 +723,22 @@ input.form-control.color--blue:focus {
 .modal-body .modal-body__input:focus-within input.color--blue,
 .modal-body .modal-body__input:focus-within textarea.color--blue {
   color: #194f86;
+}
+
+.modal-body .modal-body__input:focus-within .input--time-step .btn.bg--blue {
+  background-color: #194f86;
+}
+
+.modal-body .modal-body__input:focus-within .input--time-step .btn.bg--blue:hover {
+  background-color: #2d73b9;
+}
+
+.modal-body .modal-body__input:focus-within .input--time-step .btn.bg--blue:focus {
+  box-shadow: none;
+}
+
+.modal-body .modal-body__input:focus-within .input--time-step .btn.bg--blue img {
+  filter: contrast(1) brightness(2);
 }
 
 .modal-body .modal-body__input:focus-within .input--icon img {

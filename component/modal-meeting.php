@@ -6,7 +6,7 @@
     Offline
 </button>
 
-<!-- Modal -->
+<!-- modal online schedule -->
 <div class="modal modal--meeting fade" id="meetingSchedule" data-backdrop="static" data-keyboard="false" tabindex="-1" aria-labelledby="meetingScheduleLabel" aria-hidden="true">
     <div class="modal-dialog modal-lg modal-dialog-centered">
         <div class="modal-content border-0">
@@ -54,12 +54,40 @@
                     </div>
                     <div class="mb-3 col col-lg-6">
                         <div class="form-row">
-                            <div class=" col">
-                                <input type="text" class="form-control m-h--40px border--blue color--blue">                                
+                            <div class="col">
+                                <div class="input--time-step position-relative">
+                                    <input type="time" id="time_preffered_start" class="form-control m-h--40px border--blue color--blue" min="09:00" max="17:00" step="1800" value="09:00">                                
+                                    <button class="btn bg--blue time-step time-step--up" data-button-type="up">
+                                        <picture>
+                                            <source srcset="/img/icon/icon-chevron-up.svg">
+                                            <img src="/img/icon/icon-chevron-up.png" alt="" class="img-fluid">
+                                        </picture>
+                                    </button>
+                                    <button class="btn bg--blue time-step time-step--down" data-button-type="down">
+                                        <picture>
+                                            <source srcset="/img/icon/icon-chevron-down.svg">
+                                            <img src="/img/icon/icon-chevron-down.png" alt="" class="img-fluid">
+                                        </picture>
+                                    </button>
+                                </div>
                             </div>
                             <div class="col-auto px-0 align-self-center">-</div>
                             <div class="col">
-                                <input type="text" class="form-control m-h--40px border--blue color--blue">
+                                <div class="input--time-step position-relative">
+                                    <input type="time" id="time_preffered_end" class="form-control m-h--40px border--blue color--blue" min="09:00" max="17:00" step="1800" value="09:00">                                
+                                    <button class="btn bg--blue time-step time-step--up" data-button-type="up">
+                                        <picture>
+                                            <source srcset="/img/icon/icon-chevron-up.svg">
+                                            <img src="/img/icon/icon-chevron-up.png" alt="" class="img-fluid">
+                                        </picture>
+                                    </button>
+                                    <button class="btn bg--blue time-step time-step--down" data-button-type="down">
+                                        <picture>
+                                            <source srcset="/img/icon/icon-chevron-down.svg">
+                                            <img src="/img/icon/icon-chevron-down.png" alt="" class="img-fluid">
+                                        </picture>
+                                    </button>
+                                </div>
                             </div>
                         </div>
                     </div>
@@ -94,6 +122,7 @@
     </div>
 </div>
 
+<!-- modal success -->
 <div class="modal modal--meeting fade" id="" data-backdrop="static" data-keyboard="false" tabindex="-1" aria-labelledby="staticBackdropLabel" aria-hidden="true">
     <div class="modal-dialog modal-lg modal-dialog-centered">
         <div class="modal-content border-0">
