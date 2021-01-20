@@ -15,7 +15,7 @@
                         <li><a href="/jpn">ホーム</a></li>
                         <li><a href="/about">Dokodemo-Kerjaについて</a></li>
                         <li><a href="/features">在宅勤務</a></li>
-                        <li><a href="/jpn/case-study">Case Study</a></li>
+                        <li><a href="/jpn/case-study">事例</a></li>
                         <li><a href="/price">価格</a></li>
                         <li><a href="/demo">デモ</a></li>
                         <li><a href="https://www.logique.co.id/blog/category/dokodemo-kerja/" target="_blank" rel="noopener noreferrer">ブログ</a></li>
@@ -25,7 +25,7 @@
             <div class="col-lg-3 col-md-3 col-sm-6 footer-menu-container-2 align-self-start">
                 <div class="footer-menu">
                     <ul class="footer-menu-list second-list">
-                        <li><a href="/contact-us">問い合わせ</a></li>
+                        <li><a href="/contact-us">お問い合わせ</a></li>
                         <li><a href="/jpn/price#FAQ">よくある質問</a></li>
                         <li><a href="/subscribe">Subscribing Procedure</a></li>
                         <li><a href="/terms">Terms and Condition</a></li>

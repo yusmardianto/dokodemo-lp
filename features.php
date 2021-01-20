@@ -56,12 +56,12 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
             <div class="row">
                 <div class="col-md-10 offset-md-1 features-resp-config">
                     <h1 class="fw-semibold fs-23 text-center mb-4">FEATURES</h1>
-                    <p class="fw-semibold text-center">Dokodemo-Kerja is a time-management oriented solution for both employers and employees alike. Through its efficient monitoring and management capabilities, Dokodemo-Kerja can further help companies improve their levels of productivity, while at the same time provide flexible working hours for employees.</p>
+                    <p class="fw-semibold text-center">Dokodemo-Kerja is an attendance management and work content management system based on the working time tracking function (with screen capture function). Not only is it effective for improving the efficiency of HR work such as attendance management, calculation of overtime pay, and calculation of the number of paid holidays, but it also enables the introduction of a more flexible work styles such as remote work and reduced working hours. As a result, this leads to increased employee productivity.</p>
                     <div class="row">
                         <div class="col-lg-6 features-item">
                             <span class="features-number">01</span>
-                            <h2 class="features-title">Track Working Hours and Monitor Tasks</h2>
-                            <p class="features-desc">Dokodemo-Kerja takes low-resolution screenshots of your employee's desktop or laptop activities during random intervals when the application is switched on and sends the images to the management team.</p>
+                            <h2 class="features-title">Take and manage screen captures while you are working</h2>
+                            <p class="features-desc">The system will take a screenshot once randomly within 10 minutes. For privacy the screenshot saved is low resolution and you cannot read the text in emails or message tools.  The purpose of the screenshot is to determine the application or website type is open. Whether it is work related or Youtube or Game. It will also send a notification to the admin when a user have the same screenshot 3 times in a row.</p>
                         </div>
                         <div class="col-lg-6 features-item">
                              <img src="/img/features/feature-1.png" class="img-slide-screenshot modal-hover-opacity" alt="Dokodemo-Kerja is compatible with PC, Mobile & Tablet" />    
@@ -70,8 +70,8 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                     <div class="row">
                         <div class="col-lg-6 features-item">
                             <span class="features-number">02</span>
-                            <h2 class="features-title">Accurate Time Reports</h2>
-                            <p class="features-desc">Dokodemo-Kerja accurately calculates and compiles employee work data and then displays it in an easy-to-read-format in just 1 simple click. This can greatly assist HR improve the overall accuracy of performance evaluation tasks.</p>
+                            <h2 class="features-title">Accurately record work time by task</h2>
+                            <p class="features-desc">From the application installed on the device, select a task and it will record the start and end of the work. The above screen capture is only taken when the application is being used (aside from Mobile version). There is also a time editing function on the Web version incase a user forgot to start or end a work session. The administrator is notified when a work session time has been edited.</p>
                         </div>
                         <div class="col-lg-6 features-item">
                             <img src="/img/features/feature-2.png" class="img-slide-screenshot modal-hover-opacity" alt="Dokodemo-Kerja is compatible with PC, Mobile & Tablet" />   
@@ -80,8 +80,8 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                     <div class="row">
                         <div class="col-lg-6 features-item">
                             <span class="features-number">03</span>
-                            <h2 class="features-title">Manage Employees Man-Hours</h2>
-                            <p class="features-desc">Track the total man-hours spent by each employee on each individual task, so your company can easily predict and arrange target deadlines according to your employee's capabilities.</p>
+                            <h2 class="features-title">Easy to Analyze</h2>
+                            <p class="features-desc">Display the total hours worked and data export of working hours by task, team, and person. Working hours can be displayed on a daily, weekly, or monthly basis, facilitating HR attendance management work.</p>
                         </div>
                         <div class="col-lg-6 features-item">
                             <img src="/img/features/feature-3.png" class="img-slide-screenshot modal-hover-opacity" alt="Dokodemo-Kerja is compatible with PC, Mobile & Tablet" />    
@@ -90,8 +90,8 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                     <div class="row">
                         <div class="col-lg-6 features-item">
                             <span class="features-number">04</span>
-                            <h2 class="features-title">Manage Off-Site Meetings</h2>
-                            <p class="features-desc">Dokodemo-Kerja’s Mobile Application utilizes GPS tracking, thereby allowing HR to easily track the location of each employee in real time during onsite events such as meetings or client visits.</p>
+                            <h2 class="features-title">Manage Non-Desk Work</h2>
+                            <p class="features-desc">With the smartphone app, you can track the action history for employees outside of the office by recording the working hours and locations. It will become possible to fully grasp the working hours even when the employee have an active work where desk work in the morning and meetings with the customer in the afternoon.</p>
                         </div>
                         <div class="col-lg-6 features-item">
                             <img src="/img/features/feature-4.png" class="img-slide-screenshot modal-hover-opacity" alt="Dokodemo GPS features" />    
@@ -100,8 +100,10 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                     <div class="row">
                         <div class="col-lg-6 features-item">
                             <span class="features-number">05</span>
-                            <h2 class="features-title">Manage Attendance</h2>
-                            <p class="features-desc">Dokodemo-Kerja can be used to keep track of absence history. Additionally, late records and overtime records are also accounted for in the attendance feature.</p>
+                            <h2 class="features-title">Manage the attendance, late arrival, and working hours</h2>
+                            <p class="features-desc">Easily manage and discover cases for late arrivals, work hour is not fulfilled, and even leave early cases.
+                            <br>
+                            With the work hour recorded calculation of overtime hours can be easily determined.</p>
                         </div>
                         <div class="col-lg-6 features-item">
                             <img src="/img/features/feature-5.jpg" class="img-slide-screenshot modal-hover-opacity" alt="Manage Attendance" />    
@@ -110,8 +112,8 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                     <div class="row">
                         <div class="col-lg-6 features-item">
                             <span class="features-number">06</span>
-                            <h2 class="features-title">Manage Leaves and Day Offs</h2>
-                            <p class="features-desc">Leave or Day Off request processes can easily be streamlined. Forget about going through stacks of emails because everything will be recorded in the system.</p>
+                            <h2 class="features-title">Manage Day Offs and Holidays</h2>
+                            <p class="features-desc">You can approve Day Off requests through Dokodemo-Kerja. HR can easily manage the number of day offs taken and remaining numbers.</p>
                         </div>
                         <div class="col-lg-6 features-item">
                             <img src="/img/features/feature-6.jpg" class="img-slide-screenshot modal-hover-opacity" alt="Manage Leaves and Day Offs" />    
@@ -120,12 +122,12 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                     <div class="row">
                         <div class="col-lg-6 features-item">
                             <span class="features-number">07</span>
-                            <h2 class="features-title">Employee just need to "<strong>Start</strong>" or "<strong>Stop</strong>" the application</h2>
+                            <h2 class="features-title">User just need to "<strong>Start</strong>" and "<strong>Stop</strong>" the application</h2>
                             <div class="employee-feature-list pl-0">
                                 <ul>
                                     <li>Users will be able to work anywhere, at any time.</li>
-                                    <li>When taking breaks, users will have to press the “Stop” button, so as to accurately calculate working hours.</li>
-                                    <li>User can now more efficiently manage their responsibilities according to their task.</li>
+                                    <li>It allows the user to work productively in an environment that is most comfortable to the user.</li>
+                                    <li>When taking breaks, user will have to press the "Stop" button, so as to accurately calculate the working hours.</li>
                                 </ul>
                             </div>
                         </div>

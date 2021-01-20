@@ -74,7 +74,7 @@
                         href="https://www.logique.co.id/blog/category/dokodemo-kerja/">ブログ</a>
                 </li>
                 <li class="nav-item <?php active('contact-us') ?>">
-                    <a class="nav-link" href="/jpn/contact-us">問い合わせ</a>
+                    <a class="nav-link" href="/jpn/contact-us">お問い合わせ</a>
                 </li>
 
                 <li class="nav-item flex-column">
