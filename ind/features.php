@@ -55,7 +55,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
         <div class="container">
             <div class="row">
                 <div class="col-md-10 offset-md-1 features-resp-config">
-                    <h1 class="fw-semibold fs-23 text-center mb-4">FITUR</h1>
+                    <h1 class="fw-semibold fs-24 text-center mb-4">FITUR</h1>
                     <p class="fw-semibold text-center">Dokodemo-Kerja adalah solusi berorientasi manajemen waktu untuk pengusaha dan karyawan. Melalui pemantauan dan kemampuan manajemennya yang efisien, Dokodemo-Kerja dapat membantu perusahaan meningkatkan tingkat produktifitas mereka, sementara di saat yang sama memberikan jam kerja yang fleksibel bagi karyawan.</p>
                     <div class="row">
                         <div class="col-lg-6 features-item">

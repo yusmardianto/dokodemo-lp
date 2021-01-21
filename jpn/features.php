@@ -55,7 +55,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
         <div class="container">
             <div class="row">
                 <div class="col-md-10 offset-md-1 features-resp-config">
-                    <h1 class="fw-semibold fs-23 text-center mb-4">Dokodemo-Kerjaの機能</h1>
+                    <h1 class="fw-semibold fs-24 text-center mb-4">Dokodemo-Kerjaの機能</h1>
                     <p class="fw-semibold text-center">Dokodemo-Kerjaは勤務時間トラッキング機能（スクリーンキャプチャ機能あり）をベースにした勤怠管理、作業内容管理システムです。勤怠管理、残業代の計算、有休消化数の計算など人事業務の効率化に有効なだけでなく、リモートワークや時短勤務などフレキシブルな働き方の導入を可能にします。結果としてこれが従業員の生産性を向上することに繋がります。</p>
                     <div class="row">
                         <div class="col-lg-6 features-item">

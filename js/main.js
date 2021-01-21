@@ -3,8 +3,9 @@ $(function() {
     // change modal title
     $('[data-target="#meetingSchedule"]').click(function() {
         const modal_title = $(this).data('title');
-        $('.modal-title__type').html(modal_title)
-    })
+        $('.modal-title__type').html(modal_title);
+        $('#meeting_type').attr('value', modal_title);
+    });
 
     // step input time with button
     $('.input--time-step .time-step').click(function() {

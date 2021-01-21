@@ -1,11 +1,3 @@
-<!-- Button trigger modal -->
-<button type="button" class="btn btn-primary" data-title="online" data-toggle="modal" data-target="#meetingSchedule">
-    Online
-</button>
-<button type="button" class="btn btn-primary" data-title="offline" data-toggle="modal" data-target="#meetingSchedule">
-    Offline
-</button>
-
 <!-- modal online schedule -->
 <div class="modal modal--meeting fade" id="meetingSchedule" data-backdrop="static" data-keyboard="false" tabindex="-1" aria-labelledby="meetingScheduleLabel" aria-hidden="true">
     <div class="modal-dialog modal-lg modal-dialog-centered">
@@ -13,13 +5,15 @@
             <div class="border-bottom-0 pb-0 modal-header">
                 <div class="color--blue pt-3">
                     <h5 class="fs-24 font-weight-bold modal-title">Schedule <span class="text-capitalize modal-title__type">Online</span> Meeting</h5>
-                    <p>Set up an online consultation with our team for a software demo</p>
+                    <p>Set up an <span class="modal-title__type">online</span> consultation with our team for a software demo</p>
                 </div>
                 <button type="button" class="close" data-dismiss="modal" aria-label="Close">
                     <span aria-hidden="true" class="color--blue">&times;</span>
                 </button>
             </div>
             <div class="position-relative overflow-hidden modal-body modal-body--meeting">
+
+                <input type="text" id="meeting_type" readonly hidden>
 
                 <div class="form-row">
                     <div class="col-md-6 mb-3">
@@ -123,7 +117,7 @@
 </div>
 
 <!-- modal success -->
-<div class="modal modal--meeting fade" id="" data-backdrop="static" data-keyboard="false" tabindex="-1" aria-labelledby="staticBackdropLabel" aria-hidden="true">
+<div class="modal modal--meeting fade" id="meetingScheduleSent" data-backdrop="static" data-keyboard="false" tabindex="-1" aria-labelledby="meetingScheduleSentLabel" aria-hidden="true">
     <div class="modal-dialog modal-lg modal-dialog-centered">
         <div class="modal-content border-0">
             <div class="border-bottom-0 pb-0 modal-header">

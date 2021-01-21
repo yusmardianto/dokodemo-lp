@@ -55,7 +55,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
         <div class="container">
             <div class="row">
                 <div class="col-md-10 offset-md-1 features-resp-config">
-                    <h1 class="fw-semibold fs-23 text-center mb-4">FEATURES</h1>
+                    <h1 class="fw-semibold fs-24 text-center mb-4">FEATURES</h1>
                     <p class="fw-semibold text-center">Dokodemo-Kerja is a time-management oriented solution for both employers and employees alike. Through its efficient monitoring and management capabilities, Dokodemo-Kerja can further help companies improve their levels of productivity, while at the same time provide flexible working hours for employees.</p>
                     <div class="row">
                         <div class="col-lg-6 features-item">
