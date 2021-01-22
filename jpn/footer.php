@@ -1,79 +1,79 @@
-<footer>
+<footer class="bg--blue text-white">
     <div class="container">
-        <div class="row align-items-center">
-            <div class="col-lg-3 col-md-3 col-sm-12 footer-logo-container">
-                <img src="/img/dokodemo.svg" width="85" alt="">
-                <p>
-                    <a href="https://www.logique.co.id/" target="_blank" rel="noopener noreferrer" aria-label="Homepage Link">
-                        <img src="/img/logo_logique.png" class="img-fluid logique-logo" alt="" />
-                    </a>
-                </p>
-            </div>
-            <div class="col-lg-3 col-md-3 col-sm-6 footer-menu-container-1">
-                <div class="footer-menu">
-                    <ul class="footer-menu-list first-list">
-                        <li><a href="/jpn">ホーム</a></li>
-                        <li><a href="/about">Dokodemo-Kerjaについて</a></li>
-                        <li><a href="/features">在宅勤務</a></li>
-                        <li><a href="/jpn/case-study">Case Study</a></li>
-                        <li><a href="/price">価格</a></li>
-                        <li><a href="/demo">デモ</a></li>
-                        <li><a href="https://www.logique.co.id/blog/category/dokodemo-kerja/" target="_blank" rel="noopener noreferrer">ブログ</a></li>
-                    </ul>
+        <div class="py--30px row align-items-end">
+            <div class="col-md-4 col-lg-3 mb-4 mb-lg-0">
+                <div class="row">
+                    <div class="col-12 col-md-auto">
+                        <div class="mr-auto text-center">
+                            <a href="/jpn/">
+                                <img src="/img/dokodemo.svg" width="60" alt="" class="mb-3">
+                                <p class="mb-0 fs-14 text-white">DOKODEMO - KERJA</p>
+                            </a>
+                        </div>
+                    </div>
                 </div>
             </div>
-            <div class="col-lg-3 col-md-3 col-sm-6 footer-menu-container-2 align-self-start">
-                <div class="footer-menu">
-                    <ul class="footer-menu-list second-list">
-                        <li><a href="/contact-us">問い合わせ</a></li>
-                        <li><a href="/jpn/price#FAQ">よくある質問</a></li>
-                        <li><a href="/subscribe">Subscribing Procedure</a></li>
-                        <li><a href="/terms">Terms and Condition</a></li>
-                        <li><a href="/privacy">Privacy Policy</a></li>
-                    </ul>
-                </div>
+            <div class="col-md-4 col-lg-6 text-center align-self-center fs-12">
+                <ul class="mb-2 list-inline footer__list">
+                    <li class="list-inline-item"><a href="/jpn">ホーム</a></li>
+                    <li class="list-inline-item"><a href="/about">Dokodemo-Kerjaについて</a></li>
+                    <li class="list-inline-item"><a href="/jpn/features">在宅勤務</a></li>
+                    <li class="list-inline-item"><a href="/jpn/case-study">Case Study</a></li>
+                    <li class="list-inline-item"><a href="/jpn/price">価格</a></li>
+                    <li class="list-inline-item"><a href="/jpn/demo">デモ</a></li>
+                    <li class="list-inline-item"><a href="https://www.logique.co.id/blog/category/dokodemo-kerja/" target="_blank" rel="noopener noreferrer">ブログ</a></li>
+                </ul>
+
+                <ul class="mb-0 list-inline footer__list">
+                    <li class="list-inline-item"><a href="/jpn/contact-us">問い合わせ</a></li>
+                    <li class="list-inline-item"><a href="/jpn/price#FAQ">よくある質問</a></li>
+                    <li class="list-inline-item"><a href="/subscribe">Subscribing Procedure</a></li>
+                    <li class="list-inline-item"><a href="/terms">Terms and Condition</a></li>
+                    <li class="list-inline-item"><a href="/privacy">Privacy Policy</a></li>
+                </ul>                
             </div>
-            <div class="col-lg-3 col-md-3">
-                <div class="footer-contact">
-                    <ul class="footer-menu-list">
-                        <li>
-                            <span class="footer-contact-item">
-                                <a target="_blank" href="https://www.instagram.com/dokodemokerja/">
-                                    <i class="fa fa-instagram footer-icon"></i>
-                                    <span>dokodemokerja</span>
-                                </a>
-                            </span>
-                        </li>
-                        <li>
-                            <span class="footer-contact-item">
-                                <a href="tel:02122708935">
-                                    <img src="/img/call.png" class="footer-icon" alt="">
-                                    <span>(021) 22708935/36</span>
-                                </a>
-                            </span>
-                        </li>
-                        <li class="text-nowrap">
-                            <span class="footer-contact-item">
-                                <a href="mailto:sales@dokodemo-kerja.com">
-                                    <img src="/img/mail.png" class="footer-icon" alt="">
-                                    <span>sales@dokodemo-kerja.com</span>
-                                </a>
-                            </span>
-                        </li>
-                        <li>
-                            <span class="footer-contact-item">
-                                <a href="https://api.whatsapp.com/send?phone=62811870321" target="_blank" rel="noopener noreferrer">
-                                    <img src="/img/whatsapp.png" class="footer-icon" alt="">
-                                    <span>0811-870-321</span>
-                                </a>
-                            </span>
-                        </li>
-                    </ul>
-                </div>
+            <div class="col-md-4 col-lg-3 text-center text-md-right">                
+                <a href="https://www.logique.co.id/" target="_blank" rel="noopener noreferrer" aria-label="Homepage Link">
+                    <img src="/img/lgq-white.png" class="img-fluid mb--30px logique-logo" alt="" />
+                </a>
+                <ul class="mb-0 list-inline footer__socmed">
+                    <li class="list-inline-item">
+                        <a href="tel:02122708935">
+                            <picture>
+                                <source srcset="/img/icon/icon-phone.svg">
+                                <img src="/img/icon/icon-phone.png" alt="logique contact" class="img-fluid">
+                            </picture>
+                        </a>
+                    </li>
+                    <li class="list-inline-item">
+                        <a href="mailto:sales@dokodemo-kerja.com">
+                            <picture>
+                                <source srcset="/img/icon/icon-email.svg">
+                                <img src="/img/icon/icon-email.png" alt="logique email" class="img-fluid">
+                            </picture>
+                        </a>
+                    </li>
+                    <li class="list-inline-item">
+                        <a href="https://api.whatsapp.com/send?phone=62811870321" target="_blank" rel="noopener noreferrer">
+                            <picture>
+                                <source srcset="/img/icon/icon-whatsapp.svg">
+                                <img src="/img/icon/icon-whatsapp.png" alt="logique whatsapp" class="img-fluid">
+                            </picture>
+                        </a>
+                    </li>
+                    <li class="list-inline-item">
+                        <a target="_blank" href="https://www.instagram.com/dokodemokerja/">
+                            <picture>
+                                <source srcset="/img/icon/icon-ig.svg">
+                                <img src="/img/icon/icon-ig.png" alt="logique instagram" class="img-fluid">
+                            </picture>
+                        </a>
+                    </li>
+                </ul>
             </div>
         </div>
-        <div class="row align-items-center">
-            <div class="col-lg-12 copyright-container">
+        <div class="row py-3 border-top border--l-blue">
+            <div class="col-12 fs-12 text-center">
                 &copy; <?php echo date("Y") ?> LOGIQUE Digital Indonesia, All Rights Reserved
             </div>
         </div>

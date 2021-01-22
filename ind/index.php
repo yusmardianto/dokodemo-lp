@@ -17,7 +17,7 @@
     <link rel="stylesheet" href="/css/slick-theme.css" />
     <link rel="stylesheet" href="/css/style-home.css" />    ';
 
-    include($_SERVER['DOCUMENT_ROOT'].'/component/header.php');
+    include($_SERVER['DOCUMENT_ROOT'].'/ind/component/header.php');
 ?>
     <div class="home">
 
@@ -347,7 +347,7 @@
             </div>
         </section>
 
-        <section class="color--blue pt--60px home__testimonial">
+        <section class="color--blue pt--60px home__testimonial" id="testimony">
             <div class="container">
                 <div class="mb-4 row">
                     <div class="col-md-6">

@@ -28,6 +28,9 @@ body {
     color: #505458;
     font-size: 17px;
 }
+body.jp-page {
+    font-family: 'M PLUS 1p', sans-serif;
+}
 /* HTML5 display-role reset for older browsers */
 article,
 aside,

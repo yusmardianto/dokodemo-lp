@@ -23,6 +23,10 @@
     transform: translate(-50%, -50%);
 }
 
+.jp-page .title--bg::before {
+    font-size: 65px;
+}
+
 .title--bg.title--bg-border:after {
     content: "";
     position: absolute;
@@ -276,9 +280,18 @@
 }
 
 /* responsive */
+@media (max-width: 1199.98px) {
+    .jp-page .title--bg::before {
+        font-size: 55px;
+    }
+}
+
 @media (max-width: 991.98px) {
     .title--bg::before {
         font-size: 70px;
+    }
+    .jp-page .title--bg::before {
+        white-space: nowrap;
     }
 
     /* feature */
