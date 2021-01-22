@@ -465,7 +465,7 @@
                     </div>
                     <div class="col-md-6">
                         <div class="bg--l-blue rounded-lg text-center schedule">
-                            <h5 class="font-weight-bold mb-4 fs-20">Schedule Online Meeting</h5>
+                            <h5 class="font-weight-bold mb-4 fs-20">Schedule Offline Meeting</h5>
                             <div class="row justify-content-center">
                                 <div class="col-md-8">
                                     <picture>
@@ -474,7 +474,7 @@
                                     </picture>
                                 </div>
                                 <div class="col-md-8">
-                                    <p class="my-4">Set up an online consultation with our team for a software demo</p>
+                                    <p class="my-4">Set up an offline consultation with our team for a software demo</p>
                                 </div>
                                 <div class="col-md-6">
                                     <button type="button" class="form-control btn btn--rounded bg--yellow" data-title="offline" data-toggle="modal" data-target="#meetingSchedule">
