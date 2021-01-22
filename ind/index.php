@@ -19,6 +19,7 @@
 
     include($_SERVER['DOCUMENT_ROOT'].'/ind/component/header.php');
 ?>
+
     <div class="home">
 
         <section class="pt-5 pb--70px color--blue home__banner">
@@ -404,6 +405,55 @@
                         <div class="p-3 rounded-lg slide-testi">
                             <h4 class="fs-20"><span class="font-weight-bold">Bobby Susanto</span> - <em class="fs-16">Programmer</em></h4>
                             <p class="fs-14">Saya tidak bisa bekerja secara on site karena ibu saya sakit. Saya kira, saya harus merelakan pekerjaan saya disaat-saat seperti ini. Namun, Dokodemo-Kerja dapat membantu saya untuk tetap bekerja profesional dengan sistem kerja remote.</p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <section class="color--blue py--60px home__schedule">
+            <div class="container">
+                <div class="row">
+                    <div class="col-md-6 mb-3 mb-md-0">
+                        <div class="bg--l-blue rounded-lg text-center schedule">
+                            <h5 class="font-weight-bold mb-4 fs-20">Schedule Online Meeting</h5>
+                            <div class="row justify-content-center">
+                                <div class="col-md-8">
+                                    <picture>
+                                        <source srcset="/img/home/schedule-online.svg">
+                                        <img src="/img/home/schedule-online.png" alt="online meeting" class="img-fluid">
+                                    </picture>
+                                </div>
+                                <div class="col-md-8">
+                                    <p class="my-4">Set up an online consultation with our team for a software demo</p>
+                                </div>
+                                <div class="col-md-6">
+                                    <button type="button" class="form-control btn btn--rounded bg--yellow" data-title="online" data-toggle="modal" data-target="#meetingSchedule">
+                                        Online
+                                    </button>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-md-6">
+                        <div class="bg--l-blue rounded-lg text-center schedule">
+                            <h5 class="font-weight-bold mb-4 fs-20">Schedule Online Meeting</h5>
+                            <div class="row justify-content-center">
+                                <div class="col-md-8">
+                                    <picture>
+                                        <source srcset="/img/home/schedule-offline.svg" type="image/">
+                                        <img src="/img/home/schedule-offline.png" alt="offline meeting" class="img-fluid">
+                                    </picture>
+                                </div>
+                                <div class="col-md-8">
+                                    <p class="my-4">Set up an online consultation with our team for a software demo</p>
+                                </div>
+                                <div class="col-md-6">
+                                    <button type="button" class="form-control btn btn--rounded bg--yellow" data-title="offline" data-toggle="modal" data-target="#meetingSchedule">
+                                        Offline
+                                    </button>
+                                </div>
+                            </div>
                         </div>
                     </div>
                 </div>
