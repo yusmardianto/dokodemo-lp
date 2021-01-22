@@ -91,8 +91,8 @@
                     <div class="col-md-6 mb-4 mb-lg-0">
                         <ul class="list-unstyled banner__list">
                             <li>Track tasks and calculate overall working hours.</li>
-                            <li>Track and record location via the Mobile Application.</li>
-                            <li>Manage and Analyze where and when users have worked.</li>
+                            <li>Randomly capture the work screen and then send it to the server. (The resolution is privacy-friendly).</li>
+                            <li>By using the smartphone application, it is easy to manage working hours and location (GPS tracking) on employees going outside of office.</li>
                         </ul>
                     </div>
                     <div class="col-md-6">
@@ -177,7 +177,7 @@
                         <div class="title--bg title--bg-border title--bg-border-left" data-title-bg="Features">                            
                             <h2 class="mt-3 mb-0 font-weight-bold fs-34">Features</h2>
                         </div>
-                        <p class="mb-4 fs-14">Employee working routines can be easily tracked, anywhere and at any time, through the inbuilt Random Screen Capture feature. Additionally, the Dokodemo-Kerja Mobile Application will be able to track and record when and where they have worked via GPS, allowing for greater employee flexibility, as well as making it easier for employers to manage their work schedules.</p>
+                        <p class="mb-4 fs-14">As with many other attendance management tools, employees will have to signal their start and stop working time. The difference is that you can verify that the recorded working hour is valid. By randomly capturing the screens of working users and saving them on a cloud server, you can understand whether they are doing actual work, playing games, watching Youtube, etc, where in turn can be used as a solid evidence to suppress or prevent the activities. We support efficient HR operations such as calculation of overtime hours, management of paid leave, task-based, department-based, daily, weekly, and monthly work time analysis.</p>
                         <div class="row justify-content-center justify-content-lg-start">
                             <div class="col-auto col-md-6">
                                 <a href="/features" class="form-control btn btn--rounded bg--yellow px-4">View More</a>
@@ -250,7 +250,7 @@
                             <div class="row justify-content-center align-items-center">
                                 <div class="col-md-8 col-lg-6 order-last order-md-first">
                                     <h4 class="fs-20 font-weight-bold">Universal Hiring</h4>
-                                    <p class="mb-0 fs-14">Employers can hire talented individuals from anywhere; even overseas.</p>
+                                    <p class="mb-0 fs-14">Employers will be able to hire and work with excellent human resources from all over the world, regardless of where the office is located.</p>
                                 </div>
                                 <div class="col-4 col-lg-6 mb-3 mb-lg-0 order-first order-md-last text-center">
                                     <picture>

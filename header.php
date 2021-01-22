@@ -41,7 +41,7 @@
     }
 ?>
 
-<nav class="navbar navbar-expand-lg navbar-light">
+<nav class="doko-header navbar navbar-expand-lg navbar-light">
     <div class="container">
         <a class="navbar-brand" href="/" aria-label="Back To Home">
             <img src="/img/dokodemo.svg" width="60" alt="">
@@ -51,7 +51,8 @@
             <span class="navbar-toggler-icon"></span>
         </button>
         <div class="collapse navbar-collapse" id="navbarNav">
-            <ul class="navbar-nav">
+            
+            <ul class="mb-3 mb-lg-0 navbar-nav text-center">
                 <li class="nav-item <?php active('') ?>">
                     <a class="nav-link" href="/">Home</a>
                 </li>
@@ -77,8 +78,8 @@
                 <li class="nav-item <?php active('contact-us') ?>">
                     <a class="nav-link" href="/contact-us">Contact Us</a>
                 </li>
-
             </ul>
+
             <div class="ml-auto">
                 <div class="d-flex justify-content-center switch-language">
                     <a href="/ind/<?php echo $page;?>">ID</a>
@@ -86,6 +87,7 @@
                     <a href="/jpn/<?php echo $page;?>">JP</a>
                 </div>
             </div>
+
         </div>
     </div>
 </nav>

@@ -5,10 +5,10 @@
                 <div class="row">
                     <div class="col-12 col-md-auto">
                         <div class="mr-auto text-center">
-                            <a href="#">
+                            <a href="/">
                                 <img src="/img/dokodemo.svg" width="60" alt="" class="mb-3">
+                                <p class="mb-0 fs-14 text-white">DOKODEMO - KERJA</p>
                             </a>
-                            <p class="mb-0 fs-14">DOKODEMO - KERJA</p>
                         </div>
                     </div>
                 </div>

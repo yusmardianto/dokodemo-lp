@@ -1,44 +1,44 @@
-.nav-item {
-  display: flex;
-  align-items: center;
+/* header */
+.doko-header .nav-item,
+.doko-header .nav-item .nav-link {
+  transition: all .15s ease-in-out;
 }
 
-.nav-item .nav-link {
-  text-align: center;
+.doko-header .nav-item {
+  background: linear-gradient(#ffca13,#ffca13) bottom/ 0 2px no-repeat;
 }
 
-.navbar .nav-item:hover,
-.navbar .nav-item.active {
-  background: linear-gradient(#ffca13,#ffca13) bottom/ 35% 2px no-repeat;
-}
-
-.nav-item:hover .nav-link,
-.nav-item.active .nav-link,
-.nav-item .nav-link.active {
-  color: #ffca13 !important;
-}
-
-.navbar-expand-lg .navbar-nav .nav-link {
-  padding: 5px 20px;
+.doko-header .nav-item .nav-link {
+  padding: 8px 20px;
   font-size: 14px;
   color: #000;
 }
 
-.navbar-expand-lg .navbar-nav.--jp .nav-link {
+.doko-header .--jp .nav-item .nav-link {
   padding: 5px 15px;
+}
+
+.doko-header .nav-item:hover,
+.doko-header .nav-item.active {
+  background-size: 35% 2px;
+}
+
+.doko-header .nav-item:hover .nav-link,
+.doko-header .nav-item.active .nav-link {
+  color: #ffca13;
 }
 
 /* switch language */
 .switch-language a {
-  color: #000;
-  text-decoration: underline transparent;
-  transition: color .15s ease-in-out;
   font-size: 14px;
+  padding: 5px 10px;
+  color: #000;
+  text-decoration: none;
+  transition: color .15s ease-in-out;
+  background: linear-gradient(#3b81bf,#3b81bf) bottom/70% 0 no-repeat;
 }
 
 .switch-language a:not(:last-child) {
-  padding-right: 10px;
-  margin-right: 10px;
   border-right: solid 1px;
 }
 
@@ -46,7 +46,8 @@
 .switch-language a.active {
   color: #3b81bf;
   border-color: #000;
-  text-decoration: underline #3b81bf;
+  background-size: 70% 2px;
+
 }
 
 /* footer */
@@ -70,7 +71,7 @@ footer .footer__list li a:hover {
 }
 
 footer .footer__socmed a img {
-  height: 25px;
+  height: 23px;
   transition: all .15s ease-in-out;
 }
 
@@ -82,84 +83,30 @@ footer .footer__socmed li:not(:last-child) {
   margin-right: 20px;
 }
 
-.logique-logo {
+footer .logique-logo {
   width: 125px;
   text-align: center;
   margin-top: 20px;
 }
 
 
-/* @media (min-width: 1200px) {
-  .navbar .container {
-    max-width: 1200px;
-  }
-} */
-
-@media screen and (max-width: 1199.98px) {
-  /* .navbar-brand,
-  .navbar-expand-lg .navbar-nav .nav-link {
-    padding: 5px 15px;
-    font-size: 14px;
-    color: #000;
-  }
-  .navbar-brand img {
-    width: 75px;
-    height: auto;
-  } */
-}
-
-
 @media (max-width: 991.98px) {
-  /* .logique-logo {
-    float: none;
-  } */
-  .navbar {
-    max-height: unset;
-    /* border-bottom: 1px solid #fdf0d1; */
-    padding-top: 10px;
-    padding-bottom: 10px;
-  }
-  .navbar-light .navbar-toggler {
-    color: rgba(0, 0, 0, 0.5);
-    border-color: rgba(0, 0, 0, 0.1);
-    background: #f0f0f0;
-  }
-  .navbar-brand,
-  .navbar-expand-lg .navbar-nav .nav-link {
-    text-align: center;
-    padding-right: 0 !important;
-    padding-left: 0 !important;
-  }
-  .nav-item {
-    display: block;
-  }
-  .navbar-nav {
-    margin-top: 10px;
-    margin-bottom: 10px;
+  /* header */
+  .doko-header .nav-item:hover,
+  .doko-header .nav-item.active {
+    background-size: 50px 2px;
   }
 }
 
 @media screen and (max-width: 767.98px) {
-  .navbar-expand-lg .navbar-nav .nav-link {
-    padding-right: 0;
-  }
-  .navbar {
-    border-bottom: 0px;
-  }
-  .navbar-toggler {
-    background-color: #f0f0f0;
-  }
-  .nav-item {
-    margin: 0 auto;
-  }
-  .navbar-nav {
-    margin-bottom: 20px;
+  /* header */
+  .doko-header .navbar-brand img {
+    width: 50px;
   }
 }
 
 @media screen and (max-width: 320px) {
-  .navbar-brand img {
-    width: 60px;
-    height: auto;
+  .doko-header .navbar-brand img {
+    width: 40px;
   }
 }
