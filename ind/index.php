@@ -1,13 +1,13 @@
 <?php 
     $page = '';
-    $page_title = 'Alat Absensi & Peningkat Produktivitas | Dokodemo-Kerja | LOGIQUE Indonesia';
+    $page_title = 'Aplikasi Absensi Online Terbaik Untuk Kerja Remote | Dokodemo Kerja';
 
-    $meta_description = 'Dokodemo-Kerja memungkinkan karyawan untuk melihat kehadiran dan pekerjaan mereka dengan cara yang  privacy-friendly, dan juga memberikan kebebasan kepada karyawan untuk bekerja di mana pun dan kapan pun, yang berkontribusi pada peningkatan produktivitas.';
+    $meta_description = 'Dokodemo-Kerja: Aplikasi absensi online terbaik untuk sistem kerja remote / kerja jarak jauh. Aplikasi management HR yang mampu meningkatkan kinerja karyawan saat WFH.';
     $meta_keyword = 'Dokodemo-Kerja, strategi HR, kerja remote, jam kerja karyawan, jadwal kerja';
 
-    $og_title = 'Alat Absensi & Peningkat Produktivitas | Dokodemo-Kerja';
+    $og_title = 'Aplikasi Absensi Online Terbaik Untuk Kerja Remote | Dokodemo Kerja';
     $og_image = 'https://dokodemo-kerja.com/img/og-img/index.jpg';
-    $og_desription = 'Dokodemo-Kerja adalah alat cloud yang dikembangkan di Indonesia yang memungkinkan Anda kehadiran untuk melihat kehadiran dan rincian kerja karyawan dengan tepat dan ramah privasi.';
+    $og_desription = 'Dokodemo-Kerja: Aplikasi absensi online terbaik untuk sistem kerja remote / kerja jarak jauh. Aplikasi management HR yang mampu meningkatkan kinerja karyawan saat WFH.';
 
     $canonical_link = 'https://dokodemo-kerja.com/ind/';
 
@@ -67,11 +67,11 @@
                         </picture>
                     </div>
                     <div class="col-12 order-last">
-                        <div class="mt--30px mb--70px py--20px px--30px bg--l-blue border--blue rounded-lg shadow--blue">
+                        <div class="mt--30px mb-5 py--20px px--30px bg--l-blue border--blue rounded-lg shadow--blue">
                             <div class="row align-items-center">
                                 <div class="col-md-8 col-lg-6">
                                     <p class="mb-md-0 text-justify text-md-left">
-                                        Dapatkan jam kerja karyawan secara akurat, dimanapun mereka bekerja. Dokodemo-Kerja versi 2.0 mempunyai fungsi GPS yang mencatat sejarah lokasi di aplikasi handphone. Mari Inovasikan cara kita bekerja!
+                                    Sejak Versi 2.0, fungsi pelacakan GPS juga telah diterapkan aplikasi handphone, sehingga memungkinkan untuk mengelola kondisi kerja sebenarnya dari staf yang sering keluar.
                                     </p>
                                 </div>
                                 <div class="col-md-4 col-lg-6 text-center">
@@ -84,6 +84,7 @@
                                 </div>
                             </div>
                         </div>
+                        <p class="mb--70px text-center">Dokodemo-Kerja adalah alat manajemen kehadiran & manajemen kerja jarak jauh yang memungkinkan untuk mewujudkan gaya kerja flesksibel yang bermanfaat bagi perusahaan dan karyawan dengan mencatat jam kerja dan isi pekerjaan kapan saja, di mana saja. Hal ini akan memungkinkan untuk mengatur jam kerja secara akurat, dan perhitungan jam lembur dan jumlah cuti akan disederhanakan. Dengan adanya fungsi mengambil dan mengelola tangkapan layar pada saat bekerja, Anda dapat mencegah prilaku yang tidak sesuai selama jam kerja.</p>
                     </div>
                 </div>
                 <div class="row align-items-center">
@@ -191,7 +192,7 @@
             <div class="container">
 
                 <div class="row align-items-end benefit__description">
-                    <div class="col-md-6 mb--20px">   
+                    <div class="col-md-6 mb-3 mb-md-5">   
                         <div class="color--blue">
                             <div class="title--bg title--bg-border title--bg-border-right" data-title-bg="Benefit">                            
                                 <h2 class="mb-0 font-weight-bold fs-34">Benefit</h2>
@@ -199,7 +200,7 @@
                             <p class="mb-0 fs-14">Perusahaan anda dapat menerapkan strategi-strategi HR yang lebih inovatif dan fleksibel, yang dapat meningkatkan kinerja total perusahaan anda sekaligus memberikan nilai positif bagi kesejahteraan karyawan. Dengan memberikan karyawan pilihan untuk kerja secara remote dan jam kerja yang fleksibel, maka akan membantu mereka untuk menemukan lingkungan kerja mereka yang paling kondusif dan di saat yang sama meningkatkan kinerja. Adanya jam kerja yang tercatat akan membantu perusahaan untuk membuat evaluasi yang lebih adil. Banyak manfaat lain yang bisa didapatkan oleh perusahaan dan karyawan di antaranya :</p>
                         </div>                     
                     </div>
-                    <div class="col-md-6 mb--20px description__image">
+                    <div class="col-md-6 mb-5 description__image">
                         <div class="bg--l-blue shadow--blue p-3 rounded-lg">
                             <picture>
                                 <source srcset="/img/home/benefit-image.webp" type="image/webp">

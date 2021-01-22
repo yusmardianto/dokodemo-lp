@@ -9,58 +9,28 @@
 	$config = include('../config/app.php');
 
 	require '../action/c-contact-us.php';
-
-	$page = 'contact-us';
 ?>
 
-<!DOCTYPE html>
-<html lang="id">
+<?php 
+    $page = 'contact-us';
+    $page_title = 'Kontak Kami | Aplikasi Absensi Online | Dokodemo Kerja';
 
-<head>
-	<meta charset="UTF-8" />
-	<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=5.0" />
-	<meta http-equiv="X-UA-Compatible" content="ie=edge" />
-	<meta name="description" itemprop="description" content="Untuk pertanyaan tentang alat manajemen kehadiran, Dokodemo-Kerja, silakan gunakan halaman ini. Dokodemo-Kerja dikembangkan oleh  perusahaan digital Indonesia, LOGIQUE. Produk ini akan menunjukkan efek langsung dengan harga yang wajar. ">
-    <meta name="keywords" content="dokodemo, dokodemo-kerja, program perusahaan, program pemantauan, alat pelaporan, uji coba gratis, email dokodemo, bantuan dokodemo, kontak dokodemo, penjualan dokodemo, pemasaran dokodemo, pelatihan permintaan, kenali karyawan Anda, alat startup, logique person contact person, kontak dokodemo orang, apa itu dokodemo, apa itu kerja jarak jauh">
-    <meta name="author" content="PT. LOGIQUE Digital Indonesia">
-	<meta name="google-site-verification" content="Xc9SFJQZdKYLsrWvrxEjLLTA-nyrnNPQTXQoMxs4gKI" />
-	<meta property="og:title" content="Employee Management Tool Dokodemo-Kerja">
-    <meta property="og:type" content="website">
-    <meta property="og:site_name" content="Dokodemo-Kerja">
-    <meta property="og:url" content="https://dokodemo-kerja.com">
-    <meta property="og:image" content="https://dokodemo-kerja.com/img/og-img/contact-us.jpg">
-    <meta property="og:description" content="Untuk pertanyaan tentang alat manajemen kehadiran, Dokodemo-Kerja, silakan kirimkan pertanyaan Anda dari halaman ini. Dokodemo-Kerja dikembangkan oleh perusahaan pengembang Indonesia, LOGIQUE.">
-    <link rel="canonical" href="https://dokodemo-kerja.com/ind/contact-us">
-	<link rel="stylesheet" href="/css/bootstrap.min.css" />
-	<link href="/fonts/font-awesome/css/font-awesome.min.css" rel="stylesheet">
-	<link rel="stylesheet" href="/css/header-footer.css" />
-	<link rel="stylesheet" href="/css/style.css" />
-	<link rel="shortcut icon" type="image/x-icon" href="favicon.ico">
-	<title>Alat Pengelola Karyawan Dokodemo-Kerja | LOGIQUE Digital Indonesia</title>
-    <script src="https://www.googleoptimize.com/optimize.js?id=OPT-P232K37"></script>
-	<!-- Google Tag Manager -->
-	<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
-	new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
-	j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
-	'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
-	})(window,document,'script','dataLayer','GTM-WT4MCDL');</script>
-	<!-- Facebook Pixel Code -->
-	<script> !function(f,b,e,v,n,t,s) {if(f.fbq)return;n=f.fbq=function(){n.callMethod? n.callMethod.apply(n,arguments):n.queue.push(arguments)}; if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0'; n.queue=[];t=b.createElement(e);t.async=!0; t.src=v;s=b.getElementsByTagName(e)[0]; s.parentNode.insertBefore(t,s)}(window, document,'script', 'https://connect.facebook.net/en_US/fbevents.js'); fbq('init', '713777762291663'); fbq('track', 'PageView');</script>
-	<noscript><img height="1" width="1" style="display:none"
-	  src="https://www.facebook.com/tr?id=713777762291663&ev=PageView&noscript=1"
-	/></noscript>
-	<!-- End Facebook Pixel Code -->
-	<!-- Global site tag (gtag.js) - Google Analytics -->
-	<script async src="https://www.googletagmanager.com/gtag/js?id=UA-146404615-1"></script>
-	<script> window.dataLayer=window.dataLayer || []; function gtag(){dataLayer.push(arguments)} gtag('js', new Date()); gtag('config', 'UA-146404615-1');</script>
-</head>
+    $meta_description = 'Informasi lengkap mengenai aplikasi absensi online terbaik, Dokodemo-Kerja bisa Anda dapatkan dengan menghubungi kontak kami berikut ini. Kami siap untuk berdiskusi dengan Anda.';
+    $meta_keyword = '';
 
-<body class="not-home">
-<!-- Google Tag Manager (noscript) -->
-<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-WT4MCDL"
-height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
-<!-- End Google Tag Manager (noscript) -->
-	<?php include 'header.php' ?>
+    $og_title = 'Kontak Kami | Aplikasi Absensi Online | Dokodemo Kerja';
+    $og_image = 'dokodemo, dokodemo-kerja, program perusahaan, program pemantauan, alat pelaporan, uji coba gratis, email dokodemo, bantuan dokodemo, kontak dokodemo, penjualan dokodemo, pemasaran dokodemo, pelatihan permintaan, kenali karyawan Anda, alat startup, logique person contact person, kontak dokodemo orang, apa itu dokodemo, apa itu kerja jarak jauh';
+    $og_desription = 'Informasi lengkap mengenai aplikasi absensi online terbaik, Dokodemo-Kerja bisa Anda dapatkan dengan menghubungi kontak kami berikut ini. Kami siap untuk berdiskusi dengan Anda.';
+
+    $canonical_link = 'https://dokodemo-kerja.com/ind/contact-us';
+
+    $add_css = '<link href="https://cdnjs.cloudflare.com/ajax/libs/select2/4.0.7/css/select2.min.css" rel="stylesheet" />';
+
+    include($_SERVER['DOCUMENT_ROOT'].'/ind/component/header.php');
+?>
+
+<div class="">
+
 	<section class="contact-top text-center">
 		<div class="container">
 			<div class="row contact-resp-settings">
@@ -74,7 +44,9 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 			</div>
 		</div>
 	</section>
+
 	<br /><br />
+
 	<div class="container dokodemo-customoption">
 		<div class="row">
 			<div class="col-md-8 offset-md-2 contact-resp-settings">
@@ -182,36 +154,26 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 			We will come back to you within 2 Indonesian working days
 		</div><br /> -->
 	</div>
+	
 	<br />
-	<?php include 'footer.php' ?>
-	<script src="/js/jquery-3.4.1.min.js"></script>
-	<script src="/js/bootstrap.min.js"></script>
-	<link href="https://cdnjs.cloudflare.com/ajax/libs/select2/4.0.7/css/select2.min.css" rel="stylesheet" />
-	<script src="https://cdnjs.cloudflare.com/ajax/libs/select2/4.0.7/js/select2.min.js"></script>
-    <script src="/js/jquery.countdown.min.js"></script>
-    <script src="/js/seminar-banner/seminar-banner.js?v=1.1"></script>
-	<script>
 
-		document.getElementById("submit-btn-id").disabled = true;
-		function enableBtn(){
-			document.getElementById("submit-btn-id").disabled = false;
-		}
+</div>
 
-		$(document).ready(function() {
-			$('.contact-select').select2();
-			$('#submit-btn-id').attr('disabled', true);
-		});
-	</script>
-	<script>
-        var element = document.getElementById("popup-text");
+<?php 
+	$add_js = '<script src="https://cdnjs.cloudflare.com/ajax/libs/select2/4.0.7/js/select2.min.js"></script>';
+	include($_SERVER['DOCUMENT_ROOT'].'/ind/component/footer.php'); 
+?>
+<script>
 
-        var t=setTimeout(openPopUp,5000);
-        function openPopUp() {
-        element = document.getElementById("popup-text");
-        element.style.visibility = "visible";
-        element.style.opacity = "1";
-        }
-    </script>
-</body>
+	document.getElementById("submit-btn-id").disabled = true;
+	function enableBtn(){
+		document.getElementById("submit-btn-id").disabled = false;
+	}
 
-</html>
+	$(document).ready(function() {
+		$('.contact-select').select2();
+		$('#submit-btn-id').attr('disabled', true);
+	});
+
+</script>
+<?php include($_SERVER['DOCUMENT_ROOT'].'/component/footer-end.php') ?>

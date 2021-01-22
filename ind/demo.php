@@ -10,51 +10,28 @@ $config = include('../config/app.php');
 
 require '../action/c-trial.php';
 
-$page = 'demo';
 ?>
 
-<!DOCTYPE html>
-<html lang="id">
+<?php 
+    $page = 'demo';
+    $page_title = 'Cara Kerja & Cara Menggunakan Aplikasi Dokodemo-Kerja | Demo';
 
-<head>
-	<meta charset="UTF-8" />
-	<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=5.0" />
-	<meta http-equiv="X-UA-Compatible" content="ie=edge" />
-	<meta name="description" itemprop="description" content="Anda dapat memeriksa demo alat manajemen kehadiran Dokodemo-Kerja di sini. Dengan menggunakan Dokodemo-Kerja, Anda dapat langsung memperkenalkan sistem kerja jarak jauh dan perhitungan  jam kerja. Ini bukan hanya alat untuk mengelola karyawan, tetapi juga alat untuk karyawan. Ideal untuk digunakan di Indonesia.">
-	<meta name="keywords" content="menyingkirkan karyawan yang berkinerja buruk, menyingkirkan karyawan yang malas, meningkatkan produktifitas, uji coba dokodemo, dokodemo gratis, alat jam gratis, alat manajemen gratis, alat bisnis kecil, alat anggaran rendah, alat anggaran rendah, alat manajemen anggaran rendah, alat manajemen anggaran rendah, pelacak waktu gratis, pelacak waktu karyawan gratis, pelacak jam kerja gratis, pelacak tangkapan layar, tangkapan layar perangkat lunak monitor karyawan murah">
-	<meta name="author" content="PT. LOGIQUE Digital Indonesia">
-	<meta name="google-site-verification" content="Xc9SFJQZdKYLsrWvrxEjLLTA-nyrnNPQTXQoMxs4gKI" />
-	<meta property="og:title" content="Attendance management tool Dokodemo-Kerja demo">
-    <meta property="og:type" content="website">
-    <meta property="og:site_name" content="Dokodemo-Kerja">
-    <meta property="og:url" content="https://dokodemo-kerja.com">
-    <meta property="og:image" content="https://dokodemo-kerja.com/img/dokodemo-og.jpg">
-    <meta property="og:description" content="Anda dapat memeriksa demo alat manajemen kehadiran Dokodemo-Kerja di sini. Dengan menggunakan Dokodemo-Kerja, Anda dapat langsung memperkenalkan sistem penghitungan jam kerja dan kerja jarak jauh. Sangat cocok untuk digunakan di Indonesia.">
-    <link rel="canonical" href="https://dokodemo-kerja.com/ind/demo">
-	<link rel="stylesheet" href="/css/bootstrap.min.css" />
-	<link href="/fonts/font-awesome/css/font-awesome.min.css" rel="stylesheet">
-	<link rel="stylesheet" href="/css/header-footer.css" />
-	<link rel="stylesheet" href="/css/style.css" />
-	<link rel="stylesheet" href="/css/style-trial.css" />
-	<link rel="shortcut icon" type="image/x-icon" href="favicon.ico">
-	<title>Attendance Management Tool Dokodemo-Kerja Demo | LOGIQUE Digital Indonesia</title>
-    <script src="https://www.googleoptimize.com/optimize.js?id=OPT-P232K37"></script>
-	<!-- Google Tag Manager -->
-	<script>(function(w, d, s, l, i){w[l]=w[l] || [];w[l].push({'gtm.start':new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],j=d.createElement(s),dl=l !='dataLayer' ? '&l=' + l :'';j.async=true;j.src='https://www.googletagmanager.com/gtm.js?id=' + i + dl;f.parentNode.insertBefore(j, f)})(window, document, 'script', 'dataLayer', 'GTM-WT4MCDL');</script>
-	<!-- Facebook Pixel Code -->
-	<script>! function(f, b, e, v, n, t, s){if (f.fbq) return;n=f.fbq=function(){n.callMethod ?n.callMethod.apply(n, arguments) :n.queue.push(arguments)};if (!f._fbq) f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';n.queue=[];t=b.createElement(e);t.async=!0;t.src=v;s=b.getElementsByTagName(e)[0];s.parentNode.insertBefore(t, s)}(window, document, 'script','https://connect.facebook.net/en_US/fbevents.js');fbq('init', '713777762291663');fbq('track', 'PageView');</script>
-	<noscript><img height="1" width="1" style="display:none" src="https://www.facebook.com/tr?id=713777762291663&ev=PageView&noscript=1" /></noscript>
-	<!-- End Facebook Pixel Code -->
-	<!-- Global site tag (gtag.js) - Google Analytics -->
-	<script async src="https://www.googletagmanager.com/gtag/js?id=UA-146404615-1"></script>
-	<script>window.dataLayer=window.dataLayer || []; function gtag(){dataLayer.push(arguments);}gtag('js', new Date()); gtag('config', 'UA-146404615-1');</script>
-</head>
+    $meta_description = 'Aplikasi Kerja Online dari Rumah, Dokodemo-Kerja dapat Anda gunakan secara gratis dalam bentuk demo. Unduh sekarang dan optimalkan potensimu melalui aplikasi ini.';
+    $meta_keyword = 'menyingkirkan karyawan yang berkinerja buruk, menyingkirkan karyawan yang malas, meningkatkan produktifitas, uji coba dokodemo, dokodemo gratis, alat jam gratis, alat manajemen gratis, alat bisnis kecil, alat anggaran rendah, alat anggaran rendah, alat manajemen anggaran rendah, alat manajemen anggaran rendah, pelacak waktu gratis, pelacak waktu karyawan gratis, pelacak jam kerja gratis, pelacak tangkapan layar, tangkapan layar perangkat lunak monitor karyawan murah';
 
-<body class="not-home">
-	<!-- Google Tag Manager (noscript) -->
-	<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-WT4MCDL" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
-	<!-- End Google Tag Manager (noscript) -->
-	<?php include 'header.php' ?>
+    $og_title = 'Demo Aplikasi Kerja Online Dari Rumah | Dokodemo Kerja';
+    $og_image = 'https://dokodemo-kerja.com/img/dokodemo-og.jpg';
+    $og_desription = 'Aplikasi Kerja Online dari Rumah, Dokodemo-Kerja dapat Anda gunakan secara gratis dalam bentuk demo. Unduh sekarang dan optimalkan potensimu melalui aplikasi ini.';
+
+    $canonical_link = 'https://dokodemo-kerja.com/ind/demo';
+
+    $add_css = '<link rel="stylesheet" href="/css/style-trial.css" />';
+
+    include($_SERVER['DOCUMENT_ROOT'].'/ind/component/header.php');
+?>
+
+<div class="">
+
 	<section class="intro-section text-center px-4">
 		<h1 class="banner-text-white">Coba Demo Gratis Dulu</h1>
 		<img src="/img/home/arrow-down.svg" class="pt-4 pb-3" width="20" alt=""/>
@@ -63,6 +40,7 @@ $page = 'demo';
 			<p class="trial-header-content">Untuk mencoba versi staff, silahkan ikut instruksi dibawah</p>
 		</a>
 	</section>
+
 	<section id="trial-content">
 		<div class="container">
 			<div class="row mt-5 mb-5">
@@ -471,36 +449,20 @@ $page = 'demo';
 			</div>
 		</div>
 	</section>
-	
-	<?php include 'footer.php' ?>
-	<script src="/js/jquery-3.4.1.min.js"></script>
-	<script src="/js/bootstrap.min.js"></script>
-    <script src="/js/jquery.countdown.min.js"></script>
-    <script src="/js/seminar-banner/seminar-banner.js?v=1.1"></script>
-	<script>
-		document.getElementById("submit-btn-trial").disabled = true;
 
-		function enableBtnTrial() {
-			document.getElementById("submit-btn-trial").disabled = false;
-		}
-	</script>
-	<script>
-        var element = document.getElementById("popup-text");
+</div>
 
-        var t=setTimeout(openPopUp,5000);
-        function openPopUp() {
-        element = document.getElementById("popup-text");
-        element.style.visibility = "visible";
-        element.style.opacity = "1";
-        }
-    </script>
-		<script>
-        setTimeout(function() {
-            $('#myModal').modal();
-        }, 4000);
-    </script>
-	<!-- set border based on active tab -->
-	<script>
+<?php include($_SERVER['DOCUMENT_ROOT'].'/ind/component/footer.php'); ?>
+<script>
+	document.getElementById("submit-btn-trial").disabled = true;
+
+	function enableBtnTrial() {
+		document.getElementById("submit-btn-trial").disabled = false;
+	}
+</script>
+<script>
+	$(function() {		
+		// set border based on active tab
 		$('.trial-tab').click(function(e) {
 			setTimeout(() => {
 				var tab_active, tab_position;
@@ -516,7 +478,6 @@ $page = 'demo';
 				}
 			}, 5);
 		})
-	</script>
-</body>
-
-</html>
+	})
+</script>
+<?php include($_SERVER['DOCUMENT_ROOT'].'/component/footer-end.php') ?>

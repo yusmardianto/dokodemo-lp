@@ -1,13 +1,13 @@
 <?php 
     $page = '';
-    $page_title = 'Attendance management & productivity improvement tool | Dokodemo-Kerja | LOGIQUE Indonesia';
+    $page_title = 'Attendance Management & Remote Working System in Indonesia';
 
-    $meta_description = 'Dokodemo-Kerja allows employees to properly understand their attendance and work content in a privacy-friendly manner, and also gives employees the freedom to work wherever and whenever, which contributes to productivity improvement. Win-win personnel management cloud tool. A product developed in Indonesia.';
+    $meta_description = 'Dokodemo-Kerja is an Indonesian based attendance management and remote work hr tool, which improves productivity & gives employee’s the freedom to work anywhere.';
     $meta_keyword = 'dokodemo, dokodemo-kerja, dokodemo kerja, work everywhere, work whenever, work wherever, project management tool, project management software, human resource tool, human resource software, monitoring software, monitoring tool, monitor desktop, monitor with privacy, low res monitoring, low resolution monitoring, time tracker, logique product, pt logique';
 
-    $og_title = 'Attendance Management & Productivity Tools | Dokodemo-Kerja';
+    $og_title = 'Attendance Management & Productivity Tool | Dokodemo-Kerja';
     $og_image = 'https://dokodemo-kerja.com/img/og-img/index.jpg';
-    $og_desription = 'Dokodemo-Kerja is a cloud tool developed in Indonesia that enables you to properly grasp the attendance and work contents of employees in a privacy-friendly manner.';
+    $og_desription = 'Dokodemo-Kerja is a cloud based HR tool developed by LOGIQUE | Better attendance and work outcomes from employees in a privacy-friendly manner.';
 
     $canonical_link = 'https://dokodemo-kerja.com/';
 
@@ -68,11 +68,11 @@
                         </picture>
                     </div>
                     <div class="col-12 order-last">
-                        <div class="mt--30px mb--70px py--20px px--30px bg--l-blue border--blue rounded-lg shadow--blue">
+                        <div class="mt--30px mb-5 py--20px px--30px bg--l-blue border--blue rounded-lg shadow--blue">
                             <div class="row align-items-center">
                                 <div class="col-md-8 col-lg-6">
                                     <p class="mb-md-0 text-justify text-md-left">
-                                        Accurately track employee working hours, no matter where they are. Dokodemo-Kerja ver 2.0 also has a GPS location record feature in its mobile application. Let’s innovate the way we work!
+                                    Since Version 2.0, the GPS track function has also been implemented in the mobile application, so it is possible to manage the actual working conditions of staff who often go out.
                                     </p>
                                 </div>
                                 <div class="col-md-4 col-lg-6 text-center">
@@ -85,6 +85,7 @@
                                 </div>
                             </div>
                         </div>
+                        <p class="mb--70px text-center">Dokodemo-Kerja is both an attendance management & remote work management tool that enables a flexible work styles that are beneficial to both the company and employees by recording the hours worked and its content no matter where or when you work. Since it is able manage work hours accurately, it makes the calculation of overtime hours and the number of paid leave to be more efficient. Also, by taking and managing screen captures during the work session, prevent slacking during working hours can be prevented.</p>
                     </div>
                 </div>
                 <div class="row align-items-center">
@@ -192,7 +193,7 @@
             <div class="container">
 
                 <div class="row align-items-end benefit__description">
-                    <div class="col-md-6 mb--20px">   
+                    <div class="col-md-6 mb-3 mb-md-5">   
                         <div class="color--blue">
                             <div class="title--bg title--bg-border title--bg-border-right" data-title-bg="Benefit">                            
                                 <h2 class="mb-0 font-weight-bold fs-34">Benefit</h2>
@@ -200,7 +201,7 @@
                             <p class="mb-0 fs-14">Your company will be able to implement innovative and flexible HR strategies, strengthening the overall output of your work force, while enhancing your staff’s wellbeing. Allowing employees to work remotely grants them flexible working hours, giving them the chance to work in a comfortable environment suited to them, while at the same time increasing productivity and improving upon practical management strategies which allow for the fair evaluation of staff. Overall, the advantages are many, for both the Company and Employees alike. These include:</p>
                         </div>                     
                     </div>
-                    <div class="col-md-6 mb--20px description__image">
+                    <div class="col-md-6 mb-5 description__image">
                         <div class="bg--l-blue shadow--blue p-3 rounded-lg">
                             <picture>
                                 <source srcset="/img/home/benefit-image.webp" type="image/webp">

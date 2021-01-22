@@ -67,11 +67,11 @@
                     </picture>
                 </div>
                 <div class="col-12 order-last">
-                    <div class="mt--30px mb--70px py--20px px--30px bg--l-blue border--blue rounded-lg shadow--blue">
+                    <div class="mt--30px mb-5 py--20px px--30px bg--l-blue border--blue rounded-lg shadow--blue">
                         <div class="row align-items-center">
                             <div class="col-md-8 col-lg-6">
                                 <p class="mb-md-0 text-justify text-md-left">
-                                どこでも、何時でも、働いた時間と作業内容を記録することで、会社と従業員の双方にメリットのあるリモートワークを可能とします。<br>Version 2.0からはGPSトラック機能も実装しましたので、外出が多いスタッフの勤務実態も管理可能となりました。
+                                Version 2.0からはGPSトラック機能も実装しましたので、外出が多いスタッフの勤務実態も管理可能となりました。
                                 </p>
                             </div>
                             <div class="col-md-4 col-lg-6 text-center">
@@ -84,6 +84,7 @@
                             </div>
                         </div>
                     </div>
+                    <p class="mb--70px text-center">どこでも、何時でも、働いた時間と作業内容を記録することで、会社と従業員の双方にメリットのある働き方を実現可能とする勤怠管理＆リモートワーク管理ツールです。正確に勤務時間を管理可能になり、残業時間や有給消化数の計算などが効率化されます。スクリーンキャプチャを取得して管理することで勤務時間中のさぼりを抑止します。</p>
                 </div>
             </div>
             <div class="row align-items-center">
@@ -191,7 +192,7 @@
         <div class="container">
 
             <div class="row align-items-end benefit__description">
-                <div class="col-md-6 mb--20px">   
+                <div class="col-md-6 mb-3 mb-md-5">   
                     <div class="color--blue">
                         <div class="title--bg title--bg-border title--bg-border-right" data-title-bg="使用するメリット">                            
                             <h2 class="mb-0 font-weight-bold fs-34">使用するメリット</h2>
@@ -199,7 +200,7 @@
                         <p class="mb-0 fs-14">Dokodemo-Kerjaをご利用いただくことにより、柔軟なHRルールを適用することが可能になります。いつでも、どこでも働けるルールを適用可能です。リモートワーカーだけに限らず、オフィスで働く従業員にも適用することで、労働時間不足、働き過ぎを把握でき、労働中に業務に関係ないことをしていないか知ることができます。従業員の働き方を可視化することで更に生産性を上げるためのHRルールの最適化が行えます。</p>
                     </div>                     
                 </div>
-                <div class="col-md-6 mb--20px description__image">
+                <div class="col-md-6 mb-5 description__image">
                     <div class="bg--l-blue shadow--blue p-3 rounded-lg">
                         <picture>
                             <source srcset="/img/home/benefit-image.webp" type="image/webp">
