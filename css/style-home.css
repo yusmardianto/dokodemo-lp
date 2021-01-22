@@ -118,6 +118,14 @@
     object-fit: cover;
 }
 
+/* benefit */
+.home .home__benefit .benefit__description .description__image img {
+    height: 230px;
+    width: 100%;
+    object-fit: cover;
+    box-shadow: 0 0 0 1px #3b81bf;
+}
+
 /* case study */
 .home .home__case-study {
     background-image: url("/img/home/home-case-study-bg.png");

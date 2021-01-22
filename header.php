@@ -51,7 +51,7 @@
             <span class="navbar-toggler-icon"></span>
         </button>
         <div class="collapse navbar-collapse" id="navbarNav">
-            
+
             <ul class="mb-3 mb-lg-0 navbar-nav text-center">
                 <li class="nav-item <?php active('') ?>">
                     <a class="nav-link" href="/">Home</a>
@@ -83,7 +83,7 @@
             <div class="ml-auto">
                 <div class="d-flex justify-content-center switch-language">
                     <a href="/ind/<?php echo $page;?>">ID</a>
-                    <a class="active" href="/">EN</a>
+                    <a href="#" class="active">EN</a>
                     <a href="/jpn/<?php echo $page;?>">JP</a>
                 </div>
             </div>

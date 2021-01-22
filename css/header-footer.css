@@ -39,7 +39,7 @@
 }
 
 .switch-language a:not(:last-child) {
-  border-right: solid 1px;
+  border-right: solid 2px;
 }
 
 .switch-language a:hover,

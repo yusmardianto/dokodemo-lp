@@ -191,7 +191,7 @@
         <section class="py--70px home__benefit">
             <div class="container">
 
-                <div class="row align-items-end">
+                <div class="row align-items-end benefit__description">
                     <div class="col-md-6 mb--20px">   
                         <div class="color--blue">
                             <div class="title--bg title--bg-border title--bg-border-right" data-title-bg="Benefit">                            
@@ -200,13 +200,12 @@
                             <p class="mb-0 fs-14">Your company will be able to implement innovative and flexible HR strategies, strengthening the overall output of your work force, while enhancing your staff’s wellbeing. Allowing employees to work remotely grants them flexible working hours, giving them the chance to work in a comfortable environment suited to them, while at the same time increasing productivity and improving upon practical management strategies which allow for the fair evaluation of staff. Overall, the advantages are many, for both the Company and Employees alike. These include:</p>
                         </div>                     
                     </div>
-                    <div class="col-md-6 mb--20px">
+                    <div class="col-md-6 mb--20px description__image">
                         <div class="bg--l-blue shadow--blue p-3 rounded-lg">
                             <picture>
-                                <source srcset="" type="image/">
-                                <img src="" alt="" class="img-fluid">
+                                <source srcset="/img/home/benefit-image.webp" type="image/webp">
+                                <img src="/img/home/benefit-image.jpg" alt="benefit dokodemo" class="img-fluid rounded-lg">
                             </picture>
-                            Lorem ipsum dolor sit amet consectetur adipisicing elit. Illo repellendus pariatur ratione tempora vitae atque. Illum saepe expedita ducimus possimus at esse provident, ea temporibus quidem alias officiis pariatur nesciunt.
                         </div>
                     </div>
                 </div>
