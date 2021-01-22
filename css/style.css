@@ -818,12 +818,12 @@ input[type="time"]::-webkit-calendar-picker-indicator {
 
 .modal-body__input input.border--blue,
 .modal-body__input textarea.border--blue {
-    border-color: #c0c0c0;
+    border-color: #c0c0c0 !important;
 }
 
 .modal-body__input:focus-within input.border--blue,
 .modal-body__input:focus-within textarea.border--blue {
-    border-color: #194f86;
+    border-color: #194f86 !important;
 }
 
 .modal-body .modal-body__input .input--time-step .btn.bg--blue {
