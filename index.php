@@ -294,7 +294,7 @@
                         </div> 
                     </div>
                     <div class="col-auto col-md-4">
-                        <a href="/features" class="form-control btn btn--rounded bg--yellow px-4">Learn More</a>
+                        <a href="/features" class="form-control btn btn--rounded bg--yellow px-4">Find out more about features in Dokodemo-Kerja</a>
                     </div>
 
                 </div>
@@ -488,7 +488,7 @@
             </div>
         </section>
 
-        <section class="news-list-container">
+        <section class="mb--20px news-list-container">
             <div class="container">
                 <div class="newscontainer">
                     <div class="row justify-content-md-center">

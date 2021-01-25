@@ -19,6 +19,7 @@
 
     include($_SERVER['DOCUMENT_ROOT'].'/jpn/component/header.php');
 ?>
+
 <div class="home">
 
     <section class="pt-5 pb--70px color--blue home__banner">
@@ -293,7 +294,7 @@
                     </div> 
                 </div>
                 <div class="col-auto col-md-4">
-                    <a href="/jpn/features" class="form-control btn btn--rounded bg--yellow px-4">もっと詳しくみる</a>
+                    <a href="/jpn/features" class="form-control btn btn--rounded bg--yellow px-4">Dokodemo-Kerjaの機能をもっと詳しくみる</a>
                 </div>
 
             </div>
