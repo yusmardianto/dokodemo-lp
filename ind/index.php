@@ -72,7 +72,7 @@
                             <div class="row align-items-center">
                                 <div class="col-md-8 col-lg-6">
                                     <p class="mb-md-0 text-justify text-md-left">
-                                    Sejak Versi 2.0, fungsi pelacakan GPS juga telah diterapkan aplikasi handphone, sehingga memungkinkan untuk mengelola kondisi kerja sebenarnya dari staf yang sering keluar.
+                                    Sejak Versi 2.0, aplikasi Dokodemo-Kerja telah dilengkapi fitur pelacakan GPS, sehingga memungkinkan perusahaan untuk mengelola kondisi kerja para staff yang sering keluar.
                                     </p>
                                 </div>
                                 <div class="col-md-4 col-lg-6 text-center">
@@ -85,15 +85,15 @@
                                 </div>
                             </div>
                         </div>
-                        <p class="mb--70px text-center">Dokodemo-Kerja adalah alat manajemen kehadiran & manajemen kerja jarak jauh yang memungkinkan untuk mewujudkan gaya kerja flesksibel yang bermanfaat bagi perusahaan dan karyawan dengan mencatat jam kerja dan isi pekerjaan kapan saja, di mana saja. Hal ini akan memungkinkan untuk mengatur jam kerja secara akurat, dan perhitungan jam lembur dan jumlah cuti akan disederhanakan. Dengan adanya fungsi mengambil dan mengelola tangkapan layar pada saat bekerja, Anda dapat mencegah prilaku yang tidak sesuai selama jam kerja.</p>
+                        <p class="mb--70px text-center">Dokodemo-Kerja adalah aplikasi absensi online terbaik untuk kerja jarak jauh yang memungkinkan penggunanya untuk bekerja fleksibel. Aplikasi ini bermanfaat bagi perusahaan dan karyawan untuk transparansi pekerjaan. Dokodemo-Kerja juga memungkinkan penggunanya untuk melaporkan pekerjaan yang telah mereka lakukan kapan saja, dan di mana saja. Hal ini memungkinkan untuk mengatur jam kerja secara akurat, serta membantu memudahkan tim HR dalam melakukan perhitungan jam lembur dan jumlah cuti. Dokodemo-Kerja mempunyai fitur yang berfungsi mengambil dan mengelola tangkapan layar pada saat bekerja, sehingga Anda dapat mencegah perilaku yang tidak sesuai selama jam kerja berlangsung.</p>
                     </div>
                 </div>
                 <div class="row align-items-center">
                     <div class="col-md-6 mb-4 mb-lg-0">
                         <ul class="list-unstyled banner__list">
                             <li>Pantau tugas dan jam kerja karyawan.</li>
-                            <li>Dengan waktu yang tidak tentu akan menangkap gambar layar dan menyimpan di server. (Resolusi gambar rendah dan tidak mengganggu privasi).</li>
-                            <li>Dengan adanya aplikasi pada handphone, dapat mempermudah untuk mengelola waktu dan lokasi kerja karyawan yang sering dinas keluar kantor.</li>
+                            <li>Fitur tangkapan layar di setting dengan random dan disimpan di dalam server. (Resolusi gambar rendah sehingga tidak mengganggu privasi)</li>
+                            <li>Pada aplikasi yang diinstal di handphone, mempermudah Anda untuk mengelola waktu dan lokasi kerja karyawan yang sering dinas keluar kantor.</li>
                         </ul>
                     </div>
                     <div class="col-md-6">
@@ -178,7 +178,7 @@
                         <div class="title--bg title--bg-border title--bg-border-left" data-title-bg="Features">                            
                             <h2 class="mt-3 mb-0 font-weight-bold fs-34">Features</h2>
                         </div>
-                        <p class="mb-4 fs-14">Seperti pada alat manajemen absensi lainnya, karyawan diwajibkan untuk menandakan kapan mereka mulai dan berhenti bekerja. Perbedaannya adalah dapat diverifikasi validitas dari jam kerja tersebut. Dengan menangkap layar pengguna yang sedang bekerja secara acak dan menyimpannya di server cloud, Anda dapat memahami dan membedakan antara pengguna yang bekerja aktual, bermain game, menonton Youtube, dll sehingga dapat mencegah kegiatan yang melanggar aturan kantor. Kami juga mendukung sistem pekerjaan HR yang efisien seperti penghitungan jam lembur, pengelolaan cuti, dan juga analisa waktu kerja berdasarkan tugas, departemen, harian, mingguan, dan bulanan.</p>
+                        <p class="mb-4 fs-14">Seperti pada aplikasi absensi online lainnya, karyawan diwajibkan untuk menandakan kapan mereka mulai dan berhenti bekerja. Perbedaannya adalah pada verifikasi validitas dari jam kerja tersebut. Dengan menangkap layar pengguna yang sedang bekerja secara acak dan menyimpannya di server cloud, Anda dapat memahami dan membedakan antara pengguna yang bekerja aktual, bermain game, menonton Youtube, dll sehingga dapat mencegah kegiatan yang melanggar aturan kantor. Kami juga mendukung sistem pekerjaan HR yang efisien seperti penghitungan jam lembur, pengelolaan cuti, dan juga analisa waktu kerja berdasarkan tugas, departemen, harian, mingguan, dan bulanan.</p>
                         <div class="row justify-content-center justify-content-lg-start">
                             <div class="col-auto col-md-6">
                                 <a href="/ind/features" class="form-control btn btn--rounded bg--yellow px-4">View More</a>
@@ -250,7 +250,7 @@
                             <div class="row justify-content-center align-items-center">
                                 <div class="col-md-8 col-lg-6 order-last order-md-first">
                                     <h4 class="fs-20 font-weight-bold">Perekrutan tanpa Batas</h4>
-                                    <p class="mb-0 fs-14">Tanpa perlu mengkhawatirkan lokasi kantor, perusahaan dapat mempekerjakan sumber daya manusia yang berkualitas tinggi dari mana saja.</p>
+                                    <p class="mb-0 fs-14">Tanpa perlu datang ke kantor, perusahaan dapat mengoptimalkan karyawan Anda secara profesional dari mana saja.</p>
                                 </div>
                                 <div class="col-4 col-lg-6 mb-3 mb-lg-0 order-first order-md-last text-center">
                                     <picture>
@@ -294,7 +294,7 @@
                         </div> 
                     </div>
                     <div class="col-auto col-md-4">
-                        <a href="/ind/features" class="form-control btn btn--rounded bg--yellow px-4">Learn More</a>
+                        <a href="/ind/features" class="form-control btn btn--rounded bg--yellow px-4">Cari tahu lebih lanjut tentang fungsi-fungsi di Dokodemo-Kerja</a>
                     </div>
 
                 </div>
@@ -460,7 +460,7 @@
             </div>
         </section>
 
-        <section  class="news-list-container">
+        <section  class="mb--20px news-list-container">
            <div class="container">
                <div class="newscontainer">
                    <div class="row justify-content-md-center">
