@@ -1,73 +1,22 @@
-<!DOCTYPE html>
-<html lang="en">
+<?php 
+    $page = 'case-study/case-2';
+    $page_title = 'Dokodemo-Kerja Case Study #2 | Remote Work Tracking Tool';
 
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=5.0" />
-    <meta http-equiv="X-UA-Compatible" content="ie=edge">
-	<meta name="description" itemprop="description" content="Dokodemo-Kerja is an employee monitoring tool for managers, used as attendance software for remote work management for System Development Companies. ">
-    <meta name="keywords" content="dokodemo-kerja, Logique, human resource tool, HR software, screen monitoring, billing system, system development company, manage employees, monitor employee, productivity tool">
-    <meta name="author" content="PT. LOGIQUE Digital Indonesia">
-	<meta name="google-site-verification" content="Xc9SFJQZdKYLsrWvrxEjLLTA-nyrnNPQTXQoMxs4gKI" />
-    <meta property="og:title" content="Dokodemo-Kerja Case Study #2 | Remote Work Tracking Tool">
-    <meta property="og:type" content="website">
-    <meta property="og:site_name" content="Dokodemo-Kerja">
-    <meta property="og:url" content="https://dokodemo-kerja.com">
-    <meta property="og:image" content="https://dokodemo-kerja.com/img/og-img/case-study.jpg">
-    <meta property="og:description" content="Dokodemo-Kerja is an employee monitoring tool for managers, used as an attendance tracking software for employee management, with a focus on Remote Workers & System Development Companies in particular.">
-    <link rel="canonical" href="https://dokodemo-kerja.com/case-study/case-2">
-    <link rel="stylesheet" href="/css/bootstrap.min.css" />
-    <link href="/fonts/font-awesome/css/font-awesome.min.css" rel="stylesheet">
-    <link rel="stylesheet" href="/css/slick.css" />
-    <link rel="stylesheet" href="/css/slick-theme.css" />
-    <link rel="stylesheet" href="/css/header-footer.css" />
-    <link rel="stylesheet" href="/css/style.css" />
-    <link rel="stylesheet" href="/css/style-case-study.css" />
-    <link rel="stylesheet" href="/js/magnific-popup.css" />
+    $meta_description = 'Dokodemo-Kerja is an employee monitoring tool for managers, used as attendance software for remote work management for System Development Companies.';
+    $meta_keyword = 'dokodemo-kerja, Logique, human resource tool, HR software, screen monitoring, billing system, system development company, manage employees, monitor employee, productivity tool';
 
-	<link rel="shortcut icon" type="image/x-icon" href="/favicon.ico">
-    <title>Remote Work Management | Dokodemo-Kerja Case Study #2</title>
-    <script src="https://www.googleoptimize.com/optimize.js?id=OPT-P232K37"></script>
-	<!-- Google Tag Manager -->
-	<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
-	new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
-	j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
-	'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
-	})(window,document,'script','dataLayer','GTM-WT4MCDL');</script>
-	<!-- Facebook Pixel Code -->
-	<script>
-	  !function(f,b,e,v,n,t,s)
-	  {if(f.fbq)return;n=f.fbq=function(){n.callMethod?
-	  n.callMethod.apply(n,arguments):n.queue.push(arguments)};
-	  if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';
-	  n.queue=[];t=b.createElement(e);t.async=!0;
-	  t.src=v;s=b.getElementsByTagName(e)[0];
-	  s.parentNode.insertBefore(t,s)}(window, document,'script',
-	  'https://connect.facebook.net/en_US/fbevents.js');
-	  fbq('init', '713777762291663');
-	  fbq('track', 'PageView');
-	</script>
-	<noscript><img height="1" width="1" style="display:none"
-	  src="https://www.facebook.com/tr?id=713777762291663&ev=PageView&noscript=1"
-	/></noscript>
-	<!-- End Facebook Pixel Code -->
-	<!-- Global site tag (gtag.js) - Google Analytics -->
-	<script async src="https://www.googletagmanager.com/gtag/js?id=UA-146404615-1"></script>
-	<script>
-	  window.dataLayer = window.dataLayer || [];
-	  function gtag(){dataLayer.push(arguments);}
-	  gtag('js', new Date());
+    $og_title = 'Dokodemo-Kerja Case Study #2 | Remote Work Tracking Tool';
+    $og_image = 'https://dokodemo-kerja.com/img/og-img/case-study.jpg';
+    $og_desription = 'Dokodemo-Kerja is an employee monitoring tool for managers, used as attendance software for remote work management for System Development Companies.';
 
-	  gtag('config', 'UA-146404615-1');
-	</script>
-</head>
-<?php $page = 'case-study/case-2'; ?>
-<body>
-<!-- Google Tag Manager (noscript) -->
-<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-WT4MCDL"
-height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
-<!-- End Google Tag Manager (noscript) -->
-    <?php include "../header.php" ?>
+    $canonical_link = 'https://dokodemo-kerja.com/case-study/case-2';
+
+    $add_css = '<link rel="stylesheet" href="/css/style-case-study.css" />';
+
+    include($_SERVER['DOCUMENT_ROOT'].'/component/header.php');
+?>
+
+<div class="">
     <section>
         <div class="container pl-lg-0">
             <nav aria-label="breadcrumb">
@@ -79,6 +28,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
             </nav>
         </div>
     </section>
+
     <section class="mb-5">
         <div class="container">
             <h1 class="text-center mb-5">Dokodemo-Kerja Story 2: <br>System Development, Company B</h1>
@@ -123,94 +73,9 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
             </div>
         </div>
     </section>
-    <?php include "other-case.php" ?>
-    <?php include '../component/demo-banner.php' ?>
-    <?php include "../footer.php" ?>
-    <script src="/js/jquery-3.4.1.min.js"></script>
-    <script src="/js/bootstrap.min.js"></script>
-    <script src="/js/slick.min.js"></script>
-    <script src="/js/jquery.magnific-popup.min.js"></script>
-    <script src="/js/jquery.countdown.min.js"></script>
-    <script src="/js/seminar-banner/seminar-banner.js?v=1.1"></script>
+</div>
 
-    <script>
-        $(".screenshot-slide").slick({
-            infinite: true,
-            slidesToShow: 3,
-            slidesToScroll: 1,
-            responsive: [{
-                breakpoint: 992,
-                settings: {
-                    slidesToShow: 2,
-                    slidesToScroll: 2
-                }
-            }, {
-                breakpoint: 768,
-                settings: {
-                    slidesToShow: 1,
-                    slidesToScroll: 1
-                }
-            }, ]
-        })
-        $('.testimony-slider').slick({
-            infinite: true,
-            slidesToShow: 3,
-            slidesToScroll: 3,
-            arrows: false,
-            dots: true,
-            responsive: [{
-                breakpoint: 992,
-                settings: {
-                    slidesToShow: 2,
-                    slidesToScroll: 2
-                }
-            }, {
-                breakpoint: 768,
-                settings: {
-                    slidesToShow: 1,
-                    slidesToScroll: 1
-                }
-            }, ]
-        });
-    </script>
-    <script>
-    $(document).ready(function() {
-        $('.zoom-gallery').magnificPopup({
-            delegate: 'a',
-            type: 'image',
-            closeOnContentClick: false,
-            closeBtnInside: false,
-            mainClass: 'mfp-with-zoom mfp-img-mobile',
-            image: {
-                verticalFit: true,
-                titleSrc: function(item) {
-                    return item.el.attr('title') + ' &middot; <a class="image-source-link" href="'+item.el.attr('data-source')+'" target="_blank">image source</a>';
-                }
-            },
-            gallery: {
-                enabled: false
-            },
-            zoom: {
-                enabled: true,
-                duration: 300, // don't foget to change the duration also in CSS
-                opener: function(element) {
-                    return element.find('img');
-                }
-            }
-
-        });
-    });
-    </script>
-    <script>
-        var element = document.getElementById("popup-text");
-
-        var t=setTimeout(openPopUp,5000);
-        function openPopUp() {
-        element = document.getElementById("popup-text");
-        element.style.visibility = "visible";
-        element.style.opacity = "1";
-        }
-    </script>
-</body>
-
-</html>
+<?php include($_SERVER['DOCUMENT_ROOT'].'/case-study/other-case.php'); ?>
+<?php include($_SERVER['DOCUMENT_ROOT'].'/component/demo-banner.php'); ?>
+<?php include($_SERVER['DOCUMENT_ROOT'].'/component/footer.php'); ?>
+<?php include($_SERVER['DOCUMENT_ROOT'].'/component/footer-end.php') ?>

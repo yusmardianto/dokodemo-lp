@@ -93,7 +93,7 @@
                 <div class="form-row">
                     <div class="col-12 mb--30px">
                         <div class="modal-body__input">
-                            <label for="" class="color--gray fs-12 d-block mb-1">Time Preferred</label>
+                            <label for="" class="color--gray fs-12 d-block mb-1">Message</label>
                             <textarea name="" id="" rows="5" class="form-control border--blue color--blue"></textarea>                        
                         </div>
                     </div>

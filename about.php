@@ -1,69 +1,22 @@
-<!DOCTYPE html>
-<html lang="en">
+<?php 
+    $page = 'about';
+    $page_title = 'About Dokodemo-Kerja | Cloud System for HR';
 
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=5.0" />
-    <meta http-equiv="X-UA-Compatible" content="ie=edge">
-	<meta name="description" itemprop="description" content="LOGIQUE Digital Indonesia provides digital solutions for human resources through remote working software, Dokodemo-Kerja, designed for reducing costs. ">
-    <meta name="keywords" content="LOGIQUE Digital Indonesia, Dokodemo-Kerja, digital solutions, human resources, remote working software, remote working, remote work, reducing costs, reduce costs, Nicholas Bloom, Working from home">
-    <meta name="author" content="PT. LOGIQUE Digital Indonesia">
-	<meta name="google-site-verification" content="Xc9SFJQZdKYLsrWvrxEjLLTA-nyrnNPQTXQoMxs4gKI" />
-    <meta property="og:title" content="About Dokodemo-Kerja | Remote Work Tracking Tool for HR">
-    <meta property="og:type" content="website">
-    <meta property="og:site_name" content="Dokodemo-Kerja">
-    <meta property="og:url" content="https://dokodemo-kerja.com">
-    <meta property="og:image" content="https://dokodemo-kerja.com/img/og-img/about.jpg">
-    <meta property="og:description" content="Dokodemo-Kerja is a Human Resource tool developed by PT. LOGIQUE Digital Indonesia, a company providing Digital Solutions, based in Jakarta, Indonesia. Dokodemo-Kerja was designed to promote healthier and more productive work cultures in a way that benefits both the Company and Employees alike.">
-    <link rel="stylesheet" href="/css/bootstrap.min.css" />
-    <link href="/fonts/font-awesome/css/font-awesome.min.css" rel="stylesheet">
-    <link rel="stylesheet" href="/css/slick.css" />
-    <link rel="stylesheet" href="/css/slick-theme.css" />
-    <link rel="stylesheet" href="/css/header-footer.css" />
-    <link rel="stylesheet" href="/css/style-about.css" />
-	<link rel="shortcut icon" type="image/x-icon" href="favicon.ico">
-    <title>About Dokodemo-Kerja | Cloud System for HR</title>
-    <script src="https://www.googleoptimize.com/optimize.js?id=OPT-P232K37"></script>
-	<!-- Google Tag Manager -->
-	<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
-	new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
-	j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
-	'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
-	})(window,document,'script','dataLayer','GTM-WT4MCDL');</script>
-	<!-- Facebook Pixel Code -->
-	<script>
-	  !function(f,b,e,v,n,t,s)
-	  {if(f.fbq)return;n=f.fbq=function(){n.callMethod?
-	  n.callMethod.apply(n,arguments):n.queue.push(arguments)};
-	  if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';
-	  n.queue=[];t=b.createElement(e);t.async=!0;
-	  t.src=v;s=b.getElementsByTagName(e)[0];
-	  s.parentNode.insertBefore(t,s)}(window, document,'script',
-	  'https://connect.facebook.net/en_US/fbevents.js');
-	  fbq('init', '713777762291663');
-	  fbq('track', 'PageView');
-	</script>
-	<noscript><img height="1" width="1" style="display:none"
-	  src="https://www.facebook.com/tr?id=713777762291663&ev=PageView&noscript=1"
-	/></noscript>
-	<!-- End Facebook Pixel Code -->
-	<!-- Global site tag (gtag.js) - Google Analytics -->
-	<script async src="https://www.googletagmanager.com/gtag/js?id=UA-146404615-1"></script>
-	<script>
-	  window.dataLayer = window.dataLayer || [];
-	  function gtag(){dataLayer.push(arguments);}
-	  gtag('js', new Date());
+    $meta_description = 'LOGIQUE Digital Indonesia provides digital solutions for human resources through remote working software, Dokodemo-Kerja, designed for reducing costs.';
+    $meta_keyword = 'LOGIQUE Digital Indonesia, Dokodemo-Kerja, digital solutions, human resources, remote working software, remote working, remote work, reducing costs, reduce costs, Nicholas Bloom, Working from home';
 
-	  gtag('config', 'UA-146404615-1');
-	</script>
-</head>
-<?php $page = 'about'; ?>
-<body>
-<!-- Google Tag Manager (noscript) -->
-<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-WT4MCDL"
-height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
-<!-- End Google Tag Manager (noscript) -->
-    <?php include "header.php" ?>
+    $og_title = 'About Dokodemo-Kerja | Remote Work Tracking Tool for HR';
+    $og_image = 'https://dokodemo-kerja.com/img/og-img/about.jpg';
+    $og_desription = 'Dokodemo-Kerja is a Human Resource tool developed by PT. LOGIQUE Digital Indonesia, a company providing Digital Solutions, based in Jakarta, Indonesia. Dokodemo-Kerja was designed to promote healthier and more productive work cultures in a way that benefits both the Company and Employees alike.';
+
+    $canonical_link = 'https://dokodemo-kerja.com/about';
+
+    $add_css = '<link rel="stylesheet" href="/css/style-about.css" />';
+
+    include($_SERVER['DOCUMENT_ROOT'].'/component/header.php');
+?>
+
+<div class="">
     <section class="top-content">
         <img src="/img/about/bg.jpg" class="img-bg" alt="Logique's Office in AD Premier" />
         <div class="container">
@@ -109,6 +62,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
             </div>
         </div>
     </section>
+
     <!-- <section id="benefits" class="benefits-features">
         <h2 class="section-title pb-4">BENEFITS AND FEATURES</h2>
         <div class="container pt-4">
@@ -154,7 +108,9 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
         </div>
         
     </section> -->
+
     <br><br>
+
     <section class="to-whom">
         <div class="container">
             <div class="row">
@@ -168,6 +124,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
             </div>
         </div>
     </section>
+
     <section class="hr-manager-benefits">
         <div class="container">
             <div class="row">
@@ -244,6 +201,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
             </div>
         </div>
     </section>
+
     <section class="employee-benefits">
         <div class="container">
             <h2 class="text-center fs-30">EMPLOYEES</h2>
@@ -255,6 +213,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
             </div>
         </div>
     </section>
+
     <section class="mb-5">
         <div class="container p-md-0 position-relative">
             <div class="row no-gutters ">
@@ -301,17 +260,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
             </div>
         </div>
     </section>
-    <?php include "footer.php" ?>
-	<script src="/js/jquery-3.4.1.min.js"></script>
-    <script src="/js/bootstrap.min.js"></script>
-     <script>
-        var element = document.getElementById("popup-text");
+</div>
 
-        var t=setTimeout(openPopUp,5000);
-        function openPopUp() {
-        element = document.getElementById("popup-text");
-        element.style.visibility = "visible";
-        element.style.opacity = "1";
-        }
-    </script>
-</body>
+<?php include($_SERVER['DOCUMENT_ROOT'].'/jpn/component/footer.php'); ?>
+<?php include($_SERVER['DOCUMENT_ROOT'].'/component/footer-end.php') ?>
