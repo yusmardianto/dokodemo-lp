@@ -72,7 +72,7 @@
                             <div class="row align-items-center">
                                 <div class="col-md-8 col-lg-6">
                                     <p class="mb-md-0 text-justify text-md-left">
-                                    Since Version 2.0, the GPS track function has also been implemented in the mobile application, so it is possible to manage the actual working conditions of staff who often go out.
+                                    Since the release of Version 2.0, a GPS tracking function has also been incorporated into the mobile application, so it is therefore possible to manage the actual working conditions of staff who are often tasked with leaving the office.
                                     </p>
                                 </div>
                                 <div class="col-md-4 col-lg-6 text-center">
@@ -85,15 +85,15 @@
                                 </div>
                             </div>
                         </div>
-                        <p class="mb--70px text-center">Dokodemo-Kerja is both an attendance management & remote work management tool that enables a flexible work styles that are beneficial to both the company and employees by recording the hours worked and its content no matter where or when you work. Since it is able manage work hours accurately, it makes the calculation of overtime hours and the number of paid leave to be more efficient. Also, by taking and managing screen captures during the work session, prevent slacking during working hours can be prevented.</p>
+                        <p class="mb--70px text-center">Dokodemo-Kerja is both an attendance & remote work management tool that allows for flexible work styles beneficial to both the company and employee alike through recording working hours no matter where the location. Since it is able manage work hours accurately, it makes calculating overtime hours and the number of paid leaves a much more efficient endeavor. Also, by taking and managing screenshots during the work session, one can discourage slacking during working hours.</p>
                     </div>
                 </div>
                 <div class="row align-items-center">
                     <div class="col-md-6 mb-4 mb-lg-0">
                         <ul class="list-unstyled banner__list">
                             <li>Track tasks and calculate overall working hours.</li>
-                            <li>Randomly capture the work screen and then send it to the server. (The resolution is privacy-friendly).</li>
-                            <li>By using the smartphone application, it is easy to manage working hours and location (GPS tracking) on employees going outside of office.</li>
+                            <li>Randomly captures desktop screen activity and sends the screenshots to the server (with resolutions that are privacy-friendly).</li>
+                            <li>Through using the smartphone application, work hours and location management is now easier to manage (Through GPS tracking) for employees travelling outside of the office.</li>
                         </ul>
                     </div>
                     <div class="col-md-6">
@@ -178,7 +178,7 @@
                         <div class="title--bg title--bg-border title--bg-border-left" data-title-bg="Features">                            
                             <h2 class="mt-3 mb-0 font-weight-bold fs-34">Features</h2>
                         </div>
-                        <p class="mb-4 fs-14">As with many other attendance management tools, employees will have to signal their start and stop working time. The difference is that you can verify that the recorded working hour is valid. By randomly capturing the screens of working users and saving them on a cloud server, you can understand whether they are doing actual work, playing games, watching Youtube, etc, where in turn can be used as a solid evidence to suppress or prevent the activities. We support efficient HR operations such as calculation of overtime hours, management of paid leave, task-based, department-based, daily, weekly, and monthly work time analysis.</p>
+                        <p class="mb-4 fs-14">As with other attendance management tools, employees will have to indicate when starting or stopping their work hours. The difference is that the validity of these recorded work hours can be verified. Through randomly capturing the desktop activities of its users and saving them onto a cloud server, one can see whether workers are doing actual work, playing games, watching YouTube, etc., which in turn can be used as solid evidence to prevent such activities from happening again. We support efficiency within HR operations regarding the calculation of overtime hours, the management of paid leave, task-based & department-based, daily, weekly, and monthly work time analyses.</p>
                         <div class="row justify-content-center justify-content-lg-start">
                             <div class="col-auto col-md-6">
                                 <a href="/features" class="form-control btn btn--rounded bg--yellow px-4">View More</a>
@@ -272,7 +272,7 @@
                                 </div>
                                 <div class="col-md-8 col-lg-6">
                                     <h4 class="fs-20 font-weight-bold">Retain Employees</h4>
-                                    <p class="mb-0 fs-14">Employees who need to take care of homebound family members, or their children, won’t have to choose between their job and their home life. Through remote working strategies, they can now adopt an ideal work-life balance.</p>
+                                    <p class="mb-0 fs-14">Employers will be able to hire from a much wider & even international HR source, regardless of where the office is located.</p>
                                 </div>
                             </div>                            
                         </div> 

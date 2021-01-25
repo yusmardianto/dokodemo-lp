@@ -107,7 +107,7 @@
 				</div>
 				<div class="offset-md-1 col-md-10 tab-tutor-container">
 					<nav>
-						<div class="nav nav-tabs nav-tabs-trial" id="nav-tab" role="tablist">
+						<div class="nav nav-tabs nav-tabs-trial text-center" id="nav-tab" role="tablist">
 							<a class="nav-item nav-link trial-tab active" id="nav-home-tab" data-toggle="tab" href="#nav-home" role="tab" aria-controls="nav-home" aria-selected="true">
 								<span class="trial-tabfont">管理者用機能</span>
 							</a>
