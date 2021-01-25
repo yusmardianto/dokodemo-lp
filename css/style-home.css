@@ -161,28 +161,16 @@
     box-shadow: 0px 11px 17px -4px rgba(0, 0, 0, 0.09);
 }
 
-.home
-    .home__testimonial
-    .testimonial__slide-testi.slick--blue-arrow
-    .slick-next,
-.home
-    .home__testimonial
-    .testimonial__slide-testi.slick--blue-arrow
-    .slick-prev {
+.home .home__testimonial .testimonial__slide-testi.slick--blue-arrow .slick-next,
+.home .home__testimonial .testimonial__slide-testi.slick--blue-arrow .slick-prev {
     top: -80px;
 }
 
-.home
-    .home__testimonial
-    .testimonial__slide-testi.slick--blue-arrow
-    .slick-next {
+.home .home__testimonial .testimonial__slide-testi.slick--blue-arrow .slick-next {
     right: 0;
 }
 
-.home
-    .home__testimonial
-    .testimonial__slide-testi.slick--blue-arrow
-    .slick-prev {
+.home .home__testimonial .testimonial__slide-testi.slick--blue-arrow .slick-prev {
     left: unset;
     right: 70px;
 }

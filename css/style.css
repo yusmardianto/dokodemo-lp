@@ -796,6 +796,7 @@ input[type="time"]::-webkit-calendar-picker-indicator {
     right: -20px;
 }
 
+.modal-body .modal-body__input p,
 .modal-body .modal-body__input label,
 .modal-body .modal-body__input .input--icon img {
     transition: all 0.15s ease-in-out;
@@ -825,6 +826,7 @@ input[type="time"]::-webkit-calendar-picker-indicator {
     filter: grayscale(1) contrast(1) brightness(1.5);
 }
 
+.modal-body .modal-body__input:focus-within p,
 .modal-body .modal-body__input:focus-within label,
 .modal-body .modal-body__input:focus-within input.color--blue,
 .modal-body .modal-body__input:focus-within textarea.color--blue {
