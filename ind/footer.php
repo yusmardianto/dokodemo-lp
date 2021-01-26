@@ -18,14 +18,14 @@
                     <li class="list-inline-item"><a href="/ind">Home</a></li>
                     <li class="list-inline-item"><a href="/ind/about">About Us</a></li>
                     <li class="list-inline-item"><a href="/ind/features">Work From Home</a></li>
-                    <li class="list-inline-item"><a href="/ind/case-study/">Case Study</a></li>
-                    <li class="list-inline-item"><a href="/ind/price">Price</a></li>
+                    <li class="list-inline-item"><a href="/ind/case-study/">Studi Kasus</a></li>
+                    <li class="list-inline-item"><a href="/ind/price">Harga</a></li>
                     <li class="list-inline-item"><a href="/ind/demo">Demo</a></li>
                     <li class="list-inline-item"><a href="https://www.logique.co.id/blog/category/dokodemo-kerja/" target="_blank" rel="noopener noreferrer">Blog</a></li>
                 </ul>
 
                 <ul class="mb-0 list-inline footer__list">
-                    <li class="list-inline-item"><a href="/ind/contact-us">Contact Us</a></li>
+                    <li class="list-inline-item"><a href="/ind/contact-us">Hubungi Kami</a></li>
                     <li class="list-inline-item"><a href="/ind/price#FAQ">FAQ</a></li>
                     <li class="list-inline-item"><a href="/ind/help">Bantuan</a></li>
                     <li class="list-inline-item"><a href="/ind/subscribe">Subscribing Procedure</a></li>
