@@ -1,4 +1,3 @@
-
 <?php 
     $page = 'price';
     $page_title = 'Harga Aplikasi Absensi Online | Kerja Remote | Dokodemo Kerja';
