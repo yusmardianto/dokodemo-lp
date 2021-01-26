@@ -23,7 +23,7 @@
             <div class="row justify-content-center">
                <div class="col-md-10 text-center pricing-page-title">
                    <h1 class="d-none">Dokodemo-Kerja Pricing: Work Remotely and Save Money </h1>
-                   <h2 class="fs-32">Start Remote Work. Save Money. Increase Transparency.</h2>
+                   <h2 class="fs-30">Start Remote Work. Save Money. Increase Transparency.</h2>
                    <h3 class="fs-26">Use Dokodemo-Kerja</h3>
                </div>
            </div>
