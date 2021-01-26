@@ -28,7 +28,7 @@
                     <li class="list-inline-item"><a href="/ind/contact-us">Hubungi Kami</a></li>
                     <li class="list-inline-item"><a href="/ind/price#FAQ">FAQ</a></li>
                     <li class="list-inline-item"><a href="/ind/help">Bantuan</a></li>
-                    <li class="list-inline-item"><a href="/ind/subscribe">Subscribing Procedure</a></li>
+                    <li class="list-inline-item"><a href="/ind/subscribe">Prosedur Berlangganan</a></li>
                     <li class="list-inline-item"><a href="/ind/terms">Terms and Condition</a></li>
                     <li class="list-inline-item"><a href="/ind/privacy">Privacy Policy</a></li>
                 </ul>
