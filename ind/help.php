@@ -1124,7 +1124,7 @@
     <div class="sidebar-overlay hide-mobile"></div>
 </div>
     
-<?php include($_SERVER['DOCUMENT_ROOT'].'/component/footer.php'); ?>
+<?php include($_SERVER['DOCUMENT_ROOT'].'/ind/component/footer.php'); ?>
 <script>
     // sidebar open
     $(".btn__nav-menu").on('click', function(){
