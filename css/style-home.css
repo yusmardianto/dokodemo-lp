@@ -81,6 +81,19 @@
     border: solid 1px;
 }
 
+.home .home__banner .loader {
+    top: -60px;
+}
+
+.home .home__banner .banner__animation {
+    transition: all .15s .15s ease-in-out;
+}
+
+.home .home__banner .banner__animation:empty,
+.home .home__banner .banner__animation:not(:empty) ~ .loader {
+    display: none;
+}
+
 /* feature */
 .home .home__feature .feature__bg-accent picture:first-child .bg-accent__img {
     left: 0;

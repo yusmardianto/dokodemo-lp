@@ -470,7 +470,9 @@
 <?php include($_SERVER['DOCUMENT_ROOT'].'/jpn/component/demo-banner.php'); ?>
 <?php include($_SERVER['DOCUMENT_ROOT'].'/component/modal-meeting.php'); ?>
 <?php 
-    $add_js = '<script src="/js/jquery.magnific-popup.min.js"></script>';
+    $add_js = '
+    <script src="/js/homepage-animation.js"></script>
+    <script src="/js/jquery.magnific-popup.min.js"></script>';
     include($_SERVER['DOCUMENT_ROOT'].'/jpn/component/footer.php'); 
 ?>
 <script>
