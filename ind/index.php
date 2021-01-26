@@ -416,7 +416,7 @@
                 <div class="row">
                     <div class="col-md-6 mb-3 mb-md-0">
                         <div class="bg--l-blue rounded-lg text-center schedule">
-                            <h5 class="font-weight-bold mb-4 fs-20">Schedule Online Meeting</h5>
+                            <h5 class="font-weight-bold mb-4 fs-20">Jadwalkan Konsultasi Online</h5>
                             <div class="row justify-content-center">
                                 <div class="col-md-8">
                                     <picture>
@@ -425,7 +425,7 @@
                                     </picture>
                                 </div>
                                 <div class="col-md-8">
-                                    <p class="my-4">Set up an online consultation with our team for a software demo</p>
+                                    <p class="my-4">Jadwalkan konsultasi online dengan tim kami untuk demo software</p>
                                 </div>
                                 <div class="col-md-6">
                                     <button type="button" class="form-control btn btn--rounded bg--yellow" data-title="online" data-toggle="modal" data-target="#meetingSchedule">
@@ -437,7 +437,7 @@
                     </div>
                     <div class="col-md-6">
                         <div class="bg--l-blue rounded-lg text-center schedule">
-                            <h5 class="font-weight-bold mb-4 fs-20">Schedule Offline Meeting</h5>
+                            <h5 class="font-weight-bold mb-4 fs-20">Jadwalkan Konsultasi Offline</h5>
                             <div class="row justify-content-center">
                                 <div class="col-md-8">
                                     <picture>
@@ -446,7 +446,7 @@
                                     </picture>
                                 </div>
                                 <div class="col-md-8">
-                                    <p class="my-4">Set up an offline consultation with our team for a software demo</p>
+                                    <p class="my-4">Jadwalkan konsultasi offline dengan tim kami untuk demo software</p>
                                 </div>
                                 <div class="col-md-6">
                                     <button type="button" class="form-control btn btn--rounded bg--yellow" data-title="offline" data-toggle="modal" data-target="#meetingSchedule">
@@ -460,7 +460,7 @@
             </div>
         </section>
 
-        <section  class="mb--20px news-list-container">
+        <section  class="mb--30px news-list-container">
            <div class="container">
                <div class="newscontainer">
                    <div class="row justify-content-md-center">
@@ -537,7 +537,7 @@
     </div>
 
 <?php include($_SERVER['DOCUMENT_ROOT'].'/ind/component/demo-banner.php'); ?>
-<?php include($_SERVER['DOCUMENT_ROOT'].'/component/modal-meeting.php'); ?>
+<?php include($_SERVER['DOCUMENT_ROOT'].'/ind/component/modal-meeting.php'); ?>
 <?php 
     $add_js = '<script src="/js/jquery.magnific-popup.min.js"></script>';
     include($_SERVER['DOCUMENT_ROOT'].'/ind/component/footer.php'); 

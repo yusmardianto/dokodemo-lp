@@ -488,7 +488,7 @@
             </div>
         </section>
 
-        <section class="mb--20px news-list-container">
+        <section class="mb--30px news-list-container">
             <div class="container">
                 <div class="newscontainer">
                     <div class="row justify-content-md-center">
