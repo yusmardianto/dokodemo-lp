@@ -1,67 +1,34 @@
-<!DOCTYPE html>
-<html lang="en">
+<?php 
+    $page = 'features';
+    $page_title = 'Remote Work Management Tool | Dokodemo-Kerja | LOGIQUE Indonesia.';
 
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=5.0" />
-    <meta http-equiv="X-UA-Compatible" content="ie=edge">
-	<meta name="description" itemprop="description" content="By introducing Dokodemo-Kerja, it will be possible for employees to accurately grasp working hours and contents no matter where or when they work. Helps introduce a remote work system. A cloud tool developed by an Indonesian web production company.">
-    <meta name="keywords" content="dokodemo, dokodemo features, work monitor, monitor tasks, screenshot employee desktop, screen monitoring, management tool, tool for managers, employee management software, GPS tracking, calculate working hours">
-    <meta name="author" content="PT. LOGIQUE Digital Indonesia">
-	<meta name="google-site-verification" content="Xc9SFJQZdKYLsrWvrxEjLLTA-nyrnNPQTXQoMxs4gKI" />
-    <meta property="og:title" content="Remote Work Management Tool | Dokodemo-Kerja">
-    <meta property="og:type" content="website">
-    <meta property="og:site_name" content="Dokodemo-Kerja">
-    <meta property="og:url" content="https://dokodemo-kerja.com">
-    <meta property="og:image" content="https://dokodemo-kerja.com/img/og-img/features.jpg">
-    <meta property="og:description" content="By introducing Dokodemo-Kerja, it will be possible for employees to accurately grasp working hours and contents wherever and whenever they work. This tool helps introduce a remote work system.">
-    <link rel="canonical" href="https://dokodemo-kerja.com/features">
-    <link rel="stylesheet" href="/css/bootstrap.min.css" />
-    <link href="/fonts/font-awesome/css/font-awesome.min.css" rel="stylesheet">
-    <link rel="stylesheet" href="/css/slick.css" />
-    <link rel="stylesheet" href="/css/slick-theme.css" />
-    <link rel="stylesheet" href="/css/header-footer.css" />
-    <link rel="stylesheet" href="/css/style.css" />
-    <link rel="stylesheet" href="/css/style-features.css" />
-    <link rel="stylesheet" href="/js/magnific-popup.css" />
+    $meta_description = 'Dokodemo-Kerja is a remote working software and attendance management tool created for better HR management, developed by LOGIQUE.';
+    $meta_keyword = 'dokodemo, dokodemo features, work monitor, monitor tasks, screenshot employee desktop, screen monitoring, management tool, tool for managers, employee management software, GPS tracking, calculate working hours';
 
-	<link rel="shortcut icon" type="image/x-icon" href="favicon.ico">
-    <title>Remote Work Management Tool | Dokodemo-Kerja | LOGIQUE Indonesia</title>
-    <script src="https://www.googleoptimize.com/optimize.js?id=OPT-P232K37"></script>
-	<!-- Google Tag Manager -->
-	<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
-	new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
-	j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
-	'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
-	})(window,document,'script','dataLayer','GTM-WT4MCDL');</script>
-	<!-- Facebook Pixel Code -->
-	<script> !function(f,b,e,v,n,t,s) {if(f.fbq)return;n=f.fbq=function(){n.callMethod? n.callMethod.apply(n,arguments):n.queue.push(arguments)}; if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0'; n.queue=[];t=b.createElement(e);t.async=!0; t.src=v;s=b.getElementsByTagName(e)[0]; s.parentNode.insertBefore(t,s)}(window, document,'script', 'https://connect.facebook.net/en_US/fbevents.js'); fbq('init', '713777762291663'); fbq('track', 'PageView');</script>
-	<noscript><img height="1" width="1" style="display:none"
-	  src="https://www.facebook.com/tr?id=713777762291663&ev=PageView&noscript=1"
-	/></noscript>
-	<!-- End Facebook Pixel Code -->
-	<!-- Global site tag (gtag.js) - Google Analytics -->
-	<script async src="https://www.googletagmanager.com/gtag/js?id=UA-146404615-1"></script>
-	<script> window.dataLayer=window.dataLayer || []; function gtag(){dataLayer.push(arguments)} gtag('js', new Date()); gtag('config', 'UA-146404615-1');</script>
-</head>
-<?php $page = 'features'; ?>
-<body>
-<!-- Google Tag Manager (noscript) -->
-<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-WT4MCDL"
-height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
-<!-- End Google Tag Manager (noscript) -->
-    <?php include "header.php" ?>
+    $og_title = 'Remote Work Management Tool | Dokodemo-Kerja';
+    $og_image = 'https://dokodemo-kerja.com/img/og-img/features.jpg';
+    $og_desription = 'Introducing Dokodemo-Kerja, a remote work system making it possible for employees to better grasp their work hours wherever they work from.';
+
+    $canonical_link = 'https://dokodemo-kerja.com/features';
+
+    $add_css = '<link rel="stylesheet" href="/css/style-features.css" />';
+
+    include($_SERVER['DOCUMENT_ROOT'].'/component/header.php');
+?>
+
+<div class="">
+
     <section class="features-section">
         <div class="container">
             <div class="row">
                 <div class="col-md-10 offset-md-1 features-resp-config">
-                    <h1 class="fw-semibold fs-23 text-center mb-4">FEATURES</h1>
-                    <p class="fw-semibold text-center">Dokodemo-Kerja is an attendance management and work content management system based on the working time tracking function (with screen capture function). Not only is it effective for improving the efficiency of HR work such as attendance management, calculation of overtime pay, and calculation of the number of paid holidays, but it also enables the introduction of a more flexible work styles such as remote work and reduced working hours. As a result, this leads to increased employee productivity.</p>
+                    <h1 class="fw-semibold fs-24 text-center mb-4">FEATURES</h1>
+                    <p class="fw-semibold text-center">Dokodemo-Kerja is an attendance & work content management system with work-time tracking features (based on a screenshot taking function). Not only are these features effective in improving the efficiency of HR work overall, such as in regards to attendance management, the calculation of overtime pay, and calculating paid holidays, but it also enables the introduction of more flexible work styles, such as remote work and reduced working hours. As a result, this leads to increased employee productivity.</p>
                     <div class="row">
                         <div class="col-lg-6 features-item">
                             <span class="features-number">01</span>
-                            <h2 class="features-title">Take and manage screen captures while you are working</h2>
-                            <p class="features-desc">The system will take a screenshot once randomly within 10 minutes. For privacy the screenshot saved is low resolution and you cannot read the text in emails or message tools.  The purpose of the screenshot is to determine the application or website type is open. Whether it is work related or Youtube or Game. It will also send a notification to the admin when a user have the same screenshot 3 times in a row.</p>
+                            <h2 class="features-title">Take and manage screenshots while engaged in work</h2>
+                            <p class="features-desc">The system will take a screenshot once, randomly within every 10 minutes. For reasons of privacy, the saved screenshot is of low resolution, therefore, any text found within, such as from emails or message tools cannot be read. The purpose of the screenshot is to determine the application or website type currently open: whether it is work related, YouTube, a game, etc. It also sends a notification to the admin when a user has the same screenshot taken 3 times in a row.</p>
                         </div>
                         <div class="col-lg-6 features-item">
                              <img src="/img/features/feature-1.png" class="img-slide-screenshot modal-hover-opacity" alt="Dokodemo-Kerja is compatible with PC, Mobile & Tablet" />    
@@ -70,8 +37,8 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                     <div class="row">
                         <div class="col-lg-6 features-item">
                             <span class="features-number">02</span>
-                            <h2 class="features-title">Accurately record work time by task</h2>
-                            <p class="features-desc">From the application installed on the device, select a task and it will record the start and end of the work. The above screen capture is only taken when the application is being used (aside from Mobile version). There is also a time editing function on the Web version incase a user forgot to start or end a work session. The administrator is notified when a work session time has been edited.</p>
+                            <h2 class="features-title">Accurately records work time by task</h2>
+                            <p class="features-desc">From the installed application, select an appropriate task; it will then begin screen recording from when the play button is clicked, until it is switched off. The above screen capture was only taken when the application was being used (asides from Mobile version). There is also a time editing function within the Web version just incase a user had forgot to start or end their work session. The administrator is promptly notified when a work session timeframe has been edited.</p>
                         </div>
                         <div class="col-lg-6 features-item">
                             <img src="/img/features/feature-2.png" class="img-slide-screenshot modal-hover-opacity" alt="Dokodemo-Kerja is compatible with PC, Mobile & Tablet" />   
@@ -81,7 +48,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                         <div class="col-lg-6 features-item">
                             <span class="features-number">03</span>
                             <h2 class="features-title">Easy to Analyze</h2>
-                            <p class="features-desc">Display the total hours worked and data export of working hours by task, team, and person. Working hours can be displayed on a daily, weekly, or monthly basis, facilitating HR attendance management work.</p>
+                            <p class="features-desc">Displays the total number of hours worked, downloading this data in regards to work hours by task, team, and individual. Working hours can be displayed on a daily, weekly, or monthly basis, facilitating HR attendance management work.</p>
                         </div>
                         <div class="col-lg-6 features-item">
                             <img src="/img/features/feature-3.png" class="img-slide-screenshot modal-hover-opacity" alt="Dokodemo-Kerja is compatible with PC, Mobile & Tablet" />    
@@ -91,7 +58,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                         <div class="col-lg-6 features-item">
                             <span class="features-number">04</span>
                             <h2 class="features-title">Manage Non-Desk Work</h2>
-                            <p class="features-desc">With the smartphone app, you can track the action history for employees outside of the office by recording the working hours and locations. It will become possible to fully grasp the working hours even when the employee have an active work where desk work in the morning and meetings with the customer in the afternoon.</p>
+                            <p class="features-desc">Through the smartphone app, you can track the action history for employees working outside of the office by recording their work hours and locations. It will become possible to fully grasp the extent of one's work hours even when the employee has a work schedule that entails being at their desk in the morning and travelling to meetings with customers in the afternoon.</p>
                         </div>
                         <div class="col-lg-6 features-item">
                             <img src="/img/features/feature-4.png" class="img-slide-screenshot modal-hover-opacity" alt="Dokodemo GPS features" />    
@@ -100,10 +67,10 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                     <div class="row">
                         <div class="col-lg-6 features-item">
                             <span class="features-number">05</span>
-                            <h2 class="features-title">Manage the attendance, late arrival, and working hours</h2>
-                            <p class="features-desc">Easily manage and discover cases for late arrivals, work hour is not fulfilled, and even leave early cases.
+                            <h2 class="features-title">Manage attendance, late arrivals, and working hours</h2>
+                            <p class="features-desc">Easily manage and keep track of instances of late arrivals, unfulfilled work hours, and even early leave cases.
                             <br>
-                            With the work hour recorded calculation of overtime hours can be easily determined.</p>
+                            With work hours being recorded, the calculation of overtime hours can thereby be easily determined.</p>
                         </div>
                         <div class="col-lg-6 features-item">
                             <img src="/img/features/feature-5.jpg" class="img-slide-screenshot modal-hover-opacity" alt="Manage Attendance" />    
@@ -113,7 +80,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                         <div class="col-lg-6 features-item">
                             <span class="features-number">06</span>
                             <h2 class="features-title">Manage Day Offs and Holidays</h2>
-                            <p class="features-desc">You can approve Day Off requests through Dokodemo-Kerja. HR can easily manage the number of day offs taken and remaining numbers.</p>
+                            <p class="features-desc">You can approve any Day Off requests through Dokodemo-Kerja. HR can easily manage the number of day offs taken as well as any remaining numbers.</p>
                         </div>
                         <div class="col-lg-6 features-item">
                             <img src="/img/features/feature-6.jpg" class="img-slide-screenshot modal-hover-opacity" alt="Manage Leaves and Day Offs" />    
@@ -122,12 +89,12 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                     <div class="row">
                         <div class="col-lg-6 features-item">
                             <span class="features-number">07</span>
-                            <h2 class="features-title">User just need to "<strong>Start</strong>" and "<strong>Stop</strong>" the application</h2>
+                            <h2 class="features-title">The user simply needs to "<strong>Start</strong>" and "<strong>Stop</strong>" the application.</h2>
                             <div class="employee-feature-list pl-0">
                                 <ul>
                                     <li>Users will be able to work anywhere, at any time.</li>
                                     <li>It allows the user to work productively in an environment that is most comfortable to the user.</li>
-                                    <li>When taking breaks, user will have to press the "Stop" button, so as to accurately calculate the working hours.</li>
+                                    <li>When taking breaks, the user will have to press the "<strong>Stop</strong>" button, so as to accurately calculate the total number of work hours during the end of the day.</li>
                                 </ul>
                             </div>
                         </div>
@@ -158,93 +125,9 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
             </div>
         </div>
     </section>
-    <?php include './component/demo-banner.php' ?>
-    <?php include "footer.php" ?>
-    <script src="/js/jquery-3.4.1.min.js"></script>
-    <script src="/js/bootstrap.min.js"></script>
-    <script src="/js/slick.min.js"></script>
-    <script src="/js/jquery.magnific-popup.min.js"></script>
-    <script src="/js/jquery.countdown.min.js"></script>
-    <script src="/js/seminar-banner/seminar-banner.js?v=1.1"></script>
 
-    <script>
-        $(".screenshot-slide").slick({
-            infinite: true,
-            slidesToShow: 3,
-            slidesToScroll: 1,
-            responsive: [{
-                breakpoint: 992,
-                settings: {
-                    slidesToShow: 2,
-                    slidesToScroll: 2
-                }
-            }, {
-                breakpoint: 768,
-                settings: {
-                    slidesToShow: 1,
-                    slidesToScroll: 1
-                }
-            }, ]
-        })
-        $('.testimony-slider').slick({
-            infinite: true,
-            slidesToShow: 3,
-            slidesToScroll: 3,
-            arrows: false,
-            dots: true,
-            responsive: [{
-                breakpoint: 992,
-                settings: {
-                    slidesToShow: 2,
-                    slidesToScroll: 2
-                }
-            }, {
-                breakpoint: 768,
-                settings: {
-                    slidesToShow: 1,
-                    slidesToScroll: 1
-                }
-            }, ]
-        });
-    </script>
-    <script>
-    $(document).ready(function() {
-        $('.zoom-gallery').magnificPopup({
-            delegate: 'a',
-            type: 'image',
-            closeOnContentClick: false,
-            closeBtnInside: false,
-            mainClass: 'mfp-with-zoom mfp-img-mobile',
-            image: {
-                verticalFit: true,
-                titleSrc: function(item) {
-                    return item.el.attr('title') + ' &middot; <a class="image-source-link" href="'+item.el.attr('data-source')+'" target="_blank">image source</a>';
-                }
-            },
-            gallery: {
-                enabled: false
-            },
-            zoom: {
-                enabled: true,
-                duration: 300, // don't foget to change the duration also in CSS
-                opener: function(element) {
-                    return element.find('img');
-                }
-            }
+</div>
 
-        });
-    });
-    </script>
-    <script>
-        var element = document.getElementById("popup-text");
-
-        var t=setTimeout(openPopUp,5000);
-        function openPopUp() {
-        element = document.getElementById("popup-text");
-        element.style.visibility = "visible";
-        element.style.opacity = "1";
-        }
-    </script>
-</body>
-
-</html>
+<?php include($_SERVER['DOCUMENT_ROOT'].'/component/demo-banner.php'); ?>
+<?php include($_SERVER['DOCUMENT_ROOT'].'/component/footer.php'); ?>
+<?php include($_SERVER['DOCUMENT_ROOT'].'/component/footer-end.php') ?>

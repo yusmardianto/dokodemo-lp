@@ -1,58 +1,26 @@
-<!DOCTYPE html>
-<html lang="ja">
+<?php 
+    $page = 'price';
+    $page_title = 'リモートワーク管理ツールDokodemo-Kerjaの料金';
 
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=5.0" />
-    <meta http-equiv="X-UA-Compatible" content="ie=edge">
-	<meta name="description" itemprop="description" content="Dokodemo-Kerjaは従業員の勤怠管理と作業内容をスクリーンショットを管理することで把握するクラウドツールです。インドネシアで開発販売しています。価格は月額１,000,000 IDR〜となっています。">
-    <meta name="keywords" content="">
-    <meta name="author" content="PT. LOGIQUE Digital Indonesia">
-	<meta name="google-site-verification" content="Xc9SFJQZdKYLsrWvrxEjLLTA-nyrnNPQTXQoMxs4gKI" />
-    <meta property="og:title" content="リモートワーク管理ツールDokodemo-Kerjaの料金">
-    <meta property="og:type" content="website">
-    <meta property="og:site_name" content="Dokodemo-Kerja">
-    <meta property="og:url" content="https://dokodemo-kerja.com">
-    <meta property="og:image" content="https://dokodemo-kerja.com/img/dokodemo-og.jpg">
-    <meta property="og:description" content="Dokodemo-Kerjaは月額１ジュタルピアからお使いいただける勤怠管理＆リモートワーク管理ツールです。">
-    <link rel="canonical" href="https://dokodemo-kerja.com/jpn/price">
-    <link rel="stylesheet" href="/css/bootstrap.min.css" />
-    <link href="/fonts/font-awesome/css/font-awesome.min.css" rel="stylesheet">
-    <link rel="stylesheet" href="/css/slick.css" />
-    <link rel="stylesheet" href="/css/slick-theme.css" />
-    <link rel="stylesheet" href="/css/header-footer.css" />
-    <link rel="stylesheet" href="/css/style.css" />
-    <link rel="stylesheet" href="/css/style-pricing.css" />
-	<link rel="shortcut icon" type="image/x-icon" href="favicon.ico">
-    <title>リモートワーク管理ツールDokodemo-Kerjaの料金</title>
-    <script src="https://www.googleoptimize.com/optimize.js?id=OPT-P232K37"></script>
-	<!-- Google Tag Manager -->
-	<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
-	new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
-	j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
-	'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
-	})(window,document,'script','dataLayer','GTM-WT4MCDL');</script>
-	<!-- Facebook Pixel Code -->
-	<script> !function(f,b,e,v,n,t,s) {if(f.fbq)return;n=f.fbq=function(){n.callMethod? n.callMethod.apply(n,arguments):n.queue.push(arguments)}; if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0'; n.queue=[];t=b.createElement(e);t.async=!0; t.src=v;s=b.getElementsByTagName(e)[0]; s.parentNode.insertBefore(t,s)}(window, document,'script', 'https://connect.facebook.net/en_US/fbevents.js'); fbq('init', '713777762291663'); fbq('track', 'PageView');</script>
-	<noscript><img height="1" width="1" style="display:none"
-	  src="https://www.facebook.com/tr?id=713777762291663&ev=PageView&noscript=1"
-	/></noscript>
-	<!-- End Facebook Pixel Code -->
-	<!-- Global site tag (gtag.js) - Google Analytics -->
-	<script async src="https://www.googletagmanager.com/gtag/js?id=UA-146404615-1"></script>
-	<script> window.dataLayer=window.dataLayer || []; function gtag(){dataLayer.push(arguments)} gtag('js', new Date()); gtag('config', 'UA-146404615-1');</script>
-</head>
-<?php $page = 'price'; ?>
-<body>
-<!-- Google Tag Manager (noscript) -->
-<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-WT4MCDL"
-height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
-<!-- End Google Tag Manager (noscript) -->
-    <?php include "header.php" ?>
-     <section class="price-plans">
+    $meta_description = 'Dokodemo-Kerjaは従業員の勤怠管理と作業内容をスクリーンショットを管理することで把握するクラウドツールです。インドネシアで開発販売しています。価格は月額１,000,000 IDR〜となっています。';
+    $meta_keyword = 'weed out underperforming employees, get rid of lazy employees, increase productivity, dokodemo trial, dokodemo free, free hr tool, free management tool, small business tool, low budget tool, low budget hr tool, low budget management tool, free time tracker, free employee time tracker, free man hour tracker, screenshot tracker, screenshot employee monitor software cheap';
+
+    $og_title = 'リモートワーク管理ツールDokodemo-Kerjaの料金';
+    $og_image = 'https://dokodemo-kerja.com/img/og-img/dokodemo-og.jpg';
+    $og_desription = 'Dokodemo-Kerjaは月額１ジュタルピアからお使いいただける勤怠管理＆リモートワーク管理ツールです。';
+
+    $canonical_link = 'https://dokodemo-kerja.com/price';
+
+    $add_css = '<link rel="stylesheet" href="/css/style-pricing.css" />';
+
+    include($_SERVER['DOCUMENT_ROOT'].'/jpn/component/header.php');
+?>
+
+<div class="">
+    <section class="price-plans">
          <div class="container mb-3">
-             <div class="row">
-                <div class="col-md-12 text-center pricing-page-title">
+             <div class="row justify-content-center">
+                <div class="col-md-10 text-center pricing-page-title">
                     <h2>Dokodemo-Kerjaでリモートワークを可能とし、<br>チームの生産性を向上させましょう。</h2>
                 </div>
             </div>
@@ -93,6 +61,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
             </div>
         </div>
     </section>
+
     <!-- <section class="mb-5">
         <div class="container">
             <div class="row">
@@ -104,6 +73,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
             </div>
         </div>
     </section> -->
+
     <section class="mb-5 custom-features-section">
         <div class="container">
             <div class="row">
@@ -134,6 +104,8 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
             </div>
         </div>
     </section>
+
+
     <section id="FAQ" class="faq mb-5">
         <div class="div-faq">
         <div class="container">
@@ -216,33 +188,15 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
         </div>
         </div>
     </section>
-    <!-- end of req online meeting popup -->
+
+
     <section class="read-testimony">
         <h3>オンラインミーティングのリクエストはこちらから</h3>
         <a href="/contact-us.php" class="btn-read-testimony" id="btn-read-testimony">
         リクエストする
         </a>
     </section>
-    <?php include "footer.php" ?>
-	<script src="/js/jquery-3.4.1.min.js"></script>
-    <script src="/js/bootstrap.min.js"></script>
-    <script src="/js/jquery.countdown.min.js"></script>
-    <script src="/js/seminar-banner/seminar-banner.js?v=1.1"></script>
-    <script>
-        var element = document.getElementById("popup-text");
+</div>
 
-        var t=setTimeout(openPopUp,5000);
-        function openPopUp() {
-        element = document.getElementById("popup-text");
-        element.style.visibility = "visible";
-        element.style.opacity = "1";
-        }
-    </script>
-    <script>
-        setTimeout(function() {
-            $('#myModal').modal();
-        }, 4000);
-    </script>
-</body>
-
-</html>
+<?php include($_SERVER['DOCUMENT_ROOT'].'/jpn/component/footer.php'); ?>
+<?php include($_SERVER['DOCUMENT_ROOT'].'/component/footer-end.php') ?>
