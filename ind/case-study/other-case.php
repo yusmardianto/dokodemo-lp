@@ -25,7 +25,7 @@
                         </a>
                     </div> -->
                     <?php if ($current_url != "case-1"): ?>
-                    <div class="col-md-4">
+                    <div class="col-md-4 <?php if ($current_url === "case-5") echo 'd-none'; ?>">
                         <a href="/ind/case-study/case-1" class="case-study__card-wrapper">
                             <div class="case-study__card">
                                 <img class="card__img" src="/img/case-study/case-1.png" alt="Working at the Computer" >

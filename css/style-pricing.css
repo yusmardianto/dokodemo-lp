@@ -1,4 +1,4 @@
-@font-face {
+/* @font-face {
   font-family: 'Khula';
   src: url('../fonts/Khula-Regular.ttf');
 }
@@ -23,15 +23,7 @@
 
 body {
   font-family: 'Khula';
-}
-
-.fs-30 {
-  font-size: 32px;
-}
-
-.fs-26 {
-  font-size: 28px;
-}
+} */
 
 .banner {
   position: relative;

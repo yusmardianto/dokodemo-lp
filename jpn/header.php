@@ -41,16 +41,16 @@
     }
 ?>
 
-<nav class="navbar navbar-expand-lg navbar-light">
+<nav class="doko-header navbar navbar-expand-lg navbar-light">
     <div class="container">
         <a class="navbar-brand" href="/jpn/" aria-label="homepage jp link">
-            <img src="/img/dokodemo.svg" width="85" alt="">
+            <img src="/img/dokodemo.svg" width="60" alt="">
         </a>
         <button id="btn-nav" class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
             <span class="navbar-toggler-icon"></span>
         </button>
         <div class="collapse navbar-collapse" id="navbarNav">
-            <ul class="navbar-nav flex-grow-1 justify-content-center --jp">
+            <ul class="mb-3 mb-lg-0 text-center navbar-nav --jp">
                 <li class="nav-item <?php active('') ?>">
                     <a class="nav-link" href="/jpn">ホーム</a>
                 </li>
@@ -58,36 +58,30 @@
                     <a class="nav-link" href="/about">Dokodemo-Kerjaについて</a>
                 </li> -->
                 <li class="nav-item <?php active('features') ?>">
-                    <a class="nav-link" href="/features">在宅勤務</a>
+                    <a class="nav-link" href="/jpn/features">在宅勤務</a>
                 </li>
                 <li class="nav-item <?php active_case() ?>">
-                    <a class="nav-link" href="/jpn/case-study/">Case Study</a>
+                    <a class="nav-link" href="/jpn/case-study/">事例</a>
                 </li>
                 <li class="nav-item <?php active('price') ?>">
                     <a class="nav-link" href="/jpn/price">価格</a>
                 </li>
                 <li class="nav-item <?php active('demo') ?>">
-                    <a class="nav-link" href="/demo">デモ</a>
+                    <a class="nav-link" href="/jpn/demo">デモ</a>
                 </li>
                 <li class="nav-item">
                     <a class="nav-link" target="_blank" rel="noopener noreferrer"
                         href="https://www.logique.co.id/blog/category/dokodemo-kerja/">ブログ</a>
                 </li>
                 <li class="nav-item <?php active('contact-us') ?>">
-                    <a class="nav-link" href="/contact-us">問い合わせ</a>
+                    <a class="nav-link" href="/jpn/contact-us">お問い合わせ</a>
                 </li>
-
-                <li class="nav-item flex-column">
-
-                </li>
-
             </ul>
             <div class="ml-auto">
-                <p class="text-center txt-lang">Language</p>
-                <div class="switch-language">
-                    <a href="/<?php echo $page;?>"><label for="radio-one">ENG</label></a>
-                    <a href="/ind/<?php echo $page;?>"><label for="radio-two">IND</label></a>
-                    <a href="/jpn/<?php echo $page;?>"><label class="active" for="radio-three">JPN</label></a>
+                <div class="d-flex justify-content-center switch-language">
+                    <a href="/ind/<?php echo $page;?>">ID</a>
+                    <a href="/<?php echo $page;?>">EN</a>
+                    <a href="/jpn/<?php echo $page;?>" class="active">JP</a>
                 </div>
             </div>
         </div>

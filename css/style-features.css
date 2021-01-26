@@ -1,4 +1,4 @@
-@font-face {
+/* @font-face {
   font-family: 'Khula';
   src: url('../fonts/Khula-Regular.ttf');
 }
@@ -19,21 +19,12 @@
   font-family: 'Khula';
   src: url('../fonts/Khula-SemiBold.ttf');
   font-weight: 600;
-}
+} */
 
-@font-face {
+/* @font-face {
   font-family: 'Font Awesome';
   src: url('../css/webfonts/fa-solid-900.ttf');
-}
-
-body {
-  font-family: 'Khula';
-  color: #505458;
-}
-
-.nav-item .nav-link {
-  color: black !important;
-}
+} */
 
 .features-item {
   position: relative;
