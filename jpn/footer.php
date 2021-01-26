@@ -18,14 +18,14 @@
                     <li class="list-inline-item"><a href="/jpn">ホーム</a></li>
                     <li class="list-inline-item"><a href="/about">Dokodemo-Kerjaについて</a></li>
                     <li class="list-inline-item"><a href="/jpn/features">在宅勤務</a></li>
-                    <li class="list-inline-item"><a href="/jpn/case-study">Case Study</a></li>
+                    <li class="list-inline-item"><a href="/jpn/case-study">事例</a></li>
                     <li class="list-inline-item"><a href="/jpn/price">価格</a></li>
                     <li class="list-inline-item"><a href="/jpn/demo">デモ</a></li>
                     <li class="list-inline-item"><a href="https://www.logique.co.id/blog/category/dokodemo-kerja/" target="_blank" rel="noopener noreferrer">ブログ</a></li>
                 </ul>
 
                 <ul class="mb-0 list-inline footer__list">
-                    <li class="list-inline-item"><a href="/jpn/contact-us">問い合わせ</a></li>
+                    <li class="list-inline-item"><a href="/jpn/contact-us">お問い合わせ</a></li>
                     <li class="list-inline-item"><a href="/jpn/price#FAQ">よくある質問</a></li>
                     <li class="list-inline-item"><a href="/subscribe">Subscribing Procedure</a></li>
                     <li class="list-inline-item"><a href="/terms">Terms and Condition</a></li>
