@@ -1,4 +1,4 @@
-@font-face {
+/* @font-face {
   font-family: 'Khula';
   src: url('../fonts/Khula-Regular.ttf');
 }
@@ -24,7 +24,7 @@
 body {
   font-family: 'Khula';
   color: #505458;
-}
+} */
 
 .top-content {
   /* background: url("../img/about/bg.jpg");
