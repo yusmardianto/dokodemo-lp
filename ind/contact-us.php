@@ -34,10 +34,10 @@
 	<section class="contact-top text-center">
 		<div class="container">
 			<div class="row contact-resp-settings">
-				<h1 class="d-none">Hubungi Logique Untuk Alat Kerja Remote Dokodemo Kerja</h1>
-				<div class="col-sm-12 fs-30 uppercase bold" style="margin-bottom:20px">
-					HUBUNGI KAMI
-				</div>
+				<h2 class="d-none">Hubungi Logique Untuk Alat Kerja Remote Dokodemo Kerja</h2>
+				<h1 class="col-sm-12 fs-32 uppercase bold" style="margin-bottom:20px">
+					KONTAK KAMI
+				</h1>
 				<div class="col-md-6 offset-md-3 fs-20 semibold">
 					Untuk informasi lebih lanjut tentang Dokodemo-Kerja, hubungilah kami dengan mengisi formulir dibawah ini.
 				</div>

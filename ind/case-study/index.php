@@ -33,7 +33,7 @@
 
     <section class="mb-5">
         <div class="container">
-            <h1 class="text-center mb-5">Studi Kasus: Bagaimana Anda Menggunakan Dokodemo-Kerja</h1>
+            <h1 class="text-center mb-5">Pengalaman Bekerja Dari Rumah Menggunakan Dokodemo</h1>
             <div class="row">
                 <div class="col-md-4">
                     <a href="/ind/case-study/case-1" class="case-study__card-wrapper">

@@ -204,7 +204,7 @@
 
     <section class="employee-benefits">
         <div class="container">
-            <h2 class="text-center fs-30">EMPLOYEES</h2>
+            <h2 class="text-center fs-32">EMPLOYEES</h2>
             <div class="row">
                 <div class="col-md-10 offset-md-1 about-resp-config">
                     <p class="fw-semibold text-center">In times of rapid growth, keeping a work-life balance has became a challenge. Here are the common types of problems that might hinder an employee's working-hour, and how Dokodemo-Kerja solves some of those problems.</p>

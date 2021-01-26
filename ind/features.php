@@ -22,8 +22,8 @@
         <div class="container">
             <div class="row">
                 <div class="col-md-10 offset-md-1 features-resp-config">
-                    <h1 class="fw-semibold fs-24 text-center mb-4">FITUR</h1>
-                    <p class="fw-semibold text-center">Dokodemo-Kerja adalah aplikasi kerja remote yang dibuat berdasarkan fungsi pencatatan waktu kerja (dengan fungsi screen capture). Selain efektif untuk meningkatkan efisiensi kerja, juga membantu tim HR seperti memantau data kehadiran, penghitungan upah lembur, dan penghitungan jumlah cuti, dengan adanya fungsi diatas membuka peluang untuk menerapkan gaya kerja yang fleksibel seperti kerja jarak jauh maupun pengurangan jam kerja sehingga produktivitas karyawan meningkat.</p>
+                    <h1 class="fw-semibold fs-24 text-center mb-4">Fitur Dokodemo-Kerja (Aplikasi Kerja Remote)</h1>
+                    <p class="fw-semibold text-center">Dokodemo-Kerja adalah aplikasi kerja remote (work from home) yang dibuat berdasarkan fungsi pencatatan waktu kerja (dengan fungsi screen capture). Selain efektif untuk meningkatkan efisiensi kerja, juga membantu tim HR seperti memantau data kehadiran, penghitungan upah lembur, dan penghitungan jumlah cuti, dengan adanya fungsi diatas membuka peluang untuk menerapkan gaya kerja yang fleksibel seperti kerja jarak jauh maupun pengurangan jam kerja sehingga produktivitas karyawan meningkat.</p>
                     <div class="row">
                         <div class="col-lg-6 features-item">
                             <span class="features-number">01</span>

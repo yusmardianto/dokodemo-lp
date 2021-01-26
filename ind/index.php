@@ -27,7 +27,7 @@
                 <div class="row align-items-center justify-content-center">
                     <div class="col-lg-6 order-1 order-lg-first">
                         <h4 class="fs-18">Ayo Kerja Remote dengan <span class="font-weight-bold">Dokodemo-Kerja</span>,</h4>
-                        <h1 class="color--yellow fs-34 font-weight-bold">Tingkatkan Efisiensi Anggaran dan Produktifitas</h1>
+                        <h1 class="color--yellow fs-34 font-weight-bold">Aplikasi Absensi Online untuk Produktivitas Kerja dan Efisiensi Anggaran</h1>
                         <div class="row my-4 banner__benefit">
                             <div class="col-4">
                                 <div class="text-center">
@@ -89,7 +89,7 @@
                                 </div>
                             </div>
                         </div>
-                        <p class="mb--70px text-center">Dokodemo-Kerja adalah aplikasi absensi online terbaik untuk kerja jarak jauh yang memungkinkan penggunanya untuk bekerja fleksibel. Aplikasi ini bermanfaat bagi perusahaan dan karyawan untuk transparansi pekerjaan. Dokodemo-Kerja juga memungkinkan penggunanya untuk melaporkan pekerjaan yang telah mereka lakukan kapan saja, dan di mana saja. Hal ini memungkinkan untuk mengatur jam kerja secara akurat, serta membantu memudahkan tim HR dalam melakukan perhitungan jam lembur dan jumlah cuti. Dokodemo-Kerja mempunyai fitur yang berfungsi mengambil dan mengelola tangkapan layar pada saat bekerja, sehingga Anda dapat mencegah perilaku yang tidak sesuai selama jam kerja berlangsung.</p>
+                        <p class="mb--70px text-center">Dokodemo-Kerja merupakan Aplikasi Kerja Jarak Jauh (Remote Working Apps) yang memiliki beragam fungsi dan keunggulan. Fungsi utama aplikasi ini adalah sebagai <strong>Absensi Online</strong> yang tidak hanya mencatat waktu masuk, istirahat dan waktu pulang karyawan saja, tetapi juga dapat mengakumulasi total waktu kerja karyawan secara akurat.</p>
                     </div>
                 </div>
                 <div class="row align-items-center">
@@ -182,7 +182,7 @@
                         <div class="title--bg title--bg-border title--bg-border-left" data-title-bg="Features">                            
                             <h2 class="mt-3 mb-0 font-weight-bold fs-34">Features</h2>
                         </div>
-                        <p class="mb-4 fs-14">Seperti pada aplikasi absensi online lainnya, karyawan diwajibkan untuk menandakan kapan mereka mulai dan berhenti bekerja. Perbedaannya adalah pada verifikasi validitas dari jam kerja tersebut. Dengan menangkap layar pengguna yang sedang bekerja secara acak dan menyimpannya di server cloud, Anda dapat memahami dan membedakan antara pengguna yang bekerja aktual, bermain game, menonton Youtube, dll sehingga dapat mencegah kegiatan yang melanggar aturan kantor. Kami juga mendukung sistem pekerjaan HR yang efisien seperti penghitungan jam lembur, pengelolaan cuti, dan juga analisa waktu kerja berdasarkan tugas, departemen, harian, mingguan, dan bulanan.</p>
+                        <p class="mb-4 fs-14">Sebagai aplikasi absensi online, Dokodemo-Kerja telah dilengkapi dengan fitur tangkapan layar monitor (screen capture) untuk mengetahui detail pekerjaan yang sedang dikerjakan karyawan, tanpa mengganggu privasi karyawan tersebut karena hasil tangkapan layar yang dihasilkan memiliki resolusi rendah. Aplikasi Dokodemo-Kerja juga dilengkapi dengan pelacakan GPS sehingga dapat merekam produktivitas karyawan yang bekerja secara mobile.</p>
                         <div class="row justify-content-center justify-content-lg-start">
                             <div class="col-auto col-md-6">
                                 <a href="/ind/features" class="form-control btn btn--rounded bg--yellow px-4">View More</a>
@@ -253,7 +253,7 @@
                         <div class="p-3 rounded-lg bg--blue-gradation-right">
                             <div class="row justify-content-center align-items-center">
                                 <div class="col-md-8 col-lg-6 order-last order-md-first">
-                                    <h4 class="fs-20 font-weight-bold">Perekrutan tanpa Batas</h4>
+                                    <h4 class="fs-20 font-weight-bold">Bekerja tanpa Batas</h4>
                                     <p class="mb-0 fs-14">Tanpa perlu datang ke kantor, perusahaan dapat mengoptimalkan karyawan Anda secara profesional dari mana saja.</p>
                                 </div>
                                 <div class="col-4 col-lg-6 mb-3 mb-lg-0 order-first order-md-last text-center">
@@ -275,7 +275,7 @@
                                     </picture>
                                 </div>
                                 <div class="col-md-8 col-lg-6">
-                                    <h4 class="fs-20 font-weight-bold">Pertahankan Karyawan</h4>
+                                    <h4 class="fs-20 font-weight-bold">Hidup yang Seimbang</h4>
                                     <p class="mb-0 fs-14">Karyawan yang harus merawat anggota keluarga mereka tidak perlu lagi memilih, dan mereka dapat lanjut bekerja dari rumah. Dengan kebijakan strategi kerja remote, karyawan pun bisa mendapatkan keseimbangan antara bekerja dan kehidupan pribadi.</p>
                                 </div>
                             </div>                            
@@ -297,8 +297,8 @@
                             </div>
                         </div> 
                     </div>
-                    <div class="col-auto col-md-4">
-                        <a href="/ind/features" class="form-control btn btn--rounded bg--yellow px-4">Cari tahu lebih lanjut tentang fungsi-fungsi di Dokodemo-Kerja</a>
+                    <div class="col-auto col-md-6">
+                        <a href="/ind/features" class="form-control btn btn--rounded bg--yellow px-4">Cari tahu tentang aplikasi absensi online Dokodemo Kerja</a>
                     </div>
 
                 </div>

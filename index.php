@@ -297,7 +297,7 @@
                             </div>
                         </div> 
                     </div>
-                    <div class="col-auto col-md-4">
+                    <div class="col-auto col-md-6">
                         <a href="/features" class="form-control btn btn--rounded bg--yellow px-4">Find out more about features in Dokodemo-Kerja</a>
                     </div>
 

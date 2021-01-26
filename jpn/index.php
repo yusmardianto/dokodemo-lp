@@ -25,7 +25,7 @@
     <section class="pt-5 pb--70px color--blue home__banner">
         <div class="container">
             <div class="row align-items-center justify-content-center">
-                <div class="col-lg-6 order-1 order-md-first">
+                <div class="col-lg-6 order-1 order-lg-first">
                     <h4 class="fs-18"><span class="font-weight-bold">Dokodemo-Kerja</span> でリモートワークを実現</h4>
                     <h1 class="color--yellow fs-34 font-weight-bold">フレキシブルで生産性の高い働き方を可能とします</h1>
                     <div class="row my-4 banner__benefit">
@@ -61,11 +61,15 @@
                         </div>
                     </div>
                 </div>
-                <div class="col-8 col-md-6 order-first order-lg-2">
-                    <picture>
+                <div class="col-10 col-md-8 col-lg-6 order-first order-lg-2">
+                    <!-- <picture>
                         <source srcset="/img/home/home-banner.webp" type="image/webp">
                         <img src="/img/home/home-banner.png" alt="Dokodemo Remote Working" class="img-fluid mb-4 mb-lg-0">
-                    </picture>
+                    </picture> -->
+                    <div class="d-flex justify-content-center align-items-center">
+                        <div class="w-100 mb-4 mb-lg-0 banner__animation" id="homepage_animation"></div>
+                        <div class="loader">Loading...</div>
+                    </div>
                 </div>
                 <div class="col-12 order-last">
                     <div class="mt--30px mb-5 py--20px px--30px bg--l-blue border--blue rounded-lg shadow--blue">
@@ -293,7 +297,7 @@
                         </div>
                     </div> 
                 </div>
-                <div class="col-auto col-md-4">
+                <div class="col-auto col-md-6">
                     <a href="/jpn/features" class="form-control btn btn--rounded bg--yellow px-4">Dokodemo-Kerjaの機能をもっと詳しくみる</a>
                 </div>
 

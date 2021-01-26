@@ -34,10 +34,10 @@
 	<section class="contact-top text-center">
 	  	<div class="container">
 		 	 <div class="row contact-resp-settings">
-		  		<h1 class="d-none">Contact Logique about the Remote Working Tool, Dokodemo Kerja </h1>
-				<div class="col-sm-12 fs-30 uppercase bold" style="margin-bottom:20px">
+		  		<h2 class="d-none">Contact Logique about the Remote Working Tool, Dokodemo Kerja </h2>
+				<h1 class="col-sm-12 fs-32 uppercase bold" style="margin-bottom:20px">
 					Contact Us
-				</div>
+				</h1>
 				<div class="col-md-6 offset-md-3 fs-20 semibold">
 					For more information about Dokodemo-Kerja, please contact us by filling out the form below.
 				</div>

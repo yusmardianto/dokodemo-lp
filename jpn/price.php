@@ -19,8 +19,8 @@
 <div class="">
     <section class="price-plans">
          <div class="container mb-3">
-             <div class="row">
-                <div class="col-md-12 text-center pricing-page-title">
+             <div class="row justify-content-center">
+                <div class="col-md-10 text-center pricing-page-title">
                     <h2>Dokodemo-Kerjaでリモートワークを可能とし、<br>チームの生産性を向上させましょう。</h2>
                 </div>
             </div>
