@@ -25,7 +25,7 @@
         <section class="pt-5 pb--70px color--blue home__banner">
             <div class="container">
                 <div class="row align-items-center justify-content-center">
-                    <div class="col-lg-6 order-1 order-lg-first">
+                    <div class="col-lg-6">
                         <h4 class="fs-18">Ayo Kerja Remote dengan <span class="font-weight-bold">Dokodemo-Kerja</span>,</h4>
                         <h1 class="color--yellow fs-34 font-weight-bold">Aplikasi Absensi Online untuk Produktivitas Kerja dan Efisiensi Anggaran</h1>
                         <div class="row my-4 banner__benefit">
@@ -61,7 +61,7 @@
                             </div>
                         </div>
                     </div>
-                    <div class="col-10 col-md-8 col-lg-6 order-first order-lg-2">
+                    <div class="col-10 col-md-8 col-lg-6">
                         <!-- <picture>
                             <source srcset="/img/home/home-banner.webp" type="image/webp">
                             <img src="/img/home/home-banner.png" alt="Dokodemo Remote Working" class="img-fluid mb-4 mb-lg-0">
@@ -71,7 +71,7 @@
                             <div class="loader">Loading...</div>
                         </div>
                     </div>
-                    <div class="col-12 order-last">
+                    <div class="col-12">
                         <div class="mt--30px mb-5 py--20px px--30px bg--l-blue border--blue rounded-lg shadow--blue">
                             <div class="row align-items-center">
                                 <div class="col-md-8 col-lg-6">

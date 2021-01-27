@@ -1,203 +1,215 @@
-html,
-body {
-  scroll-behavior: smooth;
-}
-
-.bg--blue {
-  background-color: #1a8be2;
-}
-
 .w-25px {
-  width: 25px;
+    width: 25px;
 }
 
-.position-static {
-  position: static;
+/* title bg */
+.title--bg::before {
+    width: max-content;
+    font-size: 90px;
+    letter-spacing: -5px;
+}
+
+.help__explain {
+    overflow: hidden;
 }
 
 /* navigation */
 .explain__topic {
-  position: sticky;
-  position: -webkit-sticky;
-  top: 0;
-  padding-top: 20px;
+    position: sticky;
+    position: -webkit-sticky;
+    top: 0;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    box-shadow: 0px 28px 17px -16px rgba(0, 0, 0, 0.14);
 }
+
 .help__explain .explain__topic .nav-link,
 .help__explain .explain__topic .nav-item > .collapse a {
-  display: block;
-  width: 100%;
+    display: block;
+    width: 100%;
 }
 
 .help__explain .explain__topic .nav-link {
-  text-align: left;
-  font-size: 20px;
+    font-size: 20px;
 }
 
-.help__explain .explain__topic .nav-item:first-child .nav-link {
-  padding-top: 0;
+.help__explain .explain__topic .nav-link,
+.help__explain .explain__topic [data-parent="#accordion"] a {
+    color: #000;
 }
 
 .help__explain .explain__topic .nav-item {
-  flex-direction: column;
-  align-items: flex-start;
+    flex-direction: column;
+    align-items: flex-start;
+    transition: all 0.15s ease-in-out;
 }
 
-.help__explain .explain__topic .nav-item ul {
-  margin-left: 30px;
+.help__explain .explain__topic .nav-item > a {
+    font-weight: 600;
+}
+
+.help__explain .explain__topic .nav-item[data-toggle="collapse"] .nav-link.active,
+.help__explain .explain__topic .nav-item[data-toggle="collapse"]:hover .nav-link,
+.help__explain .explain__topic .nav-item ul li:hover a {
+    background: linear-gradient(#198ae0, #198ae0) left/3px no-repeat, #eaf6ff;
+    color: #1889df;
+}
+
+.help__explain .explain__topic .nav-item ul li a {
+    padding: 8px 8px 8px 30px;
 }
 
 .help__explain .explain__topic .nav-item ul a:not(:last-child) li {
-  margin-bottom: 5px;
+    margin-bottom: 5px;
 }
 
 .help__explain .explain__topic .nav-item ul a:hover {
-  text-decoration: none;
-  color: #ffca13;
+    text-decoration: none;
+    color: #ffca13;
 }
 
 /* sidebar */
 .explain__topic.hide-mobile {
-  left: -1000px;
-  display: block;
+    left: -1000px;
+    display: block;
 }
 
 .sidebar-open {
-  overflow: hidden;
+    overflow: hidden;
 }
 .sidebar-overlay {
-  background: rgba(0, 0, 0, 0.3);
-  position: fixed;
-  top: 0;
-  left: 0;
-  z-index: 1099;
-  width: 100%;
-  height: 100vh;
-  transition: left 0.3s;
-  display: none;
+    background: rgba(0, 0, 0, 0.3);
+    position: fixed;
+    top: 0;
+    left: 0;
+    z-index: 1099;
+    width: 100%;
+    height: 100vh;
+    transition: left 0.3s;
+    display: none;
 }
 .btn__close-sidebar {
-  z-index: 1101;
-  position: fixed;
-  top: 20px;
-  right: 20px;
-  color: white;
-  font-size: 20px;
-  cursor: pointer;
-  border-radius: 5px;
-  background: rgba(0, 0, 0, 0.4);
-  padding: 5px 10px;
-  transition: right 0.3s;
-  display: none;
-  font-family: 'Roboto';
+    z-index: 1101;
+    position: fixed;
+    top: 20px;
+    right: 20px;
+    color: white;
+    font-size: 20px;
+    cursor: pointer;
+    border-radius: 5px;
+    background: rgba(0, 0, 0, 0.4);
+    padding: 5px 10px;
+    transition: right 0.3s;
+    display: none;
+    font-family: "Roboto";
 }
 
 @media (max-width: 991px) {
-  .btn__nav-menu{
-    z-index: 2;
-    background: #ffca13;
-    width: 30px;
-    height: 80px;
-    position: fixed;
-    left: 0;
-    border-radius: 0px 5px 5px 0;
-    transition: background-color .3s;
-    cursor: pointer;
-  }
-  .btn__nav-menu:hover{
-    background: #ebbc13;
-  }
-  .btn__nav-menu:after{
-    content: " ";
-    width: 0; 
-    height: 0; 
-    border-top: 10px solid transparent;
-    border-bottom: 10px solid transparent;
-    border-left: 10px solid black; 
-    position: absolute;
-    top: 50%;
-    left: 50%;
-    transform: translate(-50%, -50%);
-  }
+    .btn__nav-menu {
+        z-index: 2;
+        background: #ffca13;
+        width: 30px;
+        height: 80px;
+        position: fixed;
+        left: 0;
+        border-radius: 0px 5px 5px 0;
+        transition: background-color 0.3s;
+        cursor: pointer;
+    }
+    .btn__nav-menu:hover {
+        background: #ebbc13;
+    }
+    .btn__nav-menu:after {
+        content: " ";
+        width: 0;
+        height: 0;
+        border-top: 10px solid transparent;
+        border-bottom: 10px solid transparent;
+        border-left: 10px solid black;
+        position: absolute;
+        top: 50%;
+        left: 50%;
+        transform: translate(-50%, -50%);
+    }
 
-  .explain__topic {
-    position: fixed;
-    z-index: 1100;
-    top: 0;
-    left: 0;
-    margin-top: 0;
-    padding: 20px;
-    height: 100%;
-    max-height: 100%;
-    background: white;
-    transition: left 0.3s;
-    display: block;
-    overflow: auto;
-  }
-  .explain__topic.hide-mobile {
-    left: -1000px;
-    display: block;
-  }
-  .explain__topic .btn__close-sidebar {
-    right: 20px;
-    display: block;
-  }
-  .explain__topic.hide-mobile .btn__close-sidebar {
-    right: 1500px;
-  }
-  .sidebar-overlay {
-    left: 0;
-    display: block;
-  }
-  .sidebar-overlay.hide-mobile {
-    left: -2000px;
-  }
+    .explain__topic {
+        position: fixed;
+        z-index: 1100;
+        top: 0;
+        left: 0;
+        margin-top: 0;
+        /* padding: 20px; */
+        height: 100%;
+        max-height: 100%;
+        background: white;
+        transition: left 0.3s;
+        display: block;
+        overflow: auto;
+    }
+    .explain__topic.hide-mobile {
+        left: -1000px;
+        display: block;
+    }
+    .explain__topic .btn__close-sidebar {
+        right: 20px;
+        display: block;
+    }
+    .explain__topic.hide-mobile .btn__close-sidebar {
+        right: 1500px;
+    }
+    .sidebar-overlay {
+        left: 0;
+        display: block;
+    }
+    .sidebar-overlay.hide-mobile {
+        left: -2000px;
+    }
 }
 
 /* content */
 .help__explain .explain__content .tab-pane picture img {
-  border: solid 1px #ccc;
-  box-shadow: 2px 2px 12px 1px rgba(0, 0, 0, 0.15);
+    width: 100%;
 }
 
 /* custom ordered list */
 .list--multi-level {
-  list-style-type: none;
-  counter-reset: item;
-  margin: 0;
-  padding: 0;
+    list-style-type: none;
+    counter-reset: item;
+    margin: 0;
+    padding: 0;
 }
 
 .list--multi-level > li {
-  display: table;
-  counter-increment: item;
+    display: table;
+    counter-increment: item;
 }
 
 .list--multi-level > li:before {
-  content: var(--start) "." counters(item, ".");
-  display: table-cell;
-  padding-right: 0.6em;
+    content: var(--start) "." counters(item, ".");
+    display: table-cell;
+    padding-right: 0.6em;
 }
 
 .list--multi-level.list--bold > li:before {
-  font-weight: bold;
-  font-size: 1.25rem;
+    font-weight: bold;
+    font-size: 1.25rem;
 }
 
 ol.list--bold > li::marker {
-  font-weight: bold;
+    font-weight: bold;
 }
 
 @media (max-width: 991.98px) {
-  .help__explain .explain__topic .nav-item {
-    margin-left: 0;
-  }
+    .help__explain .explain__topic .nav-item {
+        margin-left: 0;
+    }
 }
 
 @media (max-width: 767.98px) {
-  .help__explain .explain__topic {
-    margin-bottom: 20px;
-  }
-  .help__explain .explain__topic .nav-link {
-    padding-left: 0;
-  }
+    .help__explain .explain__topic {
+        margin-bottom: 20px;
+    }
+    /* .help__explain .explain__topic .nav-link {
+        padding-left: 0;
+    } */
 }
