@@ -17,8 +17,8 @@
         ],
         
         // -- captcha --
-        'site_key' => '6LeIxAcTAAAAAJcZVRqyHh71UMIEGNQ_MXjiZKhI',
-        'secret_key' => '6LeIxAcTAAAAAGG-vFI1TnRWxMZNFuojJ4WifJWe',
+        'site_key' => ($_SERVER['HTTP_HOST'] == 'dokodemo-kerja.com') ? '6Lcou10UAAAAAGM-POIo4qYEMQ25KoSDVf5rEIES' : '6LeIxAcTAAAAAJcZVRqyHh71UMIEGNQ_MXjiZKhI',
+        'secret_key' => ($_SERVER['HTTP_HOST'] == 'dokodemo-kerja.com') ? '6Lcou10UAAAAAGS0iS4F-hBpLxgfyPV5J9AGED5N' : '6LeIxAcTAAAAAGG-vFI1TnRWxMZNFuojJ4WifJWe',
 
     ];
 ?>
