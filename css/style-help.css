@@ -50,12 +50,16 @@
 
 .help__explain .explain__topic .nav-item[data-toggle="collapse"] .nav-link.active,
 .help__explain .explain__topic .nav-item[data-toggle="collapse"]:hover .nav-link,
-.help__explain .explain__topic .nav-item ul li:hover a {
+.help__explain .explain__topic .nav-item ul li:hover {
     background: linear-gradient(#198ae0, #198ae0) left/3px no-repeat, #eaf6ff;
     color: #1889df;
 }
 
-.help__explain .explain__topic .nav-item ul li a {
+.help__explain .explain__topic .nav-item ul li:hover a {
+    color: #1889df;
+}
+
+.help__explain .explain__topic .nav-item ul li {
     padding: 8px 8px 8px 30px;
 }
 
