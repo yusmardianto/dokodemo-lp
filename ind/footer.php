@@ -1,7 +1,7 @@
 <footer class="bg--blue text-white">
     <div class="container">
-        <div class="py--30px row align-items-end">
-            <div class="col-md-4 col-lg-3 mb-4 mb-lg-0">
+        <div class="py--30px row align-items-center align-items-lg-end">
+            <div class="col-md-3 col-lg-2 mb-4 mb-md-0">
                 <div class="row">
                     <div class="col-12 col-md-auto">
                         <div class="mr-auto text-center">
@@ -13,7 +13,7 @@
                     </div>
                 </div>
             </div>
-            <div class="col-md-4 col-lg-6 text-center align-self-center fs-12">
+            <div class="col-md-6 col-lg-8 text-center align-self-center fs-12">
                 <ul class="mb-2 list-inline footer__list">
                     <li class="list-inline-item"><a href="/ind">Home</a></li>
                     <li class="list-inline-item"><a href="/ind/about">About Us</a></li>
@@ -33,7 +33,7 @@
                     <li class="list-inline-item"><a href="/ind/privacy">Privacy Policy</a></li>
                 </ul>
             </div>
-            <div class="col-md-4 col-lg-3 text-center text-md-right">
+            <div class="col-md-3 col-lg-2 text-center text-md-right">
                 <a href="https://www.logique.co.id/" target="_blank" rel="noopener noreferrer" aria-label="Homepage Link">
                     <img src="/img/lgq-white.png" class="img-fluid mb--30px logique-logo" alt="" />
                 </a>
