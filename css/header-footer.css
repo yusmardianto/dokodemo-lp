@@ -71,7 +71,7 @@ footer .footer__list li a:hover {
 }
 
 footer .footer__socmed a img {
-  height: 23px;
+  height: 20px;
   transition: all .15s ease-in-out;
 }
 
@@ -80,7 +80,7 @@ footer .footer__socmed a img:hover {
 }
 
 footer .footer__socmed li:not(:last-child) {
-  margin-right: 20px;
+  margin-right: 8px;
 }
 
 footer .logique-logo {

@@ -170,6 +170,10 @@ html {
     background-color: #ffca13;
 }
 
+.border--gray {
+    border-color: #eaeaea;
+}
+
 .border--l-blue {
     border-color: #6ebbff !important;
 }
@@ -340,6 +344,58 @@ input[type="time"]::-webkit-calendar-picker-indicator {
 
 .input--time-step .time-step.time-step--down {
     bottom: 0;
+}
+
+/* title bg */
+.title--bg {
+    position: relative;
+    margin-bottom: 40px;
+    z-index: 0;
+}
+
+.title--bg::before {
+    content: attr(data-title-bg);
+    position: absolute;
+    width: 100%;
+    font-size: 100px;
+    font-weight: 800;
+    top: 45%;
+    left: -8px;
+    transform: translateY(-50%);
+    z-index: -1;
+    opacity: 10%;
+}
+
+.text-center.title--bg::before {
+    top: 45%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+.jp-page .title--bg::before {
+    font-size: 65px;
+}
+
+.title--bg.title--bg-border:after {
+    content: "";
+    position: absolute;
+    bottom: -20px;
+    background-color: #4c9de4;
+    width: 210vh;
+    height: 1px;
+}
+
+.title--bg.title--bg-border.title--bg-border-left:after {
+    left: 0;
+}
+
+.title--bg.title--bg-border.title--bg-border-right:after {
+    right: 0;
+}
+
+.title--bg.title--bg-border.text-center:after {
+    left: 50%;
+    transform: translateX(-25%);
 }
 
 /* banner demo */
@@ -916,15 +972,35 @@ input[type="time"]::-webkit-calendar-picker-indicator {
 }
 
 
-@media (max-width: 1200px) {
+@media (max-width: 1199.98px) {
     .free-seminar-section {
         background: url("../img/bg-countdown-mobile.png");
         background-size: cover;
         background-position: center;
     }
+
+    /* title bg */
+    .jp-page .title--bg::before {
+        font-size: 55px;
+    }
 }
 
-@media (max-width: 768px) {
+@media (max-width: 991.98px) {
+    /* title bg */
+    .title--bg::before {
+        font-size: 70px;
+    }
+    .jp-page .title--bg::before {
+        white-space: nowrap;
+    }
+}
+
+@media (max-width: 767.98px) {
+    /* title bg */
+    .title--bg::before {
+        font-size: 50px;
+    }
+    
     .free-seminar-section {
         min-height: 190px;
     }
