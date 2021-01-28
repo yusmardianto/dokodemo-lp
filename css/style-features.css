@@ -1,3 +1,7 @@
+.features > section {
+  overflow: hidden;
+}
+
 /* point */
 .features .features__point .list--circle li::after {
   top: 5px;
