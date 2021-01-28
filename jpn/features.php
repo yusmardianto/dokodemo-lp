@@ -11,7 +11,9 @@
 
     $canonical_link = 'https://dokodemo-kerja.com/features';
 
-    $add_css = '<link rel="stylesheet" href="/css/style-features.css" />';
+    $add_css = '
+    <link rel="stylesheet" href="/js/magnific-popup.css" />
+    <link rel="stylesheet" href="/css/style-features.css" />';
 
     include($_SERVER['DOCUMENT_ROOT'].'/jpn/component/header.php');
 ?>
@@ -41,7 +43,7 @@
                         <p class="mb-0 fs-14">最長10分間に1回画面を記録して保存します。プライバシーに配慮しキャプチャ画像の解像度は低く、eメールやメッセージツール内のテキストなどは読めません。開いているWindowのアプリケーション種類やWebサイトの種類が判別できるものです。ゲーム画面やYoutubeが開かれている。同じ画面のまま動きがないということは判明します。</p>
                     </div>
                     <div class="col-md-6 order-first order-md-last">
-                        <a href="/img/features/features-1-full.png" data-source="/img/features/features-1-full.png" title="Dokodemo-Kerja is compatible with PC, Mobile & Tablet" aria-label="Dokodemo-Kerja is compatible with PC, Mobile & Tablet" class="point__images">
+                        <a href="/img/features/features-1-full.jpg" data-source="/img/features/features-1-full.jpg" title="作業中、スクリーンキャプチャを取得し管理します" aria-label="作業中、スクリーンキャプチャを取得し管理します" class="point__images">
                             <picture>
                                 <source srcset="/img/features/features-1.webp" type="image/webp">
                                 <img src="/img/features/features-1.png" alt="" class="img-fluid d-block mx-auto">
@@ -54,7 +56,7 @@
             <div class="mb-3 p-3 bg--blue-gradation-left rounded-lg">
                 <div class="row">
                     <div class="col-md-6">
-                        <a href="/img/features/features-2-full.png" data-source="/img/features/features-2-full.png" title="Dokodemo-Kerja is compatible with PC, Mobile & Tablet" aria-label="Dokodemo-Kerja is compatible with PC, Mobile & Tablet" class="point__images">
+                        <a href="/img/features/features-2-full.jpg" data-source="/img/features/features-2-full.jpg" title="タスク別に作業時間を正確に記録します" aria-label="タスク別に作業時間を正確に記録します" class="point__images">
                             <picture>
                                 <source srcset="/img/features/features-2.webp" type="image/webp">
                                 <img src="/img/features/features-2.png" alt="" class="img-fluid d-block mx-auto">
@@ -75,7 +77,7 @@
                         <p class="mb-0 fs-14">タスク別、部署別、人別に勤務時間を集計表示＆データエクスポートができます。作業時間は、日別、週次、月次での表示ができますので、HRの勤怠管理業務を容易にします。</p>
                     </div>
                     <div class="col-md-6 order-first order-md-last">
-                        <a href="/img/features/features-3-full.png" data-source="/img/features/features-3-full.png" title="Dokodemo-Kerja is compatible with PC, Mobile & Tablet" aria-label="Dokodemo-Kerja is compatible with PC, Mobile & Tablet" class="point__images">
+                        <a href="/img/features/features-3-full.jpg" data-source="/img/features/features-3-full.jpg" title="分析可能" aria-label="分析可能" class="point__images">
                             <picture>
                                 <source srcset="/img/features/features-3.webp" type="image/webp">
                                 <img src="/img/features/features-3.png" alt="" class="img-fluid d-block mx-auto">
@@ -88,7 +90,7 @@
             <div class="mb-3 p-3 bg--blue-gradation-left rounded-lg">
                 <div class="row">
                     <div class="col-md-6">
-                        <a href="/img/features/features-4-full.png" data-source="/img/features/features-4-full.png" title="Dokodemo GPS features" aria-label="Dokodemo GPS features" class="point__images">
+                        <a href="/img/features/features-4-full.jpg" data-source="/img/features/features-4-full.jpg" title="非デスクワークも管理" aria-label="非デスクワークも管理" class="point__images">
                             <picture>
                                 <source srcset="/img/features/features-4.webp" type="image/webp">
                                 <img src="/img/features/features-4.png" alt="" class="img-fluid d-block mx-auto">
@@ -109,7 +111,7 @@
                         <p class="mb-0 fs-14">規定の勤務時間に足りて無いケース、遅刻、早退などを容易に発見可能になります。残業時間の計算も非常に簡易に行えます。</p>
                     </div>
                     <div class="col-md-6 order-first order-md-last">
-                        <a href="/img/features/features-5-full.png" data-source="/img/features/features-5-full.png" title="Manage Attendance" aria-label="Manage Attendance" class="point__images">
+                        <a href="/img/features/features-5-full.jpg" data-source="/img/features/features-5-full.jpg" title="欠勤、遅刻、勤務時間不足の管理" aria-label="欠勤、遅刻、勤務時間不足の管理" class="point__images">
                             <picture>
                                 <source srcset="/img/features/features-5.webp" type="image/webp">
                                 <img src="/img/features/features-5.png" alt="" class="img-fluid d-block mx-auto">
@@ -122,7 +124,7 @@
             <div class="mb-3 p-3 bg--blue-gradation-left rounded-lg">
                 <div class="row">
                     <div class="col-md-6">
-                        <a href="/img/features/features-6-full.png" data-source="/img/features/features-6-full.png" title="Manage Leaves and Day Offs" aria-label="Manage Leaves and Day Offs" class="point__images">
+                        <a href="/img/features/features-6-full.jpg" data-source="/img/features/features-6-full.jpg" title="休暇の管理" aria-label="休暇の管理" class="point__images">
                             <picture>
                                 <source srcset="/img/features/features-6.webp" type="image/webp">
                                 <img src="/img/features/features-6.png" alt="" class="img-fluid d-block mx-auto">
@@ -147,7 +149,7 @@
                         </ul>
                     </div>
                     <div class="col-md-6">
-                        <a href="/img/features/features-7-full.png" data-source="/img/features/features-7-full.png" title="Dokodemo-Kerja is compatible with PC, Mobile & Tablet" aria-label="Dokodemo-Kerja is compatible with PC, Mobile & Tablet" class="point__images">
+                        <a href="/img/features/features-7-full.jpg" data-source="/img/features/features-7-full.jpg" title="ユーザーは”スタート”と”ストップ”をしていただくだけです" aria-label="ユーザーは”スタート”と”ストップ”をしていただくだけです" class="point__images">
                             <picture>
                                 <source srcset="/img/features/features-7.webp" type="image/webp">
                                 <img src="/img/features/features-7.png" alt="" class="img-fluid d-block mx-auto">
@@ -163,5 +165,36 @@
 </div>
 
 <?php include($_SERVER['DOCUMENT_ROOT'].'/jpn/component/demo-banner.php'); ?>
-<?php include($_SERVER['DOCUMENT_ROOT'].'/jpn/component/footer.php'); ?>
+<?php 
+    $add_js = '<script src="/js/jquery.magnific-popup.min.js"></script>';
+    include($_SERVER['DOCUMENT_ROOT'].'/jpn/component/footer.php'); 
+?>
+<script>
+    $(function() {
+        $('.zoom-gallery').magnificPopup({
+            delegate: 'a',
+            type: 'image',
+            closeOnContentClick: false,
+            closeBtnInside: false,
+            mainClass: 'mfp-with-zoom mfp-img-mobile',
+            image: {
+                verticalFit: true,
+                titleSrc: function(item) {
+                    return item.el.attr('title') + ' &middot; <a class="image-source-link" href="'+item.el.attr('data-source')+'" target="_blank" rel="noopener noreferrer">Full Image</a>';
+                }
+            },
+            gallery: {
+                enabled: false
+            },
+            zoom: {
+                enabled: true,
+                duration: 300, // don't foget to change the duration also in CSS
+                opener: function(element) {
+                    return element.find('img');
+                }
+            }
+
+        });
+    })
+</script>
 <?php include($_SERVER['DOCUMENT_ROOT'].'/component/footer-end.php') ?>

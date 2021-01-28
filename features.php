@@ -43,7 +43,7 @@
                         <p class="mb-0 fs-14">The system will take a screenshot once, randomly within every 10 minutes. For reasons of privacy, the saved screenshot is of low resolution, therefore, any text found within, such as from emails or message tools cannot be read. The purpose of the screenshot is to determine the application or website type currently open: whether it is work related, YouTube, a game, etc. It also sends a notification to the admin when a user has the same screenshot taken 3 times in a row.</p>
                     </div>
                     <div class="col-md-6 order-first order-md-last">
-                        <a href="/img/features/features-1-full.png" data-source="/img/features/features-1-full.png" title="Dokodemo-Kerja is compatible with PC, Mobile & Tablet" aria-label="Dokodemo-Kerja is compatible with PC, Mobile & Tablet" class="point__images">
+                        <a href="/img/features/features-1-full.jpg" data-source="/img/features/features-1-full.jpg" title="Take and manage screenshots while engaged in work" aria-label="Take and manage screenshots while engaged in work" class="point__images">
                             <picture>
                                 <source srcset="/img/features/features-1.webp" type="image/webp">
                                 <img src="/img/features/features-1.png" alt="" class="img-fluid d-block mx-auto">
@@ -56,7 +56,7 @@
             <div class="mb-3 p-3 bg--blue-gradation-left rounded-lg">
                 <div class="row">
                     <div class="col-md-6">
-                        <a href="/img/features/features-2-full.png" data-source="/img/features/features-2-full.png" title="Dokodemo-Kerja is compatible with PC, Mobile & Tablet" aria-label="Dokodemo-Kerja is compatible with PC, Mobile & Tablet" class="point__images">
+                        <a href="/img/features/features-2-full.jpg" data-source="/img/features/features-2-full.jpg" title="Accurately records work time by task" aria-label="Accurately records work time by task" class="point__images">
                             <picture>
                                 <source srcset="/img/features/features-2.webp" type="image/webp">
                                 <img src="/img/features/features-2.png" alt="" class="img-fluid d-block mx-auto">
@@ -77,7 +77,7 @@
                         <p class="mb-0 fs-14">Displays the total number of hours worked, downloading this data in regards to work hours by task, team, and individual. Working hours can be displayed on a daily, weekly, or monthly basis, facilitating HR attendance management work.</p>
                     </div>
                     <div class="col-md-6 order-first order-md-last">
-                        <a href="/img/features/features-3-full.png" data-source="/img/features/features-3-full.png" title="Dokodemo-Kerja is compatible with PC, Mobile & Tablet" aria-label="Dokodemo-Kerja is compatible with PC, Mobile & Tablet" class="point__images">
+                        <a href="/img/features/features-3-full.jpg" data-source="/img/features/features-3-full.jpg" title="Easy to Analyze" aria-label="Easy to Analyze" class="point__images">
                             <picture>
                                 <source srcset="/img/features/features-3.webp" type="image/webp">
                                 <img src="/img/features/features-3.png" alt="" class="img-fluid d-block mx-auto">
@@ -90,7 +90,7 @@
             <div class="mb-3 p-3 bg--blue-gradation-left rounded-lg">
                 <div class="row">
                     <div class="col-md-6">
-                        <a href="/img/features/features-4-full.png" data-source="/img/features/features-4-full.png" title="Dokodemo GPS features" aria-label="Dokodemo GPS features" class="point__images">
+                        <a href="/img/features/features-4-full.jpg" data-source="/img/features/features-4-full.jpg" title="Manage Non-Desk Work" aria-label="Manage Non-Desk Work" class="point__images">
                             <picture>
                                 <source srcset="/img/features/features-4.webp" type="image/webp">
                                 <img src="/img/features/features-4.png" alt="" class="img-fluid d-block mx-auto">
@@ -113,7 +113,7 @@
                             With work hours being recorded, the calculation of overtime hours can thereby be easily determined.</p>
                     </div>
                     <div class="col-md-6 order-first order-md-last">
-                        <a href="/img/features/features-5-full.png" data-source="/img/features/features-5-full.png" title="Manage Attendance" aria-label="Manage Attendance" class="point__images">
+                        <a href="/img/features/features-5-full.jpg" data-source="/img/features/features-5-full.jpg" title="Manage attendance, late arrivals, and working hours" aria-label="Manage attendance, late arrivals, and working hours" class="point__images">
                             <picture>
                                 <source srcset="/img/features/features-5.webp" type="image/webp">
                                 <img src="/img/features/features-5.png" alt="" class="img-fluid d-block mx-auto">
@@ -126,7 +126,7 @@
             <div class="mb-3 p-3 bg--blue-gradation-left rounded-lg">
                 <div class="row">
                     <div class="col-md-6">
-                        <a href="/img/features/features-6-full.png" data-source="/img/features/features-6-full.png" title="Manage Leaves and Day Offs" aria-label="Manage Leaves and Day Offs" class="point__images">
+                        <a href="/img/features/features-6-full.jpg" data-source="/img/features/features-6-full.jpg" title="Manage Day Offs and Holidays" aria-label="Manage Day Offs and Holidays" class="point__images">
                             <picture>
                                 <source srcset="/img/features/features-6.webp" type="image/webp">
                                 <img src="/img/features/features-6.png" alt="" class="img-fluid d-block mx-auto">
@@ -151,7 +151,7 @@
                         </ul>
                     </div>
                     <div class="col-md-6">
-                        <a href="/img/features/features-7-full.png" data-source="/img/features/features-7-full.png" title="Dokodemo-Kerja is compatible with PC, Mobile & Tablet" aria-label="Dokodemo-Kerja is compatible with PC, Mobile & Tablet" class="point__images">
+                        <a href="/img/features/features-7-full.jpg" data-source="/img/features/features-7-full.jpg" title='The user simply needs to "Start" and "Stop" the application.' aria-label='The user simply needs to "Start" and "Stop" the application.' class="point__images">
                             <picture>
                                 <source srcset="/img/features/features-7.webp" type="image/webp">
                                 <img src="/img/features/features-7.png" alt="" class="img-fluid d-block mx-auto">

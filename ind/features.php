@@ -11,7 +11,9 @@
 
     $canonical_link = 'https://dokodemo-kerja.com/ind/features';
 
-    $add_css = '<link rel="stylesheet" href="/css/style-features.css" />';
+    $add_css = '
+    <link rel="stylesheet" href="/js/magnific-popup.css" />
+    <link rel="stylesheet" href="/css/style-features.css" />';
 
     include($_SERVER['DOCUMENT_ROOT'].'/ind/component/header.php');
 ?>
@@ -41,7 +43,7 @@
                         <p class="mb-0 fs-14"><span class="fw-semibold">Dokodemo-Kerja</span> akan mengambil tangkapan layar secara acak dalam rentan waktu maksimal 10 menit. Untuk menjaga privasi pengguna. Gambar yang tersimpan juga mempunyai resolusi yang rendah sehingga teks pada surel ataupun alat komunikasi lainnya tidak terbaca. Tujuan dari gambar ini adalah untuk mengetahui tipe aplikasi ataupun situs yang sedang dibuka oleh user sehingga bisa memeriksa apakah user sedang bekerja atau tidak. Sistem juga akan mengirimkan notifikasi ke admin jika ada 3 gambar yang sama secara berturut.</p>
                     </div>
                     <div class="col-md-6 order-first order-md-last">
-                        <a href="/img/features/features-1-full.png" data-source="/img/features/features-1-full.png" title="Dokodemo-Kerja is compatible with PC, Mobile & Tablet" aria-label="Dokodemo-Kerja is compatible with PC, Mobile & Tablet" class="point__images">
+                        <a href="/img/features/features-1-full.jpg" data-source="/img/features/features-1-full.jpg" title="Mengambil dan Mengelola Screenshot saat Bekerja" aria-label="Mengambil dan Mengelola Screenshot saat Bekerja" class="point__images">
                             <picture>
                                 <source srcset="/img/features/features-1.webp" type="image/webp">
                                 <img src="/img/features/features-1.png" alt="" class="img-fluid d-block mx-auto">
@@ -54,7 +56,7 @@
             <div class="mb-3 p-3 bg--blue-gradation-left rounded-lg">
                 <div class="row">
                     <div class="col-md-6">
-                        <a href="/img/features/features-2-full.png" data-source="/img/features/features-2-full.png" title="Dokodemo-Kerja is compatible with PC, Mobile & Tablet" aria-label="Dokodemo-Kerja is compatible with PC, Mobile & Tablet" class="point__images">
+                        <a href="/img/features/features-2-full.jpg" data-source="/img/features/features-2-full.jpg" title="Laporan waktu kerja yang akurat berdasarkan task" aria-label="Laporan waktu kerja yang akurat berdasarkan task" class="point__images">
                             <picture>
                                 <source srcset="/img/features/features-2.webp" type="image/webp">
                                 <img src="/img/features/features-2.png" alt="" class="img-fluid d-block mx-auto">
@@ -75,7 +77,7 @@
                         <p class="mb-0 fs-14">Dapat menampilkan total jam kerja dan mengunduh data jam kerja baik secara Team, Task, maupun orang yang dimaksud. Jam kerjanya sendiri dapat ditampilkan secara harian, mingguan, maupun bulanan sehingga dapat membantu pekerjaan HR.</p>
                     </div>
                     <div class="col-md-6 order-first order-md-last">
-                        <a href="/img/features/features-3-full.png" data-source="/img/features/features-3-full.png" title="Dokodemo-Kerja is compatible with PC, Mobile & Tablet" aria-label="Dokodemo-Kerja is compatible with PC, Mobile & Tablet" class="point__images">
+                        <a href="/img/features/features-3-full.jpg" data-source="/img/features/features-3-full.jpg" title="Mudah di Analisa" aria-label="Mudah di Analisa" class="point__images">
                             <picture>
                                 <source srcset="/img/features/features-3.webp" type="image/webp">
                                 <img src="/img/features/features-3.png" alt="" class="img-fluid d-block mx-auto">
@@ -88,7 +90,7 @@
             <div class="mb-3 p-3 bg--blue-gradation-left rounded-lg">
                 <div class="row">
                     <div class="col-md-6">
-                        <a href="/img/features/features-4-full.png" data-source="/img/features/features-4-full.png" title="Dokodemo GPS features" aria-label="Dokodemo GPS features" class="point__images">
+                        <a href="/img/features/features-4-full.jpg" data-source="/img/features/features-4-full.jpg" title="Mengelola Pekerjaan Meski tidak di kantor" aria-label="Mengelola Pekerjaan Meski tidak di kantor" class="point__images">
                             <picture>
                                 <source srcset="/img/features/features-4.webp" type="image/webp">
                                 <img src="/img/features/features-4.png" alt="" class="img-fluid d-block mx-auto">
@@ -110,7 +112,7 @@
                         Karena ada catatan waktu kerja, perhitungan untuk lembur pun menjadi lebih mudah.</p>
                     </div>
                     <div class="col-md-6 order-first order-md-last">
-                        <a href="/img/features/features-5-full.png" data-source="/img/features/features-5-full.png" title="Manage Attendance" aria-label="Manage Attendance" class="point__images">
+                        <a href="/img/features/features-5-full.jpg" data-source="/img/features/features-5-full.jpg" title="Mengelola Absensi dan Jam Kerja" aria-label="Mengelola Absensi dan Jam Kerja" class="point__images">
                             <picture>
                                 <source srcset="/img/features/features-5.webp" type="image/webp">
                                 <img src="/img/features/features-5.png" alt="" class="img-fluid d-block mx-auto">
@@ -123,7 +125,7 @@
             <div class="mb-3 p-3 bg--blue-gradation-left rounded-lg">
                 <div class="row">
                     <div class="col-md-6">
-                        <a href="/img/features/features-6-full.png" data-source="/img/features/features-6-full.png" title="Manage Leaves and Day Offs" aria-label="Manage Leaves and Day Offs" class="point__images">
+                        <a href="/img/features/features-6-full.jpg" data-source="/img/features/features-6-full.jpg" title="Mengelola Cuti dan Liburan" aria-label="Mengelola Cuti dan Liburan" class="point__images">
                             <picture>
                                 <source srcset="/img/features/features-6.webp" type="image/webp">
                                 <img src="/img/features/features-6.png" alt="" class="img-fluid d-block mx-auto">
@@ -148,7 +150,7 @@
                         </ul>
                     </div>
                     <div class="col-md-6">
-                        <a href="/img/features/features-7-full.png" data-source="/img/features/features-7-full.png" title="Dokodemo-Kerja is compatible with PC, Mobile & Tablet" aria-label="Dokodemo-Kerja is compatible with PC, Mobile & Tablet" class="point__images">
+                        <a href="/img/features/features-7-full.jpg" data-source="/img/features/features-7-full.jpg" title='Pengguna hanya perlu mulai  dengan "Start" dan "Stop' aria-label='Pengguna hanya perlu mulai  dengan "Start" dan "Stop' class="point__images">
                             <picture>
                                 <source srcset="/img/features/features-7.webp" type="image/webp">
                                 <img src="/img/features/features-7.png" alt="" class="img-fluid d-block mx-auto">
@@ -164,5 +166,36 @@
 </div>
 
 <?php include($_SERVER['DOCUMENT_ROOT'].'/ind/component/demo-banner.php'); ?>
-<?php include($_SERVER['DOCUMENT_ROOT'].'/ind/component/footer.php'); ?>
+<?php 
+    $add_js = '<script src="/js/jquery.magnific-popup.min.js"></script>';
+    include($_SERVER['DOCUMENT_ROOT'].'/ind/component/footer.php'); 
+?>
+<script>
+    $(function() {
+        $('.zoom-gallery').magnificPopup({
+            delegate: 'a',
+            type: 'image',
+            closeOnContentClick: false,
+            closeBtnInside: false,
+            mainClass: 'mfp-with-zoom mfp-img-mobile',
+            image: {
+                verticalFit: true,
+                titleSrc: function(item) {
+                    return item.el.attr('title') + ' &middot; <a class="image-source-link" href="'+item.el.attr('data-source')+'" target="_blank" rel="noopener noreferrer">Full Image</a>';
+                }
+            },
+            gallery: {
+                enabled: false
+            },
+            zoom: {
+                enabled: true,
+                duration: 300, // don't foget to change the duration also in CSS
+                opener: function(element) {
+                    return element.find('img');
+                }
+            }
+
+        });
+    })
+</script>
 <?php include($_SERVER['DOCUMENT_ROOT'].'/component/footer-end.php') ?>
