@@ -94,7 +94,7 @@
                 </div>
                 <div class="row align-items-center">
                     <div class="col-md-6 mb-4 mb-lg-0">
-                        <ul class="list-unstyled banner__list">
+                        <ul class="list-unstyled banner__list list--circle">
                             <li>Track tasks and calculate overall working hours.</li>
                             <li>Randomly captures desktop screen activity and sends the screenshots to the server (with resolutions that are privacy-friendly).</li>
                             <li>Through using the smartphone application, work hours and location management is now easier to manage (Through GPS tracking) for employees travelling outside of the office.</li>
@@ -159,6 +159,16 @@
                                         </div>    
                                         </a>
                                     </div>
+                                    <div>
+                                        <a href="/img/features/home_tracking.jpg" data-source="/img/features/home_tracking.jpg" title="Dokodemo GPS features" aria-label="Dokodemo GPS features">
+                                        <div class="image--wrapper">
+                                            <picture>
+                                                <source srcset="/img/features/home_tracking-com.webp" type="image/webp">
+                                                <img src="/img/features/home_tracking-com.jpg" class="border border--blue" alt="Dokodemo GPS features" />
+                                            </picture>
+                                        </div>    
+                                        </a>
+                                    </div>
                                     
                                 </div>
                             </div>
@@ -174,6 +184,9 @@
                                 </div>
                                 <div class="nav__img">
                                     <img src="/img/features/home_04-com.jpg" class="img-fluid rounded-lg" alt="Screenshot of the Dokodemo-Kerja Application" />
+                                </div>
+                                <div class="nav__img">
+                                    <img src="/img/features/home_tracking-com.jpg" class="img-fluid rounded-lg" alt="Dokodemo GPS features" />
                                 </div>
                             </div>
                         </div>
@@ -308,7 +321,7 @@
 
         <section class="mb--30px color--blue bg--l-blue home__case-study">
             <div class="py--60px container">
-                <div class="text-center title--bg title--bg-border" data-title-bg="Case Study">                            
+                <div class="text-center title--bg title--bg-border title--bg-border-left" data-title-bg="Case Study">                            
                     <h2 class="mb-0 font-weight-bold fs-34">Case Study</h2>
                 </div>
                 <div class="pt--20px row">

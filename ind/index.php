@@ -94,7 +94,7 @@
                 </div>
                 <div class="row align-items-center">
                     <div class="col-md-6 mb-4 mb-lg-0">
-                        <ul class="list-unstyled banner__list">
+                        <ul class="list-unstyled banner__list list--circle">
                             <li>Pantau tugas dan jam kerja karyawan.</li>
                             <li>Fitur tangkapan layar di setting dengan random dan disimpan di dalam server. (Resolusi gambar rendah sehingga tidak mengganggu privasi)</li>
                             <li>Pada aplikasi yang diinstal di handphone, mempermudah Anda untuk mengelola waktu dan lokasi kerja karyawan yang sering dinas keluar kantor.</li>
@@ -159,6 +159,16 @@
                                         </div>    
                                         </a>
                                     </div>
+                                    <div>
+                                        <a href="/img/features/home_tracking.jpg" data-source="/img/features/home_tracking.jpg" title="Dokodemo GPS features" aria-label="Dokodemo GPS features">
+                                        <div class="image--wrapper">
+                                            <picture>
+                                                <source srcset="/img/features/home_tracking-com.webp" type="image/webp">
+                                                <img src="/img/features/home_tracking-com.jpg" class="border border--blue" alt="Dokodemo GPS features" />
+                                            </picture>
+                                        </div>    
+                                        </a>
+                                    </div>
                                     
                                 </div>
                             </div>
@@ -174,6 +184,9 @@
                                 </div>
                                 <div class="nav__img">
                                     <img src="/img/features/home_04-com.jpg" class="img-fluid rounded-lg" alt="Screenshot of the Dokodemo-Kerja Application" />
+                                </div>
+                                <div class="nav__img">
+                                    <img src="/img/features/home_tracking-com.jpg" class="img-fluid rounded-lg" alt="Dokodemo GPS features" />
                                 </div>
                             </div>
                         </div>

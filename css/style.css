@@ -349,6 +349,7 @@ input[type="time"]::-webkit-calendar-picker-indicator {
 /* title bg */
 .title--bg {
     position: relative;
+    margin-top: 20px;
     margin-bottom: 40px;
     z-index: 0;
 }
@@ -356,7 +357,7 @@ input[type="time"]::-webkit-calendar-picker-indicator {
 .title--bg::before {
     content: attr(data-title-bg);
     position: absolute;
-    width: 100%;
+    width: max-content;
     font-size: 100px;
     font-weight: 800;
     top: 45%;
@@ -393,9 +394,30 @@ input[type="time"]::-webkit-calendar-picker-indicator {
     right: 0;
 }
 
-.title--bg.title--bg-border.text-center:after {
+.title--bg.title--bg-border.title--bg-border-left.text-center:after {
     left: 50%;
     transform: translateX(-25%);
+}
+
+.title--bg.title--bg-border.title--bg-border-right.text-center:after {
+    right: 50%;
+    transform: translateX(25%);
+}
+
+/* list */
+.list--circle li {
+    position: relative;
+    padding-left: 40px;
+}
+
+.list--circle li::after {    
+    content: "";
+    position: absolute;
+    left: 0;
+    width: 10px;
+    height: 10px;
+    border-radius: 100%;
+    border: solid 1px;
 }
 
 /* banner demo */
@@ -996,6 +1018,13 @@ input[type="time"]::-webkit-calendar-picker-indicator {
 }
 
 @media (max-width: 767.98px) {
+    /* color */
+    .bg--blue-gradation-right,
+    .bg--blue-gradation-left {
+        background-color: #f2f9ff;
+        background-image: none;
+    }
+
     /* title bg */
     .title--bg::before {
         font-size: 50px;
