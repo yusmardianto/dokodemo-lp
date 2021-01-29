@@ -37,7 +37,7 @@
         <div class="zoom-gallery container">
 
             <div class="mb-3 p-3 bg--blue-gradation-right rounded-lg">
-                <div class="row">
+                <div class="row align-items-center">
                     <div class="col-md-6 order-last order-md-first">
                         <h2 class="mb--20px fs-20 font-weight-bold">Take and manage screenshots while engaged in work</h2>
                         <p class="mb-0 fs-14">The system will take a screenshot once, randomly within every 10 minutes. For reasons of privacy, the saved screenshot is of low resolution, therefore, any text found within, such as from emails or message tools cannot be read. The purpose of the screenshot is to determine the application or website type currently open: whether it is work related, YouTube, a game, etc. It also sends a notification to the admin when a user has the same screenshot taken 3 times in a row.</p>
@@ -54,7 +54,7 @@
             </div>
 
             <div class="mb-3 p-3 bg--blue-gradation-left rounded-lg">
-                <div class="row">
+                <div class="row align-items-center">
                     <div class="col-md-6">
                         <a href="/img/features/features-2-full.jpg" data-source="/img/features/features-2-full.jpg" title="Accurately records work time by task" aria-label="Accurately records work time by task" class="point__images">
                             <picture>
@@ -71,7 +71,7 @@
             </div>
 
             <div class="mb-3 p-3 bg--blue-gradation-right rounded-lg">
-                <div class="row">
+                <div class="row align-items-center">
                     <div class="col-md-6 order-last order-md-first">
                         <h2 class="mb--20px fs-20 font-weight-bold">Easy to Analyze</h2>
                         <p class="mb-0 fs-14">Displays the total number of hours worked, downloading this data in regards to work hours by task, team, and individual. Working hours can be displayed on a daily, weekly, or monthly basis, facilitating HR attendance management work.</p>
@@ -88,7 +88,7 @@
             </div>
 
             <div class="mb-3 p-3 bg--blue-gradation-left rounded-lg">
-                <div class="row">
+                <div class="row align-items-center">
                     <div class="col-md-6">
                         <a href="/img/features/features-4-full.jpg" data-source="/img/features/features-4-full.jpg" title="Manage Non-Desk Work" aria-label="Manage Non-Desk Work" class="point__images">
                             <picture>
@@ -105,7 +105,7 @@
             </div>
 
             <div class="mb-3 p-3 bg--blue-gradation-right rounded-lg">
-                <div class="row">
+                <div class="row align-items-center">
                     <div class="col-md-6 order-last order-md-first">
                         <h2 class="mb--20px fs-20 font-weight-bold">Manage attendance, late arrivals, and working hours</h2>
                         <p class="mb-0 fs-14">Easily manage and keep track of instances of late arrivals, unfulfilled work hours, and even early leave cases.
@@ -124,7 +124,7 @@
             </div>
 
             <div class="mb-3 p-3 bg--blue-gradation-left rounded-lg">
-                <div class="row">
+                <div class="row align-items-center">
                     <div class="col-md-6">
                         <a href="/img/features/features-6-full.jpg" data-source="/img/features/features-6-full.jpg" title="Manage Day Offs and Holidays" aria-label="Manage Day Offs and Holidays" class="point__images">
                             <picture>
@@ -141,8 +141,8 @@
             </div>
 
             <div class="mb-3 p-3 bg--blue-gradation-right rounded-lg">
-                <div class="row">
-                    <div class="col-md-6">
+                <div class="row align-items-center">
+                    <div class="col-md-6 order-last order-md-first">
                         <h2 class="mb--20px fs-20 font-weight-bold">The user simply needs to "<strong>Start</strong>" and "<strong>Stop</strong>" the application.</h2>
                         <ul class="mb-0 fs-14 list-unstyled list--circle">
                             <li class="mb-2">Users will be able to work anywhere, at any time.</li>
@@ -150,7 +150,7 @@
                             <li class="mb-2">When taking breaks, the user will have to press the "<strong>Stop</strong>" button, so as to accurately calculate the total number of work hours during the end of the day.</li>
                         </ul>
                     </div>
-                    <div class="col-md-6">
+                    <div class="col-md-6 order-first order-md-last">
                         <a href="/img/features/features-7-full.jpg" data-source="/img/features/features-7-full.jpg" title='The user simply needs to "Start" and "Stop" the application.' aria-label='The user simply needs to "Start" and "Stop" the application.' class="point__images">
                             <picture>
                                 <source srcset="/img/features/features-7.webp" type="image/webp">

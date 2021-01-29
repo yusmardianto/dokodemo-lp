@@ -37,7 +37,7 @@
         <div class="zoom-gallery container">
 
             <div class="mb-3 p-3 bg--blue-gradation-right rounded-lg">
-                <div class="row">
+                <div class="row align-items-center">
                     <div class="col-md-6 order-last order-md-first">
                         <h2 class="mb--20px fs-20 font-weight-bold">Mengambil dan Mengelola Screenshot saat Bekerja</h2>
                         <p class="mb-0 fs-14"><span class="fw-semibold">Dokodemo-Kerja</span> akan mengambil tangkapan layar secara acak dalam rentan waktu maksimal 10 menit. Untuk menjaga privasi pengguna. Gambar yang tersimpan juga mempunyai resolusi yang rendah sehingga teks pada surel ataupun alat komunikasi lainnya tidak terbaca. Tujuan dari gambar ini adalah untuk mengetahui tipe aplikasi ataupun situs yang sedang dibuka oleh user sehingga bisa memeriksa apakah user sedang bekerja atau tidak. Sistem juga akan mengirimkan notifikasi ke admin jika ada 3 gambar yang sama secara berturut.</p>
@@ -54,7 +54,7 @@
             </div>
 
             <div class="mb-3 p-3 bg--blue-gradation-left rounded-lg">
-                <div class="row">
+                <div class="row align-items-center">
                     <div class="col-md-6">
                         <a href="/img/features/features-2-full.jpg" data-source="/img/features/features-2-full.jpg" title="Laporan waktu kerja yang akurat berdasarkan task" aria-label="Laporan waktu kerja yang akurat berdasarkan task" class="point__images">
                             <picture>
@@ -71,7 +71,7 @@
             </div>
 
             <div class="mb-3 p-3 bg--blue-gradation-right rounded-lg">
-                <div class="row">
+                <div class="row align-items-center">
                     <div class="col-md-6 order-last order-md-first">
                         <h2 class="mb--20px fs-20 font-weight-bold">Mudah di Analisa</h2>
                         <p class="mb-0 fs-14">Dapat menampilkan total jam kerja dan mengunduh data jam kerja baik secara Team, Task, maupun orang yang dimaksud. Jam kerjanya sendiri dapat ditampilkan secara harian, mingguan, maupun bulanan sehingga dapat membantu pekerjaan HR.</p>
@@ -88,7 +88,7 @@
             </div>
 
             <div class="mb-3 p-3 bg--blue-gradation-left rounded-lg">
-                <div class="row">
+                <div class="row align-items-center">
                     <div class="col-md-6">
                         <a href="/img/features/features-4-full.jpg" data-source="/img/features/features-4-full.jpg" title="Mengelola Pekerjaan Meski tidak di kantor" aria-label="Mengelola Pekerjaan Meski tidak di kantor" class="point__images">
                             <picture>
@@ -105,7 +105,7 @@
             </div>
 
             <div class="mb-3 p-3 bg--blue-gradation-right rounded-lg">
-                <div class="row">
+                <div class="row align-items-center">
                     <div class="col-md-6 order-last order-md-first">
                         <h2 class="mb--20px fs-20 font-weight-bold">Mengelola Absensi dan Jam Kerja</h2>
                         <p class="mb-0 fs-14">Dapat dengan mudah menemukan dan mengelola keterlambatan, jam kerja yang tidak terpenuhi, maupun yang suka pulang lebih awal. <br>
@@ -123,7 +123,7 @@
             </div>
 
             <div class="mb-3 p-3 bg--blue-gradation-left rounded-lg">
-                <div class="row">
+                <div class="row align-items-center">
                     <div class="col-md-6">
                         <a href="/img/features/features-6-full.jpg" data-source="/img/features/features-6-full.jpg" title="Mengelola Cuti dan Liburan" aria-label="Mengelola Cuti dan Liburan" class="point__images">
                             <picture>
@@ -140,8 +140,8 @@
             </div>
 
             <div class="mb-3 p-3 bg--blue-gradation-right rounded-lg">
-                <div class="row">
-                    <div class="col-md-6">
+                <div class="row align-items-center">
+                    <div class="col-md-6 order-last order-md-first">
                         <h2 class="mb--20px fs-20 font-weight-bold">Pengguna hanya perlu mulai  dengan "<strong>Start</strong>" dan "<strong>Stop</strong>" saat ingin berhentikan aplikasi.</h2>
                         <ul class="mb-0 fs-14 list-unstyled list--circle">
                             <li class="mb-2">Dengan jam kerja yang fleksibel, pengguna akan dapat bekerja di mana saja, kapan saja.</li>
@@ -149,7 +149,7 @@
                             <li class="mb-2">Saat istirahat, pengguna harus menekan tombol "<strong>Stop</strong>", untuk menghitung jam kerja secara akurat.</li>
                         </ul>
                     </div>
-                    <div class="col-md-6">
+                    <div class="col-md-6 order-first order-md-last">
                         <a href="/img/features/features-7-full.jpg" data-source="/img/features/features-7-full.jpg" title='Pengguna hanya perlu mulai  dengan "Start" dan "Stop' aria-label='Pengguna hanya perlu mulai  dengan "Start" dan "Stop' class="point__images">
                             <picture>
                                 <source srcset="/img/features/features-7.webp" type="image/webp">

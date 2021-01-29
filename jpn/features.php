@@ -37,7 +37,7 @@
         <div class="zoom-gallery container">
 
             <div class="mb-3 p-3 bg--blue-gradation-right rounded-lg">
-                <div class="row">
+                <div class="row align-items-center">
                     <div class="col-md-6 order-last order-md-first">
                         <h2 class="mb--20px fs-20 font-weight-bold">作業中、スクリーンキャプチャを取得し管理します</h2>
                         <p class="mb-0 fs-14">最長10分間に1回画面を記録して保存します。プライバシーに配慮しキャプチャ画像の解像度は低く、eメールやメッセージツール内のテキストなどは読めません。開いているWindowのアプリケーション種類やWebサイトの種類が判別できるものです。ゲーム画面やYoutubeが開かれている。同じ画面のまま動きがないということは判明します。</p>
@@ -54,7 +54,7 @@
             </div>
 
             <div class="mb-3 p-3 bg--blue-gradation-left rounded-lg">
-                <div class="row">
+                <div class="row align-items-center">
                     <div class="col-md-6">
                         <a href="/img/features/features-2-full.jpg" data-source="/img/features/features-2-full.jpg" title="タスク別に作業時間を正確に記録します" aria-label="タスク別に作業時間を正確に記録します" class="point__images">
                             <picture>
@@ -71,7 +71,7 @@
             </div>
 
             <div class="mb-3 p-3 bg--blue-gradation-right rounded-lg">
-                <div class="row">
+                <div class="row align-items-center">
                     <div class="col-md-6 order-last order-md-first">
                         <h2 class="mb--20px fs-20 font-weight-bold">分析可能</h2>
                         <p class="mb-0 fs-14">タスク別、部署別、人別に勤務時間を集計表示＆データエクスポートができます。作業時間は、日別、週次、月次での表示ができますので、HRの勤怠管理業務を容易にします。</p>
@@ -88,7 +88,7 @@
             </div>
 
             <div class="mb-3 p-3 bg--blue-gradation-left rounded-lg">
-                <div class="row">
+                <div class="row align-items-center">
                     <div class="col-md-6">
                         <a href="/img/features/features-4-full.jpg" data-source="/img/features/features-4-full.jpg" title="非デスクワークも管理" aria-label="非デスクワークも管理" class="point__images">
                             <picture>
@@ -105,7 +105,7 @@
             </div>
 
             <div class="mb-3 p-3 bg--blue-gradation-right rounded-lg">
-                <div class="row">
+                <div class="row align-items-center">
                     <div class="col-md-6 order-last order-md-first">
                         <h2 class="mb--20px fs-20 font-weight-bold">欠勤、遅刻、勤務時間不足の管理</h2>
                         <p class="mb-0 fs-14">規定の勤務時間に足りて無いケース、遅刻、早退などを容易に発見可能になります。残業時間の計算も非常に簡易に行えます。</p>
@@ -122,7 +122,7 @@
             </div>
 
             <div class="mb-3 p-3 bg--blue-gradation-left rounded-lg">
-                <div class="row">
+                <div class="row align-items-center">
                     <div class="col-md-6">
                         <a href="/img/features/features-6-full.jpg" data-source="/img/features/features-6-full.jpg" title="休暇の管理" aria-label="休暇の管理" class="point__images">
                             <picture>
@@ -139,8 +139,8 @@
             </div>
 
             <div class="mb-3 p-3 bg--blue-gradation-right rounded-lg">
-                <div class="row">
-                    <div class="col-md-6">
+                <div class="row align-items-center">
+                    <div class="col-md-6 order-last order-md-first">
                         <h2 class="mb--20px fs-20 font-weight-bold">ユーザーは”スタート”と”ストップ”をしていただくだけです</h2>
                         <ul class="mb-0 fs-14 list-unstyled list--circle">
                             <li class="mb-2">ユーザーは、いつでも、どこででも働くことができるようになります。</li>
@@ -148,7 +148,7 @@
                             <li class="mb-2">休憩するとき、作業を終了するときにはストップボタンをクリックする必要があります。</li>
                         </ul>
                     </div>
-                    <div class="col-md-6">
+                    <div class="col-md-6 order-first order-md-last">
                         <a href="/img/features/features-7-full.jpg" data-source="/img/features/features-7-full.jpg" title="ユーザーは”スタート”と”ストップ”をしていただくだけです" aria-label="ユーザーは”スタート”と”ストップ”をしていただくだけです" class="point__images">
                             <picture>
                                 <source srcset="/img/features/features-7.webp" type="image/webp">

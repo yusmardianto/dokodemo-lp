@@ -9,5 +9,13 @@
 }
 
 .features .features__point .point__images img {
-  max-width: 375px;
+  width: 375px;
+}
+
+@media (max-width: 991.98px) {
+  /* point */
+  .features .features__point .point__images img {
+    width: 100%;
+  }
+
 }
