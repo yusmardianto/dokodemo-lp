@@ -9,77 +9,28 @@
 	$config = include('config/app.php');
 
 	require 'action/c-trial.php';
-
-	$page = 'demo';
 ?>
 
+<?php 
+    $page = 'demo';
+    $page_title = 'Attendance Management & Remote Work Tool Demo | Dokodemo-Kerja';
 
-<!DOCTYPE html>
-<html lang="en">
+    $meta_description = 'The demo for the remote work management tool Dokodemo-Kerja can be found on the LOGIQUE website. An efficient tool for employee management & Ideal for use in Indonesia.';
+    $meta_keyword = 'weed out underperforming employees, get rid of lazy employees, increase productivity, dokodemo trial, dokodemo free, free hr tool, free management tool, small business tool, low budget tool, low budget hr tool, low budget management tool, free time tracker, free employee time tracker, free man hour tracker, screenshot tracker, screenshot employee monitor software cheap';
 
-<head>
-	<meta charset="UTF-8" />
-	<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=5.0" />
-	<meta http-equiv="X-UA-Compatible" content="ie=edge" />
-	<meta name="description" itemprop="description" content="No more slacking off, use dokodemo kerja to weed out the lazy ones and keep your best employees. Reward the achievers and experience the improvement in productivity. Free and receive special price for enterprise scale.">
-    <meta name="keywords" content="weed out underperforming employees, get rid of lazy employees, increase productivity, dokodemo trial, dokodemo free, free hr tool, free management tool, small business tool, low budget tool, low budget hr tool, low budget management tool, free time tracker, free employee time tracker, free man hour tracker, screenshot tracker, screenshot employee monitor software cheap">
-    <meta name="author" content="PT. LOGIQUE Digital Indonesia">
-	<meta name="google-site-verification" content="Xc9SFJQZdKYLsrWvrxEjLLTA-nyrnNPQTXQoMxs4gKI" />
-	<meta property="og:title" content="Demo of Dokodemo-Kerja | Available in 3 Platforms">
-    <meta property="og:type" content="website">
-    <meta property="og:site_name" content="Dokodemo-Kerja">
-    <meta property="og:url" content="https://dokodemo-kerja.com">
-    <meta property="og:image" content="https://dokodemo-kerja.com/img/dokodemo-og.jpg">
-    <meta property="og:description" content="No more slacking off, use dokodemo kerja to weed out the lazy ones and keep your best employees. Reward the achievers and experience the improvement in productivity. Free 30 days trial and special price for enterprise scale.">
-    <link rel="canonical" href="https://dokodemo-kerja.com/demo">
-	<link rel="stylesheet" href="/css/bootstrap.min.css" />
-  	<link href="/fonts/font-awesome/css/font-awesome.min.css" rel="stylesheet">
-	<link rel="stylesheet" href="/css/header-footer.css" />
-	<link rel="stylesheet" href="/css/style.css" />
-	<link rel="stylesheet" href="/css/style-trial.css" />
-	<link rel="shortcut icon" type="image/x-icon" href="favicon.ico">
-	<title>Demo of Dokodemo-Kerja | The Best Tool to Manage Remote Employees</title>
-    <script src="https://www.googleoptimize.com/optimize.js?id=OPT-P232K37"></script>
-	<!-- Google Tag Manager -->
-	<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
-	new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
-	j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
-	'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
-	})(window,document,'script','dataLayer','GTM-WT4MCDL');</script>
-	<!-- Facebook Pixel Code -->
-	<script>
-	  !function(f,b,e,v,n,t,s)
-	  {if(f.fbq)return;n=f.fbq=function(){n.callMethod?
-	  n.callMethod.apply(n,arguments):n.queue.push(arguments)};
-	  if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';
-	  n.queue=[];t=b.createElement(e);t.async=!0;
-	  t.src=v;s=b.getElementsByTagName(e)[0];
-	  s.parentNode.insertBefore(t,s)}(window, document,'script',
-	  'https://connect.facebook.net/en_US/fbevents.js');
-	  fbq('init', '713777762291663');
-	  fbq('track', 'PageView');
-	</script>
-	<noscript><img height="1" width="1" style="display:none"
-	  src="https://www.facebook.com/tr?id=713777762291663&ev=PageView&noscript=1"
-	/></noscript>
-	<!-- End Facebook Pixel Code -->
-	<!-- Global site tag (gtag.js) - Google Analytics -->
-	<script async src="https://www.googletagmanager.com/gtag/js?id=UA-146404615-1"></script>
-	<script>
-	  window.dataLayer = window.dataLayer || [];
-	  function gtag(){dataLayer.push(arguments);}
-	  gtag('js', new Date());
+    $og_title = 'Attendance management tool Dokodemo-Kerja demo';
+    $og_image = 'https://dokodemo-kerja.com/img/dokodemo-og.jpg';
+    $og_desription = 'For inquiries about the Remote Work System Dokodemo-Kerja, please send your inquiries from this page. Dokodemo-Kerja is developed by an Indonesian development company, LOGIQUE.';
 
-	  gtag('config', 'UA-146404615-1');
-	</script>
-</head>
+    $canonical_link = 'https://dokodemo-kerja.com/demo';
 
-<body class="not-home">
-<!-- Google Tag Manager (noscript) -->
-<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-WT4MCDL"
-height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
-<!-- End Google Tag Manager (noscript) -->
-	<?php include 'header.php' ?>
+    $add_css = '<link rel="stylesheet" href="/css/style-trial.css" />';
+
+    include($_SERVER['DOCUMENT_ROOT'].'/component/header.php');
+?>
+
+<div class="">
+
 	<section class="intro-section text-center px-4">
 		<h1 class="banner-text-white">Try Our Free Demo</h1>
 		<img src="/img/home/arrow-down.svg" class="pt-4 pb-3" width="20" alt=""/>
@@ -105,13 +56,13 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 					<h3 class="download-title hidden-xs">Install demo application from the links below:</h3>
 					<div class="row">
 						<div class="col-md-4">
-							<a target="_blank" href="https://drive.google.com/file/d/18ZUmxIFhUxRESeFTYbcHVQRtWi--qBIM/view?usp=sharing" class="btn btn-download bold hidden-xs" id="btn-download-windows"><i class="fa fa-download icon-download"></i>Windows</a>
+							<a target="_blank" href="https://drive.google.com/file/d/1DkDLY7qhuf--1PbI7f1ZI2UlFVxo4ugl/view?usp=sharing" class="btn btn-download bold hidden-xs" id="btn-download-windows"><i class="fa fa-download icon-download"></i>Windows</a>
 						</div>
 						<div class="col-md-4">
-							<a target="_blank" href="https://drive.google.com/file/d/1GukieIxu7c2GZimddqd1X5KTtReS80nG/view?usp=sharing" class="btn btn-download bold hidden-xs" id="btn_download_mac"><i class="fa fa-download icon-download"></i>Mac OS</a>
+							<a target="_blank" href="https://drive.google.com/file/d/1zAvBoFP2HsTqJSoV8an0fJg4L2BGSUzi/view?usp=sharing" class="btn btn-download bold hidden-xs" id="btn_download_mac"><i class="fa fa-download icon-download"></i>Mac OS</a>
 						</div>
 						<div class="col-md-4">
-							<a target="_blank" href="https://drive.google.com/file/d/1AhIhlocfOUcNJ_9RCKEdmpu99sH5lTms/view?usp=sharing" class="btn btn-download bold hidden-xs" id="btn-download-linux"><i class="fa fa-download icon-download"></i>Linux</a>
+							<a target="_blank" href="https://drive.google.com/file/d/1f5SxHEsLqxzGlNFmz6VSl8VHPVNj69zW/view?usp=sharing" class="btn btn-download bold hidden-xs" id="btn-download-linux"><i class="fa fa-download icon-download"></i>Linux</a>
 						</div>
 					</div>
 					<div class="row">
@@ -149,7 +100,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 					</div>
 					<div class="installation-manual">
 						Download user manual here:
-						<a class="installation-manual__item" target="_blank" href="/pdf/user_manual_dokodemo_ver_2.1_english.pdf" download>
+						<a class="installation-manual__item" target="_blank" href="/pdf/user_manual_dokodemo_ver_2-2-2-en.pdf">
 							<img src="/img/trial/pdf.svg" alt="">
 							Desktop
 						</a>
@@ -157,15 +108,15 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 				</div>
 				<div class="offset-md-1 col-md-10 tab-tutor-container">
 					<nav>
-						<div class="nav nav-tabs nav-tabs-trial" id="nav-tab" role="tablist">
+						<div class="nav nav-tabs nav-tabs-trial text-center" id="nav-tab" role="tablist">
 							<a class="nav-item nav-link trial-tab active" id="nav-home-tab" data-toggle="tab" href="#nav-home" role="tab" aria-controls="nav-home" aria-selected="true">
-								<span class="trial-tabfont">Admin</span>
+								<span class="trial-tabfont">Admin Function</span>
 							</a>
 							<a class="nav-item nav-link trial-tab" id="nav-profile-tab" data-toggle="tab" href="#nav-profile" role="tab" aria-controls="nav-profile" aria-selected="false">
-								<span class="trial-tabfont">Staff Desktop</span>
+								<span class="trial-tabfont">General User</span>
 							</a>
 							<a class="nav-item nav-link trial-tab --divider" id="mobile-staff-tab" data-toggle="tab" href="#mobile-staff" role="tab" aria-controls="mobile-staff" aria-selected="false">
-								<span class="trial-tabfont">Staff Mobile</span>
+								<span class="trial-tabfont">Mobile Application</span>
 							</a>
 						</div>
 					</nav>
@@ -173,66 +124,103 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 						<div class="tab-pane fade show active" id="nav-home" role="tabpanel" aria-labelledby="nav-home-tab">
 							<div class="trial-tab-container">
 								<div>
-									<h2 class="tab-content-title content-section-title">1. Access Demo Environment</h2>
-									<p class="trial-tab-content --no-list d-block mt-0">Click <a href="https://demo.dokodemo-kerja.com/" target="_blank" rel="noopener noreferrer">this link</a> to access the Demo page</p>
-								</div>
-								<div class="pl-4 mb-5">
-									<div class="row">
-										<div class="col-md-6 col-lg-8">
-											<p class="trial-tab-content">Click <strong>"LOGIN"</strong> <br class="d-none d-md-block"><br class="d-none d-md-block"><br class="d-none d-lg-block d-xl-none"></p>
-											<img src="/img/trial/admin-1.png" class="img-fluid w-100 img-border mb-3" alt="Dokodemo-Kerja Website Login" style="height: 295px; object-fit: contain;"/>
-										</div>
-										<div class="col-md-6 col-lg-4">
-											<p class="trial-tab-content">Login with the provided email and password</p>
-											<img src="/img/trial/admin-2.png" class="img-fluid w-100 img-border mb-3" alt="Dokodemo-Kerja Sign In"  style="height: 295px; object-fit: cover;" />
+									<div>
+										<h2 class="tab-content-title content-section-title">1. Access Demo Environment</h2>
+										<p class="trial-tab-content --no-list d-block mt-0">Click <a href="https://demo.dokodemo-kerja.com/" target="_blank" rel="noopener noreferrer">this link</a> to access the Demo page</p>
+									</div>
+									<div class="pl-4 mb-5">
+										<div class="row">
+											<div class="col-md-6 col-lg-8">
+												<p class="trial-tab-content">Login with the provided email and password.</p>
+												<picture>
+													<source srcset="/img/trial/admin-1.webp" type="image/webp">
+													<img src="/img/trial/admin-1.jpg" alt="Dokodemo-Kerja Website Login" class="img-fluid img-border mb-3">
+												</picture>
+											</div>
 										</div>
 									</div>
 								</div>
-								<h2 class="tab-content-title content-section-title">2. Add New Staff</h2>
-								<div class="pl-4">
-									<p class="trial-tab-content">Click the <strong>"Staff"</strong> button</p>
-									<img src="/img/trial/admin-3.png" class="mb-3 img-fluid w-100 img-border" alt="Dokodemo-Kerja Drop Down Account Access Option" />
-									<div class="row">
-										<div class="col-md-6">
-											<p class="trial-tab-content">Click <strong>"Add New"</strong> <br class="d-none d-md-block d-lg-none"><br class="d-none d-md-block d-lg-none"></p>
-											<img src="/img/trial/admin-4.png" class="mb-3 img-fluid w-100 img-border" alt="Dokodemo-Kerja 'Add New' Button" />
-										</div>
-										<div class="col-md-6">
-											<p class="trial-tab-content">Fill in the Staff information</p>
-											<img src="/img/trial/admin-5.png" class="mb-3 img-fluid w-100 img-border" alt="Dokodemo-Kerja's Add Staff option" />
-										</div>
-									</div>
-									<p class="trial-tab-content">The staff will be drafted in the demo environment and an email will be sent to the staff's email.</p>
-									<img src="/img/trial/admin-6.png" class="mb-5 img-fluid w-100 img-border" alt="Dokodemo-Kerja Staff Management" />
-								</div>
-								<h2 class="tab-content-title content-section-title">3. Add New Task</h2>
-								<div class="pl-4">
-									<p class="trial-tab-content">Click the <strong>"Task"</strong> button</p>
-									<img src="/img/trial/admin-3.png" class="mb-3 img-fluid w-100 img-border" alt="Dokodemo-Kerja Drop Down Account Access Option" />
-									<div class="row">
-										<div class="col-md-6">
-											<p class="trial-tab-content">Click <strong>"Add New"</strong> on task management <br class="d-none d-md-block d-lg-none d-xl-block"><br class="d-none d-md-block d-lg-none d-xl-block"><br class="d-none d-md-block d-lg-none"></p>
-											<img src="/img/trial/admin-7.png" class="mb-5 img-fluid w-100 img-border" alt="Dokodemo-Kerja 'Add New' Button" />
-										</div>
-										<div class="col-md-6">
-											<p class="trial-tab-content">Fill the task new information, click Submit, and New Task Added </p>
-											<img src="/img/trial/admin-8.png" class="mb-5 img-fluid w-100 img-border" alt="Dokodemo-Kerja Install Guide" />
+								<div>
+									<h2 class="tab-content-title content-section-title">2. Task Setting</h2>
+									<div class="pl-4">
+										<p class="trial-tab-content">It can be accessed through clicking <strong>Profile</strong> > <strong>Settings</strong> > <strong>Task</strong>.</p>
+										<picture>
+											<source srcset="/img/trial/admin-3-1.webp" type="image/webp">
+											<img src="/img/trial/admin-3-1.jpg" alt="Dokodemo-Kerja Drop Down Account Access Option" class="mb-3 img-fluid w-100 img-border">
+										</picture>
+										<div class="row">
+											<div class="col-md-6">
+												<p class="trial-tab-content">Click "<strong>Add New</strong>" to add new Task.<br class="d-none d-md-block d-lg-none d-xl-block"><br class="d-none d-md-block d-lg-none d-xl-block"><br class="d-none d-md-block d-lg-none"></p>
+												<picture>
+													<source srcset="/img/trial/admin-3-2.webp" type="image/webp">
+													<img src="/img/trial/admin-3-2.jpg" alt="Dokodemo-Kerja 'Add New' Button" class="mb-3 img-fluid w-100 img-border">
+												</picture>
+											</div>
+											<div class="col-md-6">
+												<p class="trial-tab-content">Fill the task new information, click Submit, and New Task Added. </p>
+												<picture>
+													<source srcset="/img/trial/admin-3-3.webp" type="image/webp">
+													<img src="/img/trial/admin-3-3.jpg" alt="Dokodemo-Kerja Install Guide" class="mb-5 img-fluid w-100 img-border">
+												</picture>
+											</div>
 										</div>
 									</div>
 								</div>
-								<h2 class="tab-content-title content-section-title">4. Add New Team</h2>
-								<div class="pl-4">
-									<p class="trial-tab-content">Click the <strong>"Team"</strong> button</p>
-									<img src="/img/trial/admin-3.png" class="mb-3 img-fluid w-100 img-border" alt="Dokodemo-Kerja Drop Down Account Access Option" />
-									<div class="row">
-										<div class="col-md-6">
-											<p class="trial-tab-content">Click <strong>"Add New"</strong> on team management <br class="d-none d-md-block d-lg-none d-xl-block"><br class="d-none d-md-block d-lg-none d-xl-block"></p>
-											<img src="/img/trial/admin-7.png" class="mb-5 img-fluid w-100 img-border" alt="Dokodemo-Kerja 'Add New' Button" />
+								<div>
+									<h2 class="tab-content-title content-section-title">3. Team Setting</h2>
+									<div class="pl-4">
+										<p class="trial-tab-content">It can be accessed through clicking <strong>Profile</strong> > <strong>Settings</strong> > <strong>Team</strong>.</p>
+										<picture>
+											<source srcset="/img/trial/admin-4-1.webp" type="image/webp">
+											<img src="/img/trial/admin-4-1.jpg" alt="Dokodemo-Kerja Drop Down Account Access Option" class="mb-3 img-fluid w-100 img-border">
+										</picture>
+										<div class="row">
+											<div class="col-md-6">
+												<p class="trial-tab-content">Click "<strong>Add New</strong>" to add new Team.<br class="d-none d-md-block d-lg-none d-xl-block"><br class="d-none d-md-block d-lg-none d-xl-block"></p>
+												<picture>
+													<source srcset="/img/trial/admin-4-2.webp" type="image/webp">
+													<img src="/img/trial/admin-4-2.jpg" alt="Dokodemo-Kerja 'Add New' Button" class="mb-5 img-fluid w-100 img-border">
+												</picture>
+											</div>
+											<div class="col-md-6">
+												<p class="trial-tab-content">Input the new Team Name and click "<strong>Submit</strong>". </p>
+												<picture>
+													<source srcset="/img/trial/admin-4-3.webp" type="image/webp">
+													<img src="/img/trial/admin-4-3.jpg" alt="Dokodemo-Kerja Add Team Management" class="mb-5 img-fluid w-100 img-border">
+												</picture>
+											</div>
 										</div>
-										<div class="col-md-6">
-											<p class="trial-tab-content">fill the team name and leader, click Submit, and New Team Added </p>
-											<img src="/img/trial/admin-9.png" class="mb-5 img-fluid w-100 img-border" alt="Dokodemo-Kerja Add Team Management" />
+									</div>
+								</div>
+								<div>
+									<h2 class="tab-content-title content-section-title">4. Staff Settings</h2>
+									<div class="pl-4">
+										<p class="trial-tab-content">It can be accessed through clicking <strong>Profile</strong> > <strong>Settings</strong> > <strong>Staff</strong>.</p>
+										<picture>
+											<source srcset="/img/trial/admin-2-1.webp" type="image/webp">
+											<img src="/img/trial/admin-2-1.jpg" alt="Dokodemo-Kerja Drop Down Account Access Option" class="mb-3 img-fluid w-100 img-border">
+										</picture>
+										<div class="row">
+											<div class="col-md-6">
+												<p class="trial-tab-content">Click "<strong>Add New</strong>" to add new Staff.<br class="d-none d-md-block"><br class="d-none d-md-block"></p>
+												<picture>
+													<source srcset="/img/trial/admin-2-2.webp" type="image/webp">
+													<img src="/img/trial/admin-2-2.jpg" alt="Dokodemo-Kerja 'Add New' Button" class="mb-3 img-fluid w-100 img-border">
+												</picture>
+											</div>
+											<div class="col-md-6">
+												<p class="trial-tab-content">Input the new Staff information and click "<strong>Submit</strong>".</p>
+												<picture>
+													<source srcset="/img/trial/admin-2-3.webp" type="image/webp">
+													<img src="/img/trial/admin-2-3.jpg" alt="Dokodemo-Kerja's Add Staff option" class="mb-3 img-fluid w-100 img-border">
+												</picture>
+											</div>
 										</div>
+										<p class="trial-tab-content">Login Credentials will be sent to the registered E-mail address. With the credentials you can then use Dokodemo-Kerja.</p>
+										<picture>
+											<source srcset="/img/trial/admin-2-4.webp" type="image/webp">
+											<img src="/img/trial/admin-2-4.jpg" alt="Dokodemo-Kerja Staff Management" class="mb-5 img-fluid w-100 img-border">
+										</picture>
 									</div>
 								</div>
 							</div>
@@ -240,8 +228,8 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 						<div class="tab-pane fade" id="nav-profile" role="tabpanel" aria-labelledby="nav-profile-tab">
 							<div class="trial-tab-container">
 								<div>
-									<h2 class="tab-content-title content-section-title">1. Access Demo Environment</h2>
-									<p class="trial-tab-content --no-list mt-0">Click <a href="https://demo.dokodemo-kerja.com/" target="_blank" rel="noopener noreferrer">this link</a> to access the Demo page</p>
+									<h2 class="tab-content-title content-section-title">1. Install Dokodemo-Kerja</h2>
+									<p class="trial-tab-content --no-list mt-0">Please use <a href="https://demo.dokodemo-kerja.com/" target="_blank" rel="noopener noreferrer">this link</a> to download the Dokodemo-Kerja application.</p>
 								</div>
 								<div class="pl-4 mb-5">
 									<div class="row">
@@ -250,33 +238,33 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 											<img src="/img/trial/staff-1.png" class="mb-3 img-fluid w-100 img-border" alt="Dokodemo-Kerja Zip File"/>
 										</div>
 										<div class="col-md-6">
-											<p class="trial-tab-content">Run that application <br class="d-none d-md-block"><br class="d-none d-md-block"></p>
+											<p class="trial-tab-content">Run the Application <br class="d-none d-md-block"><br class="d-none d-md-block"></p>
 											<img src="/img/trial/staff-2.png" class="mb-3 img-fluid w-100 img-border" alt="Downloaded Dokodemo-Kerja App Icon"/>
 										</div>
 									</div>
 								</div>
 
-								<h2 class="tab-content-title content-section-title">2. Using Homepage</h2>
+								<h2 class="tab-content-title content-section-title">2. Login and start using</h2>
 								<div class="pl-4">
 									<div class="row">
 										<div class="col-md-6">
 											<div class="trial-tab-content">
 												<p class="mb-0">
-													Login with the account registered in the demo Admin website.
+													Login with the credentials sent to your Email.
 												</p>
 											</div>
 											<img src="/img/trial/staff-3.png" class="mb-3 img-fluid w-100 img-border" alt="Dokodemo-Kerja Version 2.0.0"/>
 										</div>
 										<div class="col-md-6">
-											<p class="trial-tab-content">Choose project and press "Play" button</p>
+											<p class="trial-tab-content">Start your work by selecting your "<strong>Task</strong>" and press the "<strong>Play</strong>" button</p>
 											<img src="/img/trial/staff-4.png" class="mb-3 img-fluid w-100 img-border" alt="Dokodemo-Kerja Application"/>
-											<p class="trial-tab-content">Press the red button for stop counting</p>
+											<p class="trial-tab-content">You can stop by pressing the "<strong>Stop</strong>" (red) button</p>
 											<img src="/img/trial/staff-5.png" class="mb-5 img-fluid w-100 img-border" alt="Dokodemo-Kerja Application Appearance"/>
 										</div>
 									</div>
 								</div>
 
-								<h2 class="tab-content-title content-section-title">3. Another Feature</h2>
+								<h2 class="tab-content-title content-section-title">3. Other Features</h2>
 								<div class="pl-4">
 									<div class="row">
 										<div class="col-md-6">
@@ -286,23 +274,23 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 												</p>
 												<div class="trial-tab-content__list">
 													<span style="color: #098AE4"><strong>Blue</strong></span>
-													<span>: for Minimize</span>
+													<span>: Minimize or Maximize the application</span>
 												</div>
 												<div class="trial-tab-content__list">
 													<span style="color: #E6B403"><strong>Yellow</strong></span>
-													<span>: go to Website</span>
+													<span>: Go to Dokodemo-Kerja Admin website</span>
 												</div>
 												<div class="trial-tab-content__list">
 													<span style="color: #E3092A"><strong>Red</strong></span>
-													<span>: for Logout</span>
+													<span>: Logout</span>
 												</div>
 												<div class="trial-tab-content__list">
 													<span><strong>Today</strong></span>
-													<span>: shows today's accumulative work hours</span>
+													<span>: Today's accumulative work hours</span>
 												</div>
 												<div class="trial-tab-content__list">
 													<span><strong>Weekly</strong></span>
-													<span>: shows this week's accumulative work hours</span>
+													<span>: This week's accumulative work hours</span>
 												</div>
 											</div>
 										</div>
@@ -312,10 +300,10 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 									</div>
 								</div>
 
-								<h2 class="tab-content-title content-section-title">4. Screen Record</h2>
+								<h2 class="tab-content-title content-section-title">4. Screen Display</h2>
 								<div class="pl-4">
 									<p class="trial-tab-content">
-										You can view the Screen record and how long you've worked. The icon inside the collored bar is to manually edit your work hour. And also show the time edited history and comment from other staff
+										You can check which task was performed along with the duration of the task. You can edit the work time by clicking the edit icon. The edit history is also displayed in the center of the screen. The screenshots are displayed at the bottom of the screen.
 									</p>
 									<img src="/img/trial/staff-7.png" class="mb-5 img-fluid w-100 img-border" alt="Dokodemo-Kerja Time Tracking"/>
 								</div>
@@ -460,48 +448,32 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 			</div>
 		</div>
 	</section>
-	<?php include 'footer.php' ?>
-	<script src="/js/jquery-3.4.1.min.js"></script>
-	<script src="/js/bootstrap.min.js"></script>
-	<script>
-		document.getElementById("submit-btn-trial").disabled = true;
-		function enableBtnTrial(){
-			document.getElementById("submit-btn-trial").disabled = false;
-		}
-	</script>
-	<script>
-        var element = document.getElementById("popup-text");
 
-        var t=setTimeout(openPopUp,5000);
-        function openPopUp() {
-        element = document.getElementById("popup-text");
-        element.style.visibility = "visible";
-        element.style.opacity = "1";
-        }
-    </script>
-		<script>
-        setTimeout(function() {
-            $('#myModal').modal();
-        }, 4000);
-	</script>
-	<!-- set border based on active tab -->
-    <script>
-        $('.trial-tab').click(function(e) {
-			setTimeout(() => {
-				var tab_active, tab_position;
-				tab_active = $(this).attr('aria-selected');
-				tab_position = $(this).index();
+</div>
 
-				$(this).parent().find('.trial-tab').removeClass('--divider');
+<?php include($_SERVER['DOCUMENT_ROOT'].'/component/footer.php'); ?>
+<script>
+	document.getElementById("submit-btn-trial").disabled = true;
+	function enableBtnTrial(){
+		document.getElementById("submit-btn-trial").disabled = false;
+	}
+</script>
+<script>
+	// set border based on active tab
+	$('.trial-tab').click(function(e) {
+		setTimeout(() => {
+			var tab_active, tab_position;
+			tab_active = $(this).attr('aria-selected');
+			tab_position = $(this).index();
 
-				if (tab_position == 2 && tab_active) { // last tab is active
-					$(this).parent().find('.trial-tab:nth-child(2)').addClass('--divider');
-				} else if (tab_position == 0 && tab_active) { // first tab is active
-					$(this).parent().find('.trial-tab:last-child').addClass('--divider');
-				}
-			}, 5);
-        })
-    </script>
-</body>
+			$(this).parent().find('.trial-tab').removeClass('--divider');
 
-</html>
+			if (tab_position == 2 && tab_active) { // last tab is active
+				$(this).parent().find('.trial-tab:nth-child(2)').addClass('--divider');
+			} else if (tab_position == 0 && tab_active) { // first tab is active
+				$(this).parent().find('.trial-tab:last-child').addClass('--divider');
+			}
+		}, 5);
+	})
+</script>
+<?php include($_SERVER['DOCUMENT_ROOT'].'/component/footer-end.php') ?>

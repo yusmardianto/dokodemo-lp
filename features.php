@@ -1,206 +1,178 @@
-<!DOCTYPE html>
-<html lang="en">
+<?php 
+    $page = 'features';
+    $page_title = 'Remote Work Management Tool | Dokodemo-Kerja | LOGIQUE Indonesia.';
 
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=5.0" />
-    <meta http-equiv="X-UA-Compatible" content="ie=edge">
-	<meta name="description" itemprop="description" content="Dokodemo-Kerja is a Remote work system that enables time tracking features, accurate time reports, man hour management & easy navigation.">
-    <meta name="keywords" content="dokodemo, dokodemo features, work monitor, monitor tasks, screenshot employee desktop, screen monitoring, management tool, tool for managers, employee management software, GPS tracking, calculate working hours">
-    <meta name="author" content="PT. LOGIQUE Digital Indonesia">
-	<meta name="google-site-verification" content="Xc9SFJQZdKYLsrWvrxEjLLTA-nyrnNPQTXQoMxs4gKI" />
-    <meta property="og:title" content="Dokodemo-Kerja's Features | Track Working Hours and Monitor Tasks">
-    <meta property="og:type" content="website">
-    <meta property="og:site_name" content="Dokodemo-Kerja">
-    <meta property="og:url" content="https://dokodemo-kerja.com">
-    <meta property="og:image" content="https://dokodemo-kerja.com/img/og-img/features.jpg">
-    <meta property="og:description" content="Dokodemo-Kerja is a time-management oriented solution for both employers and employees alike. Through its efficient monitoring and management capabilities, Dokodemo-Kerja can further help companies improve their levels of productivity, while at the same time provide flexible working hours for employees.">
-    <link rel="canonical" href="https://dokodemo-kerja.com/features">
-    <link rel="stylesheet" href="/css/bootstrap.min.css" />
-    <link href="/fonts/font-awesome/css/font-awesome.min.css" rel="stylesheet">
-    <link rel="stylesheet" href="/css/slick.css" />
-    <link rel="stylesheet" href="/css/slick-theme.css" />
-    <link rel="stylesheet" href="/css/header-footer.css" />
-    <link rel="stylesheet" href="/css/style-features.css" />
+    $meta_description = 'Dokodemo-Kerja is a remote working software and attendance management tool created for better HR management, developed by LOGIQUE.';
+    $meta_keyword = 'dokodemo, dokodemo features, work monitor, monitor tasks, screenshot employee desktop, screen monitoring, management tool, tool for managers, employee management software, GPS tracking, calculate working hours';
+
+    $og_title = 'Remote Work Management Tool | Dokodemo-Kerja';
+    $og_image = 'https://dokodemo-kerja.com/img/og-img/features.jpg';
+    $og_desription = 'Introducing Dokodemo-Kerja, a remote work system making it possible for employees to better grasp their work hours wherever they work from.';
+
+    $canonical_link = 'https://dokodemo-kerja.com/features';
+
+    $add_css = '
     <link rel="stylesheet" href="/js/magnific-popup.css" />
+    <link rel="stylesheet" href="/css/style-features.css" />';
 
-	<link rel="shortcut icon" type="image/x-icon" href="favicon.ico">
-    <title>Dokodemo-Kerja's Features | A Work Monitoring Tool & The Best Remote Work System</title>
-    <script src="https://www.googleoptimize.com/optimize.js?id=OPT-P232K37"></script>
-	<!-- Google Tag Manager -->
-	<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
-	new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
-	j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
-	'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
-	})(window,document,'script','dataLayer','GTM-WT4MCDL');</script>
-	<!-- Facebook Pixel Code -->
-	<script>
-	  !function(f,b,e,v,n,t,s)
-	  {if(f.fbq)return;n=f.fbq=function(){n.callMethod?
-	  n.callMethod.apply(n,arguments):n.queue.push(arguments)};
-	  if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';
-	  n.queue=[];t=b.createElement(e);t.async=!0;
-	  t.src=v;s=b.getElementsByTagName(e)[0];
-	  s.parentNode.insertBefore(t,s)}(window, document,'script',
-	  'https://connect.facebook.net/en_US/fbevents.js');
-	  fbq('init', '713777762291663');
-	  fbq('track', 'PageView');
-	</script>
-	<noscript><img height="1" width="1" style="display:none"
-	  src="https://www.facebook.com/tr?id=713777762291663&ev=PageView&noscript=1"
-	/></noscript>
-	<!-- End Facebook Pixel Code -->
-	<!-- Global site tag (gtag.js) - Google Analytics -->
-	<script async src="https://www.googletagmanager.com/gtag/js?id=UA-146404615-1"></script>
-	<script>
-	  window.dataLayer = window.dataLayer || [];
-	  function gtag(){dataLayer.push(arguments);}
-	  gtag('js', new Date());
+    include($_SERVER['DOCUMENT_ROOT'].'/component/header.php');
+?>
 
-	  gtag('config', 'UA-146404615-1');
-	</script>
-</head>
-<?php $page = 'features'; ?>
-<body>
-<!-- Google Tag Manager (noscript) -->
-<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-WT4MCDL"
-height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
-<!-- End Google Tag Manager (noscript) -->
-    <?php include "header.php" ?>
-    <section class="features-section">
+<div class="color--blue features">
+
+    <section class="mt--30px mb--40px features__title">
         <div class="container">
-            <div class="row">
-                <div class="col-md-10 offset-md-1 features-resp-config">
-                    <h1 class="fw-semibold fs-23 text-center mb-4">FEATURES</h1>
-                    <p class="fw-semibold text-center">Dokodemo-Kerja is a time-management oriented solution for both employers and employees alike. Through its efficient monitoring and management capabilities, Dokodemo-Kerja can further help companies improve their levels of productivity, while at the same time provide flexible working hours for employees.</p>
-                    <div class="row">
-                        <div class="col-lg-6 features-item">
-                            <span class="features-number">01</span>
-                            <h2 class="features-title">Track Working Hours and Monitor Tasks</h2>
-                            <p class="features-desc">Dokodemo-Kerja takes low-resolution screenshots of your employee's desktop or laptop activities during random intervals when the application is switched on and sends the images to the management team.</p>
-                        </div>
-                        <div class="col-lg-6 features-item">
-                             <img src="/img/features/feature-1.png" class="img-slide-screenshot modal-hover-opacity" alt="Dokodemo-Kerja is compatible with PC, Mobile & Tablet" />    
-                        </div>
-                    </div>
-                    <div class="row">
-                        <div class="col-lg-6 features-item">
-                            <span class="features-number">02</span>
-                            <h2 class="features-title">Accurate Time Reports</h2>
-                            <p class="features-desc">Dokodemo-Kerja accurately calculates and compiles employee work data and then displays it in an easy-to-read-format in just 1 simple click. This can greatly assist HR improve the overall accuracy of performance evaluation tasks.</p>
-                        </div>
-                        <div class="col-lg-6 features-item">
-                            <img src="/img/features/feature-2.png" class="img-slide-screenshot modal-hover-opacity" alt="Dokodemo-Kerja is compatible with PC, Mobile & Tablet" />   
-                        </div>
-                    </div>
-                    <div class="row">
-                        <div class="col-lg-6 features-item">
-                            <span class="features-number">03</span>
-                            <h2 class="features-title">Manage Employees Man-Hours</h2>
-                            <p class="features-desc">Track the total man-hours spent by each employee on each individual task, so your company can easily predict and arrange target deadlines according to your employee's capabilities.</p>
-                        </div>
-                        <div class="col-lg-6 features-item">
-                            <img src="/img/features/feature-3.png" class="img-slide-screenshot modal-hover-opacity" alt="Dokodemo-Kerja is compatible with PC, Mobile & Tablet" />    
-                        </div>
-                    </div>
-                    <div class="row">
-                        <div class="col-lg-6 features-item">
-                            <span class="features-number">04</span>
-                            <h2 class="features-title">Manage Off-Site Meetings</h2>
-                            <p class="features-desc">Dokodemo-Kerja’s Mobile Application utilizes GPS tracking, thereby allowing HR to easily track the location of each employee in real time during onsite events such as meetings or client visits.</p>
-                        </div>
-                        <div class="col-lg-6 features-item">
-                            <img src="/img/features/feature-4.png" class="img-slide-screenshot modal-hover-opacity" alt="Dokodemo GPS features" />    
-                        </div>
-                    </div>
-                    <div class="row">
-                        <div class="col-lg-6 features-item">
-                            <span class="features-number">05</span>
-                            <h2 class="features-title">Employee just need to "<strong>Start</strong>" or "<strong>Stop</strong>" the application.</h2>
-                            <div class="employee-feature-list pl-0">
-                                <ul>
-                                    <li>Users will be able to work anywhere, at any time.</li>
-                                    <li>When taking breaks, users will have to press the “Stop” button, so as to accurately calculate working hours.</li>
-                                    <li>User can now more efficiently manage their responsibilities according to their task.</li>
-                                </ul>
-                            </div>
-                        </div>
-                        <div class="col-lg-6 features-item">
-                            <img src="/img/features/feature-5.png" class="img-slide-screenshot modal-hover-opacity" alt="Dokodemo-Kerja is compatible with PC, Mobile & Tablet" />    
-                        </div>
-                    </div>
-                </div>
+            <div class="text-center title--bg title--bg-border title--bg-border-right" data-title-bg="FEATURES">                            
+                <h1 class="mb-0 font-weight-bold fs-34">FEATURES</h1>
             </div>
+            <div class="row justify-content-center">
+                <div class="col-lg-10">
+                    <p class="fs-14">Dokodemo-Kerja is an attendance & work content management system with work-time tracking features (based on a screenshot taking function). Not only are these features effective in improving the efficiency of HR work overall, such as in regards to attendance management, the calculation of overtime pay, and calculating paid holidays, but it also enables the introduction of more flexible work styles, such as remote work and reduced working hours. As a result, this leads to increased employee productivity.</p>
+                </div>
+            </div>            
         </div>
     </section>
 
-    <hr class="footer__divider">
-    
-    <section class="guides py-2 mt-3 mb-5">
-        <div class="container">
-            <div class="row">
-                <div class="col-md-4 offset-md-2 col-10 offset-1 py-2">
-                    <a href="https://drive.google.com/file/d/1kJA4zw9AlRcPQgkQThKdXOs9nfVI00ab/view?usp=sharing" class="dl-guide" aria-label="manual guide">
-                        <img src="/img/manual.png" class="img-fluid mx-auto d-block" id="features-manual-guide" alt="Dokodemo-Kerja Manual Guide" />
-                    </a>
-                </div>
-                <div class="col-md-4 col-10 offset-md-0 offset-1 py-2">
-                    <a href="https://drive.google.com/file/d/1jZut6Ouhi_HA26QoL4mvty45qZMAgdii/view?usp=sharing" class="dl-guide" aria-label="dl-guide">
-                        <img src="/img/install.png" class="img-fluid mx-auto d-block" id="features-install-guide" alt="Dokodemo-Kerja Install Guide" />
-                    </a>
+    <section class="mb--70px features__point">
+        <div class="zoom-gallery container">
+
+            <div class="mb-3 p-3 bg--blue-gradation-right rounded-lg">
+                <div class="row align-items-center">
+                    <div class="col-md-6 order-last order-md-first">
+                        <h2 class="mb--20px fs-20 font-weight-bold">Take and manage screenshots while engaged in work</h2>
+                        <p class="mb-0 fs-14">The system will take a screenshot once, randomly within every 10 minutes. For reasons of privacy, the saved screenshot is of low resolution, therefore, any text found within, such as from emails or message tools cannot be read. The purpose of the screenshot is to determine the application or website type currently open: whether it is work related, YouTube, a game, etc. It also sends a notification to the admin when a user has the same screenshot taken 3 times in a row.</p>
+                    </div>
+                    <div class="col-md-6 order-first order-md-last">
+                        <a href="/img/features/features-1-full.jpg" data-source="/img/features/features-1-full.jpg" title="Take and manage screenshots while engaged in work" aria-label="Take and manage screenshots while engaged in work" class="point__images">
+                            <picture>
+                                <source srcset="/img/features/features-1.webp" type="image/webp">
+                                <img src="/img/features/features-1.png" alt="" class="img-fluid d-block mx-auto">
+                            </picture>
+                        </a>
+                    </div>
                 </div>
             </div>
+
+            <div class="mb-3 p-3 bg--blue-gradation-left rounded-lg">
+                <div class="row align-items-center">
+                    <div class="col-md-6">
+                        <a href="/img/features/features-2-full.jpg" data-source="/img/features/features-2-full.jpg" title="Accurately records work time by task" aria-label="Accurately records work time by task" class="point__images">
+                            <picture>
+                                <source srcset="/img/features/features-2.webp" type="image/webp">
+                                <img src="/img/features/features-2.png" alt="" class="img-fluid d-block mx-auto">
+                            </picture>
+                        </a>
+                    </div>
+                    <div class="col-md-6">
+                        <h2 class="mb--20px fs-20 font-weight-bold">Accurately records work time by task</h2>
+                        <p class="mb-0 fs-14">From the installed application, select an appropriate task; it will then begin screen recording from when the play button is clicked, until it is switched off. The above screen capture was only taken when the application was being used (asides from Mobile version). There is also a time editing function within the Web version just incase a user had forgot to start or end their work session. The administrator is promptly notified when a work session timeframe has been edited.</p>
+                    </div>
+                </div>
+            </div>
+
+            <div class="mb-3 p-3 bg--blue-gradation-right rounded-lg">
+                <div class="row align-items-center">
+                    <div class="col-md-6 order-last order-md-first">
+                        <h2 class="mb--20px fs-20 font-weight-bold">Easy to Analyze</h2>
+                        <p class="mb-0 fs-14">Displays the total number of hours worked, downloading this data in regards to work hours by task, team, and individual. Working hours can be displayed on a daily, weekly, or monthly basis, facilitating HR attendance management work.</p>
+                    </div>
+                    <div class="col-md-6 order-first order-md-last">
+                        <a href="/img/features/features-3-full.jpg" data-source="/img/features/features-3-full.jpg" title="Easy to Analyze" aria-label="Easy to Analyze" class="point__images">
+                            <picture>
+                                <source srcset="/img/features/features-3.webp" type="image/webp">
+                                <img src="/img/features/features-3.png" alt="" class="img-fluid d-block mx-auto">
+                            </picture>
+                        </a>
+                    </div>
+                </div>
+            </div>
+
+            <div class="mb-3 p-3 bg--blue-gradation-left rounded-lg">
+                <div class="row align-items-center">
+                    <div class="col-md-6">
+                        <a href="/img/features/features-4-full.jpg" data-source="/img/features/features-4-full.jpg" title="Manage Non-Desk Work" aria-label="Manage Non-Desk Work" class="point__images">
+                            <picture>
+                                <source srcset="/img/features/features-4.webp" type="image/webp">
+                                <img src="/img/features/features-4.png" alt="" class="img-fluid d-block mx-auto">
+                            </picture>
+                        </a>
+                    </div>
+                    <div class="col-md-6">
+                        <h2 class="mb--20px fs-20 font-weight-bold">Manage Non-Desk Work</h2>
+                        <p class="mb-0 fs-14">Through the smartphone app, you can track the action history for employees working outside of the office by recording their work hours and locations. It will become possible to fully grasp the extent of one's work hours even when the employee has a work schedule that entails being at their desk in the morning and travelling to meetings with customers in the afternoon.</p>
+                    </div>
+                </div>
+            </div>
+
+            <div class="mb-3 p-3 bg--blue-gradation-right rounded-lg">
+                <div class="row align-items-center">
+                    <div class="col-md-6 order-last order-md-first">
+                        <h2 class="mb--20px fs-20 font-weight-bold">Manage attendance, late arrivals, and working hours</h2>
+                        <p class="mb-0 fs-14">Easily manage and keep track of instances of late arrivals, unfulfilled work hours, and even early leave cases.
+                            <br>
+                            With work hours being recorded, the calculation of overtime hours can thereby be easily determined.</p>
+                    </div>
+                    <div class="col-md-6 order-first order-md-last">
+                        <a href="/img/features/features-5-full.jpg" data-source="/img/features/features-5-full.jpg" title="Manage attendance, late arrivals, and working hours" aria-label="Manage attendance, late arrivals, and working hours" class="point__images">
+                            <picture>
+                                <source srcset="/img/features/features-5.webp" type="image/webp">
+                                <img src="/img/features/features-5.png" alt="" class="img-fluid d-block mx-auto">
+                            </picture>
+                        </a>
+                    </div>
+                </div>
+            </div>
+
+            <div class="mb-3 p-3 bg--blue-gradation-left rounded-lg">
+                <div class="row align-items-center">
+                    <div class="col-md-6">
+                        <a href="/img/features/features-6-full.jpg" data-source="/img/features/features-6-full.jpg" title="Manage Day Offs and Holidays" aria-label="Manage Day Offs and Holidays" class="point__images">
+                            <picture>
+                                <source srcset="/img/features/features-6.webp" type="image/webp">
+                                <img src="/img/features/features-6.png" alt="" class="img-fluid d-block mx-auto">
+                            </picture>
+                        </a>
+                    </div>
+                    <div class="col-md-6">
+                        <h2 class="mb--20px fs-20 font-weight-bold">Manage Day Offs and Holidays</h2>
+                        <p class="mb-0 fs-14">You can approve any Day Off requests through Dokodemo-Kerja. HR can easily manage the number of day offs taken as well as any remaining numbers.</p>
+                    </div>
+                </div>
+            </div>
+
+            <div class="mb-3 p-3 bg--blue-gradation-right rounded-lg">
+                <div class="row align-items-center">
+                    <div class="col-md-6 order-last order-md-first">
+                        <h2 class="mb--20px fs-20 font-weight-bold">The user simply needs to "<strong>Start</strong>" and "<strong>Stop</strong>" the application.</h2>
+                        <ul class="mb-0 fs-14 list-unstyled list--circle">
+                            <li class="mb-2">Users will be able to work anywhere, at any time.</li>
+                            <li class="mb-2">It allows the user to work productively in an environment that is most comfortable to the user.</li>
+                            <li class="mb-2">When taking breaks, the user will have to press the "<strong>Stop</strong>" button, so as to accurately calculate the total number of work hours during the end of the day.</li>
+                        </ul>
+                    </div>
+                    <div class="col-md-6 order-first order-md-last">
+                        <a href="/img/features/features-7-full.jpg" data-source="/img/features/features-7-full.jpg" title='The user simply needs to "Start" and "Stop" the application.' aria-label='The user simply needs to "Start" and "Stop" the application.' class="point__images">
+                            <picture>
+                                <source srcset="/img/features/features-7.webp" type="image/webp">
+                                <img src="/img/features/features-7.png" alt="" class="img-fluid d-block mx-auto">
+                            </picture>
+                        </a>
+                    </div>
+                </div>
+            </div>
+
         </div>
     </section>
-    <?php include './component/demo-banner.php' ?>
-    <?php include "footer.php" ?>
-    <script src="/js/jquery-3.4.1.min.js"></script>
-    <script src="/js/bootstrap.min.js"></script>
-    <script src="/js/slick.min.js"></script>
-    <script src="/js/jquery.magnific-popup.min.js"></script>
 
-    <script>
-        $(".screenshot-slide").slick({
-            infinite: true,
-            slidesToShow: 3,
-            slidesToScroll: 1,
-            responsive: [{
-                breakpoint: 992,
-                settings: {
-                    slidesToShow: 2,
-                    slidesToScroll: 2
-                }
-            }, {
-                breakpoint: 768,
-                settings: {
-                    slidesToShow: 1,
-                    slidesToScroll: 1
-                }
-            }, ]
-        })
-        $('.testimony-slider').slick({
-            infinite: true,
-            slidesToShow: 3,
-            slidesToScroll: 3,
-            arrows: false,
-            dots: true,
-            responsive: [{
-                breakpoint: 992,
-                settings: {
-                    slidesToShow: 2,
-                    slidesToScroll: 2
-                }
-            }, {
-                breakpoint: 768,
-                settings: {
-                    slidesToShow: 1,
-                    slidesToScroll: 1
-                }
-            }, ]
-        });
-    </script>
-    <script>
-    $(document).ready(function() {
+</div>
+
+<?php include($_SERVER['DOCUMENT_ROOT'].'/component/demo-banner.php'); ?>
+<?php 
+    $add_js = '<script src="/js/jquery.magnific-popup.min.js"></script>';
+    include($_SERVER['DOCUMENT_ROOT'].'/component/footer.php'); 
+?>
+<script>
+    $(function() {
         $('.zoom-gallery').magnificPopup({
             delegate: 'a',
             type: 'image',
@@ -210,7 +182,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
             image: {
                 verticalFit: true,
                 titleSrc: function(item) {
-                    return item.el.attr('title') + ' &middot; <a class="image-source-link" href="'+item.el.attr('data-source')+'" target="_blank">image source</a>';
+                    return item.el.attr('title') + ' &middot; <a class="image-source-link" href="'+item.el.attr('data-source')+'" target="_blank" rel="noopener noreferrer">Full Image</a>';
                 }
             },
             gallery: {
@@ -225,18 +197,6 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
             }
 
         });
-    });
-    </script>
-    <script>
-        var element = document.getElementById("popup-text");
-
-        var t=setTimeout(openPopUp,5000);
-        function openPopUp() {
-        element = document.getElementById("popup-text");
-        element.style.visibility = "visible";
-        element.style.opacity = "1";
-        }
-    </script>
-</body>
-
-</html>
+    })
+</script>
+<?php include($_SERVER['DOCUMENT_ROOT'].'/component/footer-end.php') ?>

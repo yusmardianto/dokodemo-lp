@@ -31,24 +31,34 @@
     } 
 ?>
 
-<nav class="navbar navbar-expand-lg navbar-light">
+<?php
+    ini_set('date.timezone', 'Asia/Jakarta');
+    $date_now = strtotime(date("m/d/Y H:i:s", time()));
+    $date_deadline = strtotime(date("m/d/Y H:i:s", strtotime("11/02/2020 13:00:00")));
+    
+    if ($date_now <= $date_deadline) {
+        include ($_SERVER['DOCUMENT_ROOT'].'/component/free-seminar-banner.php');
+    }
+?>
+
+<nav class="doko-header navbar navbar-expand-lg navbar-light">
     <div class="container">
         <a class="navbar-brand" href="/ind/" aria-label="homepage ind link">
-            <img src="/img/dokodemo.svg" width="85" alt="">
+            <img src="/img/dokodemo.svg" width="60" alt="">
         </a>
         <button id="btn-nav" class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
             <span class="navbar-toggler-icon"></span>
         </button>
         <div class="collapse navbar-collapse" id="navbarNav">
-            <ul class="navbar-nav flex-grow-1 justify-content-center">
+            <ul class="mb-3 mb-lg-0 navbar-nav text-center">
                 <li class="nav-item <?php active('') ?>">
                     <a class="nav-link" href="/ind/">Home</a>
                 </li>
-                <!-- <li class="nav-item <?php active('about') ?>">
+                <!-- <li class="nav-item <//?php active('about') ?>">
                     <a class="nav-link" href="/ind/about">About</a>
                 </li> -->
                 <li class="nav-item <?php active('features') ?>">
-                    <a class="nav-link" href="/ind/features">Features</a>
+                    <a class="nav-link" href="/ind/features">Work From Home</a>
                 </li>
                 <li class="nav-item <?php active_case() ?>">
                     <a class="nav-link" href="/ind/case-study">Studi Kasus</a>
@@ -66,18 +76,12 @@
                 <li class="nav-item <?php active('contact-us') ?>">
                     <a class="nav-link" href="/ind/contact-us">Hubungi Kami</a>
                 </li>
-
-                <li class="nav-item flex-column">
-
-                </li>
-
             </ul>
             <div class="ml-auto">
-                <p class="text-center txt-lang">Language</p>
-                <div class="switch-language">
-                    <a href="/<?php echo $page;?>"><label for="radio-one">ENG</label></a>
-                    <a href="/ind/"><label class="active" for="radio-two">IND</label></a>
-                    <a href="/jpn/<?php echo $page;?>"><label for="radio-three">JPN</label></a>
+                <div class="d-flex justify-content-center switch-language">
+                    <a href="#" class="active">ID</a>
+                    <a href="/<?php echo $page;?>">EN</a>
+                    <a href="/jpn/<?php echo $page;?>">JP</a>
                 </div>
             </div>
         </div>

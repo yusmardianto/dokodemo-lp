@@ -21,6 +21,7 @@
   <link rel="stylesheet" href="/css/slick.css" />
   <link rel="stylesheet" href="/css/slick-theme.css" />
   <link rel="stylesheet" href="/css/header-footer.css" />
+  <link rel="stylesheet" href="/css/style.css" />
   <link rel="stylesheet" href="/css/style-subscribe.css" />
   <link rel="shortcut icon" type="image/x-icon" href="favicon.ico">
   <title>Privacy Policy Dokodemo-Kerja</title>
@@ -286,6 +287,8 @@
   <?php include "footer.php" ?>
   <script src="/js/jquery-3.4.1.min.js"></script>
   <script src="/js/bootstrap.min.js"></script>
+  <script src="/js/jquery.countdown.min.js"></script>
+  <script src="/js/seminar-banner/seminar-banner.js?v=1.1"></script>
   <script>
   var element = document.getElementById("popup-text");
 
