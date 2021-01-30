@@ -485,7 +485,7 @@
 </div>
 
 <?php include($_SERVER['DOCUMENT_ROOT'].'/jpn/component/demo-banner.php'); ?>
-<?php include($_SERVER['DOCUMENT_ROOT'].'/component/modal-meeting.php'); ?>
+<?php include($_SERVER['DOCUMENT_ROOT'].'/jpn/component/modal-meeting.php'); ?>
 <?php 
     $add_js = '
     <script src="/js/homepage-animation.js"></script>

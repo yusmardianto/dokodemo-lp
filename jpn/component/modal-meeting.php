@@ -13,8 +13,8 @@
         <div class="modal-content border-0">
             <div class="border-bottom-0 pb-0 modal-header">
                 <div class="color--blue pt-3">
-                    <h5 class="fs-24 font-weight-bold modal-title">Jadwalkan Konsultasi <span class="text-capitalize modal-title__type">Online</span></h5>
-                    <p>Jadwalkan konsultasi <span class="modal-title__type">online</span> dengan tim kami untuk demo software</p>
+                    <h5 class="fs-24 font-weight-bold modal-title">Schedule <span class="text-capitalize modal-title__type">Online</span> Meeting</h5>
+                    <p>Set up an <span class="modal-title__type">online</span> consultation with our team for a software demo</p>
                 </div>
                 <button type="button" class="close" data-dismiss="modal" aria-label="Close">
                     <span aria-hidden="true" class="color--blue">&times;</span>
@@ -28,7 +28,7 @@
                     <div class="form-row">
                         <div class="col-md-6 mb-3">
                             <div class="modal-body__input">
-                                <label for="" class="fs-12 d-block mb-1">Nama Anda</label>
+                                <label for="" class="fs-12 d-block mb-1">Your Name</label>
                                 <div class="position-relative input--icon">
                                     <picture>
                                         <source srcset="/img/icon/icon-profile.svg">
@@ -40,7 +40,7 @@
                         </div>
                         <div class="col-md-6 mb-3">
                             <div class="modal-body__input">
-                                <label for="" class="fs-12 d-block mb-1">Nama Perusahaan</label>
+                                <label for="" class="fs-12 d-block mb-1">Your Company</label>
                                 <div class="position-relative input--icon">
                                     <picture>
                                         <source srcset="/img/icon/icon-company.svg">
@@ -54,7 +54,7 @@
 
                     <div class="form-row modal-body__input">
                         <div class="col-12">
-                            <label for="" class="color--gray fs-12 d-block mb-1">Tentukan Waktu</label>
+                            <label for="" class="color--gray fs-12 d-block mb-1">Time Preferred</label>
                         </div>
                         <div class="mb-3 col col-lg-6">
                             <div class="form-row">
@@ -103,7 +103,7 @@
                     <div class="form-row">
                         <div class="col-12 mb--30px">
                             <div class="modal-body__input">
-                                <label for="" class="color--gray fs-12 d-block mb-1">Pesan</label>
+                                <label for="" class="color--gray fs-12 d-block mb-1">Message</label>
                                 <textarea name="message" id="" rows="5" class="form-control border--blue color--blue"></textarea>                        
                             </div>
                         </div>
@@ -111,7 +111,7 @@
 
                     <div class="form-row justify-content-center">
                         <div class="col-md-4 mb--40px">
-                            <button type="submit" class="form-control m-h--40px btn btn--rounded bg--yellow">Kirim</button>
+                            <button type="submit" class="form-control m-h--40px btn btn--rounded bg--yellow">Send</button>
                         </div>
                     </div>
 
@@ -119,11 +119,11 @@
                     <img src="/img/icon/icon-meeting-accent.png" alt="" class="img-fluid position-absolute meeting__accent">
 
                 </div>
-                <div class="modal-footer bg--blue pt-2 pb-1 justify-content-center text-white">
-                    <div class="text-center">atau kirim email ke: <a href="mailto:sales@dokodemo-kerja.com" class="font-weight-bold text-white ml-2">sales@dokodemo-kerja.com</a></div>
-                </div>
+            </form>
+            <div class="modal-footer bg--blue pt-2 pb-1 justify-content-center text-white">
+                <div class="text-center">or send an email to: <a href="mailto:sales@dokodemo-kerja.com" class="font-weight-bold text-white ml-2">sales@dokodemo-kerja.com</a></div>
             </div>
-        </form>
+        </div>
     </div>
 </div>
 
@@ -174,6 +174,6 @@
     <?php }?>
     // when close modals redirect to home page and kill session
     $('#meetingScheduleSent').on('hidden.bs.modal', function () {
-        window.location.href= "/ind/";
+        window.location.href= "/jpn/";
     })
 </script>
