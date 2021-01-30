@@ -3,6 +3,7 @@
 	error_reporting(E_ALL);
 
     $config = include('config/app.php');
+    require 'vendor/autoload.php';
 	require 'action/c-meeting.php';
 ?>
 
