@@ -34,7 +34,7 @@
                                         <source srcset="/img/icon/icon-profile.svg">
                                         <img src="/img/icon/icon-profile.png" alt="" class="img-fluid" height="20">
                                     </picture>
-                                    <input type="text" name="name" class="form-control m-h--40px border--blue color--blue">
+                                    <input type="text" name="name" class="form-control m-h--40px border--blue color--blue" required>
                                 </div>
                             </div>
                         </div>
@@ -46,7 +46,7 @@
                                         <source srcset="/img/icon/icon-company.svg">
                                         <img src="/img/icon/icon-company.png" alt="" class="img-fluid" height="20">
                                     </picture>
-                                    <input type="text" name="company" class="form-control m-h--40px border--blue color--blue">
+                                    <input type="text" name="company" class="form-control m-h--40px border--blue color--blue" required>
                                 </div>
                             </div>
                         </div>
@@ -60,7 +60,7 @@
                             <div class="form-row">
                                 <div class="col">
                                     <div class="input--time-step position-relative">
-                                        <input type="time" name="start_time" id="time_preffered_start" class="form-control m-h--40px border--blue color--blue" min="09:00" max="17:00" step="1800" value="09:00">                                
+                                        <input type="time" name="start_time" id="time_preffered_start" class="form-control m-h--40px border--blue color--blue" min="09:00" max="17:00" step="1800" value="09:00" required>                                
                                         <button type="button" class="btn bg--blue time-step time-step--up" data-button-type="up">
                                             <picture>
                                                 <source srcset="/img/icon/icon-chevron-up.svg">
@@ -78,7 +78,7 @@
                                 <div class="col-auto px-0 align-self-center">-</div>
                                 <div class="col">
                                     <div class="input--time-step position-relative">
-                                        <input type="time" name="end_time" id="time_preffered_end" class="form-control m-h--40px border--blue color--blue" min="09:00" max="17:00" step="1800" value="09:00">                                
+                                        <input type="time" name="end_time" id="time_preffered_end" class="form-control m-h--40px border--blue color--blue" min="09:00" max="17:00" step="1800" value="09:00" required>                                
                                         <button type="button" class="btn bg--blue time-step time-step--up" data-button-type="up">
                                             <picture>
                                                 <source srcset="/img/icon/icon-chevron-up.svg">
@@ -104,7 +104,7 @@
                         <div class="col-12 mb--30px">
                             <div class="modal-body__input">
                                 <label for="" class="color--gray fs-12 d-block mb-1">Message</label>
-                                <textarea name="message" id="" rows="5" class="form-control border--blue color--blue"></textarea>                        
+                                <textarea name="message" id="" rows="5" class="form-control border--blue color--blue" required></textarea>                        
                             </div>
                         </div>
                     </div>
@@ -163,17 +163,3 @@
         </div>
     </div>
 </div>
-
-<script src="/js/jquery-3.4.1.min.js"></script>
-<script src="/js/bootstrap.min.js"></script>
-<script src="/js/slick.min.js"></script>
-<script src="/js/main.js"></script>
-<script type="text/javascript">
-    <?php if (!is_null($success)) { ?>
-        $('#meetingScheduleSent').modal('show');
-    <?php }?>
-    // when close modals redirect to home page and kill session
-    $('#meetingScheduleSent').on('hidden.bs.modal', function () {
-        window.location.href= "/jpn/";
-    })
-</script>

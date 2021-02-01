@@ -445,7 +445,7 @@
                                     <p class="my-4">Jadwalkan konsultasi online dengan tim kami untuk demo software</p>
                                 </div>
                                 <div class="col-md-6">
-                                    <button type="button" class="form-control btn btn--rounded bg--yellow" data-title="online" data-toggle="modal" data-target="#meetingSchedule">
+                                    <button type="button" id="btn_online_meet_form_id" class="form-control btn btn--rounded bg--yellow" data-title="online" data-toggle="modal" data-target="#meetingSchedule">
                                         Online
                                     </button>
                                 </div>
@@ -466,7 +466,7 @@
                                     <p class="my-4">Jadwalkan konsultasi offline dengan tim kami untuk demo software</p>
                                 </div>
                                 <div class="col-md-6">
-                                    <button type="button" class="form-control btn btn--rounded bg--yellow" data-title="offline" data-toggle="modal" data-target="#meetingSchedule">
+                                    <button type="button" id="btn_offline_meet_form_id" class="form-control btn btn--rounded bg--yellow" data-title="offline" data-toggle="modal" data-target="#meetingSchedule">
                                         Offline
                                     </button>
                                 </div>
@@ -664,5 +664,16 @@
     }, 4000);
     // end modal popup
 
+</script>
+
+<!-- schedule meeting form -->
+<script type="text/javascript">
+    <?php if (!is_null($success)) { ?>
+        $('#meetingScheduleSent').modal('show');
+    <?php }?>
+    // when close modals redirect to home page and kill session
+    $('#meetingScheduleSent').on('hidden.bs.modal', function () {
+        window.location.href= "/ind/";
+    })
 </script>
 <?php include($_SERVER['DOCUMENT_ROOT'].'/component/footer-end.php') ?>
