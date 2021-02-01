@@ -1,4 +1,4 @@
-@font-face {
+/* @font-face {
     font-family: 'Khula';
     src: url('../fonts/Khula-Regular.ttf');
 }
@@ -29,7 +29,7 @@
 body {
     font-family: 'Khula';
     color: #505458;
-}
+} */
 
 /* override bootstrap breadcrumb */
 .breadcrumb {
@@ -76,7 +76,12 @@ body {
     text-overflow: ellipsis;
     display: -webkit-box;
     -webkit-line-clamp: 5;
-    -webkit-box-orient: vertical;
+    -webkit-box-orient: vertical
+}
+
+.case-study__card .card__list{
+    color: black;
+    padding-left: 20px;
 }
 
 .case-study__card .card__news,
@@ -127,6 +132,25 @@ body {
     padding-bottom: .5rem;
     padding-left: .5rem;
     margin-left: 3rem;
+}
+
+.case-study__story .feature-title a{
+    color: #505458;
+    text-decoration: none;
+}
+
+.case-study__story .img-day-off{
+    max-width: 450px;
+    margin-bottom: 1em;
+}
+
+.case-study__story .new-feature-link{
+    text-decoration: underline !important;
+}
+
+.case-study__story.case-study__new-feature li::marker,
+.case-study__story.case-study__new-feature .feature-title{
+    font-weight: 600;
 }
 /* end case study section */
 
