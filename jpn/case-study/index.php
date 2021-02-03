@@ -80,6 +80,23 @@
                         </div>
                     </a>
                 </div>
+                <div class="col-md-4">
+                    <a href="/jpn/case-study/case-5" class="case-study__card-wrapper">
+                        <div class="case-study__card">
+                            <img class="card__img" src="/img/case-study/dokodemo-story-5.jpg" alt="A Logique Employee">
+                            <h2 class="card__headline">「Dokodemo-Kerja」活用ストーリー5</h2>
+                            <h4 class="card__title">PT. LOGIQUE Digital Indonesia</h4>
+                            <p class="card__text">
+                                Dokodemo-Kerja新機能
+                                <ol class="card__list">
+                                    <li>欠勤・休暇管理</li>
+                                    <li>遅刻管理</li>
+                                    <li>休暇申請機能</li>
+                                </ol>
+                            </p>
+                        </div>
+                    </a>
+                </div>
             </div>
         </div>
     </section>

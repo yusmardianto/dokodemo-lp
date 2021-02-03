@@ -39,7 +39,7 @@
 
                             <div class="row">
                                 <div class="col-12">
-                                    <img src="/img/case-study/dokodemo-story-5.png" alt="Dokodemo new feature" class="img-fluid w-100 mb-4">
+                                    <img src="/img/case-study/dokodemo-story-5.jpg" alt="Dokodemo new feature" class="img-fluid w-100 mb-4">
                                 </div>
                                 <div class="col-12">
                                     <p>Dokodemo-Kerja versi 2.1.3 sudah resmi dirilis oleh LOGIQUE dengan berbagai fitur di dalamnya seperti pengelolaan waktu keterlambatan karyawan, riwayat absensi, serta pengajuan cuti yang mudah. Dengan fitur-fitur tersebut, perusahaan atau staff HR dapat mengetahui daftar kehadiran karyawan secara efektif dan efisien. Selain itu, data-data yang disajikan tentu juga akan sangat berguna untuk menilai bagaimana kedisiplinan serta kinerja dari para karyawan.</p>
