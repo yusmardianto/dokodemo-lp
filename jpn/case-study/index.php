@@ -11,9 +11,7 @@
 
     $canonical_link = 'https://dokodemo-kerja.com/jpn/case-study/';
 
-    $add_css = '
-    <link rel="stylesheet" href="/css/style-features.css" />
-    <link rel="stylesheet" href="/css/style-case-study.css" />';
+    $add_css = '<link rel="stylesheet" href="/css/style-case-study.css" />';
 
     include($_SERVER['DOCUMENT_ROOT'].'/jpn/component/header.php');
 ?>
@@ -78,6 +76,23 @@
                             <h4 class="card__title">PT. LOGIQUE Digital Indonesia</h4>
                             <p class="card__text">
                                 HRスタッフのGhittaです。2017年からHRスタッフとして働いています。今回は、「Dokodemo-Kerja」をどのように活用して人事ルールを改変し問題解決してきたかについてご紹介します。2017年当時、当時は、特別な人事規則はありませんでした。特例として、特別な理由のある一部のスタッフにのみ、リモートワークを許可する、という環境でした。ですので、本社勤務の大多数のスタッフは、朝８時から10時の間で勤務開始時刻を自ら設定。開始時間からお昼の休憩時間（１時間）を除いて８時間働くという条件になっていました。なお、ジョグジャカルタオフィスのスタッフは、朝８時から17時までの勤務形態になっていました。
+                            </p>
+                        </div>
+                    </a>
+                </div>
+                <div class="col-md-4">
+                    <a href="/jpn/case-study/case-5" class="case-study__card-wrapper">
+                        <div class="case-study__card">
+                            <img class="card__img" src="/img/case-study/dokodemo-story-5.jpg" alt="A Logique Employee">
+                            <h2 class="card__headline">「Dokodemo-Kerja」活用ストーリー5</h2>
+                            <h4 class="card__title">PT. LOGIQUE Digital Indonesia</h4>
+                            <p class="card__text">
+                                Dokodemo-Kerja新機能
+                                <ol class="card__list">
+                                    <li>欠勤・休暇管理</li>
+                                    <li>遅刻管理</li>
+                                    <li>休暇申請機能</li>
+                                </ol>
                             </p>
                         </div>
                     </a>

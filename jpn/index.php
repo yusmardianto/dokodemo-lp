@@ -326,18 +326,6 @@
             </div>
             <div class="pt--20px row">
                 <div class="col-md-4 mb-4 mb-lg-0">
-                    <a href="/jpn/case-study/case-2" class="color--blue">
-                        <div class="case-study">
-                            <picture>
-                                <source srcset="/img/case-study/case-2.webp" type="image/webp">
-                                <img src="/img/case-study/case-2.jpg" alt="" class="img-fluid mb-3 rounded-lg">
-                            </picture>
-                            <h5 class="fs-20 font-weight-bold">「Dokodemo-Kerja」活用ストーリー2</h5>
-                            <p class="mb-0">システム開発会社B社</p>
-                        </div>
-                    </a>
-                </div>
-                <div class="col-md-4 mb-4 mb-lg-0">
                     <a href="/case-study/case-3" class="color--blue">
                         <div class="case-study">
                             <picture>
@@ -357,6 +345,18 @@
                                 <img src="/img/case-study/dokodemo-story-4-ghitta.jpg" alt="" class="img-fluid mb-3 rounded-lg" style="object-position: top;">
                             </picture>
                             <h5 class="fs-20 font-weight-bold">「Dokodemo-Kerja」活用ストーリー4</h5>
+                            <p class="mb-0">PT. LOGIQUE Digital Indonesia</p>
+                        </div>
+                    </a>
+                </div>
+                <div class="col-md-4 mb-4 mb-lg-0">
+                    <a href="/jpn/case-study/case-5" class="color--blue">
+                        <div class="case-study">
+                            <picture>
+                                <source srcset="/img/case-study/dokodemo-story-5.webp" type="image/webp">
+                                <img src="/img/case-study/dokodemo-story-5.jpg" alt="" class="img-fluid mb-3 rounded-lg">
+                            </picture>
+                            <h5 class="fs-20 font-weight-bold">「Dokodemo-Kerja」活用ストーリー5</h5>
                             <p class="mb-0">PT. LOGIQUE Digital Indonesia</p>
                         </div>
                     </a>
@@ -438,7 +438,7 @@
             <div class="row">
                 <div class="col-md-6 mb-3 mb-md-0">
                     <div class="bg--l-blue rounded-lg text-center schedule">
-                        <h5 class="font-weight-bold mb-4 fs-20">Schedule Online Meeting</h5>
+                        <h5 class="font-weight-bold mb-4 fs-20">オンラインMeetingをリクエスト</h5>
                         <div class="row justify-content-center">
                             <div class="col-md-8">
                                 <picture>
@@ -447,11 +447,11 @@
                                 </picture>
                             </div>
                             <div class="col-md-8">
-                                <p class="my-4">Set up an online consultation with our team for a software demo</p>
+                                <p class="my-4">オンラインでDokodemo-Kerjaのご説明をしデモをお見せいたします。</p>
                             </div>
                             <div class="col-md-6">
-                                <button type="button" id="btn_online_meet_form_jp" class="form-control btn btn--rounded bg--yellow" data-title="online" data-toggle="modal" data-target="#meetingSchedule">
-                                    Online
+                                <button type="button" id="btn_online_meet_form_jp" class="form-control btn btn--rounded bg--yellow" data-title="オンライン" data-toggle="modal" data-target="#meetingSchedule">
+                                    申し込む
                                 </button>
                             </div>
                         </div>
@@ -459,7 +459,7 @@
                 </div>
                 <div class="col-md-6">
                     <div class="bg--l-blue rounded-lg text-center schedule">
-                        <h5 class="font-weight-bold mb-4 fs-20">Schedule Offline Meeting</h5>
+                        <h5 class="font-weight-bold mb-4 fs-20">オフラインMeetingをリクエスト</h5>
                         <div class="row justify-content-center">
                             <div class="col-md-8">
                                 <picture>
@@ -468,11 +468,11 @@
                                 </picture>
                             </div>
                             <div class="col-md-8">
-                                <p class="my-4">Set up an offline consultation with our team for a software demo</p>
+                                <p class="my-4">御社へのご訪問、もしくは当社へご来訪いただき、デモをお見せし、導入メリットをご説明いたします。</p>
                             </div>
                             <div class="col-md-6">
-                                <button type="button" id="btn_offline_meet_form_jp" class="form-control btn btn--rounded bg--yellow" data-title="offline" data-toggle="modal" data-target="#meetingSchedule">
-                                    Offline
+                                <button type="button" id="btn_offline_meet_form_jp" class="form-control btn btn--rounded bg--yellow" data-title="オフライン" data-toggle="modal" data-target="#meetingSchedule">
+                                申し込む
                                 </button>
                             </div>
                         </div>
