@@ -11,9 +11,7 @@
 
     $canonical_link = 'https://dokodemo-kerja.com/jpn/case-study/';
 
-    $add_css = '
-    <link rel="stylesheet" href="/css/style-features.css" />
-    <link rel="stylesheet" href="/css/style-case-study.css" />';
+    $add_css = '<link rel="stylesheet" href="/css/style-case-study.css" />';
 
     include($_SERVER['DOCUMENT_ROOT'].'/jpn/component/header.php');
 ?>
