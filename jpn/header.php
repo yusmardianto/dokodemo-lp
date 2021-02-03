@@ -2,6 +2,7 @@
     function active_case() {
         $url_array =  explode('/', $_SERVER['REQUEST_URI']);
         $url_temporary = end($url_array);
+        $url_temporary_split = explode('-', $url_temporary);        
         if (strpos($url_temporary, '.php')) {
             $url_temporary_array = explode('.', $url_temporary);
             $url = current($url_temporary_array);
@@ -9,7 +10,7 @@
             $url = $url_temporary;
         }
         $url_previous = prev($url_array);
-        if ($url_previous == 'case-study' && $url == '' || $url == 'case-1' || $url == 'case-2' || $url == 'case-3') {
+        if ($url_previous == 'case-study' && $url == '' || end($url_temporary_split) > 0) {
             echo 'active';
         }
     } 
