@@ -3,8 +3,16 @@ $(function() {
     // change modal title
     $('[data-target="#meetingSchedule"]').click(function() {
         const modal_title = $(this).data('title');
+        const jp_greeting = $('#meetingSchedule').find('.modal-title__greetings');
+
         $('.modal-title__type').html(modal_title);
         $('#meeting_type').attr('value', modal_title);
+        
+        if (modal_title === 'オンライン') {
+            jp_greeting.html('オンラインでDokodemo-Kerjaのご説明をしデモをお見せいたします。');
+        } else if (modal_title === 'オフライン') {
+            jp_greeting.html('御社へのご訪問、もしくは当社へご来訪いただき、デモをお見せし、導入メリットをご説明いたします。');
+        }
     });
 
     // step input time with button

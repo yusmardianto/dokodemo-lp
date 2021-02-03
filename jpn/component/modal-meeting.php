@@ -13,8 +13,8 @@
         <div class="modal-content border-0">
             <div class="border-bottom-0 pb-0 modal-header">
                 <div class="color--blue pt-3">
-                    <h5 class="fs-24 font-weight-bold modal-title">Schedule <span class="text-capitalize modal-title__type">Online</span> Meeting</h5>
-                    <p>Set up an <span class="modal-title__type">online</span> consultation with our team for a software demo</p>
+                    <h5 class="fs-24 font-weight-bold modal-title"><span class="modal-title__type">オンライン</span>Meetingをリクエスト</h5>
+                    <p class="modal-title__greetings">Set up an <span class="modal-title__type">online</span> consultation with our team for a software demo</p>
                 </div>
                 <button type="button" class="close" data-dismiss="modal" aria-label="Close">
                     <span aria-hidden="true" class="color--blue">&times;</span>
