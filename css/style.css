@@ -127,6 +127,10 @@ html {
     min-height: 40px;
 }
 
+.m-h--55px {
+    min-height: 55px !important;
+}
+
 /* color */
 .color--gray {
     color: #c0c0c0;

@@ -82,7 +82,7 @@
         </div>
         <div class="row mt-3">
             <div class="offset-md-4 col-md-4 text-center">
-                <a href="/ind/case-study/" class="btn-see-more">See More</a>
+                <a href="/ind/case-study/" class="form-control btn bg--yellow fs-18 m-h--55px">See More</a>
             </div>
         </div>
     </div>

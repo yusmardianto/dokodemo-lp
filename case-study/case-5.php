@@ -39,7 +39,7 @@
 
                             <div class="row">
                                 <div class="col-12">
-                                    <img src="/img/case-study/dokodemo-story-5.png" alt="Dokodemo new feature" class="img-fluid w-100 mb-4">
+                                    <img src="/img/case-study/dokodemo-story-5.jpg" alt="Dokodemo new feature" class="img-fluid w-100 mb-4">
                                 </div>
                                 <div class="col-12">
                                     <p>LOGIQUE has recently made an official release of the new Dokodemo-Kerja version 2.1.3. The application comes with various exiting new features, such as the ability to easily manage employee tardiness, attendance history, and leave requests. Through these features, HR staff can thoroughly manage employee attendance effectively, with the data offered by the application also proving a useful asset in assessing the discipline and overall performance of employees.</p>

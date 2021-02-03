@@ -11,9 +11,7 @@
 
     $canonical_link = 'https://dokodemo-kerja.com/case-study/';
 
-    $add_css = '
-    <link rel="stylesheet" href="/css/style-features.css" />
-    <link rel="stylesheet" href="/css/style-case-study.css" />';
+    $add_css = '<link rel="stylesheet" href="/css/style-case-study.css" />';
 
     include($_SERVER['DOCUMENT_ROOT'].'/component/header.php');
 ?>
@@ -86,7 +84,7 @@
                 <div class="col-md-4">
                     <a href="/case-study/case-5" class="case-study__card-wrapper">
                         <div class="case-study__card">
-                            <img class="card__img" src="/img/case-study/dokodemo-story-5.png" alt="New Feature" style="object-position: top;">
+                            <img class="card__img" src="/img/case-study/dokodemo-story-5.jpg" alt="New Feature" style="object-position: top;">
                             <h2 class="card__headline">Dokodemo-Kerja Story 5</h2>
                             <h4 class="card__title">PT LOGIQUE Digital Indonesia</h4>
                             <p class="card__text">

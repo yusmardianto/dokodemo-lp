@@ -326,18 +326,6 @@
                 </div>
                 <div class="pt--20px row">
                     <div class="col-md-4 mb-4 mb-lg-0">
-                        <a href="/case-study/case-2" class="color--blue">
-                            <div class="case-study">
-                                <picture>
-                                    <source srcset="/img/case-study/case-2.webp" type="image/webp">
-                                    <img src="/img/case-study/case-2.jpg" alt="" class="img-fluid mb-3 rounded-lg">
-                                </picture>
-                                <h5 class="fs-20 font-weight-bold">Dokodemo-Kerja Story 2</h5>
-                                <p class="mb-0">System Development, Company B</p>
-                            </div>
-                        </a>
-                    </div>
-                    <div class="col-md-4 mb-4 mb-lg-0">
                         <a href="/case-study/case-3" class="color--blue">
                             <div class="case-study">
                                 <picture>
@@ -357,6 +345,18 @@
                                     <img src="/img/case-study/dokodemo-story-4-ghitta.jpg" alt="" class="img-fluid mb-3 rounded-lg" style="object-position: top;">
                                 </picture>
                                 <h5 class="fs-20 font-weight-bold">Dokodemo-Kerja Story 4</h5>
+                                <p class="mb-0">PT. LOGIQUE Digital Indonesia</p>
+                            </div>
+                        </a>
+                    </div>
+                    <div class="col-md-4 mb-4 mb-lg-0">
+                        <a href="/case-study/case-5" class="color--blue">
+                            <div class="case-study">
+                                <picture>
+                                    <source srcset="/img/case-study/dokodemo-story-5.webp" type="image/webp">
+                                    <img src="/img/case-study/dokodemo-story-5.jpg" alt="" class="img-fluid mb-3 rounded-lg">
+                                </picture>
+                                <h5 class="fs-20 font-weight-bold">Dokodemo-Kerja Story 5</h5>
                                 <p class="mb-0">PT. LOGIQUE Digital Indonesia</p>
                             </div>
                         </a>
