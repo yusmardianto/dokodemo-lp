@@ -5,11 +5,11 @@
             'auth' => true,
             "secure" => 'tls',
             "host" => "smtp.mailtrap.io",
-            "port" => 25,
-            "username" => "60d9b1e1c6dbe6",
-            "password" => "b42f6787a1f5d5",
+            "port" => 2525,
+            "username" => "5cacef86d45cf4",
+            "password" => "416a563d057d48",
             'debug' => 2,
-            //default inquiry email 
+            //default inquiry email
             "inquiry_email" => "sales@dokodemo-kerja.com",
             "trial_email" => "sales@dokodemo-kerja.com",
              // -- set it false to use mailtrap

@@ -94,7 +94,7 @@
             </div>
             <div class="row align-items-center">
                 <div class="col-md-6 mb-4 mb-lg-0">
-                    <ul class="list-unstyled banner__list">
+                    <ul class="list-unstyled banner__list list--circle">
                         <li>勤務時間・タスク内容を記録します。日別・週別・月別の労働時間が集計されるので容易に管理できます。</li>
                         <li>ランダムに作業スクリーンをキャプチャしてサーバーに送信します。（プライバシーに配慮した解像度になっています）</li>
                         <li>外回りの社員に対しては、スマホアプリを使用することで勤務時間と勤務場所（GPSトラッキング)を管理可能です。</li>
@@ -159,6 +159,16 @@
                                     </div>    
                                     </a>
                                 </div>
+                                    <div>
+                                        <a href="/img/features/home_tracking.jpg" data-source="/img/features/home_tracking.jpg" title="Dokodemo GPS features" aria-label="Dokodemo GPS features">
+                                        <div class="image--wrapper">
+                                            <picture>
+                                                <source srcset="/img/features/home_tracking-com.webp" type="image/webp">
+                                                <img src="/img/features/home_tracking-com.jpg" class="border border--blue" alt="Dokodemo GPS features" />
+                                            </picture>
+                                        </div>    
+                                        </a>
+                                    </div>
                                 
                             </div>
                         </div>
@@ -174,6 +184,9 @@
                             </div>
                             <div class="nav__img">
                                 <img src="/img/features/home_04-com.jpg" class="img-fluid rounded-lg" alt="Screenshot of the Dokodemo-Kerja Application" />
+                            </div>
+                            <div class="nav__img">
+                                <img src="/img/features/home_tracking-com.jpg" class="img-fluid rounded-lg" alt="Dokodemo GPS features" />
                             </div>
                         </div>
                     </div>
@@ -425,7 +438,7 @@
             <div class="row">
                 <div class="col-md-6 mb-3 mb-md-0">
                     <div class="bg--l-blue rounded-lg text-center schedule">
-                        <h5 class="font-weight-bold mb-4 fs-20">Schedule Online Meeting</h5>
+                        <h5 class="font-weight-bold mb-4 fs-20">オンラインMeetingをリクエスト</h5>
                         <div class="row justify-content-center">
                             <div class="col-md-8">
                                 <picture>
@@ -434,11 +447,11 @@
                                 </picture>
                             </div>
                             <div class="col-md-8">
-                                <p class="my-4">Set up an online consultation with our team for a software demo</p>
+                                <p class="my-4">オンラインでDokodemo-Kerjaのご説明をしデモをお見せいたします。</p>
                             </div>
                             <div class="col-md-6">
-                                <button type="button" class="form-control btn btn--rounded bg--yellow" data-title="online" data-toggle="modal" data-target="#meetingSchedule">
-                                    Online
+                                <button type="button" id="btn_online_meet_form_jp" class="form-control btn btn--rounded bg--yellow" data-title="オンライン" data-toggle="modal" data-target="#meetingSchedule">
+                                    申し込む
                                 </button>
                             </div>
                         </div>
@@ -446,7 +459,7 @@
                 </div>
                 <div class="col-md-6">
                     <div class="bg--l-blue rounded-lg text-center schedule">
-                        <h5 class="font-weight-bold mb-4 fs-20">Schedule Offline Meeting</h5>
+                        <h5 class="font-weight-bold mb-4 fs-20">オフラインMeetingをリクエスト</h5>
                         <div class="row justify-content-center">
                             <div class="col-md-8">
                                 <picture>
@@ -455,11 +468,11 @@
                                 </picture>
                             </div>
                             <div class="col-md-8">
-                                <p class="my-4">Set up an offline consultation with our team for a software demo</p>
+                                <p class="my-4">御社へのご訪問、もしくは当社へご来訪いただき、デモをお見せし、導入メリットをご説明いたします。</p>
                             </div>
                             <div class="col-md-6">
-                                <button type="button" class="form-control btn btn--rounded bg--yellow" data-title="offline" data-toggle="modal" data-target="#meetingSchedule">
-                                    Offline
+                                <button type="button" id="btn_offline_meet_form_jp" class="form-control btn btn--rounded bg--yellow" data-title="オフライン" data-toggle="modal" data-target="#meetingSchedule">
+                                申し込む
                                 </button>
                             </div>
                         </div>
@@ -472,7 +485,7 @@
 </div>
 
 <?php include($_SERVER['DOCUMENT_ROOT'].'/jpn/component/demo-banner.php'); ?>
-<?php include($_SERVER['DOCUMENT_ROOT'].'/component/modal-meeting.php'); ?>
+<?php include($_SERVER['DOCUMENT_ROOT'].'/jpn/component/modal-meeting.php'); ?>
 <?php 
     $add_js = '
     <script src="/js/homepage-animation.js"></script>
@@ -582,5 +595,16 @@
     }, 4000);
     // end modal popup
 
+</script>
+
+<!-- schedule meeting form -->
+<script type="text/javascript">
+    <?php if (!is_null($success)) { ?>
+        $('#meetingScheduleSent').modal('show');
+    <?php }?>
+    // when close modals redirect to home page and kill session
+    $('#meetingScheduleSent').on('hidden.bs.modal', function () {
+        window.location.href= "/jpn/";
+    })
 </script>
 <?php include($_SERVER['DOCUMENT_ROOT'].'/component/footer-end.php') ?>

@@ -94,7 +94,7 @@
                 </div>
                 <div class="row align-items-center">
                     <div class="col-md-6 mb-4 mb-lg-0">
-                        <ul class="list-unstyled banner__list">
+                        <ul class="list-unstyled banner__list list--circle">
                             <li>Pantau tugas dan jam kerja karyawan.</li>
                             <li>Fitur tangkapan layar di setting dengan random dan disimpan di dalam server. (Resolusi gambar rendah sehingga tidak mengganggu privasi)</li>
                             <li>Pada aplikasi yang diinstal di handphone, mempermudah Anda untuk mengelola waktu dan lokasi kerja karyawan yang sering dinas keluar kantor.</li>
@@ -159,6 +159,16 @@
                                         </div>    
                                         </a>
                                     </div>
+                                    <div>
+                                        <a href="/img/features/home_tracking.jpg" data-source="/img/features/home_tracking.jpg" title="Dokodemo GPS features" aria-label="Dokodemo GPS features">
+                                        <div class="image--wrapper">
+                                            <picture>
+                                                <source srcset="/img/features/home_tracking-com.webp" type="image/webp">
+                                                <img src="/img/features/home_tracking-com.jpg" class="border border--blue" alt="Dokodemo GPS features" />
+                                            </picture>
+                                        </div>    
+                                        </a>
+                                    </div>
                                     
                                 </div>
                             </div>
@@ -174,6 +184,9 @@
                                 </div>
                                 <div class="nav__img">
                                     <img src="/img/features/home_04-com.jpg" class="img-fluid rounded-lg" alt="Screenshot of the Dokodemo-Kerja Application" />
+                                </div>
+                                <div class="nav__img">
+                                    <img src="/img/features/home_tracking-com.jpg" class="img-fluid rounded-lg" alt="Dokodemo GPS features" />
                                 </div>
                             </div>
                         </div>
@@ -432,7 +445,7 @@
                                     <p class="my-4">Jadwalkan konsultasi online dengan tim kami untuk demo software</p>
                                 </div>
                                 <div class="col-md-6">
-                                    <button type="button" class="form-control btn btn--rounded bg--yellow" data-title="online" data-toggle="modal" data-target="#meetingSchedule">
+                                    <button type="button" id="btn_online_meet_form_id" class="form-control btn btn--rounded bg--yellow" data-title="online" data-toggle="modal" data-target="#meetingSchedule">
                                         Online
                                     </button>
                                 </div>
@@ -453,7 +466,7 @@
                                     <p class="my-4">Jadwalkan konsultasi offline dengan tim kami untuk demo software</p>
                                 </div>
                                 <div class="col-md-6">
-                                    <button type="button" class="form-control btn btn--rounded bg--yellow" data-title="offline" data-toggle="modal" data-target="#meetingSchedule">
+                                    <button type="button" id="btn_offline_meet_form_id" class="form-control btn btn--rounded bg--yellow" data-title="offline" data-toggle="modal" data-target="#meetingSchedule">
                                         Offline
                                     </button>
                                 </div>
@@ -651,5 +664,16 @@
     }, 4000);
     // end modal popup
 
+</script>
+
+<!-- schedule meeting form -->
+<script type="text/javascript">
+    <?php if (!is_null($success)) { ?>
+        $('#meetingScheduleSent').modal('show');
+    <?php }?>
+    // when close modals redirect to home page and kill session
+    $('#meetingScheduleSent').on('hidden.bs.modal', function () {
+        window.location.href= "/ind/";
+    })
 </script>
 <?php include($_SERVER['DOCUMENT_ROOT'].'/component/footer-end.php') ?>
