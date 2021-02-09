@@ -31,6 +31,10 @@
                                 <label for="" class="fs-12 d-block mb-1">Nama Anda</label>
                                 <div class="position-relative input--icon">
                                     <picture>
+                                        <source srcset="/img/icon/icon-profile-gray.svg">
+                                        <img src="/img/icon/icon-profile-gray.png" alt="" class="img-fluid" height="20">
+                                    </picture>
+                                    <picture>
                                         <source srcset="/img/icon/icon-profile.svg">
                                         <img src="/img/icon/icon-profile.png" alt="" class="img-fluid" height="20">
                                     </picture>
@@ -43,10 +47,65 @@
                                 <label for="" class="fs-12 d-block mb-1">Nama Perusahaan</label>
                                 <div class="position-relative input--icon">
                                     <picture>
+                                        <source srcset="/img/icon/icon-company-gray.svg">
+                                        <img src="/img/icon/icon-company-gray.png" alt="" class="img-fluid" height="20">
+                                    </picture>
+                                    <picture>
                                         <source srcset="/img/icon/icon-company.svg">
                                         <img src="/img/icon/icon-company.png" alt="" class="img-fluid" height="20">
                                     </picture>
                                     <input type="text" name="company" class="form-control m-h--40px border--blue color--blue" required>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="form-row">
+                        <div class="col-md-4 mb-3">
+                            <div class="modal-body__input">
+                                <label for="" class="fs-12 d-block mb-1">Alamat Email</label>
+                                <div class="position-relative input--icon">
+                                    <picture>
+                                        <source srcset="/img/icon/icon-email-gray.svg">
+                                        <img src="/img/icon/icon-email-gray.png" alt="" class="img-fluid" height="20">
+                                    </picture>
+                                    <picture>
+                                        <source srcset="/img/icon/icon-email-blue.svg">
+                                        <img src="/img/icon/icon-email-blue.png" alt="" class="img-fluid" height="20">
+                                    </picture>
+                                    <input type="email" name="email" class="form-control m-h--40px border--blue color--blue" required>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-md-4 mb-3">
+                            <div class="modal-body__input">
+                                <label for="" class="fs-12 d-block mb-1">Nomor Telepon</label>
+                                <div class="position-relative input--icon">
+                                    <picture>
+                                        <source srcset="/img/icon/icon-telephone-gray.svg">
+                                        <img src="/img/icon/icon-telephone-gray.png" alt="" class="img-fluid" height="20">
+                                    </picture>
+                                    <picture>
+                                        <source srcset="/img/icon/icon-telephone.svg">
+                                        <img src="/img/icon/icon-telephone.png" alt="" class="img-fluid" height="20">
+                                    </picture>
+                                    <input type="tel" name="phone" class="form-control m-h--40px border--blue color--blue" onkeypress="return isNumberKey(event)" required>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-md-4 mb-3">
+                            <div class="modal-body__input">
+                                <label for="" class="fs-12 d-block mb-1">Departemen Anda</label>
+                                <div class="position-relative input--icon">
+                                    <picture>
+                                        <source srcset="/img/icon/icon-department-gray.svg">
+                                        <img src="/img/icon/icon-department-gray.png" alt="" class="img-fluid" height="20">
+                                    </picture>
+                                    <picture>
+                                        <source srcset="/img/icon/icon-department.svg">
+                                        <img src="/img/icon/icon-department.png" alt="" class="img-fluid" height="20">
+                                    </picture>
+                                    <input type="text" name="department" class="form-control m-h--40px border--blue color--blue" required>
                                 </div>
                             </div>
                         </div>
@@ -75,7 +134,7 @@
                                         </button>
                                     </div>
                                 </div>
-                                <div class="col-auto px-0 align-self-center">-</div>
+                                <div class="col-auto px-0 align-self-center"><span>-</span></div>
                                 <div class="col">
                                     <div class="input--time-step position-relative">
                                         <input type="time" name="end_time" id="time_preffered_end" class="form-control m-h--40px border--blue color--blue" min="09:00" max="17:00" step="1800" value="09:00" required>                                

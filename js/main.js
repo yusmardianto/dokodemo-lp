@@ -1,4 +1,17 @@
+// input only allow number
+function isNumberKey(e){
+    var charCode = (e.which) ? e.which : event.keyCode
+    if (charCode > 31 && (charCode < 48 || charCode > 57) && charCode !== 43)
+        return false;
+    return true;
+}
+
 $(function() {
+
+    // reset modal
+    $(".modal.modal--meeting .close").click(function() {
+        $(this).parents(".modal-header").siblings("form").trigger("reset");
+    })
 
     // change modal title
     $('[data-target="#meetingSchedule"]').click(function() {
