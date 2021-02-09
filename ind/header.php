@@ -53,7 +53,7 @@
         <div class="collapse navbar-collapse" id="navbarNav">
             <ul class="mb-3 mb-lg-0 navbar-nav text-center">
                 <li class="nav-item <?php active('') ?>">
-                    <a class="nav-link" href="/ind/">Home</a>
+                    <a class="nav-link" href="/ind/">Beranda</a>
                 </li>
                 <!-- <li class="nav-item <//?php active('about') ?>">
                     <a class="nav-link" href="/ind/about">About</a>
