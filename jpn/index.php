@@ -599,9 +599,14 @@
 
 <!-- schedule meeting form -->
 <script type="text/javascript">
+    // Handle Success and Error 
     <?php if (!is_null($success)) { ?>
         $('#meetingScheduleSent').modal('show');
+    <?php } else if ($errors) {?>
+        // code handle here
+        window.location.href= "/jpn/";
     <?php }?>
+
     // when close modals redirect to home page and kill session
     $('#meetingScheduleSent').on('hidden.bs.modal', function () {
         window.location.href= "/jpn/";
