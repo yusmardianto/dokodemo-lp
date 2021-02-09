@@ -15,6 +15,7 @@
             $required_fields['email']       = 'You are required to enter email.';
             $required_fields['phone']       = 'You are required to enter phone number.';
             $required_fields['department']  = 'You are required to enter department.';
+            $required_fields['message']     = 'You are required to enter message.';
 
             // Check for a valid phone number
             if (isset($_POST['phone'])) {
