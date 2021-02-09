@@ -6,13 +6,41 @@
     $subject = null;
     $errors = array();
     $success = null;
-
     if ($_POST) {
-        /* handle error fields
-            $required_fields['name'] = 'You are required to enter your Name.';
-            $required_fields['company'] = 'You are required to enter your Company Name.';
-            $required_fields['start_time'] = 'You are required to enter start time meeting.';
-            $required_fields['end_time'] = 'You are required to enter end time meeting.';
+        /* handle error fields */
+            $required_fields['name']        = 'You are required to enter your name.';
+            $required_fields['company']     = 'You are required to enter your company name.';
+            $required_fields['start_time']  = 'You are required to enter start time meeting.';
+            $required_fields['end_time']    = 'You are required to enter end time meeting.';
+            $required_fields['email']       = 'You are required to enter email.';
+            $required_fields['phone']       = 'You are required to enter phone number.';
+            $required_fields['department']  = 'You are required to enter department.';
+
+            // Check for a valid phone number
+            if (isset($_POST['phone'])) {
+              $phone_number = $_POST['phone'];
+              $pattern = "/^[0-9\_]{7,20}/";
+              if (!preg_match($pattern,$phone_number)) { 
+                $errors[] = 'Phone number formatted incorrectly';
+              }
+            }
+
+            // Check for a valid email
+            if (isset($_POST['email'])) {
+              $pattern_email = '/^[_a-zA-Z0-9-+]+(\.[_a-zA-Z0-9-+]+)*@[a-zA-Z0-9-]+(\.[a-zA-Z0-9-]+)*(\.[a-zA-Z]{2,3})$/';
+              $email = $_POST['email'];
+              if (!preg_match($pattern_email,$email)) { 
+                $errors[] = 'Email formatted incorrectly';
+              }
+            }
+
+            foreach($_POST as $key => $value) {
+                if( array_key_exists($key, $required_fields)) {
+                    if (trim($_POST[$key]) === '') {
+                      $errors[$key] = $required_fields[$key];
+                    }
+                }
+            }
 
             foreach($_POST as $key => $value) {
                 if(array_key_exists($key, $required_fields)) {
@@ -21,7 +49,7 @@
                     }
                 }
             }
-        */
+        
 
         if (empty($errors)) {
             $name_field = filter_var($_POST['name'], FILTER_SANITIZE_STRING);
@@ -30,6 +58,9 @@
             $meeting_type   =  htmlspecialchars(strtoupper($_POST['meeting_type']));
             $start_time     = date("H:i", strtotime($_POST['start_time']));
             $end_time       = date("H:i", strtotime($_POST['end_time']));
+            $email          = $_POST['email'];
+            $phone_number   = $_POST['phone'];
+            $department     = htmlspecialchars($_POST['department']);
 
             $body = '<!doctype html>
             <html>
@@ -374,6 +405,9 @@
 
                                     <p>Name : '.$name_field.'</p>
                                     <p>Company : '.$company_field.'</p>
+                                    <p>Email : '.$email.'</p>
+                                    <p>Phone Number : '.$phone_number.'</p>
+                                    <p>Department : '.$department.'</p>
                                     <p>Time Preferred : '.$start_time.' - '.$end_time.'</p>
                                     <hr>
                                     <h1>'.$meeting_type. ' MEETING</h1>
@@ -442,7 +476,9 @@
             } catch (Exception $e) {
                 $errors[] =  "Message could not be sent. Mailer Error: {$mail->ErrorInfo}";
             }
-        } 
+        } else {
+          
+        }
     }
 
 ?>
