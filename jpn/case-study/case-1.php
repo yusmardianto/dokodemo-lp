@@ -18,9 +18,9 @@
 
 <div class="">
     <section>
-        <div class="container pl-lg-0">
+        <div class="container">
             <nav aria-label="breadcrumb">
-                <ol class="breadcrumb">
+                <ol class="breadcrumb breadcrumb--main">
                     <li class="breadcrumb-item"><a href="/jpn/">Dokodemo-Kerja Home</a></li>
                     <li class="breadcrumb-item"><a href="/jpn/case-study/">事例</a></li>
                     <li class="breadcrumb-item active" aria-current="page">Case 1</li>

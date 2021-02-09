@@ -18,15 +18,16 @@
 
 <div class="">
 
-    <!-- <section class="banner">
+    <section>
         <div class="container">
-            <div class="row">
-                <div class="col-lg-12">
-                    <img src="/img/pricing/bg.jpg" class="img-fluid" />
-                </div>
-            </div>
+            <nav aria-label="breadcrumb">
+                <ol class="breadcrumb breadcrumb--main">
+                    <li class="breadcrumb-item"><a href="/ind/">Beranda</a></li>
+                    <li class="breadcrumb-item active" aria-current="page">Harga</li>
+                </ol>
+            </nav>
         </div>
-    </section> -->
+    </section>
 
     <section class="price-plans">
         <div class="container mb-3">

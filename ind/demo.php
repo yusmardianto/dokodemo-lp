@@ -32,6 +32,17 @@ require '../action/c-trial.php';
 
 <div class="">
 
+	<section>
+		<div class="container">
+			<nav aria-label="breadcrumb">
+				<ol class="breadcrumb breadcrumb--main">
+					<li class="breadcrumb-item"><a href="/ind/">Beranda</a></li>
+					<li class="breadcrumb-item active" aria-current="page">Demo</li>
+				</ol>
+			</nav>
+		</div>
+	</section>
+
 	<section class="intro-section text-center px-4">
 		<h1 class="banner-text-white">Coba Demo Gratis Dulu</h1>
 		<img src="/img/home/arrow-down.svg" class="pt-4 pb-3" width="20" alt=""/>

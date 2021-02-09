@@ -20,6 +20,17 @@
 
 <div class="color--blue features">
 
+    <section>
+        <div class="container">
+            <nav aria-label="breadcrumb">
+                <ol class="breadcrumb breadcrumb--main">
+                    <li class="breadcrumb-item"><a href="/">Home</a></li>
+                    <li class="breadcrumb-item active" aria-current="page">Features</li>
+                </ol>
+            </nav>
+        </div>
+    </section>
+
     <section class="mt--30px mb--40px features__title">
         <div class="container">
             <div class="text-center title--bg title--bg-border title--bg-border-right" data-title-bg="FEATURES">                            
