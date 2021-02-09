@@ -20,7 +20,7 @@
     <section>
         <div class="container">
             <nav aria-label="breadcrumb">
-                <ol class="breadcrumb">
+                <ol class="breadcrumb breadcrumb--main">
                     <li class="breadcrumb-item"><a href="/">Dokodemo-Kerja Home</a></li>
                     <li class="breadcrumb-item active" aria-current="page">事例</li>
                 </ol>

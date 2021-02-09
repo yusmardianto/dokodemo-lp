@@ -15,8 +15,8 @@
             </div>
             <div class="col-md-6 col-lg-8 text-center align-self-center fs-12">
                 <ul class="mb-2 list-inline footer__list">
-                    <li class="list-inline-item"><a href="/ind">Home</a></li>
-                    <li class="list-inline-item"><a href="/ind/about">About Us</a></li>
+                    <li class="list-inline-item"><a href="/ind">Beranda</a></li>
+                    <li class="list-inline-item"><a href="/ind/about">Tentang Kami</a></li>
                     <li class="list-inline-item"><a href="/ind/features">Work From Home</a></li>
                     <li class="list-inline-item"><a href="/ind/case-study/">Studi Kasus</a></li>
                     <li class="list-inline-item"><a href="/ind/price">Harga</a></li>

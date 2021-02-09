@@ -18,10 +18,10 @@
 
 <div class="">
     <section>
-        <div class="container pl-lg-0">
+        <div class="container">
             <nav aria-label="breadcrumb">
-                <ol class="breadcrumb">
-                    <li class="breadcrumb-item"><a href="/ind/">Dokodemo-Kerja Home</a></li>
+                <ol class="breadcrumb breadcrumb--main">
+                    <li class="breadcrumb-item"><a href="/ind/">Beranda</a></li>
                     <li class="breadcrumb-item"><a href="/ind/case-study/">Studi Kasus</a></li>
                     <li class="breadcrumb-item active" aria-current="page">Kasus 1</li>
                 </ol>

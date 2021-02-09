@@ -871,6 +871,25 @@ input[type="time"]::-webkit-calendar-picker-indicator {
     padding: 10px;
 }
 
+/* override breadcrumb */
+.breadcrumb.breadcrumb--main {
+    background: none;
+    padding-left: 0;
+}
+.breadcrumb-item + .breadcrumb-item::before,
+.breadcrumb.breadcrumb--main > .breadcrumb-item > a {
+    color: #3b81bf;
+}
+.breadcrumb.breadcrumb--main > .breadcrumb-item > a:hover {
+    color: #ffca13;
+}
+.breadcrumb.breadcrumb--main > .breadcrumb-item.active {
+    color: #ffca13;
+}
+.breadcrumb-item + .breadcrumb-item::before {
+    content: "\003E";
+}
+
 /* modal */
 .modal.modal--meeting .meeting__accent {
     width: 85px;
@@ -882,44 +901,36 @@ input[type="time"]::-webkit-calendar-picker-indicator {
 }
 
 .modal-body .modal-body__input p,
+.modal-body .modal-body__input span,
 .modal-body .modal-body__input label,
 .modal-body .modal-body__input .input--icon img {
     transition: all 0.15s ease-in-out;
 }
 
-.modal-body__input input.border--blue,
-.modal-body__input textarea.border--blue {
+.modal-body__input:not(:focus-within) input.border--blue,
+.modal-body__input:not(:focus-within) textarea.border--blue {
+    /* border-color: #194f86 !important; */
     border-color: #c0c0c0 !important;
 }
 
-.modal-body__input:focus-within input.border--blue,
-.modal-body__input:focus-within textarea.border--blue {
-    border-color: #194f86 !important;
+.modal-body .modal-body__input .input--icon picture:first-child img {
+    opacity: 1;
 }
 
-.modal-body .modal-body__input .input--time-step .btn.bg--blue {
-    background-color: #c0c0c0;
+.modal-body .modal-body__input .input--icon picture:last-of-type img {
+    opacity: 0;
 }
 
-.modal-body .modal-body__input label,
-.modal-body .modal-body__input input.color--blue,
-.modal-body .modal-body__input textarea.color--blue {
+.modal-body .modal-body__input:not(:focus-within) p,
+.modal-body .modal-body__input:not(:focus-within) span,
+.modal-body .modal-body__input:not(:focus-within) label,
+.modal-body .modal-body__input:not(:focus-within) input.color--blue,
+.modal-body .modal-body__input:not(:focus-within) textarea.color--blue {
     color: #c0c0c0;
 }
 
-.modal-body .modal-body__input .input--icon img {
-    filter: grayscale(1) contrast(1) brightness(1.5);
-}
-
-.modal-body .modal-body__input:focus-within p,
-.modal-body .modal-body__input:focus-within label,
-.modal-body .modal-body__input:focus-within input.color--blue,
-.modal-body .modal-body__input:focus-within textarea.color--blue {
-    color: #194f86;
-}
-
-.modal-body .modal-body__input:focus-within .input--time-step .btn.bg--blue {
-    background-color: #194f86;
+.modal-body .modal-body__input:not(:focus-within) .input--time-step .btn.bg--blue {
+    background-color: #c0c0c0;
 }
 
 .modal-body .modal-body__input:focus-within .input--time-step .btn.bg--blue:hover {
@@ -930,12 +941,16 @@ input[type="time"]::-webkit-calendar-picker-indicator {
     box-shadow: none;
 }
 
-.modal-body .modal-body__input:focus-within .input--time-step .btn.bg--blue  img {
+.modal-body .modal-body__input:focus-within .input--time-step .btn.bg--blue img {
     filter: contrast(1) brightness(2);
 }
 
-.modal-body .modal-body__input:focus-within .input--icon img {
-    filter: none;
+.modal-body .modal-body__input:focus-within .input--icon picture:first-child img {
+    opacity: 0;
+}
+
+.modal-body .modal-body__input:focus-within .input--icon picture:last-of-type img {
+    opacity: 1;
 }
 
 /* loader */

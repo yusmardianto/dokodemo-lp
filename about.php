@@ -1,13 +1,13 @@
 <?php 
     $page = 'about';
-    $page_title = 'About Dokodemo-Kerja | Cloud System for HR';
+    $page_title = 'Employee Attendance Management System | Dokodemo-Kerja';
 
-    $meta_description = 'LOGIQUE Digital Indonesia provides digital solutions for human resources through remote working software, Dokodemo-Kerja, designed for reducing costs.';
+    $meta_description = 'LOGIQUE Digital Indonesia provides digital solutions cloud system for human resources through remote working software, Dokodemo-Kerja, designed for reducing costs.';
     $meta_keyword = 'LOGIQUE Digital Indonesia, Dokodemo-Kerja, digital solutions, human resources, remote working software, remote working, remote work, reducing costs, reduce costs, Nicholas Bloom, Working from home';
 
-    $og_title = 'About Dokodemo-Kerja | Remote Work Tracking Tool for HR';
+    $og_title = 'Employee Attendance Management System | Dokodemo-Kerja';
     $og_image = 'https://dokodemo-kerja.com/img/og-img/about.jpg';
-    $og_desription = 'Dokodemo-Kerja is a Human Resource tool developed by PT. LOGIQUE Digital Indonesia, a company providing Digital Solutions, based in Jakarta, Indonesia. Dokodemo-Kerja was designed to promote healthier and more productive work cultures in a way that benefits both the Company and Employees alike.';
+    $og_desription = 'LOGIQUE Digital Indonesia provides digital solutions cloud system for human resources through remote working software, Dokodemo-Kerja, designed for reducing costs.';
 
     $canonical_link = 'https://dokodemo-kerja.com/about';
 
@@ -17,6 +17,18 @@
 ?>
 
 <div class="">
+
+    <section>
+        <div class="container">
+            <nav aria-label="breadcrumb">
+                <ol class="breadcrumb breadcrumb--main">
+                    <li class="breadcrumb-item"><a href="/">Home</a></li>
+                    <li class="breadcrumb-item active" aria-current="page">About</li>
+                </ol>
+            </nav>
+        </div>
+    </section>
+
     <section class="top-content">
         <img src="/img/about/bg.jpg" class="img-bg" alt="Logique's Office in AD Premier" />
         <div class="container">
@@ -24,8 +36,8 @@
                 <div class="col-lg-6 about-us-left">
                     <h1>ABOUT DOKODEMO-KERJA</h1>
 
-                    <p class="about-us-desc">
-                        <a href="/">Dokodemo-Kerja</a> is a Human Resource tool developed by <a target="_blank" href="https://www.logique.co.id">PT. LOGIQUE Digital Indonesia</a>, a company providing Digital Solutions, based in Jakarta, Indonesia. <a href="/">Dokodemo-Kerja</a> was designed to promote healthier and more productive work cultures in a way that benefits both the Company and Employees alike.
+                    <p class="about-us-desc">                        
+                        <a href="/">Dokodemo-Kerja</a> is a human resource tool & an employee attendance management system developed by <a target="_blank" href="https://www.logique.co.id">PT. LOGIQUE Digital Indonesia</a>, a Jakarta based company that offers digital solutions that promote healthier and productive work cultures, benefiting both the Company and Employees alike.
                         <br><br>
                         <a href="/">Dokodemo-Kerja</a> takes its name from both the Japanese and Indonesian languages, with “Dokodemo” meaning “Anywhere” and “Kerja” meaning “to work”, which then translates to “Work Anywhere.” This is reflected on its main function, as it allows for employees to work in an environment most suited to them, instead of being confined to a single location, while efficiently monitoring their daily working routines.
                     </p>
@@ -262,5 +274,5 @@
     </section>
 </div>
 
-<?php include($_SERVER['DOCUMENT_ROOT'].'/jpn/component/footer.php'); ?>
+<?php include($_SERVER['DOCUMENT_ROOT'].'/component/footer.php'); ?>
 <?php include($_SERVER['DOCUMENT_ROOT'].'/component/footer-end.php') ?>

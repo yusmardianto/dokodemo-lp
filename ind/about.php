@@ -17,6 +17,18 @@
 ?>
 
 <div class="">
+
+    <section>
+        <div class="container">
+            <nav aria-label="breadcrumb">
+                <ol class="breadcrumb breadcrumb--main">
+                    <li class="breadcrumb-item"><a href="/ind/">Beranda</a></li>
+                    <li class="breadcrumb-item active" aria-current="page">Tentang Kami</li>
+                </ol>
+            </nav>
+        </div>
+    </section>
+
     <section class="top-content">
         <img src="/img/about/bg.jpg" class="img-bg" alt="Logique's Office in AD Premier" />
         <div class="container">
