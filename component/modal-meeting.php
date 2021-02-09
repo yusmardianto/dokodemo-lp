@@ -32,11 +32,11 @@
                                 <div class="position-relative input--icon">
                                     <picture>
                                         <source srcset="/img/icon/icon-profile-gray.svg">
-                                        <img src="/img/icon/icon-profile-gray.png" alt="" class="img-fluid" height="20">
+                                        <img src="/img/icon/icon-profile-gray.png" alt="" class="img-fluid" height="20" loading="lazy">
                                     </picture>
                                     <picture>
                                         <source srcset="/img/icon/icon-profile.svg">
-                                        <img src="/img/icon/icon-profile.png" alt="" class="img-fluid" height="20">
+                                        <img src="/img/icon/icon-profile.png" alt="" class="img-fluid" height="20" loading="lazy">
                                     </picture>
                                     <input type="text" name="name" class="form-control m-h--40px border--blue color--blue" required>
                                 </div>
@@ -48,11 +48,11 @@
                                 <div class="position-relative input--icon">
                                     <picture>
                                         <source srcset="/img/icon/icon-company-gray.svg">
-                                        <img src="/img/icon/icon-company-gray.png" alt="" class="img-fluid" height="20">
+                                        <img src="/img/icon/icon-company-gray.png" alt="" class="img-fluid" height="20" loading="lazy">
                                     </picture>
                                     <picture>
                                         <source srcset="/img/icon/icon-company.svg">
-                                        <img src="/img/icon/icon-company.png" alt="" class="img-fluid" height="20">
+                                        <img src="/img/icon/icon-company.png" alt="" class="img-fluid" height="20" loading="lazy">
                                     </picture>
                                     <input type="text" name="company" class="form-control m-h--40px border--blue color--blue" required>
                                 </div>
@@ -67,11 +67,11 @@
                                 <div class="position-relative input--icon">
                                     <picture>
                                         <source srcset="/img/icon/icon-email-gray.svg">
-                                        <img src="/img/icon/icon-email-gray.png" alt="" class="img-fluid" height="20">
+                                        <img src="/img/icon/icon-email-gray.png" alt="" class="img-fluid" height="20" loading="lazy">
                                     </picture>
                                     <picture>
                                         <source srcset="/img/icon/icon-email-blue.svg">
-                                        <img src="/img/icon/icon-email-blue.png" alt="" class="img-fluid" height="20">
+                                        <img src="/img/icon/icon-email-blue.png" alt="" class="img-fluid" height="20" loading="lazy">
                                     </picture>
                                     <input type="email" name="email" class="form-control m-h--40px border--blue color--blue" required>
                                 </div>
@@ -83,11 +83,11 @@
                                 <div class="position-relative input--icon">
                                     <picture>
                                         <source srcset="/img/icon/icon-telephone-gray.svg">
-                                        <img src="/img/icon/icon-telephone-gray.png" alt="" class="img-fluid" height="20">
+                                        <img src="/img/icon/icon-telephone-gray.png" alt="" class="img-fluid" height="20" loading="lazy">
                                     </picture>
                                     <picture>
                                         <source srcset="/img/icon/icon-telephone.svg">
-                                        <img src="/img/icon/icon-telephone.png" alt="" class="img-fluid" height="20">
+                                        <img src="/img/icon/icon-telephone.png" alt="" class="img-fluid" height="20" loading="lazy">
                                     </picture>
                                     <input type="tel" name="phone" class="form-control m-h--40px border--blue color--blue" onkeypress="return isNumberKey(event)" required>
                                 </div>
@@ -99,11 +99,11 @@
                                 <div class="position-relative input--icon">
                                     <picture>
                                         <source srcset="/img/icon/icon-department-gray.svg">
-                                        <img src="/img/icon/icon-department-gray.png" alt="" class="img-fluid" height="20">
+                                        <img src="/img/icon/icon-department-gray.png" alt="" class="img-fluid" height="20" loading="lazy">
                                     </picture>
                                     <picture>
                                         <source srcset="/img/icon/icon-department.svg">
-                                        <img src="/img/icon/icon-department.png" alt="" class="img-fluid" height="20">
+                                        <img src="/img/icon/icon-department.png" alt="" class="img-fluid" height="20" loading="lazy">
                                     </picture>
                                     <input type="text" name="department" class="form-control m-h--40px border--blue color--blue" required>
                                 </div>
@@ -126,13 +126,13 @@
                                         <button type="button" class="btn bg--blue time-step time-step--up" data-button-type="up">
                                             <picture>
                                                 <source srcset="/img/icon/icon-chevron-up.svg">
-                                                <img src="/img/icon/icon-chevron-up.png" alt="" class="img-fluid">
+                                                <img src="/img/icon/icon-chevron-up.png" alt="" class="img-fluid" loading="lazy">
                                             </picture>
                                         </button>
                                         <button type="button" class="btn bg--blue time-step time-step--down" data-button-type="down">
                                             <picture>
                                                 <source srcset="/img/icon/icon-chevron-down.svg">
-                                                <img src="/img/icon/icon-chevron-down.png" alt="" class="img-fluid">
+                                                <img src="/img/icon/icon-chevron-down.png" alt="" class="img-fluid" loading="lazy">
                                             </picture>
                                         </button>
                                     </div>
@@ -144,13 +144,13 @@
                                         <button type="button" class="btn bg--blue time-step time-step--up" data-button-type="up">
                                             <picture>
                                                 <source srcset="/img/icon/icon-chevron-up.svg">
-                                                <img src="/img/icon/icon-chevron-up.png" alt="" class="img-fluid">
+                                                <img src="/img/icon/icon-chevron-up.png" alt="" class="img-fluid" loading="lazy">
                                             </picture>
                                         </button>
                                         <button type="button" class="btn bg--blue time-step time-step--down" data-button-type="down">
                                             <picture>
                                                 <source srcset="/img/icon/icon-chevron-down.svg">
-                                                <img src="/img/icon/icon-chevron-down.png" alt="" class="img-fluid">
+                                                <img src="/img/icon/icon-chevron-down.png" alt="" class="img-fluid" loading="lazy">
                                             </picture>
                                         </button>
                                     </div>
@@ -177,8 +177,8 @@
                         </div>
                     </div>
 
-                    <img src="/img/icon/icon-meeting-accent.png" alt="" class="img-fluid position-absolute meeting__accent">
-                    <img src="/img/icon/icon-meeting-accent.png" alt="" class="img-fluid position-absolute meeting__accent">
+                    <img src="/img/icon/icon-meeting-accent.png" alt="" class="img-fluid position-absolute meeting__accent" loading="lazy">
+                    <img src="/img/icon/icon-meeting-accent.png" alt="" class="img-fluid position-absolute meeting__accent" loading="lazy">
 
                 </div>
             </form>
@@ -207,7 +207,7 @@
                 <div class="mb--40px">
                     <picture>
                         <source srcset="/img/icon/icon-meeting.svg">
-                        <img src="/img/icon/icon-meeting.png" alt="" class="img-fluid d-block mx-auto">
+                        <img src="/img/icon/icon-meeting.png" alt="" class="img-fluid d-block mx-auto" loading="lazy">
                     </picture>
                 </div>
 
@@ -217,8 +217,8 @@
                     </div>
                 </div>
 
-                <img src="/img/icon/icon-meeting-accent.png" alt="" class="img-fluid position-absolute meeting__accent">
-                <img src="/img/icon/icon-meeting-accent.png" alt="" class="img-fluid position-absolute meeting__accent">
+                <img src="/img/icon/icon-meeting-accent.png" alt="" class="img-fluid position-absolute meeting__accent" loading="lazy">
+                <img src="/img/icon/icon-meeting-accent.png" alt="" class="img-fluid position-absolute meeting__accent" loading="lazy">
 
             </div>
             <div class="modal-footer bg--blue pt-1 pb-1 justify-content-center text-white"></div>
