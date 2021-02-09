@@ -1,13 +1,13 @@
 <?php 
     $page = 'features';
-    $page_title = 'Remote Work Management Tool | Dokodemo-Kerja | LOGIQUE Indonesia.';
+    $page_title = 'Remote Work Monitoring Software | Dokodemo-Kerja.';
 
-    $meta_description = 'Dokodemo-Kerja is a remote working software and attendance management tool created for better HR management, developed by LOGIQUE.';
+    $meta_description = 'Dokodemo-Kerja is a remote work monitoring software and attendance management tool created for better HR management, developed by LOGIQUE.';
     $meta_keyword = 'dokodemo, dokodemo features, work monitor, monitor tasks, screenshot employee desktop, screen monitoring, management tool, tool for managers, employee management software, GPS tracking, calculate working hours';
 
-    $og_title = 'Remote Work Management Tool | Dokodemo-Kerja';
+    $og_title = 'Remote Work Monitoring Software | Dokodemo-Kerja';
     $og_image = 'https://dokodemo-kerja.com/img/og-img/features.jpg';
-    $og_desription = 'Introducing Dokodemo-Kerja, a remote work system making it possible for employees to better grasp their work hours wherever they work from.';
+    $og_desription = 'Dokodemo-Kerja is a remote work monitoring software and attendance management tool created for better HR management, developed by LOGIQUE.';
 
     $canonical_link = 'https://dokodemo-kerja.com/features';
 
@@ -27,7 +27,7 @@
             </div>
             <div class="row justify-content-center">
                 <div class="col-lg-10">
-                    <p class="fs-14">Dokodemo-Kerja is an attendance & work content management system with work-time tracking features (based on a screenshot taking function). Not only are these features effective in improving the efficiency of HR work overall, such as in regards to attendance management, the calculation of overtime pay, and calculating paid holidays, but it also enables the introduction of more flexible work styles, such as remote work and reduced working hours. As a result, this leads to increased employee productivity.</p>
+                    <p class="fs-14">Dokodemo-Kerja is an attendance & work content management system with work-time monitoring and tracking features (based on a screenshot taking function). Not only are these features effective in improving the efficiency of HR work overall, such as in regards to attendance management, the calculation of overtime pay, and calculating paid holidays, but it also enables the introduction of more flexible work styles, such as remote work and reduced working hours. As a result, this leads to increased employee productivity.</p>
                 </div>
             </div>            
         </div>
@@ -46,7 +46,7 @@
                         <a href="/img/features/features-1-full.jpg" data-source="/img/features/features-1-full.jpg" title="Take and manage screenshots while engaged in work" aria-label="Take and manage screenshots while engaged in work" class="point__images">
                             <picture>
                                 <source srcset="/img/features/features-1.webp" type="image/webp">
-                                <img src="/img/features/features-1.png" alt="" class="img-fluid d-block mx-auto">
+                                <img src="/img/features/features-1.png" alt="Remote Work Monitoring Software" class="img-fluid d-block mx-auto">
                             </picture>
                         </a>
                     </div>
@@ -59,7 +59,7 @@
                         <a href="/img/features/features-2-full.jpg" data-source="/img/features/features-2-full.jpg" title="Accurately records work time by task" aria-label="Accurately records work time by task" class="point__images">
                             <picture>
                                 <source srcset="/img/features/features-2.webp" type="image/webp">
-                                <img src="/img/features/features-2.png" alt="" class="img-fluid d-block mx-auto">
+                                <img src="/img/features/features-2.png" alt="Remote Work Monitoring Software" class="img-fluid d-block mx-auto">
                             </picture>
                         </a>
                     </div>
@@ -80,7 +80,7 @@
                         <a href="/img/features/features-3-full.jpg" data-source="/img/features/features-3-full.jpg" title="Easy to Analyze" aria-label="Easy to Analyze" class="point__images">
                             <picture>
                                 <source srcset="/img/features/features-3.webp" type="image/webp">
-                                <img src="/img/features/features-3.png" alt="" class="img-fluid d-block mx-auto">
+                                <img src="/img/features/features-3.png" alt="Remote Work Monitoring Software" class="img-fluid d-block mx-auto">
                             </picture>
                         </a>
                     </div>
@@ -93,7 +93,7 @@
                         <a href="/img/features/features-4-full.jpg" data-source="/img/features/features-4-full.jpg" title="Manage Non-Desk Work" aria-label="Manage Non-Desk Work" class="point__images">
                             <picture>
                                 <source srcset="/img/features/features-4.webp" type="image/webp">
-                                <img src="/img/features/features-4.png" alt="" class="img-fluid d-block mx-auto">
+                                <img src="/img/features/features-4.png" alt="Remote Work Monitoring Software" class="img-fluid d-block mx-auto">
                             </picture>
                         </a>
                     </div>
@@ -116,7 +116,7 @@
                         <a href="/img/features/features-5-full.jpg" data-source="/img/features/features-5-full.jpg" title="Manage attendance, late arrivals, and working hours" aria-label="Manage attendance, late arrivals, and working hours" class="point__images">
                             <picture>
                                 <source srcset="/img/features/features-5.webp" type="image/webp">
-                                <img src="/img/features/features-5.png" alt="" class="img-fluid d-block mx-auto">
+                                <img src="/img/features/features-5.png" alt="Remote Work Monitoring Software" class="img-fluid d-block mx-auto">
                             </picture>
                         </a>
                     </div>
@@ -129,7 +129,7 @@
                         <a href="/img/features/features-6-full.jpg" data-source="/img/features/features-6-full.jpg" title="Manage Day Offs and Holidays" aria-label="Manage Day Offs and Holidays" class="point__images">
                             <picture>
                                 <source srcset="/img/features/features-6.webp" type="image/webp">
-                                <img src="/img/features/features-6.png" alt="" class="img-fluid d-block mx-auto">
+                                <img src="/img/features/features-6.png" alt="Remote Work Monitoring Software" class="img-fluid d-block mx-auto">
                             </picture>
                         </a>
                     </div>
@@ -154,7 +154,7 @@
                         <a href="/img/features/features-7-full.jpg" data-source="/img/features/features-7-full.jpg" title='The user simply needs to "Start" and "Stop" the application.' aria-label='The user simply needs to "Start" and "Stop" the application.' class="point__images">
                             <picture>
                                 <source srcset="/img/features/features-7.webp" type="image/webp">
-                                <img src="/img/features/features-7.png" alt="" class="img-fluid d-block mx-auto">
+                                <img src="/img/features/features-7.png" alt="Remote Work Monitoring Software" class="img-fluid d-block mx-auto">
                             </picture>
                         </a>
                     </div>

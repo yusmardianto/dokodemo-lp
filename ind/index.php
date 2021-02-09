@@ -33,7 +33,7 @@
                                 <div class="text-center">
                                     <picture>
                                         <source srcset="/img/home/home-cost.svg">
-                                        <img src="/img/home/home-cost.png" alt="cost effective" class="img-fluid">
+                                        <img src="/img/home/home-cost.png" alt="cost effective" class="img-fluid" loading="lazy">
                                     </picture>
                                     <h5 class="mb-0 fs-18 font-weight-bold">Harga Murah</h5>
                                     <p class="fs-14">1 juta ~ / Bulan</p>
@@ -43,7 +43,7 @@
                                 <div class="text-center">
                                     <picture>
                                         <source srcset="/img/home/home-minimum.svg">
-                                        <img src="/img/home/home-minimum.png" alt="no minimum" class="img-fluid">
+                                        <img src="/img/home/home-minimum.png" alt="no minimum" class="img-fluid" loading="lazy">
                                     </picture>
                                     <h5 class="mb-0 fs-18 font-weight-bold">Tidak Ada</h5>
                                     <p class="fs-14">Kontrak Minimum</p>
@@ -53,7 +53,7 @@
                                 <div class="text-center">
                                     <picture>
                                         <source srcset="/img/home/home-setup.svg">
-                                        <img src="/img/home/home-setup.png" alt="easy setup" class="img-fluid">
+                                        <img src="/img/home/home-setup.png" alt="easy setup" class="img-fluid" loading="lazy">
                                     </picture>
                                     <h5 class="mb-0 fs-18 font-weight-bold">Mudah Dipasang</h5>
                                     <p class="fs-14">Anda bisa mulai sekarang</p>
@@ -119,11 +119,11 @@
                 <div class="feature__bg-accent">
                     <picture>
                         <source srcset="/img/icon/icon-meeting-accent.svg">
-                        <img src="/img/icon/icon-meeting-accent-full.png" alt="" class="img-fluid position-absolute bg-accent__img">
+                        <img src="/img/icon/icon-meeting-accent-full.png" alt="" class="img-fluid position-absolute bg-accent__img" loading="lazy">
                     </picture>
                     <picture>
                         <source srcset="/img/icon/icon-meeting-accent.svg">
-                        <img src="/img/icon/icon-meeting-accent-full.png" alt="" class="img-fluid position-absolute bg-accent__img">
+                        <img src="/img/icon/icon-meeting-accent-full.png" alt="" class="img-fluid position-absolute bg-accent__img" loading="lazy">
                     </picture>
                 </div>
                 <div class="row">
@@ -174,19 +174,19 @@
                             </div>
                             <div class="slide__nav">
                                 <div class="nav__img">
-                                    <img src="/img/features/home_01-com.jpg" class="img-fluid rounded-lg" alt="Screenshot of the Dokodemo-Kerja Application" />
+                                    <img src="/img/features/home_01-com.jpg" class="img-fluid rounded-lg" alt="Screenshot of the Dokodemo-Kerja Application" loading="lazy" />
                                 </div>
                                 <div class="nav__img">
-                                    <img src="/img/features/home_02-com.jpg" class="img-fluid rounded-lg" alt="Screenshot of the Dokodemo-Kerja Application" />
+                                    <img src="/img/features/home_02-com.jpg" class="img-fluid rounded-lg" alt="Screenshot of the Dokodemo-Kerja Application" loading="lazy" />
                                 </div>
                                 <div class="nav__img">
-                                    <img src="/img/features/home_03-com.jpg" class="img-fluid rounded-lg" alt="Screenshot of the Dokodemo-Kerja Application" />
+                                    <img src="/img/features/home_03-com.jpg" class="img-fluid rounded-lg" alt="Screenshot of the Dokodemo-Kerja Application" loading="lazy" />
                                 </div>
                                 <div class="nav__img">
-                                    <img src="/img/features/home_04-com.jpg" class="img-fluid rounded-lg" alt="Screenshot of the Dokodemo-Kerja Application" />
+                                    <img src="/img/features/home_04-com.jpg" class="img-fluid rounded-lg" alt="Screenshot of the Dokodemo-Kerja Application" loading="lazy" />
                                 </div>
                                 <div class="nav__img">
-                                    <img src="/img/features/home_tracking-com.jpg" class="img-fluid rounded-lg" alt="Dokodemo GPS features" />
+                                    <img src="/img/features/home_tracking-com.jpg" class="img-fluid rounded-lg" alt="Dokodemo GPS features" loading="lazy" />
                                 </div>
                             </div>
                         </div>
@@ -222,7 +222,7 @@
                         <div class="bg--l-blue shadow--blue p-3 rounded-lg">
                             <picture>
                                 <source srcset="/img/home/benefit-image.webp" type="image/webp">
-                                <img src="/img/home/benefit-image.jpg" alt="benefit dokodemo" class="img-fluid rounded-lg">
+                                <img src="/img/home/benefit-image.jpg" alt="benefit dokodemo" class="img-fluid rounded-lg" loading="lazy">
                             </picture>
                         </div>
                     </div>
@@ -240,7 +240,7 @@
                                 <div class="col-4 col-lg-6 mb-3 mb-lg-0 order-first order-md-last text-center">
                                     <picture>
                                         <source srcset="/img/home/benefit-saving.webp" type="image/webp">
-                                        <img src="/img/home/benefit-saving.png" alt="Cost Saving" class="img-fluid" width="150px">
+                                        <img src="/img/home/benefit-saving.png" alt="Cost Saving" class="img-fluid" width="150px" loading="lazy">
                                     </picture>
                                 </div>
                             </div>
@@ -252,7 +252,7 @@
                                 <div class="col-4 col-lg-6 mb-3 mb-lg-0 text-center">
                                     <picture>
                                         <source srcset="/img/home/benefit-productivity.webp" type="image/webp">
-                                        <img src="/img/home/benefit-productivity.png" alt="Increased Productivity" class="img-fluid" width="150px">
+                                        <img src="/img/home/benefit-productivity.png" alt="Increased Productivity" class="img-fluid" width="150px" loading="lazy">
                                     </picture>
                                 </div>
                                 <div class="col-md-8 col-lg-6">
@@ -272,7 +272,7 @@
                                 <div class="col-4 col-lg-6 mb-3 mb-lg-0 order-first order-md-last text-center">
                                     <picture>
                                         <source srcset="/img/home/benefit-hiring.webp" type="image/webp">
-                                        <img src="/img/home/benefit-hiring.png" alt="Universal Hiring" class="img-fluid" width="150px">
+                                        <img src="/img/home/benefit-hiring.png" alt="Universal Hiring" class="img-fluid" width="150px" loading="lazy">
                                     </picture>
                                 </div>
                             </div>
@@ -284,7 +284,7 @@
                                 <div class="col-4 col-lg-6 mb-3 mb-lg-0 text-center">
                                     <picture>
                                         <source srcset="/img/home/benefit-retain.webp" type="image/webp">
-                                        <img src="/img/home/benefit-retain.png" alt="Retain Employees" class="img-fluid" width="150px">
+                                        <img src="/img/home/benefit-retain.png" alt="Retain Employees" class="img-fluid" width="150px" loading="lazy">
                                     </picture>
                                 </div>
                                 <div class="col-md-8 col-lg-6">
@@ -304,7 +304,7 @@
                                 <div class="col-4 col-lg-6 mb-3 mb-lg-0 order-first order-md-last text-center">
                                     <picture>
                                         <source srcset="/img/home/benefit-evaluation.webp" type="image/webp">
-                                        <img src="/img/home/benefit-evaluation.png" alt="Accurate Evaluation" class="img-fluid" width="150px">
+                                        <img src="/img/home/benefit-evaluation.png" alt="Accurate Evaluation" class="img-fluid" width="150px" loading="lazy">
                                     </picture>
                                 </div>
                             </div>
@@ -330,7 +330,7 @@
                             <div class="case-study">
                                 <picture>
                                     <source srcset="/img/case-study/case-3.webp" type="image/webp">
-                                    <img src="/img/case-study/case-3.jpg" alt="" class="img-fluid mb-3 rounded-lg">
+                                    <img src="/img/case-study/case-3.jpg" alt="" class="img-fluid mb-3 rounded-lg" loading="lazy">
                                 </picture>
                                 <h5 class="fs-20 font-weight-bold">Dokodemo-Kerja Story 3</h5>
                                 <p class="mb-0">Perusahaan Akuntansi, PT. A</p>
@@ -342,7 +342,7 @@
                             <div class="case-study">
                                 <picture>
                                     <source srcset="/img/case-study/dokodemo-story-4-ghitta.webp" type="image/webp">
-                                    <img src="/img/case-study/dokodemo-story-4-ghitta.jpg" alt="" class="img-fluid mb-3 rounded-lg" style="object-position: top;">
+                                    <img src="/img/case-study/dokodemo-story-4-ghitta.jpg" alt="" class="img-fluid mb-3 rounded-lg" style="object-position: top;" loading="lazy">
                                 </picture>
                                 <h5 class="fs-20 font-weight-bold">Dokodemo-Kerja Story 4</h5>
                                 <p class="mb-0">PT. LOGIQUE Digital Indonesia</p>
@@ -354,7 +354,7 @@
                             <div class="case-study">
                                 <picture>
                                     <source srcset="/img/case-study/dokodemo-story-5.webp" type="image/webp">
-                                    <img src="/img/case-study/dokodemo-story-5.jpg" alt="" class="img-fluid mb-3 rounded-lg">
+                                    <img src="/img/case-study/dokodemo-story-5.jpg" alt="" class="img-fluid mb-3 rounded-lg" loading="lazy">
                                 </picture>
                                 <h5 class="fs-20 font-weight-bold">Dokodemo-Kerja Story 5</h5>
                                 <p class="mb-0">PT. LOGIQUE Digital Indonesia</p>
@@ -438,7 +438,7 @@
                                 <div class="col-md-8">
                                     <picture>
                                         <source srcset="/img/home/schedule-online.svg">
-                                        <img src="/img/home/schedule-online.png" alt="online meeting" class="img-fluid">
+                                        <img src="/img/home/schedule-online.png" alt="online meeting" class="img-fluid" loading="lazy">
                                     </picture>
                                 </div>
                                 <div class="col-md-8">
@@ -459,7 +459,7 @@
                                 <div class="col-md-8">
                                     <picture>
                                         <source srcset="/img/home/schedule-offline.svg" type="image/">
-                                        <img src="/img/home/schedule-offline.png" alt="offline meeting" class="img-fluid">
+                                        <img src="/img/home/schedule-offline.png" alt="offline meeting" class="img-fluid" loading="lazy">
                                     </picture>
                                 </div>
                                 <div class="col-md-8">
