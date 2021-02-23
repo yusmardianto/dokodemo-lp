@@ -168,9 +168,16 @@
                         </div>
                     </div>
 
+                    <div class="form-row">
+                        <div class="col-sm-12 text-center mb--30px">
+                        <script src="https://www.google.com/recaptcha/api.js" async defer></script>
+                        <div class="g-recaptcha" data-sitekey="<?= $config['site_key']?>" data-callback="enableBtn"></div>
+                        </div>
+                    </div>
+
                     <div class="form-row justify-content-center">
                         <div class="col-md-4 mb--40px">
-                            <button type="submit" class="form-control m-h--40px btn btn--rounded bg--yellow">Send</button>
+                            <button type="submit" class="form-control m-h--40px btn btn--rounded bg--yellow" id="meeting-form-submit">Send</button>
                         </div>
                     </div>
 
