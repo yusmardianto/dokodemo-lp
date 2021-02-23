@@ -680,4 +680,18 @@
         window.location.href= "/ind/";
     })
 </script>
+
+<script type="text/javascript">
+    $("#meetingSchedule").on('show.bs.modal', function () {
+        grecaptcha.reset();
+    });
+    
+    function enableBtn(){
+		$('#meeting-form-submit').attr('disabled', false);
+	}
+
+	$(document).ready(function() {
+		$('#meeting-form-submit').attr('disabled', true);
+	});
+</script>
 <?php include($_SERVER['DOCUMENT_ROOT'].'/component/footer-end.php') ?>
