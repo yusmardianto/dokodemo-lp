@@ -51,6 +51,13 @@
                 }
             }
         
+            $captcha = $_POST['g-recaptcha-response'];
+            $verify = file_get_contents('https://www.google.com/recaptcha/api/siteverify?secret='.$config["secret_key"].'&response='.$_POST['g-recaptcha-response']);
+            $response = json_decode($verify);
+
+            if (!$response->success) {
+              $errors[] = 'Recaptcha incorect.! please try again';
+            }
 
         if (empty($errors)) {
             $name_field = filter_var($_POST['name'], FILTER_SANITIZE_STRING);
