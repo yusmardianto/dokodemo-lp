@@ -2,12 +2,12 @@
     $page = '';
     $page_title = 'Aplikasi Absensi Online Terbaik Untuk Kerja Remote | Dokodemo Kerja';
 
-    $meta_description = 'Dokodemo-Kerja: Aplikasi absensi online terbaik untuk sistem kerja remote / kerja jarak jauh. Aplikasi management HR yang mampu meningkatkan kinerja karyawan saat WFH.';
+    $meta_description = 'Aplikasi absensi online terbaik untuk karyawan dengan sistem kerja remote / kerja jarak jauh. HR management software berbasis web & mobile | Dokodemo-Kerja';
     $meta_keyword = 'Dokodemo-Kerja, strategi HR, kerja remote, jam kerja karyawan, jadwal kerja';
 
     $og_title = 'Aplikasi Absensi Online Terbaik Untuk Kerja Remote | Dokodemo Kerja';
     $og_image = 'https://dokodemo-kerja.com/img/og-img/index.jpg';
-    $og_desription = 'Dokodemo-Kerja: Aplikasi absensi online terbaik untuk sistem kerja remote / kerja jarak jauh. Aplikasi management HR yang mampu meningkatkan kinerja karyawan saat WFH.';
+    $og_desription = 'Aplikasi absensi online terbaik untuk karyawan dengan sistem kerja remote / kerja jarak jauh. HR management software berbasis web & mobile | Dokodemo-Kerja';
 
     $canonical_link = 'https://dokodemo-kerja.com/ind/';
 
@@ -184,14 +184,14 @@
                                     <div>
                                         <a href="/img/features/home_01.png" data-source="/img/features/home_01.png" title="Daily Working Screen Capture" aria-label="Daily Working Screen Capture">
                                         <div class="image--wrapper">
-                                            <img src="/img/features/home_01-com.jpg" class="border border--blue" alt="Screenshot of the Dokodemo-Kerja Application" />
+                                            <img src="/img/features/home_01-com.jpg" class="border border--blue" alt="Aplikasi absensi online Dokodemo-Kerja" />
                                         </div>    
                                         </a>
                                     </div>
                                     <div>
                                         <a href="/img/features/home_02.png" data-source="/img/features/home_02.png" title="Daily Working Screen Capture" aria-label="Daily Working Screen Capture">
                                         <div class="image--wrapper">
-                                            <img src="/img/features/home_02-com.jpg" class="border border--blue" alt="Screenshot of the Dokodemo-Kerja Application" />
+                                            <img src="/img/features/home_02-com.jpg" class="border border--blue" alt="Aplikasi monitoring waktu kerja karyawan Dokodemo-Kerja" />
                                         </div>    
                                         </a>
                                     </div>
@@ -272,7 +272,7 @@
                         <div class="bg--l-blue shadow--blue p-3 rounded-lg">
                             <picture>
                                 <source srcset="/img/home/benefit-image.webp" type="image/webp">
-                                <img src="/img/home/benefit-image.jpg" alt="benefit dokodemo" class="img-fluid rounded-lg" loading="lazy">
+                                <img src="/img/home/benefit-image.jpg" alt="keuntungan sistem kerja remote" class="img-fluid rounded-lg" loading="lazy">
                             </picture>
                         </div>
                     </div>
@@ -558,8 +558,8 @@
 <?php include($_SERVER['DOCUMENT_ROOT'].'/ind/component/modal-meeting.php'); ?>
 <?php 
     $add_js = '
-    <script src="/js/homepage-animation.js"></script>
-    <script src="/js/jquery.magnific-popup.min.js"></script>';
+    <script async src="/js/homepage-animation.js"></script>
+    <script async src="/js/jquery.magnific-popup.min.js"></script>';
     include($_SERVER['DOCUMENT_ROOT'].'/ind/component/footer.php'); 
 ?>
 <script>
@@ -660,9 +660,9 @@
     }        
     
     // modal popup
-    setTimeout(function() {
-        $('#myModal').modal();
-    }, 4000);
+    // setTimeout(function() {
+    //     $('#myModal').modal();
+    // }, 4000);
     // end modal popup
 
 </script>

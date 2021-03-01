@@ -1,13 +1,13 @@
 <?php 
     $page = 'case-study/case-2';
-    $page_title = 'Manajemen Kerja Remote | Dokodemo-Kerja Kasus #2';
+    $page_title = 'Dokodemo-Kerja | Aplikasi HR Multifungsi';
 
-    $meta_description = 'Studi Kasus Dokodemo-Kerja melihat penerapan strategi kerja jarak jauh ke dalam Logique, menggunakan alat HR untuk manajer & pemimpin tim.';
+    $meta_description = 'Aplikasi HR multifungsi untuk absensi online sekaligus mampu mempermudah penilaian kinerja karyawan untuk hasil evaluasi yang adil & objektif | Dokodemo-kerja';
     $meta_keyword = 'dokodemo, dokodemo kasus, dokodemo-kerja, HR manajemen, layanan kerja remote, system kerja remote, alat manajemen, logique digital Indonesia, alat produktifitas, alat untuk manajer, alat organisasi, strategi kerja jarak jauh';
 
-    $og_title = 'Manajemen Kerja Remote | Dokodemo-Kerja Kasus #2';
+    $og_title = 'Dokodemo-Kerja | Aplikasi HR Multifungsi';
     $og_image = 'https://dokodemo-kerja.com/img/dokodemo-og.jpg';
-    $og_desription = 'Studi Kasus Dokodemo-Kerja melihat penerapan strategi kerja jarak jauh ke dalam Logique, menggunakan alat HR untuk manajer & pemimpin tim.';
+    $og_desription = 'Aplikasi HR multifungsi untuk absensi online sekaligus mampu mempermudah penilaian kinerja karyawan untuk hasil evaluasi yang adil & objektif | Dokodemo-kerja';
 
     $canonical_link = 'https://dokodemo-kerja.com/ind/case-study/case-2';
 

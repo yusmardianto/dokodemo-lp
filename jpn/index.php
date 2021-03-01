@@ -488,8 +488,8 @@
 <?php include($_SERVER['DOCUMENT_ROOT'].'/jpn/component/modal-meeting.php'); ?>
 <?php 
     $add_js = '
-    <script src="/js/homepage-animation.js"></script>
-    <script src="/js/jquery.magnific-popup.min.js"></script>';
+    <script async src="/js/homepage-animation.js"></script>
+    <script async src="/js/jquery.magnific-popup.min.js"></script>';
     include($_SERVER['DOCUMENT_ROOT'].'/jpn/component/footer.php'); 
 ?>
 <script>
@@ -590,9 +590,9 @@
     }        
     
     // modal popup
-    setTimeout(function() {
-        $('#myModal').modal();
-    }, 4000);
+    // setTimeout(function() {
+    //     $('#myModal').modal();
+    // }, 4000);
     // end modal popup
 
 </script>
