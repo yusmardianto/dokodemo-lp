@@ -89,7 +89,6 @@
                             </div>
                         </div>
                     </div>
-                    <p class="mb--70px text-center">どこでも、何時でも、働いた時間と作業内容を記録することで、会社と従業員の双方にメリットのある働き方を実現可能とする勤怠管理＆リモートワーク管理ツールです。正確に勤務時間を管理可能になり、残業時間や有給消化数の計算などが効率化されます。スクリーンキャプチャを取得して管理することで勤務時間中のさぼりを抑止します。</p>
                 </div>
             </div>
             <div class="row align-items-center">
@@ -111,6 +110,56 @@
                     </div>
                 </div>
             </div>
+        </div>
+    </section>
+
+    <section class="color--blue pb--60px home__schedule">
+        <div class="container">
+            <div class="row">
+                <div class="col-md-6 mb-3 mb-md-0">
+                    <div class="bg--l-blue rounded-lg text-center schedule">
+                        <h5 class="font-weight-bold mb-4 fs-20">オンラインMeetingをリクエスト</h5>
+                        <div class="row justify-content-center">
+                            <div class="col-md-8">
+                                <picture>
+                                    <source srcset="/img/home/schedule-online.svg">
+                                    <img src="/img/home/schedule-online.png" alt="online meeting" class="img-fluid" loading="lazy">
+                                </picture>
+                            </div>
+                            <div class="col-md-8">
+                                <p class="my-4">オンラインでDokodemo-Kerjaのご説明をしデモをお見せいたします。</p>
+                            </div>
+                            <div class="col-md-6">
+                                <button type="button" id="btn_online_meet_form_jp" class="form-control btn btn--rounded bg--yellow" data-title="オンライン" data-toggle="modal" data-target="#meetingSchedule">
+                                    申し込む
+                                </button>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-md-6">
+                    <div class="bg--l-blue rounded-lg text-center schedule">
+                        <h5 class="font-weight-bold mb-4 fs-20">オフラインMeetingをリクエスト</h5>
+                        <div class="row justify-content-center">
+                            <div class="col-md-8">
+                                <picture>
+                                    <source srcset="/img/home/schedule-offline.svg" type="image/">
+                                    <img src="/img/home/schedule-offline.png" alt="offline meeting" class="img-fluid" loading="lazy">
+                                </picture>
+                            </div>
+                            <div class="col-md-8">
+                                <p class="my-4">御社へのご訪問、もしくは当社へご来訪いただき、デモをお見せし、導入メリットをご説明いたします。</p>
+                            </div>
+                            <div class="col-md-6">
+                                <button type="button" id="btn_offline_meet_form_jp" class="form-control btn btn--rounded bg--yellow" data-title="オフライン" data-toggle="modal" data-target="#meetingSchedule">
+                                申し込む
+                                </button>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <p class="pt--60px text-center">どこでも、何時でも、働いた時間と作業内容を記録することで、会社と従業員の双方にメリットのある働き方を実現可能とする勤怠管理＆リモートワーク管理ツールです。正確に勤務時間を管理可能になり、残業時間や有給消化数の計算などが効率化されます。スクリーンキャプチャを取得して管理することで勤務時間中のさぼりを抑止します。</p>
         </div>
     </section>
 
@@ -427,55 +476,6 @@
                     <div class="p-3 rounded-lg slide-testi">
                         <h4 class="fs-20"><span class="font-weight-bold">Bobby Susanto</span> - <em class="fs-16">Programmer</em></h4>
                         <p class="fs-14">母親の看病のためにキャリアを諦めなければいけない状況でした。会社がDokodemo-Kerjaを導入してくれたお陰で、会社をやめることなく、正社員としての契約を継続することができました。いまは週に4日在宅勤務、週に1日だけ出社しています。</p>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </section>
-
-    <section class="color--blue py--60px home__schedule">
-        <div class="container">
-            <div class="row">
-                <div class="col-md-6 mb-3 mb-md-0">
-                    <div class="bg--l-blue rounded-lg text-center schedule">
-                        <h5 class="font-weight-bold mb-4 fs-20">オンラインMeetingをリクエスト</h5>
-                        <div class="row justify-content-center">
-                            <div class="col-md-8">
-                                <picture>
-                                    <source srcset="/img/home/schedule-online.svg">
-                                    <img src="/img/home/schedule-online.png" alt="online meeting" class="img-fluid" loading="lazy">
-                                </picture>
-                            </div>
-                            <div class="col-md-8">
-                                <p class="my-4">オンラインでDokodemo-Kerjaのご説明をしデモをお見せいたします。</p>
-                            </div>
-                            <div class="col-md-6">
-                                <button type="button" id="btn_online_meet_form_jp" class="form-control btn btn--rounded bg--yellow" data-title="オンライン" data-toggle="modal" data-target="#meetingSchedule">
-                                    申し込む
-                                </button>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-md-6">
-                    <div class="bg--l-blue rounded-lg text-center schedule">
-                        <h5 class="font-weight-bold mb-4 fs-20">オフラインMeetingをリクエスト</h5>
-                        <div class="row justify-content-center">
-                            <div class="col-md-8">
-                                <picture>
-                                    <source srcset="/img/home/schedule-offline.svg" type="image/">
-                                    <img src="/img/home/schedule-offline.png" alt="offline meeting" class="img-fluid" loading="lazy">
-                                </picture>
-                            </div>
-                            <div class="col-md-8">
-                                <p class="my-4">御社へのご訪問、もしくは当社へご来訪いただき、デモをお見せし、導入メリットをご説明いたします。</p>
-                            </div>
-                            <div class="col-md-6">
-                                <button type="button" id="btn_offline_meet_form_jp" class="form-control btn btn--rounded bg--yellow" data-title="オフライン" data-toggle="modal" data-target="#meetingSchedule">
-                                申し込む
-                                </button>
-                            </div>
-                        </div>
                     </div>
                 </div>
             </div>
