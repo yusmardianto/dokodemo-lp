@@ -1,13 +1,13 @@
 <?php 
     $page = 'help';
-    $page_title = 'Bantuan Dokodemo-Kerja | Remote Work Tracking Tool for HR';
+    $page_title = 'Bantuan | Alat Monitoring Kerja Jarak Jauh untuk HR';
 
-    $meta_description = 'LOGIQUE Digital Indonesia provides digital solutions for human resources through remote working software, Dokodemo-Kerja, designed for reducing costs.';
+    $meta_description = 'LOGIQUE Digital Indonesia menyediakan solusi digital yang dirancang untuk efisiensi biaya bagi divisi HR melalui software kerja jarak jauh Dokodemo-Kerja.';
     $meta_keyword = 'LOGIQUE Digital Indonesia, Dokodemo-Kerja, digital solutions, human resources, remote working software, remote working, remote work, reducing costs, reduce costs, Nicholas Bloom, Working from home';
 
-    $og_title = 'Bantuan Dokodemo-Kerja | Remote Work Tracking Tool for HR';
+    $og_title = 'Bantuan | Alat Monitoring Kerja Jarak Jauh untuk HR';
     $og_image = 'https://dokodemo-kerja.com/img/og-img/about.jpg';
-    $og_desription = 'Dokodemo-Kerja is a Human Resource tool developed by PT. LOGIQUE Digital Indonesia, a company providing Digital Solutions, based in Jakarta, Indonesia. Dokodemo-Kerja was designed to promote healthier and more productive work cultures in a way that benefits both the Company and Employees alike.';
+    $og_desription = 'LOGIQUE Digital Indonesia menyediakan solusi digital yang dirancang untuk efisiensi biaya bagi divisi HR melalui software kerja jarak jauh Dokodemo-Kerja.';
 
     $canonical_link = 'https://dokodemo-kerja.com/ind/help';
 

@@ -2,12 +2,12 @@
     $page = 'case-study/';
     $page_title = 'Pengalaman Bekerja Dari Rumah Menggunakan Dokodemo | Studi Kasus';
 
-    $meta_description = 'Berikut pengalaman menarik bekerja dari rumah tanpa ke kantor menggunakan aplikasi Dokodemo yang membuat kerja mereka menjadi lebih efisien dan bisnis tetap berjalan.';
+    $meta_description = 'Dokodemo-Kerja menjadi aplikasi atau software absensi online yang bisa memberi nilai positif bagi Karyawan & Perusahaan. Simak testimoni penggunanya disini!';
     $meta_keyword = 'dokodemo, dokodemo-kerja, Dokodemo kasus, Digital Logique Indonesia, sistem kerja jarak jauh, system kerja remote, perusahan pengembangan system, monitor karyawan, alat kerja remote, alat untuk manajer, perusahaan akuntansi';
 
     $og_title = 'Pengalaman Bekerja Dari Rumah Menggunakan Dokodemo | Studi Kasus';
     $og_image = 'https://dokodemo-kerja.com/img/dokodemo-og.jpg';
-    $og_desription = 'Berikut pengalaman menarik bekerja dari rumah tanpa ke kantor menggunakan aplikasi Dokodemo yang membuat kerja mereka menjadi lebih efisien dan bisnis tetap berjalan.';
+    $og_desription = 'Dokodemo-Kerja menjadi aplikasi atau software absensi online yang bisa memberi nilai positif bagi Karyawan & Perusahaan. Simak testimoni penggunanya disini!';
 
     $canonical_link = 'https://dokodemo-kerja.com/ind/case-study/';
 

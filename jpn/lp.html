@@ -68,7 +68,7 @@
                         </div>
                     </div>
                     <div class="col-md-6">
-                        <a href="/demo" class="btn btn--yellow btn--icon btn--jp mr-auto mr-md-0" id="btn_demo_lp">いますぐ無料トライアル</a>
+                        <a target="_blank" href="/pdf/dokodemo-kerja-jp.pdf" class="btn btn--yellow btn--icon btn--jp mr-auto mr-md-0" id="btn_demo_lp">日本語の製品紹介資料のダウンロードはこちらから</a>
                     </div>
                 </div>
                 <div class="text-center top-section__content">
@@ -257,32 +257,295 @@
 
     </div>
 
+    <!-- modal schedule -->
+    <div class="modal modal--meeting fade" id="meetingSchedule" data-backdrop="static" data-keyboard="false" tabindex="-1" aria-labelledby="meetingScheduleLabel" aria-hidden="true">
+        <div class="modal-dialog modal-lg modal-dialog-centered">
+            <div class="modal-content border-0">
+                <div class="border-bottom-0 pb-0 modal-header">
+                    <div class="color--blue pt-3">
+                        <h5 class="fs-24 font-weight-bold modal-title"><span class="modal-title__type">オンライン</span>Meetingをリクエスト</h5>
+                        <p class="modal-title__greetings">Set up an <span class="modal-title__type">online</span> consultation with our team for a software demo</p>
+                    </div>
+                    <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                        <span aria-hidden="true" class="color--blue">&times;</span>
+                    </button>
+                </div>
+                <form id="submit-email" action="#" method="post" enctype="multipart/form-data">
+                    <div class="position-relative overflow-hidden modal-body modal-body--meeting">
+
+                        <input type="text" name="meeting_type" id="meeting_type" readonly hidden>
+
+                        <div class="form-row">
+                            <div class="col-md-6 mb-3">
+                                <div class="modal-body__input">
+                                    <label for="" class="fs-12 d-block mb-1">Your Name</label>
+                                    <div class="position-relative input--icon">
+                                        <picture>
+                                            <source srcset="/img/icon/icon-profile-gray.svg">
+                                            <img src="/img/icon/icon-profile-gray.png" alt="" class="img-fluid" height="20" loading="lazy">
+                                        </picture>
+                                        <picture>
+                                            <source srcset="/img/icon/icon-profile.svg">
+                                            <img src="/img/icon/icon-profile.png" alt="" class="img-fluid" height="20" loading="lazy">
+                                        </picture>
+                                        <input type="text" name="name" class="form-control m-h--40px border--blue color--blue" required>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="col-md-6 mb-3">
+                                <div class="modal-body__input">
+                                    <label for="" class="fs-12 d-block mb-1">Your Company</label>
+                                    <div class="position-relative input--icon">
+                                        <picture>
+                                            <source srcset="/img/icon/icon-company-gray.svg">
+                                            <img src="/img/icon/icon-company-gray.png" alt="" class="img-fluid" height="20" loading="lazy">
+                                        </picture>
+                                        <picture>
+                                            <source srcset="/img/icon/icon-company.svg">
+                                            <img src="/img/icon/icon-company.png" alt="" class="img-fluid" height="20" loading="lazy">
+                                        </picture>
+                                        <input type="text" name="company" class="form-control m-h--40px border--blue color--blue" required>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+
+                        <div class="form-row">
+                            <div class="col-md-4 mb-3">
+                                <div class="modal-body__input">
+                                    <label for="" class="fs-12 d-block mb-1">Your Email</label>
+                                    <div class="position-relative input--icon">
+                                        <picture>
+                                            <source srcset="/img/icon/icon-email-gray.svg">
+                                            <img src="/img/icon/icon-email-gray.png" alt="" class="img-fluid" height="20" loading="lazy">
+                                        </picture>
+                                        <picture>
+                                            <source srcset="/img/icon/icon-email-blue.svg">
+                                            <img src="/img/icon/icon-email-blue.png" alt="" class="img-fluid" height="20" loading="lazy">
+                                        </picture>
+                                        <input type="email" name="email" class="form-control m-h--40px border--blue color--blue" required>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="col-md-4 mb-3">
+                                <div class="modal-body__input">
+                                    <label for="" class="fs-12 d-block mb-1">Your Phone</label>
+                                    <div class="position-relative input--icon">
+                                        <picture>
+                                            <source srcset="/img/icon/icon-telephone-gray.svg">
+                                            <img src="/img/icon/icon-telephone-gray.png" alt="" class="img-fluid" height="20" loading="lazy">
+                                        </picture>
+                                        <picture>
+                                            <source srcset="/img/icon/icon-telephone.svg">
+                                            <img src="/img/icon/icon-telephone.png" alt="" class="img-fluid" height="20" loading="lazy">
+                                        </picture>
+                                        <input type="tel" name="phone" class="form-control m-h--40px border--blue color--blue" onkeypress="return isNumberKey(event)" required>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="col-md-4 mb-3">
+                                <div class="modal-body__input">
+                                    <label for="" class="fs-12 d-block mb-1">Your Department</label>
+                                    <div class="position-relative input--icon">
+                                        <picture>
+                                            <source srcset="/img/icon/icon-department-gray.svg">
+                                            <img src="/img/icon/icon-department-gray.png" alt="" class="img-fluid" height="20" loading="lazy">
+                                        </picture>
+                                        <picture>
+                                            <source srcset="/img/icon/icon-department.svg">
+                                            <img src="/img/icon/icon-department.png" alt="" class="img-fluid" height="20" loading="lazy">
+                                        </picture>
+                                        <input type="text" name="department" class="form-control m-h--40px border--blue color--blue" required>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+
+                        <div class="form-row modal-body__input">
+                            <div class="col-12">
+                                <label for="" class="color--gray fs-12 d-block mb-1">Time Preferred</label>
+                            </div>
+                            <div class="mb-3 col col-lg-6">
+                                <div class="form-row">
+                                    <div class="col">
+                                        <div class="input--time-step position-relative">
+                                            <input type="time" name="start_time" id="time_preffered_start" class="form-control m-h--40px border--blue color--blue" min="09:00" max="17:00" step="1800" value="09:00" required>                                
+                                            <button type="button" class="btn bg--blue time-step time-step--up" data-button-type="up">
+                                                <picture>
+                                                    <source srcset="/img/icon/icon-chevron-up.svg">
+                                                    <img src="/img/icon/icon-chevron-up.png" alt="" class="img-fluid" loading="lazy">
+                                                </picture>
+                                            </button>
+                                            <button type="button" class="btn bg--blue time-step time-step--down" data-button-type="down">
+                                                <picture>
+                                                    <source srcset="/img/icon/icon-chevron-down.svg">
+                                                    <img src="/img/icon/icon-chevron-down.png" alt="" class="img-fluid" loading="lazy">
+                                                </picture>
+                                            </button>
+                                        </div>
+                                    </div>
+                                    <div class="col-auto px-0 align-self-center"><span>-</span></div>
+                                    <div class="col">
+                                        <div class="input--time-step position-relative">
+                                            <input type="time" name="end_time" id="time_preffered_end" class="form-control m-h--40px border--blue color--blue" min="09:00" max="17:00" step="1800" value="09:00" required>                                
+                                            <button type="button" class="btn bg--blue time-step time-step--up" data-button-type="up">
+                                                <picture>
+                                                    <source srcset="/img/icon/icon-chevron-up.svg">
+                                                    <img src="/img/icon/icon-chevron-up.png" alt="" class="img-fluid" loading="lazy">
+                                                </picture>
+                                            </button>
+                                            <button type="button" class="btn bg--blue time-step time-step--down" data-button-type="down">
+                                                <picture>
+                                                    <source srcset="/img/icon/icon-chevron-down.svg">
+                                                    <img src="/img/icon/icon-chevron-down.png" alt="" class="img-fluid" loading="lazy">
+                                                </picture>
+                                            </button>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="mb-3 col-auto col-lg-3 align-self-center">
+                                <p class="mb-0 pt-1 color--gray">WIB</p>
+                            </div>
+                        </div>
+
+                        <div class="form-row">
+                            <div class="col-12 mb--30px">
+                                <div class="modal-body__input">
+                                    <label for="" class="color--gray fs-12 d-block mb-1">Message</label>
+                                    <textarea name="message" id="" rows="5" class="form-control border--blue color--blue" required></textarea>                        
+                                </div>
+                            </div>
+                        </div>
+
+                        <div class="form-row">
+                            <div class="col-sm-12 text-center mb--30px">
+                            <script src="https://www.google.com/recaptcha/api.js" async defer></script>
+                            <div class="g-recaptcha" data-sitekey="6LeIxAcTAAAAAJcZVRqyHh71UMIEGNQ_MXjiZKhI" data-callback="enableBtn"></div>
+                            </div>
+                        </div>
+
+                        <div class="form-row justify-content-center">
+                            <div class="col-md-4 mb--40px">
+                                <button type="submit" class="form-control m-h--40px btn btn--rounded bg--yellow" id="meeting-form-submit">Send</button>
+                            </div>
+                        </div>
+
+                        <img src="/img/icon/icon-meeting-accent.png" alt="" class="img-fluid position-absolute meeting__accent" loading="lazy">
+                        <img src="/img/icon/icon-meeting-accent.png" alt="" class="img-fluid position-absolute meeting__accent" loading="lazy">
+
+                    </div>
+                </form>
+                <div class="modal-footer bg--blue pt-2 pb-1 justify-content-center text-white">
+                    <div class="text-center">or send an email to: <a href="mailto:sales@dokodemo-kerja.com" class="font-weight-bold text-white ml-2">sales@dokodemo-kerja.com</a></div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!-- modal success -->
+    <div class="modal modal--meeting fade" id="meetingScheduleSent" data-backdrop="static" data-keyboard="false" tabindex="-1" aria-labelledby="meetingScheduleSentLabel" aria-hidden="true">
+        <div class="modal-dialog modal-lg modal-dialog-centered">
+            <div class="modal-content border-0">
+                <div class="border-bottom-0 pb-0 modal-header">
+                    <div class="mx-auto text-center color--blue pt-3">
+                        <h5 class="fs-24 font-weight-bold modal-title">Thank You</h5>
+                        <p>We have received your message.</p>
+                    </div>
+                    <button type="button" class="close position-absolute top-0 right-0 m-0" data-dismiss="modal" aria-label="Close">
+                        <span aria-hidden="true" class="color--blue">&times;</span>
+                    </button>
+                </div>
+                <div class="position-relative overflow-hidden modal-body modal-body--meeting">
+                    
+                    <div class="mb--40px">
+                        <picture>
+                            <source srcset="/img/icon/icon-meeting.svg">
+                            <img src="/img/icon/icon-meeting.png" alt="" class="img-fluid d-block mx-auto" loading="lazy">
+                        </picture>
+                    </div>
+
+                    <div class="form-row justify-content-center">
+                        <div class="col-md-4 mb--40px">
+                            <button class="form-control m-h--40px btn btn--rounded bg--yellow" data-dismiss="modal">Close</button>
+                        </div>
+                    </div>
+
+                    <img src="/img/icon/icon-meeting-accent.png" alt="" class="img-fluid position-absolute meeting__accent" loading="lazy">
+                    <img src="/img/icon/icon-meeting-accent.png" alt="" class="img-fluid position-absolute meeting__accent" loading="lazy">
+
+                </div>
+                <div class="modal-footer bg--blue pt-1 pb-1 justify-content-center text-white"></div>
+            </div>
+        </div>
+    </div>
 
     <script src="/js/jquery-3.4.1.min.js"></script>
     <script src="/js/bootstrap.min.js"></script>
+    <script src="/js/modernizr-webp.js"></script>
+    <script src="/js/main.js"></script>
+
     <script>
         $(function() {
             $('.footer__year').html(new Date().getFullYear());
         });
     </script>
+
     <script>
-    var element = document.getElementById("popup-text");
+        var element = document.getElementById("popup-text");
 
-    var t = setTimeout(openPopUp, 5000);
+        var t = setTimeout(openPopUp, 5000);
 
-    function openPopUp() {
-        element = document.getElementById("popup-text");
-        element.style.visibility = "visible";
-        element.style.opacity = "1";
-    }
+        function openPopUp() {
+            element = document.getElementById("popup-text");
+            element.style.visibility = "visible";
+            element.style.opacity = "1";
+        }
     </script>
+
     <!-- modal popup -->
     <script>
-    setTimeout(function() {
-        $('#myModal').modal();
-    }, 4000);
+        setTimeout(function() {
+            $('#myModal').modal();
+        }, 4000);
     </script>
     <!-- end of  modal popup -->
+
+    <!-- schedule modal -->
+    <script>
+        $(function() {
+            const host_name = window.location.hostname;
+            const recaptcha_site_key = (host_name === 'dokodemo-kerja.com') ? '6Lcou10UAAAAAGM-POIo4qYEMQ25KoSDVf5rEIES' : '6LeIxAcTAAAAAJcZVRqyHh71UMIEGNQ_MXjiZKhI';
+            $(".g-recaptcha").attr("data-sitekey", recaptcha_site_key);
+
+            // modal data adjustment
+            $('[data-target="#meetingSchedule"]').click(function() {
+                const modal_title = $(this).data('title');
+                const modal_form = (modal_title === "オンライン") ? 'https://formspree.io/f/maylgaga' : 'https://formspree.io/f/xyybqlqa';
+
+                $("#meetingSchedule").find("#submit-email").attr("action", modal_form);
+            })
+
+            $('#submit-email').submit(function() {
+                $('#meetingSchedule').modal('hide');
+                $('#meetingScheduleSent').modal('show');
+            });
+        });
+    </script>
+    
+    <script type="text/javascript">
+        $("#meetingSchedule").on('show.bs.modal', function () {
+            grecaptcha.reset();
+        });
+        
+        function enableBtn(){
+            $('#meeting-form-submit').attr('disabled', false);
+        }
+
+        $(document).ready(function() {
+            $('#meeting-form-submit').attr('disabled', true);
+        });
+    </script>
     
 </body>
 

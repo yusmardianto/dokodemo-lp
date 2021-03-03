@@ -143,7 +143,7 @@
                             <div class="row justify-content-center">
                                 <div class="col-md-8">
                                     <picture>
-                                        <source srcset="/img/home/schedule-offline.svg" type="image/">
+                                        <source srcset="/img/home/schedule-offline.svg">
                                         <img src="/img/home/schedule-offline.png" alt="offline meeting" class="img-fluid" loading="lazy">
                                     </picture>
                                 </div>
@@ -588,8 +588,8 @@
 <?php include($_SERVER['DOCUMENT_ROOT'].'/component/modal-meeting.php'); ?>
 <?php 
     $add_js = '
-    <script src="/js/homepage-animation.js"></script>
-    <script src="/js/jquery.magnific-popup.min.js"></script>';
+    <script async src="/js/homepage-animation.js"></script>
+    <script async src="/js/jquery.magnific-popup.min.js"></script>';
     include($_SERVER['DOCUMENT_ROOT'].'/component/footer.php'); 
 ?>
 <script>
@@ -690,9 +690,9 @@
     }        
     
     // modal popup
-    setTimeout(function() {
-        $('#myModal').modal();
-    }, 4000);
+    // setTimeout(function() {
+    //     $('#myModal').modal();
+    // }, 4000);
     // end modal popup
 
 </script>

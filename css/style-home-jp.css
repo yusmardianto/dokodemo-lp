@@ -7,7 +7,7 @@
     display: flex;
     justify-content: center;
     align-items: center;
-    padding: 10px 50px 5px 20px;
+    padding: 10px 50px 10px 20px;
     border-radius: 5px;
     overflow: hidden;
     border: none;
@@ -60,11 +60,20 @@
 .top-section {
     color: #fff;
     position: relative;
-    background: url('/img/home/bg-jp.png') center bottom/cover no-repeat;
-    background-image: url('/img/home/bg-jp.webp');
+    background-size: cover;
+    background-position: center bottom;
+    background-repeat: no-repeat;
     padding-top: 35px;
     padding-bottom: 120px;
     overflow: hidden;
+}
+
+.no-webp .top-section {
+    background-image: url('/img/home/bg-jp.png')
+}
+
+.webp .top-section {
+    background-image: url('/img/home/bg-jp.webp');
 }
 
 .top-section::before {
@@ -74,8 +83,21 @@
     right: -35px;
     height: 530px;
     width: 375px;
-    background: url('/img/home/bg-jp-woman.png') center bottom/contain no-repeat;
+    background-size: contain;
+    background-position: center bottom;
+    background-repeat: no-repeat;    
+}
+
+.no-webp .top-section::before {
+    background-image: url('/img/home/bg-jp-woman.png')
+}
+
+.webp .top-section::before {
     background-image: url('/img/home/bg-jp-woman.webp');
+}
+
+.top-section .top-section__header .btn.btn--jp {
+    width: 470px;
 }
 
 .top-section__content h1 {
@@ -100,9 +122,25 @@
     }
 }
 
+@media (max-width: 991.98px) {    
+    .top-section .top-section__header .btn.btn--jp {
+        width: 100%;
+        height: auto;
+    }
+
+    .top-section .top-section__header .btn.btn--jp::before {
+        right: -25px;
+        height: 70px;
+        width: 70px;
+    }
+}
+
 @media (max-width: 767.98px) {
-    .top-section {
-        background-image: url('/img/home/bg.png');
+    .no-webp .top-section {
+        background-image: url('/img/home/bg.jpg');
+    }
+    .webp .top-section {
+        background-image: url('/img/home/bg.webp');
     }
 }
 

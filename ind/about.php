@@ -1,13 +1,13 @@
 <?php 
     $page = 'about';
-    $page_title = 'Tentang Dokodemo-Kerja | Cloud System for HR';
+    $page_title = 'Aplikasi Absensi Karyawan untuk Produktivitas Kerja';
 
-    $meta_description = 'Dokodemo-Kerja: Alat Kerja Remote untuk Manajer & HR oleh Logique Digital Indonesia; memungkinkan pemantauan karyawan jarak jauh melalui random screenshot.';
+    $meta_description = 'Aplikasi absensi karyawan dengan sistem online yang ditujukan guna meningkatkan produktivitas kerja. Sangat cocok dengan budaya Work from Home (WFH) saat ini.';
     $meta_keyword = 'Perangkat lunak yang berfungsi jarak jauh, alat kerja jarak jauh, sistem kerja jarak jauh, penerapan kerja jarak jauh, enabler kerja jarak jauh, memungkinkan budaya kerja jarak jauh, budaya kerja jarak jauh, bekerja sambil bepergian, logique, pt logique, logique digital indonesia, pelacakan waktu, pelacak waktu, pelacak jam kerja, pelacakan jam kerja, perangkat lunak enterprise, perangkat lunak screenshot enterprise';
 
-    $og_title = 'Tentang Dokodemo-Kerja | Cloud System for HR';
+    $og_title = 'Aplikasi Absensi Karyawan untuk Produktivitas Kerja';
     $og_image = 'https://dokodemo-kerja.com/img/dokodemo-og.jpg';
-    $og_desription = 'Dokodemo-Kerja: Alat Kerja Remote untuk Manajer & HR oleh Logique Digital Indonesia; memungkinkan pemantauan karyawan jarak jauh melalui random screenshot.';
+    $og_desription = 'Aplikasi absensi karyawan dengan sistem online yang ditujukan guna meningkatkan produktivitas kerja. Sangat cocok dengan budaya Work from Home (WFH) saat ini.';
 
     $canonical_link = 'https://dokodemo-kerja.com/ind/about';
 
@@ -36,7 +36,7 @@
                 <div class="col-lg-6 about-us-left">
                     <h1>TENTANG DOKODEMO-KERJA</h1>
                     <p class="about-us-desc">
-                        <a href="/">Dokodemo-Kerja</a> adalah alat HR yang dikembangkan oleh <a target="_blank" href="https://www.logique.co.id">PT. LOGIQUE Digital Indonesia</a>, perusahaan solusi digital yang berpusat di Jakarta, Indonesia.
+                        <a href="/">Dokodemo-Kerja</a> adalah alat HR berupa software atau aplikasi absensi karyawan yang dikembangkan dengan sistem online oleh <a target="_blank" href="https://www.logique.co.id">PT. LOGIQUE Digital Indonesia</a>, perusahaan solusi digital yang berpusat di Jakarta, Indonesia. 
                         <br><br>
                         <a href="/">Dokodemo-Kerja</a> dibuat dengan harapan dapat membantu mempromosikan budaya kerja yang lebih sehat, produktif, dan juga fleksibel, yang menguntungkan pihak karyawan dan perusahaan.
                         <br><br>
@@ -45,7 +45,7 @@
                     <p class="about-us-contact">
                         Anda bisa melihat dan mendapatkan informasi lebih lanjut tentang Dokodemo-Kerja <a target="_blank" href="https://www.logique.co.id/blog/category/dokodemo-kerja/">di sini</a>. Jika ada pertanyaan lebih lanjut, jangan ragu untuk <a href="/ind/contact-us.php">HUBUNGI KAMI</a>.; kami akan dengan senang hati untuk membantu anda untuk mengenal Dokodemo-Kerja.
                     </p>
-                    <img src="/img/about/dokodemo-about.png" class="img-dokodemo-about" alt="Dokodemo-Kerja is Compatible for Macintosh" />
+                    <img src="/img/about/dokodemo-about.png" class="img-dokodemo-about" alt="Aplikasi Absensi Karyawan Dokodemo-Kerja" />
                 </div>
                 <div class="col-lg-6 about-us-right">
                     <h2>KENAPA DOKODEMO-KERJA?</h2>
