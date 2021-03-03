@@ -78,6 +78,10 @@
     background-image: url('/img/home/bg-jp-woman.webp');
 }
 
+.top-section .top-section__header .btn.btn--jp {
+    width: 470px;
+}
+
 .top-section__content h1 {
     margin-top: 30px;
     margin-bottom: 70px;
@@ -97,6 +101,19 @@
     }
     .top-section::before {
         content: none;
+    }
+}
+
+@media (max-width: 991.98px) {    
+    .top-section .top-section__header .btn.btn--jp {
+        width: 100%;
+        height: auto;
+    }
+
+    .top-section .top-section__header .btn.btn--jp::before {
+        right: -25px;
+        height: 70px;
+        width: 70px;
     }
 }
 
