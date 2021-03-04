@@ -66,7 +66,7 @@
                             <source srcset="/img/home/home-banner.webp" type="image/webp">
                             <img src="/img/home/home-banner.png" alt="Dokodemo Remote Working" class="img-fluid mb-4 mb-lg-0">
                         </picture> -->
-                        <div class="d-flex justify-content-center align-items-center">
+                        <div class="d-none d-md-flex justify-content-center align-items-center">
                             <div class="w-100 mb-4 mb-lg-0 banner__animation" id="homepage_animation"></div>
                             <div class="loader">Loading...</div>
                         </div>
@@ -557,9 +557,7 @@
 <?php include($_SERVER['DOCUMENT_ROOT'].'/ind/component/demo-banner.php'); ?>
 <?php include($_SERVER['DOCUMENT_ROOT'].'/ind/component/modal-meeting.php'); ?>
 <?php 
-    $add_js = '
-    <script async src="/js/homepage-animation.js"></script>
-    <script async src="/js/jquery.magnific-popup.min.js"></script>';
+    $add_js = '<script async src="/js/jquery.magnific-popup.min.js"></script>';
     include($_SERVER['DOCUMENT_ROOT'].'/ind/component/footer.php'); 
 ?>
 <script>
@@ -607,21 +605,7 @@
             ]
 
         })
-
-        // $('.smooth').click(function() {
-        //     if (location.pathname.replace(/^\//, '') == this.pathname.replace(/^\//, '') && location
-        //         .hostname == this.hostname) {
-        //         var target = $(this.hash);
-        //         target = target.length ? target : $('[name=' + this.hash.slice(1) + ']');
-        //         if (target.length) {
-        //             $('html, body').animate({
-        //                 scrollTop: target.offset().top
-        //             }, 1000);
-        //             return false;
-        //         }
-        //     }
-        // });
-
+        
         $('.zoom-gallery').magnificPopup({
             delegate: 'a',
             type: 'image',
@@ -694,5 +678,24 @@
 	$(document).ready(function() {
 		$('#meeting-form-submit').attr('disabled', true);
 	});
+</script>
+
+<script>
+    // load js only when needed
+    function lazyLoadJs(src) {
+        const document = window.document;
+        const body = document.body;
+        const el = document.createElement("script");
+
+        el.async = true;
+        el.src = src;
+        body.appendChild(el);
+    }
+
+    window.addEventListener('load', function(event) {
+        if (!mobileCheck()) {
+            lazyLoadJs('/js/homepage-animation.js');
+        }
+    });
 </script>
 <?php include($_SERVER['DOCUMENT_ROOT'].'/component/footer-end.php') ?>
