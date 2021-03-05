@@ -64,7 +64,7 @@
                 </p>
             </div>
             <div class="col-md-12 benefits-item privacy-title">
-                <h2>The Collection of Location Information</h2>
+                <h2>Collection of Location Information</h2>
                 <p>When running the Dokodemo-Kerja mobile application on your device, location data will be collected via GPS tracking. We use this information in order to provide location tracking services on mobile applications. The collection of location data itself will only take place while the application is activated (in application timer is running).
                 </p>
             </div>
