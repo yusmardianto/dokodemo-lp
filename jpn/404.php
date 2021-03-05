@@ -100,16 +100,7 @@
     </section>
     <script src="/js/jquery-3.4.1.min.js"></script>
     <script src="/js/bootstrap.min.js"></script>
-    <script>
-        var element = document.getElementById("popup-text");
-
-        var t=setTimeout(openPopUp,5000);
-        function openPopUp() {
-        element = document.getElementById("popup-text");
-        element.style.visibility = "visible";
-        element.style.opacity = "1";
-        }
-    </script>
+    
 </body>
 
 </html>
