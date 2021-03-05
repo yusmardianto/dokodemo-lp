@@ -562,16 +562,6 @@
         });
 
     })
-
-    var element = document.getElementById("popup-text");
-
-    var t = setTimeout(openPopUp, 5000);
-
-    function openPopUp() {
-        element = document.getElementById("popup-text");
-        element.style.visibility = "visible";
-        element.style.opacity = "1";
-    }        
     
     // modal popup
     // setTimeout(function() {
