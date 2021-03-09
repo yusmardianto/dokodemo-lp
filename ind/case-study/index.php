@@ -32,6 +32,12 @@
     <section class="mb-5">
         <div class="container">
             <h1 class="text-center mb-5">Pengalaman Bekerja Dari Rumah Menggunakan Dokodemo</h1>
+            <div class="mb-5 text-justify">
+                <p>Dokodemo-Kerja telah membantu banyak perusahaan dalam meningkatkan produktivitas karyawan, menciptakan work life balance yang baik, penilaian kinerja karyawan yang lebih objektif, menciptakan sistem kerja fleksibel, dan lain-lain</p>
+                <p>Sebagai aplikasi atau software yang khusus dikembangkan untuk menunjang aktivitas Human Resource (HR tools), Dokodemo-Kerja diharapkan dapat membantu meningkatkan dan mempromosikan budaya kerja yang sehat, produktif, dan juga fleksibel sehingga menguntungkan pihak karyawan dan perusahaan.</p>
+                <p>Dokodemo-Kerja sendiri merupakan gabungan kata yang berasal dari bahasa Jepang dan Indonesia, yaitu kata "Dokodemo" yang berarti "Di mana saja" dan kata "Kerja", sehingga Dokodemo-Kerja dapat diartikan “bekerja dimana saja”. </p>
+                <p>Fleksibilitas Dokodemo-Kerja didukung oleh beragam fitur yang mampu mengakomodasi seluruh kebutuhan yang diperlukan oleh perusahaan dan karyawan. Mulai dari fitur absensi, perhitungan waktu kerja, fitur pengelolaan cuti karyawan hingga fitur GPS dan monitoring berupa random screen capture.</p>
+            </div>
             <div class="row">
                 <div class="col-md-4">
                     <a href="/ind/case-study/case-1" class="case-study__card-wrapper">

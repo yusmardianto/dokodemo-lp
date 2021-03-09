@@ -32,6 +32,13 @@
     <section class="mb-5">
         <div class="container">
             <h1 class="text-center mb-5">Case Study: How To Utilize Dokodemo-Kerja</h1>
+            <div class="mb-5 text-justify">
+                <p>Dokodemo-Kerja has assisted many companies in a wide range of issues, such as increasing their overall level of employee productivity, creating a good work life balance, producing more objective employee performance appraisals, as well as creating flexible work systems, among other benefits.</p>
+                <p>As an application specifically developed to support Human Resources (HR tools) related activities, Dokodemo-Kerja is aimed at improving and promoting a healthy, productive and flexible work culture that benefits both employees and the employer alike.</p>
+                <p>The name “Dokodemo-Kerja” itself is a combination of words of both Japanese and Indonesian origin, namely the word "Dokodemo" which means "anywhere" and the word "Kerja", with the full name Dokodemo-Kerja being interpreted as "work anywhere".</p>
+                <p>Dokodemo-Kerja's flexibility is supported by a variety of features that can accommodate all the needs required by both the company and its employees, ranging from its attendance tracking feature, its ability to accurately calculate work hours, the employee leave management feature to its GPS tracking capabilities and the app’s random screen capture monitoring abilities. </p>
+                <p>The advantages of Dokodemo-Kerja as an HR tool has been proven by the variety of companies which have utilized it. From increasing productivity and professionalism within the workplace, to its ability to promote an ideal work-life balance for employees. The following are case studies from several companies, including Logique Digital Indonesia as the app’s developer and the first to implement it. </p>
+            </div>
             <div class="row">
                 <div class="col-md-4">
                     <a href="/case-study/case-1" class="case-study__card-wrapper">
