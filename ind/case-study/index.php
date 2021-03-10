@@ -11,14 +11,195 @@
 
     $canonical_link = 'https://dokodemo-kerja.com/ind/case-study/';
 
-    $add_css = '<link rel="stylesheet" href="/css/style-case-study.css" />';
+    $add_css = '
+    <link rel="stylesheet" href="/css/slick.css" />
+    <link rel="stylesheet" href="/css/slick-theme.css" />
+    <link rel="stylesheet" href="/css/style-home.css" />
+    <link rel="stylesheet" href="/css/style-case-study.css" />';
 
     include($_SERVER['DOCUMENT_ROOT'].'/ind/component/header.php');
 ?>
 
-<div class="">
+<div class="case-study home">
 
-    <section>
+    <section class="mb--30px">
+        <div class="color--blue container">
+            <div class="text-center title--bg title--bg-border title--bg-border-right" data-title-bg="STUDI KASUS">                            
+                <h1 class="mb-0 font-weight-bold fs-34">Pengalaman Bekerja Dari Rumah Menggunakan Dokodemo</h1>
+            </div>
+
+            <div class="fs-14 row justify-content-center">
+                <div class="col-md-10">
+                    <p>Dokodemo-Kerja telah membantu banyak perusahaan dalam meningkatkan produktivitas karyawan, menciptakan work life balance yang baik, penilaian kinerja karyawan yang lebih objektif, menciptakan sistem kerja fleksibel, dan lain-lain.</p>
+                    <p class="mb-0">Sebagai aplikasi atau software yang khusus dikembangkan untuk menunjang aktivitas Human Resource (HR tools), Dokodemo-Kerja diharapkan dapat membantu meningkatkan dan mempromosikan budaya kerja yang sehat, produktif, dan juga fleksibel sehingga menguntungkan pihak karyawan dan perusahaan.</p>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <section class="mb--30px py--30px color--blue bg--l-blue case-study__dokodemo">
+        <div class="container">
+            <div class="row justify-content-center">
+                <div class="col-md-10">
+                    <div class="row align-items-center">
+                        <div class="col-md-auto mb-4 mb-md-0">
+                            <h2 class="fs-34 font-weight-bold">“Dokodemo-Kerja”</h2>
+                            <h3 class="fs-14 text-right">sendiri merupakan</h3>
+                        </div>
+                        <div class="col-md">
+                            <p class="fs-14 mb-0">gabungan kata yang berasal dari bahasa Jepang dan Indonesia, yaitu kata "Dokodemo" yang berarti "Di mana saja" dan kata "Kerja", sehingga Dokodemo-Kerja dapat diartikan “bekerja dimana saja”.</p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <section class="mb--70px color--blue fs-14">
+        <div class="container">
+            <div class="row justify-content-center">
+                <div class="col-md-10">
+                    <p>Fleksibilitas Dokodemo-Kerja didukung oleh beragam fitur yang mampu mengakomodasi seluruh kebutuhan yang diperlukan oleh perusahaan dan karyawan. Mulai dari fitur absensi, perhitungan waktu kerja, fitur pengelolaan cuti karyawan hingga fitur GPS dan monitoring berupa random screen capture.</p>
+                    <p>Keunggulan-keunggulan Dokodemo-Kerja sebagai HR tools pun sudah banyak dirasakan oleh berbagai perusahaan yang menggunakannya. Mulai dari meningkatkan produktivitas dan profesionalitas hingga menumbuhkan Work Life Balance yang ideal bagi karyawan. Berikut studi kasus dari beberapa perusahaan termasuk Logique Digital Indonesia sebagai pengembang dan pengguna pertama aplikasi Dokodemo-Kerja.</p>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <section class="mb--70px color--blue bg--l-blue home__case-study">
+        <div class="py--60px container">
+            <div class="text-center title--bg title--bg-border title--bg-border-left" data-title-bg="Studi Kasus">                            
+                <h2 class="mb-0 font-weight-bold fs-34">Studi Kasus Lain</h2>
+            </div>
+            <div class="pt--20px row slick--blue-arrow case-study__slide">                
+                <div class="col-md-4">
+                    <a href="/ind/case-study/case-1" class="color--blue">
+                        <div class="case-study">
+                            <picture>
+                                <!-- <source srcset="/img/case-study/case-3.webp" type="image/webp"> -->
+                                <img src="/img/case-study/case-1.png" alt="" class="img-fluid mb-3 rounded-lg" loading="lazy">
+                            </picture>
+                            <h5 class="fs-20 font-weight-bold">Cerita Dokodemo-Kerja 1</h5>
+                            <p class="mb-0">PT. LOGIQUE Digital Indonesia</p>
+                        </div>
+                    </a>
+                </div>
+                <div class="col-md-4">                    
+                    <a href="/ind/case-study/case-2" class="color--blue">                        
+                        <div class="case-study">
+                            <picture>
+                                <!-- <source srcset="/img/case-study/case-3.webp" type="image/webp"> -->
+                                <img src="/img/case-study/case-2.png" alt="Computer placed on a table in a dimly lit room" class="img-fluid mb-3 rounded-lg" loading="lazy">
+                            </picture>
+                            <h5 class="fs-20 font-weight-bold">Cerita Dokodemo-Kerja 2</h5>
+                            <p class="mb-0">Perusahaan Pengembangan Sistem, PT. B</p>
+                        </div>
+                    </a>
+                </div>
+                <div class="col-md-4">
+                    <a href="/ind/case-study/case-3" class="color--blue">
+                        <div class="case-study">
+                            <picture>
+                                <source srcset="/img/case-study/case-3.webp" type="image/webp">
+                                <img src="/img/case-study/case-3.jpg" alt="" class="img-fluid mb-3 rounded-lg" loading="lazy">
+                            </picture>
+                            <h5 class="fs-20 font-weight-bold">Cerita Dokodemo-Kerja 3</h5>
+                            <p class="mb-0">Perusahaan Akuntansi, PT. A</p>
+                        </div>
+                    </a>
+                </div>
+                <div class="col-md-4">
+                    <a href="/ind/case-study/case-4" class="color--blue">
+                        <div class="case-study">
+                            <picture>
+                                <source srcset="/img/case-study/dokodemo-story-4-ghitta.webp" type="image/webp">
+                                <img src="/img/case-study/dokodemo-story-4-ghitta.jpg" alt="" class="img-fluid mb-3 rounded-lg" style="object-position: top;" loading="lazy">
+                            </picture>
+                            <h5 class="fs-20 font-weight-bold">Cerita Dokodemo-Kerja 4</h5>
+                            <p class="mb-0">PT. LOGIQUE Digital Indonesia</p>
+                        </div>
+                    </a>
+                </div>
+                <div class="col-md-4">
+                    <a href="/ind/case-study/case-5" class="color--blue">
+                        <div class="case-study">
+                            <picture>
+                                <source srcset="/img/case-study/dokodemo-story-5.webp" type="image/webp">
+                                <img src="/img/case-study/dokodemo-story-5.jpg" alt="" class="img-fluid mb-3 rounded-lg" loading="lazy">
+                            </picture>
+                            <h5 class="fs-20 font-weight-bold">Cerita Dokodemo-Kerja 5</h5>
+                            <p class="mb-0">PT. LOGIQUE Digital Indonesia</p>
+                        </div>
+                    </a>
+                </div>
+            </div>
+
+        </div>
+    </section>
+
+    <section class="mb--70px color--blue">
+        <div class="container">
+            <div class="row align-items-end">
+                <div class="col-md-6 order-last order-md-first">
+                    <div class="title--bg title--bg-border title--bg-border-right" data-title-bg="MUDAH">                            
+                        <h2 class="mb-0 font-weight-bold fs-34">KARYAWAN:</h2>
+                    </div>
+
+                    <p class="fs-20">Para Karyawan hanya "<span class="color--yellow font-weight-bold">Memulai</span>" atau "<span class="color--yellow font-weight-bold">Menghentikan</span>" aplikasi.</p>
+
+                    <ul class="fs-14 list-unstyled list--circle list--circle-border list--circle-border-bottom">
+                        <li>Dengan jam kerja yang fleksibel, pengguna akan dapat bekerja di mana saja, kapan saja.</li>
+                        <li>Saat istirahat, pengguna harus menekan tombol "stop", untuk menghitung jam kerja secara akurat.</li>
+                        <li>Pengguna dapat menjadi lebih efisien mengelola waktu untuk tugas mereka.</li>
+                    </ul>
+                
+                </div>
+                <div class="col-md-6">
+
+                    <div class="mb-4 mb-md-0 p-3 bg--l-blue rounded-lg border border--blue">
+                        <picture>
+                            <source srcset="/img/case-study/case-study-employee.webp" type="image/webp">
+                            <img src="/img/case-study/case-study-employee.jpg" alt="" class="w-100 img-fluid">
+                        </picture>
+                    </div>
+                
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <section class="mb--70px overflow-hidden color--blue">
+        <div class="container">
+            <div class="row align-items-center">
+                <div class="col-md-6">
+
+                    <div class="mb-4 mb-md-0 p-3 bg--l-blue rounded-lg border border--blue">
+                        <picture>
+                            <source srcset="/img/case-study/case-study-manager.webp" type="image/webp">
+                            <img src="/img/case-study/case-study-manager.jpg" alt="" class="w-100 img-fluid">
+                        </picture>
+                    </div>
+
+                </div>
+                <div class="col-md-6">
+                    <div class="title--bg title--bg-border title--bg-border-left" data-title-bg="Aplikasi">                            
+                        <h2 class="mb-0 font-weight-bold fs-34">MANAGER / HR:</h2>
+                    </div>
+
+                    <p class="fs-18">Managers dan tim HR dapat dengan mudah melacak jam kerja semua orang dan aktivitas mereka. Berikut contoh kebijakan yang bisa diterapkan saat menggunakan Dokodemo-Kerja</p>
+
+                    <ul class="fs-14 list-unstyled list--circle list--circle-border list--circle-border-bottom">
+                        <li>HR dapat menugaskan satu anggota staf untuk memantau semua kegiatan yang terkait dengan Dokodemo.</li>
+                        <li>Staf dapat mengelola kerangka waktu kerja dan komentar karyawan.</li>
+                        <li>Jika tangkapan layar karyawan menunjukkan tiga gambar yang sama secara berurutan, HR kemudian dapat mengambil tindakan lebih lanjut yang difasilitasi oleh bukti.</li>
+                    </ul>
+
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- <section>
         <div class="container">
             <nav aria-label="breadcrumb">
                 <ol class="breadcrumb breadcrumb--main">
@@ -160,10 +341,38 @@
                 </div>
             </div>
         </div>
-    </section>
+    </section> -->
     
 </div>
     
 <?php include($_SERVER['DOCUMENT_ROOT'].'/ind/component/demo-banner.php'); ?>
 <?php include($_SERVER['DOCUMENT_ROOT'].'/ind/component/footer.php'); ?>
+
+<script>
+    $(function() {        
+        $(".case-study__slide").slick({
+            slidesToShow: 3,
+            slidesToScroll: 1,
+            arrows: true,
+            responsive: [
+                {
+                    breakpoint: 991,
+                    settings: {
+                        slidesToShow: 2,
+                    }
+                },
+                {
+                    breakpoint: 767,
+                    settings: {
+                        slidesToShow: 1,
+                    }
+                }
+                // You can unslick at a given breakpoint now by adding:
+                // settings: "unslick"
+                // instead of a settings object
+            ]
+
+        })
+    });
+</script>
 <?php include($_SERVER['DOCUMENT_ROOT'].'/component/footer-end.php') ?>

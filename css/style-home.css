@@ -8,22 +8,6 @@
     margin-bottom: 1rem;
 }
 
-.home .home__banner .banner__list.list--circle li {
-    padding-top: 25px;
-}
-
-.home .home__banner .banner__list.list--circle li:not(:last-child) {
-    padding-bottom: 25px;
-    border-bottom: solid 1px;
-}
-
-.home .home__banner .banner__list.list--circle li:after {
-    top: 32px;
-    left: 0;
-    width: 15px;
-    height: 15px;
-}
-
 .home .home__banner .loader {
     top: -60px;
 }

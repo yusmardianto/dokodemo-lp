@@ -93,7 +93,7 @@
             </div>
             <div class="row align-items-center">
                 <div class="col-md-6 mb-4 mb-lg-0">
-                    <ul class="list-unstyled banner__list list--circle">
+                    <ul class="list-unstyled banner__list list--circle list--circle-border">
                         <li>勤務時間・タスク内容を記録します。日別・週別・月別の労働時間が集計されるので容易に管理できます。</li>
                         <li>ランダムに作業スクリーンをキャプチャしてサーバーに送信します。（プライバシーに配慮した解像度になっています）</li>
                         <li>外回りの社員に対しては、スマホアプリを使用することで勤務時間と勤務場所（GPSトラッキング)を管理可能です。</li>

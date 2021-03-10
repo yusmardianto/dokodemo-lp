@@ -11,13 +11,133 @@
 
     $canonical_link = 'https://dokodemo-kerja.com/jpn/case-study/';
 
-    $add_css = '<link rel="stylesheet" href="/css/style-case-study.css" />';
+    $add_css = '
+    <link rel="stylesheet" href="/css/slick.css" />
+    <link rel="stylesheet" href="/css/slick-theme.css" />
+    <link rel="stylesheet" href="/css/style-home.css" />
+    <link rel="stylesheet" href="/css/style-case-study.css" />';
 
     include($_SERVER['DOCUMENT_ROOT'].'/jpn/component/header.php');
 ?>
 
-<div class="">
-    <section>
+<div class="case-study home">
+
+    <section class="mb--30px">
+        <div class="color--blue container">
+            <div class="text-center title--bg title--bg-border title--bg-border-right" data-title-bg="事例">                            
+                <h1 class="mb-0 font-weight-bold fs-34">事例：Dokodemo-Kerjaの活用事例</h1>
+            </div>
+
+            <div class="fs-14 row justify-content-center">
+                <div class="col-md-10">
+                    <p>Dokodemo-Kerjaは、従業員の生産性レベルの向上、良好なワークライフバランスの実現、より客観的な従業員の業績評価、柔軟な人事ルール導入など、さまざまな点で多くの企業にメリットをもたらしてきました。</p>
+                    <p class="mb-0">Dokodemo-Kerjaは、インドネシアの会社の人事部門をサポートするために特別に開発されたアプリケーションとして、従業員と雇用者の両方に利益をもたらす、生産的かつ柔軟な勤務を促進することを目的としています。</p>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <section class="mb--30px py--30px color--blue bg--l-blue case-study__dokodemo">
+        <div class="container">
+            <div class="row justify-content-center">
+                <div class="col-md-10">
+                    <div class="row align-items-center">
+                        <div class="col-md-auto mb-4 mb-md-0">
+                            <h2 class="fs-34 font-weight-bold">「ドコデモクルジャ」</h2>
+                            <h3 class="fs-14 text-right">という名前は、</h3>
+                        </div>
+                        <div class="col-md">
+                            <p class="fs-14 mb-0">日本語とインドネシア語の両方の単語、「どこでも」と「仕事」を意味するインドネシア語を組み合わせたもので、このツールの導入で、どこでも働けるようになることを意味して付けられた名前です。</p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <section class="mb--70px color--blue fs-14">
+        <div class="container">
+            <div class="row justify-content-center">
+                <div class="col-md-10">
+                    <p>Dokodemo-Kerjaは、勤怠管理機能、正確に労働時間を計算する機能、従業員の休暇管理機能からGPS追跡に至るまで、会社と従業員の両方が必要とするすべてのニーズに対応できるさまざまな機能によってサポートされています。ランダムにスクリーンキャプチャを取得する機能がドコデモクルジャをユニークで非常に有効なツールにしている重要な要因になっています。</p>
+                    <p>HRツールとしてのDokodemo-Kerjaの利点は、それを利用しているさまざまな企業によって証明されています。職場での生産性とプロ意識の向上から、従業員の理想的なワークライフバランスを促進する能力まで。以下は、アプリの開発者であり、最初に実装したLogique DigitalIndonesiaを含むいくつかの企業のケーススタディです。</p>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <section class="mb--70px color--blue bg--l-blue home__case-study">
+        <div class="py--60px container">
+            <div class="text-center title--bg title--bg-border title--bg-border-left" data-title-bg="事例">                            
+                <h2 class="mb-0 font-weight-bold fs-34">事例</h2>
+            </div>
+            <div class="pt--20px row slick--blue-arrow case-study__slide">                
+                <div class="col-md-4">
+                    <a href="/jpn/case-study/case-1" class="color--blue">
+                        <div class="case-study">
+                            <picture>
+                                <!-- <source srcset="/img/case-study/case-3.webp" type="image/webp"> -->
+                                <img src="/img/case-study/case-1.png" alt="" class="img-fluid mb-3 rounded-lg" loading="lazy">
+                            </picture>
+                            <h5 class="fs-20 font-weight-bold">「Dokodemo-Kerja」活用ストーリー1</h5>
+                            <p class="mb-0">PT. LOGIQUE Digital Indonesia</p>
+                        </div>
+                    </a>
+                </div>
+                <div class="col-md-4">                    
+                    <a href="/jpn/case-study/case-2" class="color--blue">                        
+                        <div class="case-study">
+                            <picture>
+                                <!-- <source srcset="/img/case-study/case-3.webp" type="image/webp"> -->
+                                <img src="/img/case-study/case-2.png" alt="Computer placed on a table in a dimly lit room" class="img-fluid mb-3 rounded-lg" loading="lazy">
+                            </picture>
+                            <h5 class="fs-20 font-weight-bold">「Dokodemo-Kerja」活用ストーリー2</h5>
+                            <p class="mb-0">システム開発会社B社</p>
+                        </div>
+                    </a>
+                </div>
+                <div class="col-md-4">
+                    <a href="/jpn/case-study/case-3" class="color--blue">
+                        <div class="case-study">
+                            <picture>
+                                <source srcset="/img/case-study/case-3.webp" type="image/webp">
+                                <img src="/img/case-study/case-3.jpg" alt="" class="img-fluid mb-3 rounded-lg" loading="lazy">
+                            </picture>
+                            <h5 class="fs-20 font-weight-bold">「Dokodemo-Kerja」活用ストーリー3</h5>
+                            <p class="mb-0">Accounting Firm A社</p>
+                        </div>
+                    </a>
+                </div>
+                <div class="col-md-4">
+                    <a href="/jpn/case-study/case-4" class="color--blue">
+                        <div class="case-study">
+                            <picture>
+                                <source srcset="/img/case-study/dokodemo-story-4-ghitta.webp" type="image/webp">
+                                <img src="/img/case-study/dokodemo-story-4-ghitta.jpg" alt="" class="img-fluid mb-3 rounded-lg" style="object-position: top;" loading="lazy">
+                            </picture>
+                            <h5 class="fs-20 font-weight-bold">「Dokodemo-Kerja」活用ストーリー4</h5>
+                            <p class="mb-0">PT. LOGIQUE Digital Indonesia</p>
+                        </div>
+                    </a>
+                </div>
+                <div class="col-md-4">
+                    <a href="/jpn/case-study/case-5" class="color--blue">
+                        <div class="case-study">
+                            <picture>
+                                <source srcset="/img/case-study/dokodemo-story-5.webp" type="image/webp">
+                                <img src="/img/case-study/dokodemo-story-5.jpg" alt="" class="img-fluid mb-3 rounded-lg" loading="lazy">
+                            </picture>
+                            <h5 class="fs-20 font-weight-bold">「Dokodemo-Kerja」活用ストーリー5</h5>
+                            <p class="mb-0">PT. LOGIQUE Digital Indonesia</p>
+                        </div>
+                    </a>
+                </div>
+            </div>
+
+        </div>
+    </section>
+
+    <!-- <section>
         <div class="container">
             <nav aria-label="breadcrumb">
                 <ol class="breadcrumb breadcrumb--main">
@@ -99,9 +219,36 @@
                 </div>
             </div>
         </div>
-    </section>
+    </section> -->
 </div>
 
 <?php include($_SERVER['DOCUMENT_ROOT'].'/jpn/component/demo-banner.php'); ?>
 <?php include($_SERVER['DOCUMENT_ROOT'].'/jpn/component/footer.php'); ?>
+<script>
+    $(function() {        
+        $(".case-study__slide").slick({
+            slidesToShow: 3,
+            slidesToScroll: 1,
+            arrows: true,
+            responsive: [
+                {
+                    breakpoint: 991,
+                    settings: {
+                        slidesToShow: 2,
+                    }
+                },
+                {
+                    breakpoint: 767,
+                    settings: {
+                        slidesToShow: 1,
+                    }
+                }
+                // You can unslick at a given breakpoint now by adding:
+                // settings: "unslick"
+                // instead of a settings object
+            ]
+
+        })
+    });
+</script>
 <?php include($_SERVER['DOCUMENT_ROOT'].'/component/footer-end.php') ?>

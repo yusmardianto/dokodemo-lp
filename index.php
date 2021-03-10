@@ -93,7 +93,7 @@
                 </div>
                 <div class="row align-items-center">
                     <div class="col-md-6 mb-4 mb-lg-0">
-                        <ul class="list-unstyled banner__list list--circle">
+                        <ul class="list-unstyled banner__list list--circle list--circle-border">
                             <li>Track tasks and calculate overall working hours.</li>
                             <li>Randomly captures desktop screen activity and sends the screenshots to the server (with resolutions that are privacy-friendly).</li>
                             <li>Through using the smartphone application, work hours and location management is now easier to manage (Through GPS tracking) for employees travelling outside of the office.</li>
