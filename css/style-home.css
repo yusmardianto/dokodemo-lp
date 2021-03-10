@@ -88,8 +88,15 @@
 }
 
 /* case study */
-.home .home__case-study {
+.webp .home .home__case-study {
+    background-image: url("/img/home/home-case-study-bg.webp");
+}
+
+.no-webp .home .home__case-study {
     background-image: url("/img/home/home-case-study-bg.png");
+}
+
+.home .home__case-study {
     background-position: center;
     background-size: 100% auto;
     background-repeat: no-repeat;

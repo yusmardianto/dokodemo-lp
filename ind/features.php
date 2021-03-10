@@ -19,6 +19,16 @@
 ?>
 
 <div class="color--blue features">
+    <section>
+        <div class="container">
+            <nav aria-label="breadcrumb">
+                <ol class="breadcrumb breadcrumb--main">
+                    <li class="breadcrumb-item"><a href="/ind/">Beranda</a></li>
+                    <li class="breadcrumb-item active" aria-current="page">Fitur</li>
+                </ol>
+            </nav>
+        </div>
+    </section>
 
     <section class="mt--30px mb--40px features__title">
         <div class="container">

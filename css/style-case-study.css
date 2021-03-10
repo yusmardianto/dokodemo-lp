@@ -1,21 +1,3 @@
-/* override bootstrap breadcrumb */
-.breadcrumb {
-    background: none;
-    margin-bottom: 55px;
-    padding-left: 0;
-}
-.breadcrumb > .breadcrumb-item > a {
-    color: #000;
-}
-.breadcrumb > .breadcrumb-item.active > a {
-    color: #ccc;
-}
-.breadcrumb-item + .breadcrumb-item::before {
-    color: #000;
-    content: "\003E";
-}
-/* end override bootstrap breadcrumb */
-
 /* case study section */
 .case-study__card {
     margin-bottom: 35px;

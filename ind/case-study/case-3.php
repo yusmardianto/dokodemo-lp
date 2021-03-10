@@ -1,13 +1,13 @@
 <?php 
     $page = 'case-study/case-3';
-    $page_title = 'Manajemen Kerja Remote | Dokodemo-Kerja Kasus #3';
+    $page_title = 'Management Kerja Remote dengan Dokodemo-Kerja';
 
-    $meta_description = 'Studi Kasus Dokodemo-Kerja meneliti penggunaan alat HR yang dikembangkan oleh Logique terhadap bisnis akunting, dan efek dari strategi kerja jarak jauh.';
+    $meta_description = 'Dokodemo-Kerja membantu perusahaan agar bisa menerapkan sistem management kerja remote yang fleksibel dan mampu mengontrol jadual kerja shift dengan baik.';
     $meta_keyword = 'dokodemo, dokodemo-kerja, kasus dokodemo, dokodemo story, alat kantor akuntan, logique digital Indonesia, THR, pemantauan karyawan, manajemen SDM, manajemen HR, alat manajemen, departemen SDM, departemen HR';
 
-    $og_title = 'Manajemen Kerja Remote | Dokodemo-Kerja Kasus #3';
+    $og_title = 'Management Kerja Remote dengan Dokodemo-Kerja';
     $og_image = 'https://dokodemo-kerja.com/img/dokodemo-og.jpg';
-    $og_desription = 'Studi Kasus Dokodemo-Kerja meneliti penggunaan alat HR yang dikembangkan oleh Logique terhadap bisnis akunting, dan efek dari strategi kerja jarak jauh.';
+    $og_desription = 'Dokodemo-Kerja membantu perusahaan agar bisa menerapkan sistem management kerja remote yang fleksibel dan mampu mengontrol jadual kerja shift dengan baik.';
 
     $canonical_link = 'https://dokodemo-kerja.com/ind/case-study/case-3';
 
@@ -18,10 +18,10 @@
 
 <div class="">
     <section>
-        <div class="container pl-lg-0">
+        <div class="container">
             <nav aria-label="breadcrumb">
-                <ol class="breadcrumb">
-                    <li class="breadcrumb-item"><a href="/ind/">Dokodemo-Kerja Home</a></li>
+                <ol class="breadcrumb breadcrumb--main">
+                    <li class="breadcrumb-item"><a href="/ind/">Beranda</a></li>
                     <li class="breadcrumb-item"><a href="/ind/case-study/">Studi Kasus</a></li>
                     <li class="breadcrumb-item active" aria-current="page">Kasus 3</li>
                 </ol>

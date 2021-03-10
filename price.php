@@ -1,13 +1,13 @@
 <?php 
     $page = 'price';
-    $page_title = 'Remote Work Management Tool Dokodemo-Kerja Prices';
+    $page_title = 'Attendance Management Software Pricing | Dokodemo-Kerja';
 
-    $meta_description = 'Dokodemo-Kerja is an HR management and remote work tool that allows for better employee attendance management for a reasonable price. Developed and sold in Indonesia.';
+    $meta_description = 'Dokodemo-Kerja is an HR management and remote work software that allows for better employee attendance management for a reasonable price. Developed and sold in Indonesia.';
     $meta_keyword = 'Dokodemo-Kerja, remote working strategies, employee productivity, employee performance, management software, enterprise software, cheap enterprise software, overtime work, human resource tool, cheap management tool';
 
-    $og_title = 'Remote Work Management Tool Dokodemo-Kerja Pricing';
+    $og_title = 'Attendance Management Software Pricing | Dokodemo-Kerja';
     $og_image = 'https://dokodemo-kerja.com/img/og-img/price.jpg';
-    $og_desription = 'Dokodemo-Kerja: an effective attendance management & remote work management tool for only 1 Million IDR per month.';
+    $og_desription = 'Dokodemo-Kerja is an HR management and remote work software that allows for better employee attendance management for a reasonable price. Developed and sold in Indonesia.';
 
     $canonical_link = 'https://dokodemo-kerja.com/price';
 
@@ -17,6 +17,17 @@
 ?>
 
 <div class="">
+
+    <section>
+        <div class="container">
+            <nav aria-label="breadcrumb">
+                <ol class="breadcrumb breadcrumb--main">
+                    <li class="breadcrumb-item"><a href="/">Home</a></li>
+                    <li class="breadcrumb-item active" aria-current="page">Price</li>
+                </ol>
+            </nav>
+        </div>
+    </section>
 
     <section class="price-plans">
         <div class="container mb-3">

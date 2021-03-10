@@ -32,6 +32,17 @@ require '../action/c-trial.php';
 
 <div class="">
 
+	<section>
+		<div class="container">
+			<nav aria-label="breadcrumb">
+				<ol class="breadcrumb breadcrumb--main">
+					<li class="breadcrumb-item"><a href="/ind/">Beranda</a></li>
+					<li class="breadcrumb-item active" aria-current="page">Demo</li>
+				</ol>
+			</nav>
+		</div>
+	</section>
+
 	<section class="intro-section text-center px-4">
 		<h1 class="banner-text-white">Coba Demo Gratis Dulu</h1>
 		<img src="/img/home/arrow-down.svg" class="pt-4 pb-3" width="20" alt=""/>
@@ -57,13 +68,13 @@ require '../action/c-trial.php';
 					<h3 class="download-title hidden-xs">Install demo aplikasi dari link dibawah ini:</h3>
 					<div class="row">
 						<div class="col-md-4">
-							<a target="_blank" href="https://drive.google.com/file/d/1DkDLY7qhuf--1PbI7f1ZI2UlFVxo4ugl/view?usp=sharing" class="btn btn-download bold hidden-xs" id="btn-download-windows-id"><i class="fa fa-download icon-download"></i>Windows</a>
+							<a target="_blank" href="https://drive.google.com/file/d/1q59CzDevBq5udGadJuaVLUbCJTBWULZQ/view?usp=sharing" class="btn btn-download bold hidden-xs" id="btn-download-windows-id"><i class="fa fa-download icon-download"></i>Windows</a>
 						</div>
 						<div class="col-md-4">
-							<a target="_blank" href="https://drive.google.com/file/d/1zAvBoFP2HsTqJSoV8an0fJg4L2BGSUzi/view?usp=sharing" class="btn btn-download bold hidden-xs" id="btn_download_mac_id"><i class="fa fa-download icon-download"></i>Mac OS</a>
+							<a target="_blank" href="https://drive.google.com/file/d/1f5JeqYJBCVDr8NKodaxrA9pF5lX0zyIn/view?usp=sharing" class="btn btn-download bold hidden-xs" id="btn_download_mac_id"><i class="fa fa-download icon-download"></i>Mac OS</a>
 						</div>
 						<div class="col-md-4">
-							<a target="_blank" href="https://drive.google.com/file/d/1f5SxHEsLqxzGlNFmz6VSl8VHPVNj69zW/view?usp=sharing" class="btn btn-download bold hidden-xs" id="btn-download-linux-id"><i class="fa fa-download icon-download"></i>Linux</a>
+							<a target="_blank" href="https://drive.google.com/file/d/1Qm5Vg4h6skbQNergrsFPW0IMtUYx0XkD/view?usp=sharing" class="btn btn-download bold hidden-xs" id="btn-download-linux-id"><i class="fa fa-download icon-download"></i>Linux</a>
 						</div>
 					</div>
 					<div class="row">

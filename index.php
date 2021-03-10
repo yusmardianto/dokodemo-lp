@@ -1,13 +1,13 @@
 <?php 
     $page = '';
-    $page_title = 'Attendance Management & Remote Working System in Indonesia';
+    $page_title = 'Attendance Management Software & Remote Working System';
 
-    $meta_description = 'Dokodemo-Kerja is an Indonesian based attendance management and remote work hr tool, which improves productivity & gives employee’s the freedom to work anywhere.';
+    $meta_description = 'Dokodemo-Kerja is an Indonesian based attendance management software & remote work hr tool, which improves employee productivity both in the office & at home.';
     $meta_keyword = 'dokodemo, dokodemo-kerja, dokodemo kerja, work everywhere, work whenever, work wherever, project management tool, project management software, human resource tool, human resource software, monitoring software, monitoring tool, monitor desktop, monitor with privacy, low res monitoring, low resolution monitoring, time tracker, logique product, pt logique';
 
     $og_title = 'Attendance Management & Productivity Tool | Dokodemo-Kerja';
     $og_image = 'https://dokodemo-kerja.com/img/og-img/index.jpg';
-    $og_desription = 'Dokodemo-Kerja is a cloud based HR tool developed by LOGIQUE | Better attendance and work outcomes from employees in a privacy-friendly manner.';
+    $og_desription = 'Dokodemo-Kerja is an Indonesian based attendance management software & remote work hr tool, which improves employee productivity both in the office & at home.';
 
     $canonical_link = 'https://dokodemo-kerja.com/';
 
@@ -33,7 +33,7 @@
                                 <div class="text-center">
                                     <picture>
                                         <source srcset="/img/home/home-cost.svg">
-                                        <img src="/img/home/home-cost.png" alt="cost effective" class="img-fluid">
+                                        <img src="/img/home/home-cost.png" alt="cost effective" class="img-fluid" loading="lazy">
                                     </picture>
                                     <h5 class="mb-0 fs-18 font-weight-bold">Cost Effective</h5>
                                     <p class="fs-14">Rp 1Mio / Month</p>
@@ -43,7 +43,7 @@
                                 <div class="text-center">
                                     <picture>
                                         <source srcset="/img/home/home-minimum.svg">
-                                        <img src="/img/home/home-minimum.png" alt="no minimum" class="img-fluid">
+                                        <img src="/img/home/home-minimum.png" alt="no minimum" class="img-fluid" loading="lazy">
                                     </picture>
                                     <h5 class="mb-0 fs-18 font-weight-bold">No Minimum</h5>
                                     <p class="fs-14">Contract Period</p>
@@ -53,7 +53,7 @@
                                 <div class="text-center">
                                     <picture>
                                         <source srcset="/img/home/home-setup.svg">
-                                        <img src="/img/home/home-setup.png" alt="easy setup" class="img-fluid">
+                                        <img src="/img/home/home-setup.png" alt="easy setup" class="img-fluid" loading="lazy">
                                     </picture>
                                     <h5 class="mb-0 fs-18 font-weight-bold">Easy Setup</h5>
                                     <p class="fs-14">You can start today</p>
@@ -66,7 +66,7 @@
                             <source srcset="/img/home/home-banner.webp" type="image/webp">
                             <img src="/img/home/home-banner.png" alt="Dokodemo Remote Working" class="img-fluid mb-4 mb-lg-0">
                         </picture> -->
-                        <div class="d-flex justify-content-center align-items-center">
+                        <div class="d-none d-md-flex justify-content-center align-items-center">
                             <div class="w-100 mb-4 mb-lg-0 banner__animation" id="homepage_animation"></div>
                             <div class="loader">Loading...</div>
                         </div>
@@ -89,7 +89,6 @@
                                 </div>
                             </div>
                         </div>
-                        <p class="mb--70px text-center">Dokodemo-Kerja is both an attendance & remote work management tool that allows for flexible work styles beneficial to both the company and employee alike through recording working hours no matter where the location. Since it is able manage work hours accurately, it makes calculating overtime hours and the number of paid leaves a much more efficient endeavor. Also, by taking and managing screenshots during the work session, one can discourage slacking during working hours.</p>
                     </div>
                 </div>
                 <div class="row align-items-center">
@@ -114,16 +113,67 @@
             </div>
         </section>
 
+        <section class="color--blue pb--60px home__schedule">
+            <div class="container">
+                <div class="row">
+                    <div class="col-md-6 mb-3 mb-md-0">
+                        <div class="bg--l-blue rounded-lg text-center schedule">
+                            <h5 class="font-weight-bold mb-4 fs-20">Schedule Online Meeting</h5>
+                            <div class="row justify-content-center">
+                                <div class="col-md-8">
+                                    <picture>
+                                        <source srcset="/img/home/schedule-online.svg">
+                                        <img src="/img/home/schedule-online.png" alt="online meeting" class="img-fluid" loading="lazy">
+                                    </picture>
+                                </div>
+                                <div class="col-md-8">
+                                    <p class="my-4">Set up an online consultation with our team for a software demo</p>
+                                </div>
+                                <div class="col-md-6">
+                                    <button type="button" id="btn_online_meet_form_en" class="form-control btn btn--rounded bg--yellow" data-title="online" data-toggle="modal" data-target="#meetingSchedule">
+                                        Online
+                                    </button>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-md-6">
+                        <div class="bg--l-blue rounded-lg text-center schedule">
+                            <h5 class="font-weight-bold mb-4 fs-20">Schedule Offline Meeting</h5>
+                            <div class="row justify-content-center">
+                                <div class="col-md-8">
+                                    <picture>
+                                        <source srcset="/img/home/schedule-offline.svg">
+                                        <img src="/img/home/schedule-offline.png" alt="offline meeting" class="img-fluid" loading="lazy">
+                                    </picture>
+                                </div>
+                                <div class="col-md-8">
+                                    <p class="my-4">Set up an offline consultation with our team for a software demo</p>
+                                </div>
+                                <div class="col-md-6">
+                                    <button type="button" id="btn_offline_meet_form_en" class="form-control btn btn--rounded bg--yellow" data-title="offline" data-toggle="modal" data-target="#meetingSchedule">
+                                        Offline
+                                    </button>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
+                <p class="pt--60px text-center">Dokodemo-Kerja is both an attendance & remote work management tool that allows for flexible work styles beneficial to both the company and employee alike through recording working hours no matter where the location. Since it is able manage work hours accurately, it makes calculating overtime hours and the number of paid leaves a much more efficient endeavor. Also, by taking and managing screenshots during the work session, one can discourage slacking during working hours.</p>
+            </div>
+        </section>
+
         <section class="bg--l-blue home__feature">
             <div class="py--60px position-relative container">
                 <div class="feature__bg-accent">
                     <picture>
                         <source srcset="/img/icon/icon-meeting-accent.svg">
-                        <img src="/img/icon/icon-meeting-accent-full.png" alt="" class="img-fluid position-absolute bg-accent__img">
+                        <img src="/img/icon/icon-meeting-accent-full.png" alt="" class="img-fluid position-absolute bg-accent__img" loading="lazy">
                     </picture>
                     <picture>
                         <source srcset="/img/icon/icon-meeting-accent.svg">
-                        <img src="/img/icon/icon-meeting-accent-full.png" alt="" class="img-fluid position-absolute bg-accent__img">
+                        <img src="/img/icon/icon-meeting-accent-full.png" alt="" class="img-fluid position-absolute bg-accent__img" loading="lazy">
                     </picture>
                 </div>
                 <div class="row">
@@ -134,28 +184,28 @@
                                     <div>
                                         <a href="/img/features/home_01.png" data-source="/img/features/home_01.png" title="Daily Working Screen Capture" aria-label="Daily Working Screen Capture">
                                         <div class="image--wrapper">
-                                            <img src="/img/features/home_01-com.jpg" class="border border--blue" alt="Screenshot of the Dokodemo-Kerja Application" />
+                                            <img src="/img/features/home_01-com.jpg" class="border border--blue" alt="Attendance Management Software" loading="lazy" />
                                         </div>    
                                         </a>
                                     </div>
                                     <div>
                                         <a href="/img/features/home_02.png" data-source="/img/features/home_02.png" title="Daily Working Screen Capture" aria-label="Daily Working Screen Capture">
                                         <div class="image--wrapper">
-                                            <img src="/img/features/home_02-com.jpg" class="border border--blue" alt="Screenshot of the Dokodemo-Kerja Application" />
+                                            <img src="/img/features/home_02-com.jpg" class="border border--blue" alt="Attendance Management Software" loading="lazy" />
                                         </div>    
                                         </a>
                                     </div>
                                     <div>
                                         <a href="/img/features/home_03.png" data-source="/img/features/home_03.png" title="Daily Working Screen Capture" aria-label="Daily Working Screen Capture">
                                         <div class="image--wrapper">
-                                            <img src="/img/features/home_03-com.jpg" class="border border--blue" alt="Screenshot of the Dokodemo-Kerja Application" />
+                                            <img src="/img/features/home_03-com.jpg" class="border border--blue" alt="Attendance Management Software" loading="lazy" />
                                         </div>    
                                         </a>
                                     </div>
                                     <div>
                                         <a href="/img/features/home_04.png" data-source="/img/features/home_04.png" title="Daily Working Screen Capture" aria-label="Daily Working Screen Capture">
                                         <div class="image--wrapper">
-                                            <img src="/img/features/home_04-com.jpg" class="border border--blue" alt="Screenshot of the Dokodemo-Kerja Application" />
+                                            <img src="/img/features/home_04-com.jpg" class="border border--blue" alt="Attendance Management Software" loading="lazy" />
                                         </div>    
                                         </a>
                                     </div>
@@ -164,7 +214,7 @@
                                         <div class="image--wrapper">
                                             <picture>
                                                 <source srcset="/img/features/home_tracking-com.webp" type="image/webp">
-                                                <img src="/img/features/home_tracking-com.jpg" class="border border--blue" alt="Dokodemo GPS features" />
+                                                <img src="/img/features/home_tracking-com.jpg" class="border border--blue" alt="Dokodemo GPS features" loading="lazy" />
                                             </picture>
                                         </div>    
                                         </a>
@@ -174,19 +224,19 @@
                             </div>
                             <div class="slide__nav">
                                 <div class="nav__img">
-                                    <img src="/img/features/home_01-com.jpg" class="img-fluid rounded-lg" alt="Screenshot of the Dokodemo-Kerja Application" />
+                                    <img src="/img/features/home_01-com.jpg" class="img-fluid rounded-lg" alt="Attendance Management Software" loading="lazy" />
                                 </div>
                                 <div class="nav__img">
-                                    <img src="/img/features/home_02-com.jpg" class="img-fluid rounded-lg" alt="Screenshot of the Dokodemo-Kerja Application" />
+                                    <img src="/img/features/home_02-com.jpg" class="img-fluid rounded-lg" alt="Attendance Management Software" loading="lazy" />
                                 </div>
                                 <div class="nav__img">
-                                    <img src="/img/features/home_03-com.jpg" class="img-fluid rounded-lg" alt="Screenshot of the Dokodemo-Kerja Application" />
+                                    <img src="/img/features/home_03-com.jpg" class="img-fluid rounded-lg" alt="Attendance Management Software" loading="lazy" />
                                 </div>
                                 <div class="nav__img">
-                                    <img src="/img/features/home_04-com.jpg" class="img-fluid rounded-lg" alt="Screenshot of the Dokodemo-Kerja Application" />
+                                    <img src="/img/features/home_04-com.jpg" class="img-fluid rounded-lg" alt="Attendance Management Software" loading="lazy" />
                                 </div>
                                 <div class="nav__img">
-                                    <img src="/img/features/home_tracking-com.jpg" class="img-fluid rounded-lg" alt="Dokodemo GPS features" />
+                                    <img src="/img/features/home_tracking-com.jpg" class="img-fluid rounded-lg" alt="Dokodemo GPS features" loading="lazy" />
                                 </div>
                             </div>
                         </div>
@@ -222,7 +272,7 @@
                         <div class="bg--l-blue shadow--blue p-3 rounded-lg">
                             <picture>
                                 <source srcset="/img/home/benefit-image.webp" type="image/webp">
-                                <img src="/img/home/benefit-image.jpg" alt="benefit dokodemo" class="img-fluid rounded-lg">
+                                <img src="/img/home/benefit-image.jpg" alt="benefit dokodemo" class="img-fluid rounded-lg" loading="lazy">
                             </picture>
                         </div>
                     </div>
@@ -240,7 +290,7 @@
                                 <div class="col-4 col-lg-6 mb-3 mb-lg-0 order-first order-md-last text-center">
                                     <picture>
                                         <source srcset="/img/home/benefit-saving.webp" type="image/webp">
-                                        <img src="/img/home/benefit-saving.png" alt="Cost Saving" class="img-fluid" width="150px">
+                                        <img src="/img/home/benefit-saving.png" alt="Cost Saving" class="img-fluid" width="150px" loading="lazy">
                                     </picture>
                                 </div>
                             </div>
@@ -252,7 +302,7 @@
                                 <div class="col-4 col-lg-6 mb-3 mb-lg-0 text-center">
                                     <picture>
                                         <source srcset="/img/home/benefit-productivity.webp" type="image/webp">
-                                        <img src="/img/home/benefit-productivity.png" alt="Increased Productivity" class="img-fluid" width="150px">
+                                        <img src="/img/home/benefit-productivity.png" alt="Increased Productivity" class="img-fluid" width="150px" loading="lazy">
                                     </picture>
                                 </div>
                                 <div class="col-md-8 col-lg-6">
@@ -272,7 +322,7 @@
                                 <div class="col-4 col-lg-6 mb-3 mb-lg-0 order-first order-md-last text-center">
                                     <picture>
                                         <source srcset="/img/home/benefit-hiring.webp" type="image/webp">
-                                        <img src="/img/home/benefit-hiring.png" alt="Universal Hiring" class="img-fluid" width="150px">
+                                        <img src="/img/home/benefit-hiring.png" alt="Universal Hiring" class="img-fluid" width="150px" loading="lazy">
                                     </picture>
                                 </div>
                             </div>
@@ -284,7 +334,7 @@
                                 <div class="col-4 col-lg-6 mb-3 mb-lg-0 text-center">
                                     <picture>
                                         <source srcset="/img/home/benefit-retain.webp" type="image/webp">
-                                        <img src="/img/home/benefit-retain.png" alt="Retain Employees" class="img-fluid" width="150px">
+                                        <img src="/img/home/benefit-retain.png" alt="Retain Employees" class="img-fluid" width="150px" loading="lazy">
                                     </picture>
                                 </div>
                                 <div class="col-md-8 col-lg-6">
@@ -304,7 +354,7 @@
                                 <div class="col-4 col-lg-6 mb-3 mb-lg-0 order-first order-md-last text-center">
                                     <picture>
                                         <source srcset="/img/home/benefit-evaluation.webp" type="image/webp">
-                                        <img src="/img/home/benefit-evaluation.png" alt="Accurate Evaluation" class="img-fluid" width="150px">
+                                        <img src="/img/home/benefit-evaluation.png" alt="Accurate Evaluation" class="img-fluid" width="150px" loading="lazy">
                                     </picture>
                                 </div>
                             </div>
@@ -330,7 +380,7 @@
                             <div class="case-study">
                                 <picture>
                                     <source srcset="/img/case-study/case-3.webp" type="image/webp">
-                                    <img src="/img/case-study/case-3.jpg" alt="" class="img-fluid mb-3 rounded-lg">
+                                    <img src="/img/case-study/case-3.jpg" alt="" class="img-fluid mb-3 rounded-lg" loading="lazy">
                                 </picture>
                                 <h5 class="fs-20 font-weight-bold">Dokodemo-Kerja Story 3</h5>
                                 <p class="mb-0">Accounting Firm, Company A</p>
@@ -342,7 +392,7 @@
                             <div class="case-study">
                                 <picture>
                                     <source srcset="/img/case-study/dokodemo-story-4-ghitta.webp" type="image/webp">
-                                    <img src="/img/case-study/dokodemo-story-4-ghitta.jpg" alt="" class="img-fluid mb-3 rounded-lg" style="object-position: top;">
+                                    <img src="/img/case-study/dokodemo-story-4-ghitta.jpg" alt="" class="img-fluid mb-3 rounded-lg" style="object-position: top;" loading="lazy">
                                 </picture>
                                 <h5 class="fs-20 font-weight-bold">Dokodemo-Kerja Story 4</h5>
                                 <p class="mb-0">PT. LOGIQUE Digital Indonesia</p>
@@ -354,7 +404,7 @@
                             <div class="case-study">
                                 <picture>
                                     <source srcset="/img/case-study/dokodemo-story-5.webp" type="image/webp">
-                                    <img src="/img/case-study/dokodemo-story-5.jpg" alt="" class="img-fluid mb-3 rounded-lg">
+                                    <img src="/img/case-study/dokodemo-story-5.jpg" alt="" class="img-fluid mb-3 rounded-lg" loading="lazy">
                                 </picture>
                                 <h5 class="fs-20 font-weight-bold">Dokodemo-Kerja Story 5</h5>
                                 <p class="mb-0">PT. LOGIQUE Digital Indonesia</p>
@@ -456,55 +506,6 @@
             </div>
         </section>
 
-        <section class="color--blue py--60px home__schedule">
-            <div class="container">
-                <div class="row">
-                    <div class="col-md-6 mb-3 mb-md-0">
-                        <div class="bg--l-blue rounded-lg text-center schedule">
-                            <h5 class="font-weight-bold mb-4 fs-20">Schedule Online Meeting</h5>
-                            <div class="row justify-content-center">
-                                <div class="col-md-8">
-                                    <picture>
-                                        <source srcset="/img/home/schedule-online.svg">
-                                        <img src="/img/home/schedule-online.png" alt="online meeting" class="img-fluid">
-                                    </picture>
-                                </div>
-                                <div class="col-md-8">
-                                    <p class="my-4">Set up an online consultation with our team for a software demo</p>
-                                </div>
-                                <div class="col-md-6">
-                                    <button type="button" id="btn_online_meet_form_en" class="form-control btn btn--rounded bg--yellow" data-title="online" data-toggle="modal" data-target="#meetingSchedule">
-                                        Online
-                                    </button>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-md-6">
-                        <div class="bg--l-blue rounded-lg text-center schedule">
-                            <h5 class="font-weight-bold mb-4 fs-20">Schedule Offline Meeting</h5>
-                            <div class="row justify-content-center">
-                                <div class="col-md-8">
-                                    <picture>
-                                        <source srcset="/img/home/schedule-offline.svg" type="image/">
-                                        <img src="/img/home/schedule-offline.png" alt="offline meeting" class="img-fluid">
-                                    </picture>
-                                </div>
-                                <div class="col-md-8">
-                                    <p class="my-4">Set up an offline consultation with our team for a software demo</p>
-                                </div>
-                                <div class="col-md-6">
-                                    <button type="button" id="btn_offline_meet_form_en" class="form-control btn btn--rounded bg--yellow" data-title="offline" data-toggle="modal" data-target="#meetingSchedule">
-                                        Offline
-                                    </button>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </section>
-
         <section class="mb--30px news-list-container">
             <div class="container">
                 <div class="newscontainer">
@@ -586,9 +587,7 @@
 <?php include($_SERVER['DOCUMENT_ROOT'].'/component/demo-banner.php'); ?>
 <?php include($_SERVER['DOCUMENT_ROOT'].'/component/modal-meeting.php'); ?>
 <?php 
-    $add_js = '
-    <script src="/js/homepage-animation.js"></script>
-    <script src="/js/jquery.magnific-popup.min.js"></script>';
+    $add_js = '<script async src="/js/jquery.magnific-popup.min.js"></script>';
     include($_SERVER['DOCUMENT_ROOT'].'/component/footer.php'); 
 ?>
 <script>
@@ -637,20 +636,6 @@
 
         })
 
-        // $('.smooth').click(function() {
-        //     if (location.pathname.replace(/^\//, '') == this.pathname.replace(/^\//, '') && location
-        //         .hostname == this.hostname) {
-        //         var target = $(this.hash);
-        //         target = target.length ? target : $('[name=' + this.hash.slice(1) + ']');
-        //         if (target.length) {
-        //             $('html, body').animate({
-        //                 scrollTop: target.offset().top
-        //             }, 1000);
-        //             return false;
-        //         }
-        //     }
-        // });
-
         $('.zoom-gallery').magnificPopup({
             delegate: 'a',
             type: 'image',
@@ -676,34 +661,61 @@
 
         });
 
-    })
-
-    var element = document.getElementById("popup-text");
-
-    var t = setTimeout(openPopUp, 5000);
-
-    function openPopUp() {
-        element = document.getElementById("popup-text");
-        element.style.visibility = "visible";
-        element.style.opacity = "1";
-    }        
+    })   
     
     // modal popup
-    setTimeout(function() {
-        $('#myModal').modal();
-    }, 4000);
+    // setTimeout(function() {
+    //     $('#myModal').modal();
+    // }, 4000);
     // end modal popup
 
 </script>
 
 <!-- schedule meeting form -->
 <script type="text/javascript">
+    // Handle Success and Error 
     <?php if (!is_null($success)) { ?>
         $('#meetingScheduleSent').modal('show');
+    <?php } else if ($errors) {?>
+          // code handle here
+          window.location.href= "/";
     <?php }?>
     // when close modals redirect to home page and kill session
     $('#meetingScheduleSent').on('hidden.bs.modal', function () {
         window.location.href= "/";
     })
+</script>
+
+<script type="text/javascript">
+    $("#meetingSchedule").on('show.bs.modal', function () {
+        grecaptcha.reset();
+    });
+    
+    function enableBtn(){
+		$('#meeting-form-submit').attr('disabled', false);
+	}
+
+	$(document).ready(function() {
+		$('#meeting-form-submit').attr('disabled', true);
+	});
+</script>
+
+<script>
+    // load js only when needed
+    function lazyLoadJs(src) {
+        const document = window.document;
+        const body = document.body;
+        const el = document.createElement("script");
+
+        el.async = true;
+        el.src = src;
+        body.appendChild(el);
+    }
+
+    window.addEventListener('load', function(event) {
+        if (!mobileCheck()) {
+            lazyLoadJs('/js/homepage-animation.js');
+        }
+    });
 </script>
 <?php include($_SERVER['DOCUMENT_ROOT'].'/component/footer-end.php') ?>

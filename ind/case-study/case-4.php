@@ -1,13 +1,13 @@
 <?php 
     $page = 'case-study/case-4';
-    $page_title = 'Manajemen Kerja Remote | Dokodemo-Kerja Kasus #4';
+    $page_title = 'Aplikasi Monitoring Pekerjaan Yang Efektif | Dokodemo-Kerja';
 
-    $meta_description = 'Studi kasus Dokodemo-Kerja ke-4 meneliti efek positif dari penggunaan alat manajemen HR untuk pekerja di kantor, dan untuk pekerjaan jarak jauh.';
+    $meta_description = 'Simak bagaimana Dokodemo-Kerja menjadi aplikasi monitoring pekerjaan yang efektif bagi tim HR untuk mengawasi kinerja, produktivitas & kedisiplinan karyawan!';
     $meta_keyword = 'dokodemo, dokodemo-kerja, dokodemo kerja, pemantauan layar, monitor sceen, monitor karyawan, pemantauan karyawan, pelacak waktu, jam dalam perangkat lunak, perangkat lunak absensi, alat absensi, kalkulator jam kerja, kelola karyawan, alat untuk manajer, alat untuk jam, manajer pemberitahuan, alat produktifitas, penambah produktifitas, pengelola kinerja, pengelolaan kinerja, monitor kinerja, software clock in, fitur absensi';
 
-    $og_title = 'Manajemen Kerja Remote | Dokodemo-Kerja Kasus #4';
+    $og_title = 'Aplikasi Monitoring Pekerjaan Yang Efektif | Dokodemo-Kerja';
     $og_image = 'https://dokodemo-kerja.com/img/dokodemo-og.jpg';
-    $og_desription = 'Studi kasus Dokodemo-Kerja ke-4 meneliti efek positif dari penggunaan alat manajemen HR untuk pekerja di kantor, dan untuk pekerjaan jarak jauh.';
+    $og_desription = 'Simak bagaimana Dokodemo-Kerja menjadi aplikasi monitoring pekerjaan yang efektif bagi tim HR untuk mengawasi kinerja, produktivitas & kedisiplinan karyawan!';
 
     $canonical_link = 'https://dokodemo-kerja.com/ind/case-study/case-4';
 
@@ -18,10 +18,10 @@
 
 <div class="">
     <section>
-        <div class="container pl-lg-0">
+        <div class="container">
             <nav aria-label="breadcrumb">
-                <ol class="breadcrumb">
-                    <li class="breadcrumb-item"><a href="/ind/">Dokodemo-Kerja Home</a></li>
+                <ol class="breadcrumb breadcrumb--main">
+                    <li class="breadcrumb-item"><a href="/ind/">Beranda</a></li>
                     <li class="breadcrumb-item"><a href="/ind/case-study/">Studi Kasus</a></li>
                     <li class="breadcrumb-item active" aria-current="page">Kasus 4</li>
                 </ol>
