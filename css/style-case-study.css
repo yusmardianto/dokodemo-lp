@@ -1,3 +1,16 @@
+/* dokodemo */
+.case-study .case-study__dokodemo {
+    background-size: 100% 140%;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+.no-webp .case-study .case-study__dokodemo {
+    background-image: url("/img/case-study/bg-doko.jpg");
+}
+.webp .case-study .case-study__dokodemo {
+    background-image: url("/img/case-study/bg-doko.webp");
+}
+
 /* case study section */
 .case-study__card {
     margin-bottom: 35px;
@@ -165,7 +178,28 @@
     padding-left: 30px;
 }
 
+@media (max-width: 991.98px) {
+    /* dokodemo */
+    .case-study .case-study__dokodemo {
+        background-size: 140% 100%;
+    }
+}
+
 @media (max-width: 767.98px) {
+    /* dokodemo */
+    .webp .case-study .case-study__dokodemo,
+    .no-webp .case-study .case-study__dokodemo {
+        background-image: none;
+    }
+
+    /* case study slide */
+    .case-study__slide.slick--blue-arrow .slick-prev {
+        left: 25px;
+    }
+    .case-study__slide.slick--blue-arrow .slick-next {
+        right: 25px;
+    }
+
     /* user role */
     .employee-feature-list {
         padding: 2em;
