@@ -93,7 +93,7 @@
                 </div>
                 <div class="row align-items-center">
                     <div class="col-md-6 mb-4 mb-lg-0">
-                        <ul class="list-unstyled banner__list list--circle">
+                        <ul class="list-unstyled banner__list list--circle list--circle-border">
                             <li>Pantau tugas dan jam kerja karyawan.</li>
                             <li>Fitur tangkapan layar di setting dengan random dan disimpan di dalam server. (Resolusi gambar rendah sehingga tidak mengganggu privasi)</li>
                             <li>Pada aplikasi yang diinstal di handphone, mempermudah Anda untuk mengelola waktu dan lokasi kerja karyawan yang sering dinas keluar kantor.</li>

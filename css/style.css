@@ -23,7 +23,7 @@ body {
     border: 0;
     /* font-family: 'Khula', sans-serif; */
     font-family: "Open Sans", sans-serif;
-    line-height: 1.5;
+    line-height: 1.8;
     color: #505458;
     font-size: 17px;
 }
@@ -422,6 +422,22 @@ input[type="time"]::-webkit-calendar-picker-indicator {
     height: 10px;
     border-radius: 100%;
     border: solid 1px;
+}
+
+.list--circle.list--circle-border li {
+    padding-top: 25px;
+}
+
+.list--circle.list--circle-border li:not(:last-child),
+.list--circle.list--circle-border.list--circle-border-bottom li {
+    padding-bottom: 25px;
+    border-bottom: solid 1px;
+}
+
+.list--circle.list--circle-border li:after {
+    top: 32px;
+    width: 15px;
+    height: 15px;
 }
 
 /* banner demo */
