@@ -17,3 +17,6 @@ ErrorDocument 404 /404.php
 <If "%{REQUEST_URI} =~ /jp\x2F.*/">
     ErrorDocument 404 /jp/404.php
 </If>
+
+# disable auth for pagespeed test on dev
+#Require all granted
