@@ -10,7 +10,7 @@
             $url = $url_temporary;
         }
         $url_previous = prev($url_array);
-        if ($url_previous == 'case-study' && $url == '' || end($url_temporary_split) > 0) {
+        if ($url_previous == 'case-study') {
             echo 'active';
         }
     } 

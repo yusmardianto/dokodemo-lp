@@ -31,8 +31,12 @@
 
     <section class="mb-5">
         <div class="container">
-            <h1 class="text-center mb-5">Studi Kasus Dokodemo 4: <br>Perubahan Besar pada Peraturan HR Logique karena Dokodemo-Kerja</h1>
+            <h1 class="text-center mb-5">"Studi Kasus Dokodemo 4: <br>Aplikasi Monitoring Pekerjaan yang Efektif bagi HR Logique untuk Mengawasi Kinerja dan Produktivitas Karyawan"</h1>
             <div class="case-study__story">
+                <blockquote class="blockquote text-center mb-5">
+                    <p class="mb-0">“Saat ini Logique memiliki peraturan HR yang jauh lebih baik untuk mengelola karyawan karena Dokodemo-Kerja membantu tim HR dalam proses monitoring kinerja dan produktivitas tiap-tiap karyawan.”</p>
+                    <!-- <div class="blockquote-footer"><cite title="Source Title">Operation Director</cite></div> -->
+                </blockquote>
                 <div class="row">
                     <div class="offset-md-1 col-md-10">
                         <section class="text-justify">

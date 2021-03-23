@@ -24,8 +24,8 @@
                             </div>
                         </a>
                     </div> -->
-                    <?php if ($current_url != "case-1"): ?>
-                    <div class="col-md-4 <?php if ($current_url === "case-5") echo 'd-none'; ?>">
+                    <?php if ($current_url != "working-productivity"): ?>
+                    <div class="col-md-4 <?php if ($current_url === "leave-management-app") echo 'd-none'; ?>">
                         <a href="/case-study/case-1" class="case-study__card-wrapper">
                             <div class="case-study__card">
                                 <img class="card__img" src="/img/case-study/case-1.png" alt="Working at the Computer" >
@@ -38,7 +38,7 @@
                         </a>
                     </div>
                     <?php endif; ?>
-                    <?php if ($current_url != "case-2"): ?>
+                    <?php if ($current_url != "attendance-tracking-app"): ?>
                     <div class="col-md-4">
                         <a href="/case-study/case-2" class="case-study__card-wrapper">
                             <div class="case-study__card">
@@ -51,7 +51,7 @@
                         </a>
                     </div>
                     <?php endif; ?>
-                    <?php if ($current_url != "case-3"): ?>
+                    <?php if ($current_url != "work-efficiency"): ?>
                     <div class="col-md-4">
                         <a href="/case-study/case-3" class="case-study__card-wrapper">
                             <div class="case-study__card">
@@ -64,7 +64,7 @@
                         </a>
                     </div>
                     <?php endif; ?>
-                    <?php if ($current_url != "case-4"): ?>
+                    <?php if ($current_url != "work-monitoring-app"): ?>
                     <div class="col-md-4">
                         <a href="/case-study/case-4" class="case-study__card-wrapper">
                             <div class="case-study__card">
