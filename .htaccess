@@ -20,3 +20,17 @@ ErrorDocument 404 /404.php
 
 # disable auth for pagespeed test on dev
 #Require all granted
+
+# REWRITE CASE STUDY IND
+Redirect 301 /ind/case-study/case-1 /ind/case-study/produktivitas-karyawan
+Redirect 301 /ind/case-study/case-2 /ind/case-study/aplikasi-hr-multifungsi
+Redirect 301 /ind/case-study/case-3 /ind/case-study/cara-kerja-efisien
+Redirect 301 /ind/case-study/case-4 /ind/case-study/aplikasi-monitoring-kerja
+Redirect 301 /ind/case-study/case-5 /ind/case-study/aplikasi-pengelola-cuti
+
+# REWRITE CASE STUDY EN
+Redirect 301 /case-study/case-1 /case-study/working-productivity
+Redirect 301 /case-study/case-2 /case-study/attendance-tracking-app
+Redirect 301 /case-study/case-3 /case-study/work-efficiency
+Redirect 301 /case-study/case-4 /case-study/work-monitoring-app
+Redirect 301 /case-study/case-5 /case-study/leave-management-app
