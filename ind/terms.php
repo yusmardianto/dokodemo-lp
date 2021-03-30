@@ -9,8 +9,6 @@
     $og_image = 'https://dokodemo-kerja.com/img/og-img/terms-condition.jpg';
     $og_desription = 'Logique Digital Indonesia’s terms and conditions outline the rules and regulations regarding the use of Dokodemo-kerja or the other services provided.';
 
-    $canonical_link = 'https://dokodemo-kerja.com/ind/terms';
-
     $add_css = '<link rel="stylesheet" href="/css/style-subscribe.css" />';
 
     include($_SERVER['DOCUMENT_ROOT'].'/ind/component/header.php');

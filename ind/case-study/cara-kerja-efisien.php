@@ -9,8 +9,6 @@
     $og_image = 'https://dokodemo-kerja.com/img/dokodemo-og.jpg';
     $og_desription = 'Dokodemo-Kerja membantu perusahaan agar bisa menerapkan sistem management kerja remote yang fleksibel dan mampu mengontrol jadual kerja shift dengan baik.';
 
-    $canonical_link = 'https://dokodemo-kerja.com/ind/case-study/case-3';
-
     $add_css = '<link rel="stylesheet" href="/css/style-case-study.css" />';
 
     include($_SERVER['DOCUMENT_ROOT'].'/ind/component/header.php');

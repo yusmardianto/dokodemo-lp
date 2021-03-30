@@ -22,8 +22,6 @@
     $og_image = 'dokodemo, dokodemo-kerja, program perusahaan, program pemantauan, alat pelaporan, uji coba gratis, email dokodemo, bantuan dokodemo, kontak dokodemo, penjualan dokodemo, pemasaran dokodemo, pelatihan permintaan, kenali karyawan Anda, alat startup, logique person contact person, kontak dokodemo orang, apa itu dokodemo, apa itu kerja jarak jauh';
     $og_desription = 'Informasi lengkap mengenai aplikasi absensi online terbaik, Dokodemo-Kerja bisa Anda dapatkan dengan menghubungi kontak kami berikut ini. Kami siap untuk berdiskusi dengan Anda.';
 
-    $canonical_link = 'https://dokodemo-kerja.com/ind/contact-us';
-
     $add_css = '<link href="https://cdnjs.cloudflare.com/ajax/libs/select2/4.0.7/css/select2.min.css" rel="stylesheet" />';
 
     include($_SERVER['DOCUMENT_ROOT'].'/ind/component/header.php');

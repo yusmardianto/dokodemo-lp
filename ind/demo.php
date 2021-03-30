@@ -23,8 +23,6 @@ require '../action/c-trial.php';
     $og_image = 'https://dokodemo-kerja.com/img/dokodemo-og.jpg';
     $og_desription = 'Aplikasi Kerja Online dari Rumah, Dokodemo-Kerja dapat Anda gunakan secara gratis dalam bentuk demo. Unduh sekarang dan optimalkan potensimu melalui aplikasi ini.';
 
-    $canonical_link = 'https://dokodemo-kerja.com/ind/demo';
-
     $add_css = '<link rel="stylesheet" href="/css/style-trial.css" />';
 
     include($_SERVER['DOCUMENT_ROOT'].'/ind/component/header.php');

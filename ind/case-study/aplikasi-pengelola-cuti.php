@@ -9,8 +9,6 @@
     $og_image = 'https://dokodemo-kerja.com/img/dokodemo-og.jpg';
     $og_desription = 'Fitur-fitur aplikasi absensi online Dokodemo-kerja memiliki fungsi lengkap seperti pengelolaan cuti, mengontrol kinerja s/d meningkatkan kedisiplinan karyawan.';
 
-    $canonical_link = 'https://dokodemo-kerja.com/ind/case-study/case-5';
-
     $add_css = '<link rel="stylesheet" href="/css/style-case-study.css" />';
 
     include($_SERVER['DOCUMENT_ROOT'].'/ind/component/header.php');

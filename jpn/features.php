@@ -9,8 +9,6 @@
     $og_image = 'https://dokodemo-kerja.com/img/og-img/features.jpg';
     $og_desription = 'Dokodemo-Kerjaを導入することで従業員がどこで・いつ働いても正確に勤務時間と内容を把握することが可能となります。リモートワーク制度の導入を助けます。';
 
-    $canonical_link = 'https://dokodemo-kerja.com/features';
-
     $add_css = '
     <link rel="stylesheet" href="/js/magnific-popup.css" />
     <link rel="stylesheet" href="/css/style-features.css" />';

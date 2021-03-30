@@ -9,8 +9,6 @@
     $og_image = 'https://dokodemo-kerja.com/img/dokodemo-og.jpg';
     $og_desription = 'Dokodemo-Kerja mampu meningkatkan produktivitas & work life balance lebih baik pada karyawan yang bekerja secara remote. Simak cerita selengkapnya disini!';
 
-    $canonical_link = 'https://dokodemo-kerja.com/ind/case-study/case-1';
-
     $add_css = '<link rel="stylesheet" href="/css/style-case-study.css" />';
 
     include($_SERVER['DOCUMENT_ROOT'].'/ind/component/header.php');

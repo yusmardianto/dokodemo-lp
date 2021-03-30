@@ -9,8 +9,6 @@
     $og_image = 'https://dokodemo-kerja.com/img/og-img/index.jpg';
     $og_desription = 'Dokodemo-Kerjaを利用することで、従業員にWFHを許容できる、さぼり防止、時短勤務制度を導入できた、残業時間の計算の自動化などでHR業務効率化など、さまざまな導入メリットを感じていただけます。幾つかのDokodemo-Kerjaの導入事例を紹介します。';
 
-    $canonical_link = 'https://dokodemo-kerja.com/jpn/case-study/';
-
     $add_css = '
     <link rel="stylesheet" href="/css/slick.css" />
     <link rel="stylesheet" href="/css/slick-theme.css" />

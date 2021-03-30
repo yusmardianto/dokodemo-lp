@@ -9,8 +9,6 @@
     $og_image = 'https://dokodemo-kerja.com/img/og-img/case-study.jpg';
     $og_desription = 'Dokodemo-Kerja Case Study: the GPS tracking Remote Work management & employee monitoring software has improved Logique’s productive employee work styles.';
 
-    $canonical_link = 'https://dokodemo-kerja.com/case-study/case-5';
-
     $add_css = '<link rel="stylesheet" href="/css/style-case-study.css" />';
 
     include($_SERVER['DOCUMENT_ROOT'].'/component/header.php');
