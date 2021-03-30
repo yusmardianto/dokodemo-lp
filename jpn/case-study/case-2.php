@@ -9,8 +9,6 @@
     $og_image = 'https://dokodemo-kerja.com/img/og-img/index.jpg';
     $og_desription = 'Dokodemo-Kerjaの活用事例その２。システム開発会社での活用事例を紹介します。従業員の実勤務時間を記録、GPSで働いた場所をトラッキング、フレキシブルで生産性の高い働き方を可能とするリモートワーク管理ツールDokodemo-Kerja（ドコデモクルジャ）の紹介ページ。';
 
-    $canonical_link = 'https://dokodemo-kerja.com/jpn/case-study/case-2';
-
     $add_css = '<link rel="stylesheet" href="/css/style-case-study.css" />';
 
     include($_SERVER['DOCUMENT_ROOT'].'/jpn/component/header.php');

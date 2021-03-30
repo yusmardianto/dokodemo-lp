@@ -9,8 +9,6 @@
     $og_image = 'https://dokodemo-kerja.com/img/og-img/price.jpg';
     $og_desription = 'Sebagai aplikasi absensi online, Dokodemo-Kerja dibanderol dari harga Rp 1 Juta per bulan yang membuat Anda mengelola kehadiran para karyawan Anda melalui tangkapan layar.';
 
-    $canonical_link = 'https://dokodemo-kerja.com/ind/price';
-
     $add_css = '<link rel="stylesheet" href="/css/style-pricing.css" />';
 
     include($_SERVER['DOCUMENT_ROOT'].'/ind/component/header.php');

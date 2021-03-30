@@ -9,8 +9,6 @@
     $og_image = 'https://dokodemo-kerja.com/img/og-img/about.jpg';
     $og_desription = 'Dokodemo-Kerja is a Human Resource tool developed by PT. LOGIQUE Digital Indonesia, a company providing Digital Solutions, based in Jakarta, Indonesia. Dokodemo-Kerja was designed to promote healthier and more productive work cultures in a way that benefits both the Company and Employees alike.';
 
-    $canonical_link = 'https://dokodemo-kerja.com/help';
-
     $add_css = '<link rel="stylesheet" href="/css/style-help.css" />';
 
     include($_SERVER['DOCUMENT_ROOT'].'/component/header.php');

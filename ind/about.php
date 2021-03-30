@@ -9,8 +9,6 @@
     $og_image = 'https://dokodemo-kerja.com/img/dokodemo-og.jpg';
     $og_desription = 'Aplikasi absensi karyawan dengan sistem online yang ditujukan guna meningkatkan produktivitas kerja. Sangat cocok dengan budaya Work from Home (WFH) saat ini.';
 
-    $canonical_link = 'https://dokodemo-kerja.com/ind/about';
-
     $add_css = '<link rel="stylesheet" href="/css/style-about.css" />';
 
     include($_SERVER['DOCUMENT_ROOT'].'/ind/component/header.php');

@@ -9,8 +9,6 @@
     $og_image = 'https://dokodemo-kerja.com/img/dokodemo-og.jpg';
     $og_desription = 'Simak bagaimana Dokodemo-Kerja menjadi aplikasi monitoring pekerjaan yang efektif bagi tim HR untuk mengawasi kinerja, produktivitas & kedisiplinan karyawan!';
 
-    $canonical_link = 'https://dokodemo-kerja.com/ind/case-study/case-4';
-
     $add_css = '<link rel="stylesheet" href="/css/style-case-study.css" />';
 
     include($_SERVER['DOCUMENT_ROOT'].'/ind/component/header.php');

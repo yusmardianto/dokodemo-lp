@@ -9,8 +9,6 @@
     $og_image = 'https://dokodemo-kerja.com/img/og-img/case-study.jpg';
     $og_desription = 'Dokodemo-Kerja is an employee monitoring tool for managers, used as attendance software for remote work management for System Development Companies.';
 
-    $canonical_link = 'https://dokodemo-kerja.com/case-study/case-2';
-
     $add_css = '<link rel="stylesheet" href="/css/style-case-study.css" />';
 
     include($_SERVER['DOCUMENT_ROOT'].'/component/header.php');

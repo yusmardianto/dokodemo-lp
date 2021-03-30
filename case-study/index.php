@@ -9,8 +9,6 @@
     $og_image = 'https://dokodemo-kerja.com/img/og-img/case-study.jpg';
     $og_desription = 'By using Dokodemo-Kerja, you can get various benefits such as allowing employees to work from home, prevent slacking, and introduce a reduced working hours system.';
 
-    $canonical_link = 'https://dokodemo-kerja.com/case-study/';
-
     $add_css = '
     <link rel="stylesheet" href="/css/slick.css" />
     <link rel="stylesheet" href="/css/slick-theme.css" />

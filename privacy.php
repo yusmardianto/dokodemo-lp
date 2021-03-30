@@ -9,8 +9,6 @@
     $og_image = 'https://dokodemo-kerja.com/img/og-img/privacy-policy.jpg';
     $og_desription = 'Logique Digital Indonesia’s privacy policy regarding Dokodemo-Kerja outlines the rules of consent about processing personal information.';
 
-    $canonical_link = 'https://dokodemo-kerja.com/ind/privacy';
-
     $add_css = '
         <link rel="stylesheet" href="/css/slick.css" />
         <link rel="stylesheet" href="/css/slick-theme.css" />

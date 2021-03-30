@@ -9,8 +9,6 @@
     $og_image = 'https://dokodemo-kerja.com/img/og-img/price.jpg';
     $og_desription = 'Dokodemo-Kerja is an HR management and remote work software that allows for better employee attendance management for a reasonable price. Developed and sold in Indonesia.';
 
-    $canonical_link = 'https://dokodemo-kerja.com/price';
-
     $add_css = '<link rel="stylesheet" href="/css/style-pricing.css" />';
 
     include($_SERVER['DOCUMENT_ROOT'].'/component/header.php');

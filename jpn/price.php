@@ -9,8 +9,6 @@
     $og_image = 'https://dokodemo-kerja.com/img/og-img/dokodemo-og.jpg';
     $og_desription = 'Dokodemo-Kerjaは月額１ジュタルピアからお使いいただける勤怠管理＆リモートワーク管理ツールです。';
 
-    $canonical_link = 'https://dokodemo-kerja.com/price';
-
     $add_css = '<link rel="stylesheet" href="/css/style-pricing.css" />';
 
     include($_SERVER['DOCUMENT_ROOT'].'/jpn/component/header.php');

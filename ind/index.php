@@ -9,8 +9,6 @@
     $og_image = 'https://dokodemo-kerja.com/img/og-img/index.jpg';
     $og_desription = 'Aplikasi absensi online terbaik untuk karyawan dengan sistem kerja remote / kerja jarak jauh. HR management software berbasis web & mobile | Dokodemo-Kerja';
 
-    $canonical_link = 'https://dokodemo-kerja.com/ind/';
-
     $add_css = '
     <link rel="stylesheet" href="/js/magnific-popup.css" />
     <link rel="stylesheet" href="/css/slick.css" />

@@ -23,8 +23,6 @@
     $og_image = 'https://dokodemo-kerja.com/img/og-img/contact-us.jpg';
     $og_desription = '勤怠管理ツールDokodemo-Kerjaに関するお問い合わせはこちらからお送りください。Dokodemo-Kerjaはインドネシアの開発会社LOGIQUE社が開発しました。';
 
-    $canonical_link = 'https://dokodemo-kerja.com/contact-us';
-
     $add_css = '<link href="https://cdnjs.cloudflare.com/ajax/libs/select2/4.0.7/css/select2.min.css" rel="stylesheet" />';
 
     include($_SERVER['DOCUMENT_ROOT'].'/jpn/component/header.php');

@@ -9,8 +9,6 @@
     $og_image = 'https://dokodemo-kerja.com/img/og-img/features.jpg';
     $og_desription = 'Fitur aplikasi kerja remote dari Dokodemo Kerja membuat karyawan dapat melihat riwayat dan waktu kerja mereka secara real time di mana pun atau kapan pun mereka bekerja. ';
 
-    $canonical_link = 'https://dokodemo-kerja.com/ind/features';
-
     $add_css = '
     <link rel="stylesheet" href="/js/magnific-popup.css" />
     <link rel="stylesheet" href="/css/style-features.css" />';

@@ -9,8 +9,6 @@
     $og_image = 'https://dokodemo-kerja.com/img/og-img/case-study.jpg';
     $og_desription = 'Dokodemo-Kerja Case Study looks at implementing the employee monitoring, remote management tool developed by Logique in an Accounting firm.';
 
-    $canonical_link = 'https://dokodemo-kerja.com/case-study/case-3';
-
     $add_css = '<link rel="stylesheet" href="/css/style-case-study.css" />';
 
     include($_SERVER['DOCUMENT_ROOT'].'/component/header.php');
