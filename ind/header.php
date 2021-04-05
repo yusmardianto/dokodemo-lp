@@ -59,7 +59,7 @@
                     <a class="nav-link" href="/ind/about">About</a>
                 </li> -->
                 <li class="nav-item <?php active('features') ?>">
-                    <a class="nav-link" href="/ind/features">Work From Home</a>
+                    <a class="nav-link" href="/ind/features">Fitur Dokodemo</a>
                 </li>
                 <li class="nav-item <?php active_case() ?>">
                     <a class="nav-link" href="/ind/case-study">Studi Kasus</a>
