@@ -1,13 +1,13 @@
 <?php 
     $page = 'features';
-    $page_title = 'Fitur Aplikasi Kerja Remote Terbaik | Dokodemo Kerja';
+    $page_title = 'Fitur Dokodemo | Perhitungan Lembur, Shift Kerja, Cuti & Liburan | Dokodemo';
 
-    $meta_description = 'Fitur aplikasi kerja remote dari Dokodemo Kerja membuat karyawan dapat melihat riwayat dan waktu kerja mereka secara real time di mana pun atau kapan pun mereka bekerja. ';
+    $meta_description = 'Dokodemo-Kerja mempunyai fitur yang membantu dalam melakukan perhitungan lembur, shift kerja, cuti dan liburan. Segera daftarkan demo untuk melakukan uji coba sekarang.';
     $meta_keyword = 'Dokodemo-Kerja, Dokodemo features, Mobile Dokodemo-Kerja, kerja yang fleksibel, Dokodemo GPS, Kerja remote , Kerja jarak jauh, Jam Kerja Karyawan, aktivitas desktop , laptop karyawan';
 
-    $og_title = 'Fitur Aplikasi Kerja Remote Terbaik | Dokodemo Kerja';
+    $og_title = 'Fitur Dokodemo | Perhitungan Lembur, Shift Kerja, Cuti & Liburan | Dokodemo';
     $og_image = 'https://dokodemo-kerja.com/img/og-img/features.jpg';
-    $og_desription = 'Fitur aplikasi kerja remote dari Dokodemo Kerja membuat karyawan dapat melihat riwayat dan waktu kerja mereka secara real time di mana pun atau kapan pun mereka bekerja. ';
+    $og_desription = 'Dokodemo-Kerja mempunyai fitur yang membantu dalam melakukan perhitungan lembur, shift kerja, cuti dan liburan. Segera daftarkan demo untuk melakukan uji coba sekarang.';
 
     $add_css = '
     <link rel="stylesheet" href="/js/magnific-popup.css" />
@@ -22,7 +22,7 @@
             <nav aria-label="breadcrumb">
                 <ol class="breadcrumb breadcrumb--main">
                     <li class="breadcrumb-item"><a href="/ind/">Beranda</a></li>
-                    <li class="breadcrumb-item active" aria-current="page">Fitur</li>
+                    <li class="breadcrumb-item active" aria-current="page">Fitur Dokodemo</li>
                 </ol>
             </nav>
         </div>

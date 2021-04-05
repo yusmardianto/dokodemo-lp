@@ -21,7 +21,7 @@
             <nav aria-label="breadcrumb">
                 <ol class="breadcrumb breadcrumb--main">
                     <li class="breadcrumb-item"><a href="/ind/">Beranda</a></li>
-                    <li class="breadcrumb-item active" aria-current="page">Harga</li>
+                    <li class="breadcrumb-item active" aria-current="page">Harga Aplikasi</li>
                 </ol>
             </nav>
         </div>
