@@ -683,8 +683,6 @@
     window.addEventListener('load', function(event) {
         if (!mobileCheck()) {
             lazyLoadJs('/js/homepage-animation.js');
-        } else {
-            $("#homepage_animation").remove();
         }
     });
 </script>
