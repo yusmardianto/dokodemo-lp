@@ -19,7 +19,7 @@ ErrorDocument 404 /404.php
 </If>
 
 # disable auth for pagespeed test on dev
-Require all granted
+#Require all granted
 
 # REWRITE CASE STUDY IND
 Redirect 301 /ind/case-study/case-1 /ind/case-study/produktivitas-karyawan
