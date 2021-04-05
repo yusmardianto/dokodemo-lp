@@ -65,7 +65,7 @@
                     <a class="nav-link" href="/ind/case-study">Studi Kasus</a>
                 </li>
                 <li class="nav-item <?php active('price') ?>">
-                    <a class="nav-link" href="/ind/price">Harga</a>
+                    <a class="nav-link" href="/ind/price">Harga Aplikasi</a>
                 </li>
                 <li class="nav-item <?php active('demo') ?>">
                     <a class="nav-link" href="/ind/demo">Demo</a>

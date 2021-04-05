@@ -17,9 +17,9 @@
                 <ul class="mb-2 list-inline footer__list">
                     <li class="list-inline-item"><a href="/ind">Beranda</a></li>
                     <li class="list-inline-item"><a href="/ind/about">Tentang Kami</a></li>
-                    <li class="list-inline-item"><a href="/ind/features">Work From Home</a></li>
+                    <li class="list-inline-item"><a href="/ind/features">Fitur Dokodemo</a></li>
                     <li class="list-inline-item"><a href="/ind/case-study/">Studi Kasus</a></li>
-                    <li class="list-inline-item"><a href="/ind/price">Harga</a></li>
+                    <li class="list-inline-item"><a href="/ind/price">Harga Aplikasi</a></li>
                     <li class="list-inline-item"><a href="/ind/demo">Demo</a></li>
                     <li class="list-inline-item"><a href="https://www.logique.co.id/blog/category/dokodemo-kerja/" target="_blank" rel="noopener noreferrer">Blog</a></li>
                 </ul>
