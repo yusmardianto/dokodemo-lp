@@ -9,8 +9,6 @@
     $og_image = 'https://dokodemo-kerja.com/img/dokodemo-og.jpg';
     $og_desription = 'Dokodemo-Kerja mampu meningkatkan produktivitas & work life balance lebih baik pada karyawan yang bekerja secara remote. Simak cerita selengkapnya disini!';
 
-    $canonical_link = 'https://dokodemo-kerja.com/ind/case-study/case-1';
-
     $add_css = '<link rel="stylesheet" href="/css/style-case-study.css" />';
 
     include($_SERVER['DOCUMENT_ROOT'].'/ind/component/header.php');
@@ -31,10 +29,14 @@
 
     <section class="mb-5">
         <div class="container">
-            <h1 class="text-center mb-5">Dokodemo-Kerja Cerita 1: LOGIQUE</h1>
+            <h1 class="text-center mb-5">Studi Kasus Dokodemo 1: <br>Meningkatkan Produktivitas Kerja pada Karyawan LOGIQUE</h1>
             <div class="case-study__story">
                 <div class="row">
-                    <div class="offset-md-1 col-md-10">
+                    <div class="offset-md-1 col-md-10">                        
+                        <blockquote class="blockquote text-center mb-5">
+                            <p class="mb-0">“Dokodemo-Kerja menjadi solusi untuk sistem kerja remote yang fleksibel sehingga menghasilkan work life balance yang baik dan meningkatkan produktivitas karyawan selama bekerja.”</p>
+                            <!-- <div class="blockquote-footer"><cite title="Source Title">President Director</cite></div> -->
+                        </blockquote>
                         <div class="row">
                             <div class="col-lg-6 d-none d-lg-block">
                                 <div class="text-center" style="line-height: 1; height: calc(100% - 60px);">

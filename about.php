@@ -9,8 +9,6 @@
     $og_image = 'https://dokodemo-kerja.com/img/og-img/about.jpg';
     $og_desription = 'LOGIQUE Digital Indonesia provides digital solutions cloud system for human resources through remote working software, Dokodemo-Kerja, designed for reducing costs.';
 
-    $canonical_link = 'https://dokodemo-kerja.com/about';
-
     $add_css = '<link rel="stylesheet" href="/css/style-about.css" />';
 
     include($_SERVER['DOCUMENT_ROOT'].'/component/header.php');

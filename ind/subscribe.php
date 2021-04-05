@@ -9,8 +9,6 @@
     $og_image = 'https://dokodemo-kerja.com/img/og-img/subscribe.jpg';
     $og_desription = 'Prosedur berlangganan untuk menggunakan layanan yang disediakan oleh Logique Digital Indonesia, termasuk perjanjian & konsultasi dan pesanan pembelian.';
 
-    $canonical_link = 'https://dokodemo-kerja.com/subscribe';
-
     $add_css = '<link rel="stylesheet" href="/css/style-subscribe.css" />';
 
     include($_SERVER['DOCUMENT_ROOT'].'/ind/component/header.php');

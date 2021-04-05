@@ -9,8 +9,6 @@
     $og_image = 'https://dokodemo-kerja.com/img/og-img/case-study.jpg';
     $og_desription = 'Dokodemo-Kerja Case Study looks at implementing remote work strategies into Logique, using the HR tool for managers & team leaders.';
 
-    $canonical_link = 'https://dokodemo-kerja.com/case-study/case-1';
-
     $add_css = '<link rel="stylesheet" href="/css/style-case-study.css" />';
 
     include($_SERVER['DOCUMENT_ROOT'].'/component/header.php');
@@ -31,10 +29,14 @@
 
     <section class="mb-5">
         <div class="container">
-            <h1 class="text-center mb-5">Dokodemo-Kerja Story 1: <br>LOGIQUE</h1>
+            <h1 class="text-center mb-5">Dokodemo Case Study #1: <br>Increasing the Overall Working Productivity of LOGIQUE’s Employees</h1>
             <div class="case-study__story">
                 <div class="row">
                     <div class="offset-md-1 col-md-10">
+                        <blockquote class="blockquote text-center mb-5">
+                            <p class="mb-0">“Dokodemo-Kerja is a solution for flexible remote work systems that produce a good work life balance without reducing employee productivity while working.”</p>
+                            <!-- <div class="blockquote-footer"><cite title="Source Title">Operation Director</cite></div> -->
+                        </blockquote>
                         <div class="row">
                             <div class="col-lg-6 d-none d-lg-block">
                                 <div class="text-center" style="line-height: 1; height: calc(100% - 50px);">

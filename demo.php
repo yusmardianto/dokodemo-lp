@@ -22,8 +22,6 @@
     $og_image = 'https://dokodemo-kerja.com/img/dokodemo-og.jpg';
     $og_desription = 'For inquiries about the Remote Work System Dokodemo-Kerja, please send your inquiries from this page. Dokodemo-Kerja is developed by an Indonesian development company, LOGIQUE.';
 
-    $canonical_link = 'https://dokodemo-kerja.com/demo';
-
     $add_css = '<link rel="stylesheet" href="/css/style-trial.css" />';
 
     include($_SERVER['DOCUMENT_ROOT'].'/component/header.php');

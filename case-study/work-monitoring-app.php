@@ -9,8 +9,6 @@
     $og_image = 'https://dokodemo-kerja.com/img/og-img/case-study.jpg';
     $og_desription = 'Dokodemo-Kerja Case Study: the GPS tracking Remote Work management & employee monitoring software has improved Logique’s productive employee work styles.';
 
-    $canonical_link = 'https://dokodemo-kerja.com/case-study/case-4';
-
     $add_css = '<link rel="stylesheet" href="/css/style-case-study.css" />';
 
     include($_SERVER['DOCUMENT_ROOT'].'/component/header.php');
@@ -31,12 +29,15 @@
 
     <section class="mb-5">
         <div class="container">
-            <h1 class="text-center mb-5">Dokodemo-Kerja Story 4: <br>The Evolution of Logique’s HR Rules since implementing Dokodemo-Kerja.</h1>
+            <h1 class="text-center mb-5">Dokodemo 4 Case Study: <br>A Work Monitoring App for Logique’s HR results in better Employee Performance & Productivity</h1>
             <div class="case-study__story">
                 <div class="row">
                     <div class="offset-md-1 col-md-10">
+                        <blockquote class="blockquote text-center mb-5">
+                            <p class="mb-0">“Logique employs effective HR regulations for employee management through Dokodemo-Kerja, which helps HR to effectively monitor the performances of each employee.”</p>
+                            <!-- <div class="blockquote-footer"><cite title="Source Title">Operation Director</cite></div> -->
+                        </blockquote>
                         <section class="text-justify">
-
                             <div class="row">
                                 <div class="col-lg-5 offset-lg-0 offset-md-3 col-md-6">
                                     <img src="/img/case-study/dokodemo-story-4-ghitta.jpg" alt="A Logique Employee" class="img-fluid w-100 mb-4">

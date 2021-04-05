@@ -22,8 +22,6 @@
     $og_image = 'https://dokodemo-kerja.com/img/og-img/contact-us.jpg';
     $og_desription = 'For inquiries about the attendance management tool Dokodemo-Kerja, please send from here. Dokodemo-Kerja was developed by Indonesian development company LOGIQUE.';
 
-    $canonical_link = 'https://dokodemo-kerja.com/contact-us';
-
     $add_css = '<link href="https://cdnjs.cloudflare.com/ajax/libs/select2/4.0.7/css/select2.min.css" rel="stylesheet" />';
 
     include($_SERVER['DOCUMENT_ROOT'].'/component/header.php');

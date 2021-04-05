@@ -9,8 +9,6 @@
     $og_image = 'https://dokodemo-kerja.com/img/dokodemo-og.jpg';
     $og_desription = 'Dokodemo-Kerja menjadi aplikasi atau software absensi online yang bisa memberi nilai positif bagi Karyawan & Perusahaan. Simak testimoni penggunanya disini!';
 
-    $canonical_link = 'https://dokodemo-kerja.com/ind/case-study/';
-
     $add_css = '
     <link rel="stylesheet" href="/css/slick.css" />
     <link rel="stylesheet" href="/css/slick-theme.css" />

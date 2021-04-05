@@ -9,8 +9,6 @@
     $og_image = 'https://dokodemo-kerja.com/img/og-img/index.jpg';
     $og_desription = 'Dokodemo-Kerja is an Indonesian based attendance management software & remote work hr tool, which improves employee productivity both in the office & at home.';
 
-    $canonical_link = 'https://dokodemo-kerja.com/';
-
     $add_css = '
     <link rel="stylesheet" href="/js/magnific-popup.css" />
     <link rel="stylesheet" href="/css/slick.css" />

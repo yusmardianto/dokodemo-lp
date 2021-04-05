@@ -9,8 +9,6 @@
     $og_image = 'https://dokodemo-kerja.com/img/og-img/index.jpg';
     $og_desription = 'Dokodemo-Kerjaは従業員の勤怠と作業内容をプライバシーに配慮した形で適切に把握することが可能なインドネシアで開発されたクラウドツールです。';
 
-    $canonical_link = 'https://dokodemo-kerja.com/jpn';
-
     $add_css = '
     <link rel="stylesheet" href="/js/magnific-popup.css" />
     <link rel="stylesheet" href="/css/slick.css" />

@@ -9,8 +9,6 @@
     $og_image = 'https://dokodemo-kerja.com/img/dokodemo-og.jpg';
     $og_desription = 'Fitur-fitur aplikasi absensi online Dokodemo-kerja memiliki fungsi lengkap seperti pengelolaan cuti, mengontrol kinerja s/d meningkatkan kedisiplinan karyawan.';
 
-    $canonical_link = 'https://dokodemo-kerja.com/ind/case-study/case-5';
-
     $add_css = '<link rel="stylesheet" href="/css/style-case-study.css" />';
 
     include($_SERVER['DOCUMENT_ROOT'].'/ind/component/header.php');
@@ -31,10 +29,14 @@
     
     <section class="mb-5">
         <div class="container">
-            <h1 class="text-center mb-5">Studi Kasus Dokodemo 5: <br> Fitur Baru Dokodemo-Kerja 2.1.3: Pengelolaan Keterlambatan, Cuti, & Absensi yang Mudah</h1>
+            <h1 class="text-center mb-5">Studi Kasus Dokodemo 5: <br>Fitur Pengelolaan Kehadiran Karyawan & Pengajuan Cuti Menjadi Mudah</h1>
             <div class="case-study__story case-study__new-feature">
                 <div class="row">
                     <div class="offset-md-1 col-md-10">
+                        <blockquote class="blockquote text-center mb-5">
+                            <p class="mb-0">“Fitur lengkap pada aplikasi Dokodemo-Kerja membantu berbagai hal menjadi lebih mudah dan sederhana. Mulai dari pengajuan cuti yang efisien, mengelola kehadiran, sampai meningkatkan kedisiplinan karyawan.”</p>
+                            <!-- <div class="blockquote-footer"><cite title="Source Title">Operation Director</cite></div> -->
+                        </blockquote>
                         <section class="text-justify">
 
                             <div class="row">

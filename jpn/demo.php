@@ -22,8 +22,6 @@
     $og_image = 'https://dokodemo-kerja.com/img/dokodemo-og.jpg';
     $og_desription = '勤怠管理ツールDokodemo-Kerjaのデモはこちらから確認いただけます。インドネシアでの利用に最適です。';
 
-    $canonical_link = 'https://dokodemo-kerja.com/demo';
-
     $add_css = '<link rel="stylesheet" href="/css/style-trial.css" />';
 
     include($_SERVER['DOCUMENT_ROOT'].'/jpn/component/header.php');
