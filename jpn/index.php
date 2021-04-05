@@ -10,10 +10,10 @@
     $og_desription = 'Dokodemo-Kerjaは従業員の勤怠と作業内容をプライバシーに配慮した形で適切に把握することが可能なインドネシアで開発されたクラウドツールです。';
 
     $add_css = '
-    <link rel="stylesheet" href="/js/magnific-popup.css" />
-    <link rel="stylesheet" href="/css/slick.css" />
-    <link rel="stylesheet" href="/css/slick-theme.css" />
-    <link rel="stylesheet" href="/css/style-home.css" />    ';
+    <link rel="stylesheet" href="/js/magnific-popup.css" defer />
+    <link rel="stylesheet" href="/css/slick.css" defer />
+    <link rel="stylesheet" href="/css/slick-theme.css" defer />
+    <link rel="stylesheet" href="/css/style-home.css" defer />';
 
     include($_SERVER['DOCUMENT_ROOT'].'/jpn/component/header.php');
 ?>
@@ -614,6 +614,8 @@
     window.addEventListener('load', function(event) {
         if (!mobileCheck()) {
             lazyLoadJs('/js/homepage-animation.js');
+        } else {
+            $("#homepage_animation").remove();
         }
     });
 </script>

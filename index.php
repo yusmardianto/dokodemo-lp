@@ -10,10 +10,10 @@
     $og_desription = 'Dokodemo-Kerja is an Indonesian based attendance management software & remote work hr tool, which improves employee productivity both in the office & at home.';
 
     $add_css = '
-    <link rel="stylesheet" href="/js/magnific-popup.css" />
-    <link rel="stylesheet" href="/css/slick.css" />
-    <link rel="stylesheet" href="/css/slick-theme.css" />
-    <link rel="stylesheet" href="/css/style-home.css" />    ';
+    <link rel="stylesheet" href="/js/magnific-popup.css" defer/>
+    <link rel="stylesheet" href="/css/slick.css" defer/>
+    <link rel="stylesheet" href="/css/slick-theme.css" defer/>
+    <link rel="stylesheet" href="/css/style-home.css" defer/>';
 
     include($_SERVER['DOCUMENT_ROOT'].'/component/header.php');
 ?>
@@ -713,6 +713,8 @@
     window.addEventListener('load', function(event) {
         if (!mobileCheck()) {
             lazyLoadJs('/js/homepage-animation.js');
+        } else {
+            $("#homepage_animation").remove();
         }
     });
 </script>

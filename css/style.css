@@ -441,7 +441,11 @@ input[type="time"]::-webkit-calendar-picker-indicator {
 }
 
 /* banner demo */
-.user-demo {
+.webp .user-demo {
+    background: url("/img/contact-demo.webp") center/cover no-repeat;
+}
+
+.no-webp .user-demo {
     background: url("/img/contact-demo.jpg") center/cover no-repeat;
 }
 
