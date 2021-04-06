@@ -59,13 +59,13 @@
                     <a class="nav-link" href="/ind/about">About</a>
                 </li> -->
                 <li class="nav-item <?php active('features') ?>">
-                    <a class="nav-link" href="/ind/features">Work From Home</a>
+                    <a class="nav-link" href="/ind/fitur">Fitur Dokodemo</a>
                 </li>
                 <li class="nav-item <?php active_case() ?>">
                     <a class="nav-link" href="/ind/case-study">Studi Kasus</a>
                 </li>
                 <li class="nav-item <?php active('price') ?>">
-                    <a class="nav-link" href="/ind/price">Harga</a>
+                    <a class="nav-link" href="/ind/harga-aplikasi">Harga Aplikasi</a>
                 </li>
                 <li class="nav-item <?php active('demo') ?>">
                     <a class="nav-link" href="/ind/demo">Demo</a>
