@@ -34,3 +34,7 @@ Redirect 301 /case-study/case-2 /case-study/attendance-tracking-app
 Redirect 301 /case-study/case-3 /case-study/work-efficiency
 Redirect 301 /case-study/case-4 /case-study/work-monitoring-app
 Redirect 301 /case-study/case-5 /case-study/leave-management-app
+
+# REWRITE IND PAGE
+Redirect 301 /ind/features /ind/fitur
+Redirect 301 /ind/price /ind/harga-aplikasi
