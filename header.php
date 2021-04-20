@@ -42,6 +42,16 @@
     }
 ?>
 
+<?php                 
+    function switch_url($url_lang) {
+        if (is_array($GLOBALS["page"]) == "1" ) {
+            echo (empty($GLOBALS["page"][$url_lang])) ? "#" : $GLOBALS["page"][$url_lang];
+        } else {
+            echo $GLOBALS["page"];
+        }
+    }
+?>
+
 <nav class="doko-header navbar navbar-expand-lg navbar-light">
     <div class="container">
         <a class="navbar-brand" href="/" aria-label="Back To Home">
@@ -83,9 +93,9 @@
 
             <div class="ml-auto">
                 <div class="d-flex justify-content-center switch-language">
-                    <a href="/ind/<?php echo $page;?>">ID</a>
+                    <a href="/ind/<?php switch_url("id");?>">ID</a>
                     <a href="#" class="active">EN</a>
-                    <a href="/jpn/<?php echo $page;?>">JP</a>
+                    <a href="/jpn/<?php switch_url("jp");?>">JP</a>
                 </div>
             </div>
 

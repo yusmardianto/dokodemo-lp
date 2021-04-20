@@ -1,5 +1,8 @@
 <?php 
-    $page = 'info-hris';
+    $page = array(
+        "id" => "info-hris",
+        "jp" => "hris-info",
+    );
     $page_title = 'Get the latest Information on Indonesian HR Technology | Dokodemo-Kerja';
 
     $meta_description = 'Info on HR technology in Indonesia: HRIS Application & Software, HRMS, & other resources about digital HR management for your company.';
