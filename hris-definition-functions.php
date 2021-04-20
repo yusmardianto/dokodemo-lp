@@ -1,7 +1,7 @@
 <?php 
     $page = array(
         "id" => "fungsi-aplikasi-hris",
-        "jp" => "hris-info",
+        "jp" => "hris-definition-functions",
     );
     $page_title = 'Definition and Functions of the HRIS Application / Software | Dokodemo-Kerja';
 
