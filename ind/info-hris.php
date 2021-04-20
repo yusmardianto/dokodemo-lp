@@ -56,7 +56,7 @@
             </div>
             <div class="pt--20px row text-center slick--blue-arrow case-study__slide">                
                 <div class="col-md-4">
-                    <a href="#" class="color--blue">
+                    <a href="/ind/fungsi-aplikasi-hris.php" class="color--blue">
                         <div class="case-study">
                             <picture>
                                 <!-- <source srcset="/img/case-study/case-3.webp" type="image/webp"> -->
@@ -68,7 +68,7 @@
                     </a>
                 </div>
                 <div class="col-md-4">                    
-                    <a href="#" class="color--blue">                        
+                    <a href="/ind/jenis-software-hris.php" class="color--blue">                        
                         <div class="case-study">
                             <picture>
                                 <!-- <source srcset="/img/case-study/case-3.webp" type="image/webp"> -->
