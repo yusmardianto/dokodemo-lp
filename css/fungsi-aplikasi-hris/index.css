@@ -29,12 +29,23 @@
     line-height: 2;
 }
 
-ol > li {
-    font-size: 20px;
+.breadcumb > li > a {
+    font-size: 10px;
+    font-weight: normal;
+}
+
+.list-item > li {
+    font-size: 19px;
     font-weight: bold;
 }
 
-ol > li > p {
+.list-item > li > p {
     font-size: 16px;
     font-weight: normal;
+}
+
+.list-item > li > h3 {
+    letter-spacing: 0.8px;
+    font-size: 19px;
+    font-weight: bold;
 }

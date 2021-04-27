@@ -36,7 +36,7 @@ include($_SERVER['DOCUMENT_ROOT'] . '/component/header.php');
         </div>
     </section>
 
-    <section class="mb--70px">
+    <section class="mb--70px margintop-80">
         <div class="color--blue container">
             <div class="text-center title--bg title--bg-border title--bg-border-right" data-title-bg="DEFINITION">
                 <h1 class="mb-0 font-weight-bold fs-34">Definition and Functions of an HRIS Application</h1>
@@ -51,7 +51,8 @@ include($_SERVER['DOCUMENT_ROOT'] . '/component/header.php');
         </div>
     </section>
 
-    <section class="mb--70px py--30px color--blue bg--l-blue case-study__dokodemo">
+
+    <section class="mb--70px py--30px color--blue bg--l-blue case-study__dokodemo margintop-150">
         <div class="container">
             <div class="row justify-content-center">
                 <div class="col-md-10">
@@ -69,7 +70,7 @@ include($_SERVER['DOCUMENT_ROOT'] . '/component/header.php');
         </div>
     </section>
 
-    <section class="mb--70px color--blue">
+    <section class="mb--70px color--blue margintop-170">
         <div class="container">
 
             <div class="text-center title--bg title--bg-border title--bg-border-left" data-title-bg="HRIS">
@@ -87,7 +88,7 @@ include($_SERVER['DOCUMENT_ROOT'] . '/component/header.php');
         </div>
     </section>
 
-    <section class="mb--70px color--blue">
+    <section class="mb--70px color--blue margintop-150">
         <div class="container">
 
             <div class="text-center title--bg title--bg-border title--bg-border-right" data-title-bg="HRIS COMPONENT">
@@ -96,29 +97,36 @@ include($_SERVER['DOCUMENT_ROOT'] . '/component/header.php');
 
             <div class="fs-14 row justify-content-center">
                 <div class="col-md-10">
+                    <ol class="list-item">
+                        <li class="mt-3">
+                            <h3 class="list-sistem-hris">Database</h3>
+                            <p>HRIS has a database used to store employee information. The HR team can enter the entirety of such stored employee data within the system, being able to access this information from anywhere at any time.</p>
+                        </li>
+                        <li class="mt-3">
+                            <h3 class="list-sistem-hris">Time and labor management</h3>
+                            <p>HRIS utilizes a feature that allows employees to enter their own work hours or to leave requests as they see fit. Through these components, the HRIS application can thereby improve the HR department's ability to track employee timelines and their overall attendance rate.</p>
+                        </li>
+                        <li class="mt-3">
+                            <h3 class="list-sistem-hris">Payroll function</h3>
+                            <p>HR can accurately calculate the number of hours worked so as to determine appropriate employee salary payments amounts.</p>
+                        </li>
+                        <li class="mt-3">
+                            <h3 class="list-sistem-hris">Allowances or benefits</h3>
+                            <p>HRIS accounts for employee assistance arrangements, such as medical benefits or pension fund investments.</p>
+                        </li>
 
-                    <h3>1. Database</h3>
-                    <p>HRIS has a database used to store employee information. The HR team can enter the entirety of such stored employee data within the system, being able to access this information from anywhere at any time.</p>
-
-                    <h3>2. Time and labor management</h3>
-                    <p>HRIS utilizes a feature that allows employees to enter their own work hours or to leave requests as they see fit. Through these components, the HRIS application can thereby improve the HR department's ability to track employee timelines and their overall attendance rate.</p>
-
-                    <h3>3. Payroll function</h3>
-                    <p>HR can accurately calculate the number of hours worked so as to determine appropriate employee salary payments amounts.</p>
-
-                    <h3>4. Allowances or benefits</h3>
-                    <p>HRIS accounts for employee assistance arrangements, such as medical benefits or pension fund investments.</p>
-
-                    <h3>5. Interface for employees</h3>
-                    <p>Most HRIS applications provide employees with a level of user access. However, employees are only allowed limited access to databases where they can update their personal information, review pay scales, or apply for leave.</p>
-
+                        <li>
+                            <h3 class="list-sistem-hris">Interface for employees</h3>
+                            <p>Most HRIS applications provide employees with a level of user access. However, employees are only allowed limited access to databases where they can update their personal information, review pay scales, or apply for leave.</p>
+                        </li>
+                    </ol>
                 </div>
             </div>
 
         </div>
     </section>
 
-    <section class="mb--70px color--blue">
+    <section class="mb--70px color--blue margintop-150">
         <div class="container">
 
             <div class="text-center title--bg title--bg-border title--bg-border-left" data-title-bg="HRIS FUNCTION">
@@ -131,23 +139,32 @@ include($_SERVER['DOCUMENT_ROOT'] . '/component/header.php');
                     <p>A HRIS application can provide various benefits for your company, such as allowing the HR team to optimize their administrative tasks. By doing so, the HR team can potentially focus their attention on more pressing HR tasks.</p>
                     <p>Of the various HRIS components previously described, here are some of the main functions of the HRIS application:</p>
 
-                    <div class="pl-5">
-                        <h3>1. Record function</h3>
-                        <p>A HRIS can work as a record system which is able to track any changes related to employee data.</p>
+                    <ol class="list-item">
+                        <li class="mt-3">
+                            <h3 class="list-sistem-hris">Record function</h3>
+                            <p>A HRIS can work as a record system which is able to track any changes related to employee data.</p>
+                        </li>
 
-                        <h3>2. Fulfill the completeness of employee data</h3>
-                        <p>Most companies will collect and store comprehensive data about their employees. For example, a company most likely stores a variety of contact information about the individual, in the case of an accident, or in regards to taxes, etc. All information will be stored securely through the HRIS application. That is why HRIS is often relied on as an intelligent source of staffing data.</p>
+                        <li class="mt-3">
+                            <h3 class="list-sistem-hris">Fulfill the completeness of employee data</h3>
+                            <p>Most companies will collect and store comprehensive data about their employees. For example, a company most likely stores a variety of contact information about the individual, in the case of an accident, or in regards to taxes, etc. All information will be stored securely through the HRIS application. That is why HRIS is often relied on as an intelligent source of staffing data.</p>
+                        </li>
 
-                        <h3>3. Improve the overall efficiency of the HR administration processes</h3>
-                        <p>Digitally based methods of management can greatly raise the productivity of your company's HR team. Because such systems store a variety of data within a single location, the HR team will undoubtedly find it easier to update, track, and manage vast amounts of employee data.</p>
+                        <li class="mt-3">
+                            <h3 class="list-sistem-hris">Improve the overall efficiency of the HR administration processes</h3>
+                            <p>Digitally based methods of management can greatly raise the productivity of your company's HR team. Because such systems store a variety of data within a single location, the HR team will undoubtedly find it easier to update, track, and manage vast amounts of employee data.</p>
+                        </li>
 
-                        <h3>4. The process of analyzing and evaluating employee performance</h3>
-                        <p>The HRIS application allows you to analyze and review the overall performance of your employees. Most HRIS applications now have an e-attendance feature that automatically records employee attendance hours so as to gauge each employee’s individual level of discipline. In addition, the HRIS application also provides a variety of useful data that can be used to evaluate and report on an employee’s performance.</p>
+                        <li class="mt-3">
+                            <h3 class="list-sistem-hris">The process of analyzing and evaluating employee performance</h3>
+                            <p>The HRIS application allows you to analyze and review the overall performance of your employees. Most HRIS applications now have an e-attendance feature that automatically records employee attendance hours so as to gauge each employee’s individual level of discipline. In addition, the HRIS application also provides a variety of useful data that can be used to evaluate and report on an employee’s performance.</p>
+                        </li>
 
-                        <h3>5. Self-Service for employees</h3>
-                        <p>The HRIS application offers self-service capabilities for its employees. This means that employees can handle various metters independently regarding their data within the company. Examples include the ability to update personal information, view remaining leave quotas, apply for leave, track PTO, and others.</p>
-
-                    </div>
+                        <li class="mt-3">
+                            <h3 class="list-sistem-hris">Self-Service for employees</h3>
+                            <p>The HRIS application offers self-service capabilities for its employees. This means that employees can handle various metters independently regarding their data within the company. Examples include the ability to update personal information, view remaining leave quotas, apply for leave, track PTO, and others.</p>
+                        </li>
+                    </ol>
 
                     <p>Companies that are able to make good use of the HRIS application will get a strong sense of the benefits of doing so. This software is deliberately designed with various features that work to simplify the human resource management process for better efficiency and effectiveness. If your company is growing and currently has a substantial number of employees, then it is time for you to switch from a manually-based system to a digital one.</p>
                     <p>Dokodemo-Kerja, as one of the best HRIS software or applications in Indonesia, was built to make a positive contribution to the process of improving employee performance and overall professionalism within the workplace.</p>

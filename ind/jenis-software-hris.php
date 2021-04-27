@@ -61,7 +61,7 @@ include($_SERVER['DOCUMENT_ROOT'] . '/ind/component/header.php');
             <div class="fs-14 row justify-content-center">
                 <div class="col-md-10">
                     <p>Sebelum kami jelaskan apa saja jenis-jenis software HRIS, perlu Anda pahami terlebih dahulu bahwa secara garis besar teknologi software HR dibagi ke dalam 3 kategori utama yaitu:</p>
-                    <ol>
+                    <ol class="list-item">
                         <li class="mt-3">
                             <p>HRIS (Human Resource Information System) adalah perangkat lunak yang dirancang untuk mengelola data, kebijakan, dan prosedur terkait karyawan di dalam suatu perusahaan. </p>
                         </li>

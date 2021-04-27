@@ -96,7 +96,7 @@ include($_SERVER['DOCUMENT_ROOT'] . '/ind/component/header.php');
             <div class="fs-14 row justify-content-center">
                 <div class="col-md-10">
 
-                    <ol>
+                    <ol class="list-item">
                         <li class="mt-3">
                             <h3 class="list-sistem-hris">Database</h3>
                             <p>HRIS memiliki database untuk menyimpan informasi karyawan. Tim HR dapat memasukkan semua data karyawan ke dalam sistem yang dapat diakses dari mana saja dan kapan saja. </p>
@@ -138,9 +138,7 @@ include($_SERVER['DOCUMENT_ROOT'] . '/ind/component/header.php');
                     <p>Aplikasi HRIS mampu memberikan berbagai keuntungan untuk perusahaan Anda. Penggunaan aplikasi HRIS ini memungkinkan tim HR untuk bisa lebih efektif dan efisien dalam pengerjaan tugas-tugas administrasinya. Dengan demikian, tim HR dapat lebih fokus untuk mengerjakan tugas-tugas HR yang lain. </p>
                     <p>Dari berbagai komponen HRIS yang sudah dijelaskan sebelumnya, berikut beberapa fungsi utama dari aplikasi HRIS:</p>
 
-                    <div class="pl-5">
-
-                        <ol>
+                        <ol class="list-item">
                             <li class="mt-3">
                                 <h3 class="list-sistem-hris">Fungsi pencatatan</h3>
                                 <p>HRIS dapat bekerja sebagai sistem pencatatan yang mampu melacak perubahan apapun terkait data karyawan.</p>

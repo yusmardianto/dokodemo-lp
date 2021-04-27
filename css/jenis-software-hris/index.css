@@ -5,10 +5,16 @@
     margin-top: 70px;
 }
 
-ol li {
+.breadcumb > li > a {
+    font-size: 10px;
+    font-weight: normal;
+}
+
+.list-item > li {
     font-weight: bold;
 }
+
 li > p {
     font-weight: normal;
-    margin-left: 10px
+    margin-left: 10px;
 }
