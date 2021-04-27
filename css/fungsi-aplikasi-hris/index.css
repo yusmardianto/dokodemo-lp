@@ -1,3 +1,40 @@
 .bold-link {
-  color: #3b81bf;
+    color: #3b81bf;
+}
+
+.margintop-100 {
+    margin-top: 100px;
+}
+
+.margintop-50 {
+    margin-top: 50px;
+}
+
+.margintop-80 {
+    margin-top: 80px;
+}
+
+.margintop-150 {
+    margin-top: 150px;
+}
+
+.margintop-170 {
+    margin-top: 170px;
+}
+
+.list-sistem-hris {
+    font-size: 20px;
+    font-weight: bold;
+    margin: 35px 0 10px 0;
+    line-height: 2;
+}
+
+ol > li {
+    font-size: 20px;
+    font-weight: bold;
+}
+
+ol > li > p {
+    font-size: 16px;
+    font-weight: normal;
 }

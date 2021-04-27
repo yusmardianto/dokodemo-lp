@@ -23,7 +23,6 @@ include($_SERVER['DOCUMENT_ROOT'] . '/ind/component/header.php');
 ?>
 
 <div class="case-study home">
-
     <section class="mb--30px fs-14">
         <div class="container">
             <nav aria-label="breadcrumb">
@@ -36,7 +35,7 @@ include($_SERVER['DOCUMENT_ROOT'] . '/ind/component/header.php');
         </div>
     </section>
 
-    <section class="mb--70px">
+    <section class="mb--70px margintop-80">
         <div class="color--blue container">
             <div class="text-center title--bg title--bg-border title--bg-border-right" data-title-bg="DEFINISI">
                 <h1 class="mb-0 font-weight-bold fs-34">Definisi dan Fungsi Aplikasi HRIS</h1>
@@ -51,7 +50,7 @@ include($_SERVER['DOCUMENT_ROOT'] . '/ind/component/header.php');
         </div>
     </section>
 
-    <section class="mb--70px py--30px color--blue bg--l-blue case-study__dokodemo">
+    <section class="mb--70px py--30px color--blue bg--l-blue case-study__dokodemo margintop-150">
         <div class="container">
             <div class="row justify-content-center">
                 <div class="col-md-10">
@@ -69,7 +68,7 @@ include($_SERVER['DOCUMENT_ROOT'] . '/ind/component/header.php');
         </div>
     </section>
 
-    <section class="mb--70px color--blue">
+    <section class="mb--70px color--blue margintop-170">
         <div class="container">
 
             <div class="text-center title--bg title--bg-border title--bg-border-left" data-title-bg="HRIS">
@@ -87,7 +86,7 @@ include($_SERVER['DOCUMENT_ROOT'] . '/ind/component/header.php');
         </div>
     </section>
 
-    <section class="mb--70px color--blue">
+    <section class="mb--70px color--blue margintop-150">
         <div class="container">
 
             <div class="text-center title--bg title--bg-border title--bg-border-right" data-title-bg="KOMPONEN HRIS">
@@ -97,28 +96,36 @@ include($_SERVER['DOCUMENT_ROOT'] . '/ind/component/header.php');
             <div class="fs-14 row justify-content-center">
                 <div class="col-md-10">
 
-                    <h3>1. Database</h3>
-                    <p>HRIS memiliki database untuk menyimpan informasi karyawan. Tim HR dapat memasukkan semua data karyawan ke dalam sistem yang dapat diakses dari mana saja dan kapan saja. </p>
+                    <ol>
+                        <li class="mt-3">
+                            <h3 class="list-sistem-hris">Database</h3>
+                            <p>HRIS memiliki database untuk menyimpan informasi karyawan. Tim HR dapat memasukkan semua data karyawan ke dalam sistem yang dapat diakses dari mana saja dan kapan saja. </p>
+                        </li>
+                        <li class="mt-3">
+                            <h3 class="list-sistem-hris">Manajemen waktu dan tenaga kerja</h3>
+                            <p>HRIS memiliki komponen yang memungkinkan karyawan untuk dapat memasukkan jam kerja mereka sendiri atau pengajuan cuti. Dari komponen tersebut, aplikasi HRIS dapat meningkatkan kemampuan departemen HR dalam melacak ketepatan waktu dan kehadiran karyawan.</p>
+                        </li>
+                        <li class="mt-3">
+                            <h3 class="list-sistem-hris">Fungsi penggajian</h3>
+                            <p>HR dapat mengetahui jumlah jam kerja dan menentukan setoran gaji karyawan.</p>
+                        </li>
+                        <li class="mt-3">
+                            <h3 class="list-sistem-hris">Tunjangan atau benefit</h3>
+                            <p>HRIS memiliki komponen untuk pengaturan tunjangan karyawan seperti tunjangan kesehatan atau investasi dana pensiun.</p>
+                        </li>
 
-                    <h3>2. Manajemen waktu dan tenaga kerja</h3>
-                    <p>HRIS memiliki komponen yang memungkinkan karyawan untuk dapat memasukkan jam kerja mereka sendiri atau pengajuan cuti. Dari komponen tersebut, aplikasi HRIS dapat meningkatkan kemampuan departemen HR dalam melacak ketepatan waktu dan kehadiran karyawan.</p>
-
-                    <h3>3. Fungsi penggajian</h3>
-                    <p>HR dapat mengetahui jumlah jam kerja dan menentukan setoran gaji karyawan.</p>
-
-                    <h3>4. Tunjangan atau benefit</h3>
-                    <p>HRIS memiliki komponen untuk pengaturan tunjangan karyawan seperti tunjangan kesehatan atau investasi dana pensiun.</p>
-
-                    <h3>5. Interface untuk karyawan</h3>
-                    <p>Sebagian besar aplikasi HRIS memberikan karyawan user access. Meskipun demikian, karyawan hanya memiliki akses terbatas seperti database tempat mereka dapat memperbarui informasi pribadi, meninjau skala gaji, atau untuk pengajuan cuti.</p>
-
+                        <li>
+                            <h3 class="list-sistem-hris">Interface untuk karyawan</h3>
+                            <p>Sebagian besar aplikasi HRIS memberikan karyawan user access. Meskipun demikian, karyawan hanya memiliki akses terbatas seperti database tempat mereka dapat memperbarui informasi pribadi, meninjau skala gaji, atau untuk pengajuan cuti.</p>
+                        </li>
+                    </ol>
                 </div>
             </div>
 
         </div>
     </section>
 
-    <section class="mb--70px color--blue">
+    <section class="mb--70px color--blue margintop-150">
         <div class="container">
 
             <div class="text-center title--bg title--bg-border title--bg-border-left" data-title-bg="FUNGSI HRIS">
@@ -132,23 +139,36 @@ include($_SERVER['DOCUMENT_ROOT'] . '/ind/component/header.php');
                     <p>Dari berbagai komponen HRIS yang sudah dijelaskan sebelumnya, berikut beberapa fungsi utama dari aplikasi HRIS:</p>
 
                     <div class="pl-5">
-                        <h3>1. Fungsi pencatatan</h3>
-                        <p>HRIS dapat bekerja sebagai sistem pencatatan yang mampu melacak perubahan apapun terkait data karyawan.</p>
 
-                        <h3>2. Memenuhi kelengkapan data karyawan</h3>
-                        <p>Sebagian besar perusahan akan mengumpulkan dan menyimpan data-data lengkap mengenai pegawainya. Hal tersebut dipersiapkan untuk beberapa alasan seperti untuk menyimpan informasi kontak pertama ketika terjadi kecelakan, informasi untuk pajak, dan lain-lain. Semua informasi tersebut akan tersimpan dengan aman melalui aplikasi HRIS. Itulah sebabnya mengapa HRIS sering diandalkan sebagai sumber data kepegawaian yang cerdas.</p>
+                        <ol>
+                            <li class="mt-3">
+                                <h3 class="list-sistem-hris">Fungsi pencatatan</h3>
+                                <p>HRIS dapat bekerja sebagai sistem pencatatan yang mampu melacak perubahan apapun terkait data karyawan.</p>
+                            </li>
 
-                        <h3>3. Meningkatkan efektivitas dan efisiensi proses administrasi HR</h3>
-                        <p>Melakukan pengelolaan secara digital dapat meningkatkan produktivitas tim HR perusahaan Anda. Karena sistem menyimpan berbagai data di satu tempat, maka tim HR akan lebih mudah dalam memperbarui, melacak, dan mengelola data karyawannya. </p>
+                            <li class="mt-3">
+                                <h3 class="list-sistem-hris">Memenuhi kelengkapan data karyawan</h3>
+                                <p>Sebagian besar perusahan akan mengumpulkan dan menyimpan data-data lengkap mengenai pegawainya. Hal tersebut dipersiapkan untuk beberapa alasan seperti untuk menyimpan informasi kontak pertama ketika terjadi kecelakan, informasi untuk pajak, dan lain-lain. Semua informasi tersebut akan tersimpan dengan aman melalui aplikasi HRIS. Itulah sebabnya mengapa HRIS sering diandalkan sebagai sumber data kepegawaian yang cerdas.</p>
+                            </li>
 
-                        <h3>4. Proses analisis untuk evaluasi kinerja karyawan</h3>
-                        <p>Aplikasi HRIS memungkinkan Anda untuk bisa menganalisis dan meninjau bagaimana kinerja karyawan. Sebagian besar aplikasi HRIS saat ini sudah memiliki fitur e-absensi untuk mencatat jam kehadiran karyawan sehingga dapat dipergunakan untuk melihat tingkat kedisiplinan karyawan. Selain itu, aplikasi HRIS juga menyediakan berbagai data yang berguna untuk penilaian kinerja. </p>
+                            <li class="mt-3">
+                                <h3 class="list-sistem-hris">Meningkatkan efektivitas dan efisiensi proses administrasi HR</h3>
+                                <p>Melakukan pengelolaan secara digital dapat meningkatkan produktivitas tim HR perusahaan Anda. Karena sistem menyimpan berbagai data di satu tempat, maka tim HR akan lebih mudah dalam memperbarui, melacak, dan mengelola data karyawannya. </p>
+                            </li>
 
-                        <h3>5. Self-Service untuk karyawan</h3>
-                        <p>Aplikasi HRIS menawarkan kemampuan self-service untuk para karyawannya. Artinya, karyawan dapat menangani berbagai hal secara mandiri terkait data-data mereka di perusahaan. Contohnya seperti kemampuan untuk memperbarui informasi pribadi, melihat kuota cuti yang tersisa, mengajukan cuti, melacak PTO, dan lain-lain.</p>
+                            <li class="mt-3">
+                                <h3 class="list-sistem-hris">Proses analisis untuk evaluasi kinerja karyawan</h3>
+                                <p>Aplikasi HRIS memungkinkan Anda untuk bisa menganalisis dan meninjau bagaimana kinerja karyawan. Sebagian besar aplikasi HRIS saat ini sudah memiliki fitur e-absensi untuk mencatat jam kehadiran karyawan sehingga dapat dipergunakan untuk melihat tingkat kedisiplinan karyawan. Selain itu, aplikasi HRIS juga menyediakan berbagai data yang berguna untuk penilaian kinerja. </p>
+                            </li>
+
+                            <li class="mt-3">
+                                <h3 class="list-sistem-hris">Self-Service untuk karyawan</h3>
+                                <p>Aplikasi HRIS menawarkan kemampuan self-service untuk para karyawannya. Artinya, karyawan dapat menangani berbagai hal secara mandiri terkait data-data mereka di perusahaan. Contohnya seperti kemampuan untuk memperbarui informasi pribadi, melihat kuota cuti yang tersisa, mengajukan cuti, melacak PTO, dan lain-lain.</p>
+                            </li>
+                        </ol>
                     </div>
 
-                    <p>Perusahaan yang mampu memanfaatkan aplikasi HRIS dengan baik akan memperoleh berbagai keuntungan. Software ini sengaja dirancang dengan berbagai fitur untuk menyederhanakan pengelolaan sumber daya manusia sehingga proses pengelolaan karyawan akan menjadi lebih efektif dan efisien. Jika perusahaan Anda sudah semakin berkembang dan memiliki lebih banyak karyawan, maka sudah saatnya Anda beralih dari sistem manual ke sistem digital.</p>
+                    <p class="margintop-50">Perusahaan yang mampu memanfaatkan aplikasi HRIS dengan baik akan memperoleh berbagai keuntungan. Software ini sengaja dirancang dengan berbagai fitur untuk menyederhanakan pengelolaan sumber daya manusia sehingga proses pengelolaan karyawan akan menjadi lebih efektif dan efisien. Jika perusahaan Anda sudah semakin berkembang dan memiliki lebih banyak karyawan, maka sudah saatnya Anda beralih dari sistem manual ke sistem digital.</p>
                     <p>Dokodemo-Kerja sebagai salah satu software atau aplikasi HRIS terbaik di Indonesia mampu memberikan kontribusi positif dalam proses peningkatan kinerja dan profesionalitas karyawan.</p>
 
                 </div>
@@ -157,6 +177,7 @@ include($_SERVER['DOCUMENT_ROOT'] . '/ind/component/header.php');
         </div>
     </section>
 
+    <div class="margintop-100"></div>
 </div>
 
 <?php include($_SERVER['DOCUMENT_ROOT'] . '/ind/component/demo-banner.php'); ?>
