@@ -1,24 +1,24 @@
-<?php 
-    $page = array(
-        "en" => "hris-definition-functions",
-        "jp" => "hris-definition-functions",
-    );
-    $page_title = 'Definisi dan Fungsi Aplikasi / Software HRIS | Dokodemo-Kerja';
+<?php
+$page = array(
+    "en" => "hris-definition-functions",
+    "jp" => "hris-definition-functions",
+);
+$page_title = 'Definisi dan Fungsi Aplikasi / Software HRIS | Dokodemo-Kerja';
 
-    $meta_description = 'Aplikasi atau software HRIS memiliki fungsi & manfaat besar bagi HR Department sebuah perusahaan di era digital saat ini. Simak penjelasan lengkapnya disini.';
-    $meta_keyword = 'dokodemo, dokodemo-kerja, Dokodemo kasus, Digital Logique Indonesia, sistem kerja jarak jauh, system kerja remote, perusahan pengembangan system, monitor karyawan, alat kerja remote, alat untuk manajer, perusahaan akuntansi';
+$meta_description = 'Aplikasi atau software HRIS memiliki fungsi & manfaat besar bagi HR Department sebuah perusahaan di era digital saat ini. Simak penjelasan lengkapnya disini.';
+$meta_keyword = 'dokodemo, dokodemo-kerja, Dokodemo kasus, Digital Logique Indonesia, sistem kerja jarak jauh, system kerja remote, perusahan pengembangan system, monitor karyawan, alat kerja remote, alat untuk manajer, perusahaan akuntansi';
 
-    $og_title = 'Definisi dan Fungsi Aplikasi / Software HRIS | Dokodemo-Kerja';
-    $og_image = 'https://dokodemo-kerja.com/img/dokodemo-og.jpg';
-    $og_desription = 'Aplikasi atau software HRIS memiliki fungsi & manfaat besar bagi HR Department sebuah perusahaan di era digital saat ini. Simak penjelasan lengkapnya disini.';
+$og_title = 'Definisi dan Fungsi Aplikasi / Software HRIS | Dokodemo-Kerja';
+$og_image = 'https://dokodemo-kerja.com/img/dokodemo-og.jpg';
+$og_desription = 'Aplikasi atau software HRIS memiliki fungsi & manfaat besar bagi HR Department sebuah perusahaan di era digital saat ini. Simak penjelasan lengkapnya disini.';
 
-    $add_css = '
+$add_css = '
     <link rel="stylesheet" href="/css/slick.css" />
     <link rel="stylesheet" href="/css/slick-theme.css" />
     <link rel="stylesheet" href="/css/style-home.css" />
     <link rel="stylesheet" href="/css/style-case-study.css" />';
 
-    include($_SERVER['DOCUMENT_ROOT'].'/ind/component/header.php');
+include($_SERVER['DOCUMENT_ROOT'] . '/ind/component/header.php');
 ?>
 
 <div class="case-study home">
@@ -37,14 +37,14 @@
 
     <section class="mb--70px">
         <div class="color--blue container">
-            <div class="text-center title--bg title--bg-border title--bg-border-right" data-title-bg="DEFINISI">                            
+            <div class="text-center title--bg title--bg-border title--bg-border-right" data-title-bg="DEFINISI">
                 <h1 class="mb-0 font-weight-bold fs-34">Definisi dan Fungsi Aplikasi HRIS</h1>
             </div>
 
             <div class="fs-14 row justify-content-center">
                 <div class="col-md-10">
-                <p>Aplikasi HRIS saat ini menjadi software yang paling banyak digunakan oleh Human Resources Department (HRD). Seperti yang kita ketahui, data karyawan merupakan sekumpulan informasi penting bagi perusahaan manapun. Oleh karena itulah aplikasi HRIS dirancang agar bisa memudahkan pihak manajemen untuk menemukan dan mengelola informasi karyawan pada satu tempat yang aman tanpa harus mencari dari berbagai lokasi file yang berbeda. </p>
-                <p class="mb-0">Agar Anda dapat lebih memahami mengenai apa itu aplikasi HRIS,kali ini kami akan menginformasikan definisi HRIS serta fungsi-fungsi utamanya untuk Anda.</p>
+                    <p>Aplikasi HRIS saat ini menjadi software yang paling banyak digunakan oleh Human Resources Department (HRD). Seperti yang kita ketahui, data karyawan merupakan sekumpulan informasi penting bagi perusahaan manapun. Oleh karena itulah aplikasi HRIS dirancang agar bisa memudahkan pihak manajemen untuk menemukan dan mengelola informasi karyawan pada satu tempat yang aman tanpa harus mencari dari berbagai lokasi file yang berbeda. </p>
+                    <p class="mb-0">Agar Anda dapat lebih memahami mengenai apa itu aplikasi HRIS,kali ini kami akan menginformasikan definisi HRIS serta fungsi-fungsi utamanya untuk Anda.</p>
                 </div>
             </div>
         </div>
@@ -59,8 +59,8 @@
                             <h2 class="fs-34 font-weight-bold">“Dokodemo-Kerja”</h2>
                         </div>
                         <div class="col-md fs-14">
-                            <p><b>Aplikasi Absensi Online</b> terbaik dengan fiturlengkap untuk meningkatkan produktivitaskerja para karyawan. Pengelolaan Absensi, Cuti, hingga Evaluasi hanya melalui satu Aplikasi</p>
-                            <p class="mb-0 font-weight-bold">Bekerja dimana saja dengan Dokodemo-Kerja. Coba sekarang!</p>
+                            <p><a href="/ind/" target="_blank"><b>Aplikasi Absensi Online</b></a> terbaik dengan fitur lengkap untuk meningkatkan produktivitas kerja para karyawan. Pengelolaan Absensi, Cuti, hingga Evaluasi hanya melalui satu Aplikasi</p>
+                            <p class="mb-0">Bekerja dimana saja dengan Dokodemo-Kerja. <a href="/ind/demo" target="_blank" class="coba-sekarang"><b>Coba sekarang!</b><a> </p>
                         </div>
                     </div>
                 </div>
@@ -70,8 +70,8 @@
 
     <section class="mb--70px color--blue">
         <div class="container">
-            
-            <div class="text-center title--bg title--bg-border title--bg-border-left" data-title-bg="HRIS">                            
+
+            <div class="text-center title--bg title--bg-border title--bg-border-left" data-title-bg="HRIS">
                 <h2 class="mb-0 font-weight-bold fs-34">Apa Itu HRIS (Human Resources Information System)?</h2>
             </div>
 
@@ -82,14 +82,14 @@
                     <p class="mb-0">Untuk menggunakan sistem ini, perusahaan dapat menggunakan aplikasi HRIS berbasis cloud ataupun on premise. Jika perusahaan menggunakan software on premise maka penyimpanan data akan tersimpan pada database dan server yang dioperasikan oleh perusahaan itu sendiri. Sedangkan ketika menggunakan software berbasis cloud, maka data akan tersimpan tersimpan di dalam pusat data server provider aplikasi HRIS.</p>
                 </div>
             </div>
-            
+
         </div>
     </section>
-    
+
     <section class="mb--70px color--blue">
         <div class="container">
-            
-            <div class="text-center title--bg title--bg-border title--bg-border-right" data-title-bg="KOMPONEN HRIS">                            
+
+            <div class="text-center title--bg title--bg-border title--bg-border-right" data-title-bg="KOMPONEN HRIS">
                 <h2 class="mb-0 font-weight-bold fs-34">Beberapa Komponen Sistem HRIS</h2>
             </div>
 
@@ -106,21 +106,21 @@
                     <p>HR dapat mengetahui jumlah jam kerja dan menentukan setoran gaji karyawan.</p>
 
                     <h3>4. Tunjangan atau benefit</h3>
-                    <p>HRIS memiliki komponen untuk pengaturan tunjangan karyawan seperti  tunjangan kesehatan atau investasi dana pensiun.</p>
+                    <p>HRIS memiliki komponen untuk pengaturan tunjangan karyawan seperti tunjangan kesehatan atau investasi dana pensiun.</p>
 
                     <h3>5. Interface untuk karyawan</h3>
                     <p>Sebagian besar aplikasi HRIS memberikan karyawan user access. Meskipun demikian, karyawan hanya memiliki akses terbatas seperti database tempat mereka dapat memperbarui informasi pribadi, meninjau skala gaji, atau untuk pengajuan cuti.</p>
 
                 </div>
             </div>
-        
+
         </div>
     </section>
 
     <section class="mb--70px color--blue">
         <div class="container">
-            
-            <div class="text-center title--bg title--bg-border title--bg-border-left" data-title-bg="FUNGSI HRIS">                            
+
+            <div class="text-center title--bg title--bg-border title--bg-border-left" data-title-bg="FUNGSI HRIS">
                 <h2 class="mb-0 font-weight-bold fs-34">Fungsi-Fungsi HRIS (Human Resources Information System)</h2>
             </div>
 
@@ -152,23 +152,22 @@
 
                 </div>
             </div>
-            
+
         </div>
     </section>
-    
+
 </div>
-    
-<?php include($_SERVER['DOCUMENT_ROOT'].'/ind/component/demo-banner.php'); ?>
-<?php include($_SERVER['DOCUMENT_ROOT'].'/ind/component/footer.php'); ?>
+
+<?php include($_SERVER['DOCUMENT_ROOT'] . '/ind/component/demo-banner.php'); ?>
+<?php include($_SERVER['DOCUMENT_ROOT'] . '/ind/component/footer.php'); ?>
 
 <script>
-    $(function() {        
+    $(function() {
         $(".case-study__slide").slick({
             slidesToShow: 3,
             slidesToScroll: 1,
             arrows: true,
-            responsive: [
-                {
+            responsive: [{
                     breakpoint: 991,
                     settings: {
                         slidesToShow: 2,
@@ -188,4 +187,4 @@
         })
     });
 </script>
-<?php include($_SERVER['DOCUMENT_ROOT'].'/component/footer-end.php') ?>
+<?php include($_SERVER['DOCUMENT_ROOT'] . '/component/footer-end.php') ?>

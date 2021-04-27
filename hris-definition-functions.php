@@ -1,24 +1,24 @@
-<?php 
-    $page = array(
-        "id" => "fungsi-aplikasi-hris",
-        "jp" => "hris-definition-functions",
-    );
-    $page_title = 'Definition and Functions of the HRIS Application / Software | Dokodemo-Kerja';
+<?php
+$page = array(
+    "id" => "fungsi-aplikasi-hris",
+    "jp" => "hris-definition-functions",
+);
+$page_title = 'Definition and Functions of the HRIS Application / Software | Dokodemo-Kerja';
 
-    $meta_description = 'HRIS applications and software provide many benefits for a company’s HR Department in today\'s digital era. Check out the full explanation here.';
-    $meta_keyword = 'dokodemo, dokodemo-kerja, Dokodemo kasus, Digital Logique Indonesia, sistem kerja jarak jauh, system kerja remote, perusahan pengembangan system, monitor karyawan, alat kerja remote, alat untuk manajer, perusahaan akuntansi';
+$meta_description = 'HRIS applications and software provide many benefits for a company’s HR Department in today\'s digital era. Check out the full explanation here.';
+$meta_keyword = 'dokodemo, dokodemo-kerja, Dokodemo kasus, Digital Logique Indonesia, sistem kerja jarak jauh, system kerja remote, perusahan pengembangan system, monitor karyawan, alat kerja remote, alat untuk manajer, perusahaan akuntansi';
 
-    $og_title = 'Definition and Functions of the HRIS Application / Software | Dokodemo-Kerja';
-    $og_image = 'https://dokodemo-kerja.com/img/dokodemo-og.jpg';
-    $og_desription = 'HRIS applications and software provide many benefits for a company’s HR Department in today\'s digital era. Check out the full explanation here.';
+$og_title = 'Definition and Functions of the HRIS Application / Software | Dokodemo-Kerja';
+$og_image = 'https://dokodemo-kerja.com/img/dokodemo-og.jpg';
+$og_desription = 'HRIS applications and software provide many benefits for a company’s HR Department in today\'s digital era. Check out the full explanation here.';
 
-    $add_css = '
+$add_css = '
     <link rel="stylesheet" href="/css/slick.css" />
     <link rel="stylesheet" href="/css/slick-theme.css" />
     <link rel="stylesheet" href="/css/style-home.css" />
     <link rel="stylesheet" href="/css/style-case-study.css" />';
 
-    include($_SERVER['DOCUMENT_ROOT'].'/component/header.php');
+include($_SERVER['DOCUMENT_ROOT'] . '/component/header.php');
 ?>
 
 <div class="case-study home">
@@ -37,7 +37,7 @@
 
     <section class="mb--70px">
         <div class="color--blue container">
-            <div class="text-center title--bg title--bg-border title--bg-border-right" data-title-bg="DEFINITION">                            
+            <div class="text-center title--bg title--bg-border title--bg-border-right" data-title-bg="DEFINITION">
                 <h1 class="mb-0 font-weight-bold fs-34">Definition and Functions of an HRIS Application</h1>
             </div>
 
@@ -59,8 +59,8 @@
                             <h2 class="fs-34 font-weight-bold">“Dokodemo-Kerja”</h2>
                         </div>
                         <div class="col-md fs-14">
-                            <p><b>Aplikasi Absensi Online</b> terbaik dengan fiturlengkap untuk meningkatkan produktivitaskerja para karyawan. Pengelolaan Absensi, Cuti, hingga Evaluasi hanya melalui satu Aplikasi</p>
-                            <p class="mb-0 font-weight-bold">Bekerja dimana saja dengan Dokodemo-Kerja. Coba sekarang!</p>
+                            <p>The best <a href="/" target="_blank"><b>Attendance Management Software</b></a> with complete features to increase employee productivity. Management of Attendance, Leave, and Evaluation through one Application</p>
+                            <p class="mb-0"> Work anywhere with Dokodemo-Kerja. <a href="/" target="_blank"><b>Try it now!</b></a></p>
                         </div>
                     </div>
                 </div>
@@ -70,8 +70,8 @@
 
     <section class="mb--70px color--blue">
         <div class="container">
-            
-            <div class="text-center title--bg title--bg-border title--bg-border-left" data-title-bg="HRIS">                            
+
+            <div class="text-center title--bg title--bg-border title--bg-border-left" data-title-bg="HRIS">
                 <h2 class="mb-0 font-weight-bold fs-34">What is HRIS (Human Resources Information System)?</h2>
             </div>
 
@@ -82,14 +82,14 @@
                     <p class="mb-0">In using this system, companies utilize cloud-based or on-premise HRIS applications. If the company uses on-premise software, information storage will be based within databases and servers being operated by the company itself. Meanwhile, through the use of cloud-based software, such data will be stored within the HRIS application provider's data center server.</p>
                 </div>
             </div>
-            
+
         </div>
     </section>
 
     <section class="mb--70px color--blue">
         <div class="container">
-            
-            <div class="text-center title--bg title--bg-border title--bg-border-right" data-title-bg="HRIS COMPONENT">                            
+
+            <div class="text-center title--bg title--bg-border title--bg-border-right" data-title-bg="HRIS COMPONENT">
                 <h2 class="mb-0 font-weight-bold fs-34">HRIS System Components</h2>
             </div>
 
@@ -113,14 +113,14 @@
 
                 </div>
             </div>
-        
+
         </div>
     </section>
 
     <section class="mb--70px color--blue">
         <div class="container">
-            
-            <div class="text-center title--bg title--bg-border title--bg-border-left" data-title-bg="HRIS FUNCTION">                            
+
+            <div class="text-center title--bg title--bg-border title--bg-border-left" data-title-bg="HRIS FUNCTION">
                 <h2 class="mb-0 font-weight-bold fs-34">Functions of HRIS (Human Resource Information System)</h2>
             </div>
 
@@ -153,23 +153,22 @@
 
                 </div>
             </div>
-            
+
         </div>
     </section>
-    
+
 </div>
-    
-<?php include($_SERVER['DOCUMENT_ROOT'].'/component/demo-banner.php'); ?>
-<?php include($_SERVER['DOCUMENT_ROOT'].'/component/footer.php'); ?>
+
+<?php include($_SERVER['DOCUMENT_ROOT'] . '/component/demo-banner.php'); ?>
+<?php include($_SERVER['DOCUMENT_ROOT'] . '/component/footer.php'); ?>
 
 <script>
-    $(function() {        
+    $(function() {
         $(".case-study__slide").slick({
             slidesToShow: 3,
             slidesToScroll: 1,
             arrows: true,
-            responsive: [
-                {
+            responsive: [{
                     breakpoint: 991,
                     settings: {
                         slidesToShow: 2,
@@ -189,4 +188,4 @@
         })
     });
 </script>
-<?php include($_SERVER['DOCUMENT_ROOT'].'/component/footer-end.php') ?>
+<?php include($_SERVER['DOCUMENT_ROOT'] . '/component/footer-end.php') ?>
