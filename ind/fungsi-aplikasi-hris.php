@@ -16,6 +16,7 @@ $add_css = '
     <link rel="stylesheet" href="/css/slick.css" />
     <link rel="stylesheet" href="/css/slick-theme.css" />
     <link rel="stylesheet" href="/css/style-home.css" />
+    <link rel="stylesheet" href="/css/fungsi-aplikasi-hris/index.css" />
     <link rel="stylesheet" href="/css/style-case-study.css" />';
 
 include($_SERVER['DOCUMENT_ROOT'] . '/ind/component/header.php');
@@ -59,8 +60,8 @@ include($_SERVER['DOCUMENT_ROOT'] . '/ind/component/header.php');
                             <h2 class="fs-34 font-weight-bold">“Dokodemo-Kerja”</h2>
                         </div>
                         <div class="col-md fs-14">
-                            <p><a href="/ind/" target="_blank"><b>Aplikasi Absensi Online</b></a> terbaik dengan fitur lengkap untuk meningkatkan produktivitas kerja para karyawan. Pengelolaan Absensi, Cuti, hingga Evaluasi hanya melalui satu Aplikasi</p>
-                            <p class="mb-0">Bekerja dimana saja dengan Dokodemo-Kerja. <a href="/ind/demo" target="_blank" class="coba-sekarang"><b>Coba sekarang!</b><a> </p>
+                            <p><a class="bold-link" href="/ind/" target="_blank"><b>Aplikasi Absensi Online</b></a> terbaik dengan fitur lengkap untuk meningkatkan produktivitas kerja para karyawan. Pengelolaan Absensi, Cuti, hingga Evaluasi hanya melalui satu Aplikasi</p>
+                            <p class="mb-0">Bekerja dimana saja dengan Dokodemo-Kerja. <a class="bold-link" href="/ind/demo" target="_blank" class="coba-sekarang"><b>Coba sekarang!</b><a> </p>
                         </div>
                     </div>
                 </div>

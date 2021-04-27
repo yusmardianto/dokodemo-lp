@@ -16,6 +16,7 @@ $add_css = '
     <link rel="stylesheet" href="/css/slick.css" />
     <link rel="stylesheet" href="/css/slick-theme.css" />
     <link rel="stylesheet" href="/css/style-home.css" />
+    <link rel="stylesheet" href="/css/fungsi-aplikasi-hris/index.css" />
     <link rel="stylesheet" href="/css/style-case-study.css" />';
 
 include($_SERVER['DOCUMENT_ROOT'] . '/component/header.php');
@@ -59,8 +60,8 @@ include($_SERVER['DOCUMENT_ROOT'] . '/component/header.php');
                             <h2 class="fs-34 font-weight-bold">“Dokodemo-Kerja”</h2>
                         </div>
                         <div class="col-md fs-14">
-                            <p>The best <a href="/" target="_blank"><b>Attendance Management Software</b></a> with complete features to increase employee productivity. Management of Attendance, Leave, and Evaluation through one Application</p>
-                            <p class="mb-0"> Work anywhere with Dokodemo-Kerja. <a href="/" target="_blank"><b>Try it now!</b></a></p>
+                            <p>The best <a href="/" target="_blank" class="bold-link"><b>Attendance Management Software</b></a> with complete features to increase employee productivity. Management of Attendance, Leave, and Evaluation through one Application</p>
+                            <p class="mb-0"> Work anywhere with Dokodemo-Kerja. <a class="bold-link" href="/" target="_blank"><b>Try it now!</b></a></p>
                         </div>
                     </div>
                 </div>
