@@ -1,0 +1,20 @@
+.margintop-100 {
+    margin-top: 100px;
+}
+.margintop-70 {
+    margin-top: 70px;
+}
+
+.breadcumb > li > a {
+    font-size: 10px;
+    font-weight: normal;
+}
+
+.list-item > li {
+    font-weight: bold;
+}
+
+li > p {
+    font-weight: normal;
+    margin-left: 10px;
+}

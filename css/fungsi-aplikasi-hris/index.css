@@ -1,0 +1,51 @@
+.bold-link {
+    color: #3b81bf;
+}
+
+.margintop-100 {
+    margin-top: 100px;
+}
+
+.margintop-50 {
+    margin-top: 50px;
+}
+
+.margintop-80 {
+    margin-top: 80px;
+}
+
+.margintop-150 {
+    margin-top: 150px;
+}
+
+.margintop-170 {
+    margin-top: 170px;
+}
+
+.list-sistem-hris {
+    font-size: 20px;
+    font-weight: bold;
+    margin: 35px 0 10px 0;
+    line-height: 2;
+}
+
+.breadcumb > li > a {
+    font-size: 10px;
+    font-weight: normal;
+}
+
+.list-item > li {
+    font-size: 19px;
+    font-weight: bold;
+}
+
+.list-item > li > p {
+    font-size: 16px;
+    font-weight: normal;
+}
+
+.list-item > li > h3 {
+    letter-spacing: 0.8px;
+    font-size: 19px;
+    font-weight: bold;
+}
