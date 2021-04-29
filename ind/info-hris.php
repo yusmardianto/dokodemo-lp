@@ -67,7 +67,7 @@ include($_SERVER['DOCUMENT_ROOT'] . '/ind/component/header.php');
                     <a href="/ind/fungsi-aplikasi-hris.php" class="color--blue">
                         <div class="case-study">
                             <picture>
-                                <img src="/img/case-study/case-1.png" alt="" class="img-fluid mb-3 rounded-lg" loading="lazy">
+                                <img src="/img/swiper-img/aplikasi-hris.jpg" alt="deinisi aplikasi hris" class="img-fluid mb-3 rounded-lg" loading="lazy">
                             </picture>
                             <h5 class="fs-20 font-weight-bold">Definisi & Fungsi Aplikasi HRIS</h5>
                         </div>
@@ -77,7 +77,7 @@ include($_SERVER['DOCUMENT_ROOT'] . '/ind/component/header.php');
                     <a href="/ind/jenis-software-hris.php" class="color--blue">
                         <div class="case-study">
                             <picture>
-                                <img src="/img/case-study/case-2.png" alt="Computer placed on a table in a dimly lit room" class="img-fluid mb-3 rounded-lg" loading="lazy">
+                                <img src="/img/swiper-img/jenis-jenis-hris.png" alt="Computer placed on a table in a dimly lit room" class="img-fluid mb-3 rounded-lg" loading="lazy">
                             </picture>
                             <h5 class="fs-20 font-weight-bold">Jenis-jenis Aplikasi HRIS</h5>
                         </div>
@@ -87,8 +87,7 @@ include($_SERVER['DOCUMENT_ROOT'] . '/ind/component/header.php');
                     <a href="#" class="color--blue">
                         <div class="case-study">
                             <picture>
-                                <source srcset="/img/case-study/case-3.webp" type="image/webp">
-                                <img src="/img/case-study/case-3.jpg" alt="" class="img-fluid mb-3 rounded-lg" loading="lazy">
+                                <img src="/img/swiper-img/manfaat-hris.png" alt="" class="img-fluid mb-3 rounded-lg" loading="lazy">
                             </picture>
                             <h5 class="fs-20 font-weight-bold">Manfaat Aplikasi HRIS Bagi Perusahaan & Karyawan</h5>
                         </div>
@@ -98,8 +97,7 @@ include($_SERVER['DOCUMENT_ROOT'] . '/ind/component/header.php');
                     <a href="#" class="color--blue">
                         <div class="case-study">
                             <picture>
-                                <source srcset="/img/case-study/dokodemo-story-4-ghitta.webp" type="image/webp">
-                                <img src="/img/case-study/dokodemo-story-4-ghitta.jpg" alt="" class="img-fluid mb-3 rounded-lg" style="object-position: top;" loading="lazy">
+                                <img src="/img/swiper-img/teknologi-hris.png" alt="" class="img-fluid mb-3 rounded-lg" style="object-position: top;" loading="lazy">
                             </picture>
                             <h5 class="fs-20 font-weight-bold">Teknologi HRIS, HRM, dan HRMS</h5>
                         </div>
@@ -112,7 +110,7 @@ include($_SERVER['DOCUMENT_ROOT'] . '/ind/component/header.php');
                                 <source srcset="/img/case-study/dokodemo-story-5.webp" type="image/webp">
                                 <img src="/img/case-study/dokodemo-story-5.jpg" alt="" class="img-fluid mb-3 rounded-lg" loading="lazy">
                             </picture>
-                            <h5 class="fs-20 font-weight-bold">Dokodemo-Kerja as HRIS Application</h5>
+                            <h5 class="fs-20 font-weight-bold">Dokodemo-Kerja sebagai HRIS</h5>
                         </div>
                     </a>
                 </div>

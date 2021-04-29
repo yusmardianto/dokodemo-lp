@@ -65,7 +65,7 @@ include($_SERVER['DOCUMENT_ROOT'] . '/component/header.php');
                     <a href="/hris-definition-functions" class="color--blue">
                         <div class="case-study">
                             <picture>
-                                <img src="/img/case-study/case-1.png" alt="" class="img-fluid mb-3 rounded-lg" loading="lazy">
+                                <img src="/img/swiper-img/aplikasi-hris.jpg" alt="hris aplication" class="img-fluid mb-3 rounded-lg" loading="lazy">
                             </picture>
                             <h5 class="fs-20 font-weight-bold">Definition & Function of a HRIS Application</h5>
                         </div>
@@ -75,7 +75,7 @@ include($_SERVER['DOCUMENT_ROOT'] . '/component/header.php');
                     <a href="/types-of-hris" class="color--blue">
                         <div class="case-study">
                             <picture>
-                                <img src="/img/case-study/case-2.png" alt="Computer placed on a table in a dimly lit room" class="img-fluid mb-3 rounded-lg" loading="lazy">
+                                <img src="/img/swiper-img/jenis-jenis-hris.png" alt="types HRIS App" class="img-fluid mb-3 rounded-lg" loading="lazy">
                             </picture>
                             <h5 class="fs-20 font-weight-bold">Types of HRIS Applications</h5>
                         </div>
@@ -85,8 +85,7 @@ include($_SERVER['DOCUMENT_ROOT'] . '/component/header.php');
                     <a href="#" class="color--blue">
                         <div class="case-study">
                             <picture>
-                                <source srcset="/img/case-study/case-3.webp" type="image/webp">
-                                <img src="/img/case-study/case-3.jpg" alt="" class="img-fluid mb-3 rounded-lg" loading="lazy">
+                                <img src="/img/swiper-img/manfaat-hris.png" alt="benefit of HRIS" class="img-fluid mb-3 rounded-lg" loading="lazy">
                             </picture>
                             <h5 class="fs-20 font-weight-bold">Benefits offered by HRIS Applications for both the Company & Employee alike</h5>
                         </div>
@@ -96,8 +95,7 @@ include($_SERVER['DOCUMENT_ROOT'] . '/component/header.php');
                     <a href="#" class="color--blue">
                         <div class="case-study">
                             <picture>
-                                <source srcset="/img/case-study/dokodemo-story-4-ghitta.webp" type="image/webp">
-                                <img src="/img/case-study/dokodemo-story-4-ghitta.jpg" alt="" class="img-fluid mb-3 rounded-lg" style="object-position: top;" loading="lazy">
+                                <img src="/img/swiper-img/teknologi-hris.png" alt="HRIS Tech" class="img-fluid mb-3 rounded-lg" style="object-position: top;" loading="lazy">
                             </picture>
                             <h5 class="fs-20 font-weight-bold">HRIS, HRM, and HRMS technologies</h5>
                         </div>
@@ -108,13 +106,13 @@ include($_SERVER['DOCUMENT_ROOT'] . '/component/header.php');
                         <div class="case-study">
                             <picture>
                                 <source srcset="/img/case-study/dokodemo-story-5.webp" type="image/webp">
-                                <img src="/img/case-study/dokodemo-story-5.jpg" alt="" class="img-fluid mb-3 rounded-lg" loading="lazy">
+                                <img src="/img/case-study/dokodemo-story-5.jpg" alt="Dokodemo as HRIS" class="img-fluid mb-3 rounded-lg" loading="lazy">
                             </picture>
                             <h5 class="fs-20 font-weight-bold">Dokodemo-Kerja as a HRIS Application</h5>
                         </div>
                     </a>
                 </div>
-                <div class="col-md-4">
+                <!-- <div class="col-md-4">
                     <a href="#" class="color--blue">
                         <div class="case-study">
                             <picture>
@@ -124,7 +122,7 @@ include($_SERVER['DOCUMENT_ROOT'] . '/component/header.php');
                             <h5 class="fs-20 font-weight-bold">Advantages of Domodemo-Kerja</h5>
                         </div>
                     </a>
-                </div>
+                </div> -->
             </div>
 
         </div>
