@@ -1,0 +1,12 @@
+.list-item > li{
+  font-size: 14px;
+  font-weight: bold;
+}
+.list-item > li > h3{
+  letter-spacing: 0.8px;
+  font-size: 19px;
+  font-weight: bold;
+}
+.list-item > li > p {
+  font-weight: normal;
+}
