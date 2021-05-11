@@ -1,0 +1,19 @@
+.list-manfaat-hris {
+  font-size: 20px;
+  font-weight: bold;
+  margin: 35px 0 10px 0;
+  line-height: 2;
+}
+.list-item > li{
+  font-size: 19px;
+  font-weight: bold;
+}
+.list-item > li > h3{
+  letter-spacing: 0.8px;
+  font-size: 19px;
+  font-weight: bold;
+}
+.list-item > li > p {
+  font-size: 16px;
+  font-weight: normal;
+}

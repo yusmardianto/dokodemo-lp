@@ -227,4 +227,62 @@
 
 <?php include($_SERVER['DOCUMENT_ROOT'].'/ind/component/demo-banner.php'); ?>
 <?php include($_SERVER['DOCUMENT_ROOT'].'/ind/component/footer.php'); ?>
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [{
+    "@type": "Question",
+    "name": "Untuk siapa aplikasi absensi online Dokodemo-Kerja dibuat?",
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Aplikasi absensi online Dokodemo-Kerja dibuat dengan sangat fleksibel untuk perusahaan-perusahaan yang menggunakan sistem kerja remote ataupun tidak agar dapat meningkatkan produktivitas karyawannya."
+    }
+  },{
+    "@type": "Question",
+    "name": "Apakah aplikasi absensi online Dokodemo-Kerja dapat digunakan melalui perangkat seluler?",
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Ya. Aplikasi absensi online Dokodemo-Kerja dapat digunakan baik melalui desktop / laptop dengan sistem operasi Windows, Linux, dan Mac, ataupun perangkat seluler dengan sistem operasi Android dan iOS."
+    }
+  },{
+    "@type": "Question",
+    "name": "Apakah dapat melakukan uji coba Dokodemo-Kerja sebelum membelinya?",
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Bisa. Kami memiliki halaman Demo untuk Anda yang ingin mencoba dan mengetahui cara penggunaan aplikasi Dokodemo-Kerja."
+    }
+  },{
+    "@type": "Question",
+    "name": "Berapa jumlah user yang dapat menggunakan Dokodemo-Kerja?",
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Jumlah user atau pengguna dapat disesuaikan menurut kebutuhan tiap-tiap perusahaan."
+    }
+  },{
+    "@type": "Question",
+    "name": "Apa keuntungan yang didapatkan dari penggunaan aplikasi Dokodemo-Kerja?",
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Dokodemo-Kerja memaksimalkan karyawan yang bekerja secara remote sehingga dapat meningkatkan produktivitas dan kinerja masing-masing. Dokodemo-Kerja juga dapat mengatur jam lembur, dan juga dapat memperbaiki jam kerja irregular yang dimiliki oleh karyawan."
+    }
+  },{
+    "@type": "Question",
+    "name": "Apakah ada periode kontrak minimum yang diperlukan untuk menggunakan Dokodemo-Kerja?",
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Tidak ada kontrak minimum untuk aplikasi absensi online Dokodemo-Kerja, tetapi kami menyarankan setidaknya untuk mencoba selama 6 bulan."
+    }
+  },{
+    "@type": "Question",
+    "name": "Bagaimana cara pembayaran aplikasi Dokodemo-Kerja?",
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Pembayaran dilakukan setiap akhir bulan, kami akan mengeluarkan faktur yang dihitung berdasarkan jumlah penggunanya. Pembayaran dapat dilakukan melalui transfer bank hingga akhir bulan depan."
+    }
+  }]
+}
+</script>
+
 <?php include($_SERVER['DOCUMENT_ROOT'].'/component/footer-end.php') ?>
