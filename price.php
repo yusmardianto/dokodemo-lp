@@ -212,4 +212,60 @@
 </div>    
     
 <?php include($_SERVER['DOCUMENT_ROOT'].'/component/footer.php'); ?>
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [{
+    "@type": "Question",
+    "name": "Who are Dokodemo-Kerja attendance management software made for?",
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Dokodemo-Kerja was made for companies that seek to employ remote workers and/or freelancers in order to increase their overall productivity, or additionally, to offer a more flexible option of work within their company."
+    }
+  },{
+    "@type": "Question",
+    "name": "Can Dokodemo-Kerja operate on mobile devices?",
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Yes, with the Dokodemo-Kerja Mobile Application, staff who go to onsite meetings can use the application to track their Work Hours. In the application, instead of screenshots, it will record the location of the said device while the application is running."
+    }
+  },{
+    "@type": "Question",
+    "name": "Can I try the Dokodemo-Kerja system before purchasing it?",
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Yes. Head on to the <a href='https://www.dokodemo-kerja.com/demo'>Demo Page</a> and follow the instructions given to try out the demo. It is also possible to create a special environment for your company, please <a href='https://www.dokodemo-kerja.com/contact-us'>Contact Us</a> if you need more details."
+    }
+  },{
+    "@type": "Question",
+    "name": "How many users can Dokodemo-Kerja support?",
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "The amount of users depends on the company's needs."
+    }
+  },{
+    "@type": "Question",
+    "name": "What are the benefits of implementing Dokodemo-Kerja into the company?",
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Dokodemo-Kerja is a tool that supports remote working strategies, which helps to increase employee productivity, and can assist companies to set targets and evaluations for their employees based on their performance record. It also allows remote working for staff with irregular working schedules, and even facilitates the management of overtime work."
+    }
+  },{
+    "@type": "Question",
+    "name": "Does Dokodemo-Kerja have a minimum contract period?",
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "There is no minimum contract period, but we suggest trying it out for at least 6 month."
+    }
+  },{
+    "@type": "Question",
+    "name": "How does the payment process work?",
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "At the end of each month, we will count the number of users and issue an invoice. You can pay it via bank transfer until the end of next month."
+    }
+  }]
+}
+</script>
 <?php include($_SERVER['DOCUMENT_ROOT'].'/component/footer-end.php') ?>

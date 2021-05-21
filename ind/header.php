@@ -82,7 +82,7 @@
                 </li>
                 <li class="nav-item">
                     <a class="nav-link" target="_blank" rel="noopener noreferrer"
-                        href="https://www.logique.co.id/blog/category/dokodemo-kerja/">Blog</a>
+                        href="/ind/info-hris">Info HRIS</a>
                 </li>
                 <li class="nav-item <?php active('contact-us') ?>">
                     <a class="nav-link" href="/ind/contact-us">Hubungi Kami</a>
