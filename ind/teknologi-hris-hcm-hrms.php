@@ -114,7 +114,7 @@ include($_SERVER['DOCUMENT_ROOT'] . '/ind/component/header.php');
                             <p>HCM dapat dipergunakan untuk pengelolaan data administratif perusahaan seperti data karyawan, tunjangan, penggajian, dan lain-lain.</p>
                         </li>
                         <li class="mt-3">
-                            <span class="list-item-title">Benefits Management</span>
+                            <span class="list-item-title">HR service delivery</span>
                             <p>HR service delivery mengacu pada fungsi yang dapat mendukung dan memberikan layanan kepada karyawan. Contohnya seperti akses ke panduan prosedur dan kebijakan, manajemen dokumen, atau info mendasar tentang perusahaan.</p>
                         </li>
                         <li class="mt-3">
