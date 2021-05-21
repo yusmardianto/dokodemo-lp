@@ -159,6 +159,13 @@
                 </div>
                 
                 <p class="pt--60px text-center">Dokodemo-Kerja is both an attendance & remote work management tool that allows for flexible work styles beneficial to both the company and employee alike through recording working hours no matter where the location. Since it is able manage work hours accurately, it makes calculating overtime hours and the number of paid leaves a much more efficient endeavor. Also, by taking and managing screenshots during the work session, one can discourage slacking during working hours.</p>
+                <p class="text-center">As one of the best Human Resource Information System (HRIS) software in Indonesia, Dokodemo-Kerja provides solutions for HR departments in any company in the use of digital technology for a more effective and efficient Human Resource (HR) management process.</p>
+                <p class="text-center">How can HRIS software improve the quality of a company's HR? And how much will it benefit the company and employees? Get complete information about HRIS and other HR technologies on the following page:</p>
+                <div class="row justify-content-center">
+                    <div class="col-auto col-md-4">
+                        <a href="/hris-info" class="form-control btn btn--rounded bg--yellow px-4">HRIS Info & Supporting Technologies</a>
+                    </div>
+                </div>
             </div>
         </section>
 
