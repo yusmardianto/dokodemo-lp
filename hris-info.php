@@ -82,7 +82,7 @@ include($_SERVER['DOCUMENT_ROOT'] . '/component/header.php');
                     </a>
                 </div>
                 <div class="col-md-4">
-                    <a href="#" class="color--blue">
+                    <a href="/benefits-aplikasi-hris" class="color--blue">
                         <div class="case-study">
                             <picture>
                                 <img src="/img/swiper-img/manfaat-hris.png" alt="benefit of HRIS" class="img-fluid mb-3 rounded-lg" loading="lazy">
@@ -92,7 +92,7 @@ include($_SERVER['DOCUMENT_ROOT'] . '/component/header.php');
                     </a>
                 </div>
                 <div class="col-md-4">
-                    <a href="#" class="color--blue">
+                    <a href="/hris-hcm-hrms-technology" class="color--blue">
                         <div class="case-study">
                             <picture>
                                 <img src="/img/swiper-img/teknologi-hris.png" alt="HRIS Tech" class="img-fluid mb-3 rounded-lg" style="object-position: top;" loading="lazy">
@@ -102,7 +102,7 @@ include($_SERVER['DOCUMENT_ROOT'] . '/component/header.php');
                     </a>
                 </div>
                 <div class="col-md-4">
-                    <a href="#" class="color--blue">
+                    <a href="/software-hris-dokodemo-kerja" class="color--blue">
                         <div class="case-study">
                             <picture>
                                 <source srcset="/img/case-study/dokodemo-story-5.webp" type="image/webp">
