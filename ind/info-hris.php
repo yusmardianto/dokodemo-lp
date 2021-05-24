@@ -64,7 +64,7 @@ include($_SERVER['DOCUMENT_ROOT'] . '/ind/component/header.php');
 
             <div class="pt--20px row text-center slick--blue-arrow case-study__slide">
                 <div class="col-md-4">
-                    <a href="/ind/fungsi-aplikasi-hris.php" class="color--blue">
+                    <a href="/ind/fungsi-aplikasi-hris" class="color--blue">
                         <div class="case-study">
                             <picture>
                                 <img src="/img/swiper-img/aplikasi-hris.jpg" alt="deinisi aplikasi hris" class="img-fluid mb-3 rounded-lg" loading="lazy">
@@ -74,7 +74,7 @@ include($_SERVER['DOCUMENT_ROOT'] . '/ind/component/header.php');
                     </a>
                 </div>
                 <div class="col-md-4">
-                    <a href="/ind/jenis-software-hris.php" class="color--blue">
+                    <a href="/ind/jenis-software-hris" class="color--blue">
                         <div class="case-study">
                             <picture>
                                 <img src="/img/swiper-img/jenis-jenis-hris.png" alt="Computer placed on a table in a dimly lit room" class="img-fluid mb-3 rounded-lg" loading="lazy">
@@ -84,7 +84,7 @@ include($_SERVER['DOCUMENT_ROOT'] . '/ind/component/header.php');
                     </a>
                 </div>
                 <div class="col-md-4">
-                    <a href="#" class="color--blue">
+                    <a href="/ind/manfaat-aplikasi-hris" class="color--blue">
                         <div class="case-study">
                             <picture>
                                 <img src="/img/swiper-img/manfaat-hris.png" alt="" class="img-fluid mb-3 rounded-lg" loading="lazy">
@@ -94,7 +94,7 @@ include($_SERVER['DOCUMENT_ROOT'] . '/ind/component/header.php');
                     </a>
                 </div>
                 <div class="col-md-4">
-                    <a href="#" class="color--blue">
+                    <a href="/ind/teknologi-hris-hcm-hrms" class="color--blue">
                         <div class="case-study">
                             <picture>
                                 <img src="/img/swiper-img/teknologi-hris.png" alt="" class="img-fluid mb-3 rounded-lg" style="object-position: top;" loading="lazy">
@@ -104,7 +104,7 @@ include($_SERVER['DOCUMENT_ROOT'] . '/ind/component/header.php');
                     </a>
                 </div>
                 <div class="col-md-4">
-                    <a href="#" class="color--blue">
+                    <a href="/ind/software-hris-dokodemo-kerja" class="color--blue">
                         <div class="case-study">
                             <picture>
                                 <source srcset="/img/case-study/dokodemo-story-5.webp" type="image/webp">
