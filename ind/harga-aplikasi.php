@@ -2,12 +2,12 @@
     $page = 'price';
     $page_title = 'Harga Aplikasi Absensi Online | Kerja Remote | Dokodemo Kerja';
 
-    $meta_description = 'Sebagai aplikasi absensi online, Dokodemo-Kerja dibanderol dari harga Rp 1 Juta per bulan yang membuat Anda mengelola kehadiran para karyawan Anda melalui tangkapan layar.';
+    $meta_description = 'Harga aplikasi absensi online Dokodemo-Kerja hanya Rp 1 juta / bulan. Kerja remote dengan software HRIS terbaik & tingkatkan transparansi - produktivitas kerja karyawan.';
     $meta_keyword = 'platform manajer pengguna yang murah, perangkat lunak manajemen orang murah, perangkat lunak manajemen orang, dokodemo, dokodemo-kerja, perangkat lunak perusahaan, perangkat lunak perusahaan murah, alat manajemen orang yang efektif, alat manajemen murah, Kerja Remote, kerja independen';
 
     $og_title = 'Harga Aplikasi Absensi Online | Kerja Remote | Dokodemo Kerja';
     $og_image = 'https://dokodemo-kerja.com/img/og-img/price.jpg';
-    $og_desription = 'Sebagai aplikasi absensi online, Dokodemo-Kerja dibanderol dari harga Rp 1 Juta per bulan yang membuat Anda mengelola kehadiran para karyawan Anda melalui tangkapan layar.';
+    $og_desription = 'Harga aplikasi absensi online Dokodemo-Kerja hanya Rp 1 juta / bulan. Kerja remote dengan software HRIS terbaik & tingkatkan transparansi - produktivitas kerja karyawan.';
 
     $add_css = '<link rel="stylesheet" href="/css/style-pricing.css" />';
 
@@ -33,7 +33,7 @@
                 <div class="col-md-10 text-center pricing-page-title">
                     <h2 class="d-none">Hubungi Kami Untuk Informasi Seputar Dokodemo Kerja</h2>
                     <h1 class="fs-30">Mulai Kerja Remote, Simpan Uang Anda dan Tingkatkan Transparansi dengan Dokodemo Kerja</h1>
-                    <h3 class="fs-26">Harga Aplikasi Dokodemo-Kerja</h3>
+                    <h3 class="fs-26">Harga Aplikasi Absensi Online Dokodemo-Kerja</h3>
                 </div>
             </div>
         </div>

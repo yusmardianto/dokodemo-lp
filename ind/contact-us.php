@@ -21,6 +21,7 @@
     $og_title = 'Kontak Kami | Aplikasi Absensi Online | Dokodemo Kerja';
     $og_image = 'dokodemo, dokodemo-kerja, program perusahaan, program pemantauan, alat pelaporan, uji coba gratis, email dokodemo, bantuan dokodemo, kontak dokodemo, penjualan dokodemo, pemasaran dokodemo, pelatihan permintaan, kenali karyawan Anda, alat startup, logique person contact person, kontak dokodemo orang, apa itu dokodemo, apa itu kerja jarak jauh';
     $og_desription = 'Informasi lengkap mengenai aplikasi absensi online terbaik, Dokodemo-Kerja bisa Anda dapatkan dengan menghubungi kontak kami berikut ini. Kami siap untuk berdiskusi dengan Anda.';
+	$canonical = '/ind/contact-us';
 
     $add_css = '<link href="https://cdnjs.cloudflare.com/ajax/libs/select2/4.0.7/css/select2.min.css" rel="stylesheet" />';
 
@@ -45,10 +46,10 @@
 			<div class="row contact-resp-settings">
 				<h2 class="d-none">Hubungi Logique Untuk Alat Kerja Remote Dokodemo Kerja</h2>
 				<h1 class="col-sm-12 fs-32 uppercase bold" style="margin-bottom:20px">
-					KONTAK KAMI
+					Hubungi Kami
 				</h1>
-				<div class="col-md-6 offset-md-3 fs-20 semibold">
-					Untuk informasi lebih lanjut tentang Dokodemo-Kerja, hubungilah kami dengan mengisi formulir dibawah ini.
+				<div class="col-md-10 offset-md-1 fs-20 semibold">
+					Kami akan dengan senang hati menjawab pertanyaan-pertanyaan Anda seputar Dokodemo-Kerja. Silakan hubungi kami dan tim ahli kami akan segera membantu Anda.
 				</div>
 			</div>
 		</div>
@@ -59,7 +60,7 @@
 	<div class="container dokodemo-customoption">
 		<div class="row">
 			<div class="col-md-8 offset-md-2 contact-resp-settings">
-				<div class="semibold fs-18 subtitle-contact">Kalau ada pertanyaan mengenai Free Trial, Cara Subskripsi ataupun ingin tahu lebih lanjut mengenai Dokodemo-Kerja silahkan Kontak Kami dengan mengisi form dibawah.</div>
+				<div class="semibold fs-18 subtitle-contact">Jika Anda memiliki pertanyaan seputar free trial, cara berlangganan, atau membutuhkan informasi yang lain, silakan hubungi kami dengan mengisi form berikut. Tim kami akan membantu dan merespon Anda secepat mungkin.</div>
 
 				<?php
 					if (!is_null($success)) {
@@ -144,8 +145,8 @@
 		<div class="container">
 			<div class="row">
 				<div class="col-md-8 offset-md-2 cp-bot-container">
-					<h4>Untuk respon langsung, hubungi kami pada jam kantor:</h4>
-					<h5 class="mt-3 mb-3">09.00 - 17.00 (Senin - Jumat)</h5>
+					<h4>Untuk respon yang lebih cepat, Anda juga dapat menghubungi kami secara langsung melalui telepon, email, ataupun Whatsapp pada jam operasional kami.</h4>
+					<h5 class="mt-3 mb-3">09.00 - 17.00 (Senin-Jumat)</h5>
 					<p>
 						<a href="tel:+62811870321" aria-label="phone link">
                             <img src="../img/pricing/call.png" alt="" />
@@ -157,8 +158,19 @@
                             <img src="../img/pricing/whatsapp.png" alt="" />
                         </a>
 					</p>
-					</div>
+				</div>
 			</div>
+
+			<div class="row mt-5 mb-4">
+				<div class="col-md-8 offset-md-2" style="line-height: 1.5;">
+					<h3 style=" font-size: 24px; ">Dokodemo-Kerja</h3>
+					<p class="text-justify">Dokodemo-Kerja adalah <a href="https://dokodemo-kerja.com/ind/" target="_BLANK">aplikasi absensi online</a> berbasis cloud untuk memudahkan perusahaan dalam memantau kehadiran dan produktivitas karyawannya dari jarak jauh. Anda dapat merasakan berbagai manfaat dari penggunaan aplikasi ini karena Dokodemo-Kerja sengaja kami bangun dengan fitur-fitur yang berguna seperti screen capture, GPS tracking, pengelolaan cuti, dan lain-lain.</p>
+					<p class="text-justify">Sampai saat ini, Dokodemo-Kerja telah digunakan oleh berbagai perusahaan di Indonesia dan sudah terbukti mampu membantu pengelolaan karyawan secara efektif dan efisien. Dengan fitur-fitur yang telah disediakan, perusahaan ataupun karyawan akan merasakan berbagai keuntungan dari aplikasi ini seperti peningkatan kedisiplinan hingga work life balance yang baik.</p>
+					<p class="text-justify">Jika perusahaan Anda membutuhkan aplikasi absensi online yang andal, berkualitas, aman, serta mudah digunakan, maka Dokodemo-kerja adalah solusinya. Kami akan memberikan support yang berkelanjutan dan selalu memastikan bahwa Anda dapat memperoleh berbagai manfaat dari penggunaannya.</p>
+					<p class="text-justify">Segera konsultasikan dan penuhi kebutuhan perusahaan Anda akan penggunaan <a href="https://dokodemo-kerja.com/ind/info-hris" target="_BLANK">teknologi HRIS</a> untuk manajemen karyawan yang lebih baik.</p>
+				</div>
+			</div>
+			
 		<!-- <div class="semibold fs-18 subtitle-contact" style="margin-bottom:0;">
 			We will come back to you within 2 Indonesian working days
 		</div><br /> -->

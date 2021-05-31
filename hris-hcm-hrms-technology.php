@@ -3,16 +3,14 @@ $page = array(
     "id" => "teknologi-hris-hcm-hrms",
     "jp" => "hris-hcm-hrms-technology",
 );
-$page_title = 'Perbedaan Teknologi HRIS, HCM, dan HRMS | Dokodemo-Kerja';
+$page_title = 'Fundamental Differences between HRIS, HCM, and HRMS Technologies';
 
-$meta_description = 'Teknologi HRIS, HCM, dan HRMS memiliki fitur dan karakteristik masing-masing. Berikut kami sediakan hal-hal mendasar yang membedakan ketiga teknologi tersebut.
-
-';
+$meta_description = 'Fundamental Differences between HRIS, HCM, and HRMS Technologies. Understand the key differences between these tools and select the right solution for your company.';
 $meta_keyword = 'dokodemo, dokodemo-kerja, Dokodemo kasus, Digital Logique Indonesia, sistem kerja jarak jauh, system kerja remote, perusahan pengembangan system, monitor karyawan, alat kerja remote, alat untuk manajer, perusahaan akuntansi';
 
-$og_title = 'Perbedaan Teknologi HRIS, HCM, dan HRMS | Dokodemo-Kerja';
+$og_title = 'Fundamental Differences between HRIS, HCM, and HRMS Technologies';
 $og_image = 'https://dokodemo-kerja.com/img/dokodemo-og.jpg';
-$og_desription = 'Teknologi HRIS, HCM, dan HRMS memiliki fitur dan karakteristik masing-masing. Berikut kami sediakan hal-hal mendasar yang membedakan ketiga teknologi tersebut.';
+$og_desription = 'Fundamental Differences between HRIS, HCM, and HRMS Technologies. Understand the key differences between these tools and select the right solution for your company.';
 
 $add_css = '
     <link rel="stylesheet" href="/css/slick.css" />
@@ -172,4 +170,33 @@ include($_SERVER['DOCUMENT_ROOT'] . '/component/header.php');
 <?php include($_SERVER['DOCUMENT_ROOT'] . '/component/footer.php'); ?>
 <script>
 </script>
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Article",
+  "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://dokodemo-kerja.com/hris-hcm-hrms-technology"
+  },
+  "headline": "Fundamental Differences between HRIS, HCM, and HRMS Technologies",
+  "description": "Fundamental Differences between HRIS, HCM, and HRMS Technologies. HR software can be divided into 3 different categories, namely HRIS, HCM, and HRMS technologies. Each of these categories possess differing characteristics and capabilities. By understanding the key differences between all three of these tools, you will be more capable and informed about selecting the right solution for your company in regards to its specific requirements.",
+  "image": "https://www.dokodemo-kerja.com/img/swiper-img/teknologi-hris.png",  
+  "author": {
+    "@type": "Organization",
+    "name": "Dokodemo-Kerja"
+  },  
+  "publisher": {
+    "@type": "Organization",
+    "name": "Logique",
+    "logo": {
+      "@type": "ImageObject",
+      "url": "https://www.dokodemo-kerja.com/img/lgq-white.png"
+    }
+  },
+  "datePublished": "2021-05-16",
+  "dateModified": "2021-05-27"
+}
+</script>
+
 <?php include($_SERVER['DOCUMENT_ROOT'] . '/component/footer-end.php') ?>

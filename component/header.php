@@ -15,7 +15,13 @@
     <meta property="og:url" content="https://dokodemo-kerja.com">
     <meta property="og:image" content="<?php if (isset($og_image)) echo $og_image ?>">
     <meta property="og:description" content="<?php if (isset($og_desription)) echo $og_desription ?>">
-    <link rel="canonical" href="<?php echo 'https://dokodemo-kerja.com'.$_SERVER['REQUEST_URI'] ?>">
+
+    <?php if ( isset($canonical) ) { ?>
+        <link rel="canonical" href="<?php echo 'https://dokodemo-kerja.com'.$canonical ?>">
+    <?php } else { ?>
+        <link rel="canonical" href="<?php echo 'https://dokodemo-kerja.com'.$_SERVER['REQUEST_URI'] ?>">
+    <?php } ?>
+
     <link rel="preconnect" href="https://fonts.gstatic.com">
     <link href="https://fonts.googleapis.com/css2?family=Open+Sans:wght@400;600;800&display=swap" rel="stylesheet">
     <link rel="stylesheet" href="/css/bootstrap.min.css" />

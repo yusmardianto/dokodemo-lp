@@ -172,4 +172,32 @@ include($_SERVER['DOCUMENT_ROOT'] . '/ind/component/header.php');
 <?php include($_SERVER['DOCUMENT_ROOT'] . '/ind/component/footer.php'); ?>
 <script>
 </script>
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Article",
+  "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://dokodemo-kerja.com/ind/teknologi-hris-hcm-hrms"
+  },
+  "headline": "Perbedaan Antara Teknologi HRIS, HCM dan HRMS",
+  "description": "Berikut adalah perbedaan antara teknologi HRIS, HCM dan HRMS. Teknologi HRIS atau Human Resources Information System adalah perangkat lunak yang memungkinkan penggunanya untuk mengelola, melacak, dan mengotomatiskan kebutuhan inti SDM secara digital. Sedangkan teknologi HCM atau Human Capital Management adalah teknologi yang lebih komprehensif daripada HRIS. Adapun teknologi HRMS atau Human Resource Management System adalah teknologi yang mencakup semua fitur yang ditawarkan teknologi HRIS dan HCM.",
+  "image": "https://www.dokodemo-kerja.com/img/swiper-img/teknologi-hris.png",  
+  "author": {
+    "@type": "Organization",
+    "name": "Dokodemo-Kerja"
+  },  
+  "publisher": {
+    "@type": "Organization",
+    "name": "Logique",
+    "logo": {
+      "@type": "ImageObject",
+      "url": "https://www.dokodemo-kerja.com/img/lgq-white.png"
+    }
+  },
+  "datePublished": ""
+}
+</script>
+
 <?php include($_SERVER['DOCUMENT_ROOT'] . '/component/footer-end.php') ?>

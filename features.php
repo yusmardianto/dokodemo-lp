@@ -8,6 +8,7 @@
     $og_title = 'Remote Work Monitoring Software | Dokodemo-Kerja';
     $og_image = 'https://dokodemo-kerja.com/img/og-img/features.jpg';
     $og_desription = 'Dokodemo-Kerja is a remote work monitoring software and attendance management tool created for better HR management, developed by LOGIQUE.';
+    $canonical = '/features';
 
     $add_css = '
     <link rel="stylesheet" href="/js/magnific-popup.css" />
