@@ -8,6 +8,7 @@
     $og_title = 'Fitur Dokodemo | Perhitungan Lembur, Shift Kerja, Cuti & Liburan | Dokodemo';
     $og_image = 'https://dokodemo-kerja.com/img/og-img/features.jpg';
     $og_desription = 'Dokodemo-Kerja mempunyai fitur yang membantu dalam melakukan perhitungan lembur, shift kerja, cuti dan liburan. Segera daftarkan demo untuk melakukan uji coba sekarang.';
+    $canonical = '/ind/fitur';
 
     $add_css = '
     <link rel="stylesheet" href="/js/magnific-popup.css" />

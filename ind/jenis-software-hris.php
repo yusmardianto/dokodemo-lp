@@ -196,4 +196,33 @@ include($_SERVER['DOCUMENT_ROOT'] . '/ind/component/header.php');
         })
     });
 </script>
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Article",
+  "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://dokodemo-kerja.com/ind/jenis-software-hris"
+  },
+  "headline": "Jenis-jenis Software HRIS yang ada di Indonesia",
+  "description": "Terdapat beberapa jenis software HRIS di Indonesia yang mampu merampingkan manajemen SDM sehingga proses pengelolaan karyawan dapat dilakukan dengan cepat dan mudah. Software ini memungkinkan tim HRD ( Human Resource Development) untuk menyimpan dan mengatur data berskala besar yang berkaitan dengan informasi karyawan. Selain itu, software HRIS di Indonesia juga dapat digunakan untuk meningkatkan produktivitas dan kedisiplinan karyawan terhadap peraturan-peraturan di kantor. Berikut diantaranya; 1. Operational HRIS, 2. Tactical HRIS, 3. Strategic HRIS, dan 4. Comprehensive HRIS.",
+  "image": "https://www.dokodemo-kerja.com/img/swiper-img/jenis-jenis-hris.png",  
+  "author": {
+    "@type": "Organization",
+    "name": "Dokodemo-Kerja"
+  },  
+  "publisher": {
+    "@type": "Organization",
+    "name": "Logique",
+    "logo": {
+      "@type": "ImageObject",
+      "url": "https://www.dokodemo-kerja.com/img/lgq-white.png"
+    }
+  },
+  "datePublished": "2021-05-16",
+  "dateModified": "2021-05-27"
+}
+</script>
+
 <?php include($_SERVER['DOCUMENT_ROOT'] . '/component/footer-end.php') ?>

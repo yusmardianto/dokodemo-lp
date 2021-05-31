@@ -199,4 +199,33 @@ include($_SERVER['DOCUMENT_ROOT'] . '/ind/component/header.php');
         })
     });
 </script>
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Article",
+ "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://www.dokodemo-kerja.com/ind/info-hris"
+  },
+  "headline": "Teknologi Sistem HR Indonesia",
+  "description": "Transformasi Digital (DX) untuk pengelolaan sumber daya manusia melalui berbagai aplikasi penunjang (HR tools) sepertinya sudah menjadi sebuah keharusan bagi setiap perusahaan. Selain untuk beradaptasi terhadap teknologi digital yang terus berkembang, transformasi digital juga sangat penting guna mendukung sistem kerja saat ini yang telah banyak mengalami perubahan. Pola kerja dengan sistem remote atau work from home yang semakin populer dan telah banyak diterapkan oleh berbagai perusahaan, memerlukan pendekatan khusus dalam pengelolaan sumber daya yang dimiliki.",
+  "image": "https://www.dokodemo-kerja.com/img/swiper-img/aplikasi-hris.jpg",  
+  "author": {
+    "@type": "Organization",
+    "name": "Dokodemo-Kerja"
+  },  
+  "publisher": {
+    "@type": "Organization",
+    "name": "Logique",
+    "logo": {
+      "@type": "ImageObject",
+      "url": "https://www.dokodemo-kerja.com/img/lgq-white.png"
+    }
+  },
+  "datePublished": "2021-05-16",
+  "dateModified": "2021-05-25"
+}
+</script>
+
 <?php include($_SERVER['DOCUMENT_ROOT'] . '/component/footer-end.php') ?>

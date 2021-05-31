@@ -110,4 +110,34 @@ include($_SERVER['DOCUMENT_ROOT'] . '/component/header.php');
 <?php include($_SERVER['DOCUMENT_ROOT'] . '/component/footer.php'); ?>
 <script>
 </script>
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Article",
+  "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://dokodemo-kerja.com/software-hris-dokodemo-kerja"
+  },
+  "headline": "Advantages of the HRIS Software “Dokodemo-Kerja”",
+  "description": "Dokodemo-Kerja is a HRIS software widely used by various companies within Indonesia. Here are some of the advantages of using Dokodemo-Kerja. 1. Attendance and attendance management features, 2. Self-Service for employees, 3. Personnel tracking or employee tracking, 4. Reports and analysis. 
+HRIS software or applications usually provide an integrated database, acting as a storage containing various articles of information about its employees. Through such software, any data stored within the system can be used at any time, thereby supporting the convenience of your company’s HR activities.",
+  "image": "https://www.dokodemo-kerja.com/img/case-study/dokodemo-story-5.webp",  
+  "author": {
+    "@type": "Organization",
+    "name": "Dokodemo-Kerja"
+  },  
+  "publisher": {
+    "@type": "Organization",
+    "name": "Logique",
+    "logo": {
+      "@type": "ImageObject",
+      "url": "https://www.dokodemo-kerja.com/img/lgq-white.png"
+    }
+  },
+  "datePublished": "2021-05-16",
+  "dateModified": "2021-05-27"
+}
+</script>
+
 <?php include($_SERVER['DOCUMENT_ROOT'] . '/component/footer-end.php') ?>

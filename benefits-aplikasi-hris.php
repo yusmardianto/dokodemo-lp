@@ -123,4 +123,34 @@ include($_SERVER['DOCUMENT_ROOT'] . '/component/header.php');
 <?php include($_SERVER['DOCUMENT_ROOT'] . '/component/footer.php'); ?>
 <script>
 </script>
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Article",
+  "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://dokodemo-kerja.com/benefits-aplikasi-hris"
+  },
+  "headline": "Benefits of HRIS Applications for the Company & Employee",
+  "description": "1. Benefits of the HRIS Applications for Companies: Providing a well-organized database, Helps in reducing the administrative burden of the HR team, Saves a lot of time, Helps with the decision making process, Improves employee performance and productivity.
+2. Benefits of HRIS Applications for Employees: Allows for employee self-service, and Employees can individually retrieve required information.",
+  "image": "https://www.dokodemo-kerja.com/img/swiper-img/manfaat-hris.png",  
+  "author": {
+    "@type": "Organization",
+    "name": "Dokodemo-Kerja"
+  },  
+  "publisher": {
+    "@type": "Organization",
+    "name": "Logique",
+    "logo": {
+      "@type": "ImageObject",
+      "url": "https://www.dokodemo-kerja.com/img/lgq-white.png"
+    }
+  },
+  "datePublished": "2021-05-16",
+  "dateModified": "2021-05-27"
+}
+</script>
+
 <?php include($_SERVER['DOCUMENT_ROOT'] . '/component/footer-end.php') ?>

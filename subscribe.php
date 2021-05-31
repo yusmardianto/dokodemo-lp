@@ -8,6 +8,7 @@
     $og_title = 'Dokodemo-Kerja: Subscribing Procedure';
     $og_image = 'https://dokodemo-kerja.com/img/og-img/subscribe.jpg';
     $og_desription = 'Subscription procedures for using services provided by Logique Digital Indonesia includes agreements & consultations and purchase orders.';
+    $canonical = '/subscribe';
 
     $add_css = '<link rel="stylesheet" href="/css/style-subscribe.css" />';
 

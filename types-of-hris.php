@@ -196,4 +196,33 @@ include($_SERVER['DOCUMENT_ROOT'] . '/component/header.php');
         })
     });
 </script>
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Article",
+  "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://dokodemo-kerja.com/types-of-hris"
+  },
+  "headline": "Types of HRIS Software",
+  "description": "HR solutions have provided a number of useful features; based on function, the HRIS software is divided into several types, namely: 1. Operational HRIS; This type of HRIS software aims to assist managers in regards to routine and day-to-day decision making protocol., 2. Tactical HRIS; Tactical HRIS is used to assist managers in making decisions regarding efficient resource allocation. This type of HRIS contains several sub-sections., 3. Strategic HRIS; Strategic HRIS is a type of HRIS software that provides data for strategic decision making.",
+  "image": "https://www.dokodemo-kerja.com/img/swiper-img/jenis-jenis-hris.png",  
+  "author": {
+    "@type": "Organization",
+    "name": "Dokodemo-Kerja"
+  },  
+  "publisher": {
+    "@type": "Organization",
+    "name": "Logique",
+    "logo": {
+      "@type": "ImageObject",
+      "url": "https://www.dokodemo-kerja.com/img/lgq-white.png"
+    }
+  },
+  "datePublished": "2021-05-16",
+  "dateModified": "2021-05-27"
+}
+</script>
+
 <?php include($_SERVER['DOCUMENT_ROOT'] . '/component/footer-end.php') ?>

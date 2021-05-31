@@ -2,12 +2,12 @@
     $page = 'terms';
     $page_title = "Syarat dan Ketentuan Dokodemo-Kerja";
 
-    $meta_description = 'Logique Digital Indonesia’s terms and conditions outline the rules and regulations regarding the use of Dokodemo-kerja or the other services provided.';
+    $meta_description = 'Syarat dan ketentuan Logique Digital Indonesia menguraikan aturan dan regulasi terkait penggunaan Dokodemo-kerja atau layanan lain yang disediakan.';
     $meta_keyword = 'Remote working software, remote working tool, remote working system, implementing remote working, remote working enabler, enabling remote working culture, remote culture, work on the road, logique, pt logique, logique digital indonesia, time tracking, time tracker, work hour tracker, work hour tracking, screenshot software enterprise';
 
     $og_title = "Syarat dan Ketentuan Dokodemo-Kerja";
     $og_image = 'https://dokodemo-kerja.com/img/og-img/terms-condition.jpg';
-    $og_desription = 'Logique Digital Indonesia’s terms and conditions outline the rules and regulations regarding the use of Dokodemo-kerja or the other services provided.';
+    $og_desription = 'Syarat dan ketentuan Logique Digital Indonesia menguraikan aturan dan regulasi terkait penggunaan Dokodemo-kerja atau layanan lain yang disediakan.';
 
     $add_css = '<link rel="stylesheet" href="/css/style-subscribe.css" />';
 

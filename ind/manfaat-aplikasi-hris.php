@@ -123,4 +123,43 @@ include($_SERVER['DOCUMENT_ROOT'] . '/ind/component/header.php');
 <?php include($_SERVER['DOCUMENT_ROOT'] . '/ind/component/footer.php'); ?>
 <script>
 </script>
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Article",
+  "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://dokodemo-kerja.com/ind/manfaat-aplikasi-hris"
+  },
+  "headline": "Manfaat Software / Aplikasi HRIS Bagi Karyawan & Perusahaan",
+  "description": "Manfaat Aplikasi HRIS untuk Perusahaan antara lain: 
+1. Menyediakan database yang terorganisir dengan baik
+2. Mengurangi beban tugas administratif tim HR
+3. Menghemat banyak waktu
+4. Membantu dalam membuat keputusan yang tepat
+5. Meningkatkan kinerja dan produktivitas karyawan
+
+Adapun Manfaat Aplikasi HRIS untuk Karyawan antara lain:
+1. Memungkinkan self-service bagi karyawan, dan
+2. Karyawan memiliki kendali atas informasi yang dibutuhkan karena transparansi data
+",
+  "image": "https://www.dokodemo-kerja.com/img/swiper-img/manfaat-hris.png",  
+  "author": {
+    "@type": "Organization",
+    "name": "Dokodemo-Kerja"
+  },  
+  "publisher": {
+    "@type": "Organization",
+    "name": "Logique",
+    "logo": {
+      "@type": "ImageObject",
+      "url": "https://www.dokodemo-kerja.com/img/lgq-white.png"
+    }
+  },
+  "datePublished": "2021-05-16",
+  "dateModified": "2021-05-25"
+}
+</script>
+
 <?php include($_SERVER['DOCUMENT_ROOT'] . '/component/footer-end.php') ?>

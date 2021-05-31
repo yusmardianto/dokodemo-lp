@@ -235,7 +235,7 @@
     "name": "Can I try the Dokodemo-Kerja system before purchasing it?",
     "acceptedAnswer": {
       "@type": "Answer",
-      "text": "Yes. Head on to the <a href='https://www.dokodemo-kerja.com/demo'>Demo Page</a> and follow the instructions given to try out the demo. It is also possible to create a special environment for your company, please <a href='https://www.dokodemo-kerja.com/contact-us'>Contact Us</a> if you need more details."
+      "text": "Yes. Head on to the <a href='https://dokodemo-kerja.com/demo'>Demo Page</a> and follow the instructions given to try out the demo. It is also possible to create a special environment for your company, please <a href='https://dokodemo-kerja.com/contact-us'>Contact Us</a> if you need more details."
     }
   },{
     "@type": "Question",
