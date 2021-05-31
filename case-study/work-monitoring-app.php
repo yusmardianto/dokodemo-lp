@@ -2,12 +2,12 @@
     $page = 'case-study/case-4';
     $page_title = 'Remote Working Management Tool Dokodemo-Kerja, Study Case No.4 | LOGIQUE Digital Indonesia';
 
-    $meta_description = 'Dokodemo-Kerja Case Study: the GPS tracking Remote Work management & employee monitoring software has improved Logique’s productive employee work styles.';
+    $meta_description = 'Dokodemo-Kerja’s attendance monitoring features simplify the employee management process; starting from applying for leave to performance evaluation.';
     $meta_keyword = 'dokodemo, dokodemo-kerja, dokodemo kerja, screen monitoring, sceen monitor, monitor employee, employee monitoring, time tracker, clock in, clock in software, attendance software, attendance tool, work hour calculator,  manage employees, tool for managers, tool for hr, notification manager, productivity tool, productivity enhancer';
 
     $og_title = 'Remote Working Management Tool Dokodemo-Kerja, Study Case No.4 | LOGIQUE Digital Indonesia';
     $og_image = 'https://dokodemo-kerja.com/img/og-img/case-study.jpg';
-    $og_desription = 'Dokodemo-Kerja Case Study: the GPS tracking Remote Work management & employee monitoring software has improved Logique’s productive employee work styles.';
+    $og_desription = 'Dokodemo-Kerja’s attendance monitoring features simplify the employee management process; starting from applying for leave to performance evaluation.';
 
     $add_css = '<link rel="stylesheet" href="/css/style-case-study.css" />';
 

@@ -2,12 +2,12 @@
     $page = 'case-study/';
     $page_title = 'Implementing WFH | Work Management Tool | Indonesian Case Study';
 
-    $meta_description = 'Dokodemo-Kerja’s attendance monitoring features simplify the employee management process; starting from applying for leave to performance evaluation.';
+    $meta_description = 'Through Dokodemo-Kerja, employees could work from home and improve their work habits, which increased productivity and improved HR management.';
     $meta_keyword = 'dokodemo-kerja, case studies, tool for managers, Logique Digital Indonesia, remote working system, billing system services, accounting firm, screen monitoring, monitor employee, employee monitoring';
 
-    $og_title = 'Implementing WFH | Work Management Tool | Indonesian Case Study';
+    $og_title = 'Dokodemo-Kerja | An Efficient WFH Strategy';
     $og_image = 'https://dokodemo-kerja.com/img/og-img/case-study.jpg';
-    $og_desription = 'Dokodemo-Kerja’s attendance monitoring features simplify the employee management process; starting from applying for leave to performance evaluation.';
+    $og_desription = 'By using Dokodemo-Kerja, you can get various benefits such as allowing employees to work from home, prevent slacking, and introduce a reduced working hours system.';
 
     $add_css = '
     <link rel="stylesheet" href="/css/slick.css" />
