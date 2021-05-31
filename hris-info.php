@@ -211,4 +211,33 @@ include($_SERVER['DOCUMENT_ROOT'] . '/component/header.php');
         })
     });
 </script>
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Article",
+  "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://dokodemo-kerja.com/hris-info"
+  },
+  "headline": "The latest Information on HRIS Technology",
+  "description": "HRIS (Human Resource Information Systems) technologies such as e-attendance systems and HR management software or HRMS (Human Resource Management Systems) all play an important role in efficiently managing business resources, serving to maintain the comfort and productivity of a company’s workforce, having them last longer in long run.",
+  "image": "https://www.dokodemo-kerja.com/img/swiper-img/aplikasi-hris.jpg",  
+  "author": {
+    "@type": "Organization",
+    "name": "Dokodemo-Kerja"
+  },  
+  "publisher": {
+    "@type": "Organization",
+    "name": "Logique",
+    "logo": {
+      "@type": "ImageObject",
+      "url": "https://www.dokodemo-kerja.com/img/lgq-white.png"
+    }
+  },
+  "datePublished": "2021-05-16",
+  "dateModified": "2021-05-27"
+}
+</script>
+
 <?php include($_SERVER['DOCUMENT_ROOT'] . '/component/footer-end.php') ?>

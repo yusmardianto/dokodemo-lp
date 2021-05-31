@@ -206,4 +206,33 @@ include($_SERVER['DOCUMENT_ROOT'] . '/component/header.php');
         })
     });
 </script>
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Article",
+  "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://dokodemo-kerja.com/hris-definition-functions"
+  },
+  "headline": "Definition and Functions of an HRIS Application",
+  "description": "Definition of HRIS is a system used to collect and store a company’s employee data. HRIS can be used to store, process, and manage a wide variety of such information, ranging from names, addresses, employee IDs, social security, and much more. Overall, HRIS presents a smarter method of storing information into an employee database.  The main functions of the HRIS application are: To record and track any changes related to employee data,  To fulfill the completeness of employee data, To Improve the overall efficiency of the HR administration processes, etc.",
+  "image": "https://www.dokodemo-kerja.com/img/swiper-img/aplikasi-hris.jpg",  
+  "author": {
+    "@type": "Organization",
+    "name": "Dokodemo-Kerja"
+  },  
+  "publisher": {
+    "@type": "Organization",
+    "name": "Logique",
+    "logo": {
+      "@type": "ImageObject",
+      "url": "https://www.dokodemo-kerja.com/img/lgq-white.png"
+    }
+  },
+  "datePublished": "2021-05-16",
+  "dateModified": "2021-05-27"
+}
+</script>
+
 <?php include($_SERVER['DOCUMENT_ROOT'] . '/component/footer-end.php') ?>

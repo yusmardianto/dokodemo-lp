@@ -114,4 +114,32 @@ include($_SERVER['DOCUMENT_ROOT'] . '/ind/component/header.php');
 <?php include($_SERVER['DOCUMENT_ROOT'] . '/ind/component/footer.php'); ?>
 <script>
 </script>
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Article",
+  "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://dokodemo-kerja.com/ind/software-hris-dokodemo-kerja"
+  },
+  "headline": "Dokodemo-Kerja Sebagai Salah Satu Aplikasi HRIS Terbaik Di Indonesia",
+  "description": "Dokodemo-Kerja adalah software HRIS yang secara khusus dirancang dan dikembangkan untuk menunjang aktivitas Human Resource. Sebagai salah satu aplikasi HRIS terbaik di Indonesia, Dokodemo diharapkan dapat memberikan berbagai keuntungan bagi perusahaan-perusahaan yang menggunakannya seperti meningkatkan produktivitas karyawan, mempromosikan sistem kerja yang fleksibel, serta membantu penilaian kinerja karyawan menjadi lebih objektif.",
+  "image": "https://www.dokodemo-kerja.com/img/case-study/dokodemo-story-5.webp",  
+  "author": {
+    "@type": "Organization",
+    "name": "Dokodemo-Kerja"
+  },  
+  "publisher": {
+    "@type": "Organization",
+    "name": "Logique",
+    "logo": {
+      "@type": "ImageObject",
+      "url": "https://www.dokodemo-kerja.com/img/lgq-white.png"
+    }
+  },
+  "datePublished": ""
+}
+</script>
+
 <?php include($_SERVER['DOCUMENT_ROOT'] . '/component/footer-end.php') ?>

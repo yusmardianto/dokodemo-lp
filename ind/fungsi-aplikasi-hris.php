@@ -207,4 +207,33 @@ include($_SERVER['DOCUMENT_ROOT'] . '/ind/component/header.php');
         })
     });
 </script>
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Article",
+  "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://dokodemo-kerja.com/ind/fungsi-aplikasi-hris"
+  },
+  "headline": "Definisi dan Fungsi Aplikasi HRIS",
+  "description": "Definisi dan Fungsi Aplikasi HRIS - HRIS adalah sistem yang dipergunakan untuk mengumpulkan dan menyimpan data-data karyawan di sebuah perusahaan. HRIS dapat dipergunakan untuk menyimpan, memproses, serta mengelola data karyawan mulai dari nama, alamat, ID karyawan, jaminan sosial, dan masih banyak lagi. Berikut beberapa fungsi utama dari aplikasi HRIS: Fungsi pencatatan, Memenuhi kelengkapan data karyawan, Meningkatkan efektivitas dan efisiensi proses administrasi HR, Proses analisis untuk evaluasi kinerja karyawan, Self-Service untuk karyawan dan lain sebagainya.",
+  "image": "https://www.dokodemo-kerja.com/img/swiper-img/aplikasi-hris.jpg",  
+  "author": {
+    "@type": "Organization",
+    "name": "Dokodemo-Kerja"
+  },  
+  "publisher": {
+    "@type": "Organization",
+    "name": "Logique",
+    "logo": {
+      "@type": "ImageObject",
+      "url": "https://www.dokodemo-kerja.com/img/lgq-white.png"
+    }
+  },
+  "datePublished": "2021-05-16",
+  "dateModified": "2021-05-25"
+}
+</script>
+
 <?php include($_SERVER['DOCUMENT_ROOT'] . '/component/footer-end.php') ?>

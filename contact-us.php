@@ -21,6 +21,7 @@
     $og_title = 'Contact Us | LOGIQUE | Remote Work Systems';
     $og_image = 'https://dokodemo-kerja.com/img/og-img/contact-us.jpg';
     $og_desription = 'For inquiries about the attendance management tool Dokodemo-Kerja, please send from here. Dokodemo-Kerja was developed by Indonesian development company LOGIQUE.';
+	$canonical = '/contact-us';
 
     $add_css = '<link href="https://cdnjs.cloudflare.com/ajax/libs/select2/4.0.7/css/select2.min.css" rel="stylesheet" />';
 
@@ -47,8 +48,8 @@
 				<h1 class="col-sm-12 fs-32 uppercase bold" style="margin-bottom:20px">
 					Contact Us
 				</h1>
-				<div class="col-md-6 offset-md-3 fs-20 semibold">
-					For more information about Dokodemo-Kerja, please contact us by filling out the form below.
+				<div class="col-md-10 offset-md-1 fs-20 semibold">
+					We are happy to answer any questions you may have concerning Dokodemo-Kerja. Please do not hesitate to contact us; our team of experts will promptly assist you.
 				</div>
 		  	</div>
 	 	 </div>
@@ -59,7 +60,7 @@
 	<div class="container dokodemo-customoption">
 	  <div class="row">
 		  <div class="col-md-8 offset-md-2 contact-resp-settings">
-			<div class="semibold fs-18 subtitle-contact">If you have an enquiry regarding a Free Trial, Subscription, or any question regarding Dokodemo-Kerja please contact us by filling the form below.</div>
+			<div class="semibold fs-18 subtitle-contact">If you have any questions about the available free trial, how to subscribe, or simply require further information regarding a certain topic, please contact us by filling in the following form. Our team will assist you with a response as quickly as possible.</div>
 
 			<?php
             if (!is_null($success)) {
@@ -144,8 +145,8 @@
 		<div class="container">
 			<div class="row">
 				<div class="col-md-8 offset-md-2 cp-bot-container">
-					<h4>If you want an immediate response, get in touch with us during office hours:</h4>
-					<h5 class="mt-3 mb-3">09.00 - 17.00 (Mon-Fri)</h5>
+					<h4>For a faster response, you may also contact us directly via telephone, email, or Whatsapp during our operational hours.</h4>
+					<h5 class="mt-3 mb-3">09.00 - 17.00 (Monday-Friday)</h5>
 					<p>
 						<a href="tel:+62811870321">
 								<img src="/img/pricing/call.png"aria-label="phone link"/>
@@ -157,8 +158,19 @@
 								<img src="/img/pricing/whatsapp.png" alt=""/>
 						</a>
 					</p>
-					</div>
+				</div>
 			</div>
+
+			<div class="row mt-5 mb-4">
+				<div class="col-md-8 offset-md-2" style="line-height: 1.5;">
+					<h3 style=" font-size: 24px; ">Dokodemo-Kerja</h3>
+					<p class="text-justify">Dokodemo-Kerja is a cloud-based <a href="https://dokodemo-kerja.com/" target="_BLANK">online attendance application</a> that makes it easier for companies to remotely monitor the attendance and productivity of all employees. There are a number of benefits regarding this application, as it was deliberately built utilizing a variety of useful functions, such as screen capture, GPS tracking and leave management features, among others.</p>
+					<p class="text-justify">Until now, Dokodemo-Kerja has been used by various companies throughout Indonesia and has proven to be able to help manage employees in an effective and efficient manner. Through the features that have been provided, both the company and its employees can experience first hand the various benefits that can be gained from using this application, some of which include an increased level of discipline for employees, as well as a good work life balance.</p>
+					<p class="text-justify">If your company needs a high quality online attendance application that is reliable, safe, and easy to use, then Dokodemo-Kerja is the answer that you’ve been waiting for. We will always seek to provide your company with our ongoing support, and will ensure that you receive the maximum number of benefits from the use of our application.</p>
+					<p class="text-justify">Meet your company's needs through implementing <a href="https://dokodemo-kerja.com/hris-info" target="_BLANK">HRIS technology</a> for better employee management.</p>
+				</div>
+			</div>
+
 		</div>
 	  <!-- <div class="semibold fs-18 subtitle-contact" style="margin-bottom:0;">
 		We will come back to you within 2 Indonesian working days
