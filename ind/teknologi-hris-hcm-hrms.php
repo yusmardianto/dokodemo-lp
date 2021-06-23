@@ -53,6 +53,8 @@ include($_SERVER['DOCUMENT_ROOT'] . '/ind/component/header.php');
         </div>
     </section>
 
+    <?php include($_SERVER['DOCUMENT_ROOT'] . '/ind/absensi-app-online-section.php'); ?>
+
     <section class="mb--70px margintop-80">
         <div class="color--blue container">
             <div class="text-center title--bg title--bg-border title--bg-border-right" data-title-bg="HRIS">
@@ -140,7 +142,6 @@ include($_SERVER['DOCUMENT_ROOT'] . '/ind/component/header.php');
             <div class="text-center title--bg title--bg-border title--bg-border-right" data-title-bg="HRMS">
                 <h2 class="mb-0 font-weight-bold fs-34">Teknologi HRMS</h2>
             </div>
-
             <div class="fs-14 row justify-content-center">
                 <div class="col-md-10">
                     <p>Teknologi HRMS atau Human Resource Management System adalah teknologi yang mencakup semua fitur yang ditawarkan teknologi HRIS dan HCM dengan tambahan fungsi payroll dan TLM (Time and Labour Management). Tidak heran, jika sebagian orang beranggapan bahwa HRMS adalah teknologi paling komprehensif untuk solusi software HR.</p>
@@ -161,10 +162,24 @@ include($_SERVER['DOCUMENT_ROOT'] . '/ind/component/header.php');
                     <p>Dengan adanya teknologi HRIS, HCM, dan HRMS, saat ini pengelolaan karyawan dapat dilakukan secara lebih efektif dan efisien. Anda tidak lagi perlu meminta karyawan untuk terus mencetak dokumen mengenai data-data mereka karena semua informasi dapat tersimpan secara digital di dalam sistem.</p>
                     <p>Ketika memilih software HR, Anda harus menyesuaikannya dengan kebutuhan di perusahaan Anda. Seperti, seberapa banyak jumlah karyawan yang dikelola, fitur-fitur inti apa saja yang dibutuhkan, anggaran yang dipersiapkan, apakah perangkat mudah untuk dioperasikan, dan lain-lain. Dengan mengevaluasi apa yang menjadi kebutuhan perusahaan, Anda dapat menemukan software HR terbaik untuk perusahaan Anda.</p>
                     <p>Salah satu software HR yang bisa Anda andalkan adalah Dokodemo-Kerja. Software HR ini memiliki banyak fitur yang mampu menawarkan pengelolaan sistem kerja yang fleksibel tanpa mengesampingkan produktivitas karyawan Anda. Cek fitur Dokodemo-Kerja selengkapnya <a href="/ind/fitur">di sini</a>!</p>
+
+                    <h3>
+                        Gunakan HR software Dokodemo-Kerja untuk mengelola, melacak, dan mengotomatiskan kebutuhan inti SDM perusahaan Anda secara digital.
+                    </h3>
+                    <p>
+                        Dokodemo-Kerja sudah terbukti dapat membantu banyak perusahaan di Indonesia dalam berbagai hal seperti mengontrol kinerja, mengelola kehadiran, sampai meningkatkan kedisiplinan para karyawan. Coba Dokodemo-Kerja sekarang juga!
+                    </p>
+
                 </div>
+                <div class="col-sm-6 col-md-6 col-lg-6 mx-auto">
+                    <a href="/ind/harga-aplikasi" class="form-control btn btn--rounded bg--yellow mb-2 mt-4">Lihat Harga Dokodemo-Kerja</a>
+                </div>  
+                
             </div>
         </div>
     </section>
+
+
 
 </div>
 

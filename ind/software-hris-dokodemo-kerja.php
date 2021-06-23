@@ -57,14 +57,21 @@ include($_SERVER['DOCUMENT_ROOT'] . '/ind/component/header.php');
     <section class="mb--70px margintop-80">
         <div class="color--blue container">
             <div class="text-center title--bg title--bg-border title--bg-border-right" data-title-bg="HRIS">
-                <h2 class="mb-0 font-weight-bold fs-34">Apa Itu Software HRIS?</h2>
+                <h2 class="mb-0 font-weight-bold fs-34">Apa Itu Software HRIS test?</h2>
             </div>
 
             <div class="fs-14 row justify-content-center">
                 <div class="col-md-10">
                     <p>Secara garis besar, software HRIS adalah perangkat lunak yang memungkinkan penggunanya untuk mengelola, melacak, dan mengotomatiskan kebutuhan inti SDM secara elektronik. Software atau aplikasi HRIS biasanya menyediakan database yang saling terintegrasi dan bertindak sebagai suatu tempat yang berisi berbagai informasi mengenai karyawannya. Dengan adanya software HRIS ini maka data-data yang tersimpan di dalam sistem dapat dipergunakan sewaktu waktu untuk menunjang kegiatan HR di suatu perusahaan.</p>
                     <p>Di Indonesia sendiri, teknologi ini sudah semaikin berkembang dan salah satu software HRIS yang dapat Anda andalkan adalah Dokodemo-Kerja</p>
+
+                    <h3>
+                        Dokodemo-Kerja adalah software HRIS yang berfungsi sebagai sistem untuk mengumpulkan dan menyediakan data tentang kepegawaian, tunjangan, serta masalah kepatuhan terhadap peraturan.
+                    </h3>
                 </div>
+                <div class="col-sm-6 col-md-6 col-lg-6 mx-auto">
+                    <a href="/ind" class="form-control btn btn--rounded bg--yellow mb-2 mt-4"> Pelajari Dokodemo-Kerja Selengkapnya </a>
+                </div>  
             </div>
         </div>
     </section>

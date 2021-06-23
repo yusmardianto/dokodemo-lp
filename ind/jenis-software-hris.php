@@ -36,10 +36,10 @@ include($_SERVER['DOCUMENT_ROOT'] . '/ind/component/header.php');
         </div>
     </section>
 
-    <section class="mb--70px">
+    <section class="margintop-80">
         <div class="color--blue container">
             <div class="text-center title--bg title--bg-border title--bg-border-right" data-title-bg="JENIS HRIS">
-                <h1 class="mb-0 font-weight-bold fs-34">Jenis-jenis Software HRIS yang Perlu Anda Ketahui</h1>
+                <h2 class="mb-0 font-weight-bold fs-34">Jenis-jenis Software HRIS yang Perlu Anda Ketahui</h2>
             </div>
 
             <div class="fs-14 row justify-content-center">
@@ -51,7 +51,10 @@ include($_SERVER['DOCUMENT_ROOT'] . '/ind/component/header.php');
         </div>
     </section>
 
-    <section class="mb--70px color--blue">
+    <?php include($_SERVER['DOCUMENT_ROOT'] . '/ind/absensi-app-online-section.php'); ?>
+
+
+    <section class="margintop-80 color--blue">
         <div class="container">
 
             <div class="text-center title--bg title--bg-border title--bg-border-left" data-title-bg="KATEGORI HRIS">
@@ -78,7 +81,7 @@ include($_SERVER['DOCUMENT_ROOT'] . '/ind/component/header.php');
         </div>
     </section>
 
-    <section class="mb--70px color--blue">
+    <section class="margintop-80  color--blue">
         <div class="container">
 
             <div class="text-center title--bg title--bg-border title--bg-border-right" data-title-bg="JENIS HRIS">
@@ -90,7 +93,7 @@ include($_SERVER['DOCUMENT_ROOT'] . '/ind/component/header.php');
 
                     <p>Solusi HR memang sudah semakin berkembang dan menyediakan berbagai fitur di dalamnya. Berdasarkan fungsinya, software HRIS terbagi ke dalam beberapa jenis, yaitu:</p>
 
-                    <h3 class="margintop-70 mb-4 font-weight-bold">1. Operational HRIS</h3>
+                    <h2 class="margintop-80 mb-4 font-weight-bold">1. Operational HRIS</h2>
                     <p>Sesuai dengan namanya, operational HRIS berfungsi untuk mengelola kebutuhan HR yang bersifat operasional. Jenis software HRIS ini akan membantu pihak manajer dalam pengambilan keputusan rutin dan berulang karena sistem mampu menyediakan berbagai data yang berkaitan sumber daya manusia yang mereka kelola. Secara garis besar, beberapa data yang disediakan seperti:</p>
                     <ul>
                         <li class="mt-3">
@@ -115,7 +118,7 @@ include($_SERVER['DOCUMENT_ROOT'] . '/ind/component/header.php');
                         </li>
                     </ul>
 
-                    <h3 class="margintop-100 mb-4 font-weight-bold">2. Tactical HRIS </h3>
+                    <h2 class="margintop-80 mb-4 font-weight-bold">2. Tactical HRIS </h2>
                     <p>Tactical HRIS dipergunakan untuk membantu pihak manajer ketika membuat keputusan yang berkaitan dengan alokasi sumber daya. Jenis HRIS ini memiliki beberapa sub part di dalamnya, yaitu:</p>
                     <ul>
                         <li class="mt-3">
@@ -136,7 +139,7 @@ include($_SERVER['DOCUMENT_ROOT'] . '/ind/component/header.php');
                         </li>
                     </ul>
 
-                    <h3 class="margintop-100 mb-4 font-weight-bold">3. Strategic HRIS</h3>
+                    <h2 class="margintop-80 mb-4 font-weight-bold">3. Strategic HRIS</h2>
                     <p>Strategic HRIS adalah jenis software HRIS yang menyediakan data untuk pengambilan keputusan strategis. Biasanya strategic HRIS akan dipergunakan untuk mengelola negosiasi tenaga kerja, pengaturan tenaga kerja serta mendukung program HR tertentu.</p>
                     <p>Dengan menggunakan strategic HRIS, Anda dapat mengetahui bagaiaman gambaran umum mengenai perecanaan tenaga kerja dan aset kerja yang Anda miliki. Strategic HRIS mempunyai beberapa komponen di dalamnya yaitu:</p>
                     <ul>
@@ -154,11 +157,22 @@ include($_SERVER['DOCUMENT_ROOT'] . '/ind/component/header.php');
                         </li>
                     </ul>
 
-                    <h3 class="margintop-100 mb-4 font-weight-bold">4. Comprehensive HRIS</h3>
+                    <h3 class="margintop-80 mb-4 font-weight-bold">4. Comprehensive HRIS</h3>
                     <p>Comprehensive HRIS menghasilkan database yang saling terintegrasi dan bertindak sebagai suatu tempat yang berisi berbagai informasi yang dapat digunakan sewaktu waktu untuk menunjang kegiatan HR di suatu perusahaan.</p>
-                    <p>Dari jenis-jenis software HRIS yang sudah disebutkan di atas, Anda dapat memilih jenis HRIS yang paling sesuai dengan kebutuhan perusahaan Anda. Dokodemo-Kerja sebagai aplikasi HRIS terbaik di Indonesia menyediakan berbagai fitur yang berguna untuk pengelolaan SDM di perusahaan Anda. Dokodemo-Kerja memiliki fitur e-absensi, pengajuan cuti, pengelola keterlambatan karyawan, dan masih banyak lagi. Untuk informasi selengkapnya mengenai fitur-fitur Dokodemo-kerja, Anda dapat mengunjungi Halaman Fitur Dokodemo-Kerja.</p>
+                    <p>Dari jenis-jenis software HRIS yang sudah disebutkan di atas, Anda dapat memilih jenis HRIS yang paling sesuai dengan kebutuhan perusahaan Anda. </p>
 
-                    <div class="margintop-100"></div>
+                    <h3 class="margintop-80 mb-4 font-weight-bold">
+                        Dokodemo-Kerja adalah aplikasi HRIS terbaik di Indonesia yang menyediakan berbagai fitur berguna untuk pengelolaan SDM di perusahaan Anda!
+                    </h3>
+                    <p>
+                        Dokodemo-Kerja memiliki fitur e-absensi, pengajuan cuti, pengelola keterlambatan karyawan, dan masih banyak lagi.
+                    </p>
+
+                    <div class="col-sm-6 col-md-6 col-lg-6 mx-auto">
+                        <a href="/ind/fitur" class="form-control btn btn--rounded bg--yellow mb-2 mt-4">Lihat Fitur Dokodemo-Kerja Selengkapnya </a>
+                    </div>  
+
+                    <div class="margintop-80"></div>
                 </div>
             </div>
 

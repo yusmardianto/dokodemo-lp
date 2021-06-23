@@ -73,8 +73,11 @@
                         <div class="mt--30px mb-5 py--20px px--30px bg--l-blue border--blue rounded-lg shadow--blue">
                             <div class="row align-items-center">
                                 <div class="col-md-8 col-lg-6">
+                                    <p class="mb-md-2 text-justify text-md-left">
+                                        Dokodemo-Kerja merupakan software HRIS berupa aplikasi absensi online untuk kerja jarak jauh (remote working) dengan beragam fitur dan keunggulan. Fungsi utama aplikasi ini adalah sebagai pengelola absensi karyawan yang mampu mencatat waktu masuk, istirahat dan waktu pulang kerja karyawan serta mengakumulasi total waktu kerja secara akurat.
+                                    </p>
                                     <p class="mb-md-0 text-justify text-md-left">
-                                    Sejak Versi 2.0, aplikasi Dokodemo-Kerja telah dilengkapi fitur pelacakan GPS, sehingga memungkinkan perusahaan untuk mengelola kondisi kerja para staff yang sering keluar.
+                                        Sejak Versi 2.0, aplikasi Dokodemo-Kerja telah dilengkapi fitur pelacakan GPS, sehingga memungkinkan perusahaan untuk mengelola kondisi kerja para staff yang sering keluar.
                                     </p>
                                 </div>
                                 <div class="col-md-4 col-lg-6 text-center">
@@ -157,8 +160,10 @@
                         </div>
                     </div>
                 </div>
-                
-                <p class="pt--60px text-center">Dokodemo-Kerja merupakan Aplikasi Kerja Jarak Jauh (Remote Working Apps) yang memiliki beragam fungsi dan keunggulan. Fungsi utama aplikasi ini adalah sebagai <strong>Absensi Online</strong> yang tidak hanya mencatat waktu masuk, istirahat dan waktu pulang karyawan saja, tetapi juga dapat mengakumulasi total waktu kerja karyawan secara akurat.</p>
+                                
+                <h2 class="mt-5 font-weight-bold fs-34">
+                    Dokodemo-Kerja Sebagai Software HRIS Terbaik Di Indonesia
+                </h2>
 
                 <p class="text-center">Sebagai salah satu software Human Resource Information System (HRIS) terbaik yang ada di Indonesia, Dokodemo-Kerja dapat memberikan solusi bagi HR departement di sebuah perusahaan dalam penggunaan teknologi digital untuk proses pengelolaan Sumber Daya Manusia (SDM) yang lebih efektif dan efisien.</p>
 
@@ -293,7 +298,7 @@
                             <div class="row justify-content-center align-items-center">
                                 <div class="col-md-8 col-lg-6 order-last order-md-first">
                                     <h4 class="fs-20 font-weight-bold">Efisiensi Anggaran</h4>
-                                    <p class="mb-0 fs-14">Karyawan dapat mengurangi biaya transportasi mereka dan dengan penggunaan cara kerja remote yang tepat Perusahaan dapat mengurangi biaya untuk menyewa area kantor.</p>
+                                    <p class="mb-0 fs-14">Penggunaan teknologi HRIS untuk kerja remote yang berupa aplikasi absensi online dengan fitur lengkap seperti Dokodemo-Kerja dapat meningkatkan efisiensi anggaran baik bagi perusahaan maupun karyawan.</p>
                                 </div>
                                 <div class="col-4 col-lg-6 mb-3 mb-lg-0 order-first order-md-last text-center">
                                     <picture>
