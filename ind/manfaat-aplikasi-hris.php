@@ -51,7 +51,9 @@ include($_SERVER['DOCUMENT_ROOT'] . '/ind/component/header.php');
         </div>
     </section>
 
-    <section class="mb--70px color--blue margintop-150">
+    <?php include($_SERVER['DOCUMENT_ROOT'] . '/ind/absensi-app-online-section.php'); ?>
+
+    <section class="mb--70px color--blue margintop-80">
         <div class="container">
 
             <div class="text-center title--bg title--bg-border title--bg-border-right" data-title-bg="PERUSAHAAN">
@@ -84,13 +86,26 @@ include($_SERVER['DOCUMENT_ROOT'] . '/ind/component/header.php');
                             <p>Aplikasi HRIS memiliki fitur untuk mengelola absensi (e-absensi) atau fitur untuk mencatat jam kehadiran karyawan. Fitur tersebut dapat dipergunakan oleh tim HR atau manajemen perusahaan untuk meninjau kinerja karyawan agar tetap produktif dan disiplin ketika bekerja.</p>
                         </li>
                     </ol>
+
+                    <h3 class="mt-5">Apakah perusahaan Anda memiliki karyawan dalam jumlah yang besar? </h3>
+                    <p style="font-size: 16px;">
+                        Jika <b>“YA”</b>, maka sudah saatnya Anda beralih menggunakan platform digital untuk pengelolaan data karyawan yang lebih efektif, efisien, mudah dan sederhana.
+                        Dokodemo-Kerja dapat menjadi solusi bagi perusahaan Anda !
+                    </p>
+                    <p  style="font-size: 16px;">
+                        Ingin tahu bagaimana cara Dokodemo-Kerja membantu perusahaan Anda?
+                    </p>
+
+                    <div class="col-sm-8 col-md-8 col-lg-8 mx-auto">
+                        <a href="/ind/case-study" class="form-control btn btn--rounded bg--yellow mb-2 mt-4">Lihat Pengalaman Bekerja dengan Dokodemo-Kerja Selengkapnya </a>
+                    </div>  
+
                 </div>
             </div>
-
         </div>
     </section>
 
-    <section class="mb--70px color--blue margintop-150">
+    <section class="mb--70px color--blue margintop-80">
         <div class="container">
 
             <div class="text-center title--bg title--bg-border title--bg-border-right" data-title-bg="KARYAWAN">

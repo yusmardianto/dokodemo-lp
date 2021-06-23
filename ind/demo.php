@@ -14,14 +14,14 @@ require '../action/c-trial.php';
 
 <?php 
     $page = 'demo';
-    $page_title = 'Cara Kerja & Cara Menggunakan Aplikasi Dokodemo-Kerja | Demo';
+    $page_title = 'Cara Kerja Dokodemo-Kerja | Software HRIS Terbaik';
 
     $meta_description = 'Aplikasi Kerja Online dari Rumah, Dokodemo-Kerja dapat Anda gunakan secara gratis dalam bentuk demo. Unduh sekarang dan optimalkan potensimu melalui aplikasi ini.';
     $meta_keyword = 'menyingkirkan karyawan yang berkinerja buruk, menyingkirkan karyawan yang malas, meningkatkan produktifitas, uji coba dokodemo, dokodemo gratis, alat jam gratis, alat manajemen gratis, alat bisnis kecil, alat anggaran rendah, alat anggaran rendah, alat manajemen anggaran rendah, alat manajemen anggaran rendah, pelacak waktu gratis, pelacak waktu karyawan gratis, pelacak jam kerja gratis, pelacak tangkapan layar, tangkapan layar perangkat lunak monitor karyawan murah';
 
     $og_title = 'Demo Aplikasi Kerja Online Dari Rumah | Dokodemo Kerja';
     $og_image = 'https://dokodemo-kerja.com/img/dokodemo-og.jpg';
-    $og_desription = 'Aplikasi Kerja Online dari Rumah, Dokodemo-Kerja dapat Anda gunakan secara gratis dalam bentuk demo. Unduh sekarang dan optimalkan potensimu melalui aplikasi ini.';
+    $og_desription = 'Cara kerja Dokodemo-Kerja sebagai software HRIS terbaik cukup mudah & "applicable" pada laptop ataupun perangkat seluler (mobile). Coba Demo Sekarang. Gratis!';
 
     $add_css = '<link rel="stylesheet" href="/css/style-trial.css" />';
 
@@ -40,9 +40,26 @@ require '../action/c-trial.php';
 			</nav>
 		</div>
 	</section>
+	
+	<section style="background-color: #f1faff" class="pb-5">
+		<div class="container">
+			<div class="row mt-5">
+				<div class="offset-md-1 col-md-10">
+					<h1 class="fs-30 text-center pt-5 mb-3">Cara Penggunaan Aplikasi Dokodemo-Kerja</h1>
+					<p class="text-center">
+						Sebagai salah satu software Human Resource Information System (HRIS) terbaik yang ada di Indonesia, Dokodemo-Kerja dapat memberikan solusi bagi HR departement di sebuah perusahaan dalam penggunaan teknologi digital untuk proses pengelolaan Sumber Daya Manusia (SDM) yang lebih efektif dan efisien.
+					</p>
+					<p class="text-center">
+						Sejak Versi 2.0, selain memiliki fungsi utama sebagai aplikasi Pengelolaan Absensi Online & Cuti karyawan yang efisien, Dokodemo-Kerja telah dilengkapi pula dengan fitur pelacakan GPS, sehingga memungkinkan perusahaan untuk mengelola dan memonitor aktivitas kerja para staff yang sering bekerja di luar kantor. Bagaimana cara kerja Dokodemo-Kerja dan seberapa besar aplikasi ini dapat memberikan manfaat untuk Perusahaan Anda?
+					</p>
+
+				</div>
+			</div>
+		</div>
+	</section>
 
 	<section class="intro-section text-center px-4">
-		<h1 class="banner-text-white">Coba Demo Gratis Dulu</h1>
+		<h2 class="banner-text-white">Coba Demo Sekarang. Gratis !</h2>
 		<img src="/img/home/arrow-down.svg" class="pt-4 pb-3" width="20" alt=""/>
 		<a href="https://demo.dokodemo-kerja.com" class="btn btn-trial-contact bold uppercase" target="_blank" rel="noopener noreferrer" id="btn-demo-trial-id">Admin Demo</a>
 		<a href="https://drive.google.com/file/d/1itRszKytvu-x6RxoN0Ba1i_dNvtFlEHF/view?usp=sharing" target="_blank" rel="noopener noreferrer">

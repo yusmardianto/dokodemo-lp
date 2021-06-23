@@ -35,6 +35,8 @@ include($_SERVER['DOCUMENT_ROOT'] . '/ind/component/header.php');
         </div>
     </section>
 
+
+
     <section class="mb--70px">
         <div class="color--blue container">
             <div class="text-center title--bg title--bg-border title--bg-border-right" data-title-bg="TRANSFORMASI">
@@ -137,19 +139,53 @@ include($_SERVER['DOCUMENT_ROOT'] . '/ind/component/header.php');
 
     <section class="mb--70px color--blue">
         <div class="container">
-
             <div class="text-center title--bg title--bg-border title--bg-border-right" data-title-bg="FUNGSI HRIS">
                 <h2 class="mb-0 font-weight-bold fs-34">Fungsi HRIS Dalam Pengelolaan SDM </h2>
             </div>
-
             <div class="fs-14 row justify-content-center">
                 <div class="col-md-10">
                     <p>HRIS memiliki fungsi yang cukup signifikan dalam pengelolaan sumber daya manusia pada sebuah perusahaan, bukan hanya sebagai pengelola proses rekrutmen atau rencana kompensasi karyawan saja. HRIS juga berfungsi sebagai pendukung dalam proses pengambilan keputusan termasuk didalamnya untuk pengembangan dan pelatihan sumber daya manusia agar lebih produktif sehingga mampu memberikan kontribusi lebih baik pada sebuah perusahaan.</p>
+                    <h3>Mengelola ratusan karyawan memang bukanlah tugas yang mudah.</h3>
+                    <p>Namun dengan Dokodemo-Kerja, tim HR perusahaan Anda akan lebih terbantu dalam menjalankan tugas-tugasnya.</p>
+                    <p>Dokodemo-kerja dirancang sedemikian rupa dengan beragam fitur yang berguna sehingga proses pengelolaan SDM dapat dilakukan dengan lebih praktis. Beberapa solusi yang ditawarkan oleh fitur-fitur Dokodemo-Kerja seperti: </p>
+                    <ul>
+                        <li>Memantau kedisiplinan dan produktivitas karyawan</li>
+                        <li>Laporan terkait jumlah jam kerja karyawan (harian, mingguan, dan bulanan)</li>
+                        <li>Absensi digital untuk memantau keterlambatan karyawan</li>
+                        <li>Mengelola cuti karyawan, dll</li>
+                    </ul>
+                </div>
+            </div>
+            <div class="row">
+                <div class="col-sm-6 col-md-6 col-lg-6 mx-auto">
+                    <a href="/ind/fitur" class="form-control btn btn--rounded bg--yellow mb-2 mt-4">Lihat Fitur Dokodemo-Kerja Selengkapnya</a>
                 </div>
             </div>
 
         </div>
     </section>
+
+    <!-- <section class="mb--70px color--blue">
+        <div class="container">
+            <div class="text-center title--bg title--bg-border title--bg-border-right" data-title-bg="KELOLA KARYAWAN">
+                <h2 class="mb-0 font-weight-bold fs-34">Mengelola ratusan karyawan memang bukanlah tugas yang mudah.</h2>
+            </div>
+
+            <div class="fs-14 row justify-content-center">
+                <div class="col-md-10">
+                    <h3>Namun dengan Dokodemo-Kerja, tim HR perusahaan Anda akan lebih terbantu dalam menjalankan tugas-tugasnya.</h3>
+                    <p>Dokodemo-kerja dirancang sedemikian rupa dengan beragam fitur yang berguna sehingga proses pengelolaan SDM dapat dilakukan dengan lebih praktis. Beberapa solusi yang ditawarkan oleh fitur-fitur Dokodemo-Kerja seperti: </p>
+                    <ul>
+                        <li>Memantau kedisiplinan dan produktivitas karyawan</li>
+                        <li>Laporan terkait jumlah jam kerja karyawan (harian, mingguan, dan bulanan)</li>
+                        <li>Absensi digital untuk memantau keterlambatan karyawan</li>
+                        <li>Mengelola cuti karyawan, dll</li>
+                    </ul>
+                </div>
+            </div>
+
+        </div>
+    </section> -->
 
     <section class="mb--70px color--blue">
         <div class="container">
@@ -161,8 +197,21 @@ include($_SERVER['DOCUMENT_ROOT'] . '/ind/component/header.php');
             <div class="fs-14 row justify-content-center">
                 <div class="col-md-10">
                     <p>HRIS atau Human Resource Information System digunakan untuk pengolahan dan penyimpanan data para pekerja perusahaan yang lebih baik dan teratur. HRIS memanfaatkan software atau aplikasi berbasis online yang mampu menyimpan data yang cukup komprehensif dan valid dalam sebuah database khusus.</p>
-                    <p class="mb-0">Dokodemo-Kerja sebagai salah satu software atau aplikasi HRIS terbaik di Indonesia mampu memberikan kontribusi positif dalam proses peningkatan kinerja dan profesionalitas karyawan.</p>
+                    <p>Dokodemo-Kerja sebagai salah satu software atau aplikasi HRIS terbaik di Indonesia mampu memberikan kontribusi positif dalam proses peningkatan kinerja dan profesionalitas karyawan.</p>
+                    <h3>Sudah banyak perusahaan yang mengakui manfaat dari penggunaan Dokodemo-Kerja</h3>
+                    <p>Manfaat yang diperoleh dari penggunaan sistem Dokodemo-Kerja adalah sebagai berikut:</p>
+                    <ul>
+                        <li>Peningkatan produktivitas pada karyawan </li>
+                        <li>Evaluasi kinerja karyawan dapat dilakukan secara adil</li>
+                        <li>Pengelolaan SDM yang lebih efektif dan efisien</li>
+                        <li>Pengajuan cuti yang lebih praktis, dll</li>
+                    </ul>                
                 </div>
+            </div>
+            <div class="row">
+                <div class="col-sm-6 col-md-6 col-lg-6 mx-auto">
+                    <a href="/ind/case-study" class="form-control btn btn--rounded bg--yellow mb-2 mt-4">Lihat Pengalaman Bekerja dengan Dokodemo-Kerja Selengkapnya</a>
+                </div>                                            
             </div>
 
         </div>

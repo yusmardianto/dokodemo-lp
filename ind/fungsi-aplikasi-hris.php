@@ -38,7 +38,7 @@ include($_SERVER['DOCUMENT_ROOT'] . '/ind/component/header.php');
     <section class="mb--70px margintop-80">
         <div class="color--blue container">
             <div class="text-center title--bg title--bg-border title--bg-border-right" data-title-bg="DEFINISI">
-                <h1 class="mb-0 font-weight-bold fs-34">Definisi dan Fungsi Aplikasi HRIS</h1>
+                <h2 class="mb-0 font-weight-bold fs-34">Definisi dan Fungsi Aplikasi HRIS</h2>
             </div>
 
             <div class="fs-14 row justify-content-center">
@@ -50,25 +50,10 @@ include($_SERVER['DOCUMENT_ROOT'] . '/ind/component/header.php');
         </div>
     </section>
 
-    <section class="mb--70px py--30px color--blue bg--l-blue case-study__dokodemo margintop-150">
-        <div class="container">
-            <div class="row justify-content-center">
-                <div class="col-md-10">
-                    <div class="row">
-                        <div class="col-md-auto mb-4 mb-md-0">
-                            <h2 class="fs-34 font-weight-bold">“Dokodemo-Kerja”</h2>
-                        </div>
-                        <div class="col-md fs-14">
-                            <p><a class="bold-link" href="/ind/" target="_blank"><b>Aplikasi Absensi Online</b></a> terbaik dengan fitur lengkap untuk meningkatkan produktivitas kerja para karyawan. Pengelolaan Absensi, Cuti, hingga Evaluasi hanya melalui satu Aplikasi</p>
-                            <p class="mb-0">Bekerja dimana saja dengan Dokodemo-Kerja. <a class="bold-link" href="/ind/demo" target="_blank" class="coba-sekarang"><b>Coba sekarang!</b><a> </p>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </section>
+    <?php include($_SERVER['DOCUMENT_ROOT'] . '/ind/absensi-app-online-section.php'); ?>
 
-    <section class="mb--70px color--blue margintop-170">
+
+    <section class="mb--70px color--blue margintop-80">
         <div class="container">
 
             <div class="text-center title--bg title--bg-border title--bg-border-left" data-title-bg="HRIS">
@@ -86,7 +71,7 @@ include($_SERVER['DOCUMENT_ROOT'] . '/ind/component/header.php');
         </div>
     </section>
 
-    <section class="mb--70px color--blue margintop-150">
+    <section class="mb--70px color--blue margintop-80">
         <div class="container">
 
             <div class="text-center title--bg title--bg-border title--bg-border-right" data-title-bg="KOMPONEN HRIS">
@@ -125,7 +110,7 @@ include($_SERVER['DOCUMENT_ROOT'] . '/ind/component/header.php');
         </div>
     </section>
 
-    <section class="mb--70px color--blue margintop-150">
+    <section class="mb--70px color--blue margintop-80">
         <div class="container">
 
             <div class="text-center title--bg title--bg-border title--bg-border-left" data-title-bg="FUNGSI HRIS">
@@ -164,18 +149,24 @@ include($_SERVER['DOCUMENT_ROOT'] . '/ind/component/header.php');
                                 <p>Aplikasi HRIS menawarkan kemampuan self-service untuk para karyawannya. Artinya, karyawan dapat menangani berbagai hal secara mandiri terkait data-data mereka di perusahaan. Contohnya seperti kemampuan untuk memperbarui informasi pribadi, melihat kuota cuti yang tersisa, mengajukan cuti, melacak PTO, dan lain-lain.</p>
                             </li>
                         </ol>
-                    </div>
 
-                    <p class="margintop-50">Perusahaan yang mampu memanfaatkan aplikasi HRIS dengan baik akan memperoleh berbagai keuntungan. Software ini sengaja dirancang dengan berbagai fitur untuk menyederhanakan pengelolaan sumber daya manusia sehingga proses pengelolaan karyawan akan menjadi lebih efektif dan efisien. Jika perusahaan Anda sudah semakin berkembang dan memiliki lebih banyak karyawan, maka sudah saatnya Anda beralih dari sistem manual ke sistem digital.</p>
-                    <p>Dokodemo-Kerja sebagai salah satu software atau aplikasi HRIS terbaik di Indonesia mampu memberikan kontribusi positif dalam proses peningkatan kinerja dan profesionalitas karyawan.</p>
+                    </div>
+                    <p class="margintop-80" style="font-size: 16px;">Perusahaan yang mampu memanfaatkan aplikasi HRIS dengan baik akan memperoleh berbagai keuntungan. Software ini sengaja dirancang dengan berbagai fitur untuk menyederhanakan pengelolaan sumber daya manusia sehingga proses pengelolaan karyawan akan menjadi lebih efektif dan efisien. Jika perusahaan Anda sudah semakin berkembang dan memiliki lebih banyak karyawan, maka sudah saatnya Anda beralih dari sistem manual ke sistem digital.</p>
+                    <p style="font-size: 16px;">Dokodemo-Kerja sebagai salah satu software atau aplikasi HRIS terbaik di Indonesia mampu memberikan kontribusi positif dalam proses peningkatan kinerja dan profesionalitas karyawan.</p>
+                    <p style="font-size: 16px;">Ingin tahu bagaimana Dokodemo-Kerja dapat membantu perusahaan Anda?</p>
+
+                    <div class="col-sm-6 col-md-6 col-lg-6 mx-auto">
+                        <a href="/ind/fitur" class="form-control btn btn--rounded bg--yellow mb-2 mt-4">Lihat Fitur & Cara Kerja Dokodemo-Kerja di Sini! </a>
+                    </div>                                                                
+
 
                 </div>
             </div>
 
-        </div>
+        
     </section>
 
-    <div class="margintop-100"></div>
+    <div class="margintop-80"></div>
 </div>
 
 <?php include($_SERVER['DOCUMENT_ROOT'] . '/ind/component/demo-banner.php'); ?>
