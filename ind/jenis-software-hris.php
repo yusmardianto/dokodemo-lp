@@ -23,7 +23,6 @@ include($_SERVER['DOCUMENT_ROOT'] . '/ind/component/header.php');
 ?>
 
 <div class="case-study home">
-
     <section class="mb--30px fs-14">
         <div class="container">
             <nav aria-label="breadcrumb">
@@ -44,8 +43,8 @@ include($_SERVER['DOCUMENT_ROOT'] . '/ind/component/header.php');
 
             <div class="fs-14 row justify-content-center">
                 <div class="col-md-10">
-                    <p>Terdapat beberapa jenis software HRIS di Indonesia yang mampu merampingkan manajemen SDM sehingga proses pengelolaan karyawan dapat dilakukan dengan cepat dan mudah. </p>
-                    <p class="mb-0">Seperti yang sudah kami jelaskan pada penjelasan <a href="/ind/fungsi-aplikasi-hris.php" class="text-underline"><u>Definisi dan Fungsi Aplikasi HRIS</u></a>, software ini memungkinkan tim HRD ( Human Resource Development) untuk menyimpan dan mengatur data berskala besar yang berkaitan dengan informasi karyawan. Selain itu, software HRIS di Indonesia juga dapat digunakan untuk meningkatkan produktivitas dan kedisiplinan karyawan terhadap peraturan-peraturan di kantor.</p>
+                    <p class="text-base">Terdapat beberapa jenis software HRIS di Indonesia yang mampu merampingkan manajemen SDM sehingga proses pengelolaan karyawan dapat dilakukan dengan cepat dan mudah. </p>
+                    <p class="text-base mb-0">Seperti yang sudah kami jelaskan pada penjelasan <a href="/ind/fungsi-aplikasi-hris.php" class="text-underline"><u>Definisi dan Fungsi Aplikasi HRIS</u></a>, software ini memungkinkan tim HRD ( Human Resource Development) untuk menyimpan dan mengatur data berskala besar yang berkaitan dengan informasi karyawan. Selain itu, software HRIS di Indonesia juga dapat digunakan untuk meningkatkan produktivitas dan kedisiplinan karyawan terhadap peraturan-peraturan di kantor.</p>
                 </div>
             </div>
         </div>
@@ -63,16 +62,16 @@ include($_SERVER['DOCUMENT_ROOT'] . '/ind/component/header.php');
 
             <div class="fs-14 row justify-content-center">
                 <div class="col-md-10">
-                    <p>Sebelum kami jelaskan apa saja jenis-jenis software HRIS, perlu Anda pahami terlebih dahulu bahwa secara garis besar teknologi software HR dibagi ke dalam 3 kategori utama yaitu:</p>
+                    <p  class="text-base">Sebelum kami jelaskan apa saja jenis-jenis software HRIS, perlu Anda pahami terlebih dahulu bahwa secara garis besar teknologi software HR dibagi ke dalam 3 kategori utama yaitu:</p>
                     <ol class="list-item">
                         <li class="mt-3">
-                            <p>HRIS (Human Resource Information System) adalah perangkat lunak yang dirancang untuk mengelola data, kebijakan, dan prosedur terkait karyawan di dalam suatu perusahaan. </p>
+                            <p  class="text-base">HRIS (Human Resource Information System) adalah perangkat lunak yang dirancang untuk mengelola data, kebijakan, dan prosedur terkait karyawan di dalam suatu perusahaan. </p>
                         </li>
                         <li class="mt-3">
-                            <p>HCM (Human Capital Management) adalah perangkat lunak yang mencakup berbagai fitur HRIS namun memiliki tambahan fungsi lain yaitu talent management dan global capabilities seperti pemformatan multi-lingual dan multi-currency. </p>
+                            <p class="text-base">HCM (Human Capital Management) adalah perangkat lunak yang mencakup berbagai fitur HRIS namun memiliki tambahan fungsi lain yaitu talent management dan global capabilities seperti pemformatan multi-lingual dan multi-currency. </p>
                         </li>
                         <li class="mt-3">
-                            <p>HRMS (Human Resource Management System) adalah perangkat lunak yang biasanya memiliki berbagai fungsi HRIS dan berbagai kemampuan HCM dengan tambahan fungsi payroll dan absensi / TLM (Time and Labour Management). </p>
+                            <p class="text-base">HRMS (Human Resource Management System) adalah perangkat lunak yang biasanya memiliki berbagai fungsi HRIS dan berbagai kemampuan HCM dengan tambahan fungsi payroll dan absensi / TLM (Time and Labour Management). </p>
                         </li>
                     </ol>
                 </div>
@@ -170,9 +169,9 @@ include($_SERVER['DOCUMENT_ROOT'] . '/ind/component/header.php');
 
                     <div class="col-sm-6 col-md-6 col-lg-6 mx-auto">
                         <a href="/ind/fitur" class="form-control btn btn--rounded bg--yellow mb-2 mt-4">Lihat Fitur Dokodemo-Kerja Selengkapnya </a>
+                        <p class="text-center mb-4 mt-3">Atau</p>
                     </div>  
 
-                    <div class="margintop-80"></div>
                 </div>
             </div>
 
