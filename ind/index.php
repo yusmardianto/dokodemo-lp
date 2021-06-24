@@ -64,24 +64,27 @@
                             <source srcset="/img/home/home-banner.webp" type="image/webp">
                             <img src="/img/home/home-banner.png" alt="Dokodemo Remote Working" class="img-fluid mb-4 mb-lg-0">
                         </picture> -->
-                        <!-- <div class="d-none d-md-flex justify-content-center align-items-center">
+                        <div class="d-none d-md-flex justify-content-center align-items-center">
                             <div class="w-100 mb-4 mb-lg-0 banner__animation" id="homepage_animation"></div>
                             <div class="loader">Loading...</div>
-                        </div> -->
+                        </div>
                     </div>
                     <!-- <p class="mb-md-2 text-justify text-md-left">
                         Dokodemo-Kerja merupakan software HRIS berupa aplikasi absensi online untuk kerja jarak jauh (remote working) dengan beragam fitur dan keunggulan. Fungsi utama aplikasi ini adalah sebagai pengelola absensi karyawan yang mampu mencatat waktu masuk, istirahat dan waktu pulang kerja karyawan serta mengakumulasi total waktu kerja secara akurat.
                     </p>
 
                     <?php include($_SERVER['DOCUMENT_ROOT'] . '/ind/absensi-app-online-section.php'); ?> -->
+                   
+                    <div class="col-md-12 ">
+                        <p class="mb-md-2 text-center">
+                            Dokodemo-Kerja merupakan software HRIS berupa aplikasi absensi online untuk kerja jarak jauh (remote working) dengan beragam fitur dan keunggulan. Fungsi utama aplikasi ini adalah sebagai pengelola absensi karyawan yang mampu mencatat waktu masuk, istirahat dan waktu pulang kerja karyawan serta mengakumulasi total waktu kerja secara akurat.
+                        </p>
+                    </div>
 
                     <div class="col-12">
                         <div class="mt--30px mb-5 py--20px px--30px bg--l-blue border--blue rounded-lg shadow--blue">
                             <div class="row align-items-center">
-                                <div class="col-md-8 col-lg-6">
-                                    <p class="mb-md-2 text-justify text-md-left">
-                                        Dokodemo-Kerja merupakan software HRIS berupa aplikasi absensi online untuk kerja jarak jauh (remote working) dengan beragam fitur dan keunggulan. Fungsi utama aplikasi ini adalah sebagai pengelola absensi karyawan yang mampu mencatat waktu masuk, istirahat dan waktu pulang kerja karyawan serta mengakumulasi total waktu kerja secara akurat.
-                                    </p>
+                                <div class="col-md-8 col-lg-6">                                   
                                     <p class="mb-md-0 text-justify text-md-left">
                                         Sejak Versi 2.0, aplikasi Dokodemo-Kerja telah dilengkapi fitur pelacakan GPS, sehingga memungkinkan perusahaan untuk mengelola kondisi kerja para staff yang sering keluar.
                                     </p>
