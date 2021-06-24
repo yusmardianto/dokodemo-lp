@@ -14,13 +14,11 @@
 <?php 
     $page = 'demo';
     $page_title = 'Attendance Management & Remote Work Tool Demo | Dokodemo-Kerja';
-
-    $meta_description = 'The demo for the remote work management tool Dokodemo-Kerja can be found on the LOGIQUE website. An efficient tool for employee management & Ideal for use in Indonesia.';
+    $meta_description = 'Dokodemo-Kerja is currently the best HRIS software available in Jakarta & is quite easily functional on a laptop or mobile device. Try Demo Now. Free!';
     $meta_keyword = 'weed out underperforming employees, get rid of lazy employees, increase productivity, dokodemo trial, dokodemo free, free hr tool, free management tool, small business tool, low budget tool, low budget hr tool, low budget management tool, free time tracker, free employee time tracker, free man hour tracker, screenshot tracker, screenshot employee monitor software cheap';
-
-    $og_title = 'Attendance management tool Dokodemo-Kerja demo';
+    $og_title = 'How Dokodemo-Kerja Works | The Top HRIS Software in Indonesia';
     $og_image = 'https://dokodemo-kerja.com/img/dokodemo-og.jpg';
-    $og_desription = 'For inquiries about the Remote Work System Dokodemo-Kerja, please send your inquiries from this page. Dokodemo-Kerja is developed by an Indonesian development company, LOGIQUE.';
+    $og_desription = 'Dokodemo-Kerja is currently the best HRIS software available in Jakarta & is quite easily functional on a laptop or mobile device. Try Demo Now. Free!';
 
     $add_css = '<link rel="stylesheet" href="/css/style-trial.css" />';
 
@@ -40,6 +38,22 @@
 		</div>
 	</section>
 
+	<section class="pb-5">
+		<div class="container">
+			<div class="row mt-5">
+				<div class="offset-md-1 col-md-10">
+					<h1 class="fs-30 text-center pt-5 mb-3">Cara Penggunaan Aplikasi Dokodemo-Kerja</h1>
+					<p class="text-center">
+						As one of the best Human Resource Information System (HRIS) software currently available in Indonesia, Dokodemo-Kerja was made to provide solutions for HR departments of companies that seek to use digital technology for a more effective and efficient Human Resources (HR) management processes.
+					</p>
+					<p class="text-center">
+						Since the release of Version 2.0, apart from its main function as an efficient Online Attendance & Leave Management application, Dokodemo-Kerja has also been equipped with a GPS tracking feature, enabling the company to manage and monitor the work activities of staff who often work outside the office. How does Dokodemo-Kerja work and how would this application benefit your company?
+					</p>
+
+				</div>
+			</div>
+		</div>
+	</section>
 	<section class="intro-section text-center px-4">
 		<h1 class="banner-text-white">Try Our Free Demo</h1>
 		<img src="/img/home/arrow-down.svg" class="pt-4 pb-3" width="20" alt=""/>

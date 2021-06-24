@@ -69,6 +69,11 @@
                             <div class="loader">Loading...</div>
                         </div>
                     </div>
+                    <div class="col-md-12 ">
+                        <p class="mb-md-2 text-center">
+                            Dokodemo-Kerja is HRIS software that mainly functions as an online attendance application for remote working, with a variety of additional features and advantages. The main function of this application is as an employee attendance management system that is able to record employee starting, resting and leaving times. It is also able to accumulate total working hours in an accurate manner.
+                        </p>
+                    </div>
                     <div class="col-12">
                         <div class="mt--30px mb-5 py--20px px--30px bg--l-blue border--blue rounded-lg shadow--blue">
                             <div class="row align-items-center">
@@ -290,7 +295,9 @@
                             <div class="row justify-content-center align-items-center">
                                 <div class="col-md-8 col-lg-6 order-last order-md-first">
                                     <h4 class="fs-20 font-weight-bold">Cost Saving</h4>
-                                    <p class="mb-0 fs-14">Employees can greatly reduce their commuting expenses, while employers can also save on costs in regards to transportation and meal allowances. Such strategies also reduce the need for office space, thereby allowing the company to save money renting a smaller office.</p>
+                                    <p class="mb-0 fs-14">
+                                        Utilizing HRIS technology for remote work through an efficient online attendance application with a complete range of features such as Dokodemo-Kerja can serve to increase budget efficiency for both the company and the employee.
+                                    </p>
                                 </div>
                                 <div class="col-4 col-lg-6 mb-3 mb-lg-0 order-first order-md-last text-center">
                                     <picture>
