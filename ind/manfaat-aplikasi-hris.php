@@ -44,8 +44,8 @@ include($_SERVER['DOCUMENT_ROOT'] . '/ind/component/header.php');
 
             <div class="fs-14 row justify-content-center">
                 <div class="col-md-10">
-                    <p>Banyak manfaat dari aplikasi HRIS yang bisa didapat oleh perusahaan maupun karyawan yang menggunakannya. Aplikasi HRIS merupakan sebuah sistem yang dipergunakan untuk mengumpulkan serta menyimpan berbagai data karyawan dalam skala yang besar. Aplikasi HRIS juga sering dianggap sebagai database informasi karyawan yang cerdas karena menawarkan berbagai solusi untuk pengelolaan data karyawan yang efektif dan efisien.</p>
-                    <p>Berikut kami sediakan penjelasan mengenai manfaat aplikasi HRIS baik untuk perusahaan ataupun karyawan.</p>
+                    <p class="text-base">Banyak manfaat dari aplikasi HRIS yang bisa didapat oleh perusahaan maupun karyawan yang menggunakannya. Aplikasi HRIS merupakan sebuah sistem yang dipergunakan untuk mengumpulkan serta menyimpan berbagai data karyawan dalam skala yang besar. Aplikasi HRIS juga sering dianggap sebagai database informasi karyawan yang cerdas karena menawarkan berbagai solusi untuk pengelolaan data karyawan yang efektif dan efisien.</p>
+                    <p class="text-base">Berikut kami sediakan penjelasan mengenai manfaat aplikasi HRIS baik untuk perusahaan ataupun karyawan.</p>
                 </div>
             </div>
         </div>

@@ -110,7 +110,7 @@ include($_SERVER['DOCUMENT_ROOT'] . '/ind/component/header.php');
         </div>
     </section>
 
-    <section class="mb--70px color--blue margintop-80">
+    <section class="color--blue margintop-80">
         <div class="container">
 
             <div class="text-center title--bg title--bg-border title--bg-border-left" data-title-bg="FUNGSI HRIS">
@@ -157,16 +157,12 @@ include($_SERVER['DOCUMENT_ROOT'] . '/ind/component/header.php');
 
                     <div class="col-sm-6 col-md-6 col-lg-6 mx-auto">
                         <a href="/ind/fitur" class="form-control btn btn--rounded bg--yellow mb-2 mt-4">Lihat Fitur & Cara Kerja Dokodemo-Kerja di Sini! </a>
+                        <p class="text-center mb-4 mt-3">Atau</p>
                     </div>                                                                
-
-
                 </div>
-            </div>
-
-        
+            </div>        
     </section>
-
-    <div class="margintop-80"></div>
+    
 </div>
 
 <?php include($_SERVER['DOCUMENT_ROOT'] . '/ind/component/demo-banner.php'); ?>

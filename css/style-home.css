@@ -240,3 +240,11 @@
         right: 55px;
     }
 }
+
+.text-base {
+    font-size: 16px;
+}
+
+p {
+    font-size: 16px;
+}

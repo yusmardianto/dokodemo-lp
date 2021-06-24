@@ -41,7 +41,7 @@ require '../action/c-trial.php';
 		</div>
 	</section>
 	
-	<section style="background-color: #f1faff" class="pb-5">
+	<section class="pb-5">
 		<div class="container">
 			<div class="row mt-5">
 				<div class="offset-md-1 col-md-10">
