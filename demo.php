@@ -13,7 +13,7 @@
 
 <?php 
     $page = 'demo';
-    $page_title = 'Attendance Management & Remote Work Tool Demo | Dokodemo-Kerja';
+    $page_title = 'How Dokodemo-Kerja Works | The Top HRIS Software in Indonesia';
     $meta_description = 'Dokodemo-Kerja is currently the best HRIS software available in Jakarta & is quite easily functional on a laptop or mobile device. Try Demo Now. Free!';
     $meta_keyword = 'weed out underperforming employees, get rid of lazy employees, increase productivity, dokodemo trial, dokodemo free, free hr tool, free management tool, small business tool, low budget tool, low budget hr tool, low budget management tool, free time tracker, free employee time tracker, free man hour tracker, screenshot tracker, screenshot employee monitor software cheap';
     $og_title = 'How Dokodemo-Kerja Works | The Top HRIS Software in Indonesia';
