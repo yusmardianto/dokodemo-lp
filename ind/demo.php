@@ -16,10 +16,10 @@ require '../action/c-trial.php';
     $page = 'demo';
     $page_title = 'Cara Kerja Dokodemo-Kerja | Software HRIS Terbaik';
 
-    $meta_description = 'Aplikasi Kerja Online dari Rumah, Dokodemo-Kerja dapat Anda gunakan secara gratis dalam bentuk demo. Unduh sekarang dan optimalkan potensimu melalui aplikasi ini.';
+    $meta_description = 'Cara kerja Dokodemo-Kerja sebagai software HRIS terbaik cukup mudah & "applicable" pada laptop ataupun perangkat seluler (mobile). Coba Demo Sekarang. Gratis!';
     $meta_keyword = 'menyingkirkan karyawan yang berkinerja buruk, menyingkirkan karyawan yang malas, meningkatkan produktifitas, uji coba dokodemo, dokodemo gratis, alat jam gratis, alat manajemen gratis, alat bisnis kecil, alat anggaran rendah, alat anggaran rendah, alat manajemen anggaran rendah, alat manajemen anggaran rendah, pelacak waktu gratis, pelacak waktu karyawan gratis, pelacak jam kerja gratis, pelacak tangkapan layar, tangkapan layar perangkat lunak monitor karyawan murah';
 
-    $og_title = 'Demo Aplikasi Kerja Online Dari Rumah | Dokodemo Kerja';
+    $og_title = 'Cara Kerja Dokodemo-Kerja | Software HRIS Terbaik';
     $og_image = 'https://dokodemo-kerja.com/img/dokodemo-og.jpg';
     $og_desription = 'Cara kerja Dokodemo-Kerja sebagai software HRIS terbaik cukup mudah & "applicable" pada laptop ataupun perangkat seluler (mobile). Coba Demo Sekarang. Gratis!';
 
