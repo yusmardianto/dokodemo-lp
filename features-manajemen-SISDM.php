@@ -11,6 +11,7 @@ $meta_keyword = 'dokodemo, dokodemo-kerja, Dokodemo kasus, Digital Logique Indon
 $og_title = 'HR Information System Management | Dokodemo-Kerja';
 $og_image = 'https://dokodemo-kerja.com/img/dokodemo-og.jpg';
 $og_desription = 'SISDM or also known as HRIS utilizes a variety of useful features made to streamline the complex HR management processes.';
+$canonical = 'https://dokodemo-kerja.com/eng/features-manajemen-SISDM';
 
 $add_css = '
     <link rel="stylesheet" href="/css/slick.css" />
@@ -50,6 +51,8 @@ include($_SERVER['DOCUMENT_ROOT'] . '/component/header.php');
             </div>
         </div>
     </section>
+
+    <?php include($_SERVER['DOCUMENT_ROOT'] . '/ind/absensi-app-online-section.php'); ?>
 
     <section class="margintop-80 color--blue">
         <div class="container">
@@ -156,14 +159,14 @@ include($_SERVER['DOCUMENT_ROOT'] . '/component/header.php');
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
-  "@type": "Article",
+  "@type": "NewsArticle",
   "mainEntityOfPage": {
     "@type": "WebPage",
-    "@id": "https://dokodemo-kerja.com/types-of-hris"
+    "@id": "https://dokodemo-kerja.com/eng/features-manajemen-SISDM"
   },
-  "headline": "Types of HRIS Software",
-  "description": "HR solutions have provided a number of useful features; based on function, the HRIS software is divided into several types, namely: 1. Operational HRIS; This type of HRIS software aims to assist managers in regards to routine and day-to-day decision making protocol., 2. Tactical HRIS; Tactical HRIS is used to assist managers in making decisions regarding efficient resource allocation. This type of HRIS contains several sub-sections., 3. Strategic HRIS; Strategic HRIS is a type of HRIS software that provides data for strategic decision making.",
-  "image": "https://www.dokodemo-kerja.com/img/swiper-img/jenis-jenis-hris.png",  
+  "headline": "SISDM, a Smart System Streamlining the HR Process",
+  "description": "SISDM or Human Resources Information System is a program used to organize and manage HR data for companies or agencies. Companies can utilize this program to easily store, process and manage large swaths of employee data. Importantly, SISDMs are also known by another term, namely HRIS or Human Resource Information Systems.",
+  "image": "https://www.dokodemo-kerja.com/img/swiper-img/aplikasi-hris.jpg",  
   "author": {
     "@type": "Organization",
     "name": "Dokodemo-Kerja"
@@ -176,8 +179,8 @@ include($_SERVER['DOCUMENT_ROOT'] . '/component/header.php');
       "url": "https://www.dokodemo-kerja.com/img/lgq-white.png"
     }
   },
-  "datePublished": "2021-05-16",
-  "dateModified": "2021-05-27"
+  "datePublished": "2021-06-30",
+  "dateModified": "2021-07-10"
 }
 </script>
 
