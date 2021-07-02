@@ -64,7 +64,18 @@ include($_SERVER['DOCUMENT_ROOT'] . '/ind/component/header.php');
                 </div>
             </div>
 
-            <div class="pt--20px row text-center slick--blue-arrow case-study__slide">
+            <div class="pt--20px row text-center slick--blue-arrow case-study__slide">\
+                <div class="col-md-4">
+                    <a href="/ind/fitur-manajemen-SISDM" class="color--blue">
+                        <div class="case-study">
+                            <picture>
+                                <img src="/img/swiper-img/HRIS-id.jpg" alt="hris aplication" class="img-fluid mb-3 rounded-lg" loading="lazy">
+                            </picture>
+                            <h5 class="fs-20 font-weight-bold">Fitur - fitur SISDM</h5>
+                        </div>
+                    </a>
+                </div>
+
                 <div class="col-md-4">
                     <a href="/ind/fungsi-aplikasi-hris" class="color--blue">
                         <div class="case-study">
