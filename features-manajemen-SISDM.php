@@ -1,6 +1,6 @@
 <?php
 $page = array(
-    "id" => "ind/fitur-manajemen-SISDM",
+    "id" => "fitur-manajemen-SISDM",
     "jp" => "types-of-hris",
 );
 $page_title = 'HR Information System Management | Dokodemo-Kerja';
@@ -61,8 +61,8 @@ include($_SERVER['DOCUMENT_ROOT'] . '/component/header.php');
                             <h2 class="fs-34 font-weight-bold">“Dokodemo-Kerja”</h2>
                         </div>
                         <div class="col-md fs-14">
-                            <p class="text-base "><a class="bold-link" href="/ind/" target="_blank">The Best Attendance Management Software with complete features to increase employee productivity. Management of Attendance, Leave, and Evaluation through one Application</p>
-                            <p class="text-base mb-0">Work anywhere with Dokodemo-Kerja. <a class="bold-link" href="/ind/demo" target="_blank" class="coba-sekarang"><b>Try it now!</b><a> </p>
+                            <p class="text-base "><a class="bold-link" href="https://www.dokodemo-kerja.com/" target="_blank">The Best Attendance Management Software</a> with complete features to increase employee productivity. Management of Attendance, Leave, and Evaluation through one Application</p>
+                            <p class="text-base mb-0">Work anywhere with Dokodemo-Kerja. <a class="bold-link" href="https://www.dokodemo-kerja.com/demo" target="_blank" class="coba-sekarang"><b>Try it now!</b><a> </p>
                         </div>
                     </div>
                 </div>
