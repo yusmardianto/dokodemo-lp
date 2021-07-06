@@ -1,6 +1,6 @@
 <?php
 $page = array(
-    "id" => "jenis-software-hris",
+    "id" => "ind/fitur-manajemen-SISDM",
     "jp" => "types-of-hris",
 );
 $page_title = 'HR Information System Management | Dokodemo-Kerja';

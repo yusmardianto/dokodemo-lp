@@ -1,6 +1,6 @@
 <?php
 $page = array(
-    "en" => "types-of-hris",
+    "en" => "features-manajemen-SISDM",
     "jp" => "types-of-hris",
 );
 $page_title = 'Manajemen Sistem Informasi SDM | Dokodemo-Kerja';
