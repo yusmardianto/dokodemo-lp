@@ -3,14 +3,14 @@ $page = array(
     "en" => "features-manajemen-SISDM",
     "jp" => "types-of-hris",
 );
-$page_title = 'Aplikasi Absensi Online Terbaik Untuk Karyawan | Dokodemo-Kerja';
+$page_title = 'Manajemen Sistem Informasi SDM | Dokodemo-Kerja';
 
-$meta_description = 'Software HRIS berupa Aplikasi absensi online karyawan terbaik berbasis web & mobile untuk sistem kerja remote / jarak jauh (WFH) maupun WFO. Coba Sekarang!';
+$meta_description = 'SISDM atau juga dikenal dengan HRIS memiliki beragam fitur yang berguna untuk merampingkan proses manajemen SDM yang rumit. Berikut adalah fitur-fitur tersebut.';
 $meta_keyword = 'dokodemo, dokodemo-kerja, Dokodemo kasus, Digital Logique Indonesia, sistem kerja jarak jauh, system kerja remote, perusahan pengembangan system, monitor karyawan, alat kerja remote, alat untuk manajer, perusahaan akuntansi';
 
-$og_title = 'Aplikasi Absensi Online Terbaik Untuk Karyawan | Dokodemo-Kerja';
+$og_title = 'Manajemen Sistem Informasi SDM | Dokodemo-Kerja';
 $og_image = 'https://dokodemo-kerja.com/ind/fitur-manajemen-SISDM';
-$og_desription = 'Software HRIS berupa Aplikasi absensi online karyawan terbaik berbasis web & mobile untuk sistem kerja remote / jarak jauh (WFH) maupun WFO. Coba Sekarang!';
+$og_desription = 'SISDM atau juga dikenal dengan HRIS memiliki beragam fitur yang berguna untuk merampingkan proses manajemen SDM yang rumit. Berikut adalah fitur-fitur tersebut.';
 $canonical = 'https://dokodemo-kerja.com/ind/fitur-manajemen-SISDM';
 
 $add_css = '
@@ -165,7 +165,7 @@ include($_SERVER['DOCUMENT_ROOT'] . '/ind/component/header.php');
     "@type": "WebPage",
     "@id": "https://dokodemo-kerja.com/ind/fitur-manajemen-SISDM"
   },
-  "headline": "Aplikasi Absensi Online Terbaik Untuk Karyawan | Dokodemo-Kerja",
+  "headline": "Manajemen Sistem Informasi SDM | Dokodemo-Kerja",
   "description": "Sistem Informasi Sumber Daya Manusia atau SISDM adalah salah satu jenis perangkat lunak yang dibutuhkan oleh divisi SDM. Perangkat lunak ini menyediakan berbagai fitur yang berguna untuk proses manajemen SDM seperti mengelola dan memantau kinerja karyawan secara ringkas dan sederhana.",
   "image": "https://www.dokodemo-kerja.com/img/swiper-img/aplikasi-hris.jpg",  
   "author": {

@@ -1,13 +1,13 @@
 <?php 
     $page = '';
-    $page_title = 'Cara Kerja Dokodemo-Kerja | Software HRIS Terbaik';
+    $page_title = 'Aplikasi Absensi Online Terbaik Untuk Karyawan | Dokodemo-Kerja';
 
-    $meta_description = 'Cara kerja Dokodemo-Kerja sebagai software HRIS terbaik cukup mudah & "applicable" pada laptop ataupun perangkat seluler (mobile). Coba Demo Sekarang. Gratis!';
+    $meta_description = 'Software HRIS berupa Aplikasi absensi online karyawan terbaik berbasis web & mobile untuk sistem kerja remote / jarak jauh (WFH) maupun WFO. Coba Sekarang!';
     $meta_keyword = 'Dokodemo-Kerja, strategi HR, kerja remote, jam kerja karyawan, jadwal kerja';
 
-    $og_title = 'Cara Kerja Dokodemo-Kerja | Software HRIS Terbaik';
+    $og_title = 'Aplikasi Absensi Online Terbaik Untuk Karyawan | Dokodemo-Kerja';
     $og_image = 'https://dokodemo-kerja.com/img/og-img/index.jpg';
-    $og_desription = 'Cara kerja Dokodemo-Kerja sebagai software HRIS terbaik cukup mudah & "applicable" pada laptop ataupun perangkat seluler (mobile). Coba Demo Sekarang. Gratis!';
+    $og_desription = 'Software HRIS berupa Aplikasi absensi online karyawan terbaik berbasis web & mobile untuk sistem kerja remote / jarak jauh (WFH) maupun WFO. Coba Sekarang!';
 
     $add_css = '
     <link rel="stylesheet" href="/js/magnific-popup.css" defer />
