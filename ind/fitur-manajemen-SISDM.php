@@ -10,7 +10,7 @@ $meta_keyword = 'dokodemo, dokodemo-kerja, Dokodemo kasus, Digital Logique Indon
 
 $og_title = 'Manajemen Sistem Informasi SDM | Dokodemo-Kerja';
 $og_image = 'https://dokodemo-kerja.com/ind/fitur-manajemen-SISDM';
-$og_desription = 'Terdapat beberapa jenis software HRIS yang dapat dipergunakan untuk merampingkan proses manajemen SDM di perusahaan Anda. Simak penjelasan selengkapnya di sini!';
+$og_desription = 'SISDM atau juga dikenal dengan HRIS memiliki beragam fitur yang berguna untuk merampingkan proses manajemen SDM yang rumit. Berikut adalah fitur-fitur tersebut.';
 $canonical = 'https://dokodemo-kerja.com/ind/fitur-manajemen-SISDM';
 
 $add_css = '
