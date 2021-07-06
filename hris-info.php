@@ -62,6 +62,17 @@ include($_SERVER['DOCUMENT_ROOT'] . '/component/header.php');
 
             <div class="pt--20px row text-center slick--blue-arrow case-study__slide">
                 <div class="col-md-4">
+                    <a href="/features-manajemen-SISDM" class="color--blue">
+                        <div class="case-study">
+                            <picture>
+                                <img src="/img/swiper-img/HRIS-en.jpg" alt="hris aplication" class="img-fluid mb-3 rounded-lg" loading="lazy">
+                            </picture>
+                            <h5 class="fs-20 font-weight-bold">SISDM Features</h5>
+                        </div>
+                    </a>
+                </div>
+                
+                <div class="col-md-4">
                     <a href="/hris-definition-functions" class="color--blue">
                         <div class="case-study">
                             <picture>
