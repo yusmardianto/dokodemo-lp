@@ -8,7 +8,11 @@
                         </div>
                         <div class="col-md fs-14">
                             <p class="text-base "><a class="bold-link" href="/ind/" target="_blank"><b>Aplikasi Absensi Online</b></a> terbaik dengan fitur lengkap untuk meningkatkan produktivitas kerja para karyawan. Pengelolaan Absensi, Cuti, hingga Evaluasi hanya melalui satu Aplikasi</p>
-                            <p class="text-base mb-0">Bekerja dimana saja dengan Dokodemo-Kerja. <a class="bold-link" href="/ind/demo" target="_blank" class="coba-sekarang"><b>Coba sekarang!</b><a> </p>
+                            <p class="text-base mb-0">Bekerja dimana saja dengan Dokodemo-Kerja. 
+                                <a class="bold-link" href="/ind/demo" target="_blank" class="coba-sekarang">
+                                    <b>Coba sekarang!</b>
+                                </a> 
+                            </p>
                         </div>
                     </div>
                 </div>

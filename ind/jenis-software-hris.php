@@ -44,7 +44,7 @@ include($_SERVER['DOCUMENT_ROOT'] . '/ind/component/header.php');
             <div class="fs-14 row justify-content-center">
                 <div class="col-md-10">
                     <p class="text-base">Terdapat beberapa jenis software HRIS di Indonesia yang mampu merampingkan manajemen SDM sehingga proses pengelolaan karyawan dapat dilakukan dengan cepat dan mudah. </p>
-                    <p class="text-base mb-0">Seperti yang sudah kami jelaskan pada penjelasan <a href="/ind/fungsi-aplikasi-hris.php" class="text-underline"><u>Definisi dan Fungsi Aplikasi HRIS</u></a>, software ini memungkinkan tim HRD ( Human Resource Development) untuk menyimpan dan mengatur data berskala besar yang berkaitan dengan informasi karyawan. Selain itu, software HRIS di Indonesia juga dapat digunakan untuk meningkatkan produktivitas dan kedisiplinan karyawan terhadap peraturan-peraturan di kantor.</p>
+                    <p class="text-base mb-0">Seperti yang sudah kami jelaskan pada penjelasan <a href="/ind/fungsi-aplikasi-hris" class="text-underline"><u>Definisi dan Fungsi Aplikasi HRIS</u></a>, software ini memungkinkan tim HRD ( Human Resource Development) untuk menyimpan dan mengatur data berskala besar yang berkaitan dengan informasi karyawan. Selain itu, software HRIS di Indonesia juga dapat digunakan untuk meningkatkan produktivitas dan kedisiplinan karyawan terhadap peraturan-peraturan di kantor.</p>
                 </div>
             </div>
         </div>
