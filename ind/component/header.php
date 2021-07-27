@@ -21,7 +21,8 @@
     <link rel="stylesheet" href="/css/bootstrap.min.css" />
     <!-- <link rel="stylesheet" href="/fonts/font-awesome/css/font-awesome.min.css" /> -->
     <link rel="stylesheet" href="/css/header-footer.css" />
-    <link rel="stylesheet" href="/css/style.css" />
+    <link rel="stylesheet" href="/css/style.css" />    
+
     <?php if (isset($add_css)) echo $add_css ?>
     
     <link rel="shortcut icon" type="image/x-icon" href="/favicon.ico">

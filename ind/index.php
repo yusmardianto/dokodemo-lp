@@ -24,7 +24,7 @@
             <div class="container">
                 <div class="row align-items-center justify-content-center">
                     <div class="col-lg-6">
-                        <h4 class="fs-18">Ayo Kerja Remote dengan <span class="font-weight-bold">Dokodemo-Kerja</span>,</h4>
+                        <h3 class="fs-18">Ayo Kerja Remote dengan <span class="font-weight-bold">Dokodemo-Kerja</span>,</h3>
                         <h1 class="color--yellow fs-34 font-weight-bold">Aplikasi Absensi Online untuk Produktivitas Kerja dan Efisiensi Anggaran</h1>
                         <div class="row my-4 banner__benefit">
                             <div class="col-4">
@@ -306,7 +306,7 @@
                         <div class="p-3 rounded-lg bg--blue-gradation-right">
                             <div class="row justify-content-center align-items-center">
                                 <div class="col-md-8 col-lg-6 order-last order-md-first">
-                                    <h4 class="fs-20 font-weight-bold">Efisiensi Anggaran</h4>
+                                    <h3 class="fs-20 font-weight-bold">Efisiensi Anggaran</h3>
                                     <p class="mb-0 fs-14">Penggunaan teknologi HRIS untuk kerja remote yang berupa aplikasi absensi online dengan fitur lengkap seperti Dokodemo-Kerja dapat meningkatkan efisiensi anggaran baik bagi perusahaan maupun karyawan.</p>
                                 </div>
                                 <div class="col-4 col-lg-6 mb-3 mb-lg-0 order-first order-md-last text-center">
@@ -328,7 +328,7 @@
                                     </picture>
                                 </div>
                                 <div class="col-md-8 col-lg-6">
-                                    <h4 class="fs-20 font-weight-bold">Peningkatan Produktifitas</h4>
+                                    <h3 class="fs-20 font-weight-bold">Peningkatan Produktifitas</h3>
                                     <p class="mb-0 fs-14">Dengan tidak perlu pergi ke kantor, energi yang terbuang diperjalanan dapat digunakan untuk hal yang lebih positif.</p>
                                 </div>
                             </div>                            
@@ -338,7 +338,7 @@
                         <div class="p-3 rounded-lg bg--blue-gradation-right">
                             <div class="row justify-content-center align-items-center">
                                 <div class="col-md-8 col-lg-6 order-last order-md-first">
-                                    <h4 class="fs-20 font-weight-bold">Bekerja tanpa Batas</h4>
+                                    <h3 class="fs-20 font-weight-bold">Bekerja tanpa Batas</h3>
                                     <p class="mb-0 fs-14">Tanpa perlu datang ke kantor, perusahaan dapat mengoptimalkan karyawan Anda secara profesional dari mana saja.</p>
                                 </div>
                                 <div class="col-4 col-lg-6 mb-3 mb-lg-0 order-first order-md-last text-center">
@@ -360,7 +360,7 @@
                                     </picture>
                                 </div>
                                 <div class="col-md-8 col-lg-6">
-                                    <h4 class="fs-20 font-weight-bold">Hidup yang Seimbang</h4>
+                                    <h3 class="fs-20 font-weight-bold">Hidup yang Seimbang</h3>
                                     <p class="mb-0 fs-14">Karyawan yang harus merawat anggota keluarga mereka tidak perlu lagi memilih, dan mereka dapat lanjut bekerja dari rumah. Dengan kebijakan strategi kerja remote, karyawan pun bisa mendapatkan keseimbangan antara bekerja dan kehidupan pribadi.</p>
                                 </div>
                             </div>                            
@@ -370,7 +370,7 @@
                         <div class="p-3 rounded-lg bg--blue-gradation-right">
                             <div class="row justify-content-center align-items-center">
                                 <div class="col-md-8 col-lg-6 order-last order-md-first">
-                                    <h4 class="fs-20 font-weight-bold">Evaluasi Akurat</h4>
+                                    <h3 class="fs-20 font-weight-bold">Evaluasi Akurat</h3>
                                     <p class="mb-0 fs-14">Dokodemo-Kerja menyimpan data layar komputer (dengan resolusi rendah) dan jam kerja aktif karyawan. Data tersebut dapat membantu HR saat memberikan evaluasi yang adil kepada karyawan, karena didukung oleh data yang nyata.</p>
                                 </div>
                                 <div class="col-4 col-lg-6 mb-3 mb-lg-0 order-first order-md-last text-center">

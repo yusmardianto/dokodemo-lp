@@ -39,7 +39,7 @@ include($_SERVER['DOCUMENT_ROOT'] . '/component/header.php');
     <section class="margintop-80">
         <div class="color--blue container">
             <div class="text-center title--bg title--bg-border title--bg-border-right" data-title-bg="Familiarize">
-                <h2 class="mb-0 font-weight-bold fs-34">Familiarize yourself with SISDM, a Smart System streamlining the HR Process</h2>
+                <h1 class="mb-0 font-weight-bold fs-34">Familiarize yourself with SISDM, a Smart System streamlining the HR Process</h1>
             </div>
 
             <div class="fs-14 row justify-content-center">
