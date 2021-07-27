@@ -28,7 +28,7 @@
     </section>
 
     <section class="top-content">
-        <img src="/img/about/bg.jpg" class="img-bg" alt="Logique's Office in AD Premier" />
+        <img src="/img/about/bg.webp" class="img-bg" alt="Logique's Office in AD Premier" />
         <div class="container">
             <div class="row align-items-end">
                 <div class="col-lg-6 about-us-left">
@@ -46,7 +46,7 @@
 
                     <br class="d-none d-lg-block"><br class="d-none d-lg-block">
                     
-                    <img src="/img/about/dokodemo-about.png" class="img-dokodemo-about" alt="Dokodemo-Kerja is Compatible for Macintosh" />
+                    <img src="/img/about/dokodemo-about.webp" class="img-dokodemo-about" alt="Dokodemo-Kerja is Compatible for Macintosh" />
 
                     <br class="d-none d-lg-block"><br class="d-none d-lg-block">
                 </div>
@@ -229,7 +229,7 @@
             <div class="row no-gutters ">
                 <div class="col-md-6 ">
                     <img src="/img/home/bg-feature-1.png" class="w-100 img-fluid" alt="View from above the Mountains" />
-                    <img src="/img/home/dokodemo-user.png" class="dokodemo-user-float" alt="Dokodemo-Kerja is compatible with Macintosh" />
+                    <img src="/img/home/dokodemo-user.webp" class="dokodemo-user-float" alt="Dokodemo-Kerja is compatible with Macintosh" />
                 </div>
                 <div class="col-md-6 d-flex align-items-center">
                     <div class="benefit-content right">
@@ -252,12 +252,12 @@
 
                 </div>
                 <div class="col-md-6 order-1 order-md-2">
-                    <img src="/img/home/work-anywhere.png" class="img-fluid" alt="Work at home from your computer" />
+                    <img src="/img/home/work-anywhere.webp" class="img-fluid" alt="Work at home from your computer" />
                 </div>
             </div>
             <div class="row no-gutters">
                 <div class="col-md-6">
-                    <img src="/img/home/work-efficiency.png" width="100%" class="img-fluid" alt="Dokodemo-Kerja for PC" />
+                    <img src="/img/home/work-efficiency.webp" width="100%" class="img-fluid" alt="Dokodemo-Kerja for PC" />
                 </div>
                 <div class="col-md-6 d-flex align-items-center">
                     <div class="benefit-content right">

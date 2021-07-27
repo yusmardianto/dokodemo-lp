@@ -1,0 +1,4485 @@
+[33mcommit 5be5ed9a86f4a9ea2259223b9596383528b927fe[m[33m ([m[1;36mHEAD -> [m[1;32mfeat/minor-improve[m[33m)[m
+Author: abdul_rachman <abdul.rachman@logique.co.id>
+Date:   Mon Jul 26 16:53:32 2021 +0700
+
+    fix: mobile responsive page fungsi aplikasi hris
+
+[33mcommit 1a27b7ecfbef7eba57adef702f18413a59dc12c8[m[33m ([m[1;31morigin/develop[m[33m, [m[1;32mdevelop[m[33m)[m
+Merge: a5f7bba a5eef7d
+Author: fahmi <fahmi@logique.co.id>
+Date:   Tue Jul 6 09:32:02 2021 +0000
+
+    Merge branch 'dev_fahmi' into 'develop'
+    
+    update meta title and meta desc on home indo
+    
+    See merge request logique/dokodemo-lp!45
+
+[33mcommit a5eef7d3561506c65d593565a26b213b36bccb28[m
+Author: 21fahmi <fahmi@logique.co.id>
+Date:   Tue Jul 6 16:30:39 2021 +0700
+
+    update meta title and meta desc on home indo
+
+[33mcommit a5f7bbabeca22436a406195608bfafc850d745df[m
+Merge: dae5214 f37ee9b
+Author: fahmi <fahmi@logique.co.id>
+Date:   Tue Jul 6 09:17:11 2021 +0000
+
+    Merge branch 'dev_fahmi' into 'develop'
+    
+    update schema and content fitur manajemen SISDM page
+    
+    See merge request logique/dokodemo-lp!44
+
+[33mcommit f37ee9b387c4a0d134ecce416929441c76664934[m
+Author: 21fahmi <fahmi@logique.co.id>
+Date:   Tue Jul 6 16:13:53 2021 +0700
+
+    update schema and content fitur manajemen SISDM page
+
+[33mcommit dae521477692edbb8b20478fb04d217d0e7e5cac[m
+Merge: 7cd0d23 3f54c82
+Author: fahmi <fahmi@logique.co.id>
+Date:   Tue Jul 6 02:26:18 2021 +0000
+
+    Merge branch 'dev_fahmi' into 'develop'
+    
+    fix change language on fitur management sisdm
+    
+    See merge request logique/dokodemo-lp!43
+
+[33mcommit 3f54c824e1fc38e698d1fa2a9eac71d406ebe3a7[m
+Author: 21fahmi <fahmi@logique.co.id>
+Date:   Tue Jul 6 09:25:32 2021 +0700
+
+    fix change language on fitur management sisdm
+
+[33mcommit 7cd0d23a7ccb631edd6146506f2f8c789fc84054[m
+Merge: f801d94 dc0f66d
+Author: fahmi <fahmi@logique.co.id>
+Date:   Tue Jul 6 02:06:15 2021 +0000
+
+    Merge branch 'dev_fahmi' into 'develop'
+    
+    update page fitur management *en *id
+    
+    See merge request logique/dokodemo-lp!42
+
+[33mcommit dc0f66df818d1d3aad5906207ee0fbbc75a5eeaa[m
+Author: 21fahmi <fahmi@logique.co.id>
+Date:   Tue Jul 6 09:05:06 2021 +0700
+
+    update page fitur management *en *id
+
+[33mcommit f801d947521ece4bb59c888866ea346089bce08e[m
+Merge: e84c22f 5fe944d
+Author: fahmi <fahmi@logique.co.id>
+Date:   Fri Jul 2 08:37:04 2021 +0000
+
+    Merge branch 'dev_fahmi' into 'develop'
+    
+    update page info hris and fitur manajemen SISDM *en *id
+    
+    See merge request logique/dokodemo-lp!41
+
+[33mcommit 5fe944d7e5ec9fb45967f72be0934b587f18607f[m
+Author: 21fahmi <fahmi@logique.co.id>
+Date:   Fri Jul 2 15:34:57 2021 +0700
+
+    update page info hris and fitur manajemen SISDM *en *id
+
+[33mcommit e84c22fd59dc254cc9685bcc2a174b4d89744164[m
+Merge: f20935d e346036
+Author: fahmi <fahmi@logique.co.id>
+Date:   Wed Jun 30 05:11:45 2021 +0000
+
+    Merge branch 'dev_fahmi' into 'develop'
+    
+    Dev fahmi
+    
+    See merge request logique/dokodemo-lp!40
+
+[33mcommit e3460364dcd82f6b52ff78db6440807ef6696b15[m
+Author: 21fahmi <fahmi@logique.co.id>
+Date:   Wed Jun 30 12:09:26 2021 +0700
+
+    create new page fitur manajemen SISDM *en *id
+
+[33mcommit de2ef67914c79211b695afefbfb265d309fccd86[m
+Merge: e38f775 72d70ec
+Author: Abdul Rachman <6656642-abdul_rachman@users.noreply.gitlab.com>
+Date:   Fri Jun 25 00:56:17 2021 +0000
+
+    Merge branch 'refactor/adjust-content-june' into 'master'
+    
+    Refactor/adjust content june
+    
+    See merge request logique/dokodemo-lp!39
+
+[33mcommit 72d70ec29c753012a46befb5ee0dc701e5843cd2[m
+Author: Abdul Rachman <6656642-abdul_rachman@users.noreply.gitlab.com>
+Date:   Fri Jun 25 00:56:17 2021 +0000
+
+    Refactor/adjust content june
+
+[33mcommit f20935d220c2d1420169cc112bed1ead11828a68[m
+Merge: 145606e 476ed6d
+Author: Abdul Rachman <6656642-abdul_rachman@users.noreply.gitlab.com>
+Date:   Fri Jun 25 00:46:04 2021 +0000
+
+    Merge branch 'refactor/adjustment-content-june' into 'develop'
+    
+    fix: meta description
+    
+    See merge request logique/dokodemo-lp!36
+
+[33mcommit 476ed6de905bf22b1b016f8289417a12f283f77d[m[33m ([m[1;31morigin/refactor/adjustment-content-june[m[33m, [m[1;32mrefactor/adjustment-content-june[m[33m)[m
+Author: abdul_rachman <abdul.rachman@logique.co.id>
+Date:   Fri Jun 25 07:44:33 2021 +0700
+
+    fix: meta description
+
+[33mcommit e38f775f13d4d5cbaacf2e34500047c84eee4538[m
+Merge: d3637f7 a04c014
+Author: Abdul Rachman <6656642-abdul_rachman@users.noreply.gitlab.com>
+Date:   Thu Jun 24 07:05:42 2021 +0000
+
+    Merge branch 'refactor/not-mobile-friendly' into 'master'
+    
+    Refactor/not mobile friendly
+    
+    See merge request logique/dokodemo-lp!35
+
+[33mcommit a04c014d78cd1a2b0b3b5f5135deb3154fc21c05[m
+Author: Abdul Rachman <6656642-abdul_rachman@users.noreply.gitlab.com>
+Date:   Thu Jun 24 07:05:42 2021 +0000
+
+    Refactor/not mobile friendly
+
+[33mcommit 145606e80186eb4f4c816a0c9aae0307b7c3c24e[m
+Merge: f33be46 ba5b3e5
+Author: Abdul Rachman <6656642-abdul_rachman@users.noreply.gitlab.com>
+Date:   Thu Jun 24 07:04:55 2021 +0000
+
+    Merge branch 'refactor/not-mobile-friendly' into 'develop'
+    
+    fix: revisi konten
+    
+    See merge request logique/dokodemo-lp!34
+
+[33mcommit ba5b3e5017fe5a9212035e6417ebd560099b7870[m[33m ([m[1;31morigin/refactor/not-mobile-friendly[m[33m, [m[1;32mrefactor/not-mobile-friendly[m[33m)[m
+Author: abdul_rachman <abdul.rachman@logique.co.id>
+Date:   Thu Jun 24 13:52:45 2021 +0700
+
+    fix: revisi konten
+
+[33mcommit d3637f7cf63fb47d9e66d148ed5b5eb3dd26c013[m
+Merge: 9458642 9ff3c29
+Author: Hendrawan Kurnianto <hendrawan@logique.co.id>
+Date:   Thu Jun 24 03:53:42 2021 +0000
+
+    Merge branch 'fix/not-mobile-friendly' into 'master'
+    
+    Fix/not mobile friendly
+    
+    See merge request logique/dokodemo-lp!33
+
+[33mcommit f33be4650d9553e349418bd85ce43eccb2294cfa[m
+Merge: 2c9494e 9ff3c29
+Author: Abdul Rachman <6656642-abdul_rachman@users.noreply.gitlab.com>
+Date:   Thu Jun 24 03:34:05 2021 +0000
+
+    Merge branch 'fix/not-mobile-friendly' into 'develop'
+    
+    fix: adjust revision content
+    
+    See merge request logique/dokodemo-lp!32
+
+[33mcommit 9ff3c29af8ef4aba0cc2be46298122d06910fb35[m[33m ([m[1;31morigin/fix/not-mobile-friendly[m[33m, [m[1;32mfix/not-mobile-friendly[m[33m)[m
+Author: abdul_rachman <abdul.rachman@logique.co.id>
+Date:   Thu Jun 24 10:32:05 2021 +0700
+
+    fix: adjust revision content
+
+[33mcommit 2c9494ed8cb5cc5cac0347ca6d26745278be1c86[m
+Merge: e9fc82b 2a1f49b
+Author: Abdul Rachman <6656642-abdul_rachman@users.noreply.gitlab.com>
+Date:   Thu Jun 24 03:14:52 2021 +0000
+
+    Merge branch 'fix/adjustment-content-june' into 'develop'
+    
+    fix : adjust revision content,etc
+    
+    See merge request logique/dokodemo-lp!31
+
+[33mcommit 2a1f49be4f75baad84b511c26dfe71b11c010c0e[m[33m ([m[1;31morigin/fix/adjustment-content-june[m[33m, [m[1;32mfix/adjustment-content-june[m[33m)[m
+Author: abdul_rachman <abdul.rachman@logique.co.id>
+Date:   Thu Jun 24 10:05:22 2021 +0700
+
+    fix : adjust revision content,etc
+
+[33mcommit e9fc82b764012d55748a02540d3dc612838a4c70[m
+Merge: 37dee7d ebcd202
+Author: Abdul Rachman <6656642-abdul_rachman@users.noreply.gitlab.com>
+Date:   Wed Jun 23 03:48:42 2021 +0000
+
+    Merge branch 'feat/adjustmen-content-june' into 'develop'
+    
+    Feat/adjustmen content june
+    
+    See merge request logique/dokodemo-lp!30
+
+[33mcommit ebcd202fe3daf0d0ded790ef336896a0f4b24992[m
+Author: Abdul Rachman <6656642-abdul_rachman@users.noreply.gitlab.com>
+Date:   Wed Jun 23 03:48:42 2021 +0000
+
+    Feat/adjustmen content june
+
+[33mcommit 945864257d1f50e2d22c3782baf89d47447ceb8c[m
+Merge: c532060 37dee7d
+Author: fahmi <fahmi@logique.co.id>
+Date:   Mon May 31 10:42:20 2021 +0000
+
+    Merge branch 'develop' into 'master'
+    
+    Develop
+    
+    See merge request logique/dokodemo-lp!29
+
+[33mcommit 37dee7d5821fc900578091cb490d2bdfa9089b0f[m
+Merge: a1a2948 161d7f0
+Author: fahmi <fahmi@logique.co.id>
+Date:   Mon May 31 10:21:47 2021 +0000
+
+    Merge branch 'dev_fahmi' into 'develop'
+    
+    update work-monitoring-app page
+    
+    See merge request logique/dokodemo-lp!28
+
+[33mcommit 161d7f0baf9b0cd0cbae6e83f6c62d31afcb0e29[m[33m ([m[1;31morigin/dev_fahmi[m[33m)[m
+Author: fahmi123 <fahmiahmadi123@gmail.com>
+Date:   Mon May 31 17:20:44 2021 +0700
+
+    update work-monitoring-app page
+
+[33mcommit a1a2948b25f6ccb123edfeba8cd193f865b7db3e[m
+Merge: 7e375be 4c52fb8
+Author: fahmi <fahmi@logique.co.id>
+Date:   Mon May 31 09:45:19 2021 +0000
+
+    Merge branch 'dev_fahmi' into 'develop'
+    
+    update meta desc on case study page
+    
+    See merge request logique/dokodemo-lp!27
+
+[33mcommit 4c52fb8ca8fe64866ed49f629f5b7c8191a67700[m
+Author: fahmi123 <fahmiahmadi123@gmail.com>
+Date:   Mon May 31 16:39:27 2021 +0700
+
+    update meta desc on case study page
+
+[33mcommit 7e375be4e478a74fd00d075483c748c767e19cf1[m
+Merge: 0541b4f 7798012
+Author: fahmi <fahmi@logique.co.id>
+Date:   Mon May 31 03:34:02 2021 +0000
+
+    Merge branch 'dev_fahmi' into 'develop'
+    
+    update pages, canonical, content, desc
+    
+    See merge request logique/dokodemo-lp!26
+
+[33mcommit 7798012df0a5edbd75c850c73d029cf297203e8d[m
+Author: fahmi123 <fahmiahmadi123@gmail.com>
+Date:   Mon May 31 10:30:02 2021 +0700
+
+    update pages, canonical, content, desc
+
+[33mcommit c532060f6175c1a7b3d1d69914eeb7854cf0dcec[m[33m ([m[1;33mtag: v.1.1.3[m[33m)[m
+Merge: 98e9f37 0541b4f
+Author: Calvin Octa Wijaya <calvin@logique.co.id>
+Date:   Mon May 24 04:27:44 2021 +0000
+
+    Merge branch 'develop' into 'master'
+    
+    Develop
+    
+    See merge request logique/dokodemo-lp!25
+
+[33mcommit 0541b4f0517556edc58faa860ef0fdc1045670e4[m
+Merge: 6d404f3 26a5d0a
+Author: Calvin Octa Wijaya <calvin@logique.co.id>
+Date:   Mon May 24 04:07:49 2021 +0000
+
+    Merge branch 'dev-calvin' into 'develop'
+    
+    update hris info slide link
+    
+    See merge request logique/dokodemo-lp!24
+
+[33mcommit 26a5d0a62ab874ee29ba6161d0584a31b94a0fe3[m[33m ([m[1;31morigin/dev-calvin[m[33m)[m
+Author: calvinocta <calvin@logique.co.id>
+Date:   Mon May 24 11:05:49 2021 +0700
+
+    update hris info slide link
+
+[33mcommit 6d404f3500c1af28e528499e640c712525773563[m
+Merge: bfe4e1e aeb2782
+Author: Calvin Octa Wijaya <calvin@logique.co.id>
+Date:   Mon May 24 03:43:16 2021 +0000
+
+    Merge branch 'dev-calvin' into 'develop'
+    
+    update software hris en version
+    
+    See merge request logique/dokodemo-lp!23
+
+[33mcommit aeb2782a917a3c48a6126ac93caa47aff95667f5[m
+Author: calvinocta <calvin@logique.co.id>
+Date:   Mon May 24 10:38:38 2021 +0700
+
+    update software hris en version
+
+[33mcommit 98e9f37932685877572d1c13c1043d41c7a1b396[m[33m ([m[1;33mtag: v.1.1.2[m[33m)[m
+Merge: fef9cc8 bfe4e1e
+Author: Calvin Octa Wijaya <calvin@logique.co.id>
+Date:   Fri May 21 02:49:32 2021 +0000
+
+    Merge branch 'develop' into 'master'
+    
+    Develop
+    
+    See merge request logique/dokodemo-lp!22
+
+[33mcommit bfe4e1e8a66aec1aff8d34c13249e6c189ff3e1a[m
+Merge: 3f54e05 cf1b9e1
+Author: Calvin Octa Wijaya <calvin@logique.co.id>
+Date:   Fri May 21 02:48:01 2021 +0000
+
+    Merge branch 'dev-calvin' into 'develop'
+    
+    update homepage , hris hrcm en wording
+    
+    See merge request logique/dokodemo-lp!21
+
+[33mcommit cf1b9e1125b128cf3fccfab231a2a54846276925[m
+Author: calvinocta <calvin@logique.co.id>
+Date:   Fri May 21 09:46:15 2021 +0700
+
+    update homepage , hris hrcm en wording
+
+[33mcommit 3f54e0521647f1ea6e4ae9f48c8a06158c23e8a6[m
+Merge: 9922815 a50913d
+Author: Calvin Octa Wijaya <calvin@logique.co.id>
+Date:   Tue May 11 08:57:39 2021 +0000
+
+    Merge branch 'dev-calvin' into 'develop'
+    
+    Update content
+    
+    See merge request logique/dokodemo-lp!20
+
+[33mcommit a50913d91e403354920b22df3e210242cad1d1a8[m
+Author: calvinocta <calvin@logique.co.id>
+Date:   Tue May 11 15:54:39 2021 +0700
+
+    new content
+
+[33mcommit fef9cc86c6367f6be67c34cbddb17d689d1cfc2c[m[33m ([m[1;33mtag: v1.1.1[m[33m)[m
+Merge: 2d9535a 9922815
+Author: Iqbal Hikmat Prahara <6190396-iqbalhp@users.noreply.gitlab.com>
+Date:   Thu Apr 29 06:11:15 2021 +0000
+
+    Merge branch 'beta-version' into 'master'
+    
+    update description and image swiper
+    
+    See merge request logique/dokodemo-lp!19
+
+[33mcommit 9922815a9a77dabde6784c507918d1a052bc3bcc[m[33m ([m[1;31morigin/beta-version[m[33m)[m
+Author: indra  susila <indra.susila@logique.co.id>
+Date:   Thu Apr 29 10:12:34 2021 +0700
+
+    add image
+
+[33mcommit 3bec46fe0bd5a2f65aab699df620264d383e0d75[m
+Author: indra  susila <indra.susila@logique.co.id>
+Date:   Tue Apr 27 22:05:44 2021 +0700
+
+    fix fonts
+
+[33mcommit af2b92de81122d021420068e8841755cc1112a70[m
+Author: indra  susila <indra.susila@logique.co.id>
+Date:   Tue Apr 27 19:08:17 2021 +0700
+
+    benerin tampilan page fungsi-aplikasi id version
+
+[33mcommit 5b34fd9b31d8d09d647291644dba335ae50b0d7c[m
+Author: indra  susila <indra.susila@logique.co.id>
+Date:   Tue Apr 27 17:39:06 2021 +0700
+
+    add readme file
+
+[33mcommit 9c50f6860c9e7892107a3c7af2c665d57be949b7[m
+Author: indra  susila <indra.susila@logique.co.id>
+Date:   Tue Apr 27 17:18:35 2021 +0700
+
+    revisi hris
+
+[33mcommit 9788f3683b79dd7fe4fee54b05ab84017731372e[m[33m ([m[1;31morigin/dev-bagas[m[33m)[m
+Author: Bagas Ranggen <bagas@logique.co.id>
+Date:   Tue Apr 20 17:45:34 2021 +0700
+
+    update link
+
+[33mcommit c2ea9d4ba123fdb36f358e13f379492d9a50f3c7[m
+Author: Bagas Ranggen <bagas@logique.co.id>
+Date:   Tue Apr 20 17:38:32 2021 +0700
+
+    add new page: Jenis HRIS (en - id)
+
+[33mcommit eb9dafed013a90b07630f1b403c932444c97ef0b[m
+Author: Bagas Ranggen <bagas@logique.co.id>
+Date:   Tue Apr 20 16:05:37 2021 +0700
+
+    add new page: definisi HRIS (en - id)
+
+[33mcommit 04662bf816edb2b42f16951a7c99c1f6268031d9[m
+Author: Bagas Ranggen <bagas@logique.co.id>
+Date:   Tue Apr 20 14:29:55 2021 +0700
+
+    update header
+
+[33mcommit 4d08228f2b14aa3e8997ae3fd5d6fbe314a411b8[m
+Author: Bagas Ranggen <bagas@logique.co.id>
+Date:   Wed Apr 14 15:16:47 2021 +0700
+
+    add info hris ed page
+
+[33mcommit cf34facf98baf27a2021724961d8342388a9b005[m
+Author: Bagas Ranggen <bagas@logique.co.id>
+Date:   Wed Apr 14 09:50:23 2021 +0700
+
+    add info hris
+
+[33mcommit c274dc26b6cd3abf1daedf10a7ce3908b0f4188b[m
+Merge: 78b46bd 2d9535a
+Author: Bagas Ranggen <bagas@logique.co.id>
+Date:   Wed Apr 14 09:22:11 2021 +0700
+
+    Merge branch 'master' into dev-bagas
+
+[33mcommit 2d9535aca91ec2860239bb7a9e59beda882f542e[m[33m ([m[1;33mtag: v1.1.0[m[33m)[m
+Merge: 371cee2 4dd1d5b
+Author: Bagas Ranggen <bagas@logique.co.id>
+Date:   Tue Apr 6 15:28:15 2021 +0700
+
+    Merge branch 'develop'
+    
+    update: SEO improvements
+
+[33mcommit 4dd1d5be7150f8c43c205bb486fda69358757023[m
+Merge: 4f93526 371cee2
+Author: Bagas Ranggen <bagas@logique.co.id>
+Date:   Tue Apr 6 13:10:07 2021 +0700
+
+    Merge branch 'master' into develop
+
+[33mcommit 4f93526e34ad53800a57d72db216145b35f43e6f[m
+Author: Bagas Ranggen <bagas@logique.co.id>
+Date:   Tue Apr 6 13:09:46 2021 +0700
+
+    update link
+
+[33mcommit 371cee2f5be7472e4e409ed38a873f0d4b9b9fae[m[33m ([m[1;33mtag: v1.0.9[m[33m)[m
+Merge: 66724e1 78b46bd
+Author: Bagas Ranggen <bagas@logique.co.id>
+Date:   Mon Apr 5 17:34:57 2021 +0700
+
+    Merge branch 'dev-bagas'
+    
+    update: update dokodemo video
+
+[33mcommit 78b46bd61396ddaeb995b282d904d047f48405c4[m
+Author: Bagas Ranggen <bagas@logique.co.id>
+Date:   Mon Apr 5 17:33:37 2021 +0700
+
+    update video
+
+[33mcommit 2ebf7b75d68afd0c4ffabae92997d9c3be5a05a8[m
+Merge: 9d4cf6e 66724e1
+Author: Bagas Ranggen <bagas@logique.co.id>
+Date:   Mon Apr 5 17:33:02 2021 +0700
+
+    Merge remote-tracking branch 'origin/master' into dev-bagas
+
+[33mcommit 2080bc97a466184875657434f5863db2f68fd78c[m
+Author: Bagas Ranggen <bagas@logique.co.id>
+Date:   Mon Apr 5 16:54:18 2021 +0700
+
+    update text
+
+[33mcommit 88be9c35a751c0366878582636616174043631d8[m
+Author: Bagas Ranggen <bagas@logique.co.id>
+Date:   Mon Apr 5 15:48:41 2021 +0700
+
+    update
+
+[33mcommit 044bf52f2f912cc4d4ba8454940b60acb72c2ec3[m
+Author: Bagas Ranggen <bagas@logique.co.id>
+Date:   Mon Apr 5 14:57:31 2021 +0700
+
+    Revert "update page speed"
+    
+    This reverts commit 9c3e39da72ebd5696af35cfd95d00cf3930fd296.
+
+[33mcommit 505be5c89f871f22f90a047076ac078c61002b6d[m
+Author: Bagas Ranggen <bagas@logique.co.id>
+Date:   Mon Apr 5 14:51:12 2021 +0700
+
+    Revert "update page speed"
+    
+    This reverts commit 9c3e39da72ebd5696af35cfd95d00cf3930fd296.
+
+[33mcommit 8d0f707788c1f41f5f2c762f226d32c9a367ccd8[m
+Merge: 9c3e39d 66724e1
+Author: Bagas Ranggen <bagas@logique.co.id>
+Date:   Mon Apr 5 14:43:30 2021 +0700
+
+    Merge branch 'master' into develop
+
+[33mcommit 9c3e39da72ebd5696af35cfd95d00cf3930fd296[m
+Author: Bagas Ranggen <bagas@logique.co.id>
+Date:   Mon Apr 5 14:42:54 2021 +0700
+
+    update page speed
+
+[33mcommit 6b001cd22140c535c56f72c5cded81ba98d3b79a[m
+Author: Bagas Ranggen <bagas@logique.co.id>
+Date:   Mon Apr 5 14:42:24 2021 +0700
+
+    update video
+
+[33mcommit 5ce046b34546c3d65224dbfd11e5752c17532f8f[m
+Author: Bagas Ranggen <bagas@logique.co.id>
+Date:   Mon Apr 5 14:40:09 2021 +0700
+
+    update page name
+
+[33mcommit 66724e1aedd0aae1d9d146b0e10059211a451e80[m[33m ([m[1;33mtag: v1.0.8[m[33m)[m
+Merge: bd00077 2cf06e8
+Author: Bagas Ranggen <bagas@logique.co.id>
+Date:   Tue Mar 30 15:18:42 2021 +0700
+
+    Merge branch 'develop'
+    
+    update: meta canonical content
+
+[33mcommit 2cf06e83cd15c0d3be3d42d49d02652064bf5805[m
+Author: Bagas Ranggen <bagas@logique.co.id>
+Date:   Tue Mar 30 12:20:11 2021 +0700
+
+    edit meta canonical
+
+[33mcommit 98aa926ea5c698f436e5c3e1092fa166c1f84d83[m
+Merge: 8ca9f8e bd00077
+Author: Bagas Ranggen <bagas@logique.co.id>
+Date:   Tue Mar 30 12:16:53 2021 +0700
+
+    Merge branch 'master' into develop
+
+[33mcommit bd00077edd931870f0fb07060088e2acc4ad0036[m[33m ([m[1;33mtag: v1.0.7[m[33m)[m
+Merge: 5f8cb59 8ca9f8e
+Author: Bagas Ranggen <bagas@logique.co.id>
+Date:   Thu Mar 25 08:43:57 2021 +0700
+
+    Merge branch 'develop'
+    
+    update:
+    - update content
+    - update page name
+    - update redirection
+
+[33mcommit 8ca9f8e818cda4c5343a16e6b31f6df6a54231f0[m
+Author: Bagas Ranggen <bagas@logique.co.id>
+Date:   Tue Mar 23 16:29:33 2021 +0700
+
+    update filename and htacess case study
+
+[33mcommit e84aba1ea187b8114bed87f1067f7a8b51d3885f[m
+Merge: df5c14c 5f8cb59
+Author: Bagas Ranggen <bagas@logique.co.id>
+Date:   Tue Mar 23 16:28:57 2021 +0700
+
+    Merge branch 'master' into develop
+
+[33mcommit 5f8cb59e9bd46e1029e786504fbff418a85c7faa[m[33m ([m[1;33mtag: v1.0.6[m[33m)[m
+Merge: ccc29e5 df5c14c
+Author: Bagas Ranggen <bagas@logique.co.id>
+Date:   Thu Mar 18 15:20:13 2021 +0700
+
+    Merge branch 'develop'
+    
+    update: takeout unnecessary google analytic script
+
+[33mcommit df5c14c250435ca974ce19a328855027f3676668[m
+Author: Bagas Ranggen <bagas@logique.co.id>
+Date:   Thu Mar 18 15:18:53 2021 +0700
+
+    update htaccess
+
+[33mcommit 32be0cac26d866d187978292888edee37b34add8[m
+Author: Bagas Ranggen <bagas@logique.co.id>
+Date:   Thu Mar 18 15:15:42 2021 +0700
+
+    takeout unnecessary google analytic script
+
+[33mcommit fd6eb306dda4ac8033c0cbc30da3162ca03743a3[m
+Merge: d7bdda6 ccc29e5
+Author: Bagas Ranggen <bagas@logique.co.id>
+Date:   Thu Mar 18 15:07:54 2021 +0700
+
+    Merge branch 'master' into develop
+
+[33mcommit d7bdda65a63f90b3cd0429163b1394e3f16e6367[m
+Author: Bagas Ranggen <bagas@logique.co.id>
+Date:   Thu Mar 18 15:07:41 2021 +0700
+
+    update htaccess
+
+[33mcommit ccc29e586f52bccc32de324428ea6bb93ef49a67[m[33m ([m[1;33mtag: v.1.0.5[m[33m)[m
+Merge: 16160e0 1098411
+Author: Bagas Ranggen <bagas@logique.co.id>
+Date:   Wed Mar 10 16:36:35 2021 +0700
+
+    Merge branch 'develop'
+    
+    update:
+    - update content
+    - case study new page design
+
+[33mcommit 10984119643cc4bfee6bca30426974796dbd35f2[m
+Author: Bagas Ranggen <bagas@logique.co.id>
+Date:   Wed Mar 10 16:35:52 2021 +0700
+
+    adjust responsive
+
+[33mcommit d122046fcc0652cfbf49b8e30c84b02a9cce0cb0[m
+Merge: 76c3882 9d4cf6e
+Author: Bagas Ranggen <bagas@logique.co.id>
+Date:   Wed Mar 10 15:23:07 2021 +0700
+
+    Merge branch 'dev-bagas' into develop
+
+[33mcommit 9d4cf6eae51f81bc4371eae360c29715938536d6[m
+Author: Bagas Ranggen <bagas@logique.co.id>
+Date:   Wed Mar 10 15:22:50 2021 +0700
+
+    case study new design
+
+[33mcommit b6eeccd0f7156aa29b085baeac11a08967094b76[m
+Merge: ca851f1 76c3882
+Author: Bagas Ranggen <bagas@logique.co.id>
+Date:   Wed Mar 10 08:41:26 2021 +0700
+
+    Merge branch 'develop' into dev-bagas
+
+[33mcommit 76c3882704efe4e856e4a40c34787f771a8a85f9[m
+Author: Bagas Ranggen <bagas@logique.co.id>
+Date:   Tue Mar 9 17:04:54 2021 +0700
+
+    update content
+
+[33mcommit 281e67fafa03366479c316a3dd5111bd2ac61693[m
+Author: Bagas Ranggen <bagas@logique.co.id>
+Date:   Tue Mar 9 16:44:46 2021 +0700
+
+    add content
+
+[33mcommit e1668f19640f2cd7404528dcac06d4fd00fafde1[m
+Merge: 2bb088e 16160e0
+Author: Bagas Ranggen <bagas@logique.co.id>
+Date:   Tue Mar 9 16:44:26 2021 +0700
+
+    Merge branch 'master' into develop
+
+[33mcommit 16160e0977e736a6b1038f3e024b0d6b849d7190[m[33m ([m[1;33mtag: v.1.0.4[m[33m)[m
+Merge: 9f576d9 2bb088e
+Author: Bagas Ranggen <bagas@logique.co.id>
+Date:   Fri Mar 5 15:38:54 2021 +0700
+
+    Merge branch 'develop'
+    
+    update:
+    - update content
+    - delete unused js
+
+[33mcommit 2bb088ec358cb56770bc0ba7ccd95f1820c55a7f[m
+Author: Bagas Ranggen <bagas@logique.co.id>
+Date:   Fri Mar 5 14:03:56 2021 +0700
+
+    fix typo
+
+[33mcommit d290586eaf9514a8c8fc83b5c484f5be01d2b0b1[m
+Author: Bagas Ranggen <bagas@logique.co.id>
+Date:   Fri Mar 5 13:47:51 2021 +0700
+
+    update:
+    - delete unused js
+    - update content
+
+[33mcommit 52810ec797d7d8dd9326cd4596fbfbbca70469b9[m
+Merge: f97fd92 9f576d9
+Author: Bagas Ranggen <bagas@logique.co.id>
+Date:   Fri Mar 5 13:32:34 2021 +0700
+
+    Merge branch 'master' into develop
+
+[33mcommit 9f576d90e2331912fb2656cd1822c379f9030d43[m[33m ([m[1;33mtag: v1.0.3[m[33m)[m
+Merge: d05a17f f97fd92
+Author: Bagas Ranggen <bagas@logique.co.id>
+Date:   Thu Mar 4 13:42:39 2021 +0700
+
+    Merge branch 'develop'
+    
+    update: homepage animation optimization
+
+[33mcommit f97fd9237fde3d9593bc14bf01a47055b209d2d6[m
+Author: Bagas Ranggen <bagas@logique.co.id>
+Date:   Thu Mar 4 13:41:58 2021 +0700
+
+    homepage animation optimization
+
+[33mcommit aab084a0b3b0c0a5fc0c398f578eff7bd94f01c8[m
+Merge: a4d3c8e d05a17f
+Author: Bagas Ranggen <bagas@logique.co.id>
+Date:   Thu Mar 4 13:37:07 2021 +0700
+
+    Merge branch 'master' into develop
+
+[33mcommit d05a17f3c2cbeac18706196fb7db67596bbbf40a[m
+Merge: 554f2e6 a4d3c8e
+Author: Bagas Ranggen <bagas@logique.co.id>
+Date:   Wed Mar 3 14:35:26 2021 +0700
+
+    Merge branch 'develop'
+    
+    update:
+    - add modernizr
+    - update metadata
+    - adjust css
+    - add footer lazy load
+    - add schedule modal on jp lp page
+    - update link on lp page
+    - add pdf file
+
+[33mcommit a4d3c8ee6662a8e3a261b6aff679a4bab14d1af3[m
+Author: Bagas Ranggen <bagas@logique.co.id>
+Date:   Wed Mar 3 13:58:29 2021 +0700
+
+    speed improvement
+
+[33mcommit 3445405ca113a867540df9dd468bd3819c1350df[m
+Author: Bagas Ranggen <bagas@logique.co.id>
+Date:   Wed Mar 3 13:34:18 2021 +0700
+
+    ui adjustment
+
+[33mcommit 477995d2ccec790dd57fdbe168ddeee441b9d386[m
+Author: Bagas Ranggen <bagas@logique.co.id>
+Date:   Wed Mar 3 12:38:23 2021 +0700
+
+    update recapcha
+
+[33mcommit d9fcbb7ff7aa9093002a1f6fe440c96d0ff76d85[m
+Author: Bagas Ranggen <bagas@logique.co.id>
+Date:   Wed Mar 3 12:29:19 2021 +0700
+
+    update:
+    - add schedule modal on jp lp page
+    - update link on lp page
+    - add pdf file
+
+[33mcommit 52f184c34fc57c8115edf23b3176706bfa5d44ac[m
+Author: Bagas Ranggen <bagas@logique.co.id>
+Date:   Mon Mar 1 12:07:48 2021 +0700
+
+    update:
+    - add modernizr
+    - update metadata
+    - adjust css
+    - add footer lazy load
+
+[33mcommit 554f2e6a29df9266770df2ef1c6dcb853b6a6346[m[33m ([m[1;33mtag: v1.0.2[m[33m)[m
+Merge: ccabe36 11ee3f8
+Author: Bagas Ranggen <bagas@logique.co.id>
+Date:   Mon Mar 1 10:57:37 2021 +0700
+
+    Merge branch 'develop'
+    
+    update:
+    - rearrange schedule meeting section
+    - add meeting schedule meeting on jp landing page
+
+[33mcommit 11ee3f812e0c661a172d26d86f7ecaccbced51b0[m
+Author: Bagas Ranggen <bagas@logique.co.id>
+Date:   Fri Feb 26 16:24:41 2021 +0700
+
+    update ui
+
+[33mcommit 200ca6882efa06a373f55fa07bed5b636e4c230e[m
+Merge: 8791a78 ccabe36
+Author: Bagas Ranggen <bagas@logique.co.id>
+Date:   Fri Feb 26 16:23:24 2021 +0700
+
+    Merge branch 'master' into develop
+
+[33mcommit ccabe36f10cc137884dd42829e8c6687af23f011[m[33m ([m[1;33mtag: v1.0.1[m[33m)[m
+Merge: 7884ea4 6e2a0e6
+Author: Iqbal Hikmat Prahara <6190396-iqbalhp@users.noreply.gitlab.com>
+Date:   Tue Feb 23 06:50:26 2021 +0000
+
+    Merge branch 'fix/meeting-form' into 'master'
+    
+    add google recaptcha to meeting schedule form
+    
+    See merge request logique/dokodemo-lp!18
+
+[33mcommit 6e2a0e62a29fdb41ea08089b7169a3336a543f02[m
+Author: Iqbal Hikmat Prahara <iqbal@logique.co.id>
+Date:   Tue Feb 23 13:43:21 2021 +0700
+
+    add google recaptcha to meeting schedule form
+
+[33mcommit 7884ea41244c57a4f9021ac025c327bca456e389[m
+Merge: 03e5c16 8791a78
+Author: Bagas Ranggen <bagas@logique.co.id>
+Date:   Thu Feb 11 15:16:16 2021 +0700
+
+    Merge branch 'develop'
+
+[33mcommit 8791a78f92a505552cc7a2765180a4b09ac97281[m
+Author: Bagas Ranggen <bagas@logique.co.id>
+Date:   Thu Feb 11 15:11:52 2021 +0700
+
+    update link
+
+[33mcommit 888b25bcf4c9277caf718061300a6e77581bc1ba[m
+Merge: 3c70f73 03e5c16
+Author: Bagas Ranggen <bagas@logique.co.id>
+Date:   Thu Feb 11 15:11:40 2021 +0700
+
+    Merge branch 'master' into develop
+
+[33mcommit 03e5c16aad450526b15c3fa020ff6554468235ca[m
+Merge: c3b82e1 3c70f73
+Author: Gontang Prakasa <gontang@logique.co.id>
+Date:   Tue Feb 9 21:56:15 2021 +0700
+
+    Merge branch 'develop'
+
+[33mcommit 3c70f737c6cbd2c96b5dfc63ec2801d45112b321[m
+Author: Bagas Ranggen <bagas@logique.co.id>
+Date:   Tue Feb 9 16:38:38 2021 +0700
+
+    adjust content
+
+[33mcommit db41497d3550b2273aa12e863d7bd5176abb3370[m
+Author: Bagas Ranggen <bagas@logique.co.id>
+Date:   Tue Feb 9 16:37:18 2021 +0700
+
+    adjust content
+
+[33mcommit 5c40a8472b08b6e9ca816fc8a99487bef561b1b5[m
+Author: Bagas Ranggen <bagas@logique.co.id>
+Date:   Tue Feb 9 16:32:30 2021 +0700
+
+    add breadcrumb
+
+[33mcommit 10f640dd93c8e32edba4fac0c520ae113f9d8f07[m
+Merge: c3eef83 f25c8df
+Author: Gontang Prakasa <gontang@logique.co.id>
+Date:   Tue Feb 9 16:05:53 2021 +0700
+
+    Merge branch 'feature_add_new_inquiry' into develop
+
+[33mcommit f25c8df22604df4aadf86004ab29765f864dc832[m[33m ([m[1;31morigin/feature_add_new_inquiry[m[33m)[m
+Author: Gontang Prakasa <gontang@logique.co.id>
+Date:   Tue Feb 9 16:05:36 2021 +0700
+
+    add validaiton for message
+
+[33mcommit c3eef83da21d3a278483c0060db3505c128c05e7[m
+Merge: eb15071 57a8235
+Author: Gontang Prakasa <gontang@logique.co.id>
+Date:   Tue Feb 9 15:48:53 2021 +0700
+
+    Merge branch 'feature_add_new_inquiry' into develop
+
+[33mcommit 57a8235d4e6a6871a627430640c8485d87f31e7e[m
+Author: Gontang Prakasa <gontang@logique.co.id>
+Date:   Tue Feb 9 15:48:30 2021 +0700
+
+    add validation and params send email
+
+[33mcommit 03fafa023961fb116d73e47638dbb0c96b06d4c1[m
+Merge: c3b82e1 eb15071
+Author: Gontang Prakasa <gontang@logique.co.id>
+Date:   Tue Feb 9 14:14:47 2021 +0700
+
+    Merge branch 'develop' into feature_add_new_inquiry
+
+[33mcommit eb150713270a16bb34d3ec2b0ec79d50c3def290[m
+Author: Bagas Ranggen <bagas@logique.co.id>
+Date:   Tue Feb 9 10:07:08 2021 +0700
+
+    update:
+    - update content
+    - update metadata
+    - add lazy load
+
+[33mcommit 06cd0f867c128d83e0e77d9db380f5e0416df483[m
+Author: Bagas Ranggen <bagas@logique.co.id>
+Date:   Tue Feb 9 09:18:35 2021 +0700
+
+    adjust modal form
+
+[33mcommit 202ac800c4948865180ebefe9a90c7cbfc4a3bdd[m
+Merge: 1b067bf c3b82e1
+Author: Bagas Ranggen <bagas@logique.co.id>
+Date:   Tue Feb 9 09:16:53 2021 +0700
+
+    Merge remote-tracking branch 'origin/master' into develop
+
+[33mcommit c3b82e1ec3f3cf7cff1f83b2bbb4a14ea427c7ef[m[33m ([m[1;33mtag: v1.0.0[m[33m)[m
+Merge: ffa92c1 b140107
+Author: Eric George Setiawan <eric@logique.co.id>
+Date:   Wed Feb 3 11:22:57 2021 +0000
+
+    Merge branch 'fix/adjust-config' into 'master'
+    
+    adjust config file
+    
+    See merge request logique/dokodemo-lp!17
+
+[33mcommit b14010787fa552d42f6269a4ed53419deb3ed72c[m
+Author: Iqbal Hikmat Prahara <iqbal@logique.co.id>
+Date:   Wed Feb 3 17:11:28 2021 +0700
+
+    adjust config file
+
+[33mcommit ffa92c1f572a8c63e7f899340c42babdf122b977[m
+Merge: dc2a82b 1b067bf
+Author: Bagas Ranggen <bagas@logique.co.id>
+Date:   Wed Feb 3 15:14:39 2021 +0700
+
+    Merge branch 'develop'
+    
+    update:
+    - adjust case study index ui
+    - add dokodemo story 5 jp
+
+[33mcommit 1b067bfa12bfa1e65dfff1ab313bb284d9966ffa[m
+Merge: e0844dc ca851f1
+Author: Bagas Ranggen <bagas@logique.co.id>
+Date:   Wed Feb 3 15:12:18 2021 +0700
+
+    Merge branch 'dev-bagas' into develop
+    
+    add dokodemo story 5 jp
+
+[33mcommit ca851f122c699d98f52feb7a62e82be9bf71f368[m
+Author: Bagas Ranggen <bagas@logique.co.id>
+Date:   Wed Feb 3 14:18:59 2021 +0700
+
+    adjust header active link
+
+[33mcommit b8f56d0692473bf53e7ef5c0e632596a377eb55e[m
+Author: Bagas Ranggen <bagas@logique.co.id>
+Date:   Wed Feb 3 13:48:03 2021 +0700
+
+    add dokodemo story 5 jp
+
+[33mcommit 834b4ad8f04a011fae707136c4c3b7796d8334b8[m
+Author: Bagas Ranggen <bagas@logique.co.id>
+Date:   Wed Feb 3 12:07:53 2021 +0700
+
+    update case study index ui
+
+[33mcommit 1271cf71be8d927dbee2d05adcb90dd56d854006[m
+Merge: 21bbf57 e0844dc
+Author: Bagas Ranggen <bagas@logique.co.id>
+Date:   Wed Feb 3 12:07:02 2021 +0700
+
+    Merge branch 'develop' into dev-bagas
+
+[33mcommit e0844dc8d6ecf3fb462430e9a7bf9de3e95c61ac[m
+Author: Bagas Ranggen <bagas@logique.co.id>
+Date:   Wed Feb 3 08:40:18 2021 +0700
+
+    update content jp
+
+[33mcommit 535342ead53baa4c7e8ac60bb6dba0b751e0f566[m
+Merge: ec3dd17 dc2a82b
+Author: Bagas Ranggen <bagas@logique.co.id>
+Date:   Wed Feb 3 08:14:15 2021 +0700
+
+    Merge branch 'master' into develop
+
+[33mcommit dc2a82b3d280af8ee5237b780207748e10975632[m
+Merge: 0404679 ec3dd17
+Author: Bagas Ranggen <bagas@logique.co.id>
+Date:   Mon Feb 1 14:07:58 2021 +0700
+
+    Merge branch 'develop'
+    
+    update:
+    - make input required on schedule form
+    - update script position
+
+[33mcommit ec3dd175f70d3ac077d43de3669da117c2561788[m
+Author: Bagas Ranggen <bagas@logique.co.id>
+Date:   Mon Feb 1 13:56:23 2021 +0700
+
+    update:
+    - make input required on schedule form
+    - update script position
+
+[33mcommit 7bd195394a5c407c122ab44e81bfd7fafc927d97[m
+Merge: 1c7b33e 0404679
+Author: Bagas Ranggen <bagas@logique.co.id>
+Date:   Mon Feb 1 12:14:16 2021 +0700
+
+    Merge branch 'master' into develop
+
+[33mcommit 04046792727b73c03d82825712ff6cc2f9ad728c[m
+Merge: 4eda687 d39123d
+Author: Gontang Prakasa <gontang@logique.co.id>
+Date:   Mon Feb 1 10:55:41 2021 +0700
+
+    Merge branch 'master' of gitlab.com:logique/dokodemo-lp
+
+[33mcommit 4eda687df1b8f81479e68bd2225c7c983a5fc85e[m
+Merge: a3be924 1c7b33e
+Author: Gontang Prakasa <gontang@logique.co.id>
+Date:   Mon Feb 1 10:52:34 2021 +0700
+
+    Merge branch 'develop'
+
+[33mcommit 1c7b33ea236245e1bafba344d7201f85c9dfd5f9[m
+Merge: cff5f0e 107c9f2
+Author: Gontang Prakasa <gontang@logique.co.id>
+Date:   Sat Jan 30 14:43:14 2021 +0700
+
+    Merge branch 'feature_send_email' into develop
+
+[33mcommit 107c9f2ddf023535825147639fc4ebccbd77132b[m[33m ([m[1;31morigin/feature_send_email[m[33m)[m
+Author: Gontang Prakasa <gontang@logique.co.id>
+Date:   Sat Jan 30 14:42:32 2021 +0700
+
+    development page indo and japan
+
+[33mcommit cff5f0e54679e27eed2833543dffc7e2e57f1945[m
+Merge: ff32029 cf03200
+Author: Gontang Prakasa <gontang@logique.co.id>
+Date:   Sat Jan 30 14:10:14 2021 +0700
+
+    Merge branch 'feature_send_email' into develop
+
+[33mcommit cf03200eb40128910ad8894b380b46042d57a8f3[m
+Author: Gontang Prakasa <gontang@logique.co.id>
+Date:   Sat Jan 30 14:09:26 2021 +0700
+
+    development send email online and offline in home page
+
+[33mcommit 8e7bbfbb9d3279898e936b3b4a6c1e7bfe224e5e[m
+Merge: a3be924 ff32029
+Author: Gontang Prakasa <gontang@logique.co.id>
+Date:   Fri Jan 29 15:18:17 2021 +0700
+
+    Merge branch 'develop' into feature_send_email
+
+[33mcommit d39123d6765403e5da006161367c1f6175dfe632[m
+Merge: 391bb55 ff32029
+Author: Bagas Ranggen <bagas@logique.co.id>
+Date:   Fri Jan 29 12:45:55 2021 +0700
+
+    Merge branch 'develop'
+    
+    features page new design
+
+[33mcommit ff320293daad66d1d967b301e48bafa07c088f39[m
+Author: Bagas Ranggen <bagas@logique.co.id>
+Date:   Fri Jan 29 09:04:42 2021 +0700
+
+    adjust features page
+
+[33mcommit 834ee5f6d496cfa42592a61695a34917082f2efd[m
+Author: Bagas Ranggen <bagas@logique.co.id>
+Date:   Thu Jan 28 16:13:29 2021 +0700
+
+    update:
+    - new image assets
+    - adjust image title
+    - add required css and js for zoom gallery
+
+[33mcommit eea6feb5d5cba122d441425149af839e4b3651b6[m
+Author: Bagas Ranggen <bagas@logique.co.id>
+Date:   Thu Jan 28 13:40:00 2021 +0700
+
+    adjust styling
+
+[33mcommit 10731522fc7aa5bb63cfe5f9bf29609169fef0fc[m
+Author: Bagas Ranggen <bagas@logique.co.id>
+Date:   Thu Jan 28 13:27:11 2021 +0700
+
+    update:
+    - add new image in homepage carousel
+    - adjust styling
+    - adjust features page
+
+[33mcommit 8d9b8d1d095c93f184ffecbeb170436cef17b3b7[m
+Merge: 13e6152 391bb55
+Author: Bagas Ranggen <bagas@logique.co.id>
+Date:   Thu Jan 28 13:05:18 2021 +0700
+
+    Merge branch 'master' into develop
+
+[33mcommit 391bb55c5c544297b393ee82554aa47beafa5dfe[m
+Merge: dfd0fcb 13e6152
+Author: Bagas Ranggen <bagas@logique.co.id>
+Date:   Wed Jan 27 14:33:16 2021 +0700
+
+    Merge branch 'develop'
+    
+    update:
+    - update help page ui
+    - adjust footer responsive
+    - adjust styling
+    - update captcha for live
+
+[33mcommit 13e615265969a7d01bb1a5e4d71b701f5a626324[m
+Merge: 7ab4e06 21bbf57
+Author: Bagas Ranggen <bagas@logique.co.id>
+Date:   Wed Jan 27 14:30:16 2021 +0700
+
+    Merge branch 'dev-bagas' into develop
+    
+    update captcha on live
+
+[33mcommit 21bbf57fc3086abf1117dfb50454afad71b34c72[m
+Merge: 88bc4ed 7ab4e06
+Author: Bagas Ranggen <bagas@logique.co.id>
+Date:   Wed Jan 27 14:29:44 2021 +0700
+
+    Merge branch 'develop' into dev-bagas
+
+[33mcommit 7ab4e064e7b8972d16b48db482d866193c28fc99[m
+Author: Bagas Ranggen <bagas@logique.co.id>
+Date:   Wed Jan 27 14:23:28 2021 +0700
+
+    adjust styling
+
+[33mcommit 88bc4ed168422ca1f629f01971bd8f6ce9351eed[m
+Author: Bagas Ranggen <bagas@logique.co.id>
+Date:   Wed Jan 27 13:39:33 2021 +0700
+
+    update captcha for live
+
+[33mcommit 5151637bc3349aa767ef87a67e9554df0d531ee8[m
+Merge: 60ed317 8cc86c5
+Author: Bagas Ranggen <bagas@logique.co.id>
+Date:   Wed Jan 27 13:39:16 2021 +0700
+
+    Merge branch 'develop' into dev-bagas
+
+[33mcommit 8cc86c50893d97a871924a19db03490173a8fbe9[m
+Author: Bagas Ranggen <bagas@logique.co.id>
+Date:   Wed Jan 27 10:41:51 2021 +0700
+
+    adjust footer responsive
+
+[33mcommit 926e718163848efa67b01bdde89d209d8e40a414[m
+Author: Bagas Ranggen <bagas@logique.co.id>
+Date:   Wed Jan 27 10:22:20 2021 +0700
+
+    update help page ui
+
+[33mcommit 75b77274429af59ffd8c293bd00efaa1632eb491[m
+Merge: 476a55b dfd0fcb
+Author: Bagas Ranggen <bagas@logique.co.id>
+Date:   Wed Jan 27 10:21:23 2021 +0700
+
+    Merge branch 'master' into develop
+
+[33mcommit dfd0fcb46eee035dffb7d476dabd7e04649eed41[m
+Merge: a74b2e8 476a55b
+Author: Bagas Ranggen <bagas@logique.co.id>
+Date:   Tue Jan 26 16:42:21 2021 +0700
+
+    Merge branch 'develop'
+    
+    adjust page
+
+[33mcommit 476a55bb2ba06c3f30faa130514c95b5ce05d558[m
+Author: Bagas Ranggen <bagas@logique.co.id>
+Date:   Tue Jan 26 16:41:04 2021 +0700
+
+    adjust page
+
+[33mcommit 99800ebef5e5d310367618e2d054a6296783a44c[m
+Author: Bagas Ranggen <bagas@logique.co.id>
+Date:   Tue Jan 26 16:26:24 2021 +0700
+
+    adjust footer
+
+[33mcommit 6165629187bae67e4eb866445a782fe49b216817[m
+Merge: 2178b06 a74b2e8
+Author: Bagas Ranggen <bagas@logique.co.id>
+Date:   Tue Jan 26 16:24:19 2021 +0700
+
+    Merge branch 'master' into develop
+
+[33mcommit a74b2e8501e718374a0bb8df703d482886dff686[m
+Merge: 7a3283c 2178b06
+Author: Bagas Ranggen <bagas@logique.co.id>
+Date:   Tue Jan 26 16:13:52 2021 +0700
+
+    Merge branch 'develop'
+    
+    update adjust page
+
+[33mcommit 2178b066b053b5c54833128c10e038ca6bb6150f[m
+Author: Bagas Ranggen <bagas@logique.co.id>
+Date:   Tue Jan 26 16:08:51 2021 +0700
+
+    adjust page
+
+[33mcommit 7413564b6238b79706132ad1ad57ce8b6873ea7e[m
+Merge: 4fa4e12 7a3283c
+Author: Bagas Ranggen <bagas@logique.co.id>
+Date:   Tue Jan 26 15:52:50 2021 +0700
+
+    Merge branch 'master' into develop
+
+[33mcommit 7a3283c7367762903ff57d5335080aeb6abecb07[m
+Merge: 0f480c8 4fa4e12
+Author: Bagas Ranggen <bagas@logique.co.id>
+Date:   Tue Jan 26 14:43:39 2021 +0700
+
+    Merge branch 'develop'
+    
+    adjust styles
+
+[33mcommit 4fa4e12013ab577e725328a196629932cfab9afb[m
+Author: Bagas Ranggen <bagas@logique.co.id>
+Date:   Tue Jan 26 14:43:16 2021 +0700
+
+    adjust style
+
+[33mcommit 3dc75e0c6e14609b1eb9c26fdf983b9c2ea55884[m
+Merge: 141a4e7 0f480c8
+Author: Bagas Ranggen <bagas@logique.co.id>
+Date:   Tue Jan 26 14:41:59 2021 +0700
+
+    Merge branch 'master' into develop
+
+[33mcommit 0f480c8e42a95b7a4a04f6a297b1dced55193b17[m
+Merge: 5eb39ea 141a4e7
+Author: Bagas Ranggen <bagas@logique.co.id>
+Date:   Tue Jan 26 14:28:05 2021 +0700
+
+    Merge branch 'develop'
+    
+    new design homepage
+
+[33mcommit 141a4e755e79aefbda8fcfc68dbb85456e8c644e[m
+Merge: 7d7e3cd 60ed317
+Author: Bagas Ranggen <bagas@logique.co.id>
+Date:   Tue Jan 26 14:25:41 2021 +0700
+
+    Merge branch 'dev-bagas' into develop
+    
+    new design homepage
+
+[33mcommit 60ed317d81b06710b58257d41059cfd24bece816[m
+Author: Bagas Ranggen <bagas@logique.co.id>
+Date:   Tue Jan 26 14:22:05 2021 +0700
+
+    update content
+
+[33mcommit 99514b4ace51851dc8f7b981ec6021e8d61316fb[m
+Author: Bagas Ranggen <bagas@logique.co.id>
+Date:   Tue Jan 26 14:20:56 2021 +0700
+
+    add homepage animation
+
+[33mcommit d386d87e6221b16e23e269b22065b66d8112e88e[m
+Author: Bagas Ranggen <bagas@logique.co.id>
+Date:   Tue Jan 26 09:18:10 2021 +0700
+
+    update
+
+[33mcommit f3eb359b4909466d8aa29a41e21d2704aade5e93[m
+Author: Bagas Ranggen <bagas@logique.co.id>
+Date:   Tue Jan 26 09:14:27 2021 +0700
+
+    adjust modal
+
+[33mcommit 0f491f97144c3d8340cee86c1d416538ac408603[m
+Author: Bagas Ranggen <bagas@logique.co.id>
+Date:   Tue Jan 26 08:53:13 2021 +0700
+
+    update footer content
+
+[33mcommit cfdd71e971431eef555fd57eca34aeb36d55e196[m
+Merge: 3b84d82 7d7e3cd
+Author: Bagas Ranggen <bagas@logique.co.id>
+Date:   Tue Jan 26 08:47:29 2021 +0700
+
+    Merge branch 'develop' into dev-bagas
+
+[33mcommit 3b84d8263b6d35dd0888da65574764629f9c16dd[m
+Author: Bagas Ranggen <bagas@logique.co.id>
+Date:   Mon Jan 25 18:16:09 2021 +0700
+
+    update content en page
+
+[33mcommit a57a632cbf46ce90cae237db184669d624ef0be5[m
+Author: Bagas Ranggen <bagas@logique.co.id>
+Date:   Mon Jan 25 17:46:02 2021 +0700
+
+    adjust styling
+
+[33mcommit 1d96e5c0f2e801f6520f2eb75406d60b2645ef6a[m
+Author: Bagas Ranggen <bagas@logique.co.id>
+Date:   Mon Jan 25 16:59:23 2021 +0700
+
+    udate content
+
+[33mcommit 997c808f21688f18d20c90c933714e093fc4e474[m
+Author: Bagas Ranggen <bagas@logique.co.id>
+Date:   Mon Jan 25 16:59:09 2021 +0700
+
+    update ind content
+
+[33mcommit b69b187f51cb26a48be1f9e707e0d3a741efb17b[m
+Author: Bagas Ranggen <bagas@logique.co.id>
+Date:   Mon Jan 25 13:48:18 2021 +0700
+
+    update html structure
+
+[33mcommit a05fb0935f9e66d1697784167585a70ce53c74fb[m
+Author: Bagas Ranggen <bagas@logique.co.id>
+Date:   Fri Jan 22 20:50:53 2021 +0700
+
+    fix typo
+
+[33mcommit b4703c26eac2154b469b2fffd88de61c4c49d3ee[m
+Author: Bagas Ranggen <bagas@logique.co.id>
+Date:   Fri Jan 22 16:11:20 2021 +0700
+
+    add section
+
+[33mcommit 312c7f3e8e2bf4814459b35cf3fbbd36270fe67c[m
+Author: Bagas Ranggen <bagas@logique.co.id>
+Date:   Fri Jan 22 16:11:13 2021 +0700
+
+    adjust styling
+
+[33mcommit ec4e019ad1f7eb9490d992267def26577d5587e6[m
+Author: Bagas Ranggen <bagas@logique.co.id>
+Date:   Fri Jan 22 16:05:50 2021 +0700
+
+    update:
+    - metadata
+    - styling
+
+[33mcommit abbeacbd1cdee6a085f3e7fb420e2a51ec0fb5d4[m
+Author: Bagas Ranggen <bagas@logique.co.id>
+Date:   Fri Jan 22 13:55:37 2021 +0700
+
+    jp homepage new design
+
+[33mcommit 21d0343f0e2384f3fe9173b369a7cee725cc69e4[m
+Author: Bagas Ranggen <bagas@logique.co.id>
+Date:   Fri Jan 22 11:47:05 2021 +0700
+
+    en homepage backup
+
+[33mcommit 53470133c532e84eeaa1fc0edb9322202a7eec36[m
+Author: Bagas Ranggen <bagas@logique.co.id>
+Date:   Fri Jan 22 11:46:28 2021 +0700
+
+    id page new design
+
+[33mcommit 036057dc832aafdd874fd05a666a1124073df184[m
+Author: Bagas Ranggen <bagas@logique.co.id>
+Date:   Fri Jan 22 10:39:18 2021 +0700
+
+    adjust styling new homepage en
+
+[33mcommit 78ccdb33859699983e60140201d15a58dd4da611[m
+Author: Bagas Ranggen <bagas@logique.co.id>
+Date:   Thu Jan 21 17:57:26 2021 +0700
+
+    new dokodemo homepage
+
+[33mcommit 7d7e3cd4402c5be6d3ed7998661c0b109517ae2a[m
+Author: Bagas Ranggen <bagas@logique.co.id>
+Date:   Wed Jan 20 11:22:55 2021 +0700
+
+    update content
+
+[33mcommit fd7efc811b7d41ec7ca8b6ef811c36eb4f4223f3[m
+Author: Bagas Ranggen <bagas@logique.co.id>
+Date:   Tue Jan 19 17:33:47 2021 +0700
+
+    update input time step
+
+[33mcommit dd97261eb36bfe66e0e57c8ed2ab3e45938c9103[m
+Author: Bagas Ranggen <bagas@logique.co.id>
+Date:   Tue Jan 19 15:38:07 2021 +0700
+
+    new modal schedule
+
+[33mcommit 392107e4d48b40970e987d208ff65c583056526e[m
+Merge: 210a13a 3435e3f
+Author: Bagas Ranggen <bagas@logique.co.id>
+Date:   Tue Jan 19 15:35:52 2021 +0700
+
+    Merge branch 'develop' into dev-bagas
+
+[33mcommit 3435e3f8114fea9bf331020b43fd815d0bc2faa6[m
+Author: Bagas Ranggen <bagas@logique.co.id>
+Date:   Tue Jan 19 10:41:47 2021 +0700
+
+    update jp header
+
+[33mcommit b0804c4ce7833b4c439be2fa2107360719e2de2f[m
+Author: Bagas Ranggen <bagas@logique.co.id>
+Date:   Tue Jan 19 08:43:50 2021 +0700
+
+    update content
+
+[33mcommit 74cba0a0c525ff0de08799f7dc112033dad3b043[m
+Author: Bagas Ranggen <bagas@logique.co.id>
+Date:   Tue Jan 19 08:13:53 2021 +0700
+
+    update content and add jp page
+
+[33mcommit 0b6756942e7e0a96768839c87ce3e476d4943a1b[m
+Author: Bagas Ranggen <bagas@logique.co.id>
+Date:   Tue Jan 19 08:13:30 2021 +0700
+
+    adjust styling
+
+[33mcommit bb2b8f7bc7bdcf0d6be43f70d22b8ff6851794d4[m
+Author: Bagas Ranggen <bagas@logique.co.id>
+Date:   Mon Jan 18 18:03:58 2021 +0700
+
+    update metadata
+
+[33mcommit 8bed7ed0bcb62cf972f9474e207bdf1b5fdd4a72[m
+Merge: 95a9274 5eb39ea
+Author: Bagas Ranggen <bagas@logique.co.id>
+Date:   Mon Jan 18 18:00:26 2021 +0700
+
+    Merge remote-tracking branch 'origin/master' into develop
+
+[33mcommit 5eb39ea165c034b189b3966ad2f179241a61d379[m
+Merge: 56a007f 95a9274
+Author: Calvin Octa Wijaya <calvin@logique.co.id>
+Date:   Wed Jan 13 06:50:24 2021 +0000
+
+    Merge branch 'develop' into 'master'
+    
+    Hide event banner
+    
+    See merge request logique/dokodemo-lp!16
+
+[33mcommit 95a9274d69645e4432823a76d46fdf719af70827[m
+Author: calvinocta <calvin@logique.co.id>
+Date:   Wed Jan 13 13:34:51 2021 +0700
+
+    hide banner ind jpn
+
+[33mcommit ca7e5e3d5581844de1dc3190e0a5ad75d5de89dc[m
+Author: calvinocta <calvin@logique.co.id>
+Date:   Wed Jan 13 13:26:29 2021 +0700
+
+    fix displayed banner
+
+[33mcommit 56a007fe84e08d396b1eea305399acb3b043dd7f[m
+Merge: ed4c6a6 33cd487
+Author: Calvin Octa Wijaya <calvin@logique.co.id>
+Date:   Tue Dec 15 04:31:30 2020 +0000
+
+    Merge branch 'develop' into 'master'
+    
+    Develop
+    
+    See merge request logique/dokodemo-lp!15
+
+[33mcommit 33cd48780c9dac40b3449050694ea737686bff05[m
+Author: calvinocta <calvin@logique.co.id>
+Date:   Tue Dec 15 09:45:26 2020 +0700
+
+    latest news en, case study numbering font weight
+
+[33mcommit d9cc571ac96af54a91f9c4b06f0808c75c7bd812[m
+Author: calvinocta <calvin@logique.co.id>
+Date:   Tue Dec 15 08:46:20 2020 +0700
+
+    update content case 5 - ind
+
+[33mcommit 66576418ce5d9432fd6c70826ffd1c67197ea69c[m
+Author: calvinocta <calvin@logique.co.id>
+Date:   Mon Dec 14 20:58:48 2020 +0700
+
+    update content case 5 - en
+
+[33mcommit ed4c6a6c8d424670b27a958ab7fb7750b65b0c6b[m
+Merge: 1b87e55 82c6c33
+Author: Calvin Octa Wijaya <calvin@logique.co.id>
+Date:   Thu Nov 26 10:04:24 2020 +0000
+
+    Merge branch 'develop' into 'master'
+    
+    change desktop screenshot image
+    
+    See merge request logique/dokodemo-lp!14
+
+[33mcommit 82c6c330654317ea8ff371fe8db94b96d85eeb9f[m
+Merge: a48b791 b3f023f
+Author: Calvin Octa Wijaya <calvin@logique.co.id>
+Date:   Thu Nov 26 09:43:47 2020 +0000
+
+    Merge branch 'dev-calvin' into 'develop'
+    
+    fix: change desktop app version img
+    
+    See merge request logique/dokodemo-lp!13
+
+[33mcommit b3f023f4a1f87520f6c16c9769f19c65f2b92ca6[m
+Author: calvinocta <calvin@logique.co.id>
+Date:   Thu Nov 26 16:41:19 2020 +0700
+
+    fix: change desktop app version img
+
+[33mcommit 1b87e55ad3e5147eb1d9c579ddd6f5757e4c19c5[m
+Merge: 02b573a a48b791
+Author: Calvin Octa Wijaya <calvin@logique.co.id>
+Date:   Thu Nov 26 09:15:33 2020 +0000
+
+    Merge branch 'develop' into 'master'
+    
+    Develop
+    
+    See merge request logique/dokodemo-lp!12
+
+[33mcommit a48b791add74a719507f4661a35ac4853b22155c[m
+Merge: 4a0c125 7f9e8eb
+Author: Calvin Octa Wijaya <calvin@logique.co.id>
+Date:   Thu Nov 26 09:06:36 2020 +0000
+
+    Merge branch 'dev-calvin' into 'develop'
+    
+    add id for analytics
+    
+    See merge request logique/dokodemo-lp!11
+
+[33mcommit 7f9e8eb0d34ff279918f75767adb45a1e7c78de5[m
+Author: calvinocta <calvin@logique.co.id>
+Date:   Thu Nov 26 16:04:58 2020 +0700
+
+    add id for analytics
+
+[33mcommit 4a0c12599953df83d8d6bac1fe33eddedc58f992[m
+Merge: 4230049 8f33de8
+Author: Calvin Octa Wijaya <calvin@logique.co.id>
+Date:   Thu Nov 26 09:02:34 2020 +0000
+
+    Merge branch 'dev-calvin' into 'develop'
+    
+    Dev calvin
+    
+    See merge request logique/dokodemo-lp!10
+
+[33mcommit 8f33de8b62793eccf8aec8f5e1f47ce2df4decf3[m
+Author: calvinocta <calvin@logique.co.id>
+Date:   Thu Nov 26 16:00:42 2020 +0700
+
+    adjust padding and cursor
+
+[33mcommit de97376027f66eb56477d2c6edc9d0745fca79b8[m
+Author: calvinocta <calvin@logique.co.id>
+Date:   Thu Nov 26 15:55:30 2020 +0700
+
+    adjust padding & cursor pointer
+
+[33mcommit 423004985d2c0fdf789d2e1a99596d1285538b00[m
+Merge: 0660a8e cd242a3
+Author: Calvin Octa Wijaya <calvin@logique.co.id>
+Date:   Thu Nov 26 08:22:46 2020 +0000
+
+    Merge branch 'dev-calvin' into 'develop'
+    
+    help page sidebar mobile + formatting css
+    
+    See merge request logique/dokodemo-lp!9
+
+[33mcommit cd242a33d7fa017cc7da38c234d401ca62441458[m
+Author: calvinocta <calvin@logique.co.id>
+Date:   Thu Nov 26 15:16:18 2020 +0700
+
+    help page sidebar mobile
+
+[33mcommit 0660a8e01a06c0d98dac37cd087a191797fa612a[m
+Merge: 7eeb276 94370db
+Author: Calvin Octa Wijaya <calvin@logique.co.id>
+Date:   Wed Nov 25 09:51:09 2020 +0000
+
+    Merge branch 'dev-calvin' into 'develop'
+    
+    help -> how to use in footer
+    
+    See merge request logique/dokodemo-lp!8
+
+[33mcommit 94370dbe8a61ffcace24c246238deaba09972121[m
+Author: calvinocta <calvin@logique.co.id>
+Date:   Wed Nov 25 09:36:03 2020 +0700
+
+    help -> how to use in footer
+
+[33mcommit 7eeb27651784353d4ff53ef701b7dc4eedbe39c3[m
+Merge: b51077b 210a13a
+Author: Bagas Ranggen <bagas@logique.co.id>
+Date:   Wed Nov 25 09:27:07 2020 +0700
+
+    Merge branch 'dev-bagas' into develop
+    
+    add help page
+
+[33mcommit 210a13a9e7dd9b39749cb32a0dcc32161a494b53[m
+Merge: 47959f4 b51077b
+Author: Bagas Ranggen <bagas@logique.co.id>
+Date:   Wed Nov 25 09:26:33 2020 +0700
+
+    Merge branch 'develop' into dev-bagas
+
+[33mcommit b51077b82be8c4942ef2f20d872d46515ab813a2[m
+Merge: 45d3050 02b573a
+Author: Bagas Ranggen <bagas@logique.co.id>
+Date:   Wed Nov 25 09:26:12 2020 +0700
+
+    Merge branch 'master' into develop
+
+[33mcommit 02b573a5154c3dcbcb3832ad06088ebc541797be[m
+Merge: 63a51d6 45d3050
+Author: Bagas Ranggen <bagas@logique.co.id>
+Date:   Tue Nov 24 13:04:10 2020 +0700
+
+    Merge branch 'develop'
+    
+    update link behaviour
+
+[33mcommit 45d305072fbf8d98877c679cd36c2ad68c83a85a[m
+Author: Bagas Ranggen <bagas@logique.co.id>
+Date:   Tue Nov 24 12:00:18 2020 +0700
+
+    update link button behavior
+
+[33mcommit 3d65185ee241f7c74796295de59194e65746cb20[m
+Merge: 8da3ada 63a51d6
+Author: Bagas Ranggen <bagas@logique.co.id>
+Date:   Tue Nov 24 11:59:54 2020 +0700
+
+    Merge branch 'master' into develop
+
+[33mcommit 63a51d63c68f1036eca28435aed684a342ca8f25[m
+Merge: 332891a 8da3ada
+Author: Bagas Ranggen <bagas@logique.co.id>
+Date:   Tue Nov 24 10:38:16 2020 +0700
+
+    Merge branch 'develop'
+    
+    update:
+    - remove seminar banner
+    - update manual link
+    - update demo content
+
+[33mcommit 47959f4059881d31271a3856c54a4d6068ae7459[m
+Author: Bagas Ranggen <bagas@logique.co.id>
+Date:   Tue Nov 17 10:27:33 2020 +0700
+
+    update content
+
+[33mcommit 8d2fe83ed9786860a21f0e9405908ec9d024c6f3[m
+Author: Bagas Ranggen <bagas@logique.co.id>
+Date:   Fri Nov 13 10:40:42 2020 +0700
+
+    make navigation sticky
+
+[33mcommit 523d5710d607d0bbf1a35285149c5d5a2d00df1d[m
+Merge: fb3cd40 8da3ada
+Author: Bagas Ranggen <bagas@logique.co.id>
+Date:   Thu Nov 12 17:32:04 2020 +0700
+
+    Merge branch 'develop' into dev-bagas
+
+[33mcommit 8da3ada90105cff4229e8c27377df0b8cf849e25[m
+Author: Bagas Ranggen <bagas@logique.co.id>
+Date:   Thu Nov 12 17:31:17 2020 +0700
+
+    update link
+
+[33mcommit fb3cd40975baf6961a2e10f7545843360ab4a7ab[m
+Author: Bagas Ranggen <bagas@logique.co.id>
+Date:   Thu Nov 12 17:19:43 2020 +0700
+
+    EN help page
+
+[33mcommit 8bbb3da9e2588bc37e2b62ab7ecdd63e4e59dc06[m
+Author: Bagas Ranggen <bagas@logique.co.id>
+Date:   Thu Nov 12 13:54:02 2020 +0700
+
+    update content help page
+
+[33mcommit f9b02dd38583bc718ca1099592ba919bd92aef2c[m
+Author: Bagas Ranggen <bagas@logique.co.id>
+Date:   Thu Nov 12 11:57:39 2020 +0700
+
+    update help content for ID page
+
+[33mcommit 11b51faf30010d924948e6bd1c40ad599280a9e3[m
+Author: Bagas Ranggen <bagas@logique.co.id>
+Date:   Wed Nov 11 16:31:25 2020 +0700
+
+    update content for help page
+
+[33mcommit 14fc7a9b3ff8d879cbe809cdd7602cdfa3057936[m
+Merge: 443cf9b 048fd12
+Author: Bagas Ranggen <bagas@logique.co.id>
+Date:   Wed Nov 11 16:30:26 2020 +0700
+
+    Merge branch 'develop' into dev-bagas
+
+[33mcommit 048fd1263855eaf1f5827ebad10ef553501f5d42[m
+Author: Bagas Ranggen <bagas@logique.co.id>
+Date:   Mon Nov 9 13:27:50 2020 +0700
+
+    updae demo content
+
+[33mcommit 443cf9b9faaf6c973f1ddd5ebe8fe6cc182d8d6c[m
+Author: Bagas Ranggen <bagas@logique.co.id>
+Date:   Mon Nov 9 13:22:32 2020 +0700
+
+    update help page
+
+[33mcommit 690d6c87a6dd6d19569bf3568d1b75a0aecc8ce8[m
+Author: Bagas Ranggen <bagas@logique.co.id>
+Date:   Thu Nov 5 17:36:26 2020 +0700
+
+    basic layout for help page
+
+[33mcommit 4cafe627db47e95098819cd04ec8173e25923e1b[m
+Merge: 2196680 a2997ee
+Author: Bagas Ranggen <bagas@logique.co.id>
+Date:   Thu Nov 5 16:10:06 2020 +0700
+
+    Merge branch 'develop' into dev-bagas
+
+[33mcommit a2997eeb61d7da605c5524dcacd45f4202372a14[m
+Author: Bagas Ranggen <bagas@logique.co.id>
+Date:   Thu Nov 5 16:09:40 2020 +0700
+
+    update demo page content
+
+[33mcommit 19ddd6517f616c23470a22703531aff4e23af634[m
+Merge: 6dd6d96 332891a
+Author: Bagas Ranggen <bagas@logique.co.id>
+Date:   Wed Nov 4 14:12:08 2020 +0700
+
+    Merge branch 'master' into develop
+
+[33mcommit 332891a76bf7ae52399e53267a2231f4749e9319[m
+Merge: 4b774c3 6dd6d96
+Author: Bagas Ranggen <bagas@logique.co.id>
+Date:   Fri Oct 30 15:25:14 2020 +0700
+
+    Merge branch 'develop'
+    
+    update: app download link
+
+[33mcommit 6dd6d96957fcbc6d753f24351efd0e914d90350d[m
+Author: Bagas Ranggen <bagas@logique.co.id>
+Date:   Fri Oct 30 15:12:48 2020 +0700
+
+    update app download link
+
+[33mcommit b7281c37d88a72616a31822d547c7843c8971c69[m
+Merge: de1be25 4b774c3
+Author: Bagas Ranggen <bagas@logique.co.id>
+Date:   Fri Oct 30 15:11:19 2020 +0700
+
+    Merge branch 'master' into develop
+
+[33mcommit 4b774c3e07b8375af2008ae6aa894468ad1ceaab[m
+Merge: 4294cb3 de1be25
+Author: Bagas Ranggen <bagas@logique.co.id>
+Date:   Thu Oct 1 16:59:12 2020 +0700
+
+    Merge branch 'develop'
+    
+    update:
+    - fixing typo
+    - update close banner behavior
+
+[33mcommit de1be25f2af8f56718dd7cf268442f6f6036f944[m
+Author: Bagas Ranggen <bagas@logique.co.id>
+Date:   Thu Oct 1 16:54:07 2020 +0700
+
+    add query string on seminar-banner.js
+
+[33mcommit eb85d4b27c25e0ba3ba0ba9aff007dfd3c99231c[m
+Author: Bagas Ranggen <bagas@logique.co.id>
+Date:   Thu Oct 1 16:48:42 2020 +0700
+
+    update close banner behavior
+
+[33mcommit fb6064bc65bf88b15637597eec425d0ca4f7cc13[m
+Author: Bagas Ranggen <bagas@logique.co.id>
+Date:   Thu Oct 1 16:44:06 2020 +0700
+
+    typo
+
+[33mcommit 529c1930877f4f154c7bdb80a7cf39e7915b97af[m
+Merge: dc3d977 4294cb3
+Author: Bagas Ranggen <bagas@logique.co.id>
+Date:   Thu Oct 1 16:43:52 2020 +0700
+
+    Merge branch 'master' into develop
+
+[33mcommit 4294cb39bcd15c788c46b24ef78c927173c41659[m
+Merge: 0f6a37f dc3d977
+Author: Bagas Ranggen <bagas@logique.co.id>
+Date:   Thu Oct 1 16:29:21 2020 +0700
+
+    Merge branch 'develop'
+    
+    update:
+    - update content
+    - update countdown time
+    - put free seminar banner to all pages
+    - put script to takeout free seminar banner after the seminar time
+    - compress images
+
+[33mcommit dc3d9771bf618a3aa399739a1dbdd0239b782e58[m
+Merge: f3aadf3 2196680
+Author: Bagas Ranggen <bagas@logique.co.id>
+Date:   Thu Oct 1 16:18:59 2020 +0700
+
+    Merge branch 'dev-bagas' into develop
+    
+    update:
+    - update content
+    - update images
+    - update link
+
+[33mcommit 21966802a29a3ccbe146f8bcf75f3cd1508d159e[m
+Author: Bagas Ranggen <bagas@logique.co.id>
+Date:   Thu Oct 1 16:18:21 2020 +0700
+
+    update:
+    - update content
+    - update images
+    - update link
+
+[33mcommit 8c83a1bf9d43fa8000a35c418f90fc26aef85d84[m
+Merge: ea22ba7 f3aadf3
+Author: Bagas Ranggen <bagas@logique.co.id>
+Date:   Thu Oct 1 16:16:10 2020 +0700
+
+    Merge branch 'develop' into dev-bagas
+
+[33mcommit f3aadf3c3d422e9ef1dd505cf26436900b6e6082[m
+Merge: a6bde85 ea22ba7
+Author: Bagas Ranggen <bagas@logique.co.id>
+Date:   Thu Oct 1 14:44:13 2020 +0700
+
+    Merge branch 'dev-bagas' into develop
+    
+    update: compress images
+
+[33mcommit ea22ba7eda14b364ae014d6440236ee502869cd1[m
+Merge: d7a7fdc a6bde85
+Author: Bagas Ranggen <bagas@logique.co.id>
+Date:   Thu Oct 1 14:43:42 2020 +0700
+
+    Merge branch 'develop' into dev-bagas
+
+[33mcommit d7a7fdca9ee220366d02dbc7193d513349819cb8[m
+Author: Bagas Ranggen <bagas@logique.co.id>
+Date:   Thu Oct 1 14:43:29 2020 +0700
+
+    compress images
+
+[33mcommit a6bde85d77a650443e60e9cb39d31ed8cdaa60e7[m
+Merge: d549e22 8f6bcca
+Author: Bagas Ranggen <bagas@logique.co.id>
+Date:   Thu Oct 1 14:36:17 2020 +0700
+
+    Merge branch 'dev-bagas' into develop
+    
+    update:
+    - update content
+    - update countdown time
+    - put free seminar banner to all pages
+    - put script to takeout free seminar banner after the seminar time
+
+[33mcommit 8f6bcca27bba72b23c576f23d7ced1f93ade4273[m
+Author: Bagas Ranggen <bagas@logique.co.id>
+Date:   Thu Oct 1 14:34:49 2020 +0700
+
+    update:
+    - update content
+    - update countdown time
+    - put free seminar banner to all pages
+    - put script to takeou free seminar banner after the seminar time
+
+[33mcommit 6102756ad8b08c60caf4b820674fdf89b45f2875[m
+Merge: b17491f 0f6a37f
+Author: Bagas Ranggen <bagas@logique.co.id>
+Date:   Thu Oct 1 10:03:21 2020 +0700
+
+    Merge branch 'master' into dev-bagas
+
+[33mcommit 0f6a37fee2675af66634d7fc479ccd7d537d4ac0[m
+Merge: 8c8c83b d549e22
+Author: Calvin Octa Wijaya <calvin@logique.co.id>
+Date:   Mon Sep 21 07:31:44 2020 +0000
+
+    Merge branch 'develop' into 'master'
+    
+    Develop
+    
+    See merge request logique/dokodemo-lp!7
+
+[33mcommit d549e22281bfbb640fce46daba4713072f486429[m
+Merge: fb50e57 5c9fb2c
+Author: Calvin Octa Wijaya <calvin@logique.co.id>
+Date:   Mon Sep 21 07:30:50 2020 +0000
+
+    Merge branch 'dev-calvin' into 'develop'
+    
+    Dev calvin
+    
+    See merge request logique/dokodemo-lp!6
+
+[33mcommit 5c9fb2c2814b65f944bab156d596afd5118af323[m
+Author: calvinocta <calvin@logique.co.id>
+Date:   Mon Sep 21 14:27:43 2020 +0700
+
+    set to 14.00
+
+[33mcommit 8565d91d4ea78f04a6dd66022a760f4dcaa46fec[m
+Merge: 49ee73f 8c8c83b
+Author: calvinocta <calvin@logique.co.id>
+Date:   Mon Sep 21 14:26:54 2020 +0700
+
+    Merge branch 'master' of https://gitlab.com/logique/dokodemo-lp into dev-calvin
+
+[33mcommit 8c8c83b1cd5469746abe731cba21e5103ab98ecc[m
+Merge: a3be924 80e15b5
+Author: GontangPrakasa <5381446-Gontang_Prakasa@users.noreply.gitlab.com>
+Date:   Fri Sep 18 05:39:44 2020 +0000
+
+    Merge branch 'develop' into 'master'
+    
+    Add seminar date
+    
+    See merge request logique/dokodemo-lp!5
+
+[33mcommit 80e15b532f88257e2dba66538938f55acd72ce38[m
+Author: GontangPrakasa <5381446-Gontang_Prakasa@users.noreply.gitlab.com>
+Date:   Fri Sep 18 05:39:44 2020 +0000
+
+    Add seminar date
+
+[33mcommit fb50e57797aca58422afb42791aca57e241792a0[m
+Merge: a499362 49ee73f
+Author: GontangPrakasa <5381446-Gontang_Prakasa@users.noreply.gitlab.com>
+Date:   Fri Sep 18 05:32:54 2020 +0000
+
+    Merge branch 'dev-calvin' into 'develop'
+    
+    add link to seminar
+    
+    See merge request logique/dokodemo-lp!4
+
+[33mcommit 49ee73f97545793a331a71656305fbec14e0d8c2[m
+Author: calvinocta <calvin@logique.co.id>
+Date:   Fri Sep 18 12:27:55 2020 +0700
+
+    add link to seminar
+
+[33mcommit a4993626b86e4d4fbeb72a7d740c0a24c1e20530[m
+Merge: cb10168 27a3cde
+Author: GontangPrakasa <5381446-Gontang_Prakasa@users.noreply.gitlab.com>
+Date:   Thu Sep 17 07:11:02 2020 +0000
+
+    Merge branch 'dev-calvin' into 'develop'
+    
+    countdown center page
+    
+    See merge request logique/dokodemo-lp!3
+
+[33mcommit 27a3cdef4f3035de6d751c48c8fd035faf747bc1[m
+Author: calvinocta <calvin@logique.co.id>
+Date:   Thu Sep 17 13:50:50 2020 +0700
+
+    sec to min
+
+[33mcommit 024aa59831efde539383b82d2b67fc154077267a[m
+Author: calvinocta <calvin@logique.co.id>
+Date:   Thu Sep 17 13:49:11 2020 +0700
+
+    countdown center page
+
+[33mcommit cb10168c7b5ad0e6d9b8e3ba31ef61d4af46a51e[m
+Merge: d9e78bf 167bfa4
+Author: GontangPrakasa <5381446-Gontang_Prakasa@users.noreply.gitlab.com>
+Date:   Thu Sep 17 05:05:44 2020 +0000
+
+    Merge branch 'dev-calvin' into 'develop'
+    
+    countdown
+    
+    See merge request logique/dokodemo-lp!2
+
+[33mcommit 167bfa4a0ca2d70eaf633afbd9a061173e639481[m
+Author: calvinocta <calvin@logique.co.id>
+Date:   Thu Sep 17 11:24:11 2020 +0700
+
+    fix countdown end
+
+[33mcommit 1d48f82e4e7b217521550d5e510e8d68bceb784d[m
+Author: calvinocta <calvin@logique.co.id>
+Date:   Thu Sep 17 10:38:09 2020 +0700
+
+    seminar banner
+
+[33mcommit a3be924a90f0afed6ecdd0824fc0f86663f0ebd4[m
+Merge: b9201d3 d9e78bf
+Author: Bagas Ranggen <bagas@logique.co.id>
+Date:   Fri Aug 21 10:05:30 2020 +0700
+
+    Merge branch 'develop'
+    
+    update:
+    - add user manual download button
+    - add content
+
+[33mcommit d9e78bf2dfb16774b4736a3289ded701fff40d03[m
+Author: Bagas Ranggen <bagas@logique.co.id>
+Date:   Fri Aug 21 09:09:59 2020 +0700
+
+    update:
+    - add user manual download button
+    - add content
+
+[33mcommit 4cf2f76da8d2920d8c4a87937e10b7cd8784880e[m
+Merge: 9326d32 b9201d3
+Author: Bagas Ranggen <bagas@logique.co.id>
+Date:   Fri Aug 21 08:29:32 2020 +0700
+
+    Merge branch 'master' into develop
+
+[33mcommit b9201d337cc6d53231fb7e80e067ae752336586a[m
+Merge: 16faca7 9326d32
+Author: Bagas Ranggen <bagas@logique.co.id>
+Date:   Tue Aug 11 18:13:27 2020 +0700
+
+    Merge branch 'develop'
+    
+    update: add banner to features and case study page
+
+[33mcommit 9326d32432b02f8f36e1bbe5a976f8cebdd19840[m
+Author: Bagas Ranggen <bagas@logique.co.id>
+Date:   Tue Aug 11 16:25:09 2020 +0700
+
+    update
+
+[33mcommit 353fb221f864e7ddcd3dcb3beaf0e3c27136ec23[m
+Author: Bagas Ranggen <bagas@logique.co.id>
+Date:   Tue Aug 11 16:21:35 2020 +0700
+
+    Revert "update banner"
+    
+    This reverts commit d33b9ebaa5f9a1b77df1a518d73a8077da6e0890.
+
+[33mcommit d33b9ebaa5f9a1b77df1a518d73a8077da6e0890[m
+Author: Bagas Ranggen <bagas@logique.co.id>
+Date:   Tue Aug 11 15:59:43 2020 +0700
+
+    update banner
+
+[33mcommit 8d7dadd12540455ed3d0048f56caf22efa2f9aea[m
+Author: Bagas Ranggen <bagas@logique.co.id>
+Date:   Tue Aug 11 13:59:37 2020 +0700
+
+    update footer responsive
+
+[33mcommit 5d881b5dc6553555950010be7ed8ab985af24bf1[m
+Merge: efea81b 16faca7
+Author: Bagas Ranggen <bagas@logique.co.id>
+Date:   Tue Aug 11 13:33:08 2020 +0700
+
+    Merge branch 'master' into develop
+
+[33mcommit 16faca7712db6d962145a37a3f940591a5ad91d9[m
+Merge: 1f9f7c9 efea81b
+Author: Bagas Ranggen <bagas@logique.co.id>
+Date:   Tue Aug 11 12:05:53 2020 +0700
+
+    Merge branch 'develop'
+    
+    update: new jp landing page
+
+[33mcommit efea81b235f6e4cbb13be752264f775aa7594d97[m
+Author: Bagas Ranggen <bagas@logique.co.id>
+Date:   Tue Aug 11 11:57:15 2020 +0700
+
+    update js for copyright year
+
+[33mcommit eeb0f5eb2cf15ce74a24a779b4b391aeacdc19e9[m
+Author: Bagas Ranggen <bagas@logique.co.id>
+Date:   Tue Aug 11 11:44:52 2020 +0700
+
+    adjust on jp landing page
+
+[33mcommit 23ebb58ca8da4d907860af8c564737124a90e47c[m
+Author: Bagas Ranggen <bagas@logique.co.id>
+Date:   Mon Aug 10 17:51:58 2020 +0700
+
+    minor update
+
+[33mcommit 3e11ce0b941cb9d8104a5e4bdbe421bdbe16734d[m
+Author: Bagas Ranggen <bagas@logique.co.id>
+Date:   Mon Aug 10 17:44:59 2020 +0700
+
+    jp landing page
+
+[33mcommit 834e8e5e167bcc76905729047f5f56317a7fbb79[m
+Merge: 2356ab0 1f9f7c9
+Author: Bagas Ranggen <bagas@logique.co.id>
+Date:   Mon Aug 10 16:38:40 2020 +0700
+
+    Merge branch 'master' into develop
+
+[33mcommit 1f9f7c9d0d6dc9b9e3279d73dcbcac057c2b9c65[m
+Merge: ad0f0d2 2356ab0
+Author: Bagas Ranggen <bagas@logique.co.id>
+Date:   Tue Aug 4 15:52:31 2020 +0700
+
+    Merge branch 'develop'
+
+[33mcommit 2356ab042c07ecbbe6737fb0dd8e127061e86830[m
+Author: Bagas Ranggen <bagas@logique.co.id>
+Date:   Tue Aug 4 15:50:54 2020 +0700
+
+    update button id naming
+
+[33mcommit 75e50ce86fe99034404383bf4d484c786897226b[m
+Merge: 68f3c3c ad0f0d2
+Author: Bagas Ranggen <bagas@logique.co.id>
+Date:   Tue Aug 4 15:48:44 2020 +0700
+
+    Merge branch 'master' into develop
+
+[33mcommit ad0f0d257bd873a3481fa4eac848c4218030be6a[m
+Merge: 7cdc6b2 68f3c3c
+Author: Bagas Ranggen <bagas@logique.co.id>
+Date:   Tue Aug 4 11:54:13 2020 +0700
+
+    Merge branch 'develop'
+    
+    update:
+    - rename robot to robots
+    - add new rule on robots
+    - add new ios download button
+    - adjust css
+
+[33mcommit 68f3c3c65601424f145bdabb743a964dbc94e6e9[m
+Merge: 817f128 b17491f
+Author: Bagas Ranggen <bagas@logique.co.id>
+Date:   Tue Aug 4 11:52:54 2020 +0700
+
+    Merge branch 'dev-bagas' into develop
+    
+    add io button
+
+[33mcommit b17491f30a2d72bc1b145aa4569d28c0bd064152[m
+Author: Bagas Ranggen <bagas@logique.co.id>
+Date:   Tue Aug 4 11:50:03 2020 +0700
+
+    adjust ui
+
+[33mcommit 9e35212ab830fb3da107b5dc9537d46d319b80eb[m
+Author: Bagas Ranggen <bagas@logique.co.id>
+Date:   Tue Aug 4 11:43:32 2020 +0700
+
+    update content
+
+[33mcommit 41bf80299d8e90905d4371bb85dffa7ab3e89f26[m
+Author: Bagas Ranggen <bagas@logique.co.id>
+Date:   Tue Aug 4 11:37:12 2020 +0700
+
+    add anchor link
+
+[33mcommit 7eab29b9542a77a7abea980cdc337fac64bfa11c[m
+Author: Bagas Ranggen <bagas@logique.co.id>
+Date:   Tue Aug 4 11:19:44 2020 +0700
+
+    adjust css
+
+[33mcommit 8f1ea3a889cbc3c1f7945f36f6292ed66b643084[m
+Author: Bagas Ranggen <bagas@logique.co.id>
+Date:   Tue Aug 4 10:19:24 2020 +0700
+
+    add ios btn
+
+[33mcommit 817f1281955ec37070f39d60807e6cfe31d97cb5[m
+Author: Bagas Ranggen <bagas@logique.co.id>
+Date:   Tue Aug 4 09:50:06 2020 +0700
+
+    rename robots.txt and add new rules
+
+[33mcommit 5a1212bd7ec527a27e3a476d6fa2832ea7f7ae47[m
+Merge: 3a9dd8b 7cdc6b2
+Author: Bagas Ranggen <bagas@logique.co.id>
+Date:   Tue Aug 4 08:22:31 2020 +0700
+
+    Merge branch 'master' into develop
+
+[33mcommit 7cdc6b20c97f267b6685b6dcb499bb1c09a55259[m
+Merge: 576fa24 3a9dd8b
+Author: Bagas Ranggen <bagas@logique.co.id>
+Date:   Thu Jul 30 09:28:06 2020 +0700
+
+    Merge branch 'develop'
+    
+    add canonical tag
+
+[33mcommit 3a9dd8bb2d8b5522ebb0c006a1cd4a6c6c6a9910[m
+Author: Bagas Ranggen <bagas@logique.co.id>
+Date:   Thu Jul 30 09:26:03 2020 +0700
+
+    add canonical tag
+
+[33mcommit 576fa247a9020ba35e04417b83514a733cb2c953[m
+Merge: cd18b09 5206b0b
+Author: Bagas Ranggen <bagas@logique.co.id>
+Date:   Mon Jul 27 13:27:31 2020 +0700
+
+    Merge branch 'develop'
+    
+    update: remove setup online meeting button
+
+[33mcommit 5206b0b780584eced2b304aa6b281bf40790b95b[m
+Author: Bagas Ranggen <bagas@logique.co.id>
+Date:   Mon Jul 27 13:16:16 2020 +0700
+
+    remove setup online meeting button
+
+[33mcommit 00ffd5dad318720fd588fdeb69ab29befdd12feb[m
+Merge: 2f57203 cd18b09
+Author: Bagas Ranggen <bagas@logique.co.id>
+Date:   Mon Jul 27 13:11:52 2020 +0700
+
+    Merge branch 'master' into develop
+
+[33mcommit cd18b09e41b9a7a5206ea284b93c1410efb25580[m
+Merge: ad48cfd 2f57203
+Author: Bagas Ranggen <bagas@logique.co.id>
+Date:   Fri Jul 24 13:06:14 2020 +0700
+
+    Merge branch 'develop'
+    
+    update: fixing ogp image url
+
+[33mcommit 2f572038a572fbfeb22b620203016c8f4636f238[m
+Author: Bagas Ranggen <bagas@logique.co.id>
+Date:   Fri Jul 24 11:52:13 2020 +0700
+
+    fixing ogp image url
+
+[33mcommit 972e0f12249b819e995f979783845f201c846e2f[m
+Merge: 7252eb6 ad48cfd
+Author: Bagas Ranggen <bagas@logique.co.id>
+Date:   Fri Jul 24 11:37:30 2020 +0700
+
+    Merge branch 'master' into develop
+
+[33mcommit ad48cfdf2fcbaff238d69792d9d51bc770803036[m
+Merge: 51d116d 7252eb6
+Author: Bagas Ranggen <bagas@logique.co.id>
+Date:   Tue Jul 21 15:39:04 2020 +0700
+
+    Merge branch 'develop'
+    
+    update metadata
+
+[33mcommit 7252eb6e70d2fa618c54374c25e7696925a69b26[m
+Author: Bagas Ranggen <bagas@logique.co.id>
+Date:   Tue Jul 21 15:38:35 2020 +0700
+
+    update meta data
+
+[33mcommit c9ff07cccd5dad98452d7f30ebaba04685075ae1[m
+Merge: d7d29fe 51d116d
+Author: Bagas Ranggen <bagas@logique.co.id>
+Date:   Tue Jul 21 15:25:25 2020 +0700
+
+    Merge branch 'master' into develop
+
+[33mcommit 51d116d911341e5e8dd81cd9345eb933271499c2[m
+Merge: 05bb41f d7d29fe
+Author: Bagas Ranggen <bagas@logique.co.id>
+Date:   Thu Jul 16 17:29:16 2020 +0700
+
+    Merge branch 'develop'
+    
+    update:
+    - change mobile button
+
+[33mcommit d7d29fef4aef2aeae1915f47579d47bd88d300d2[m
+Author: Bagas Ranggen <bagas@logique.co.id>
+Date:   Thu Jul 16 17:23:51 2020 +0700
+
+    change mobile button
+
+[33mcommit 0de5c49e1e0501ea9d830214b32bfad01ff33061[m
+Merge: 5c7b126 05bb41f
+Author: Bagas Ranggen <bagas@logique.co.id>
+Date:   Thu Jul 16 17:21:20 2020 +0700
+
+    Merge branch 'master' into develop
+
+[33mcommit 05bb41f2bb8c6c00f5dfc592d651e840f5d2ed98[m
+Merge: a6a4697 5c7b126
+Author: Bagas Ranggen <bagas@logique.co.id>
+Date:   Thu Jul 16 13:42:03 2020 +0700
+
+    Merge branch 'develop'
+    
+    update:
+    - change download button url
+
+[33mcommit 5c7b126a01c57f5b9cd2db9f4a7beb7fc5fa3580[m
+Author: Bagas Ranggen <bagas@logique.co.id>
+Date:   Thu Jul 16 13:26:28 2020 +0700
+
+    change button anchor tag and styling
+
+[33mcommit 37f8dd1a10e20418337b49c1a736dbdde64fd45e[m
+Merge: 9fe5f6d a6a4697
+Author: Bagas Ranggen <bagas@logique.co.id>
+Date:   Thu Jul 16 12:29:18 2020 +0700
+
+    Merge branch 'master' into develop
+
+[33mcommit a6a46970a1d365f2ddb480cbecf1d285836e511a[m
+Merge: e580e6a 9fe5f6d
+Author: Bagas Ranggen <bagas@logique.co.id>
+Date:   Thu Jul 16 10:30:09 2020 +0700
+
+    Merge branch 'develop'
+    
+    update:
+    - remove cta and online meeting setup
+    - fix minor typo
+    - add ogp data
+
+[33mcommit 9fe5f6d74b8d5a2b662d3dba640ce4dbce2ce924[m
+Author: Bagas Ranggen <bagas@logique.co.id>
+Date:   Thu Jul 16 10:17:51 2020 +0700
+
+    add ogp data
+
+[33mcommit f1fb31204859e9a75ae252af9b043ea8bfd7d29c[m
+Author: Bagas Ranggen <bagas@logique.co.id>
+Date:   Thu Jul 16 09:14:10 2020 +0700
+
+    add og images assets
+
+[33mcommit e45bc2bd4f4e569b2e6e2af054afab659370a203[m
+Author: Bagas Ranggen <bagas@logique.co.id>
+Date:   Wed Jul 15 18:03:06 2020 +0700
+
+    minor ui fixing
+
+[33mcommit 902e70f3f9172a6148856619fb7c2d2a1e8d7cd5[m
+Author: Bagas Ranggen <bagas@logique.co.id>
+Date:   Wed Jul 15 18:02:18 2020 +0700
+
+    Revert "minor ui fixing"
+    
+    This reverts commit 37d41b6b24846d22f2c2fe0f80c8ec6b2c004b7b.
+
+[33mcommit 37d41b6b24846d22f2c2fe0f80c8ec6b2c004b7b[m
+Author: Bagas Ranggen <bagas@logique.co.id>
+Date:   Wed Jul 15 17:59:03 2020 +0700
+
+    minor ui fixing
+
+[33mcommit ef682f1aeacbdf3daeb5d94c73887406f17336c2[m
+Author: Bagas Ranggen <bagas@logique.co.id>
+Date:   Wed Jul 15 11:22:49 2020 +0700
+
+    add google optimize script
+
+[33mcommit f9cf3d6b59d38a61e3b4a726d246f9c3e6eeb668[m
+Author: Bagas Ranggen <bagas@logique.co.id>
+Date:   Wed Jul 15 11:22:16 2020 +0700
+
+    fix typo
+
+[33mcommit ee0593d61412edc76839c088e136ab145d8b30c2[m
+Author: Bagas Ranggen <bagas@logique.co.id>
+Date:   Tue Jul 14 14:50:49 2020 +0700
+
+    remove cta and setup online meeting
+
+[33mcommit 066ce793e673d0bff15ca3443a6d4ceb30905441[m
+Merge: 38f075a e580e6a
+Author: Bagas Ranggen <bagas@logique.co.id>
+Date:   Tue Jul 14 14:36:12 2020 +0700
+
+    Merge branch 'master' into develop
+
+[33mcommit e580e6a682dc40ac4c2001894050c31c5e18049a[m
+Merge: dc0712b 38f075a
+Author: Bagas Ranggen <bagas@logique.co.id>
+Date:   Tue Jul 14 14:16:36 2020 +0700
+
+    Merge branch 'develop'
+    
+    rollback case-study 5
+
+[33mcommit 38f075ae3d419184ecf5c43c2c78da2cf57fe1a4[m
+Author: Bagas Ranggen <bagas@logique.co.id>
+Date:   Tue Jul 14 14:13:40 2020 +0700
+
+    rollback case-study 5
+
+[33mcommit 72070356e5e9fbc3c73866ba6eaa3f5424a748d1[m
+Merge: c35e680 dc0712b
+Author: Bagas Ranggen <bagas@logique.co.id>
+Date:   Tue Jul 14 14:12:07 2020 +0700
+
+    Merge branch 'master' into develop
+
+[33mcommit dc0712bb264ecb01cac1ecab97b0014ceddf04e7[m
+Merge: 239bcb0 c35e680
+Author: Bagas Ranggen <bagas@logique.co.id>
+Date:   Fri Jul 10 16:56:29 2020 +0700
+
+    Merge branch 'develop'
+    
+    update case-study 5
+
+[33mcommit c35e68057a59fc4a674f43b142d73f957da976cf[m
+Author: Bagas Ranggen <bagas@logique.co.id>
+Date:   Fri Jul 10 14:49:14 2020 +0700
+
+    update content
+
+[33mcommit 35341930a81e784abb3f41dab325b05380ee2145[m
+Author: Bagas Ranggen <bagas@logique.co.id>
+Date:   Fri Jul 10 14:19:24 2020 +0700
+
+    adjust case 5 page
+
+[33mcommit 73aceaa36a62264dfb5d46066da97e56da9c3b01[m
+Author: Bagas Ranggen <bagas@logique.co.id>
+Date:   Fri Jul 10 14:05:18 2020 +0700
+
+    add case study 5
+
+[33mcommit 5af3471e6849abccf4e0811130e675451c2cca7d[m
+Merge: 5bf0369 239bcb0
+Author: Bagas Ranggen <bagas@logique.co.id>
+Date:   Fri Jul 10 14:01:09 2020 +0700
+
+    Merge branch 'master' into develop
+
+[33mcommit 239bcb073313aaae9d8cb3e57074b388f1e89e56[m
+Merge: e61ad74 5bf0369
+Author: Bagas Ranggen <bagas@logique.co.id>
+Date:   Tue Jul 7 17:20:41 2020 +0700
+
+    Merge branch 'develop'
+    
+    update contents:
+    - footer > email address
+    - how to tab
+
+[33mcommit 5bf036936ac21bd686d611825d6b5635e450bb12[m
+Author: Bagas Ranggen <bagas@logique.co.id>
+Date:   Tue Jul 7 15:43:30 2020 +0700
+
+    edit how to use dokodemo content
+    edit sales email address
+
+[33mcommit 295ef2d90ef837ff2c1f3dace55b9edb86480856[m
+Merge: bb258da e61ad74
+Author: Bagas Ranggen <bagas@logique.co.id>
+Date:   Tue Jul 7 15:42:05 2020 +0700
+
+    Merge branch 'master' into develop
+
+[33mcommit e61ad7442dc92b04b49a2e17ad5f1d2ffeb8d721[m
+Merge: dab88a1 bb258da
+Author: Bagas Ranggen <bagas@logique.co.id>
+Date:   Mon Jul 6 17:35:17 2020 +0700
+
+    Merge branch 'develop'
+    
+    update:
+    - add image alt based from dm suggestion
+    - add instagram social link on footer
+
+[33mcommit bb258da72003003bdd5468feca138c16603feec9[m
+Author: Bagas Ranggen <bagas@logique.co.id>
+Date:   Mon Jul 6 17:33:31 2020 +0700
+
+    instagram link adjustment
+
+[33mcommit db1902aa386833f27163c9c2deb064ae254c62fb[m
+Author: Bagas Ranggen <bagas@logique.co.id>
+Date:   Mon Jul 6 17:17:28 2020 +0700
+
+    add img alt
+
+[33mcommit 0ccfd7ebbb9c57a4ed5477d14c7f3ffe10c6eb37[m
+Author: Bagas Ranggen <bagas@logique.co.id>
+Date:   Mon Jul 6 17:17:21 2020 +0700
+
+    add instagram footer
+
+[33mcommit d0b3b4d0693c9083642964d611c3efa35fc30055[m
+Merge: aab1838 dab88a1
+Author: Bagas Ranggen <bagas@logique.co.id>
+Date:   Mon Jul 6 17:16:21 2020 +0700
+
+    Merge branch 'master' into develop
+
+[33mcommit dab88a1d4402ecee727933d51dfe73a5c768d4d0[m
+Merge: e8a4e08 aab1838
+Author: Bagas Ranggen <bagas@logique.co.id>
+Date:   Thu Jul 2 16:59:41 2020 +0700
+
+    Merge branch 'develop'
+    
+    re-check multiple h1
+
+[33mcommit aab1838d832bd1f5d2950e0679caa74585f78609[m
+Author: Bagas Ranggen <bagas@logique.co.id>
+Date:   Thu Jul 2 16:58:49 2020 +0700
+
+    check duplicate h1
+
+[33mcommit 7abe3595286edfcf23a02a935dbd0ff7e319a88d[m
+Merge: ec76a0a e8a4e08
+Author: Bagas Ranggen <bagas@logique.co.id>
+Date:   Thu Jul 2 16:58:34 2020 +0700
+
+    Merge branch 'master' into develop
+
+[33mcommit e8a4e0823ca72af026d1d9ec035027784293bb06[m
+Merge: 81951d9 ec76a0a
+Author: Bagas Ranggen <bagas@logique.co.id>
+Date:   Thu Jul 2 16:35:45 2020 +0700
+
+    Merge branch 'develop'
+    
+    update:
+    - SEO implementation
+    - add compressed images
+
+[33mcommit ec76a0a3248bfecfd45de489319a98756b50fb78[m
+Author: Bagas Ranggen <bagas@logique.co.id>
+Date:   Thu Jul 2 16:33:15 2020 +0700
+
+    add compressed images
+
+[33mcommit 586d182f812d0fa3e211883e9380df94e9ca9cc3[m
+Author: Bagas Ranggen <bagas@logique.co.id>
+Date:   Tue Jun 30 17:43:48 2020 +0700
+
+    SEO implementation:
+    - updating metadata
+    - updating title
+
+[33mcommit 506f87aca54b6a63983f73f163ba299ec9f1c9cf[m
+Merge: 6033413 81951d9
+Author: Bagas Ranggen <bagas@logique.co.id>
+Date:   Tue Jun 30 17:03:20 2020 +0700
+
+    Merge branch 'master' into develop
+
+[33mcommit 81951d9836c387f6db60c7893e99269e4d2f93d3[m
+Merge: 73f2e56 6033413
+Author: Bagas Ranggen <bagas@logique.co.id>
+Date:   Mon Jun 29 16:42:33 2020 +0700
+
+    Merge branch 'develop'
+    
+    update:
+    - change url on header
+    - correcting several anchor tag that lead to 404
+
+[33mcommit 60334133fdd8f9f6a04f48d54b16f5ca58cf5ed3[m
+Author: Bagas Ranggen <bagas@logique.co.id>
+Date:   Mon Jun 29 16:33:10 2020 +0700
+
+    correcting link
+
+[33mcommit 80d206c8ef42c5ea4a230b7cad7033bee1601c65[m
+Author: Bagas Ranggen <bagas@logique.co.id>
+Date:   Mon Jun 29 13:10:57 2020 +0700
+
+    chane url
+
+[33mcommit 2dee5f1f6dcf470abbce8b2d181e3515a18ecda4[m
+Merge: 3dfa602 73f2e56
+Author: Bagas Ranggen <bagas@logique.co.id>
+Date:   Mon Jun 29 12:14:05 2020 +0700
+
+    Merge branch 'master' into develop
+
+[33mcommit 73f2e56201bad86fc67b9852ef92c8cd01543ce7[m
+Merge: 9b9e31f 3dfa602
+Author: Bagas Ranggen <bagas@logique.co.id>
+Date:   Wed Jun 24 15:45:23 2020 +0700
+
+    Merge branch 'develop'
+    
+    update: mobile app launch design
+
+[33mcommit 3dfa60273631dd15b3714db5635715f7f5b7e1fb[m
+Merge: ccd7822 d07a95b
+Author: Bagas Ranggen <bagas@logique.co.id>
+Date:   Wed Jun 24 15:44:58 2020 +0700
+
+    Merge branch 'dev-bagas' into develop
+    
+    update: mobile app launch design
+
+[33mcommit d07a95b964d4b76c555dc0cc29624b0b27042d74[m
+Author: Bagas Ranggen <bagas@logique.co.id>
+Date:   Wed Jun 24 14:56:30 2020 +0700
+
+    revision
+
+[33mcommit 6f08ad83cbc9f7dd3d91dd5d6f4ce65c3926e252[m
+Author: Bagas Ranggen <bagas@logique.co.id>
+Date:   Wed Jun 24 14:44:17 2020 +0700
+
+    revise wording
+
+[33mcommit 659cb0be0532fb2aeb15f61627ec1bb845e83410[m
+Author: Bagas Ranggen <bagas@logique.co.id>
+Date:   Wed Jun 24 14:06:48 2020 +0700
+
+    update layout
+
+[33mcommit 98b41137996ca36c10bf6ab297129c1f55b66bf1[m
+Author: Bagas Ranggen <bagas@logique.co.id>
+Date:   Fri Jun 19 15:18:49 2020 +0700
+
+    update content
+
+[33mcommit 21827020ac5c0189a3231e341f61b8c82d534fb6[m
+Author: Bagas Ranggen <bagas@logique.co.id>
+Date:   Fri Jun 19 15:09:16 2020 +0700
+
+    update content
+
+[33mcommit 8de571495c4d275fc0828cea7cf64977f6201f15[m
+Author: Bagas Ranggen <bagas@logique.co.id>
+Date:   Fri Jun 19 13:30:42 2020 +0700
+
+    app-launch design revision
+
+[33mcommit 50b7dd70f5d8524a59f63185741a14012e3cf07b[m
+Author: Bagas Ranggen <bagas@logique.co.id>
+Date:   Thu Jun 18 17:41:06 2020 +0700
+
+    app launch desogn
+
+[33mcommit 24c0afa8e69c87ed4f69426901ca4f892e453ed4[m
+Merge: 29429fb 9b9e31f
+Author: Bagas Ranggen <bagas@logique.co.id>
+Date:   Thu Jun 18 16:28:59 2020 +0700
+
+    Merge branch 'master' into dev-bagas
+
+[33mcommit 9b9e31f6851600cc867e54257952460f31e0f2df[m
+Merge: 066d520 ccd7822
+Author: Bagas Ranggen <bagas@logique.co.id>
+Date:   Thu Jun 18 11:57:56 2020 +0700
+
+    Merge branch 'develop'
+    
+    update: add dokodemo story-4
+
+[33mcommit ccd78224bad787dd3663c6e56664433cdde812a1[m
+Merge: cf0f3a8 29429fb
+Author: Bagas Ranggen <bagas@logique.co.id>
+Date:   Thu Jun 18 11:57:13 2020 +0700
+
+    Merge branch 'dev-bagas' into develop
+    
+    update: add dokodemo story-4
+
+[33mcommit 29429fb95ee6d9527c17b11453c69ace3aeaf7ff[m
+Author: Bagas Ranggen <bagas@logique.co.id>
+Date:   Thu Jun 18 11:19:12 2020 +0700
+
+    margin revision
+
+[33mcommit 795663e31a8f6e10f7d7fd465d885d0675fc09b6[m
+Author: Bagas Ranggen <bagas@logique.co.id>
+Date:   Thu Jun 18 10:57:16 2020 +0700
+
+    minor fixing
+
+[33mcommit 4010e3c765476f7de75fd63db92e7b892b0cedb2[m
+Author: Bagas Ranggen <bagas@logique.co.id>
+Date:   Thu Jun 18 10:35:33 2020 +0700
+
+    update dokodemo story 4 IND and JPN
+
+[33mcommit b60a87b2a846e15dfb0bf7e725530e65dd40b722[m
+Author: Bagas Ranggen <bagas@logique.co.id>
+Date:   Wed Jun 17 16:52:44 2020 +0700
+
+    update title
+
+[33mcommit 71a826a24d72ee8841103ade51bebe1dcfc47fcc[m
+Author: Bagas Ranggen <bagas@logique.co.id>
+Date:   Wed Jun 17 16:36:04 2020 +0700
+
+    update dokodemo story 4
+
+[33mcommit 8d68fd54d87129a903b41f9dc794675baa60240c[m
+Merge: 041059c 066d520
+Author: Bagas Ranggen <bagas@logique.co.id>
+Date:   Wed Jun 17 16:32:51 2020 +0700
+
+    Merge branch 'master' into dev-bagas
+
+[33mcommit 066d520da2a4c81daed2ca76e0eac0e4da548850[m
+Merge: 49fbbfc cf0f3a8
+Author: Bagas Ranggen <bagas@logique.co.id>
+Date:   Thu Jun 11 14:50:24 2020 +0700
+
+    Merge branch 'develop'
+    
+    update:
+    - Revert "add ec-concier script"
+    - update metadata
+
+[33mcommit cf0f3a8e91533a36f714c3845ef3f38ec17c55ed[m
+Merge: 27629ba 041059c
+Author: Bagas Ranggen <bagas@logique.co.id>
+Date:   Thu Jun 11 14:49:59 2020 +0700
+
+    Merge branch 'dev-bagas' into develop
+    
+    update:
+    - Revert "add ec-concier script"
+    - update metadata
+
+[33mcommit 041059cae10336fcb873283cfbffcacfd3c0072f[m
+Author: Bagas Ranggen <bagas@logique.co.id>
+Date:   Thu Jun 11 14:49:06 2020 +0700
+
+    update metadata
+
+[33mcommit ac1fff462b4a476f2ea428240e915888a4fe7476[m
+Author: Bagas Ranggen <bagas@logique.co.id>
+Date:   Thu Jun 11 10:10:53 2020 +0700
+
+    Revert "add ec-concier script"
+    
+    This reverts commit 2349768c28d1d5bd023933fb7edfc3d0bcd885a6.
+
+[33mcommit 0e1ae988524145f1e664351378824768c59a94ee[m
+Merge: 2349768 49fbbfc
+Author: Bagas Ranggen <bagas@logique.co.id>
+Date:   Thu Jun 11 10:10:33 2020 +0700
+
+    Merge branch 'master' into dev-bagas
+
+[33mcommit 49fbbfcc9a4325e9456a6457cf38ef0a1e6ae2a9[m
+Merge: 5004af9 27629ba
+Author: Bagas Ranggen <bagas@logique.co.id>
+Date:   Tue Jun 9 15:05:01 2020 +0700
+
+    Merge branch 'develop'
+    
+    update: add ec-concier script
+
+[33mcommit 27629ba3777cba5fe237f25b2a1fdff667ddf256[m
+Merge: ac91190 2349768
+Author: Bagas Ranggen <bagas@logique.co.id>
+Date:   Tue Jun 9 15:04:30 2020 +0700
+
+    Merge branch 'dev-bagas' into develop
+    
+    add ec-concier script
+
+[33mcommit 2349768c28d1d5bd023933fb7edfc3d0bcd885a6[m
+Author: Bagas Ranggen <bagas@logique.co.id>
+Date:   Tue Jun 9 10:42:43 2020 +0700
+
+    add ec-concier script
+
+[33mcommit 79e5646aef41e4f6a01af7182ee0fa413583772d[m
+Merge: 15271cb 5004af9
+Author: Bagas Ranggen <bagas@logique.co.id>
+Date:   Tue Jun 9 10:42:02 2020 +0700
+
+    Merge branch 'master' into dev-bagas
+
+[33mcommit 5004af904cd9f5e581b9532bd76e55dd77bb82d0[m
+Merge: f5e169e ac91190
+Author: Bagas Ranggen <bagas@logique.co.id>
+Date:   Fri Jun 5 14:12:07 2020 +0700
+
+    Merge branch 'develop'
+    
+    update:
+    - jpn price page
+    - faq revise en - id
+    - styling adjustment
+
+[33mcommit ac911909fa30c2f70d1c1f29a732e80495e76c8e[m
+Merge: 5e0efe0 15271cb
+Author: Bagas Ranggen <bagas@logique.co.id>
+Date:   Fri Jun 5 14:11:40 2020 +0700
+
+    Merge branch 'dev-bagas' into develop
+    
+    update:
+    - jpn price page
+    - faq revise en - id
+    - styling adjustment
+
+[33mcommit 15271cbc79b839ad3a3cc736c0dda05e21bad63d[m
+Author: Bagas Ranggen <bagas@logique.co.id>
+Date:   Fri Jun 5 13:56:51 2020 +0700
+
+    update styling
+
+[33mcommit f7f394b90ef5c19ba3d0cc364808e9e79bbe774c[m
+Author: Bagas Ranggen <bagas@logique.co.id>
+Date:   Fri Jun 5 11:57:45 2020 +0700
+
+    update:
+    - responsive adjustment
+    - phone number break
+    - missing words on jp
+
+[33mcommit e6cfd8c481dc06dddcf3afcd9477e9cddc54caa8[m
+Author: Bagas Ranggen <bagas@logique.co.id>
+Date:   Fri Jun 5 10:35:22 2020 +0700
+
+    adjust anchor tag
+
+[33mcommit 25502731a74f4e7026ae9d0a8f01343f1e3f7045[m
+Author: Bagas Ranggen <bagas@logique.co.id>
+Date:   Fri Jun 5 10:19:44 2020 +0700
+
+    add anchor tag
+
+[33mcommit c9bedb1d0b19bbd9a341e512d38823682fd5a259[m
+Author: Bagas Ranggen <bagas@logique.co.id>
+Date:   Fri Jun 5 09:57:39 2020 +0700
+
+    revise faq on ID and EN
+
+[33mcommit 6a1c3f7e7b2172b091e9fa20b0815ad0c423ae7c[m
+Author: Bagas Ranggen <bagas@logique.co.id>
+Date:   Thu Jun 4 17:29:28 2020 +0700
+
+    add jp price page
+
+[33mcommit 333335479c92a15041a0947501aa43a09d498019[m
+Merge: 5e0efe0 f5e169e
+Author: Bagas Ranggen <bagas@logique.co.id>
+Date:   Thu Jun 4 10:19:47 2020 +0700
+
+    Merge branch 'master' into dev-bagas
+
+[33mcommit f5e169e4d696a1b64ae4d0b686518d3f937abc31[m
+Merge: 633f7e7 5e0efe0
+Author: Bagas Ranggen <bagas@logique.co.id>
+Date:   Thu Jun 4 09:37:32 2020 +0700
+
+    Merge branch 'develop'
+    
+    fixing typo
+
+[33mcommit 5e0efe0494e46eaa60fa13e79563940ad4182a40[m
+Merge: d237d83 633f7e7
+Author: Bagas Ranggen <bagas@logique.co.id>
+Date:   Thu Jun 4 09:36:53 2020 +0700
+
+    Merge branch 'master' into develop
+
+[33mcommit d237d8394db2664c8fb17fa1783bb86c7755abfd[m
+Author: Bagas Ranggen <bagas@logique.co.id>
+Date:   Thu Jun 4 09:36:34 2020 +0700
+
+    typo
+
+[33mcommit 633f7e7697472cb88089b49b52d785dfebe7e251[m
+Merge: edff343 d69f0bd
+Author: Bagas Ranggen <bagas@logique.co.id>
+Date:   Thu Jun 4 09:02:32 2020 +0700
+
+    Merge branch 'develop'
+    
+    update:
+    - shorten navigation bar
+    - update page url name
+
+[33mcommit d69f0bdedb1d0851dcf6c879ba626dcfbafc6a7c[m
+Author: Bagas Ranggen <bagas@logique.co.id>
+Date:   Thu Jun 4 08:52:31 2020 +0700
+
+    update page url name
+
+[33mcommit 04ba8d487938a788404e1e18dc139bfb4e1f1963[m
+Author: Bagas Ranggen <bagas@logique.co.id>
+Date:   Fri May 29 11:38:39 2020 +0700
+
+    shorten navigation bar
+
+[33mcommit ee78c039eac95814b345f18ff45d42d0520ee11c[m
+Merge: 6d00418 edff343
+Author: Bagas Ranggen <bagas@logique.co.id>
+Date:   Fri May 29 11:38:20 2020 +0700
+
+    Merge remote-tracking branch 'origin/master' into develop
+
+[33mcommit edff3438320ea1f72dc0331f51238afb824296ec[m
+Merge: 241434c 6d00418
+Author: Bagas Ranggen <bagas@logique.co.id>
+Date:   Thu May 28 11:39:25 2020 +0700
+
+    Merge remote-tracking branch 'origin/develop'
+    
+    update:
+    - footer copyright year autoupdate
+    - re-layouting faq section
+
+[33mcommit 6d00418c4252e2823ba8b8d393c44a3a688126a8[m
+Author: Bagas Ranggen <bagas@logique.co.id>
+Date:   Thu May 28 11:22:56 2020 +0700
+
+    update styling for faq section
+
+[33mcommit 0e636adb0a162d17631052b839d64d1930c24d1d[m
+Author: Bagas Ranggen <bagas@logique.co.id>
+Date:   Thu May 28 10:53:40 2020 +0700
+
+    re-layouting faq section
+
+[33mcommit 3a75bcdbeb4627d8e22055f76b328a54c04c9f97[m
+Author: Bagas Ranggen <bagas@logique.co.id>
+Date:   Thu May 28 08:35:31 2020 +0700
+
+    footer copyright year autoupdate
+
+[33mcommit d33a7a6d2208209ff14e841b34ac4163369d367a[m
+Merge: d384cc2 241434c
+Author: Bagas Ranggen <bagas@logique.co.id>
+Date:   Thu May 28 08:26:41 2020 +0700
+
+    Merge remote-tracking branch 'origin/master' into develop
+
+[33mcommit 241434c8c08fefe0c0a6cf892bb4aa4f6347ad36[m
+Merge: 95d4766 d384cc2
+Author: Bagas Ranggen <bagas@logique.co.id>
+Date:   Wed May 27 15:59:49 2020 +0700
+
+    Merge remote-tracking branch 'origin/develop'
+    
+    update: update sitemap from Kris
+
+[33mcommit d384cc21fbaccb082db9cbedd831d0a3a3750d7f[m
+Author: Bagas Ranggen <bagas@logique.co.id>
+Date:   Wed May 27 15:59:07 2020 +0700
+
+    update sitemap from Kris
+
+[33mcommit a353533adcaf704b577f51994d92e0ab1d2a0d45[m
+Merge: a18e4fb 95d4766
+Author: Bagas Ranggen <bagas@logique.co.id>
+Date:   Wed May 27 15:53:17 2020 +0700
+
+    Merge remote-tracking branch 'origin/master' into develop
+
+[33mcommit 95d47663514bfe18203677db40e232d673178ce9[m
+Merge: e65cea8 a18e4fb
+Author: Bagas Ranggen <bagas@logique.co.id>
+Date:   Tue May 26 15:25:49 2020 +0700
+
+    Merge remote-tracking branch 'origin/develop'
+    
+    update: add message field on online meeting popup
+
+[33mcommit a18e4fbf625eb8b4ea3a193c3ccfc11eece322c8[m
+Author: Bagas Ranggen <bagas@logique.co.id>
+Date:   Tue May 26 09:56:43 2020 +0700
+
+    add message field on online meeting popup
+
+[33mcommit 3162be3642e31f610b45d7283a9048441ae393b2[m
+Merge: 00ddd1a e65cea8
+Author: Bagas Ranggen <bagas@logique.co.id>
+Date:   Wed May 20 16:36:19 2020 +0700
+
+    Merge remote-tracking branch 'origin/master' into develop
+
+[33mcommit e65cea8a6e96aede87809d376ff9733722fcd3fc[m
+Merge: 640e006 00ddd1a
+Author: Bagas Ranggen <bagas@logique.co.id>
+Date:   Wed May 20 15:17:23 2020 +0700
+
+    Merge remote-tracking branch 'origin/develop'
+    
+    update sitemap
+
+[33mcommit 00ddd1a2900ff12a14e7c56b936692323a8b2fed[m
+Author: Bagas Ranggen <bagas@logique.co.id>
+Date:   Wed May 20 15:09:03 2020 +0700
+
+    update sitemap
+
+[33mcommit b36b1309127c50b48813634e0f61ec505b81ecda[m
+Merge: 4e764ce 640e006
+Author: Bagas Ranggen <bagas@logique.co.id>
+Date:   Wed May 20 15:08:19 2020 +0700
+
+    Merge branch 'master' into develop
+
+[33mcommit 640e006a82b7c512fb85e02fda7f49bd84f7db7f[m
+Merge: 0a229c7 4e764ce
+Author: Bagas Ranggen <bagas@logique.co.id>
+Date:   Fri May 15 09:41:17 2020 +0700
+
+    Merge remote-tracking branch 'origin/develop'
+    
+    update:
+    - omit php extension when changing language
+    - remove bold and underline
+    - update meta
+
+[33mcommit 4e764ceff4d9ea9a0f74af84d2af67abc26394f2[m
+Author: Bagas Ranggen <bagas@logique.co.id>
+Date:   Fri May 15 09:15:00 2020 +0700
+
+    omit php extension when changing language
+
+[33mcommit 39e3557c182ead826ddd1ff8d60cb5082f5c221e[m
+Author: Bagas Ranggen <bagas@logique.co.id>
+Date:   Fri May 15 09:14:33 2020 +0700
+
+    remove bold and underline
+
+[33mcommit 1d1bf52925a219492d706a7015006f012678adf3[m
+Author: Bagas Ranggen <bagas@logique.co.id>
+Date:   Fri May 15 09:14:15 2020 +0700
+
+    update meta
+
+[33mcommit 9afd3709fa89372f727b3a0983c83f172e34019b[m
+Merge: e2c6f99 0a229c7
+Author: Bagas Ranggen <bagas@logique.co.id>
+Date:   Fri May 15 08:33:18 2020 +0700
+
+    Merge branch 'master' into develop
+
+[33mcommit 0a229c7887b786aa677772b30b3ae60501fb9b14[m
+Merge: 9864833 e2c6f99
+Author: Bagas Ranggen <bagas@logique.co.id>
+Date:   Thu May 14 14:09:13 2020 +0700
+
+    Merge remote-tracking branch 'origin/develop'
+    
+    update: fixing title order & typo
+
+[33mcommit e2c6f99e84f30060a8f918ea970912a5ee453a93[m
+Merge: 84802c4 9864833
+Author: Bagas Ranggen <bagas@logique.co.id>
+Date:   Thu May 14 13:54:53 2020 +0700
+
+    Merge branch 'master' into develop
+
+[33mcommit 84802c41fb75ba47f442e946305aa855cd26087b[m
+Author: Bagas Ranggen <bagas@logique.co.id>
+Date:   Thu May 14 13:54:37 2020 +0700
+
+    typo
+
+[33mcommit 57e797938fcdddc7b98db303696fe600e2e1b7d9[m
+Author: Bagas Ranggen <bagas@logique.co.id>
+Date:   Thu May 14 13:51:28 2020 +0700
+
+    fixing title order
+
+[33mcommit 986483373bd9322645963bbb77319fc85da5ed18[m
+Merge: 7108f51 4d50726
+Author: Bagas Ranggen <bagas@logique.co.id>
+Date:   Thu May 14 13:39:06 2020 +0700
+
+    Merge remote-tracking branch 'origin/develop'
+    
+    update: fixing company name
+
+[33mcommit 4d507269f738e871e2af674f62e1c6814cdadcb8[m
+Merge: 17bea37 7108f51
+Author: Bagas Ranggen <bagas@logique.co.id>
+Date:   Thu May 14 13:38:24 2020 +0700
+
+    Merge branch 'master' into develop
+
+[33mcommit 17bea37b156c6cce21dc4c3fb040ba9b6e60148b[m
+Author: Bagas Ranggen <bagas@logique.co.id>
+Date:   Thu May 14 13:37:48 2020 +0700
+
+    fixing company name
+
+[33mcommit 7108f510b985779a0dc2e919c11d3c095a9a40dd[m
+Merge: 3ad6ab1 b3d33f0
+Author: Bagas Ranggen <bagas@logique.co.id>
+Date:   Thu May 14 11:23:39 2020 +0700
+
+    Merge remote-tracking branch 'origin/develop'
+    
+    update:
+    - jp page meta data
+    - content & layout adjustment
+    - update php conditional to make the active link is correct
+
+[33mcommit b3d33f02625dd8587f49807c1ecb0a8e4a3c305f[m
+Author: Bagas Ranggen <bagas@logique.co.id>
+Date:   Thu May 14 11:12:03 2020 +0700
+
+    update meta title
+
+[33mcommit a071039cafe9a4e98e0c27eee3e3b6832a7a75f5[m
+Author: Bagas Ranggen <bagas@logique.co.id>
+Date:   Thu May 14 11:10:54 2020 +0700
+
+    update work break
+
+[33mcommit 5c3a78d48ed76bf116f749d880934db118c94d45[m
+Author: Bagas Ranggen <bagas@logique.co.id>
+Date:   Thu May 14 10:30:38 2020 +0700
+
+    fixing anchor tag
+
+[33mcommit 85cb533daffe5b8835f40fa9a0ec349f8132c7f1[m
+Author: Bagas Ranggen <bagas@logique.co.id>
+Date:   Thu May 14 10:24:03 2020 +0700
+
+    content & layout adjustment
+
+[33mcommit 205d9ba5f7180bc6864105bcd1fb5e9ad6398ae4[m
+Author: Bagas Ranggen <bagas@logique.co.id>
+Date:   Thu May 14 10:23:41 2020 +0700
+
+    update php conditional to make the active link is correct
+
+[33mcommit 537987e6b6777d770b9cd4ebadaf023af64af4be[m
+Merge: d1019dc 3ad6ab1
+Author: Bagas Ranggen <bagas@logique.co.id>
+Date:   Thu May 14 10:22:03 2020 +0700
+
+    Merge branch 'master' into develop
+
+[33mcommit 3ad6ab1b952418ed2fc04106891c180ed0d35270[m
+Merge: 7f8822e d1019dc
+Author: Bagas Ranggen <bagas@logique.co.id>
+Date:   Wed May 13 16:13:01 2020 +0700
+
+    Merge remote-tracking branch 'origin/develop'
+    
+    update: fixing anchor tag
+
+[33mcommit d1019dcf604807324161bd8932850c12742728ae[m
+Author: Bagas Ranggen <bagas@logique.co.id>
+Date:   Wed May 13 16:11:49 2020 +0700
+
+    fixing anchor tag
+
+[33mcommit 869e785f9a202e03ec7f4f1d2ad709748a9ed1af[m
+Merge: ba73edd 7f8822e
+Author: Bagas Ranggen <bagas@logique.co.id>
+Date:   Wed May 13 16:09:45 2020 +0700
+
+    Merge branch 'master' into develop
+
+[33mcommit 7f8822e8b863deab5c06d01b28d431fa76007693[m
+Merge: cd2d9f3 ba73edd
+Author: Bagas Ranggen <bagas@logique.co.id>
+Date:   Wed May 13 16:09:19 2020 +0700
+
+    Merge remote-tracking branch 'origin/develop'
+    
+    update:
+    - update case-study JP page
+    - fixing typo
+
+[33mcommit ba73eddadd1e9c086c36ce90deb5fa16211fefde[m
+Author: Bagas Ranggen <bagas@logique.co.id>
+Date:   Wed May 13 16:07:50 2020 +0700
+
+    update case-study JP page
+
+[33mcommit 061104323138d8c5a95cfd6dd47f6c0bb618eac1[m
+Author: Bagas Ranggen <bagas@logique.co.id>
+Date:   Wed May 13 16:06:13 2020 +0700
+
+    fixing typo
+
+[33mcommit b2515886d280d98c9462ec121d537a18684364a3[m
+Merge: dd3ffba cd2d9f3
+Author: Bagas Ranggen <bagas@logique.co.id>
+Date:   Wed May 13 15:04:35 2020 +0700
+
+    Merge branch 'master' into develop
+
+[33mcommit cd2d9f36d372e6aeaefb3fcd0df8e46acb8ea9e1[m
+Merge: 76bb5dd dd3ffba
+Author: Bagas Ranggen <bagas@logique.co.id>
+Date:   Wed May 13 15:02:33 2020 +0700
+
+    Merge remote-tracking branch 'origin/develop'
+    
+    update:
+    - change JP to JPN
+    - update image
+
+[33mcommit dd3ffba62175663e53d81955e64cfb42a94e879f[m
+Author: Bagas Ranggen <bagas@logique.co.id>
+Date:   Wed May 13 14:24:29 2020 +0700
+
+    change JP to JPN
+
+[33mcommit 2b9358ad6dcd74061d7c89bbc627601cbad226a5[m
+Author: Bagas Ranggen <bagas@logique.co.id>
+Date:   Wed May 13 14:23:26 2020 +0700
+
+    update fe:
+    - update image
+
+[33mcommit 8ad1aa0e50ba22d3d715b2d4d0c33848b79d1e18[m
+Merge: 6cb9d23 76bb5dd
+Author: Bagas Ranggen <bagas@logique.co.id>
+Date:   Wed May 13 14:21:40 2020 +0700
+
+    Merge remote-tracking branch 'origin/master' into develop
+
+[33mcommit 76bb5dde84456b2205b62cc15fbb9c4cae962798[m
+Merge: c3fdd67 6cb9d23
+Author: Bagas Ranggen <bagas@logique.co.id>
+Date:   Tue May 12 16:22:41 2020 +0700
+
+    Merge remote-tracking branch 'origin/develop'
+    
+    update: new case study section for EN and ID page
+
+[33mcommit 6cb9d2336efbae7aac5eb5e26b18f5f190dc0fbe[m
+Author: Bagas Ranggen <bagas@logique.co.id>
+Date:   Tue May 12 16:12:57 2020 +0700
+
+    change used image
+
+[33mcommit cb695f70925238579ed38413f32f69e312e1703a[m
+Author: Bagas Ranggen <bagas@logique.co.id>
+Date:   Tue May 12 16:01:08 2020 +0700
+
+    update content
+
+[33mcommit 0a5a0ca6d5f6578abec02df82fbd3405970a4685[m
+Author: Bagas Ranggen <bagas@logique.co.id>
+Date:   Tue May 12 16:00:59 2020 +0700
+
+    add new assets
+
+[33mcommit 0fab73f195288f25ed7b7497ae469ecc1adbc6ed[m
+Author: Bagas Ranggen <bagas@logique.co.id>
+Date:   Tue May 12 13:23:07 2020 +0700
+
+    edit anchor tag
+
+[33mcommit 7c8708ca534002b8ce6e48e10b1a30c2ec6d1ea6[m
+Author: Bagas Ranggen <bagas@logique.co.id>
+Date:   Tue May 12 13:11:40 2020 +0700
+
+    update IND content for new section and pages
+
+[33mcommit 9f413f00991992c9ddd7d53a681a1cb4aa802f28[m
+Author: Bagas Ranggen <bagas@logique.co.id>
+Date:   Tue May 12 13:11:01 2020 +0700
+
+    fix typo
+
+[33mcommit f762ba637b67b97df6e617ffd46973e9ce91a4b9[m
+Author: Bagas Ranggen <bagas@logique.co.id>
+Date:   Tue May 12 13:10:49 2020 +0700
+
+    update meta and current page
+
+[33mcommit 5d3df1f372f4ede8725e4e100397a98d25d5abfd[m
+Author: Bagas Ranggen <bagas@logique.co.id>
+Date:   Mon May 11 17:22:29 2020 +0700
+
+    correcting font awesome url link
+
+[33mcommit 1740846cc5e90137436c0366307f8432fefa78ef[m
+Author: Bagas Ranggen <bagas@logique.co.id>
+Date:   Mon May 11 17:22:24 2020 +0700
+
+    add margin on case-study card
+
+[33mcommit a2e896b0d7edf4cd55732d897ce371dabdeffccf[m
+Author: Bagas Ranggen <bagas@logique.co.id>
+Date:   Mon May 11 17:21:33 2020 +0700
+
+    add margin on case-study card
+
+[33mcommit 0fb4923a0e0ad05fb66368de2465ca9e6deba203[m
+Author: Bagas Ranggen <bagas@logique.co.id>
+Date:   Mon May 11 16:54:50 2020 +0700
+
+    favicon location
+
+[33mcommit fe10a34621e663619c9f16831825c32121b494f5[m
+Author: Bagas Ranggen <bagas@logique.co.id>
+Date:   Mon May 11 16:52:38 2020 +0700
+
+    update fe: update anchor tag
+
+[33mcommit fde70c977f50d8d7cfe544930eeed975c0c679d2[m
+Author: Bagas Ranggen <bagas@logique.co.id>
+Date:   Mon May 11 16:48:02 2020 +0700
+
+    update fe: correcting anchor tag
+
+[33mcommit 1ba6c5a84dbd8388c1f16eb4d867399055e7a3a1[m
+Author: Bagas Ranggen <bagas@logique.co.id>
+Date:   Mon May 11 16:43:58 2020 +0700
+
+    update fe:
+    - finishing input new content on EN page
+
+[33mcommit 551283e468f99314ae4a260066a9af119977e095[m
+Author: Bagas Ranggen <bagas@logique.co.id>
+Date:   Mon May 11 16:42:09 2020 +0700
+
+    update fe:
+    - update .htacess
+    - update anchor tag on header and footer
+    - update php conditional on EN page
+
+[33mcommit 0a6625b51344350fe94ba77ef96c80ad8442f7f8[m
+Author: Bagas Ranggen <bagas@logique.co.id>
+Date:   Mon May 11 13:29:44 2020 +0700
+
+    update fe:
+    - add case-study section on EN homepage
+    - add new page for case-study and contents
+
+[33mcommit a639518ee4e5dbbfdc403af31f8407e8802f9873[m
+Merge: ea5086e c3fdd67
+Author: Bagas Ranggen <bagas@logique.co.id>
+Date:   Mon May 11 12:15:57 2020 +0700
+
+    Merge branch 'master' into develop
+
+[33mcommit c3fdd67049655682a451c2d23910c318731595ff[m
+Merge: 344171f ea5086e
+Author: Bagas Ranggen <bagas@logique.co.id>
+Date:   Mon May 11 09:08:18 2020 +0700
+
+    Merge remote-tracking branch 'origin/develop'
+    
+    update:
+    - add background color on top section
+    - compress images
+
+[33mcommit ea5086ebc13eee618a961b75f7b84a2e7c9324ea[m
+Author: Bagas Ranggen <bagas@logique.co.id>
+Date:   Mon May 11 09:03:52 2020 +0700
+
+    update fe: compress image
+
+[33mcommit 54945e18422236928bee13d5461962241f57b636[m
+Author: Bagas Ranggen <bagas@logique.co.id>
+Date:   Mon May 11 09:02:32 2020 +0700
+
+    update fe:
+    - add background color on top section
+
+[33mcommit d763f2221ca46eb7ab182834e6e46fba57375c2a[m
+Merge: 3f9e21b 344171f
+Author: Bagas Ranggen <bagas@logique.co.id>
+Date:   Mon May 11 08:59:42 2020 +0700
+
+    Merge branch 'master' into develop
+
+[33mcommit 344171f76e992a52f899a74ed7e5b9b75efabfe5[m
+Merge: c616397 3f9e21b
+Author: Bagas Ranggen <bagas@logique.co.id>
+Date:   Thu Apr 30 16:59:55 2020 +0700
+
+    Merge branch 'develop'
+    
+    update:
+    - update metadata
+    - add sitemap
+
+[33mcommit 3f9e21b5c851f8a080142fa09669fb573d08ecd6[m
+Author: Bagas Ranggen <bagas@logique.co.id>
+Date:   Thu Apr 30 16:57:10 2020 +0700
+
+    add sitemap
+
+[33mcommit 5e349d53198085faab2bfe82bbed89cb5b462231[m
+Author: Bagas Ranggen <bagas@logique.co.id>
+Date:   Thu Apr 30 16:56:54 2020 +0700
+
+    update metadata
+
+[33mcommit c616397b8cf05bc1b5f2814bd8d542869f4c1ff5[m
+Author: Bagas Ranggen <bagas@logique.co.id>
+Date:   Fri Apr 24 16:24:59 2020 +0700
+
+    update fe: change meta
+
+[33mcommit 938cf7f82e26c0a970583ba330719e4db532f7c4[m
+Author: Bagas Ranggen <bagas@logique.co.id>
+Date:   Fri Apr 24 16:24:37 2020 +0700
+
+    update fe: change anchor tag
+
+[33mcommit bd327d9fec0c10b7846f8c29488daf54923e9c6e[m
+Author: Bagas Ranggen <bagas@logique.co.id>
+Date:   Fri Apr 24 14:40:31 2020 +0700
+
+    change JPY to JP
+
+[33mcommit c1aea4cd26597008b4ffd1352ff027fa13bed441[m
+Author: Bagas Ranggen <bagas@logique.co.id>
+Date:   Fri Apr 24 14:27:31 2020 +0700
+
+    update fe:
+    - change url from jpy to jp
+    - update content
+    - adjust button size
+
+[33mcommit 00c83784f247e909348d1f46d7a71dfc33b48624[m
+Author: Bagas Ranggen <bagas@logique.co.id>
+Date:   Fri Apr 24 11:56:12 2020 +0700
+
+    update fe: footer jp page
+
+[33mcommit 2718146286cceacd3cdd0f99668cf539fead49ea[m
+Merge: 4045084 9419318
+Author: Bagas Ranggen <bagas@logique.co.id>
+Date:   Fri Apr 24 11:53:17 2020 +0700
+
+    Merge remote-tracking branch 'origin/master' into develop
+
+[33mcommit 9419318171a72ddb22ce83cb2d5d7280b7d312d7[m
+Author: Bagas Ranggen <bagas@logique.co.id>
+Date:   Fri Apr 24 09:53:57 2020 +0700
+
+    update fe: remove doubled testimonial
+
+[33mcommit 4045084287c35fac6e321d6b16b4f5594725f392[m
+Author: Bagas Ranggen <bagas@logique.co.id>
+Date:   Fri Apr 24 09:54:30 2020 +0700
+
+    update fe: add jp homepage
+
+[33mcommit 0b1c646fc00a187810a481b550b4c2d291e1359d[m
+Author: Bagas Ranggen <bagas@logique.co.id>
+Date:   Fri Apr 24 09:53:57 2020 +0700
+
+    update fe: remove doubled testimonial
+
+[33mcommit cccffdcc9afe0cbaf0c0b4caeee2ecc62f8f9452[m
+Author: Bagas Ranggen <bagas@logique.co.id>
+Date:   Fri Apr 24 09:53:15 2020 +0700
+
+    update fe: add back to homepage button on 404 page
+
+[33mcommit 1c7352d8e8b3c0b36d4603a68cf3d43a8b6aed93[m
+Author: Bagas Ranggen <bagas@logique.co.id>
+Date:   Fri Apr 24 09:49:25 2020 +0700
+
+    update fe: make the used 404 page based on the current language directory
+
+[33mcommit 29477f78251c9d2eec9380c794a587628a056092[m
+Author: Bagas Ranggen <bagas@logique.co.id>
+Date:   Wed Apr 22 15:19:26 2020 +0700
+
+    update fe: adding "/" to every assets
+
+[33mcommit 7a6281b686cf2de1f25a5119b67a07331867c3ea[m
+Author: Bagas Ranggen <bagas@logique.co.id>
+Date:   Tue Apr 21 17:02:07 2020 +0700
+
+    update fe: update content
+
+[33mcommit 719982acdf0057bddd437c67b1ede7834781a485[m
+Author: Bagas Ranggen <bagas@logique.co.id>
+Date:   Tue Apr 21 14:02:45 2020 +0700
+
+    update fe:
+    - add new steps to add task and team
+    - change several assets
+    - add new assets
+
+[33mcommit 266467b9ba152431c52ba5297c38fcdbd102a66c[m
+Author: Bagas Ranggen <bagas@logique.co.id>
+Date:   Mon Apr 20 11:14:00 2020 +0700
+
+    update fe:
+    - change Logique to LOGIQUE
+    - change download links to version 2.0
+    - update content
+
+[33mcommit eb04bc151edf84e3583c545c56113fadfabee201[m
+Author: Bagas Ranggen <bagas@logique.co.id>
+Date:   Thu Apr 16 17:59:04 2020 +0700
+
+    update fe: replace assets
+
+[33mcommit eb1d40bf5710ee8ad404e8788717fde9bfb4cea2[m
+Author: Bagas Ranggen <bagas@logique.co.id>
+Date:   Thu Apr 16 14:05:50 2020 +0700
+
+    update fe: mobile responsive
+
+[33mcommit 244c9f3c19418b68265baab3d0356fc0fe2e087f[m
+Author: Bagas Ranggen <bagas@logique.co.id>
+Date:   Thu Apr 16 13:47:54 2020 +0700
+
+    update fe: adjusting image position
+
+[33mcommit 9c63f8702da358355917825ceabbc158ec4deff3[m
+Author: Bagas Ranggen <bagas@logique.co.id>
+Date:   Thu Apr 16 13:28:12 2020 +0700
+
+    update fe:
+    - adjust image position
+    - change image assets
+
+[33mcommit 17338b491662544e62008ccacf9dfccad6f6ebbd[m
+Author: Bagas Ranggen <bagas@logique.co.id>
+Date:   Thu Apr 16 10:21:21 2020 +0700
+
+    update fe: compress image
+
+[33mcommit 573283458a588e32bf12bd03fc917c571d142486[m
+Author: Bagas Ranggen <bagas@logique.co.id>
+Date:   Thu Apr 16 10:08:27 2020 +0700
+
+    update fe: compress image
+
+[33mcommit 3ba3417323052ee0f93aab7a2904a2bafb3d15c0[m
+Author: Bagas Ranggen <bagas@logique.co.id>
+Date:   Thu Apr 16 09:53:50 2020 +0700
+
+    update fe:
+    - add some new image assets
+    - adjusting image size
+
+[33mcommit fa4356e43a9a8486323e92545c8bd6aa790427f0[m
+Author: Bagas Ranggen <bagas@logique.co.id>
+Date:   Wed Apr 15 09:21:22 2020 +0700
+
+    update fe:
+    - change favicon with new logo
+    - change phone number
+    - fix pages that able to scroll horizontally
+
+[33mcommit 87878345e52471160d1bb333e20875f61124aafd[m
+Merge: 2a5e1cc 422a133
+Author: Bagas Ranggen <bagas@logique.co.id>
+Date:   Tue Apr 14 17:02:10 2020 +0700
+
+    Merge remote-tracking branch 'origin/develop' into develop
+
+[33mcommit 2a5e1ccda0366a5847f9b3a37776d352f07e43e1[m
+Author: Bagas Ranggen <bagas@logique.co.id>
+Date:   Tue Apr 14 17:00:49 2020 +0700
+
+    update fe:
+    - new design trial page
+    - add new steps assets
+    - make backup for the old assets
+    - change contact us telephone number
+
+[33mcommit 422a1333c04db1b8d3853dfe2a407eb8a08373f1[m
+Author: Bagas Ranggen <bagas@logique.co.id>
+Date:   Tue Apr 14 17:00:49 2020 +0700
+
+    update fe:
+    - new design trial page
+    - add new steps assets
+    - make backup for the old assets
+
+[33mcommit 77f842d024c50c407b2fda0b78e94c1e69baec96[m
+Merge: 335e11d 370a081
+Author: Bagas Ranggen <bagas@logique.co.id>
+Date:   Mon Apr 13 19:21:01 2020 +0700
+
+    Merge remote-tracking branch 'origin/develop'
+
+[33mcommit 370a08130d1d01f7c10d31da0e145923369fa5d8[m
+Author: Bagas Ranggen <bagas@logique.co.id>
+Date:   Mon Apr 13 19:17:08 2020 +0700
+
+    update fe: update url
+
+[33mcommit 23e8222939dbf5c7b84a10fc66234ca1b5d8740d[m
+Merge: 026a23d 74b8365
+Author: Bagas Ranggen <bagas@logique.co.id>
+Date:   Mon Apr 13 19:08:55 2020 +0700
+
+    Merge remote-tracking branch 'origin/develop' into develop
+
+[33mcommit 026a23d698e5ea1274df8780d8b01814b9429920[m
+Author: Bagas Ranggen <bagas@logique.co.id>
+Date:   Mon Apr 13 19:08:03 2020 +0700
+
+    update fe:
+    - change manual with the latest version
+    - change features image
+    - change footer logo
+
+[33mcommit 74b8365396babc5e93b25e8c45c7b946098c8741[m
+Author: Bagas Ranggen <bagas@logique.co.id>
+Date:   Mon Apr 13 18:42:53 2020 +0700
+
+    update fe:
+    - change manual with the latest version
+    - change features image
+    - change footer logo
+
+[33mcommit 853e8e77a9995115cb36a5ef19a8e9f002c034c5[m
+Author: Bagas Ranggen <bagas@logique.co.id>
+Date:   Mon Apr 13 17:12:51 2020 +0700
+
+    update fe: compress main bg
+
+[33mcommit 8bbf75757c7881a1854c1205a324f3d827babba6[m
+Author: Bagas Ranggen <bagas@logique.co.id>
+Date:   Mon Apr 13 17:07:31 2020 +0700
+
+    update fe: home new design
+
+[33mcommit d3de4191f882e2aed96b360167ed1b1d9d62fba1[m
+Author: Bagas Ranggen <bagas@logique.co.id>
+Date:   Mon Apr 6 16:10:38 2020 +0700
+
+    update fe:
+    - update dokodemo logo
+    - update home & about content
+
+[33mcommit 69ede8091c4ed064889be3c670e957e21f995517[m
+Author: Bagas Ranggen <bagas@logique.co.id>
+Date:   Wed Apr 1 18:01:29 2020 +0700
+
+    update updated content and video
+
+[33mcommit ad743e19fdf1a4af0cca47de4ce528bb71eb9bc0[m
+Author: Bagas Ranggen <bagas@logique.co.id>
+Date:   Wed Apr 1 11:00:12 2020 +0700
+
+    update fe:
+    - update content home
+
+[33mcommit 5db561f9c3b441adfcc3e1812ad99402ffd7ab9a[m
+Author: Bagas Ranggen <bagas@logique.co.id>
+Date:   Tue Mar 31 14:19:16 2020 +0700
+
+    update fe:
+    - about us page
+    - add bg to section divider
+
+[33mcommit ad66ea56d9671253b1d9200f56fd30ee0b72c2ee[m
+Author: Bagas Ranggen <bagas@logique.co.id>
+Date:   Thu Mar 26 15:45:19 2020 +0700
+
+    update content > about
+
+[33mcommit ea62e4498d3e9d37bbc442f854275215a2382b37[m
+Author: Bagas Ranggen <bagas@logique.co.id>
+Date:   Tue Mar 24 16:57:24 2020 +0700
+
+    update content:
+    - about
+    - feature
+    - faq
+
+[33mcommit 335e11d6d92aa5a91c8de0943dacf4c1ea560d18[m
+Merge: e757048 95ea4b6
+Author: Anggoro Kembarn <anggo@logique.co.id>
+Date:   Wed Jan 29 03:45:15 2020 +0000
+
+    Merge branch 'develop' into 'master'
+    
+    Develop
+    
+    See merge request logique/dokodemo-lp!1
+
+[33mcommit 95ea4b6dd7adf2f4a774f53218f7f7a4b010d654[m
+Author: Anggoro Kemarn <anggo@logique.co.id>
+Date:   Wed Jan 29 10:35:50 2020 +0700
+
+    hide news on eng and center news on ind
+
+[33mcommit 1acced5ad5e101152277fe80d61055ec6c2282de[m
+Merge: 6af6b55 90f76f4
+Author: Faiq Naufal <nauval@logique.co.id>
+Date:   Wed Jan 29 10:22:27 2020 +0700
+
+    Merge branch 'develop' of gitlab.com:logique/dokodemo-lp into develop
+
+[33mcommit 6af6b55ae68948cd094ebc9f96442896876d7049[m
+Author: Faiq Naufal <nauval@logique.co.id>
+Date:   Wed Jan 29 10:21:25 2020 +0700
+
+    changed hyperlink privacy and terms in indonesia page to english page
+
+[33mcommit 90f76f471ce80afef1443f08548847c19df47a5c[m
+Author: Anggoro Kemarn <anggo@logique.co.id>
+Date:   Tue Jan 28 17:10:54 2020 +0700
+
+    fixing month in eng
+
+[33mcommit ecff2a45acf22c36a92bd310a2e2a5a2215948a8[m
+Author: Anggoro Kemarn <anggo@logique.co.id>
+Date:   Tue Jan 28 17:06:32 2020 +0700
+
+    add news on index
+
+[33mcommit 45785fbe5fef60208cf33047117396231552d971[m
+Author: Faiq Naufal <nauval@logique.co.id>
+Date:   Tue Jan 28 13:42:01 2020 +0700
+
+    updated indonesia privacy and terms content
+
+[33mcommit 388b116cbad85b3a446db926f4665670bcbd30ee[m
+Author: Faiq Naufal <nauval@logique.co.id>
+Date:   Tue Jan 28 12:24:34 2020 +0700
+
+    updated policy and terms page content
+
+[33mcommit dca43eca3614689ffb4bf8741157d84ff57ebe88[m
+Author: Faiq Naufal <nauval@logique.co.id>
+Date:   Thu Jan 23 13:56:53 2020 +0700
+
+    updated privacy policy content
+
+[33mcommit e75704863f7914598e15304478a39dc5a1cf9bd6[m
+Author: ID Kyo <idkyo7@gmail.com>
+Date:   Mon Dec 16 12:21:04 2019 +0700
+
+    added required field attribute to setup online form
+
+[33mcommit 9c67af62781d68409f24a447d75bf3a2cc7ddadb[m
+Author: Melvin Marzuki <44135848+melvinmarz@users.noreply.github.com>
+Date:   Tue Dec 10 10:35:06 2019 +0700
+
+    Changes meta title, keywords, and description
+
+[33mcommit 0939a08b984f13062dd899c29dd81bcbdf983618[m
+Author: ID Kyo <idkyo7@gmail.com>
+Date:   Mon Nov 25 14:59:59 2019 +0700
+
+    optimize ind page
+
+[33mcommit fb4499a6dac8999c7932c2148071a4b9bf0cd841[m
+Author: ID Kyo <idkyo7@gmail.com>
+Date:   Mon Nov 25 13:20:23 2019 +0700
+
+    optimize eng page
+
+[33mcommit 0a6eb6f49e223c9aa1933c0e647dbc9b723c6d66[m
+Author: ID Kyo <idkyo7@gmail.com>
+Date:   Mon Nov 25 10:05:48 2019 +0700
+
+    revision of some contents
+
+[33mcommit f96f0bcfb6911baadebc4edf4b1655a899499201[m
+Author: ID Kyo <idkyo7@gmail.com>
+Date:   Mon Nov 25 10:01:10 2019 +0700
+
+    revision of some contents
+
+[33mcommit f2248488ca40cecb7c7d3aa7d8d718f7ca10c3ee[m
+Author: ID Kyo <idkyo7@gmail.com>
+Date:   Thu Nov 21 14:42:50 2019 +0700
+
+    fix some revisions such as page content, added id into meetup form
+
+[33mcommit 172ae1cdfa61baca6d036384dee817eda39efaa3[m
+Author: ID Kyo <idkyo7@gmail.com>
+Date:   Thu Nov 21 13:25:52 2019 +0700
+
+    added formspree into each setup online meeting form in each page
+
+[33mcommit 520e36fa8692fef4861b875371c06b32d4067094[m
+Author: ID Kyo <idkyo7@gmail.com>
+Date:   Thu Nov 21 12:43:40 2019 +0700
+
+    change form action in contact-us
+
+[33mcommit e6c4924c736927e18e1b6a80d255503e16625a13[m
+Author: ID Kyo <idkyo7@gmail.com>
+Date:   Wed Nov 20 16:29:33 2019 +0700
+
+    fixed margin in index page
+
+[33mcommit a90e30e168e3d2998ce2b136fb4c976347e29aef[m
+Author: ID Kyo <idkyo7@gmail.com>
+Date:   Wed Nov 20 15:56:11 2019 +0700
+
+    fix some margin in index, remove photo contents in hr section feature
+
+[33mcommit 37d76a5a39c8ca2697ebd610e9fbf4cd22e8bb02[m
+Author: ID Kyo <idkyo7@gmail.com>
+Date:   Wed Nov 20 14:46:16 2019 +0700
+
+    fixed some revisions, added new terms and privacy page
+
+[33mcommit 8611c6b849ff185e1690239245f98ef84831a501[m
+Author: ID Kyo <idkyo7@gmail.com>
+Date:   Tue Nov 19 09:08:28 2019 +0700
+
+    restore some content in features page
+
+[33mcommit 8f785d1c048d54a849c213884b7b552032c79e01[m
+Author: ID Kyo <idkyo7@gmail.com>
+Date:   Mon Nov 18 17:19:40 2019 +0700
+
+    added new layout of online meeting form
+
+[33mcommit 4d3585d2ac14b1ce53a9ac656a1aa031443c6b00[m
+Author: ID Kyo <idkyo7@gmail.com>
+Date:   Mon Nov 18 16:34:43 2019 +0700
+
+    change button trigger in footer
+
+[33mcommit a469b59630aa65b5e93efb4d3cfa40bb4ef71d18[m
+Author: ID Kyo <idkyo7@gmail.com>
+Date:   Mon Nov 18 16:26:40 2019 +0700
+
+    added new faq page
+
+[33mcommit 9ece200055daab5aeeaf997fe88e061d27478bfe[m
+Author: ID Kyo <idkyo7@gmail.com>
+Date:   Mon Nov 18 16:09:20 2019 +0700
+
+    complete responsive footer and subscription page
+
+[33mcommit 7aa323bb54f1e232e334db0af0537671347b2706[m
+Author: ID Kyo <idkyo7@gmail.com>
+Date:   Mon Nov 18 14:47:29 2019 +0700
+
+    fixed bugs on footer ind version, remove some content in features
+
+[33mcommit 1e7ecccb7c7cdecbde8d705ad7b93c4a4a24b498[m
+Author: ID Kyo <idkyo7@gmail.com>
+Date:   Mon Nov 18 14:27:03 2019 +0700
+
+    change content position in features page
+
+[33mcommit 45612283df44be3e509b0a88cedee839819079eb[m
+Author: ID Kyo <idkyo7@gmail.com>
+Date:   Mon Nov 18 14:20:49 2019 +0700
+
+    added popup on slider in index page
+
+[33mcommit 9cbe01735abb175b0e67643a87805a92fd19cb84[m
+Author: ID Kyo <idkyo7@gmail.com>
+Date:   Mon Nov 18 14:00:31 2019 +0700
+
+    little revisions on trial page
+
+[33mcommit 3f8288dbaa32b4d0f2a898c392dd688201411005[m
+Author: ID Kyo <idkyo7@gmail.com>
+Date:   Mon Nov 18 13:53:08 2019 +0700
+
+    fixed new layout of footer
+
+[33mcommit 6cc6ed8c215577e2661f47e98081aae3734588b4[m
+Author: ID Kyo <idkyo7@gmail.com>
+Date:   Mon Nov 18 08:59:21 2019 +0700
+
+    revision and relayouting all content in several pages based on new mockup
+
+[33mcommit 13f19c926d3987acf34b85815c41237b3a34c247[m[33m ([m[1;31morigin/dev_melvin[m[33m)[m
+Author: Melvin Marzuki <44135848+melvinmarz@users.noreply.github.com>
+Date:   Fri Nov 8 09:49:19 2019 +0700
+
+    Add Request Online Meeting in dropdown (contact-us) and fixed link to contact us(pricing), and fixed link to download pdf(trial)
+
+[33mcommit 32999959af51da1ba57539329efdb19194ef0655[m
+Author: Melvin Marzuki <44135848+melvinmarz@users.noreply.github.com>
+Date:   Wed Nov 6 15:49:46 2019 +0700
+
+    Added toggle button to the missed page
+
+[33mcommit f265e489c23c333f0302cc24daf8f144e21289bf[m
+Merge: aee7096 77d7e25
+Author: Melvin Marzuki <44135848+melvinmarz@users.noreply.github.com>
+Date:   Wed Nov 6 15:31:08 2019 +0700
+
+    Merge branch 'dev_melvin'
+
+[33mcommit 77d7e256556be137dc9d34941f9231ddbd33fa45[m
+Author: Melvin Marzuki <44135848+melvinmarz@users.noreply.github.com>
+Date:   Wed Nov 6 15:25:36 2019 +0700
+
+    Add toggle btn for req online meeting, hide links on mobile, change manual guide pdf on english version
+
+[33mcommit aee70969909e5042367984e7994409fb2b82cd00[m
+Author: Faiq Naufal <nauval@logique.co.id>
+Date:   Tue Nov 5 13:45:58 2019 +0700
+
+    updated meta title indo pages
+
+[33mcommit 8ac219b9dd3df29b96017a6d74975dab82e03719[m
+Author: Faiq Naufal <nauval@logique.co.id>
+Date:   Fri Nov 1 16:04:54 2019 +0700
+
+    updated meta title
+
+[33mcommit 2adc080f369fdd3a7c2bb284c69e9fb15da22774[m
+Author: ID Kyo <idkyo7@gmail.com>
+Date:   Tue Oct 15 10:54:46 2019 +0700
+
+    fix: minor issue in english feature content
+
+[33mcommit 857c360d283bd00a4eba536937889b4dbc6f1620[m
+Merge: 0542d3d 45a3084
+Author: Bagas Ranggen <bagasranggen@gmail.com>
+Date:   Tue Oct 15 10:05:50 2019 +0700
+
+    Merge branch 'master' of gitlab.com:logique/dokodemo-lp
+
+[33mcommit 0542d3d9c0ec88b620be24804e2720b535b23692[m
+Author: Bagas Ranggen <bagasranggen@gmail.com>
+Date:   Tue Oct 15 10:05:29 2019 +0700
+
+    add: global site tag
+
+[33mcommit 45a3084d25445deab94eab91633952bbe9e31305[m
+Merge: 91c4ff7 0def22f
+Author: andrebhaskoro <andre@logique.co.id>
+Date:   Tue Oct 15 10:04:06 2019 +0700
+
+    Merge branch 'hotfix'
+
+[33mcommit 0def22f166e4bb3b6ab18507ef1153b10800c706[m[33m ([m[1;31morigin/hotfix[m[33m)[m
+Author: andrebhaskoro <andre@logique.co.id>
+Date:   Tue Oct 15 10:03:42 2019 +0700
+
+    disable message validation
+
+[33mcommit 91c4ff74efea819bddc93747977532e72312ff12[m
+Author: ID Kyo <idkyo7@gmail.com>
+Date:   Thu Oct 10 17:00:05 2019 +0700
+
+    fix : error on whatsapp sticky popup in trial page
+
+[33mcommit d3c8d23a3e1d7c79d68e6334e73ce10df42539e2[m
+Author: ID Kyo <idkyo7@gmail.com>
+Date:   Thu Oct 10 16:46:56 2019 +0700
+
+    fix : active link on blog header, added blog in header and footer ind page
+
+[33mcommit a022869b5e9a3c0baf20cdf57d79de602b685853[m
+Author: Bagas Ranggen <bagasranggen@gmail.com>
+Date:   Thu Oct 10 13:44:27 2019 +0700
+
+    add: blog link in navbar and footer
+
+[33mcommit b9e5b66a811e1603aff44cf1a0cb624846097f21[m
+Author: ID Kyo <idkyo7@gmail.com>
+Date:   Thu Oct 10 10:29:30 2019 +0700
+
+    fix : added protocol og meta type in each page, implement better eng-content in several pages
+
+[33mcommit 3302d46606b6c2c06672eee5e78b38204bcb4fbc[m
+Author: ID Kyo <idkyo7@gmail.com>
+Date:   Wed Oct 9 11:09:48 2019 +0700
+
+    fix : add new config for 404 page
+
+[33mcommit 80233cdf84e91b1a31da768b597fe6a76f80525b[m
+Author: ID Kyo <idkyo7@gmail.com>
+Date:   Wed Oct 9 10:46:53 2019 +0700
+
+    fix : change dismiss button to text-link only in new survey popup
+
+[33mcommit da9d1d7a3dfd0b33571e6ae3e5fc25c9fccda5ee[m
+Author: ID Kyo <idkyo7@gmail.com>
+Date:   Wed Oct 9 10:32:18 2019 +0700
+
+    add : new survey popup in 4 pages in each language, added id to suvery button too
+
+[33mcommit e0ff4f220ceb42ef237a87366df87a074812e99b[m
+Author: ID Kyo <idkyo7@gmail.com>
+Date:   Wed Oct 9 08:52:43 2019 +0700
+
+    fix : some minor changes on pricing page
+
+[33mcommit da79c873ece0b6ca0a015b124d0fccc18bce5040[m
+Author: ID Kyo <idkyo7@gmail.com>
+Date:   Tue Oct 8 16:47:43 2019 +0700
+
+    fix : try-demo button size on hover state in homepage
+
+[33mcommit b1213f8da46eaaaa4cae5d40014227aa9ef37217[m
+Author: ID Kyo <idkyo7@gmail.com>
+Date:   Tue Oct 8 14:12:39 2019 +0700
+
+    fix : show popup button on mobile size screen.
+
+[33mcommit 738d1599cbb8bbc845fe129015375a95973ca1a8[m
+Author: ID Kyo <idkyo7@gmail.com>
+Date:   Tue Oct 8 13:42:12 2019 +0700
+
+    fix : space on whatsapp popup, remove bottom-border on header in 992 screen size
+
+[33mcommit b12d5a0de9fe524326ffe780e48fd41f941eeb19[m
+Author: ID Kyo <idkyo7@gmail.com>
+Date:   Tue Oct 8 13:12:59 2019 +0700
+
+    fix : setup font-size on footer on 1024 screen size, and change the title on contact-us form
+
+[33mcommit 736e3d5ec8e3545df518d6c526aa2b101214ceb2[m
+Author: ID Kyo <idkyo7@gmail.com>
+Date:   Tue Oct 8 12:52:34 2019 +0700
+
+    fix : added whatsapp button in bottom right corner with popup, added htaccess with 404 setup (without integration), added robot.txt
+
+[33mcommit ca355afe7d8342990ed9c4214e63b5c3151a2c1b[m
+Author: ID Kyo <idkyo7@gmail.com>
+Date:   Thu Oct 3 10:57:53 2019 +0700
+
+    fix : change description of pricing standard plan and added message to whatsapp button in enterprise plan
+
+[33mcommit 8da3310455d9d2c1344af45ac8cc771bfbc8b5e6[m
+Author: ID Kyo <idkyo7@gmail.com>
+Date:   Tue Oct 1 15:33:03 2019 +0700
+
+    fix : added popover for all image in features page
+
+[33mcommit 8f35c0c0c4fefa2b4f2f98b0e6a7f0e05513d14e[m
+Author: idkyo <idkyo7@gmail.com>
+Date:   Thu Sep 12 13:39:35 2019 +0700
+
+    fix : some minor changes and remove free trial in feature page
+
+[33mcommit d3e5567bf93cf4daee463c6bf7ff50585a3ee8bb[m
+Author: idkyo <idkyo7@gmail.com>
+Date:   Thu Sep 12 12:22:43 2019 +0700
+
+    fix : added more styling config in pricing page
+
+[33mcommit 2d14fdcb1eebd7914c588c34a103d08ebae90911[m
+Author: idkyo <idkyo7@gmail.com>
+Date:   Thu Sep 12 11:52:36 2019 +0700
+
+    fix : add border in detail plan
+
+[33mcommit f3980cee46939fa049f6ab220776c5c73a70e9ec[m
+Author: idkyo <idkyo7@gmail.com>
+Date:   Thu Sep 12 11:44:02 2019 +0700
+
+    fix : pricing img, and other price page changes
+
+[33mcommit 527c69cadc762efd195ef482fda1f631291c8197[m
+Author: idkyo <idkyo7@gmail.com>
+Date:   Thu Sep 12 08:48:41 2019 +0700
+
+    fix : check of responsive in all pages and revert footer to old version
+
+[33mcommit 8fa13b4f3abe3809967f87c79e493f440df7474d[m
+Author: idkyo <idkyo7@gmail.com>
+Date:   Wed Sep 11 13:47:37 2019 +0700
+
+    Fix : all revision in card-4
+
+[33mcommit ca725196e8be343b7118eb2e1599ff6a760e64bd[m
+Author: idkyo <idkyo7@gmail.com>
+Date:   Fri Sep 6 17:16:30 2019 +0700
+
+    fix : all issues in card https://trello.com/c/zydDWBNd/188-revision-4
+
+[33mcommit 4d70935dcb8b0b01030e6892119e176a6ce52647[m
+Author: idkyo <idkyo7@gmail.com>
+Date:   Fri Sep 6 08:17:52 2019 +0700
+
+    fix: minor language spelling on trial eng page
+
+[33mcommit fd37ae6d97c28aff9445c836551a30603e5e06e0[m
+Author: idkyo <idkyo7@gmail.com>
+Date:   Thu Sep 5 17:01:09 2019 +0700
+
+    fix : some layout changes of tabs and content of trial page
+
+[33mcommit 7f0034cd162bfb6e5d8c75f0a85634227dcbdbc6[m
+Author: idkyo <idkyo7@gmail.com>
+Date:   Thu Sep 5 16:10:09 2019 +0700
+
+    fix : added target _blank into header button on trial page
+
+[33mcommit 47b858b2079184668a3707c1430a7a9694f74ce3[m
+Author: idkyo <idkyo7@gmail.com>
+Date:   Thu Sep 5 15:56:30 2019 +0700
+
+    fix : youtube video on trial page, some footer content changes
+
+[33mcommit d25607e7661d5b26d35448fd93df20e9159e8090[m
+Author: idkyo <idkyo7@gmail.com>
+Date:   Thu Sep 5 10:34:22 2019 +0700
+
+    fix : language spelling in trial page, and change wrong image
+
+[33mcommit a6cdd29571a62e261cd515f16b8b51ec7bc822fe[m
+Author: idkyo <idkyo7@gmail.com>
+Date:   Thu Sep 5 10:13:27 2019 +0700
+
+    fix : some issues in trial page, add new meta viewport in all page
+
+[33mcommit 50e54f744813419722b928ed0e91b71646411933[m
+Author: idkyo <idkyo7@gmail.com>
+Date:   Wed Sep 4 17:04:47 2019 +0700
+
+    fix : relayouting of trial page, and footer, fix some issues in trial
+
+[33mcommit 338a8f27d2b1737f69f3d9e4c0c907daa65a878e[m
+Author: idkyo <idkyo7@gmail.com>
+Date:   Wed Sep 4 09:15:32 2019 +0700
+
+    fix : give id into some button
+
+[33mcommit 2577efc12e5f79b0fc33839e21390be23c8ebf21[m
+Author: idkyo <idkyo7@gmail.com>
+Date:   Tue Sep 3 19:02:20 2019 +0700
+
+    fix : +2px for all font-size style (except core css)
+
+[33mcommit d1b06add3ed83a508ac0dbb1e572e55cbf8e62b7[m
+Author: idkyo <idkyo7@gmail.com>
+Date:   Tue Sep 3 18:43:12 2019 +0700
+
+    fix : completed layout of new trial page (eng and ind)
+
+[33mcommit a4a4aed09d3720c621545f717f527bc4e2f5da86[m
+Author: idkyo <idkyo7@gmail.com>
+Date:   Tue Sep 3 14:50:04 2019 +0700
+
+    fix : revision 2 card in trello except trial page section
+
+[33mcommit 681a553d0a8ff6b6eb6d00f17ecde0080f23cb97[m
+Author: unknown <calvin@logique.co.id>
+Date:   Fri Aug 30 17:00:56 2019 +0700
+
+    update content
+
+[33mcommit 41a2dbfb99f76aef496ba577ea1eafb916ec2301[m
+Author: unknown <calvin@logique.co.id>
+Date:   Fri Aug 30 16:40:10 2019 +0700
+
+    remove try demo now btn
+
+[33mcommit aa211e545d16a0ac062433381cdee0f0fb8662dc[m
+Author: unknown <calvin@logique.co.id>
+Date:   Fri Aug 30 16:19:13 2019 +0700
+
+    update content
+
+[33mcommit 2742eb7088a99e0172212b4a62ead5d2aa89391b[m
+Author: unknown <calvin@logique.co.id>
+Date:   Thu Aug 29 11:33:14 2019 +0700
+
+    add faq in indonesia, add id on button
+
+[33mcommit 3e0ada154a6f796d0a20a47d47754d32e946eed0[m
+Author: andrebhaskoro <andre@logique.co.id>
+Date:   Tue Aug 27 15:02:22 2019 +0700
+
+    merge
+
+[33mcommit 8ba38ae87968eef7b847745664cbf67b4713326c[m
+Author: Gilbertus Nico <nico@logique.co.id>
+Date:   Tue Aug 27 14:37:24 2019 +0700
+
+    add meta, GA code
+
+[33mcommit 52917db98238eeb3934765583946a3eb0b6380d4[m
+Author: andrebhaskoro <andre@logique.co.id>
+Date:   Tue Aug 27 14:27:40 2019 +0700
+
+    remove domain field
+
+[33mcommit 1339f6cdc42c790b86faeb0dded4aa1c83ec0f21[m
+Author: andrebhaskoro <andre@logique.co.id>
+Date:   Tue Aug 27 12:19:07 2019 +0700
+
+    fix undefine subject
+
+[33mcommit 13b873ac988037be4e30f62f54865e7260e0ec6a[m
+Author: andrebhaskoro <andre@logique.co.id>
+Date:   Tue Aug 27 12:16:27 2019 +0700
+
+    fix send email
+
+[33mcommit 7018599d452e08b7bf6cb5950b504033f45f45d4[m
+Author: andrebhaskoro <andre@logique.co.id>
+Date:   Tue Aug 27 12:03:39 2019 +0700
+
+    autoload failed to open stream
+
+[33mcommit bd96cbc64f20297f143d30436c9a92cee3f0961e[m
+Author: andrebhaskoro <andre@logique.co.id>
+Date:   Tue Aug 27 11:56:30 2019 +0700
+
+    add error message
+
+[33mcommit 271715a6e27bb093817a9c69e45d13cd88861afd[m
+Author: andrebhaskoro <andre@logique.co.id>
+Date:   Tue Aug 27 11:46:05 2019 +0700
+
+    add error message
+
+[33mcommit b624b4f4e032769cf788a7f9e4862eccf4cfee89[m
+Author: andrebhaskoro <andre@logique.co.id>
+Date:   Tue Aug 27 11:27:00 2019 +0700
+
+    adjust ind/trial
+
+[33mcommit 3f0e8781cde2114b0420d8f5164446bf8d432208[m
+Author: andrebhaskoro <andre@logique.co.id>
+Date:   Tue Aug 27 11:24:05 2019 +0700
+
+    implement captcha validation, implement email funtion on the trial page & ind/trial page
+
+[33mcommit 8aaf6fbd028f6c43c84cf70521dcd621383107e9[m
+Merge: ba0e109 6f5aa95
+Author: andrebhaskoro <andre@logique.co.id>
+Date:   Tue Aug 27 10:54:18 2019 +0700
+
+    Merge branch 'email-package'
+
+[33mcommit 6f5aa95a95a9e5825bb1a66fc093948df84be5dc[m[33m ([m[1;31morigin/email-package[m[33m)[m
+Author: andrebhaskoro <andre@logique.co.id>
+Date:   Tue Aug 27 10:52:42 2019 +0700
+
+    fix ind/contact-us email
+
+[33mcommit ba0e109a8c6b44e91d870f844f7059109cf7d99f[m
+Merge: 7433c95 2d3502c
+Author: andrebhaskoro <andre@logique.co.id>
+Date:   Tue Aug 27 10:47:53 2019 +0700
+
+    Merge branch 'email-package'
+
+[33mcommit 2d3502cad01281b1de61ed0df9223750b5007566[m
+Author: andrebhaskoro <andre@logique.co.id>
+Date:   Tue Aug 27 10:47:31 2019 +0700
+
+    add mail funtion on the ind/contactus
+
+[33mcommit 7433c95a912b4b990e0ba652a75c12ecdcd3367f[m
+Merge: bd4686e b0711d4
+Author: andrebhaskoro <andre@logique.co.id>
+Date:   Tue Aug 27 10:15:21 2019 +0700
+
+    Merge branch 'email-package'
+
+[33mcommit b0711d42ac027a8368c77dacced22b5bb7d83bc2[m
+Author: andrebhaskoro <andre@logique.co.id>
+Date:   Tue Aug 27 10:14:56 2019 +0700
+
+    change mailtrap account
+
+[33mcommit 0bbbe2139ec803fda375cf4dc7d683fe1a1d02a1[m
+Author: andrebhaskoro <andre@logique.co.id>
+Date:   Tue Aug 27 10:14:22 2019 +0700
+
+    fix validation
+
+[33mcommit bd4686ed1743a2f3a8ac43e8008ba8f33cdff32c[m
+Merge: be63e7c 92f9cc2
+Author: andrebhaskoro <andre@logique.co.id>
+Date:   Tue Aug 27 10:02:21 2019 +0700
+
+    Merge branch 'email-package'
+
+[33mcommit 92f9cc242b1bb02909981a8b3dd5d2deb325242a[m
+Author: andrebhaskoro <andre@logique.co.id>
+Date:   Tue Aug 27 10:01:56 2019 +0700
+
+    add mailtrap account
+
+[33mcommit be63e7ce925468cff239909ae0d7c7963875ce54[m
+Merge: f44172b f7fba06
+Author: andrebhaskoro <andre@logique.co.id>
+Date:   Tue Aug 27 09:27:18 2019 +0700
+
+    Merge branch 'email-package'
+
+[33mcommit f7fba06a144212b519d2fb01fdb6f0f586ddde4e[m
+Author: andrebhaskoro <andre@logique.co.id>
+Date:   Tue Aug 27 09:26:44 2019 +0700
+
+    adjust inquiry form
+
+[33mcommit 89a0f619ee2569d8ece192fc03b0abc2f32431fe[m
+Author: andrebhaskoro <andre@logique.co.id>
+Date:   Mon Aug 26 12:08:58 2019 +0700
+
+    add email package
+
+[33mcommit f44172b401de4fba3cb1471930cbf0728fb3c4e8[m
+Author: Gilbertus Nico <nico@logique.co.id>
+Date:   Mon Aug 26 11:29:21 2019 +0700
+
+    update FE, header, navigation
+
+[33mcommit 392bd040e7695a5ac940d89eba82a7c56e4eabd1[m
+Author: unknown <calvin@logique.co.id>
+Date:   Mon Aug 26 10:06:32 2019 +0700
+
+    add bahasa indo
+
+[33mcommit 877cae03863da91ae57495c5eeafa9aebeea1fae[m
+Author: Gilbertus Nico <nico@logique.co.id>
+Date:   Thu Aug 22 19:45:41 2019 +0700
+
+    update content
+
+[33mcommit 2e32de3c10cb43f8493f68ee2ea8724e008b3b35[m
+Author: Gilbertus Nico <nico@logique.co.id>
+Date:   Thu Aug 22 19:36:45 2019 +0700
+
+    update content
+
+[33mcommit 4c7e2a914eae1d384796eddf09a76e4abdc6a919[m
+Author: Gilbertus Nico <nico@logique.co.id>
+Date:   Thu Aug 22 14:45:22 2019 +0700
+
+    adjust several font-size
+
+[33mcommit ee60625ba2d2d51ffea7ba7eebd1824bc239c2db[m
+Author: Gilbertus Nico <nico@logique.co.id>
+Date:   Thu Aug 22 14:15:39 2019 +0700
+
+    update FE
+
+[33mcommit 1d37e0477ed1cd7f3be105ea33f11f3b6f167fb7[m
+Author: Gilbertus Nico <nico@logique.co.id>
+Date:   Thu Aug 22 13:34:08 2019 +0700
+
+    update FE
+
+[33mcommit 64f460ee4612b6c50483365816a4900e28e49f89[m
+Author: Gilbertus Nico <nico@logique.co.id>
+Date:   Thu Aug 22 13:05:01 2019 +0700
+
+    update FE
+
+[33mcommit 529dcc15f8d914ea8c5a0ad409a7de0bf1780fc9[m
+Author: unknown <calvin@logique.co.id>
+Date:   Thu Aug 22 10:19:29 2019 +0700
+
+    remove empty link
+
+[33mcommit a04594503345f2db664c5f3ef6a1b336e12a3ea7[m
+Author: unknown <calvin@logique.co.id>
+Date:   Thu Aug 22 09:47:18 2019 +0700
+
+    compress images
+
+[33mcommit 630fb5f22e70bd6f85eacbc131998e24ff07e476[m
+Author: unknown <calvin@logique.co.id>
+Date:   Thu Aug 22 09:21:06 2019 +0700
+
+    finished about us page
+
+[33mcommit 2141cb709890afa951102524200d112d767fd8d8[m
+Author: Gilbertus Nico <nico@logique.co.id>
+Date:   Wed Aug 21 16:19:20 2019 +0700
+
+    update FE
+
+[33mcommit 08f567ddf5e47332712004ca44d0e9389e1739b2[m
+Merge: 2785517 26a616e
+Author: Gilbertus Nico <nico@logique.co.id>
+Date:   Wed Aug 21 13:58:55 2019 +0700
+
+    update FE
+
+[33mcommit 2785517b9ca14af75775cf65e87017c71e6a30aa[m
+Author: Gilbertus Nico <nico@logique.co.id>
+Date:   Wed Aug 21 13:51:12 2019 +0700
+
+    update FE
+
+[33mcommit 26a616e4a3bcd5bccbcb62f4a738a80e000f65d8[m
+Author: unknown <calvin@logique.co.id>
+Date:   Wed Aug 21 09:23:35 2019 +0700
+
+    finished pricing page
+
+[33mcommit 134a3655138e7498ad562aceb6521a4c3c9a28f0[m
+Author: unknown <calvin@logique.co.id>
+Date:   Tue Aug 20 14:20:53 2019 +0700
+
+    finished features page
+
+[33mcommit 8c143d13bc111fcd3ea54373a90cd79aaf01c81f[m
+Author: unknown <calvin@logique.co.id>
+Date:   Mon Aug 19 17:27:01 2019 +0700
+
+    finished homepage
+
+[33mcommit 7dd6f69c02eda97ca2816ad48171623dad8b1a08[m
+Author: unknown <calvin@logique.co.id>
+Date:   Mon Aug 19 15:36:06 2019 +0700
+
+    init commit

@@ -38,7 +38,7 @@ include($_SERVER['DOCUMENT_ROOT'] . '/ind/component/header.php');
     <section class="margintop-80">
         <div class="color--blue container">
             <div class="text-center title--bg title--bg-border title--bg-border-right" data-title-bg="JENIS HRIS">
-                <h2 class="mb-0 font-weight-bold fs-34">Jenis-jenis Software HRIS yang Perlu Anda Ketahui</h2>
+                <h1 class="mb-0 font-weight-bold fs-34">Jenis-jenis Software HRIS yang Perlu Anda Ketahui</h1>
             </div>
 
             <div class="fs-14 row justify-content-center">
