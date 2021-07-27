@@ -731,3 +731,13 @@
     });
 </script>
 <?php include($_SERVER['DOCUMENT_ROOT'].'/component/footer-end.php') ?>
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Organization",
+  "name": "Dokodemo Kerja",
+  "url": "https://dokodemo-kerja.com/",
+  "logo": "https://dokodemo-kerja.com/img/dokodemo.svg",
+  "sameAs": "https://www.instagram.com/dokodemokerja/"
+}
+</script>

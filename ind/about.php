@@ -28,7 +28,7 @@
     </section>
 
     <section class="top-content">
-        <img src="/img/about/bg.webp" class="img-bg" alt="Logique's Office in AD Premier" />
+        <img src="/img/about/bg.webp" class="img-bg" alt="Logique's Office in AD Premier" loading="lazy" />
         <div class="container">
             <div class="row align-items-end">
                 <div class="col-lg-6 about-us-left">
@@ -43,7 +43,7 @@
                     <p class="about-us-contact">
                         Anda bisa melihat dan mendapatkan informasi lebih lanjut tentang Dokodemo-Kerja <a target="_blank" href="https://www.logique.co.id/blog/category/dokodemo-kerja/">di sini</a>. Jika ada pertanyaan lebih lanjut, jangan ragu untuk <a href="/ind/contact-us.php">HUBUNGI KAMI</a>.; kami akan dengan senang hati untuk membantu anda untuk mengenal Dokodemo-Kerja.
                     </p>
-                    <img src="/img/about/dokodemo-about.webp" class="img-dokodemo-about" alt="Aplikasi Absensi Karyawan Dokodemo-Kerja" />
+                    <img src="/img/about/dokodemo-about.webp" class="img-dokodemo-about" alt="Aplikasi Absensi Karyawan Dokodemo-Kerja" loading="lazy" />
                 </div>
                 <div class="col-lg-6 about-us-right">
                     <h2>KENAPA DOKODEMO-KERJA?</h2>
@@ -66,51 +66,6 @@
             </div>
         </div>
     </section>
-
-    <!-- <section id="benefits" class="benefits-features">
-        <h2 class="section-title pb-4">FITUR DAN KEUNTUNGAN</h2>
-        <div class="container pt-4">
-            <div class="row">
-                <div class="col-md-4 features feature-1">
-                    <div class="feature-img-wrapper">
-                        <img src="/img/home/clock.png" class="pr-3" alt=""/>
-                    </div>
-                    <p>Melacak waktu kerja dengan bukti asli</p>
-                </div>
-                <div class="col-md-4 features feature-2">
-                    <div class="feature-img-wrapper">
-                        <img src="/img/home/coffee.png" class="pl-3" alt=""/>
-                    </div>
-                    <p>Implementasi peraturan kerja yang flexibel</p>
-                </div>
-                <div class="col-md-4 features feature-3">
-                    <div class="feature-img-wrapper">
-                        <img src="/img/home/corkboard.png" alt=""/>
-                    </div>
-                    <p>Monitor apa yang sedang dikerjakan para Karyawan</p>
-                </div>
-                <div class="col-md-4 features feature-4">
-                    <div class="feature-img-wrapper">
-                        <img src="/img/home/chart.png" class="pr-3" alt=""/>
-                    </div>
-                    <p>Analisa waktu kerja berdasarkan staff, department, atau project</p>
-                </div>
-                <div class="col-md-4 features feature-5">
-                    <div class="feature-img-wrapper">
-                        <img src="/img/home/notepad.png" class="pl-3" alt=""/>
-                    </div>
-                    <p>Anda bisa mengubah waktu, membuat catatan, atau notifikasi</p>
-                </div>
-                <div class="col-md-4 features feature-6">
-                    <div class="feature-img-wrapper">
-                        <img src="/img/home/work.png" alt=""/>
-                    </div>
-                    <p>Sistem Management yang mudah untuk kerja Overtime</p>
-                </div>
-            </div>
-            <a href="features.php" class="btn-learn-more" id="btn-learn-more-id">Lihat Lebih</a>
-        </div>
-    </section> -->
 
     <br><br>
 
@@ -146,53 +101,7 @@
                 <div class="col-md-6 benefits-item">
                     <h3>4. Mengatur Jam Kerja</h3>
                     <p>Dengan Dokodemo-Kerja perusahaan dapat mengamati pola kerja karyawan, dan dari situ bisa berdiskusi dengan karyawan untuk mendapatkan budaya bekerja yang lebih optimal.</p>
-                </div>
-                <!-- <div class="col-md-6 benefits-item">
-                    <h3>1. Menghemat biaya ruang kantor</h3>
-                    <p>Anda dapat merotasi hari kerja karyawan Anda keluar-masuk kantor jika ekspansi tidak memungkinkan. Beberapa karyawan mungkin merasa tidak nyaman bekerja di bilik, dan bekerja lebih produktif di luar. Bekerja dari jarak jauh juga dapat diimplementasikan sebagai sistem penghargaan, di samping manfaat yang ada.</p>
-                </div>
-                <div class="col-md-6 benefits-item">
-                    <h3>2. Menentukan karyawan terbaik Anda dengan objektif</h3>
-                    <p>
-                        Karyawan terbaik Anda ingin diakui untuk pekerjaannya. Mereka yang memberikan lebih banyak waktu, menyelesaikan lebih banyak tugas, dan tidak banyak malas akan dihargai lebih banyak daripada mereka yang tampak mengabaikan pekerjaan mereka.
-                    </p>
-                </div>
-                <div class="col-md-6 benefits-item">
-                    <h3>3. Meningkatkan Efisiensi Jam Kerja</h3>
-                    <p>
-                        Apakah karyawan Anda benar-benar bekerja sesuai dengan persyaratan waktu minimum? Apakah Anda benar-benar mendapatkan apa yang Anda bayar? Dengan menggunakan Dokodemo-Kerja, Anda dapat melihat berapa lama karyawan untuk menyelesaikan tugas, dan membantu Anda membuat rencana proyek yang lebih baik.
-                    </p>
-                </div>
-                <div class="col-md-6 benefits-item">
-                    <h3>4. Tingkatkan retensi karyawan</h3>
-                    <p>
-                        Retensi karyawan adalah bagian penting dari pertumbuhan organisasi. Dengan menghargai semua karyawan yang tepat, itu akan mengurangi tingkat pengunduran diri. Dokodemo-Kerja dapat membantu Anda menentukan karyawan yang layak dijaga.
-                    </p>
-                </div>
-                <div class="col-md-6 benefits-item">
-                    <h3>5. Parental Leave</h3>
-                    <p>Salah satu kekhawatiran paling umum bagi pengusaha dan karyawan adalah cuti hamil. Karyawan akan pergi setidaknya 6 minggu atau lebih, dan bahkan kemudian, apakah mereka masih memiliki pekerjaan? Menggunakan Dokodemo-Kerja, karyawan dapat yakin, mengetahui bahwa mereka masih dapat mempertahankan pekerjaan mereka, dan bekerja dari kenyamanan rumah mereka sendiri.</p>
-                </div>
-                <div class="col-md-6 benefits-item">
-                    <h3>6. Faktor Eksternal</h3>
-                     <p>
-                        Musibah selalu datang secara tiba-tiba. Baik itu anak sakit, banjir, hujan badai, kecelakaan mobil, ban bocor, perbaikan jalan, dlsb. Pada situasi seperti ini, karyawan terpaksa tidak ke kantor atau bahkan terlambat selama berjam-jam.
-                        <br><strong>
-                        Dengan Dokodemo-Kerja, karyawan tidak perlu lagi khawatir terjebak kemacetan, terlambat, ataupun transportasi mogok, karena sudah bisa bekerja dari rumah.</strong></p>
-                </div>
-                <div class="col-md-6 benefits-item">
-                    <h3>7. Membereskan Dokumen Penting</h3>
-                    <p>
-                            Setiap orang memiliki alasan tertentu untuk tidak pergi ke kantor. Mungkin mereka perlu mengurus administrasi sekolah anak mereka, mendaftarkan SIM mereka, membuka rekening bank, atau mungkin untuk memperpanjang validitas paspor mereka. Kegiatan-kegiatan ini biasanya harus dilakukan di hari kerja. Mereka bisa menggunakan waktu itu untuk bekerja dari jarak jauh alih-alih menghabiskannya di ruang tunggu selama berjam-jam.</p>
-                </div>
-                <div class="col-md-6 benefits-item">
-                    <h3>8. Break Time</h3>
-                   <p>
-                            Mungkin terkesan tidak adil untuk memperlakukan setiap karyawan secara adil jika setengah dari mereka menghabiskan sebagian besar waktu kerja mereka dengan merokok, menonton video hiburan, mengambil istirahat makan siang berjam-jam, atau berdoa lebih lama dari yang diperlukan. Dengan Dokodemo-Kerja, Anda dapat secara akurat melacak waktu istirahat dan jam kerja mereka, karena mereka dapat menghentikan pelacak waktu ketika mereka tidak benar-benar bekerja.</p>
-                </div> -->
-                <!-- <div class="col-md-10 offset-md-1 about-resp-config">
-                    <p class="text-center fw-semibold pt-4">Alasan paling umum bagi karyawan untuk berhenti adalah perjalanan panjang, Kurangnya keseimbangan kerja / hidup, dan gaji / tunjangan yang buruk. Dengan membiarkan mereka bekerja dari jarak jauh dengan persyaratan mereka, mereka akan melihat bahwa ada manfaat nyata yang bekerja untuk Anda.</p>
-                </div> -->
+                </div>               
             </div>
         </div>
     </section>
@@ -212,8 +121,8 @@
         <div class="container p-md-0 position-relative">
             <div class="row no-gutters ">
                 <div class="col-md-6 ">
-                    <img src="/img/home/bg-feature-1.png" class="w-100 img-fluid" alt="View from above the Mountains"/>
-                    <img src="/img/home/dokodemo-user.webp" class="dokodemo-user-float" alt=""/>
+                    <img src="/img/home/bg-feature-1.png" class="w-100 img-fluid" alt="View from above the Mountains" loading="lazy" />
+                    <img src="/img/home/dokodemo-user.webp" class="dokodemo-user-float" alt="" loading="lazy" />
                 </div>
                 <div class="col-md-6 d-flex align-items-center">
                     <div class="benefit-content right">
@@ -236,12 +145,12 @@
 
                 </div>
                 <div class="col-md-6 order-1 order-md-2">
-                    <img src="/img/home/work-anywhere.webp" class="img-fluid" alt="Work at home from your computer"/>
+                    <img src="/img/home/work-anywhere.webp" class="img-fluid" alt="Work at home from your computer" loading="lazy" />
                 </div>
             </div>
             <div class="row no-gutters">
                 <div class="col-md-6">
-                    <img src="/img/home/work-efficiency.webp" width="100%" class="img-fluid" alt="Dokodemo-Kerja for PC"/>
+                    <img src="/img/home/work-efficiency.webp" width="100%" class="img-fluid" alt="Dokodemo-Kerja for PC" loading="lazy" />
                 </div>
                 <div class="col-md-6 d-flex align-items-center">
                     <div class="benefit-content right">
