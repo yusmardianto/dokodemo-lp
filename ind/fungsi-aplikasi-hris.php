@@ -13,12 +13,11 @@ $og_image = 'https://dokodemo-kerja.com/img/dokodemo-og.jpg';
 $og_desription = 'Aplikasi atau software HRIS memiliki fungsi & manfaat besar bagi HR Department sebuah perusahaan di era digital saat ini. Simak penjelasan lengkapnya disini.';
 
 $add_css = '
-    <link rel="stylesheet" href="/css/slick.css" />
-    <link rel="stylesheet" href="/css/slick-theme.css" />
-    <link rel="stylesheet" href="/css/style-home.css" />
-    <link rel="stylesheet" href="/css/fungsi-aplikasi-hris/index.css" />
-    <link rel="stylesheet" href="/css/style-case-study.css" />';
-
+<link rel="stylesheet" href="/css/slick.css" />
+<link rel="stylesheet" href="/css/slick-theme.css" />
+<link rel="stylesheet" href="/css/style-home.css" />
+<link rel="stylesheet" href="/css/fungsi-aplikasi-hris/index.css" />
+<link rel="stylesheet" href="/css/style-case-study.css" />';
 include($_SERVER['DOCUMENT_ROOT'] . '/ind/component/header.php');
 ?>
 
@@ -50,7 +49,7 @@ include($_SERVER['DOCUMENT_ROOT'] . '/ind/component/header.php');
         </div>
     </section>
 
-    <?php include($_SERVER['DOCUMENT_ROOT'] . '/ind/absensi-app-online-section.php'); ?>
+    <?php include($_SERVER['DOCUMENT_ROOT'] . '/ind/absensi-app-online-section.php'); ?>    
 
 
     <section class="mb--70px color--blue margintop-80">
@@ -169,7 +168,7 @@ include($_SERVER['DOCUMENT_ROOT'] . '/ind/component/header.php');
 <?php include($_SERVER['DOCUMENT_ROOT'] . '/ind/component/footer.php'); ?>
 
 <script>
-    $(function() {
+    $(document).ready(function(){
         $(".case-study__slide").slick({
             slidesToShow: 3,
             slidesToScroll: 1,
@@ -185,14 +184,11 @@ include($_SERVER['DOCUMENT_ROOT'] . '/ind/component/header.php');
                     settings: {
                         slidesToShow: 1,
                     }
-                }
-                // You can unslick at a given breakpoint now by adding:
-                // settings: "unslick"
-                // instead of a settings object
+                }               
             ]
 
         })
-    });
+    })    
 </script>
 
 <script type="application/ld+json">
