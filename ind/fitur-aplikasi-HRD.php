@@ -140,14 +140,14 @@ include($_SERVER['DOCUMENT_ROOT'] . '/ind/component/header.php');
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
-  "@type": "NewsArticle",
+  "@type": "Article",
   "mainEntityOfPage": {
     "@type": "WebPage",
-    "@id": "https://dokodemo-kerja.com/ind/fitur-manajemen-SISDM"
+    "@id": "https://dokodemo-kerja.com/ind/fitur-aplikasi-HRD"
   },
-  "headline": "Manajemen Sistem Informasi SDM | Dokodemo-Kerja",
-  "description": "Sistem Informasi Sumber Daya Manusia atau SISDM adalah salah satu jenis perangkat lunak yang dibutuhkan oleh divisi SDM. Perangkat lunak ini menyediakan berbagai fitur yang berguna untuk proses manajemen SDM seperti mengelola dan memantau kinerja karyawan secara ringkas dan sederhana.",
-  "image": "https://www.dokodemo-kerja.com/img/swiper-img/aplikasi-hris.jpg",  
+  "headline": "5 Fitur Unggulan Aplikasi HRD Dokodemo-Kerja",
+  "description": "Aplikasi HRD sendiri pada dasarnya merupakan salah satu jenis aplikasi bisnis yang memungkinkan perusahaan untuk dapat menyimpan informasi karyawan, mengelola fungsi umum tim HRD, serta membantu menjalankan aktivitas HRD. Saat ini, terdapat 3 jenis aplikasi HRD yang paling umum dikenal yaitu HRIS, HCM, dan HRMS. Dokodemo-Kerja sendiri merupakan salah satu aplikasi HRD yang ada di Indonesia. Aplikasi ini menggunakan teknologi HRIS yang memungkinkan suatu perusahaan untuk dapat mengelola, menyimpan, dan memproses data karyawan secara digital. ",
+  "image": "https://www.dokodemo-kerja.com/img/swiper-img/HRIS-id.jpg",  
   "author": {
     "@type": "Organization",
     "name": "Dokodemo-Kerja"
@@ -160,8 +160,8 @@ include($_SERVER['DOCUMENT_ROOT'] . '/ind/component/header.php');
       "url": "https://www.dokodemo-kerja.com/img/lgq-white.png"
     }
   },
-  "datePublished": "2021-06-30",
-  "dateModified": "2021-07-10"
+  "datePublished": "2021-08-6",
+  "dateModified": "2021-08-15"
 }
 </script>
 
