@@ -66,7 +66,7 @@ include($_SERVER['DOCUMENT_ROOT'] . '/ind/component/header.php');
 
             <div class="pt--20px row text-center slick--blue-arrow case-study__slide">\
                 <div class="col-md-4">
-                    <a href="/ind/fitur-aplikasi-hrd" class="color--blue">
+                    <a href="/ind/fitur-aplikasi-HRD" class="color--blue">
                         <div class="case-study">
                             <picture>
                                 <img src="/img/swiper-img/fitur-aplikasi-hrd.jpg" alt="fitur aplikasi hrd" class="img-fluid mb-3 rounded-lg" loading="lazy">
