@@ -1,7 +1,7 @@
 <?php
 $page = array(
-    "en" => "features-manajemen-SISDM",
-    "jp" => "types-of-hris",
+    "en" => "HRD-app-features",
+    "jp" => "HRD-app-features"
 );
 $page_title = 'Fitur-fitur Unggulan pada Aplikasi HRD | Dokodemo-Kerja';
 
