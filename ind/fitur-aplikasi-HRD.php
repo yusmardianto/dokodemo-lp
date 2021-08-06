@@ -10,7 +10,7 @@ $meta_keyword = 'dokodemo, dokodemo-kerja, Dokodemo kasus, Digital Logique Indon
 
 $og_title = 'Fitur-fitur Unggulan pada Aplikasi HRD | Dokodemo-Kerja';
 $og_image = 'https://dokodemo-kerja.com/img/dokodemo-og.jpg';
-$og_desription = '';
+$og_desription = 'Aplikasi HRD Dokodemo-Kerja menyediakan beragam fitur unggulan seperti e-absensi, gps tracking, pengajuan cuti, dan lain-lain. Dapatkan info selengkapnya di sini!';
 $canonical = 'https://www.dokodemo-kerja.com/ind/fitur-aplikasi-HRD';
 
 $add_css = '
