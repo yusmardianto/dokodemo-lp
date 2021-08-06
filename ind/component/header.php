@@ -12,7 +12,7 @@
     <meta property="og:title" content="<?php if (isset($og_title)) echo $og_title ?>">
     <meta property="og:type" content="website">
     <meta property="og:site_name" content="Dokodemo-Kerja">
-    <meta property="og:url" content="https://dokodemo-kerja.com">
+    <meta property="og:url" content="<?php echo 'https://dokodemo-kerja.com'.$_SERVER['REQUEST_URI'] ?>">
     <meta property="og:image" content="<?php if (isset($og_image)) echo $og_image ?>">
     <meta property="og:description" content="<?php if (isset($og_desription)) echo $og_desription ?>">
     <link rel="canonical" href="<?php echo 'https://dokodemo-kerja.com'.$_SERVER['REQUEST_URI'] ?>">

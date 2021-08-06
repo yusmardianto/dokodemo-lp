@@ -9,7 +9,7 @@ $meta_description = 'Aplikasi HRD Dokodemo-Kerja menyediakan beragam fitur unggu
 $meta_keyword = 'dokodemo, dokodemo-kerja, Dokodemo kasus, Digital Logique Indonesia, sistem kerja jarak jauh, system kerja remote, perusahan pengembangan system, monitor karyawan, alat kerja remote, alat untuk manajer, perusahaan akuntansi';
 
 $og_title = 'Fitur-fitur Unggulan pada Aplikasi HRD | Dokodemo-Kerja';
-$og_image = 'https://www.dokodemo-kerja.com/ind/fitur-aplikasi-HRD';
+$og_image = 'https://dokodemo-kerja.com/img/dokodemo-og.jpg';
 $og_desription = '';
 $canonical = 'https://www.dokodemo-kerja.com/ind/fitur-aplikasi-HRD';
 
