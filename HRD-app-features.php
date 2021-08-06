@@ -158,11 +158,11 @@ include($_SERVER['DOCUMENT_ROOT'] . '/component/header.php');
   "@type": "Article",
   "mainEntityOfPage": {
     "@type": "WebPage",
-    "@id": "https://dokodemo-kerja.com/hris-definition-functions"
+    "@id": "https://dokodemo-kerja.com/HRD-app-features"
   },
-  "headline": "Definition and Functions of an HRIS Application",
-  "description": "Definition of HRIS is a system used to collect and store a company’s employee data. HRIS can be used to store, process, and manage a wide variety of such information, ranging from names, addresses, employee IDs, social security, and much more. Overall, HRIS presents a smarter method of storing information into an employee database.  The main functions of the HRIS application are: To record and track any changes related to employee data,  To fulfill the completeness of employee data, To Improve the overall efficiency of the HR administration processes, etc.",
-  "image": "https://www.dokodemo-kerja.com/img/swiper-img/aplikasi-hris.jpg",  
+  "headline": "5 Features of the HRD Application Dokodemo-Kerja",
+  "description": "The HRD application itself is a type of business application that allows companies to store employee information, manage the general functions of the HRD team, and help carry out HRD activities. Currently, there are 3 types of HRD applications that are most commonly known, namely HRIS, HCM, and HRMS. Dokodemo-Kerja is an Indonesian HRD application which uses HRIS technology that allows companies to be able to manage, store, and process employee data digitally.",
+  "image": "https://www.dokodemo-kerja.com/img/swiper-img/HRIS-id.jpg",  
   "author": {
     "@type": "Organization",
     "name": "Dokodemo-Kerja"
@@ -175,8 +175,8 @@ include($_SERVER['DOCUMENT_ROOT'] . '/component/header.php');
       "url": "https://www.dokodemo-kerja.com/img/lgq-white.png"
     }
   },
-  "datePublished": "2021-05-16",
-  "dateModified": "2021-05-27"
+  "datePublished": "2021-08-6",
+  "dateModified": "2021-08-15"
 }
 </script>
 
