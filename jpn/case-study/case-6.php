@@ -1,5 +1,5 @@
 <?php 
-    $page = 'case-study/keunggulan-fitur-screenshoot';
+    $page = 'case-study/case-6';
     $page_title = 'Keunggulan Fitur Screenshot Aplikasi HR Dokodemo-Kerja';
 
     $meta_description = 'Aplikasi HR Dokodemo-Kerja terus dikembangkan untuk meningkatkan kualitas fungsi dan manfaatnya. Keunggulan terbaru terdapat pada fungsi monitoring melalui fitur screenshot yang lebih akurat';
@@ -17,9 +17,9 @@
         <div class="container">
             <nav aria-label="breadcrumb">
                 <ol class="breadcrumb breadcrumb--main">
-                    <li class="breadcrumb-item"><a href="/ind/">Beranda</a></li>
-                    <li class="breadcrumb-item"><a href="/ind/case-study/">Studi Kasus</a></li>
-                    <li class="breadcrumb-item active" aria-current="page">Kasus 6</li>
+                    <li class="breadcrumb-item"><a href="/jpn/">Dokodemo-Kerja Home</a></li>
+                    <li class="breadcrumb-item"><a href="/jpn/case-study/">事例</a></li>
+                    <li class="breadcrumb-item active" aria-current="page">Case 6</li>
                 </ol>
             </nav>
         </div>
