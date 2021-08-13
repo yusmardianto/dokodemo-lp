@@ -130,6 +130,18 @@
                         </div>
                     </a>
                 </div>
+                <div class="col-md-4">
+                    <a href="/ind/case-study/case-6" class="color--blue">
+                        <div class="case-study">
+                            <picture>
+                                <source srcset="/img/case-study/6/feature-1.webp" type="image/webp">
+                                <img src="/img/case-study/6/feature-1.png" alt="" class="img-fluid mb-3 rounded-lg" loading="lazy">
+                            </picture>
+                            <h5 class="fs-20 font-weight-bold">Cerita Dokodemo-Kerja 6</h5>
+                            <p class="mb-0">Keunggulan Fitur Screenshot</p>
+                        </div>
+                    </a>
+                </div>
             </div>
 
         </div>
