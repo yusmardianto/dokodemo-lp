@@ -266,88 +266,139 @@ require '../action/c-trial.php';
 										</picture>
 									</div>
 								</div>
+								
 							</div>
 						</div>
 						<div class="tab-pane fade" id="nav-profile" role="tabpanel" aria-labelledby="nav-profile-tab">
 							<div class="trial-tab-container">
 								<div>
-									<h2 class="tab-content-title content-section-title">1. Install Dokodemo-Kerja</h2>
-									<p class="trial-tab-content --no-list mt-0">Silahkan akses <a href="https://demo.dokodemo-kerja.com/" target="_blank" rel="noopener noreferrer">link ini</a> untuk mengunduh aplikasi Dokodemo-Kerja.</p>
+									<h2 class="tab-content-title content-section-title">1. Akses Demo Environment</h2>									
+									<p class="mt-0"> <span style="color: var(--primary-main)">●</span> Silakan klik <a href="https://demo.dokodemo-kerja.com/" target="_blank" rel="noopener noreferrer">di sini</a> untuk mengakses halaman website Dokodemo-Kerja.</p>									
+									<p class="mt-0"> <span style="color: var(--primary-main)">●</span> Login dengan email dan password yang tersedia.</p>																		
 								</div>
 								<div class="pl-4 mb-5">
-									<div class="row">
-										<div class="col-md-6">
-											<p class="trial-tab-content">Extract folder demo dan cari program Dokodemo-Kerja.</p>
-											<img src="/img/trial/staff-1.png" class="mb-3 img-fluid w-100 img-border" alt="Dokodemo-Kerja Zip File" loading="lazy" />
-										</div>
-										<div class="col-md-6">
-											<p class="trial-tab-content">Jalankan aplikasinya. <br class="d-none d-md-block"><br class="d-none d-md-block"></p>
-											<img src="/img/trial/staff-2.png" class="mb-3 img-fluid w-100 img-border" alt="Downloaded Dokodemo-Kerja App Icon" loading="lazy" />
+									<div class="row">									
+										<div class="col-sm-12 col-md-12 col-lg-12">
+											<img src="/img/trial/pengguna-umum/1.png" class="mb-3 img-fluid w-100 img-border" alt="Akses Demo Environment" loading="lazy" />
 										</div>
 									</div>
 								</div>
-
-								<h2 class="tab-content-title content-section-title">2. Masuk dan gunakan aplikasi</h2>
+						
+								<h2 class="tab-content-title content-section-title">2. Install Dokodemo-Kerja</h2>
 								<div class="pl-4">
 									<div class="row">
-										<div class="col-md-6">
-											<div class="trial-tab-content">
-												<p class="mb-0">
-													Masuk dengan menggunakan informasi yang dikirimkan melalui Email.
-												</p>
-											</div>
-											<img src="/img/trial/staff-3.png" class="mb-3 img-fluid w-100 img-border" alt="Dokodemo-Kerja Version 2.0.0" loading="lazy" />
-										</div>
-										<div class="col-md-6">
-											<p class="trial-tab-content">Silahkan mulai bekerja dengan memilih "<strong>Task</strong>" dan tekan tombol "<strong>Play</strong>"</p>
-											<img src="/img/trial/staff-4.png" class="mb-3 img-fluid w-100 img-border" alt="Dokodemo-Kerja Application" loading="lazy" />
-											<p class="trial-tab-content">Tekan tombol "<strong>Stop</strong>" (warna merah) untuk berhenti</p>
-											<img src="/img/trial/staff-5.png" class="mb-5 img-fluid w-100 img-border" alt="Dokodemo-Kerja Application Appearance" loading="lazy" />
-										</div>
+										<div class="col-sm-12 col-md-12 col-lg-12">											
+											<p class="mt-0"> <span style="color: var(--primary-main)">●</span> Klik menu <i>“download desktop app”</i> untuk mengunduh aplikasi demo di perangkat Anda.</p>																													
+											<img src="/img/trial/pengguna-umum/2.png" class="mb-3 img-fluid w-100 img-border" alt="Install Dokodemo-Kerja" loading="lazy" />
+											<p class="mt-0"> <span style="color: var(--primary-main)">●</span> Extract folder demo dan cari program Dokodemo-Kerja.</p>	
+											<p class="mt-0"> <span style="color: var(--primary-main)">●</span> Jalankan aplikasi Dokodemo-Kerja versi demo di perangkat Anda.</p>																													
+										</div>										
 									</div>
 								</div>
 
-								<h2 class="content-section-title">3. Fitur lainnya</h2>
+								<h2 class="tab-content-title content-section-title mt-4">3. Masuk dan gunakan aplikasi</h2>
 								<div class="pl-4">
-									<div class="row">
-										<div class="col-md-6">
-											<div class="trial-tab-content">
-												<p class="mb-0">
-													Terdapat jumlah jam bekerja di tiap hari dan minggu pada homepage dan, 
-												</p>
-												<div class="trial-tab-content__list">
-													<span style="color: #098AE4"><strong>Biru</strong></span>
-													<span>: Untuk meminimalkan atau maksimalkan tampilan aplkasi</span>
-												</div>
-												<div class="trial-tab-content__list">
-													<span style="color: #E6B403"><strong>Kuning</strong></span>
-													<span>: Ke situ Dokodemo-Kerja Admin</span>
-												</div>
-												<div class="trial-tab-content__list">
-													<span style="color: #E3092A"><strong>Merah</strong></span>
-													<span>: Keluar</span>
-												</div>
-												<div class="trial-tab-content__list">
-													<span><strong>Today</strong></span>
-													<span>: Jumlah akumulasi jam kerja hari ini</span>
-												</div>
-												<div class="trial-tab-content__list">
-													<span><strong>Weekly</strong></span>
-													<span>: Jumlah akumulasi jam kerja minggu ini</span>
-												</div>
-											</div>
+									<div class="row mt-3">
+										<div class="col-sm-12 col-md-6 col-lg-6">											
+											<p class="mb-0">
+												<span style="color: var(--primary-main)">●</span>
+												Untuk versi demo, silakan masuk menggunakan <b>Company Code, Email,</b> dan <b>Password default</b> yang sudah kami sediakan kemudian klik <i>“Login”</i>.
+											</p>											
 										</div>
-										<div class="col-md-6">
-											<img src="/img/trial/staff-6.png" class="mb-3 img-fluid w-100 img-border" alt="Dokodemo-Kerja Application" loading="lazy" />
+										<div class="col-sm-12 col-md-6 col-lg-6">
+											<img src="/img/trial/pengguna-umum/3.jpg" class="mb-3 img-fluid w-100 img-border" alt="Masuk dan gunakan aplikasi" loading="lazy" />
+										</div>										
+									</div>
+									<div class="row mt-3">
+										<div class="col-sm-12 col-md-6 col-lg-6">											
+											<p class="mb-0">
+												<span style="color: var(--primary-main)">●</span>
+												Pilih jenis <b>“Task”</b> yang akan dikerjakan, kemudian tekan tombol <i>“Play”</i>.
+											</p>
+											<p class="mb-0 mt-2">
+												<span style="color: var(--primary-main)">●</span>
+												Tekan tombol <b>"Stop"</b> (warna merah) untuk berhenti.
+											</p>											
 										</div>
+										<div class="col-sm-12 col-md-6 col-lg-6">
+											<img src="/img/trial/pengguna-umum/4.jpg" class="mb-3 img-fluid w-100 img-border" alt="Masuk dan gunakan aplikasi" loading="lazy" />
+										</div>										
 									</div>
 								</div>
-
-								<h2 class="content-section-title">4. Tampilan Layar</h2>
+								<h2 class="tab-content-title content-section-title mt-4">4. Fitur Lain</h2>
 								<div class="pl-4">
-									<p class="trial-tab-content">Anda bisa melihat berapa lama anda telah bekerja pada suatu task. Ikon yang ada di dalam kolom berwarna adalah untuk mengubah waktu secara manual. Selain itu, terdapat waktu riwayat pengubahan waktu serta hasil tangkapan layar dibagian bawah.</p>
-									<img src="/img/trial/staff-7.png" class="mb-5 img-fluid w-100 img-border" alt="Dokodemo-Kerja Time Tracking" />
+									<div class="row mt-3">
+										<div class="col-sm-12 col-md-6 col-lg-6">	
+											<p>
+												<span style="color: var(--primary-main)">●</span>
+												Notification: pemberitahuan mengenai approval atau rejection day off/cuti
+											</p>
+											<p>
+												<span style="color: var(--primary-main)">●</span>												
+												Announcement: pemberitahuan untuk info day off atau hari libur nasional
+											</p>
+											<p>
+												<span style="color: var(--primary-main)">●</span>												
+												Today: jumlah jam kerja per-hari
+											</p>
+											<p>
+												<span style="color: var(--primary-main)">●</span>												
+												Weekly: jumlah jam kerja per-minggu
+											</p>	
+											<p>
+												<span style="color: var(--primary-main)">●</span>	
+												<span>
+													<img src="/img/trial/pengguna-umum/icon-minimize.png" height="40px" width="40px" class="img-border" alt="icon-minimize" loading="lazy"  />
+												</span>												
+												: minimize Dokodemo-kerja desktop
+											</p>
+											<p>
+												<span style="color: var(--primary-main)">●</span>	
+												<span>
+													<img src="/img/trial/pengguna-umum/icon-browse-page-dokodemo.png" height="40px" width="40px" class="img-border" alt="icon-minimize" loading="lazy"  />
+												</span>												
+												: untuk mengakses halaman website Dokodemo-kerja
+											</p>	
+											<p>
+												<span style="color: var(--primary-main)">●</span>	
+												<span>
+													<img src="/img/trial/pengguna-umum/icon-logout.png" height="40px" width="40px" class="img-border" alt="icon-minimize" loading="lazy"  />
+												</span>												
+												: Log Out dari aplikasi
+											</p>											
+											
+										</div>
+										<div class="col-sm-12 col-md-6 col-lg-6">	
+											<img src="/img/trial/pengguna-umum/6.jpg" class="mb-5 img-fluid w-100 img-border" alt="fitur-lain-1" loading="lazy"  />
+										</div>
+									</div>								
 								</div>
+								<h2 class="tab-content-title content-section-title mt-4">5. Work Session</h2>
+								<div class="pl-4">
+									<div class="row mt-3">
+										<div class="col-sm-12 col-md-12 col-lg-12">
+											<img src="/img/trial/pengguna-umum/7.png" class="mb-5 img-fluid w-100 img-border" alt="work-session-1" loading="lazy"  />
+											<p>
+												<span style="color: var(--primary-main)">●</span>
+												Klik menu <b>“Work Session”</b> dan pilih <b>“My Work Session”</b>
+											</p>
+											<hr />
+											<p class="mt-4">
+												Pada halaman ini, Anda dapat melihat total jam kerja harian, mingguan, atau bulanan untuk suatu task. Selain itu, Anda dapat melihat hasil screenshot aplikasi selama Anda bekerja.
+											</p>
+											<img src="/img/trial/pengguna-umum/8.png" class="mb-5 img-fluid w-100 img-border" alt="work-session-2" loading="lazy"  />
+											<p>
+												Saat Anda lupa mematikan Dokodemo-Kerja dan penghitungan jam menjadi tidak sesuai, Anda dapat menggunakan <b>ikon  </b>
+												<span>
+													<img src="/img/trial/pengguna-umum/icon-edit.png" height="40px" width="40px" class="img-border" alt="icon-minimize" loading="lazy"  />
+												</span>	
+												untuk mengubahnya. Riwayat perubahan data akan tercatat oleh sistem dan ditampilkan pada menu <b>“History Edited Time”</b>.
+											</p>
+
+
+										</div>
+									</div>
+								</div>	
 							</div>
 						</div>
 						<div class="tab-pane fade" id="mobile-staff" role="tabpanel" aria-labelledby="mobile-staff-tab">
