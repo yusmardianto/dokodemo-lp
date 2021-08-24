@@ -42,7 +42,7 @@
 		<div class="container">
 			<div class="row mt-5">
 				<div class="offset-md-1 col-md-10">
-					<h1 class="fs-30 text-center pt-5 mb-3">Cara Penggunaan Aplikasi Dokodemo-Kerja</h1>
+					<h1 class="fs-30 text-center pt-5 mb-3">How to Use the Dokodemo-Kerja Application</h1>
 					<p class="text-center">
 						As one of the best Human Resource Information System (HRIS) software currently available in Indonesia, Dokodemo-Kerja was made to provide solutions for HR departments of companies that seek to use digital technology for a more effective and efficient Human Resources (HR) management processes.
 					</p>

@@ -167,9 +167,9 @@ require '../action/c-trial.php';
 						<div class="tab-pane fade show active" id="nav-home" role="tabpanel" aria-labelledby="nav-home-tab">
 							<div class="trial-tab-container">
 								<div>
-									<h2 class="tab-content-title content-section-title">1. Akses Demo Environment</h2>									
-									<p class="mt-0"> <span style="color: var(--primary-main)">●</span> Silakan klik <a href="https://demo.dokodemo-kerja.com/" target="_blank" rel="noopener noreferrer">di sini</a> untuk mengakses halaman website Dokodemo-Kerja.</p>									
-									<p class="mt-0"> <span style="color: var(--primary-main)">●</span> Login dengan email dan password yang tersedia.</p>																		
+									<h2 class="tab-content-title content-section-title">1. Akses Demo Environment</h2>																	
+									<p class="mt-0 trial-font-size"> <span style="color: var(--primary-main)">●</span> Silakan klik <a href="https://demo.dokodemo-kerja.com/" target="_blank" rel="noopener noreferrer">di sini</a> untuk mengakses halaman website Dokodemo-Kerja.</p>									
+									<p class="mt-0 trial-font-size"> <span style="color: var(--primary-main)">●</span> Login dengan email dan password yang tersedia.</p>																		
 								</div>
 								<div class="pl-4 mb-5">
 									<div class="row">									
@@ -187,10 +187,10 @@ require '../action/c-trial.php';
 									<div class="pl-4">
 										<div class="row">
 											<div class="col-sm-12 col-md-12 col-lg-12">	
-												<p>
+												<p class="trial-font-size">
 													Sebagai admin, Anda mendapatkan izin untuk melakukan Task Management.
 												</p>										
-												<p class="mt-0"> 
+												<p class="mt-0 trial-font-size"> 
 													<span style="color: var(--primary-main)">●</span> 
 													Buka Setting, kemudian klik <b>“Task”</b>.
 												</p>																													
@@ -200,7 +200,7 @@ require '../action/c-trial.php';
 										
 										<div class="row mt-4">
 											<div class="col-sm-12 col-md-6 col-lg-6">
-												<p class="mt-0"> 
+												<p class="mt-0 trial-font-size"> 
 													<span style="color: var(--primary-main)">●</span> 
 													Tekan tombol <b>"Add New"</b> untuk menambahkan Task baru.
 												</p>
@@ -212,7 +212,7 @@ require '../action/c-trial.php';
 
 										<div class="row mt-4">
 											<div class="col-sm-12 col-md-6 col-lg-6">
-												<p class="mt-0"> 
+												<p class="mt-0 trial-font-size"> 
 													<span style="color: var(--primary-main)">●</span> 													
 													Isi task name, team, dan color tag yang Anda inginkan, kemudian klik <b>“Submit”</b>.
 												</p>												
@@ -228,10 +228,10 @@ require '../action/c-trial.php';
 									<div class="pl-4">
 										<div class="row">
 											<div class="col-sm-12 col-md-12 col-lg-12">	
-												<p>
+												<p class="trial-font-size">
 													Sebagai admin, Anda mendapatkan izin untuk melakukan Team Management.
 												</p>										
-												<p class="mt-0"> 
+												<p class="mt-0 trial-font-size"> 
 													<span style="color: var(--primary-main)">●</span> 
 													Buka Setting, kemudian klik <b>“Team”</b>.
 												</p>																													
@@ -244,7 +244,7 @@ require '../action/c-trial.php';
 
 										<div class="row mt-4">
 											<div class="col-sm-12 col-md-6 col-lg-6">
-												<p class="mt-0"> 
+												<p class="mt-0 trial-font-size"> 
 													<span style="color: var(--primary-main)">●</span> 
 													Tekan tombol <b>"Add New"</b> untuk menambahkan  <b>“Team”</b> baru.
 												</p>
@@ -255,7 +255,7 @@ require '../action/c-trial.php';
 										</div>
 										<div class="row mt-4">
 											<div class="col-sm-12 col-md-6 col-lg-6">
-												<p class="mt-0"> 
+												<p class="mt-0 trial-font-size"> 
 													<span style="color: var(--primary-main)">●</span> 
 													Isi nama team kemudian tekan <b>“Submit”</b> dan Team Baru telah Anda tambahkan.
 												</p>
@@ -271,10 +271,10 @@ require '../action/c-trial.php';
 									<div class="pl-4">
 										<div class="row">
 											<div class="col-sm-12 col-md-12 col-lg-12">	
-												<p>
+												<p class="trial-font-size">
 													Sebagai admin, Anda mendapatkan izin untuk melakukan Staff Management.
 												</p>										
-												<p class="mt-0"> 
+												<p class="mt-0 trial-font-size"> 
 													<span style="color: var(--primary-main)">●</span> 
 													Buka Setting, kemudian klik <b>“Staff”</b>.
 												</p>																													
@@ -284,7 +284,7 @@ require '../action/c-trial.php';
 										
 										<div class="row mt-4">
 											<div class="col-sm-12 col-md-6 col-lg-6">
-												<p class="mt-0"> 
+												<p class="mt-0 trial-font-size"> 
 													<span style="color: var(--primary-main)">●</span> 
 													Tekan tombol <b>"Add New"</b> untuk menambahkan Staff baru.
 												</p>
@@ -296,11 +296,11 @@ require '../action/c-trial.php';
 
 										<div class="row mt-4">
 											<div class="col-sm-12 col-md-6 col-lg-6">
-												<p class="mt-0"> 
+												<p class="mt-0 trial-font-size"> 
 													<span style="color: var(--primary-main)">●</span> 													
 													Masukkan informasi Staff baru dan klik <b>"Submit"</b>.
 												</p>
-												<p class="mt-0"> 
+												<p class="mt-0 trial-font-size"> 
 													<span style="color: var(--primary-main)">●</span> 																										
 													Setelah Anda klik tombol <b>"Submit"</b>, sistem akan mengirimkan password <i>(generate by system)</i> ke alamat email yang terdaftar. Dengan informasi tersebut maka staff yang Anda kelola dapat menggunakan aplikasi Dokodemo-Kerja.
 												</p>	
@@ -313,7 +313,7 @@ require '../action/c-trial.php';
 									</div>
 								</div>
 
-								<p class="mt-4" style="font-size: small;">
+								<p class="mt-4 " style="font-size: small;">
 									<i>*Saat Anda memutuskan untuk berlangganan Dokodemo-Kerja, user juga akan membutuhkan Company Code untuk login ke aplikasi. Pihak kami akan mengirimkannya kepada pihak PIC perusahaan setelah perusahaan Anda resmi terdaftar.</i>
 								</p>
 								
@@ -323,8 +323,8 @@ require '../action/c-trial.php';
 							<div class="trial-tab-container">
 								<div>
 									<h2 class="tab-content-title content-section-title">1. Akses Demo Environment</h2>									
-									<p class="mt-0"> <span style="color: var(--primary-main)">●</span> Silakan klik <a href="https://demo.dokodemo-kerja.com/" target="_blank" rel="noopener noreferrer">di sini</a> untuk mengakses halaman website Dokodemo-Kerja.</p>									
-									<p class="mt-0"> <span style="color: var(--primary-main)">●</span> Login dengan email dan password yang tersedia.</p>																		
+									<p class="mt-0 trial-font-size"> <span style="color: var(--primary-main)">●</span> Silakan klik <a href="https://demo.dokodemo-kerja.com/" target="_blank" rel="noopener noreferrer">di sini</a> untuk mengakses halaman website Dokodemo-Kerja.</p>									
+									<p class="mt-0 trial-font-size"> <span style="color: var(--primary-main)">●</span> Login dengan email dan password yang tersedia.</p>																		
 								</div>
 								<div class="pl-4 mb-5">
 									<div class="row">									
@@ -338,10 +338,10 @@ require '../action/c-trial.php';
 								<div class="pl-4">
 									<div class="row">
 										<div class="col-sm-12 col-md-12 col-lg-12">											
-											<p class="mt-0"> <span style="color: var(--primary-main)">●</span> Klik menu <i>“download desktop app”</i> untuk mengunduh aplikasi demo di perangkat Anda.</p>																													
+											<p class="mt-0 trial-font-size"> <span style="color: var(--primary-main)">●</span> Klik menu <i>“download desktop app”</i> untuk mengunduh aplikasi demo di perangkat Anda.</p>																													
 											<img src="/img/trial/pengguna-umum/2.png" class="mb-3 img-fluid w-100 img-border" alt="Install Dokodemo-Kerja" loading="lazy" />
-											<p class="mt-0"> <span style="color: var(--primary-main)">●</span> Extract folder demo dan cari program Dokodemo-Kerja.</p>	
-											<p class="mt-0"> <span style="color: var(--primary-main)">●</span> Jalankan aplikasi Dokodemo-Kerja versi demo di perangkat Anda.</p>																													
+											<p class="mt-0 trial-font-size"> <span style="color: var(--primary-main)">●</span> Extract folder demo dan cari program Dokodemo-Kerja.</p>	
+											<p class="mt-0 trial-font-size"> <span style="color: var(--primary-main)">●</span> Jalankan aplikasi Dokodemo-Kerja versi demo di perangkat Anda.</p>																													
 										</div>										
 									</div>
 								</div>
@@ -350,7 +350,7 @@ require '../action/c-trial.php';
 								<div class="pl-4">
 									<div class="row mt-3">
 										<div class="col-sm-12 col-md-6 col-lg-6">											
-											<p class="mb-0">
+											<p class="mb-0 trial-font-size">
 												<span style="color: var(--primary-main)">●</span>
 												Untuk versi demo, silakan masuk menggunakan <b>Company Code, Email,</b> dan <b>Password default</b> yang sudah kami sediakan kemudian klik <i>“Login”</i>.
 											</p>											
@@ -361,11 +361,11 @@ require '../action/c-trial.php';
 									</div>
 									<div class="row mt-3">
 										<div class="col-sm-12 col-md-6 col-lg-6">											
-											<p class="mb-0">
+											<p class="mb-0 trial-font-size">
 												<span style="color: var(--primary-main)">●</span>
 												Pilih jenis <b>“Task”</b> yang akan dikerjakan, kemudian tekan tombol <i>“Play”</i>.
 											</p>
-											<p class="mb-0 mt-2">
+											<p class="mb-0 mt-2 trial-font-size">
 												<span style="color: var(--primary-main)">●</span>
 												Tekan tombol <b>"Stop"</b> (warna merah) untuk berhenti.
 											</p>											
@@ -379,40 +379,40 @@ require '../action/c-trial.php';
 								<div class="pl-4">
 									<div class="row mt-3">
 										<div class="col-sm-12 col-md-6 col-lg-6">	
-											<p>
+											<p class="trial-font-size">
 												<span style="color: var(--primary-main)">●</span>
 												Notification: pemberitahuan mengenai approval atau rejection day off/cuti
 											</p>
-											<p>
+											<p class="trial-font-size">
 												<span style="color: var(--primary-main)">●</span>												
 												Announcement: pemberitahuan untuk info day off atau hari libur nasional
 											</p>
-											<p>
+											<p class="trial-font-size">
 												<span style="color: var(--primary-main)">●</span>												
 												Today: jumlah jam kerja per-hari
 											</p>
-											<p>
+											<p class="trial-font-size">
 												<span style="color: var(--primary-main)">●</span>												
 												Weekly: jumlah jam kerja per-minggu
 											</p>	
-											<p>
+											<p class="trial-font-size">
 												<span style="color: var(--primary-main)">●</span>	
 												<span>
-													<img src="/img/trial/pengguna-umum/icon-minimize.png" height="40px" width="40px" class="img-border" alt="icon-minimize" loading="lazy"  />
+													<img src="/img/trial/pengguna-umum/icon-minimize.PNG" height="40px" width="40px" class="img-border" alt="icon-minimize" loading="lazy"  />
 												</span>												
 												: minimize Dokodemo-kerja desktop
 											</p>
-											<p>
+											<p class="trial-font-size">
 												<span style="color: var(--primary-main)">●</span>	
 												<span>
-													<img src="/img/trial/pengguna-umum/icon-browse-page-dokodemo.png" height="40px" width="40px" class="img-border" alt="icon-minimize" loading="lazy"  />
+													<img src="/img/trial/pengguna-umum/icon-browse-page-dokodemo.PNG" height="40px" width="40px" class="img-border" alt="icon-minimize" loading="lazy"  />
 												</span>												
 												: untuk mengakses halaman website Dokodemo-kerja
 											</p>	
-											<p>
+											<p class="trial-font-size">
 												<span style="color: var(--primary-main)">●</span>	
 												<span>
-													<img src="/img/trial/pengguna-umum/icon-logout.png" height="40px" width="40px" class="img-border" alt="icon-minimize" loading="lazy"  />
+													<img src="/img/trial/pengguna-umum/icon-logout.PNG" height="40px" width="40px" class="img-border" alt="icon-minimize" loading="lazy"  />
 												</span>												
 												: Log Out dari aplikasi
 											</p>											
@@ -428,19 +428,19 @@ require '../action/c-trial.php';
 									<div class="row mt-3">
 										<div class="col-sm-12 col-md-12 col-lg-12">
 											<img src="/img/trial/pengguna-umum/7.png" class="mb-5 img-fluid w-100 img-border" alt="work-session-1" loading="lazy"  />
-											<p>
+											<p class="trial-font-size">
 												<span style="color: var(--primary-main)">●</span>
 												Klik menu <b>“Work Session”</b> dan pilih <b>“My Work Session”</b>
 											</p>
 											<hr />
-											<p class="mt-4">
+											<p class="mt-4 trial-font-size">
 												Pada halaman ini, Anda dapat melihat total jam kerja harian, mingguan, atau bulanan untuk suatu task. Selain itu, Anda dapat melihat hasil screenshot aplikasi selama Anda bekerja.
 											</p>
 											<img src="/img/trial/pengguna-umum/8.png" class="mb-5 img-fluid w-100 img-border" alt="work-session-2" loading="lazy"  />
-											<p>
+											<p class="trial-font-size">
 												Saat Anda lupa mematikan Dokodemo-Kerja dan penghitungan jam menjadi tidak sesuai, Anda dapat menggunakan <b>ikon  </b>
 												<span>
-													<img src="/img/trial/pengguna-umum/icon-edit.png" height="40px" width="40px" class="img-border" alt="icon-minimize" loading="lazy"  />
+													<img src="/img/trial/pengguna-umum/icon-edit.PNG" height="40px" width="40px" class="img-border" alt="icon-minimize" loading="lazy"  />
 												</span>	
 												untuk mengubahnya. Riwayat perubahan data akan tercatat oleh sistem dan ditampilkan pada menu <b>“History Edited Time”</b>.
 											</p>
