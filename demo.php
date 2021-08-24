@@ -437,6 +437,40 @@
 									</div>
 								</div>	
 
+								<h2 class="tab-content-title content-section-title mt-4">6. Attendance</h2>
+								<div class="pl-4">
+									<div class="row mt-3">
+										<div class="col-sm-12 col-md-12 col-lg-12">
+											<p class="trial-font-size">
+												User can submit day off or paid leave from application.
+											</p>
+											<p class="trial-font-size">
+												<span style="color: var(--primary-main)">●</span>
+												Click <b>“Attendance”</b> menu and choose <b>“Day Off / Leave”</b>												
+											</p>
+											<img src="/img/trial/pengguna-umum/attendance-1.png" class="mb-5 img-fluid w-100 img-border" alt="attendance-1" loading="lazy"  />
+											<p class="trial-font-size">
+												<span style="color: var(--primary-main)">●</span>
+												Click  <b>“Request Day Off”</b> button to propose paid leave																							
+											</p>
+											<img src="/img/trial/pengguna-umum/attendance-2.png" class="mb-5 img-fluid w-100 img-border" alt="attendance-2" loading="lazy"  />																												
+										</div>
+									</div>
+
+									<div class="row mt-3">
+										<div class="col-sm-12 col-md-6 col-lg-6">
+											<p class="trial-font-size">
+												<span style="color: var(--primary-main)">●</span>
+												Input the information needed to propose paid leave , then click <b>“Submit”</b> button.																																											
+											</p>
+										</div>
+										<div class="col-sm-12 col-md-6 col-lg-6">
+											<img src="/img/trial/pengguna-umum/attendance-3.png" class="mb-5 img-fluid w-100 img-border" alt="attendance-3" loading="lazy"  />																												
+										</div>
+									</div>
+
+								</div>
+
 							</div>
 						</div>
 						<div class="tab-pane fade" id="mobile-staff" role="tabpanel" aria-labelledby="mobile-staff-tab">
