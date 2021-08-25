@@ -42,7 +42,7 @@
 		<div class="container">
 			<div class="row mt-5">
 				<div class="offset-md-1 col-md-10">
-					<h1 class="fs-30 text-center pt-5 mb-3">Cara Penggunaan Aplikasi Dokodemo-Kerja</h1>
+					<h1 class="fs-30 text-center pt-5 mb-3">How to Use the Dokodemo-Kerja Application</h1>
 					<p class="text-center">
 						As one of the best Human Resource Information System (HRIS) software currently available in Indonesia, Dokodemo-Kerja was made to provide solutions for HR departments of companies that seek to use digital technology for a more effective and efficient Human Resources (HR) management processes.
 					</p>
@@ -146,18 +146,16 @@
 					<div class="tab-content" id="nav-tabContent">
 						<div class="tab-pane fade show active" id="nav-home" role="tabpanel" aria-labelledby="nav-home-tab">
 							<div class="trial-tab-container">
-								<div>
-									<div>
-										<h2 class="tab-content-title content-section-title">1. Access Demo Environment</h2>
-										<p class="trial-tab-content --no-list d-block mt-0">Click <a href="https://demo.dokodemo-kerja.com/" target="_blank" rel="noopener noreferrer">this link</a> to access the Demo page</p>
-									</div>
+								<div>								
+									<h2 class="tab-content-title content-section-title">1. Access Demo Environment</h2>
+									<p class="mt-0 trial-font-size"> <span style="color: var(--primary-main)">●</span> Please click <a href="https://demo.dokodemo-kerja.com/" target="_blank" rel="noopener noreferrer">here </a> in order to access the Dokodemo-Kerja web page.</p>																			  
+									<p class="mt-0 trial-font-size"> <span style="color: var(--primary-main)">●</span> Login with the provided email and password.</p>																											
 									<div class="pl-4 mb-5">
-										<div class="row">
-											<div class="col-md-6 col-lg-8">
-												<p class="trial-tab-content">Login with the provided email and password.</p>
+										<div class="row">									
+											<div class="col-sm-12 col-md-12 col-lg-12">
 												<picture>
-													<source srcset="/img/trial/admin-1.webp" type="image/webp">
-													<img src="/img/trial/admin-1.jpg" alt="Dokodemo-Kerja Website Login" class="img-fluid img-border mb-3">
+													<!-- <source srcset="/img/trial/pengguna-umum/1.webp" type="image/webp">												 -->
+													<img src="/img/trial/pengguna-umum/1.png" class="mb-3 img-fluid w-100 img-border" alt="Akses Demo Environment" loading="lazy" />
 												</picture>
 											</div>
 										</div>
@@ -166,170 +164,313 @@
 								<div>
 									<h2 class="tab-content-title content-section-title">2. Task Setting</h2>
 									<div class="pl-4">
-										<p class="trial-tab-content">It can be accessed through clicking <strong>Profile</strong> > <strong>Settings</strong> > <strong>Task</strong>.</p>
-										<picture>
-											<source srcset="/img/trial/admin-3-1.webp" type="image/webp">
-											<img src="/img/trial/admin-3-1.jpg" alt="Dokodemo-Kerja Drop Down Account Access Option" class="mb-3 img-fluid w-100 img-border">
-										</picture>
 										<div class="row">
-											<div class="col-md-6">
-												<p class="trial-tab-content">Click "<strong>Add New</strong>" to add new Task.<br class="d-none d-md-block d-lg-none d-xl-block"><br class="d-none d-md-block d-lg-none d-xl-block"><br class="d-none d-md-block d-lg-none"></p>
-												<picture>
-													<source srcset="/img/trial/admin-3-2.webp" type="image/webp">
-													<img src="/img/trial/admin-3-2.jpg" alt="Dokodemo-Kerja 'Add New' Button" class="mb-3 img-fluid w-100 img-border">
-												</picture>
+											<div class="col-sm-12 col-md-12 col-lg-12">	
+												<p class="trial-font-size">
+													As an admin, you get permission to conduct Task Management.
+												</p>										
+												<p class="mt-0 trial-font-size"> 
+													<span style="color: var(--primary-main)">●</span> 
+													Open Settings, then click <b>“Task”</b>.
+												</p>																													
+												<img src="/img/trial/fungsi-admin-tab/1.png" class="mb-3 img-fluid w-100 img-border" alt="pengaturan-task" loading="lazy" />																							
+											</div>										
+										</div>
+										
+										<div class="row mt-4">
+											<div class="col-sm-12 col-md-6 col-lg-6">
+												<p class="mt-0 trial-font-size"> 
+													<span style="color: var(--primary-main)">●</span> 
+													Press the <b>"Add New"</b> button in order to add a New Task.
+												</p>
 											</div>
-											<div class="col-md-6">
-												<p class="trial-tab-content">Fill the task new information, click Submit, and New Task Added. </p>
-												<picture>
-													<source srcset="/img/trial/admin-3-3.webp" type="image/webp">
-													<img src="/img/trial/admin-3-3.jpg" alt="Dokodemo-Kerja Install Guide" class="mb-5 img-fluid w-100 img-border">
-												</picture>
+											<div class="col-sm-12 col-md-6 col-lg-6">	
+												<img src="/img/trial/fungsi-admin-tab/2.png" class="mb-3 img-fluid w-100 img-border" alt="task-management-add-new" loading="lazy" />	
 											</div>
 										</div>
-									</div>
+
+										<div class="row mt-4">
+											<div class="col-sm-12 col-md-6 col-lg-6">
+												<p class="mt-0 trial-font-size"> 
+													<span style="color: var(--primary-main)">●</span> 													
+													Fill in the task name, team, and color tag of your choice, then click <b>“Submit”</b>.													
+												</p>												
+											</div>
+											<div class="col-sm-12 col-md-6 col-lg-6">
+												<img src="/img/trial/fungsi-admin-tab/3.png" class="mb-3 img-fluid w-100 img-border" alt="task-management-add-new-button-cancel-submit" loading="lazy" />
+											</div>
+										</div>
+									</div>									
 								</div>
 								<div>
 									<h2 class="tab-content-title content-section-title">3. Team Setting</h2>
 									<div class="pl-4">
-										<p class="trial-tab-content">It can be accessed through clicking <strong>Profile</strong> > <strong>Settings</strong> > <strong>Team</strong>.</p>
-										<picture>
-											<source srcset="/img/trial/admin-4-1.webp" type="image/webp">
-											<img src="/img/trial/admin-4-1.jpg" alt="Dokodemo-Kerja Drop Down Account Access Option" class="mb-3 img-fluid w-100 img-border">
-										</picture>
 										<div class="row">
-											<div class="col-md-6">
-												<p class="trial-tab-content">Click "<strong>Add New</strong>" to add new Team.<br class="d-none d-md-block d-lg-none d-xl-block"><br class="d-none d-md-block d-lg-none d-xl-block"></p>
-												<picture>
-													<source srcset="/img/trial/admin-4-2.webp" type="image/webp">
-													<img src="/img/trial/admin-4-2.jpg" alt="Dokodemo-Kerja 'Add New' Button" class="mb-5 img-fluid w-100 img-border">
-												</picture>
+											<div class="col-sm-12 col-md-12 col-lg-12">	
+												<p class="trial-font-size">
+													As an admin, you have permission to access Team Management options.
+												</p>										
+												<p class="mt-0 trial-font-size"> 
+													<span style="color: var(--primary-main)">●</span> 
+													Open Settings, then click <b>“Team”</b>.													
+												</p>																													
+												<img src="/img/trial/fungsi-admin-tab/pengaturan-team-1.png" class="mb-3 img-fluid w-100 img-border" alt="pengaturan-team-1" loading="lazy" />																							
+																																			
+											</div>										
+										</div>
+
+										<div class="row mt-4">
+											<div class="col-sm-12 col-md-6 col-lg-6">
+												<p class="mt-0 trial-font-size"> 
+													<span style="color: var(--primary-main)">●</span> 
+													Press the <b>"Add New"</b> untuk menambahkan button in order to add  <b>“New Team”</b>.													
+
+												</p>
 											</div>
-											<div class="col-md-6">
-												<p class="trial-tab-content">Input the new Team Name and click "<strong>Submit</strong>". </p>
-												<picture>
-													<source srcset="/img/trial/admin-4-3.webp" type="image/webp">
-													<img src="/img/trial/admin-4-3.jpg" alt="Dokodemo-Kerja Add Team Management" class="mb-5 img-fluid w-100 img-border">
-												</picture>
+											<div class="col-sm-12 col-md-6 col-lg-6">
+												<img src="/img/trial/fungsi-admin-tab/pengaturan-team-2.png" class="mb-3 img-fluid w-100 img-border" alt="pengaturan-team-2" loading="lazy" />																							
 											</div>
 										</div>
-									</div>
+										<div class="row mt-4">
+											<div class="col-sm-12 col-md-6 col-lg-6">
+												<p class="mt-0 trial-font-size"> 
+													<span style="color: var(--primary-main)">●</span> 
+													Fill in the team name then press <b>“Submit”</b> which then adds a new team.													
+												</p>
+											</div>
+											<div class="col-sm-12 col-md-6 col-lg-6">
+												<img src="/img/trial/fungsi-admin-tab/pengaturan-team-3.png" class="mb-3 img-fluid w-100 img-border" alt="pengaturan-team-3" loading="lazy" />																							
+											</div>
+										</div>
+									</div>								
 								</div>
 								<div>
 									<h2 class="tab-content-title content-section-title">4. Staff Settings</h2>
 									<div class="pl-4">
-										<p class="trial-tab-content">It can be accessed through clicking <strong>Profile</strong> > <strong>Settings</strong> > <strong>Staff</strong>.</p>
-										<picture>
-											<source srcset="/img/trial/admin-2-1.webp" type="image/webp">
-											<img src="/img/trial/admin-2-1.jpg" alt="Dokodemo-Kerja Drop Down Account Access Option" class="mb-3 img-fluid w-100 img-border">
-										</picture>
 										<div class="row">
-											<div class="col-md-6">
-												<p class="trial-tab-content">Click "<strong>Add New</strong>" to add new Staff.<br class="d-none d-md-block"><br class="d-none d-md-block"></p>
-												<picture>
-													<source srcset="/img/trial/admin-2-2.webp" type="image/webp">
-													<img src="/img/trial/admin-2-2.jpg" alt="Dokodemo-Kerja 'Add New' Button" class="mb-3 img-fluid w-100 img-border">
-												</picture>
+											<div class="col-sm-12 col-md-12 col-lg-12">	
+												<p class="trial-font-size">
+													As an admin, you get permission to conduct Staff Management.
+												</p>										
+												<p class="mt-0 trial-font-size"> 
+													<span style="color: var(--primary-main)">●</span> 
+													Open Settings, then click <b>“Staff”</b>.													
+												</p>																													
+												<img src="/img/trial/fungsi-admin-tab/pengaturan-staff-1.png" class="mb-3 img-fluid w-100 img-border" alt="pengaturan-staff-1" loading="lazy" />																							
+											</div>										
+										</div>
+										
+										<div class="row mt-4">
+											<div class="col-sm-12 col-md-6 col-lg-6">
+												<p class="mt-0 trial-font-size"> 
+													<span style="color: var(--primary-main)">●</span> 
+													Press the <b>"Add New"</b> button in order to add new staff members.													
+												</p>
 											</div>
-											<div class="col-md-6">
-												<p class="trial-tab-content">Input the new Staff information and click "<strong>Submit</strong>".</p>
-												<picture>
-													<source srcset="/img/trial/admin-2-3.webp" type="image/webp">
-													<img src="/img/trial/admin-2-3.jpg" alt="Dokodemo-Kerja's Add Staff option" class="mb-3 img-fluid w-100 img-border">
-												</picture>
+											<div class="col-sm-12 col-md-6 col-lg-6">	
+												<img src="/img/trial/fungsi-admin-tab/pengaturan-staff-2.png" class="mb-3 img-fluid w-100 img-border" alt="pengaturan-staff-2" loading="lazy" />	
 											</div>
 										</div>
-										<p class="trial-tab-content">Login Credentials will be sent to the registered E-mail address. With the credentials you can then use Dokodemo-Kerja.</p>
-										<picture>
-											<source srcset="/img/trial/admin-2-4.webp" type="image/webp">
-											<img src="/img/trial/admin-2-4.jpg" alt="Dokodemo-Kerja Staff Management" class="mb-5 img-fluid w-100 img-border">
-										</picture>
-									</div>
+
+										<div class="row mt-4">
+											<div class="col-sm-12 col-md-6 col-lg-6">
+												<p class="mt-0 trial-font-size"> 
+													<span style="color: var(--primary-main)">●</span> 													
+													Enter the new staff information and then click the <b>"Submit"</b> option.													
+												</p>
+												<p class="mt-0 trial-font-size"> 
+													<span style="color: var(--primary-main)">●</span> 																										
+													After you click the <b>"Submit"</b> button, the system will then send the password <i>(generate by system)</i> in order to register the email address. With this information, any staff members managed by you can then officially use the Dokodemo-Kerja application.
+												</p>	
+												
+											</div>
+											<div class="col-sm-12 col-md-6 col-lg-6">
+												<img src="/img/trial/fungsi-admin-tab/pengaturan-staff-3.png" class="mb-3 img-fluid w-100 img-border" alt="pengaturan-staff-3" loading="lazy" />
+											</div>
+										</div>
+									</div>									
 								</div>
+								<p class="mt-4 " style="font-size: small;">
+									<i>*When you decide to subscribe to Dokodemo-Kerja, the user will also need a Company Code in order to login to the application. Our party will then send it to the company PIC after your company is officially registered.</i>
+								</p>
 							</div>
 						</div>
 						<div class="tab-pane fade" id="nav-profile" role="tabpanel" aria-labelledby="nav-profile-tab">
 							<div class="trial-tab-container">
 								<div>
-									<h2 class="tab-content-title content-section-title">1. Install Dokodemo-Kerja</h2>
-									<p class="trial-tab-content --no-list mt-0">Please use <a href="https://demo.dokodemo-kerja.com/" target="_blank" rel="noopener noreferrer">this link</a> to download the Dokodemo-Kerja application.</p>
+									<h2 class="tab-content-title content-section-title">1. Accessing the Demo Environment</h2>
+									<p class="mt-0 trial-font-size"> 
+										<span style="color: var(--primary-main)">●</span> 
+										Please click <a href="https://demo.dokodemo-kerja.com/" target="_blank" rel="noopener noreferrer">here</a> to access the Dokodemo-Kerja web page.										
+									</p>									
+									<p class="mt-0 trial-font-size"> <span style="color: var(--primary-main)">●</span> You can login with the provided email and password.</p>																		
 								</div>
 								<div class="pl-4 mb-5">
-									<div class="row">
-										<div class="col-md-6">
-											<p class="trial-tab-content ">Extract demo's folder and find Dokodemo-Kerja programs</p>
-											<img src="/img/trial/staff-1.png" class="mb-3 img-fluid w-100 img-border" alt="Dokodemo-Kerja Zip File"/>
-										</div>
-										<div class="col-md-6">
-											<p class="trial-tab-content">Run the Application <br class="d-none d-md-block"><br class="d-none d-md-block"></p>
-											<img src="/img/trial/staff-2.png" class="mb-3 img-fluid w-100 img-border" alt="Downloaded Dokodemo-Kerja App Icon"/>
+									<div class="row">									
+										<div class="col-sm-12 col-md-12 col-lg-12">
+											<img src="/img/trial/pengguna-umum/1.png" class="mb-3 img-fluid w-100 img-border" alt="Akses Demo Environment" loading="lazy" />
 										</div>
 									</div>
 								</div>
 
-								<h2 class="tab-content-title content-section-title">2. Login and start using</h2>
+								<h2 class="tab-content-title content-section-title">2. Install Dokodemo-Kerja</h2>
 								<div class="pl-4">
 									<div class="row">
-										<div class="col-md-6">
-											<div class="trial-tab-content">
-												<p class="mb-0">
-													Login with the credentials sent to your Email.
-												</p>
-											</div>
-											<img src="/img/trial/staff-3.png" class="mb-3 img-fluid w-100 img-border" alt="Dokodemo-Kerja Version 2.0.0"/>
-										</div>
-										<div class="col-md-6">
-											<p class="trial-tab-content">Start your work by selecting your "<strong>Task</strong>" and press the "<strong>Play</strong>" button</p>
-											<img src="/img/trial/staff-4.png" class="mb-3 img-fluid w-100 img-border" alt="Dokodemo-Kerja Application"/>
-											<p class="trial-tab-content">You can stop by pressing the "<strong>Stop</strong>" (red) button</p>
-											<img src="/img/trial/staff-5.png" class="mb-5 img-fluid w-100 img-border" alt="Dokodemo-Kerja Application Appearance"/>
-										</div>
+										<div class="col-sm-12 col-md-12 col-lg-12">											
+											<p class="mt-0 trial-font-size"> <span style="color: var(--primary-main)">●</span> 
+												Click the <i>“download desktop app”</i> menu in order to download the demo app on your device.
+											</p>																													
+											<img src="/img/trial/pengguna-umum/2.png" class="mb-3 img-fluid w-100 img-border" alt="Install Dokodemo-Kerja" loading="lazy" />
+											<p class="mt-0 trial-font-size"> <span style="color: var(--primary-main)">●</span> 												
+												Extract the demo folder and look for the Dokodemo-Kerja program
+											</p>	
+											<p class="mt-0 trial-font-size"> <span style="color: var(--primary-main)">●</span> 
+												Run the demo version of the Dokodemo-Kerja application on your device.
+											</p>																													
+										</div>										
 									</div>
 								</div>
-
-								<h2 class="tab-content-title content-section-title">3. Other Features</h2>
+								
+								<h2 class="tab-content-title content-section-title mt-4">3. Login and use the application</h2>
 								<div class="pl-4">
-									<div class="row">
-										<div class="col-md-6">
-											<div class="trial-tab-content">
-												<p class="mb-0">
-													There’s also today’s and week’s total hours written on homepage and,
-												</p>
-												<div class="trial-tab-content__list">
-													<span style="color: #098AE4"><strong>Blue</strong></span>
-													<span>: Minimize or Maximize the application</span>
-												</div>
-												<div class="trial-tab-content__list">
-													<span style="color: #E6B403"><strong>Yellow</strong></span>
-													<span>: Go to Dokodemo-Kerja Admin website</span>
-												</div>
-												<div class="trial-tab-content__list">
-													<span style="color: #E3092A"><strong>Red</strong></span>
-													<span>: Logout</span>
-												</div>
-												<div class="trial-tab-content__list">
-													<span><strong>Today</strong></span>
-													<span>: Today's accumulative work hours</span>
-												</div>
-												<div class="trial-tab-content__list">
-													<span><strong>Weekly</strong></span>
-													<span>: This week's accumulative work hours</span>
-												</div>
-											</div>
+									<div class="row mt-3">
+										<div class="col-sm-12 col-md-6 col-lg-6">											
+											<p class="mb-0 trial-font-size">
+												<span style="color: var(--primary-main)">●</span>
+												For the demo version, please login using the <b>Company Code, Email,</b> dan <b>the default Password</b> that we have provided. Then click the <i>“Login”</i> option.												 
+											</p>											
 										</div>
-										<div class="col-md-6">
-											<img src="/img/trial/staff-6.png" class="mb-3 img-fluid w-100 img-border" alt="Dokodemo-Kerja Application"/>
+										<div class="col-sm-12 col-md-6 col-lg-6">
+											<img src="/img/trial/pengguna-umum/3.jpg" class="mb-3 img-fluid w-100 img-border" alt="Masuk dan gunakan aplikasi" loading="lazy" />
+										</div>										
+									</div>
+									<div class="row mt-3">
+										<div class="col-sm-12 col-md-6 col-lg-6">											
+											<p class="mb-0 trial-font-size">
+												<span style="color: var(--primary-main)">●</span>
+												Select the type of <b>“Task”</b>  you want to work on, then press the <i>“Play”</i> button.												 
+											</p>
+											<p class="mb-0 mt-2 trial-font-size">
+												<span style="color: var(--primary-main)">●</span>
+												Press the <b>"Stop"</b> button (red) in order to stop the application.												
+											</p>											
+										</div>
+										<div class="col-sm-12 col-md-6 col-lg-6">
+											<img src="/img/trial/pengguna-umum/4.jpg" class="mb-3 img-fluid w-100 img-border" alt="Masuk dan gunakan aplikasi" loading="lazy" />
+										</div>										
+									</div>
+								</div>	
+
+								<h2 class="tab-content-title content-section-title mt-4">4. Other Features</h2>
+								<div class="pl-4">
+									<div class="row mt-3">
+										<div class="col-sm-12 col-md-6 col-lg-6">	
+											<p class="trial-font-size">
+												<span style="color: var(--primary-main)">●</span>
+												Notification: notifications regarding the approval or rejection of a day off/leave.
+											</p>
+											<p class="trial-font-size">
+												<span style="color: var(--primary-main)">●</span>												
+												Announcement: notifications regarding a day off or information pertaining to national holidays.
+											</p>
+											<p class="trial-font-size">
+												<span style="color: var(--primary-main)">●</span>												
+												Today: number of hours worked per day.
+											</p>
+											<p class="trial-font-size">
+												<span style="color: var(--primary-main)">●</span>												
+												Weekly: number of hours worked per week.
+											</p>	
+											<p class="trial-font-size">
+												<span style="color: var(--primary-main)">●</span>	
+												<span>
+													<img src="/img/trial/pengguna-umum/icon-minimize.PNG" height="40px" width="40px" class="img-border" alt="icon-minimize" loading="lazy"  />
+												</span>												
+												: To minimize your Dokodemo-Kerja application
+											</p>
+											<p class="trial-font-size">
+												<span style="color: var(--primary-main)">●</span>	
+												<span>
+													<img src="/img/trial/pengguna-umum/icon-browse-page-dokodemo.PNG" height="40px" width="40px" class="img-border" alt="icon-minimize" loading="lazy"  />
+												</span>												
+												: To access the Dokodemo-Kerja web page
+											</p>	
+											<p class="trial-font-size">
+												<span style="color: var(--primary-main)">●</span>	
+												<span>
+													<img src="/img/trial/pengguna-umum/icon-logout.PNG" height="40px" width="40px" class="img-border" alt="icon-minimize" loading="lazy"  />
+												</span>												
+												: To Log Out of the application. 
+											</p>											
+											
+										</div>
+										<div class="col-sm-12 col-md-6 col-lg-6">	
+											<img src="/img/trial/pengguna-umum/6.jpg" class="mb-5 img-fluid w-100 img-border" alt="fitur-lain-1" loading="lazy"  />
+										</div>
+									</div>								
+								</div>
+
+								<h2 class="tab-content-title content-section-title mt-4">5. Work Session</h2>
+								<div class="pl-4">
+									<div class="row mt-3">
+										<div class="col-sm-12 col-md-12 col-lg-12">
+											<img src="/img/trial/pengguna-umum/7.png" class="mb-5 img-fluid w-100 img-border" alt="work-session-1" loading="lazy"  />
+											<p class="trial-font-size">
+												<span style="color: var(--primary-main)">●</span>
+												Click the <b>“Work Session”</b> menu and select the <b>“My Work Session”</b> option.												
+											</p>
+											<hr />
+											<p class="mt-4 trial-font-size">
+												On this page, you can view the daily, weekly, or monthly total hours worked for a specific task. In addition, you can view the screenshots taken of your desktop while you were working.
+											</p>
+											<img src="/img/trial/pengguna-umum/8.png" class="mb-5 img-fluid w-100 img-border" alt="work-session-2" loading="lazy"  />
+											<p class="trial-font-size">
+												When you forget to turn off Dokodemo-Kerja and the overall hours recorded become inaccurate, you can use the 
+												<span>
+													<img src="/img/trial/pengguna-umum/icon-edit.PNG" height="40px" width="40px" class="img-border" alt="icon-minimize" loading="lazy"  />
+												</span>	
+												<b>icon  </b> to change this. Any changes will be recorded by the system and displayed on the <b>“History Edited Time”</b> menu.
+											</p>
+
+
 										</div>
 									</div>
+								</div>	
+
+								<h2 class="tab-content-title content-section-title mt-4">6. Attendance</h2>
+								<div class="pl-4">
+									<div class="row mt-3">
+										<div class="col-sm-12 col-md-12 col-lg-12">
+											<p class="trial-font-size">
+												Users can apply for a day off / leave through the application
+											</p>
+											<p class="trial-font-size">
+												<span style="color: var(--primary-main)">●</span>
+												Click the <b>“Attendance”</b> menu and select <b>“Day Off / Leave”</b>																								
+											</p>
+											<img src="/img/trial/pengguna-umum/attendance-1.png" class="mb-5 img-fluid w-100 img-border" alt="attendance-1" loading="lazy"  />
+											<p class="trial-font-size">
+												<span style="color: var(--primary-main)">●</span>
+												Press the <b>“Request Day Off”</b> button in order to apply for a leave.																																		
+											</p>
+											<img src="/img/trial/pengguna-umum/attendance-2.png" class="mb-5 img-fluid w-100 img-border" alt="attendance-2" loading="lazy"  />																												
+										</div>
+									</div>
+
+									<div class="row mt-3">
+										<div class="col-sm-12 col-md-6 col-lg-6">
+											<p class="trial-font-size">
+												<span style="color: var(--primary-main)">●</span>
+												Enter the required information to apply for a leave, then click <b>“Submit”</b> button.																																																							
+											</p>
+										</div>
+										<div class="col-sm-12 col-md-6 col-lg-6">
+											<img src="/img/trial/pengguna-umum/attendance-3.png" class="mb-5 img-fluid w-100 img-border" alt="attendance-3" loading="lazy"  />																												
+										</div>
+									</div>
+
 								</div>
 
-								<h2 class="tab-content-title content-section-title">4. Screen Display</h2>
-								<div class="pl-4">
-									<p class="trial-tab-content">
-										You can check which task was performed along with the duration of the task. You can edit the work time by clicking the edit icon. The edit history is also displayed in the center of the screen. The screenshots are displayed at the bottom of the screen.
-									</p>
-									<img src="/img/trial/staff-7.png" class="mb-5 img-fluid w-100 img-border" alt="Dokodemo-Kerja Time Tracking"/>
-								</div>
 							</div>
 						</div>
 						<div class="tab-pane fade" id="mobile-staff" role="tabpanel" aria-labelledby="mobile-staff-tab">
@@ -444,8 +585,7 @@
 											</div>
 										</div>
 									</div>
-								</div>
-								
+								</div>								
 							</div>
 						</div>
 					</div>

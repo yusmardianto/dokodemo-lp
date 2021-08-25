@@ -1,3 +1,19 @@
+:root {
+  --primary-main: #1282c2;
+  --primary-light: #5eb1f5;
+  --primary-dark: #005691;
+
+  --secondary-light: #eeb903;
+  --secondary-main: #eeb903;                
+  --secondary-dark: #b78a00;  
+
+  --common-black: #000000;
+  --common-white: #ffffff;
+  --common-gray: #bdbdbd;
+  --common-red: #FF0000;                 
+  --common-yellow: #e1b211;                
+}
+
 .trial-title {
   font-weight: 700;
   font-size: 2.5rem;
@@ -112,6 +128,11 @@
 /* .trial-tab-container {
   margin-top: 1.5rem;
 } */
+.trial-font-size {  
+  color: black;
+  font-size: 18px;
+}
+
 .tab-content-title {
   font-size: 28px;
   font-weight: bold;
