@@ -442,16 +442,16 @@
 									<div class="row mt-3">
 										<div class="col-sm-12 col-md-12 col-lg-12">
 											<p class="trial-font-size">
-												User can submit day off or paid leave from application.
+												Users can apply for a day off / leave through the application
 											</p>
 											<p class="trial-font-size">
 												<span style="color: var(--primary-main)">●</span>
-												Click <b>“Attendance”</b> menu and choose <b>“Day Off / Leave”</b>												
+												Click the <b>“Attendance”</b> menu and select <b>“Day Off / Leave”</b>																								
 											</p>
 											<img src="/img/trial/pengguna-umum/attendance-1.png" class="mb-5 img-fluid w-100 img-border" alt="attendance-1" loading="lazy"  />
 											<p class="trial-font-size">
 												<span style="color: var(--primary-main)">●</span>
-												Click  <b>“Request Day Off”</b> button to propose paid leave																							
+												Press the <b>“Request Day Off”</b> button in order to apply for a leave.																																		
 											</p>
 											<img src="/img/trial/pengguna-umum/attendance-2.png" class="mb-5 img-fluid w-100 img-border" alt="attendance-2" loading="lazy"  />																												
 										</div>
@@ -461,7 +461,7 @@
 										<div class="col-sm-12 col-md-6 col-lg-6">
 											<p class="trial-font-size">
 												<span style="color: var(--primary-main)">●</span>
-												Input the information needed to propose paid leave , then click <b>“Submit”</b> button.																																											
+												Enter the required information to apply for a leave, then click <b>“Submit”</b> button.																																																							
 											</p>
 										</div>
 										<div class="col-sm-12 col-md-6 col-lg-6">
