@@ -40,9 +40,16 @@
 
 	<section class="pb-5">
 		<div class="container">
+			<div class="row">
+				<div class="offset-md-2 col-md-8">
+					<a href="https://docs.google.com/forms/d/e/1FAIpQLScn73Hhf36KQvOGc81WAlmfTOz12E1XKJqfh7uQ2zC6x8wsUQ/viewform" target="_blank">
+						<img src="/img/dokodemo-event-banner.jpg" class="img-fluid" alt="">
+					</a>
+				</div>
+			</div>
 			<div class="row mt-5">
 				<div class="offset-md-1 col-md-10">
-					<h1 class="fs-30 text-center pt-5 mb-3">How to Use the Dokodemo-Kerja Application</h1>
+					<h1 class="fs-30 text-center pt-2 mb-3">How to Use the Dokodemo-Kerja Application</h1>
 					<p class="text-center">
 						As one of the best Human Resource Information System (HRIS) software currently available in Indonesia, Dokodemo-Kerja was made to provide solutions for HR departments of companies that seek to use digital technology for a more effective and efficient Human Resources (HR) management processes.
 					</p>
