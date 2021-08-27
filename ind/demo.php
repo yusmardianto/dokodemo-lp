@@ -43,6 +43,13 @@ require '../action/c-trial.php';
 	
 	<section class="pb-5">
 		<div class="container">
+			<div class="row">
+				<div class="offset-md-2 col-md-8">
+					<a href="https://docs.google.com/forms/d/e/1FAIpQLScn73Hhf36KQvOGc81WAlmfTOz12E1XKJqfh7uQ2zC6x8wsUQ/viewform" target="_blank">
+						<img src="/img/dokodemo-event-banner.jpg" class="img-fluid" alt="">
+					</a>
+				</div>
+			</div>
 			<div class="row mt-5">
 				<div class="offset-md-1 col-md-10">
 					<h1 class="fs-30 text-center pt-5 mb-3">Cara Penggunaan Aplikasi Dokodemo-Kerja</h1>
