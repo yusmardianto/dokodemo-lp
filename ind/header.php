@@ -82,7 +82,7 @@
                 </li>
                 <li class="nav-item">
                     <a class="nav-link" target="_blank" rel="noopener noreferrer"
-                        href="/ind/beranda/">blog</a>
+                        href="/ind/beranda/">Blog</a>
                 </li>
                 <li class="nav-item <?php active('contact-us') ?>">
                     <a class="nav-link" href="/ind/contact-us">Hubungi Kami</a>
