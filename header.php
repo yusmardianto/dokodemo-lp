@@ -84,7 +84,7 @@
                 </li>
                 <li class="nav-item">
                     <a class="nav-link" target="_blank" rel="noopener noreferrer"
-                        href="/hris-info">HRIS Info</a>
+                        href="/blog">Blog</a>
                 </li>
                 <li class="nav-item <?php active('contact-us') ?>">
                     <a class="nav-link" href="/contact-us">Contact Us</a>
