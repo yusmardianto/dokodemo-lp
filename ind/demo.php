@@ -138,7 +138,7 @@ require '../action/c-trial.php';
 					</a> -->
 					<div class="installation-manual">
 						Download manual instalasi di sini:
-						<a class="installation-manual__item" target="_blank" href="https://drive.google.com/file/d/1JSkS98_d3fUzaNcVLv0QWtX0eGEVq4HR/view?usp=sharing">
+						<a class="installation-manual__item" target="_blank" href="/pdf/panduan_instalasi-DOKODEMO_Versi_3.0.0.pdf">
 							<img src="/img/trial/pdf.svg" alt="">
 							Desktop
 						</a>
@@ -150,7 +150,7 @@ require '../action/c-trial.php';
 
 					<div class="installation-manual">
 						Download user manual di sini:
-						<a class="installation-manual__item" target="_blank" href="/pdf/user_manual_dokodemo_ver_2-2-2-id.pdf">
+						<a class="installation-manual__item" target="_blank" href="/pdf/USER_GUIDE_LINE_DOKODEMO_VERSI_3.0.0.pdf">
 							<img src="/img/trial/pdf.svg" alt="" loading="lazy" />
 							Desktop
 						</a>
