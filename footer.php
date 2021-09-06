@@ -17,7 +17,7 @@
                 <ul class="mb-2 list-inline footer__list">
                     <li class="list-inline-item"><a href="/">Home</a></li>
                     <li class="list-inline-item"><a href="/about">About Us</a></li>
-                    <li class="list-inline-item"><a href="/features">Work From Home</a></li>
+                    <li class="list-inline-item"><a href="/features">features</a></li>
                     <li class="list-inline-item"><a href="/case-study">Case Study</a></li>
                     <li class="list-inline-item"><a href="/price">Price</a></li>
                     <li class="list-inline-item"><a href="/demo">Demo</a></li>
