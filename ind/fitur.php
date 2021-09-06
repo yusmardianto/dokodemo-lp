@@ -38,6 +38,10 @@
                 <div class="col-lg-10">
                     <p class="fs-14">Dokodemo-Kerja adalah aplikasi kerja remote (work from home) yang dibuat berdasarkan fungsi pencatatan waktu kerja (dengan fungsi screen capture). Selain efektif untuk meningkatkan efisiensi kerja, juga membantu tim HR seperti memantau data kehadiran, penghitungan upah lembur, dan penghitungan jumlah cuti, dengan adanya fungsi diatas membuka peluang untuk menerapkan gaya kerja yang fleksibel seperti kerja jarak jauh maupun pengurangan jam kerja sehingga produktivitas karyawan meningkat.</p>
                 </div>
+                <div class="col-lg-10 d-flex justify-content-around">
+                    <a href="https://demo.dokodemo-kerja.com" class="btn btn-yellow-action bg--yellow uppercase" target="_blank" rel="noopener noreferrer">Coba Demo</a>
+                    <a href="/ind/contact-us" class="btn btn-yellow-action bg--yellow uppercase">Hubungi Kami</a>
+                </div>
             </div>            
         </div>
     </section>
@@ -143,7 +147,7 @@
                     </div>
                     <div class="col-md-6">
                         <h2 class="mb--20px fs-20 font-weight-bold">Mengelola Cuti dan Liburan</h2>
-                        <p class="mb-0 fs-14">Lewat Dokodemo-Kerja dapat dengan mudah menyetujui permintaan Cuti dari pengguna, dan dari HR pun bisa mengelola cuti yang diambil dan sisanya.</p>
+                        <p class="mb-0 fs-14">Melalui Dokodemo-Kerja selain dapat menyetujui permintaan Cuti dari pengguna, HR juga dapat mengelola tim secara efektif dan efisien karena dapat melihat secara lengkap staff yang mengajukan cuti.</p>
                     </div>
                 </div>
             </div>
@@ -173,8 +177,55 @@
     </section>
     
 </div>
-
-<?php include($_SERVER['DOCUMENT_ROOT'].'/ind/component/demo-banner.php'); ?>
+<section class="color--blue pb--60px demo__schedule">
+    <div class="container">
+        <div class="row">
+            <div class="col-md-6 mb-3 mb-md-0">
+                <div class="bg--l-blue rounded-lg text-center schedule">
+                    <h5 class="font-weight-bold mb-4 fs-20">Jadwalkan Konsultasi Online</h5>
+                    <div class="row justify-content-center">
+                        <div class="col-md-8">
+                            <picture>
+                                <source srcset="/img/home/schedule-online.svg">
+                                <img src="/img/home/schedule-online.png" alt="online meeting" class="img-fluid" loading="lazy">
+                            </picture>
+                        </div>
+                        <div class="col-md-8">
+                            <p class="my-4">Jadwalkan konsultasi online dengan tim kami untuk demo software</p>
+                        </div>
+                        <div class="col-md-6">
+                            <button type="button" id="btn_online_meet_form_id" class="form-control btn btn--rounded bg--yellow" data-title="online" data-toggle="modal" data-target="#meetingSchedule">
+                                Online
+                            </button>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="col-md-6">
+                <div class="bg--l-blue rounded-lg text-center schedule">
+                    <h5 class="font-weight-bold mb-4 fs-20">Jadwalkan Konsultasi Offline</h5>
+                    <div class="row justify-content-center">
+                        <div class="col-md-8">
+                            <picture>
+                                <source srcset="/img/home/schedule-offline.svg" type="image/">
+                                <img src="/img/home/schedule-offline.png" alt="offline meeting" class="img-fluid" loading="lazy">
+                            </picture>
+                        </div>
+                        <div class="col-md-8">
+                            <p class="my-4">Jadwalkan konsultasi offline dengan tim kami untuk demo software</p>
+                        </div>
+                        <div class="col-md-6">
+                            <button type="button" id="btn_offline_meet_form_id" class="form-control btn btn--rounded bg--yellow" data-title="offline" data-toggle="modal" data-target="#meetingSchedule">
+                                Offline
+                            </button>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+<?php include($_SERVER['DOCUMENT_ROOT'].'/ind/component/modal-meeting.php'); ?>
 <?php 
     $add_js = '<script src="/js/jquery.magnific-popup.min.js"></script>';
     include($_SERVER['DOCUMENT_ROOT'].'/ind/component/footer.php'); 
@@ -207,4 +258,33 @@
         });
     })
 </script>
+<!-- schedule meeting form -->
+<script type="text/javascript">
+    // Handle Success and Error 
+    <?php if (!is_null($success)) { ?>
+        $('#meetingScheduleSent').modal('show');
+    <?php } else if ($errors) {?>
+          // code handle here
+          window.location.href= "/";
+    <?php }?>
+    // when close modals redirect to home page and kill session
+    $('#meetingScheduleSent').on('hidden.bs.modal', function () {
+        window.location.href= "/";
+    })
+</script>
+
+<script type="text/javascript">
+    $("#meetingSchedule").on('show.bs.modal', function () {
+        grecaptcha.reset();
+    });
+    
+    function enableBtn(){
+		$('#meeting-form-submit').attr('disabled', false);
+	}
+
+	$(document).ready(function() {
+		$('#meeting-form-submit').attr('disabled', true);
+	});
+</script>
+
 <?php include($_SERVER['DOCUMENT_ROOT'].'/component/footer-end.php') ?>

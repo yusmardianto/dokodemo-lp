@@ -167,7 +167,7 @@
 
     <section class="read-testimony">
         <h3>Ingin tahu apa yang dikatakan orang lain?</h3>
-        <a href="index.php#testimony" class="btn-read-testimony" id="btn-read-testimony-id">
+        <a href="https://dokodemo-kerja.com/ind/" class="btn-read-testimony" id="btn-read-testimony-id">
         Baca Ulasan Pelanggan
         </a>
     </section>
