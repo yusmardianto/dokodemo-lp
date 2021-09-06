@@ -39,6 +39,10 @@
                 <div class="col-lg-10">
                     <p class="fs-14">Dokodemo-Kerja is an attendance & work content management system with work-time monitoring and tracking features (based on a screenshot taking function). Not only are these features effective in improving the efficiency of HR work overall, such as in regards to attendance management, the calculation of overtime pay, and calculating paid holidays, but it also enables the introduction of more flexible work styles, such as remote work and reduced working hours. As a result, this leads to increased employee productivity.</p>
                 </div>
+                <div class="col-lg-10 d-flex justify-content-around">
+                    <a href="https://demo.dokodemo-kerja.com" class="btn btn-yellow-action bg--yellow uppercase" target="_blank" rel="noopener noreferrer">Try Demo</a>
+                    <a href="/contact-us" class="btn btn-yellow-action bg--yellow uppercase">Contact Us</a>
+                </div>
             </div>            
         </div>
     </section>
@@ -145,7 +149,7 @@
                     </div>
                     <div class="col-md-6">
                         <h2 class="mb--20px fs-20 font-weight-bold">Manage Day Offs and Holidays</h2>
-                        <p class="mb-0 fs-14">You can approve any Day Off requests through Dokodemo-Kerja. HR can easily manage the number of day offs taken as well as any remaining numbers.</p>
+                        <p class="mb-0 fs-14">Through Dokodemo-Kerja, in addition to being able to approve leave requests from its users, HR can also manage teams more effectively as they can see, in full, the individual team members who are requesting leave.</p>
                     </div>
                 </div>
             </div>
@@ -176,7 +180,55 @@
 
 </div>
 
-<?php include($_SERVER['DOCUMENT_ROOT'].'/component/demo-banner.php'); ?>
+<section class="color--blue pb--60px demo__schedule">
+    <div class="container">
+        <div class="row">
+            <div class="col-md-6 mb-3 mb-md-0">
+                <div class="bg--l-blue rounded-lg text-center schedule">
+                    <h5 class="font-weight-bold mb-4 fs-20">Schedule Online Meeting</h5>
+                    <div class="row justify-content-center">
+                        <div class="col-md-8">
+                            <picture>
+                                <source srcset="/img/home/schedule-online.svg">
+                                <img src="/img/home/schedule-online.png" alt="online meeting" class="img-fluid" loading="lazy">
+                            </picture>
+                        </div>
+                        <div class="col-md-8">
+                            <p class="my-4">Set up an online consultation with our team for a software demo</p>
+                        </div>
+                        <div class="col-md-6">
+                            <button type="button" id="btn_online_meet_form_en" class="form-control btn btn--rounded bg--yellow" data-title="online" data-toggle="modal" data-target="#meetingSchedule">
+                                Online
+                            </button>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="col-md-6">
+                <div class="bg--l-blue rounded-lg text-center schedule">
+                    <h5 class="font-weight-bold mb-4 fs-20">Schedule Offline Meeting</h5>
+                    <div class="row justify-content-center">
+                        <div class="col-md-8">
+                            <picture>
+                                <source srcset="/img/home/schedule-offline.svg">
+                                <img src="/img/home/schedule-offline.png" alt="offline meeting" class="img-fluid" loading="lazy">
+                            </picture>
+                        </div>
+                        <div class="col-md-8">
+                            <p class="my-4">Set up an offline consultation with our team for a software demo</p>
+                        </div>
+                        <div class="col-md-6">
+                            <button type="button" id="btn_offline_meet_form_en" class="form-control btn btn--rounded bg--yellow" data-title="offline" data-toggle="modal" data-target="#meetingSchedule">
+                                Offline
+                            </button>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+<?php include($_SERVER['DOCUMENT_ROOT'].'/component/modal-meeting.php'); ?>
 <?php 
     $add_js = '<script src="/js/jquery.magnific-popup.min.js"></script>';
     include($_SERVER['DOCUMENT_ROOT'].'/component/footer.php'); 
@@ -208,5 +260,33 @@
 
         });
     })
+</script>
+<!-- schedule meeting form -->
+<script type="text/javascript">
+    // Handle Success and Error 
+    <?php if (!is_null($success)) { ?>
+        $('#meetingScheduleSent').modal('show');
+    <?php } else if ($errors) {?>
+          // code handle here
+          window.location.href= "/";
+    <?php }?>
+    // when close modals redirect to home page and kill session
+    $('#meetingScheduleSent').on('hidden.bs.modal', function () {
+        window.location.href= "/";
+    })
+</script>
+
+<script type="text/javascript">
+    $("#meetingSchedule").on('show.bs.modal', function () {
+        grecaptcha.reset();
+    });
+    
+    function enableBtn(){
+		$('#meeting-form-submit').attr('disabled', false);
+	}
+
+	$(document).ready(function() {
+		$('#meeting-form-submit').attr('disabled', true);
+	});
 </script>
 <?php include($_SERVER['DOCUMENT_ROOT'].'/component/footer-end.php') ?>

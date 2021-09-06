@@ -91,10 +91,13 @@
     <section class="mb-5">
         <div class="container">
             <div class="row">
-                <div class="col-md-12 text-center">
+                <div class="col-md-12 text-center mb-4">
                     <a href="subscribe.php" class="btn-price-buy-plan" id="btn-price-buy-plan">
                         Berlangganan Dokodemo-Kerja
                     </a>
+                </div>
+                <div class="col-md-12 text-center">
+                    <a href="https://demo.dokodemo-kerja.com" class="btn btn-yellow-action bg--yellow uppercase" target="_blank" rel="noopener noreferrer">Coba Demo</a>
                 </div>
             </div>
         </div>
@@ -224,8 +227,55 @@
     </section>
 
 </div>
-
-<?php include($_SERVER['DOCUMENT_ROOT'].'/ind/component/demo-banner.php'); ?>
+<section class="color--blue pb--60px demo__schedule">
+    <div class="container">
+        <div class="row">
+            <div class="col-md-6 mb-3 mb-md-0">
+                <div class="bg--l-blue rounded-lg text-center schedule">
+                    <h5 class="font-weight-bold mb-4 fs-20">Jadwalkan Konsultasi Online</h5>
+                    <div class="row justify-content-center">
+                        <div class="col-md-8">
+                            <picture>
+                                <source srcset="/img/home/schedule-online.svg">
+                                <img src="/img/home/schedule-online.png" alt="online meeting" class="img-fluid" loading="lazy">
+                            </picture>
+                        </div>
+                        <div class="col-md-8">
+                            <p class="my-4">Jadwalkan konsultasi online dengan tim kami untuk demo software</p>
+                        </div>
+                        <div class="col-md-6">
+                            <button type="button" id="btn_online_meet_form_id" class="form-control btn btn--rounded bg--yellow" data-title="online" data-toggle="modal" data-target="#meetingSchedule">
+                                Online
+                            </button>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="col-md-6">
+                <div class="bg--l-blue rounded-lg text-center schedule">
+                    <h5 class="font-weight-bold mb-4 fs-20">Jadwalkan Konsultasi Offline</h5>
+                    <div class="row justify-content-center">
+                        <div class="col-md-8">
+                            <picture>
+                                <source srcset="/img/home/schedule-offline.svg" type="image/">
+                                <img src="/img/home/schedule-offline.png" alt="offline meeting" class="img-fluid" loading="lazy">
+                            </picture>
+                        </div>
+                        <div class="col-md-8">
+                            <p class="my-4">Jadwalkan konsultasi offline dengan tim kami untuk demo software</p>
+                        </div>
+                        <div class="col-md-6">
+                            <button type="button" id="btn_offline_meet_form_id" class="form-control btn btn--rounded bg--yellow" data-title="offline" data-toggle="modal" data-target="#meetingSchedule">
+                                Offline
+                            </button>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+<?php include($_SERVER['DOCUMENT_ROOT'].'/ind/component/modal-meeting.php'); ?>
 <?php include($_SERVER['DOCUMENT_ROOT'].'/ind/component/footer.php'); ?>
 
 <script type="application/ld+json">
@@ -284,5 +334,32 @@
   }]
 }
 </script>
+<!-- schedule meeting form -->
+<script type="text/javascript">
+    // Handle Success and Error 
+    <?php if (!is_null($success)) { ?>
+        $('#meetingScheduleSent').modal('show');
+    <?php } else if ($errors) {?>
+          // code handle here
+          window.location.href= "/";
+    <?php }?>
+    // when close modals redirect to home page and kill session
+    $('#meetingScheduleSent').on('hidden.bs.modal', function () {
+        window.location.href= "/";
+    })
+</script>
 
+<script type="text/javascript">
+    $("#meetingSchedule").on('show.bs.modal', function () {
+        grecaptcha.reset();
+    });
+    
+    function enableBtn(){
+		$('#meeting-form-submit').attr('disabled', false);
+	}
+
+	$(document).ready(function() {
+		$('#meeting-form-submit').attr('disabled', true);
+	});
+</script>
 <?php include($_SERVER['DOCUMENT_ROOT'].'/component/footer-end.php') ?>

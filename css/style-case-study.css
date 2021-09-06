@@ -114,6 +114,7 @@
 .case-study__story.case-study__new-feature .feature-title {
     font-weight: 600;
 }
+
 /* end case study section */
 
 /* user role */
@@ -178,6 +179,24 @@
     padding-left: 30px;
 }
 
+/* demo card */
+.demo__schedule .schedule {
+    padding: 50px 30px 35px;
+    height: 100%;
+    transition: all 0.15s ease-in-out;
+    border: solid 1px transparent;
+    box-shadow: none;
+}
+
+.demo__schedule .schedule img {
+    height: 140px;
+}
+
+.demo__schedule .schedule:hover {
+    background-color: #fffae8;
+    border-color: #ffca13;
+    box-shadow: 0px 27px 17px -15px rgba(0, 0, 0, 0.09);
+}
 @media (max-width: 991.98px) {
     /* dokodemo */
     .case-study .case-study__dokodemo {
