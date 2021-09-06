@@ -79,7 +79,7 @@
                             <div class="row align-items-center">
                                 <div class="col-md-8 col-lg-6">
                                     <p class="mb-md-0 text-justify text-md-left">
-                                    Since the release of Version 2.0, a GPS tracking function has also been incorporated into the mobile application, so it is therefore possible to manage the actual working conditions of staff who are often tasked with leaving the office.
+                                    The Dokodemo-Kerja application is now available in Version 3.0, besides being equipped with a GPS tracking feature designed to manage the activities of employees working outside of the office, Version 3.0 has also been equipped with Announcement and Upcoming Day off Calendar features so as to inform users about their individual leave activities regarding each employee, as well as information about upcoming national holidays.
                                     </p>
                                 </div>
                                 <div class="col-md-4 col-lg-6 text-center">
@@ -97,9 +97,10 @@
                 <div class="row align-items-center">
                     <div class="col-md-6 mb-4 mb-lg-0">
                         <ul class="list-unstyled banner__list list--circle list--circle-border">
-                            <li>Track tasks and calculate overall working hours.</li>
-                            <li>Randomly captures desktop screen activity and sends the screenshots to the server (with resolutions that are privacy-friendly).</li>
-                            <li>Through using the smartphone application, work hours and location management is now easier to manage (Through GPS tracking) for employees travelling outside of the office.</li>
+                            <li>Effectively monitor employee work hours and duties. </li>
+                            <li>The screenshot feature is designed to capture the desktop screen at random intervals and store these pictures on the server (These images are low resolution so as to not interfere with privacy). </li>
+                            <li>Installing the application on one’s cellphone makes it easier for you to manage every employee’s work hours and location, as the app is designed to keep track of staff who often works away from the office.</li>
+                            <li>Monitor team members applying for leave so that you can easily manage them as a whole. </li>
                         </ul>
                     </div>
                     <div class="col-md-6">
@@ -220,6 +221,13 @@
                                         </a>
                                     </div>
                                     <div>
+                                        <a href="/img/features/home_05.png" data-source="/img/features/home_05.png" title="Daily Working Screen Capture" aria-label="Daily Working Screen Capture">
+                                        <div class="image--wrapper">
+                                            <img src="/img/features/home_05-com.jpg" class="border border--blue" alt="Attendance Management Software" loading="lazy" />
+                                        </div>    
+                                        </a>
+                                    </div>
+                                    <div>
                                         <a href="/img/features/home_tracking.jpg" data-source="/img/features/home_tracking.jpg" title="Dokodemo GPS features" aria-label="Dokodemo GPS features">
                                         <div class="image--wrapper">
                                             <picture>
@@ -246,6 +254,9 @@
                                     <img src="/img/features/home_04-com.jpg" class="img-fluid rounded-lg" alt="Attendance Management Software" loading="lazy" />
                                 </div>
                                 <div class="nav__img">
+                                    <img src="/img/features/home_05-com.jpg" class="img-fluid rounded-lg" alt="Attendance Management Software" loading="lazy" />
+                                </div>
+                                <div class="nav__img">
                                     <img src="/img/features/home_tracking-com.jpg" class="img-fluid rounded-lg" alt="Dokodemo GPS features" loading="lazy" />
                                 </div>
                             </div>
@@ -255,7 +266,7 @@
                         <div class="title--bg title--bg-border title--bg-border-left" data-title-bg="Features">                            
                             <h2 class="mt-3 mb-0 font-weight-bold fs-34">Features</h2>
                         </div>
-                        <p class="mb-4 fs-14">As with other attendance management tools, employees will have to indicate when starting or stopping their work hours. The difference is that the validity of these recorded work hours can be verified. Through randomly capturing the desktop activities of its users and saving them onto a cloud server, one can see whether workers are doing actual work, playing games, watching YouTube, etc., which in turn can be used as solid evidence to prevent such activities from happening again. We support efficiency within HR operations regarding the calculation of overtime hours, the management of paid leave, task-based & department-based, daily, weekly, and monthly work time analyses.</p>
+                        <p class="mb-4 fs-14">As an online attendance application, Dokodemo-Kerja has been equipped with a variety of interesting features, such as a screen capture function in order to find out the details of the work being conducted, a GPS tracking feature that records overall employee productivity while working via mobile, as well as the latest calendar feature for upcoming days off serve to monitor teams that is or will be on leave so that it helps to manage the team well.</p>
                         <div class="row justify-content-center justify-content-lg-start">
                             <div class="col-auto col-md-6">
                                 <a href="/features" class="form-control btn btn--rounded bg--yellow px-4">View More</a>

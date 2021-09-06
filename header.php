@@ -71,7 +71,7 @@
                     <a class="nav-link" href="/about">About Us</a>
                 </li> -->
                 <li class="nav-item <?php active('features') ?>">
-                    <a class="nav-link" href="/features">Work From Home</a>
+                    <a class="nav-link" href="/features">Features</a>
                 </li>
                 <li class="nav-item <?php active_case() ?>">
                     <a class="nav-link" href="/case-study/">Case Study</a>

@@ -86,7 +86,7 @@
                             <div class="row align-items-center">
                                 <div class="col-md-8 col-lg-6">                                   
                                     <p class="mb-md-0 text-justify text-md-left">
-                                        Sejak Versi 2.0, aplikasi Dokodemo-Kerja telah dilengkapi fitur pelacakan GPS, sehingga memungkinkan perusahaan untuk mengelola kondisi kerja para staff yang sering keluar.
+                                        Aplikasi Dokodemo-Kerja kini hadir dalam Versi 3.0, selain dilengkapi fitur pelacakan GPS untuk mengelola aktivitas para staff yang sering bekerja diluar kantor, Versi 3.0 ini juga telah dilengkapi fitur Announcement dan Calendar Upcoming Day Off untuk menginformasikan pengguna mengenai aktivitas cuti dari seluruh staff / karyawan dan informasi hari libur nasional.
                                     </p>
                                 </div>
                                 <div class="col-md-4 col-lg-6 text-center">
@@ -107,6 +107,7 @@
                             <li>Pantau tugas dan jam kerja karyawan.</li>
                             <li>Fitur tangkapan layar di setting dengan random dan disimpan di dalam server. (Resolusi gambar rendah sehingga tidak mengganggu privasi)</li>
                             <li>Pada aplikasi yang diinstal di handphone, mempermudah Anda untuk mengelola waktu dan lokasi kerja karyawan yang sering dinas keluar kantor.</li>
+                            <li>Pantau tim yang sedang atau akan mengajukan cuti sehingga dapat mengatur tim secara keseluruhan dengan mudah</li>
                         </ul>
                     </div>
                     <div class="col-md-6">
@@ -180,7 +181,7 @@
 
                 <div class="row justify-content-center">
                     <div class="col-auto col-md-4">
-                        <a href="/ind/info-hris" class="form-control btn btn--rounded bg--yellow px-4">Info HRIS & Teknologi Pendukung</a>
+                        <a href="https://dokodemo-kerja.com/blog/ind/category/info-hris/" class="form-control btn btn--rounded bg--yellow px-4">Info HRIS & Teknologi Pendukung</a>
                     </div>
                 </div>
             </div>
@@ -232,6 +233,13 @@
                                         </a>
                                     </div>
                                     <div>
+                                        <a href="/img/features/home_05.png" data-source="/img/features/home_05.png" title="Daily Working Screen Capture" aria-label="Daily Working Screen Capture">
+                                        <div class="image--wrapper">
+                                            <img src="/img/features/home_05-com.jpg" class="border border--blue" alt="Screenshot of the Dokodemo-Kerja Application" />
+                                        </div>    
+                                        </a>
+                                    </div>
+                                    <div>
                                         <a href="/img/features/home_tracking.jpg" data-source="/img/features/home_tracking.jpg" title="Dokodemo GPS features" aria-label="Dokodemo GPS features">
                                         <div class="image--wrapper">
                                             <picture>
@@ -258,6 +266,9 @@
                                     <img src="/img/features/home_04-com.jpg" class="img-fluid rounded-lg" alt="Screenshot of the Dokodemo-Kerja Application" loading="lazy" />
                                 </div>
                                 <div class="nav__img">
+                                    <img src="/img/features/home_05-com.jpg" class="img-fluid rounded-lg" alt="Screenshot of the Dokodemo-Kerja Application" loading="lazy" />
+                                </div>
+                                <div class="nav__img">
                                     <img src="/img/features/home_tracking-com.jpg" class="img-fluid rounded-lg" alt="Dokodemo GPS features" loading="lazy" />
                                 </div>
                             </div>
@@ -267,7 +278,7 @@
                         <div class="title--bg title--bg-border title--bg-border-left" data-title-bg="Features">                            
                             <h2 class="mt-3 mb-0 font-weight-bold fs-34">Features</h2>
                         </div>
-                        <p class="mb-4 fs-14">Sebagai aplikasi absensi online, Dokodemo-Kerja telah dilengkapi dengan fitur tangkapan layar monitor (screen capture) untuk mengetahui detail pekerjaan yang sedang dikerjakan karyawan, tanpa mengganggu privasi karyawan tersebut karena hasil tangkapan layar yang dihasilkan memiliki resolusi rendah. Aplikasi Dokodemo-Kerja juga dilengkapi dengan pelacakan GPS sehingga dapat merekam produktivitas karyawan yang bekerja secara mobile.</p>
+                        <p class="mb-4 fs-14">Sebagai aplikasi absensi online, Dokodemo-Kerja telah dilengkapi dengan berbagai fitur menarik, seperti tangkapan layar monitor (screen capture) untuk mengetahui detail pekerjaan yang sedang dikerjakan, pelacakan GPS untuk merekam produktivitas karyawan yang bekerja secara mobile, serta fitur terbaru calendar upcoming day off yang berfungsi untuk memantau tim yang sedang atau akan cuti sehingga membantu untuk memanajemen tim dengan baik.</p>
                         <div class="row justify-content-center justify-content-lg-start">
                             <div class="col-auto col-md-6">
                                 <a href="/ind/features" class="form-control btn btn--rounded bg--yellow px-4">View More</a>
