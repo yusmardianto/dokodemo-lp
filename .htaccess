@@ -1,5 +1,9 @@
 RewriteEngine on
 
+RewriteBase /
+RewriteCond %{HTTP_HOST} ^www\.(.*)$ [NC]
+RewriteRule ^(.*)$ https://%1/$1 [R=301,L]
+
 # browser requests PHP
 RewriteCond %{THE_REQUEST} ^[A-Z]{3,9}\ /([^\ ]+)\.php
 RewriteRule ^/?(.*)\.php$ /$1 [L,R=301]
@@ -40,3 +44,21 @@ Redirect 301 /case-study/case-6 /case-study/excellence-screenshoot-feature
 # REWRITE IND PAGE
 Redirect 301 /ind/features /ind/fitur
 Redirect 301 /ind/price /ind/harga-aplikasi
+Redirect 301 /ind/info-hris /blog/ind
+Redirect 301 /ind/fungsi-aplikasi-hris https://dokodemo-kerja.com/blog/ind/info-hris/definisi-dan-fungsi-aplikasi-hris
+Redirect 301 /ind/jenis-software-hris https://dokodemo-kerja.com/blog/ind/info-hris/jenis-jenis-software-hris
+Redirect 301 /ind/manfaat-aplikasi-hris https://dokodemo-kerja.com/blog/ind/info-hris/manfaat-aplikasi-hris-bagi-perusahaan-karyawan
+Redirect 301 /ind/teknologi-hris-hcm-hrms https://dokodemo-kerja.com/blog/ind/info-hris/perbedaan-teknologi-hris-hcm-dan-hrms
+Redirect 301 /ind/fitur-aplikasi-HRD https://dokodemo-kerja.com/blog/ind/info-hris/fitur-unggulan-aplikasi-hrd-dokodemo-kerja
+Redirect 301 /ind/software-hris-dokodemo-kerja https://dokodemo-kerja.com/blog/ind/info-hris/software-hris-meningkatkan-produktivitas-karyawan/
+Redirect 301 /ind/fitur-manajemen-SISDM https://dokodemo-kerja.com/blog/ind/info-hris/mengenal-fitur-sisdm/
+
+# REWRITE EN PAGE
+Redirect 301 /hris-info https://dokodemo-kerja.com/blog
+Redirect 301 /hris-definition-functions https://dokodemo-kerja.com/blog/info-hris-en/definition-functions-of-an-hris-application-human-resources-information-system
+Redirect 301 /types-of-hris https://dokodemo-kerja.com/blog/info-hris-en/types-of-hris-software-you-need-to-know
+Redirect 301 /benefits-aplikasi-hris https://dokodemo-kerja.com/blog/info-hris-en/benefits-of-hris-applications-for-both-the-company-employee-alike
+Redirect 301 /hris-hcm-hrms-technology https://dokodemo-kerja.com/blog/info-hris-en/fundamental-differences-between-hris-hcm-and-hrms-technologies
+Redirect 301 /HRD-app-features https://dokodemo-kerja.com/blog/info-hris-en/5-features-of-the-hrd-application-dokodemo-kerja/
+Redirect 301 /software-hris-dokodemo-kerja https://dokodemo-kerja.com/blog/info-hris-en/dokodemo-kerja-hris-software-made-for-employee-productivity
+Redirect 301 /features-manajemen-SISDM https://dokodemo-kerja.com/blog/info-hris-en/familiarize-yourself-with-sisdm-a-smart-system-streamlining-the-hr-process/
