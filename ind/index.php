@@ -587,6 +587,7 @@
 
     </div>
 
+<?php include($_SERVER['DOCUMENT_ROOT'].'/ind/component/modal-event-banner.php'); ?>
 <?php include($_SERVER['DOCUMENT_ROOT'].'/ind/component/demo-banner.php'); ?>
 <?php include($_SERVER['DOCUMENT_ROOT'].'/ind/component/modal-meeting.php'); ?>
 <?php 
@@ -595,6 +596,7 @@
 ?>
 <script>
     $(function() {
+        $("#modal-event").modal('show');
 
         // feature slide
         $('.slide__image').slick({
@@ -663,6 +665,7 @@
             }
 
         });
+
 
     }) 
     

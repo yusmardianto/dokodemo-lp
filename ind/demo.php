@@ -68,7 +68,7 @@ require '../action/c-trial.php';
 	<section class="intro-section text-center px-4">
 		<h2 class="banner-text-white">Coba Demo Sekarang. Gratis !</h2>
 		<img src="/img/home/arrow-down.svg" class="pt-4 pb-3" width="20" alt="" loading="lazy" />
-		<a href="https://demo.dokodemo-kerja.com" class="btn btn-trial-contact bold uppercase" target="_blank" rel="noopener noreferrer" id="btn-demo-trial-id">Admin Demo</a>
+			
 		<a href="https://drive.google.com/file/d/1itRszKytvu-x6RxoN0Ba1i_dNvtFlEHF/view?usp=sharing" target="_blank" rel="noopener noreferrer">
 			<p class="trial-header-content">Untuk mencoba versi staff, silahkan ikut instruksi dibawah</p>
 		</a>
