@@ -1,6 +1,7 @@
 <?php 
     $page = '';
     $page_title = 'Aplikasi Absensi Online Terbaik Untuk Karyawan | Dokodemo-Kerja';
+    $assetVersion = 1.0;
 
     $meta_description = 'Software HRIS berupa Aplikasi absensi online karyawan terbaik berbasis web & mobile untuk sistem kerja remote / jarak jauh (WFH) maupun WFO. Coba Sekarang!';
     $meta_keyword = 'Dokodemo-Kerja, strategi HR, kerja remote, jam kerja karyawan, jadwal kerja';
@@ -13,7 +14,7 @@
     <link rel="stylesheet" href="/js/magnific-popup.css" defer />
     <link rel="stylesheet" href="/css/slick.css" defer />
     <link rel="stylesheet" href="/css/slick-theme.css" defer />
-    <link rel="stylesheet" href="/css/style-home.css" defer />';
+    <link rel="stylesheet" href="/css/style-home.css?v='.$assetVersion.'" defer/>';
 
     include($_SERVER['DOCUMENT_ROOT'].'/ind/component/header.php');
 ?>

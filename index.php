@@ -1,7 +1,8 @@
 <?php 
     $page = '';
     $page_title = 'Attendance Management Software & Remote Working System';
-
+    $assetVersion = 1.0;
+    
     $meta_description = 'Dokodemo-Kerja is an Indonesian based attendance management software & remote work hr tool, which improves employee productivity both in the office & at home.';
     $meta_keyword = 'dokodemo, dokodemo-kerja, dokodemo kerja, work everywhere, work whenever, work wherever, project management tool, project management software, human resource tool, human resource software, monitoring software, monitoring tool, monitor desktop, monitor with privacy, low res monitoring, low resolution monitoring, time tracker, logique product, pt logique';
 
@@ -13,7 +14,7 @@
     <link rel="stylesheet" href="/js/magnific-popup.css" defer/>
     <link rel="stylesheet" href="/css/slick.css" defer/>
     <link rel="stylesheet" href="/css/slick-theme.css" defer/>
-    <link rel="stylesheet" href="/css/style-home.css" defer/>';
+    <link rel="stylesheet" href="/css/style-home.css?v='.$assetVersion.'" defer/>';
 
     include($_SERVER['DOCUMENT_ROOT'].'/component/header.php');
 ?>
