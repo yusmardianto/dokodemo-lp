@@ -634,7 +634,7 @@ require '../action/c-trial.php';
 	</section>
 
 </div>
-
+<?php include($_SERVER['DOCUMENT_ROOT'].'/ind/component/modal-event-banner.php'); ?>
 <?php include($_SERVER['DOCUMENT_ROOT'].'/ind/component/footer.php'); ?>
 <script>
 	document.getElementById("submit-btn-trial").disabled = true;
@@ -645,6 +645,8 @@ require '../action/c-trial.php';
 </script>
 <script>
 	$(function() {		
+		$("#modal-event").modal('show');
+
 		// set border based on active tab
 		$('.trial-tab').click(function(e) {
 			setTimeout(() => {

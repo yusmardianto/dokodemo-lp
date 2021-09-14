@@ -620,7 +620,7 @@
 	</section>
 
 </div>
-
+<?php include($_SERVER['DOCUMENT_ROOT'].'/component/modal-event-banner.php'); ?>
 <?php include($_SERVER['DOCUMENT_ROOT'].'/component/footer.php'); ?>
 <script>
 	document.getElementById("submit-btn-trial").disabled = true;
@@ -629,6 +629,9 @@
 	}
 </script>
 <script>
+$(document).ready(function(){
+	$("#modal-event").modal('show');
+
 	// set border based on active tab
 	$('.trial-tab').click(function(e) {
 		setTimeout(() => {
@@ -645,5 +648,6 @@
 			}
 		}, 5);
 	})
+})
 </script>
 <?php include($_SERVER['DOCUMENT_ROOT'].'/component/footer-end.php') ?>
