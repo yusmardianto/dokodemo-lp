@@ -130,7 +130,7 @@
 					</div>
 					<div class="installation-manual">
 						Download user manual here:
-						<a class="installation-manual__item" target="_blank" href="/pdf/user_manual_dokodemo_ver_2-2-2-en.pdf">
+						<a class="installation-manual__item" target="_blank" href="/pdf/User_Manual_Dokodemo_Kerja_ver_3-0-0-en.pdf">
 							<img src="/img/trial/pdf.svg" alt="">
 							Desktop
 						</a>
