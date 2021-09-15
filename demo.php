@@ -628,10 +628,13 @@
 		document.getElementById("submit-btn-trial").disabled = false;
 	}
 </script>
+<script id="modal-event-script">
+$(document).ready(function(){
+	$("#modal-event").modal('show')
+})
+</script>
 <script>
 $(document).ready(function(){
-	$("#modal-event").modal('show');
-
 	// set border based on active tab
 	$('.trial-tab').click(function(e) {
 		setTimeout(() => {
