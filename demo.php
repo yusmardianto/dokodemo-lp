@@ -628,11 +628,11 @@
 		document.getElementById("submit-btn-trial").disabled = false;
 	}
 </script>
-<script id="modal-event-script">
+<!-- <script id="modal-event-script">
 $(document).ready(function(){
 	$("#modal-event").modal('show')
 })
-</script>
+</script> -->
 <script>
 $(document).ready(function(){
 	// set border based on active tab
