@@ -119,7 +119,7 @@
 					</a> -->
 					<div class="installation-manual">
 						Download installation manual here:
-						<a class="installation-manual__item" target="_blank" href="https://drive.google.com/file/d/1jZut6Ouhi_HA26QoL4mvty45qZMAgdii/view?usp=sharing">
+						<a class="installation-manual__item" target="_blank" href="/pdf/Dokodemo_Install_Guide_3-0-0.en.pdf">
 							<img src="/img/trial/pdf.svg" alt="">
 							Desktop
 						</a>
@@ -138,7 +138,7 @@
 				</div>
 				<div class="offset-md-1 col-md-10 tab-tutor-container">
 					<nav>
-						<div class="nav nav-tabs nav-tabs-trial text-center" id="nav-tab" role="tablist">
+						<div class="nav nav-tabs n.av-tabs-trial text-center" id="nav-tab" role="tablist">
 							<a class="nav-item nav-link trial-tab active" id="nav-home-tab" data-toggle="tab" href="#nav-home" role="tab" aria-controls="nav-home" aria-selected="true">
 								<span class="trial-tabfont">Admin Function</span>
 							</a>
