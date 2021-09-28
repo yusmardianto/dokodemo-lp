@@ -97,6 +97,7 @@
                 </div>
                 <div class="row align-items-center">
                     <div class="col-md-6 mb-4 mb-lg-0">
+                        <h2 class="mb-3 color--yellow fs-34 font-weight-bold">Benefits of Dokodemo-Kerja</h2>
                         <ul class="list-unstyled banner__list list--circle list--circle-border">
                             <li>Effectively monitor employee work hours and duties. </li>
                             <li>The screenshot feature is designed to capture the desktop screen at random intervals and store these pictures on the server (These images are low resolution so as to not interfere with privacy). </li>
@@ -165,7 +166,9 @@
                     </div>
                 </div>
                 
-                <p class="pt--60px text-center">Dokodemo-Kerja is both an attendance & remote work management tool that allows for flexible work styles beneficial to both the company and employee alike through recording working hours no matter where the location. Since it is able manage work hours accurately, it makes calculating overtime hours and the number of paid leaves a much more efficient endeavor. Also, by taking and managing screenshots during the work session, one can discourage slacking during working hours.</p>
+                <h2 class="mt-5 mb-4 color--yellow fs-34 font-weight-bold text-center">Dokodemo-Kerja, the Best HRIS Software in Indonesia</h2>
+
+                <p class="text-center">Dokodemo-Kerja is both an attendance & remote work management tool that allows for flexible work styles beneficial to both the company and employee alike through recording working hours no matter where the location. Since it is able manage work hours accurately, it makes calculating overtime hours and the number of paid leaves a much more efficient endeavor. Also, by taking and managing screenshots during the work session, one can discourage slacking during working hours.</p>
                 <p class="text-center">As one of the best Human Resource Information System (HRIS) software in Indonesia, Dokodemo-Kerja provides solutions for HR departments in any company in the use of digital technology for a more effective and efficient Human Resource (HR) management process.</p>
                 <p class="text-center">How can HRIS software improve the quality of a company's HR? And how much will it benefit the company and employees? Get complete information about HRIS and other HR technologies on the following page:</p>
                 <div class="row justify-content-center">
@@ -282,10 +285,62 @@
             <div class="container">
 
                 <div class="row align-items-end benefit__description">
+                    <div class="col-md-12 mb-3 mb-md-5">   
+                        <h2 class="mb-5 color--yellow fs-34 font-weight-bold">Supported by Research</h2>
+                        <div class="color--blue">
+                            <div class="title--bg title--bg-border title--bg-border-right" data-title-bg="Be A Part">                            
+                                <h3 class="mb-0 font-weight-bold fs-34">Be a Part of the Millions of Others Working from Home</h3>
+                            </div>
+                            <p class="mb-0 fs-14">The United States Bureau of Labor had conducted a study in 2019, concluding that up to 24% of workers conduct a majority of key tasks from home. Indeed, the popularity of remote work has always been in the public consciousness, and for good reason: studies reveal that WFH strategies have been popular for a long time, and the results show.</p>
+                        </div>                     
+                    </div>
+                </div>
+                <div class="row align-items-end benefit__description">
+                    <div class="col-md-12 mb-3 mb-md-5">   
+                        <div class="color--blue">
+                            <div class="title--bg title--bg-border title--bg-border-right" data-title-bg="The Upwork">                            
+                                <h3 class="mb-0 font-weight-bold fs-34">The Upwork Case Study</h3>
+                            </div>
+                            <p class="mb-0 fs-14">For example, a further study conducted by Upwork showed that 1 in 4 workers in America have already been engaged in some form of flexible employment. This figure is expected to continue to rise in the future in line with the growing work culture that has established itself since the Covid-19 pandemic.</p>
+                        </div>                     
+                    </div>
+                </div>
+                <div class="row align-items-end benefit__description">
+                    <div class="col-md-12 mb-3 mb-md-5">   
+                        <div class="color--blue">
+                            <div class="title--bg title--bg-border title--bg-border-right" data-title-bg="Deeper Insight">                            
+                                <h3 class="mb-0 font-weight-bold fs-34">Deeper Insight from the Stanford Study</h3>
+                            </div>
+                            <p class="mb-0 fs-14">A rather prominent study conducted by Stanford in 2013 on 16 thousand workers for more than 9 months showed an increase in productivity of 13%. This increase in productivity was due to a calmer and more flexible working environment at home, resulting in reduced time off and sick leave taken by workers.</p>
+                        </div>                     
+                    </div>
+                </div>
+                <div class="row align-items-end benefit__description">
+                    <div class="col-md-12 mb-3 mb-md-5">   
+                        <div class="color--blue">
+                            <div class="title--bg title--bg-border title--bg-border-right" data-title-bg="Survey Results">                            
+                                <h3 class="mb-0 font-weight-bold fs-34">The Connectsolutions Survey Results</h3>
+                            </div>
+                            <p class="mb-0 fs-14">Further, in a survey conducted by Connectsolutions, 77% of workers who worked from home displayed an increase in productivity; of these, 30% of workers indicated quicker completion times for the same task, while another 24% were able to do more work in the same time duration. Other studies have also shown that working from home can potentially reduce 10 minutes of unproductivity, and cumulatively add one more day to the week.</p>
+                        </div>                     
+                    </div>
+                </div>
+                <div class="row align-items-end benefit__description">
+                    <div class="col-md-12 mb-3 mb-md-5">   
+                        <div class="color--blue">
+                            <div class="title--bg title--bg-border title--bg-border-right" data-title-bg="Dokodemo">                            
+                                <h3 class="mb-0 font-weight-bold fs-34">Dokodemo-Kerja Is Here To Help</h3>
+                            </div>
+                            <p class="mb-0 fs-14">Indeed, it is not hard to realize that the future of business and industry lies in its relationship with technology; Dokodemo-Kerja embodies this relationship and all the benefits that come with it, helping companies save money on office space (if they choose), always effectively managing their workforces in the process.</p>
+                        </div>                     
+                    </div>
+                </div>
+
+                <div class="row align-items-end benefit__description">
                     <div class="col-md-6 mb-3 mb-md-5">   
                         <div class="color--blue">
-                            <div class="title--bg title--bg-border title--bg-border-right" data-title-bg="Benefit">                            
-                                <h2 class="mb-0 font-weight-bold fs-34">Benefit</h2>
+                            <div class="title--bg title--bg-border title--bg-border-right" data-title-bg="Why">                            
+                                <h2 class="mb-0 font-weight-bold fs-34">Why Choose Dokodemo-Kerja?</h2>
                             </div>
                             <p class="mb-0 fs-14">Your company will be able to implement innovative and flexible HR strategies, strengthening the overall output of your work force, while enhancing your staff’s wellbeing. Allowing employees to work remotely grants them flexible working hours, giving them the chance to work in a comfortable environment suited to them, while at the same time increasing productivity and improving upon practical management strategies which allow for the fair evaluation of staff. Overall, the advantages are many, for both the Company and Employees alike. These include:</p>
                         </div>                     
@@ -443,9 +498,9 @@
         <section class="color--blue pt--60px home__testimonial" id="testimony">
             <div class="container">
                 <div class="mb-4 row">
-                    <div class="col-md-6">
-                        <div class="title--bg title--bg-border title--bg-border-right" data-title-bg="Testimoni">                            
-                            <h2 class="mb-0 font-weight-bold fs-34">Testimoni</h2>
+                    <div class="col-md-10">
+                        <div class="title--bg title--bg-border title--bg-border-right" data-title-bg="What">                            
+                            <h2 class="mb-0 font-weight-bold fs-34">What Are They Saying About E-Attendance Dokodemo-Kerja?</h2>
                         </div>
                     </div>
                 </div>
