@@ -103,7 +103,8 @@
                     </div>
                 </div>
                 <div class="row align-items-center">
-                    <div class="col-md-6 mb-4 mb-lg-0">
+                    <div class="col-md-6 mb-4 mt-2 mb-lg-0">
+                        <h2 class="mb-3 color--yellow fs-34 font-weight-bold">Keuntungan Dokodemo-Kerja</h2>
                         <ul class="list-unstyled banner__list list--circle list--circle-border">
                             <li>Pantau tugas dan jam kerja karyawan.</li>
                             <li>Fitur tangkapan layar di setting dengan random dan disimpan di dalam server. (Resolusi gambar rendah sehingga tidak mengganggu privasi)</li>
@@ -294,10 +295,62 @@
             <div class="container">
 
                 <div class="row align-items-end benefit__description">
+                    <div class="col-md-12 mb-3 mb-md-5">   
+                        <h2 class="mb-5 color--yellow fs-34 font-weight-bold">Riset Pendukung</h2>
+                        <div class="color--blue">
+                            <div class="title--bg title--bg-border title--bg-border-right" data-title-bg="Bekerja">                            
+                                <h3 class="mb-0 font-weight-bold fs-34">Jadilah Bagian dari Jutaan Orang yang Bekerja dari Rumah</h3>
+                            </div>
+                            <p class="mb-0 fs-14">Pada tahun 2019, Biro Tenaga Kerja di Amerika Serikat melakukan penelitian dan menyimpulkan bahwa sekitar 24% karyawan melakukan sebagian besar tugasnya dari rumah. Sistem kerja remote saat ini memang sudah semakin populer dan berhasil menarik perhatian banyak orang. Berdasarkan beberapa penelitian, sistem kerja remote juga dapat berjalan dengan baik dan mampu memberikan dampak yang positif terhadap efisiensi dan produktivitas.</p>
+                        </div>                     
+                    </div>
+                </div>
+                <div class="row align-items-end benefit__description">
+                    <div class="col-md-12 mb-3 mb-md-5">   
+                        <div class="color--blue">
+                            <div class="title--bg title--bg-border title--bg-border-right" data-title-bg="Sistem Kerja">                            
+                                <h3 class="mb-0 font-weight-bold fs-34">Sistem Kerja Remote Tingkatkan Produktivitas</h3>
+                            </div>
+                            <p class="mb-0 fs-14">Penelitian lebih lanjut yang dilakukan oleh Upwork menunjukan bahwa 1 dari 4 karyawan di Amerika telah bekerja dengan sistem kerja fleksibel. Angka tersebut diperkirakan akan terus meningkat seiring dengan semakin banyak perusahaan yang menggunakan sistem kerja tersebut semenjak pandemi Covid-19 muncul.</p>
+                        </div>                     
+                    </div>
+                </div>
+                <div class="row align-items-end benefit__description">
+                    <div class="col-md-12 mb-3 mb-md-5">   
+                        <div class="color--blue">
+                            <div class="title--bg title--bg-border title--bg-border-right" data-title-bg="Berkurangnya">                            
+                                <h3 class="mb-0 font-weight-bold fs-34">Berkurangnya Izin Cuti atau Sakit</h3>
+                            </div>
+                            <p class="mb-0 fs-14">Sebuah penelitian yang cukup menarik perhatian telah dilakukan oleh Stanford di tahun 2013. Penelitian ini dilakukan selama lebih dari 9 bulan dan melibatkan 16.000 karyawan. Penelitian ini mengharuskan karyawan untuk bekerja di lingkungan kerja yang tenang atau fleksibel dari rumah. Hasilnya, terlihat meningkatkan produktivitas karyawan sebesar 13% serta berkurangnya izin cuti atau izin sakit yang diambil oleh karyawan.</p>
+                        </div>                     
+                    </div>
+                </div>
+                <div class="row align-items-end benefit__description">
+                    <div class="col-md-12 mb-3 mb-md-5">   
+                        <div class="color--blue">
+                            <div class="title--bg title--bg-border title--bg-border-right" data-title-bg="Meningkatkan">                            
+                                <h3 class="mb-0 font-weight-bold fs-34">Meningkatkan Konsentrasi Karyawan</h3>
+                            </div>
+                            <p class="mb-0 fs-14">Hasil survei yang dilakukan oleh Connectsolutions menunjukkan bahwa terdapat 77% karyawan yang bekerja dari rumah mengalami peningkatkan produktivitas. Dari angka tersebut, 30% karyawan dapat menyelesaikan tugas dengan lebih cepat, sedangkan 24% lainnya dapat melakukan lebih banyak tugas dalam waktu yang sama. Studi lain juga menunjukkan bahwa sistem kerja remote berpotensi untuk mengurangi 10 menit ketidakproduktifan karyawan sehingga jika diakumulasikan maka dapat menambah satu hari kerja dalam seminggu.</p>
+                        </div>                     
+                    </div>
+                </div>
+                <div class="row align-items-end benefit__description">
+                    <div class="col-md-12 mb-3 mb-md-5">   
+                        <div class="color--blue">
+                            <div class="title--bg title--bg-border title--bg-border-right" data-title-bg="Dokodemo">                            
+                                <h3 class="mb-0 font-weight-bold fs-34">Dokodemo-Kerja Sebagai Solusi</h3>
+                            </div>
+                            <p class="mb-0 fs-14">Sebagaimana diketahui, bahwa masa depan bisnis dan industri saat ini sangat erat kaitannya dengan penerapan teknologi, khususnya teknologi digital. Dokodemo-Kerja hadir untuk mendorong terwujudnya beragam dampak positif dari penerapan teknologi terhadap sistem kerja remote dan membantu perusahaan untuk bisa menghemat biaya operasional serta mengelola karyawan secara efektif dan efisien. </p>
+                        </div>                     
+                    </div>
+                </div>
+
+                <div class="row align-items-end benefit__description">
                     <div class="col-md-6 mb-3 mb-md-5">   
                         <div class="color--blue">
-                            <div class="title--bg title--bg-border title--bg-border-right" data-title-bg="Benefit">                            
-                                <h2 class="mb-0 font-weight-bold fs-34">Benefit</h2>
+                            <div class="title--bg title--bg-border title--bg-border-right" data-title-bg="Mengapa">                            
+                                <h2 class="mb-0 font-weight-bold fs-34">Mengapa harus Dokodemo-Kerja?</h2>
                             </div>
                             <p class="mb-0 fs-14">Perusahaan anda dapat menerapkan strategi-strategi HR yang lebih inovatif dan fleksibel, yang dapat meningkatkan kinerja total perusahaan anda sekaligus memberikan nilai positif bagi kesejahteraan karyawan. Dengan memberikan karyawan pilihan untuk kerja secara remote dan jam kerja yang fleksibel, maka akan membantu mereka untuk menemukan lingkungan kerja mereka yang paling kondusif dan di saat yang sama meningkatkan kinerja. Adanya jam kerja yang tercatat akan membantu perusahaan untuk membuat evaluasi yang lebih adil. Banyak manfaat lain yang bisa didapatkan oleh perusahaan dan karyawan di antaranya :</p>
                         </div>                     
@@ -453,9 +506,9 @@
         <section class="color--blue pt--60px home__testimonial" id="testimony">
             <div class="container">
                 <div class="mb-4 row">
-                    <div class="col-md-6">
-                        <div class="title--bg title--bg-border title--bg-border-right" data-title-bg="Testimoni">                            
-                            <h2 class="mb-0 font-weight-bold fs-34">Testimoni</h2>
+                    <div class="col-md-10">
+                        <div class="title--bg title--bg-border title--bg-border-right" data-title-bg="Apa">                            
+                            <h2 class="mb-0 font-weight-bold fs-34">Apa Kata Mereka tentang E-Absensi Dokodemo-Kerja?</h2>
                         </div>
                     </div>
                 </div>
