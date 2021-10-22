@@ -587,75 +587,43 @@
         <section class="mb--30px news-list-container">
             <div class="container">
                 <div class="newscontainer">
-                    <div class="row justify-content-md-center">
-                        <div class="col-sm-8">
+                    <div class="row">
+                        <div class="col-12">
                             <h2>Latest <strong>News</strong></h2>
                         </div>
                     </div>
                     <?php
-                    $rss = new DOMDocument();
-                    $rss->load('https://www.logique.co.id/blog/en/category/dokodemo-kerja-en/feed/');
-                    $feed = array();
-                    foreach ($rss->getElementsByTagName('item') as $node) {
-                    $item = array ( 
-                    'title' => $node->getElementsByTagName('title')->item(0)->nodeValue,
-                    'desc' => $node->getElementsByTagName('description')->item(0)->nodeValue,
-                    'link' => $node->getElementsByTagName('link')->item(0)->nodeValue,
-                    'date' => $node->getElementsByTagName('pubDate')->item(0)->nodeValue,
-                    );
-                    array_push($feed, $item);
-                    }
-                    $limit = 4; 
-
-                    function tgl_indo($tanggal){
-                        $bulan = array (
-                            1 =>   'Jan',
-                            'Feb',
-                            'Mar',
-                            'Apr',
-                            'Mei',
-                            'Jun',
-                            'Jul',
-                            'Ags',
-                            'Sep',
-                            'Okt',
-                            'Nov',
-                            'Des'
-                        );
-                        $pecahkan = explode('-', $tanggal);
-                        
-                    
-                        return $pecahkan[2] . ' ' . $bulan[ (int)$pecahkan[1] ] . ' ' . $pecahkan[0];
-                    }
+                    $url = file_get_contents('https://dokodemo-kerja.com/blog/wp-json/wp/v2/posts?categories=15,17,19&per_page=3&_embed');
+                    $remote_posts = json_decode( $url ); 
 
                     ?>
 
                     <div class="news-list">
+                        <div class="row">
                         <?php 
-                            for($x=0;$x<$limit;$x++) {
-                            $title = str_replace(' & ', ' &amp; ', $feed[$x]['title']);
-                            $link = $feed[$x]['link'];
-                            $description = $feed[$x]['desc'];
-                            $date = date('F d, Y', strtotime($feed[$x]['date']));
-                            // echo '<p><strong><a href="'.$link.'" title="'.$title.'">'.$title.'</a></strong><br />';
-                            // echo '<small><em>Posted on '.$date.'</em></small></p>';
-                            // echo '<p>'.$description.'</p>';
+                            foreach( $remote_posts as $post_index => $remote_post ) { 
+                            $categories = $remote_post->_embedded->{'wp:term'}[0];
                         ?>
-                        
-                            <div class="row justify-content-md-center">
-                                
-                                <div class="col-sm-8">
-                                    <div class="news-item">
-                                        <span class="feeddate"> <?php echo tgl_indo(date('Y-m-d', strtotime($feed[$x]['date'])));;?></span><a href="<?php echo $link ?>" target="_blank" rel="noreferrer"><?php echo $title ?></a>
+                            <div class="col-md-4">
+                                <div class="news-item">
+                                    <img src="<?= $remote_post->yoast_head_json->og_image[0]->url ?>" class="img-news-item" alt="<?= $remote_post->title->rendered ?>">
+                                    <div class="d-flex items-center"> 
+                                        <span class="cat-name">
+                                            <?php foreach($categories as $index => $category){ ?>
+                                                <a href="<?= $category->link ?>"><?= $category->name ?></a> 
+                                                <?= $index+1 < count($categories) ? '|' : null; ?>
+                                            <?php } ?>
+                                        </span>
+                                        <span class="news-date">
+                                            <?= date('F d, Y', strtotime($remote_post->date)); ?>
+                                        </span>
                                     </div>
+                                    <a class="news-link" href="<?= $remote_post->link ?>" target="_blank" rel="noreferrer"><?= $remote_post->title->rendered ?></a>
                                 </div>
-                                    
                             </div>
-                        
                         <?php  } ?>
-
+                        </div>
                     </div>
-
                 </div>
             </div>
         </section>
