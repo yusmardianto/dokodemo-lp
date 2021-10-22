@@ -1,14 +1,14 @@
 <?php 
     $page = '';
-    $page_title = 'Attendance Management Software & Remote Working System';
+    $page_title = 'The Best HR & E-Attendance tool for Remote Work | Dokodemo Kerja';
     $assetVersion = 1.0;
     
-    $meta_description = 'Dokodemo-Kerja is an Indonesian based attendance management software & remote work hr tool, which improves employee productivity both in the office & at home.';
-    $meta_keyword = 'dokodemo, dokodemo-kerja, dokodemo kerja, work everywhere, work whenever, work wherever, project management tool, project management software, human resource tool, human resource software, monitoring software, monitoring tool, monitor desktop, monitor with privacy, low res monitoring, low resolution monitoring, time tracker, logique product, pt logique';
+    $meta_description = 'Dokodemo-Kerja is a HRIS software with E-Attendance features for better remote work; the best HR tool available to increase employee & workforce productivity.';
+    $meta_keyword = 'Dokodemo-Kerja, wfh system, wfh software, HR management app, E attendance tool, remote work tool, HR tool, HRIS software';
 
-    $og_title = 'Attendance Management & Productivity Tool | Dokodemo-Kerja';
+    $og_title = 'The Best HR & E-Attendance tool for Remote Work | Dokodemo Kerja';
     $og_image = 'https://dokodemo-kerja.com/img/og-img/index.jpg';
-    $og_desription = 'Dokodemo-Kerja is an Indonesian based attendance management software & remote work hr tool, which improves employee productivity both in the office & at home.';
+    $og_desription = 'Dokodemo-Kerja is a HRIS software with E-Attendance features for better remote work; the best HR tool available to increase employee & workforce productivity.';
 
     $add_css = '
     <link rel="stylesheet" href="/js/magnific-popup.css" defer/>

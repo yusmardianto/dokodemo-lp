@@ -1,13 +1,13 @@
 <?php 
     $page = 'case-study/';
-    $page_title = 'Implementing WFH | Work Management Tool | Indonesian Case Study';
+    $page_title = 'HRIS software: better HR management & monitoring results | Case Study';
 
-    $meta_description = 'Through Dokodemo-Kerja, employees could work from home and improve their work habits, which increased productivity and improved HR management.';
-    $meta_keyword = 'dokodemo-kerja, case studies, tool for managers, Logique Digital Indonesia, remote working system, billing system services, accounting firm, screen monitoring, monitor employee, employee monitoring';
+    $meta_description = 'E-Attendance & remote work software allows employees to work from home (WFH) flexibly, increasing productivity and transparency for better evaluation purposes.';
+    $meta_keyword = 'dokodemo kerja case study, remote work case study, remote work example';
 
-    $og_title = 'Dokodemo-Kerja | An Efficient WFH Strategy';
+    $og_title = 'HRIS software: better HR management & monitoring results | Case Study';
     $og_image = 'https://dokodemo-kerja.com/img/og-img/case-study.jpg';
-    $og_desription = 'By using Dokodemo-Kerja, you can get various benefits such as allowing employees to work from home, prevent slacking, and introduce a reduced working hours system.';
+    $og_desription = 'E-Attendance & remote work software allows employees to work from home (WFH) flexibly, increasing productivity and transparency for better evaluation purposes.';
 
     $add_css = '
     <link rel="stylesheet" href="/css/slick.css" />

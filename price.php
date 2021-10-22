@@ -1,13 +1,13 @@
 <?php 
     $page = 'price';
-    $page_title = 'Attendance Management Software Pricing | Dokodemo-Kerja';
+    $page_title = 'Affordable & Cost Effective Attendance Management Software | Dokodemo Kerja';
 
-    $meta_description = 'Dokodemo-Kerja is an HR management and remote work software that allows for better employee attendance management for a reasonable price. Developed and sold in Indonesia.';
-    $meta_keyword = 'Dokodemo-Kerja, remote working strategies, employee productivity, employee performance, management software, enterprise software, cheap enterprise software, overtime work, human resource tool, cheap management tool';
+    $meta_description = 'Dokodemo-Kerja is a cost effective & affordable & HRIS software available in Indonesia; better organize your workforce with this attendance management HR tool.';
+    $meta_keyword = 'dokodemo kerja cost, dokodemo kerja price';
 
-    $og_title = 'Attendance Management Software Pricing | Dokodemo-Kerja';
+    $og_title = 'Affordable & Cost Effective Attendance Management Software | Dokodemo Kerja';
     $og_image = 'https://dokodemo-kerja.com/img/og-img/price.jpg';
-    $og_desription = 'Dokodemo-Kerja is an HR management and remote work software that allows for better employee attendance management for a reasonable price. Developed and sold in Indonesia.';
+    $og_desription = 'Dokodemo-Kerja is a cost effective & affordable & HRIS software available in Indonesia; better organize your workforce with this attendance management HR tool.';
 
     $add_css = '<link rel="stylesheet" href="/css/style-pricing.css" />';
 
