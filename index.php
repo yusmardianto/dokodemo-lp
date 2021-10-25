@@ -119,6 +119,40 @@
             </div>
         </section>
 
+        <section class="color--blue pb--60px">
+            <div class="container">
+                <div class="row">
+                    <div class="col-12">
+                        <h2 class="mt-5 font-weight-bold text-center fs-34">
+                        Dokodemo-Kerja: Supporting WFH Systems
+                        </h2>
+
+                        <p class="text-center">Dokodemo-Kerja is the best online attendance application supporting the implementation of successful WFH strategies within your company. The various features we provide will help accurately manage employee data in real time, despite having a remote or WFO based workforce. Monitor the discipline of employees working from home through a system which is designed to provide attendance lists, calculate total hours worked, and monitor overall productivity. Indeed, successful WFH systems are easily made possible with the help of Dokodemo-Kerja.</p>
+                    </div>
+                    <div class="col-12">
+                        <h3 class="mt-5 font-weight-bold fs-20">
+                        What are WFH Strategies?
+                        </h3>
+
+                        <p>WFH (Work From Home) strategies allow your company’s workforce to freely conduct their work through flexible means, allowing for a wide variety of benefits , from saving money on office space, improving employee work-life balance to increased productivity, as has been shown through a variety of studies, notably from Gallup and Stanford. Unfortunately, without the use of digital technology to keep track of employees and their productivity, results may vary regarding the outcomes of each strategy. However, there exists a wide variety of tools to assist the WFH process. </p>
+                    </div>
+                    <div class="col-12">
+                        <h3 class="mt-5 font-weight-bold fs-20">
+                        The Standard Setup:
+                        </h3>
+
+                        <p>Working from home allows your workers to conduct their tasks from anywhere. However, this work strategy requires certain key elements to support distance based employment. Specifically, workers must use a fully functional laptop, as well as utilize a stable internet connection so that coordination can be conducted efficiently. Also, within this workframe, rules that outline exactly what is expected of remote working employees must be enforced and must be made clear. For example, more stringent consequences can be upheld for infringements such as for absenteeism or failing to submit projects on time, which balances the relative freedom provided by WFH strategies.</p>
+                    </div>
+                    <div class="col-12">
+                        <h3 class="mt-5 font-weight-bold fs-20">
+                        Better Technology, Better Management:
+                        </h3>
+                        <p>This is the standard scenario for a successful WFH strategy. However, to further reinforce your remote work strategy, further controls must be applied. Technology available today can now efficiently replicate the company’s ability to track, analyze and report on the attendance and overall  performance of a workforce, making the effort of managing one working remotely a simple and straightforward task. Such software provides an all-in-one solution to distance based employment; some features include: attendance management , recording work hours as well as screen and desktop capturing & monitoring features.</p>
+                    </div>
+                </div>
+            </div>
+        </section>
+
         <section class="color--blue pb--60px home__schedule">
             <div class="container">
                 <div class="row">
@@ -587,75 +621,43 @@
         <section class="mb--30px news-list-container">
             <div class="container">
                 <div class="newscontainer">
-                    <div class="row justify-content-md-center">
-                        <div class="col-sm-8">
+                    <div class="row">
+                        <div class="col-12">
                             <h2>Latest <strong>News</strong></h2>
                         </div>
                     </div>
                     <?php
-                    $rss = new DOMDocument();
-                    $rss->load('https://www.logique.co.id/blog/en/category/dokodemo-kerja-en/feed/');
-                    $feed = array();
-                    foreach ($rss->getElementsByTagName('item') as $node) {
-                    $item = array ( 
-                    'title' => $node->getElementsByTagName('title')->item(0)->nodeValue,
-                    'desc' => $node->getElementsByTagName('description')->item(0)->nodeValue,
-                    'link' => $node->getElementsByTagName('link')->item(0)->nodeValue,
-                    'date' => $node->getElementsByTagName('pubDate')->item(0)->nodeValue,
-                    );
-                    array_push($feed, $item);
-                    }
-                    $limit = 4; 
-
-                    function tgl_indo($tanggal){
-                        $bulan = array (
-                            1 =>   'Jan',
-                            'Feb',
-                            'Mar',
-                            'Apr',
-                            'Mei',
-                            'Jun',
-                            'Jul',
-                            'Ags',
-                            'Sep',
-                            'Okt',
-                            'Nov',
-                            'Des'
-                        );
-                        $pecahkan = explode('-', $tanggal);
-                        
-                    
-                        return $pecahkan[2] . ' ' . $bulan[ (int)$pecahkan[1] ] . ' ' . $pecahkan[0];
-                    }
+                    $url = file_get_contents('https://dokodemo-kerja.com/blog/wp-json/wp/v2/posts?categories=15,17,19&per_page=3&_embed');
+                    $remote_posts = json_decode( $url ); 
 
                     ?>
 
                     <div class="news-list">
+                        <div class="row">
                         <?php 
-                            for($x=0;$x<$limit;$x++) {
-                            $title = str_replace(' & ', ' &amp; ', $feed[$x]['title']);
-                            $link = $feed[$x]['link'];
-                            $description = $feed[$x]['desc'];
-                            $date = date('F d, Y', strtotime($feed[$x]['date']));
-                            // echo '<p><strong><a href="'.$link.'" title="'.$title.'">'.$title.'</a></strong><br />';
-                            // echo '<small><em>Posted on '.$date.'</em></small></p>';
-                            // echo '<p>'.$description.'</p>';
+                            foreach( $remote_posts as $post_index => $remote_post ) { 
+                            $categories = $remote_post->_embedded->{'wp:term'}[0];
                         ?>
-                        
-                            <div class="row justify-content-md-center">
-                                
-                                <div class="col-sm-8">
-                                    <div class="news-item">
-                                        <span class="feeddate"> <?php echo tgl_indo(date('Y-m-d', strtotime($feed[$x]['date'])));;?></span><a href="<?php echo $link ?>" target="_blank" rel="noreferrer"><?php echo $title ?></a>
+                            <div class="col-md-4">
+                                <div class="news-item">
+                                    <img src="<?= $remote_post->yoast_head_json->og_image[0]->url ?>" class="img-news-item" alt="<?= $remote_post->title->rendered ?>">
+                                    <div class="d-flex items-center"> 
+                                        <span class="cat-name">
+                                            <?php foreach($categories as $index => $category){ ?>
+                                                <a href="<?= $category->link ?>"><?= $category->name ?></a> 
+                                                <?= $index+1 < count($categories) ? '|' : null; ?>
+                                            <?php } ?>
+                                        </span>
+                                        <span class="news-date">
+                                            <?= date('F d, Y', strtotime($remote_post->date)); ?>
+                                        </span>
                                     </div>
+                                    <a class="news-link" href="<?= $remote_post->link ?>" target="_blank" rel="noreferrer"><?= $remote_post->title->rendered ?></a>
                                 </div>
-                                    
                             </div>
-                        
                         <?php  } ?>
-
+                        </div>
                     </div>
-
                 </div>
             </div>
         </section>
