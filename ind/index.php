@@ -1,7 +1,7 @@
 <?php 
     $page = '';
     $page_title = 'Aplikasi Absensi Online Terbaik Untuk Karyawan | Dokodemo-Kerja';
-    $assetVersion = 1.0;
+    $assetVersion = 1.1;
 
     $meta_description = 'Software HRIS berupa Aplikasi absensi online karyawan terbaik berbasis web & mobile untuk sistem kerja remote / jarak jauh (WFH) maupun WFO. Coba Sekarang!';
     $meta_keyword = 'Dokodemo-Kerja, strategi HR, kerja remote, jam kerja karyawan, jadwal kerja';
@@ -121,6 +121,38 @@
                                     allowfullscreen></iframe>
                             </div>
                         </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <section class="color--blue pb--60px">
+            <div class="container">
+                <div class="row">
+                    <div class="col-12">
+                        <h2 class="mt-4 font-weight-bold text-center fs-34">
+                        Dokodemo-Kerja Mendukung Sistem WFH
+                        </h2>
+
+                        <p class="text-center">Dokodemo-Kerja adalah aplikasi absensi online terbaik untuk mendukung kesuksesan sistem kerja WFH di perusahaan Anda. Beragam fitur yang kami sediakan akan membantu pengelolaan data karyawan secara akurat dan real time, meskipun mereka berada di lokasi yang jauh dari kantor sekalipun. Anda tidak perlu lagi khawatir dengan kedisiplinan karyawan yang bekerja dari rumah karena sistem mampu mencatat daftar kehadiran, menghitung total jam kerja, serta memantau produktivitas. Melalui Dokodemo-Kerja, keberhasilan sistem WFH menjadi semakin mudah untuk diraih.</p>
+                    </div>
+                    <div class="col-12">
+                        <h3 class="mt-5 font-weight-bold fs-20">
+                        Mengenai WFH
+                        </h3>
+                        <p>Work From Home atau WFH adalah sistem kerja yang mengizinkan tenaga kerja suatu perusahaan untuk bisa melakukan pekerjaannya secara fleksibel dari rumah atau dari lokasi manapun sehingga memungkinkan perusahaan untuk mendapat berbagai keuntungan seperti dapat menghemat biaya operasional di kantor, meningkatkan keseimbangan antara pekerjaan dan kehidupan (work life balance), sampai meningkatkan produktivitas karyawan. Beragam keuntungan tersebut juga telah dibuktikan oleh banyak penelitian terutama riset yang dilakukan oleh Gallup dan Stanford. Sayangnya, tanpa penggunaan teknologi digital untuk melacak produktivitas karyawan, WFH dapat memberikan hasil yang tidak sesuai. Padahal, saat ini sudah ada berbagai macam alat yang dapat membantu perusahaan untuk bisa menjalankan strategi WFH dengan lancar.</p>
+                    </div>
+                    <div class="col-12">
+                        <h3 class="mt-5 font-weight-bold fs-20">
+                        Persiapan WFH
+                        </h3>
+                        <p>WFH memungkinkan karyawan untuk dapat bekerja dari rumah atau lokasi manapun yang mereka inginkan. Jadi,  saat menjalankan sistem kerja WFH perusahaan harus memperhatikan beberapa point penting untuk mendukung sistem kerja jarak jauh ini. Beberapa diantaranya seperti, karyawan harus memiliki laptop yang bekerja dengan optimal serta memiliki koneksi internet yang cukup stabil sehingga koordinasi antar tim tetap dapat berjalan secara efisien. Selain itu, perusahaan juga harus menguraikan kebijakan dengan jelas terkait peraturan-peraturan yang harus dipatuhi karyawan saat mereka bekerja dari jarak jauh. Sebagai contoh, agar karyawan tetap bekerja dengan optimal saat WFH maka perusahaan dapat membuat peraturan dimana karyawan akan menerima konsekuensi tertentu saat mereka tidak bekerja atau gagal menyelesaikan tugas secara tepat waktu.</p>
+                    </div>
+                    <div class="col-12">
+                        <h3 class="mt-5 font-weight-bold fs-20">
+                        Penggunaan Teknologi untuk Manajemen WFH yang Lebih Baik
+                        </h3>
+                        <p>Penggunaan teknologi merupakan skenario standar untuk menjalankan strategi WFH yang sukses. Meskipun demikian, pengawasan berkelanjutan tetap perlu dilakukan untuk memperkuat strategi sistem kerja jarak jauh di perusahaan Anda. Saat ini sudah ada banyak aplikasi HRD yang dapat bekerja secara efisien untuk melacak, menganalisis, mencatat daftar kehadiran serta kinerja karyawan sehingga tugas untuk mengelola pekerja remote menjadi semakin mudah. Aplikasi tersebut pada umumnya akan menyediakan beragam fitur yang mampu memberikan solusi lengkap untuk manajemen pekerja remote di perusahaan Anda seperti fitur manajemen kehadiran, pelacak waktu, serta fitur untuk memantau layar desktop karyawan.</p>
                     </div>
                 </div>
             </div>
@@ -564,79 +596,70 @@
             </div>
         </section>
 
-        <section  class="mb--30px news-list-container">
-           <div class="container">
-               <div class="newscontainer">
-                   <div class="row justify-content-md-center">
-                       <div class="col-sm-8">
-                           <h2>Kabar <strong>Terbaru</strong></h2>
-                       </div>
-                   </div>
-                   <?php
-                   $rss = new DOMDocument();
-                   $rss->load('https://www.logique.co.id/blog/category/dokodemo-kerja/feed/');
-                   $feed = array();
-                   foreach ($rss->getElementsByTagName('item') as $node) {
-                   $item = array ( 
-                   'title' => $node->getElementsByTagName('title')->item(0)->nodeValue,
-                   'desc' => $node->getElementsByTagName('description')->item(0)->nodeValue,
-                   'link' => $node->getElementsByTagName('link')->item(0)->nodeValue,
-                   'date' => $node->getElementsByTagName('pubDate')->item(0)->nodeValue,
-                   );
-                   array_push($feed, $item);
-                   }
-                   $limit = 5; 
-    
-                   function tgl_indo($tanggal){
-                       $bulan = array (
-                           1 =>   'Jan',
-                           'Feb',
-                           'Mar',
-                           'Apr',
-                           'Mei',
-                           'Jun',
-                           'Jul',
-                           'Ags',
-                           'Sep',
-                           'Okt',
-                           'Nov',
-                           'Des'
-                       );
-                       $pecahkan = explode('-', $tanggal);
+        <section class="mb--30px news-list-container">
+            <div class="container">
+                <div class="newscontainer">
+                    <div class="row">
+                        <div class="col-12">
+                            <h2>Kabar <strong>Terbaru</strong></h2>
+                        </div>
+                    </div>
+                    <?php
+                    $url = file_get_contents('https://dokodemo-kerja.com/blog/wp-json/wp/v2/posts?categories=63,65,67&per_page=3&_embed');
+                    $remote_posts = json_decode( $url ); 
+
+                    function tgl_indo($tanggal){
+                        $bulan = array (
+                            1 =>  'Januari',
+                            'Februari',
+                            'Maret',
+                            'April',
+                            'Mei',
+                            'Juni',
+                            'Juli',
+                            'Agustus',
+                            'September',
+                            'Oktober',
+                            'November',
+                            'Desember'
+                        );
+                        $pecahkan = explode('-', $tanggal);
                         
                     
-                       return $pecahkan[2] . ' ' . $bulan[ (int)$pecahkan[1] ] . ' ' . $pecahkan[0];
-                   }
-    
-                   ?>
-    
-                   <div class="news-list">
-             <?php 
-               for($x=0;$x<$limit;$x++) {
-               $title = str_replace(' & ', ' &amp; ', $feed[$x]['title']);
-               $link = $feed[$x]['link'];
-               $description = $feed[$x]['desc'];
-               $date = date('F d, Y', strtotime($feed[$x]['date']));
-               // echo '<p><strong><a href="'.$link.'" title="'.$title.'">'.$title.'</a></strong><br />';
-               // echo '<small><em>Posted on '.$date.'</em></small></p>';
-               // echo '<p>'.$description.'</p>';
-              
-             ?>
-             <div class="row justify-content-md-center">
-                
-               <div class="col-sm-8">
-                   <div class="news-item">
-                   <span class="feeddate"> <?php echo tgl_indo(date('Y-m-d', strtotime($feed[$x]['date'])));;?></span><a href="<?php echo $link ?>" target="_blank" rel="noreferrer"><?php echo $title ?></a>
-                   </div>
-               </div>
-                     
-           </div>
-             
-           <?php  } ?>
+                        return $bulan[ (int)$pecahkan[1] ].' '.$pecahkan[2] . ', ' . $pecahkan[0];
+                    }
+
+                    ?>
+
+                    <div class="news-list">
+                        <div class="row">
+                        <?php 
+                            foreach( $remote_posts as $remote_post ) { 
+                            $categories = $remote_post->_embedded->{'wp:term'}[0];
+                        ?>
+                            <div class="col-md-4">
+                                <div class="news-item">
+                                    <img src="<?= $remote_post->yoast_head_json->og_image[0]->url ?>" class="img-news-item" alt="<?= $remote_post->title->rendered ?>">
+                                    <div class="d-flex items-center"> 
+                                        <span class="cat-name">
+                                            <?php foreach($categories as $index => $category){ ?>
+                                                <a href="<?= $category->link ?>"><?= $category->name ?></a> 
+                                                <?= $index+1 < count($categories) ? '|' : null; ?>
+                                            <?php } ?>
+                                        </span>
+                                        <span class="news-date">
+                                            <?= tgl_indo(date('Y-m-d', strtotime($remote_post->date))); ?>
+                                        </span>
+                                    </div>
+                                    <a class="news-link" href="<?= $remote_post->link ?>" target="_blank" rel="noreferrer"><?= $remote_post->title->rendered ?></a>
+                                </div>
+                            </div>
+                        <?php  } ?>
+                        </div>
+                    </div>
+                </div>
             </div>
-               </div>
-           </div>
-       </section>
+        </section>
 
     </div>
 
