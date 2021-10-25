@@ -129,7 +129,26 @@
 
                         <p class="text-center">Dokodemo-Kerja is the best online attendance application supporting the implementation of successful WFH strategies within your company. The various features we provide will help accurately manage employee data in real time, despite having a remote or WFO based workforce. Monitor the discipline of employees working from home through a system which is designed to provide attendance lists, calculate total hours worked, and monitor overall productivity. Indeed, successful WFH systems are easily made possible with the help of Dokodemo-Kerja.</p>
                     </div>
-                
+                    <div class="col-12">
+                        <h3 class="mt-5 font-weight-bold fs-20">
+                        What are WFH Strategies?
+                        </h3>
+
+                        <p>WFH (Work From Home) strategies allow your company’s workforce to freely conduct their work through flexible means, allowing for a wide variety of benefits , from saving money on office space, improving employee work-life balance to increased productivity, as has been shown through a variety of studies, notably from Gallup and Stanford. Unfortunately, without the use of digital technology to keep track of employees and their productivity, results may vary regarding the outcomes of each strategy. However, there exists a wide variety of tools to assist the WFH process. </p>
+                    </div>
+                    <div class="col-12">
+                        <h3 class="mt-5 font-weight-bold fs-20">
+                        The Standard Setup:
+                        </h3>
+
+                        <p>Working from home allows your workers to conduct their tasks from anywhere. However, this work strategy requires certain key elements to support distance based employment. Specifically, workers must use a fully functional laptop, as well as utilize a stable internet connection so that coordination can be conducted efficiently. Also, within this workframe, rules that outline exactly what is expected of remote working employees must be enforced and must be made clear. For example, more stringent consequences can be upheld for infringements such as for absenteeism or failing to submit projects on time, which balances the relative freedom provided by WFH strategies.</p>
+                    </div>
+                    <div class="col-12">
+                        <h3 class="mt-5 font-weight-bold fs-20">
+                        Better Technology, Better Management:
+                        </h3>
+                        <p>This is the standard scenario for a successful WFH strategy. However, to further reinforce your remote work strategy, further controls must be applied. Technology available today can now efficiently replicate the company’s ability to track, analyze and report on the attendance and overall  performance of a workforce, making the effort of managing one working remotely a simple and straightforward task. Such software provides an all-in-one solution to distance based employment; some features include: attendance management , recording work hours as well as screen and desktop capturing & monitoring features.</p>
+                    </div>
                 </div>
             </div>
         </section>

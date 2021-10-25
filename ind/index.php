@@ -130,29 +130,29 @@
             <div class="container">
                 <div class="row">
                     <div class="col-12">
-                        <h2 class="mt-5 font-weight-bold text-center fs-34">
+                        <h2 class="mt-4 font-weight-bold text-center fs-34">
                         Dokodemo-Kerja Mendukung Sistem WFH
                         </h2>
 
                         <p class="text-center">Dokodemo-Kerja adalah aplikasi absensi online terbaik untuk mendukung kesuksesan sistem kerja WFH di perusahaan Anda. Beragam fitur yang kami sediakan akan membantu pengelolaan data karyawan secara akurat dan real time, meskipun mereka berada di lokasi yang jauh dari kantor sekalipun. Anda tidak perlu lagi khawatir dengan kedisiplinan karyawan yang bekerja dari rumah karena sistem mampu mencatat daftar kehadiran, menghitung total jam kerja, serta memantau produktivitas. Melalui Dokodemo-Kerja, keberhasilan sistem WFH menjadi semakin mudah untuk diraih.</p>
                     </div>
                     <div class="col-12">
-                        <h2 class="mt-5 font-weight-bold text-center fs-34">
+                        <h3 class="mt-5 font-weight-bold fs-20">
                         Mengenai WFH
-                        </h2>
-                        <p class="text-center">Work From Home atau WFH adalah sistem kerja yang mengizinkan tenaga kerja suatu perusahaan untuk bisa melakukan pekerjaannya secara fleksibel dari rumah atau dari lokasi manapun sehingga memungkinkan perusahaan untuk mendapat berbagai keuntungan seperti dapat menghemat biaya operasional di kantor, meningkatkan keseimbangan antara pekerjaan dan kehidupan (work life balance), sampai meningkatkan produktivitas karyawan. Beragam keuntungan tersebut juga telah dibuktikan oleh banyak penelitian terutama riset yang dilakukan oleh Gallup dan Stanford. Sayangnya, tanpa penggunaan teknologi digital untuk melacak produktivitas karyawan, WFH dapat memberikan hasil yang tidak sesuai. Padahal, saat ini sudah ada berbagai macam alat yang dapat membantu perusahaan untuk bisa menjalankan strategi WFH dengan lancar.</p>
+                        </h3>
+                        <p>Work From Home atau WFH adalah sistem kerja yang mengizinkan tenaga kerja suatu perusahaan untuk bisa melakukan pekerjaannya secara fleksibel dari rumah atau dari lokasi manapun sehingga memungkinkan perusahaan untuk mendapat berbagai keuntungan seperti dapat menghemat biaya operasional di kantor, meningkatkan keseimbangan antara pekerjaan dan kehidupan (work life balance), sampai meningkatkan produktivitas karyawan. Beragam keuntungan tersebut juga telah dibuktikan oleh banyak penelitian terutama riset yang dilakukan oleh Gallup dan Stanford. Sayangnya, tanpa penggunaan teknologi digital untuk melacak produktivitas karyawan, WFH dapat memberikan hasil yang tidak sesuai. Padahal, saat ini sudah ada berbagai macam alat yang dapat membantu perusahaan untuk bisa menjalankan strategi WFH dengan lancar.</p>
                     </div>
                     <div class="col-12">
-                        <h3 class="mt-5 font-weight-bold text-center fs-34">
+                        <h3 class="mt-5 font-weight-bold fs-20">
                         Persiapan WFH
                         </h3>
-                        <p class="text-center">WFH memungkinkan karyawan untuk dapat bekerja dari rumah atau lokasi manapun yang mereka inginkan. Jadi,  saat menjalankan sistem kerja WFH perusahaan harus memperhatikan beberapa point penting untuk mendukung sistem kerja jarak jauh ini. Beberapa diantaranya seperti, karyawan harus memiliki laptop yang bekerja dengan optimal serta memiliki koneksi internet yang cukup stabil sehingga koordinasi antar tim tetap dapat berjalan secara efisien. Selain itu, perusahaan juga harus menguraikan kebijakan dengan jelas terkait peraturan-peraturan yang harus dipatuhi karyawan saat mereka bekerja dari jarak jauh. Sebagai contoh, agar karyawan tetap bekerja dengan optimal saat WFH maka perusahaan dapat membuat peraturan dimana karyawan akan menerima konsekuensi tertentu saat mereka tidak bekerja atau gagal menyelesaikan tugas secara tepat waktu.</p>
+                        <p>WFH memungkinkan karyawan untuk dapat bekerja dari rumah atau lokasi manapun yang mereka inginkan. Jadi,  saat menjalankan sistem kerja WFH perusahaan harus memperhatikan beberapa point penting untuk mendukung sistem kerja jarak jauh ini. Beberapa diantaranya seperti, karyawan harus memiliki laptop yang bekerja dengan optimal serta memiliki koneksi internet yang cukup stabil sehingga koordinasi antar tim tetap dapat berjalan secara efisien. Selain itu, perusahaan juga harus menguraikan kebijakan dengan jelas terkait peraturan-peraturan yang harus dipatuhi karyawan saat mereka bekerja dari jarak jauh. Sebagai contoh, agar karyawan tetap bekerja dengan optimal saat WFH maka perusahaan dapat membuat peraturan dimana karyawan akan menerima konsekuensi tertentu saat mereka tidak bekerja atau gagal menyelesaikan tugas secara tepat waktu.</p>
                     </div>
                     <div class="col-12">
-                        <h3 class="mt-5 font-weight-bold text-center fs-34">
+                        <h3 class="mt-5 font-weight-bold fs-20">
                         Penggunaan Teknologi untuk Manajemen WFH yang Lebih Baik
                         </h3>
-                        <p class="text-center">Penggunaan teknologi merupakan skenario standar untuk menjalankan strategi WFH yang sukses. Meskipun demikian, pengawasan berkelanjutan tetap perlu dilakukan untuk memperkuat strategi sistem kerja jarak jauh di perusahaan Anda. Saat ini sudah ada banyak aplikasi HRD yang dapat bekerja secara efisien untuk melacak, menganalisis, mencatat daftar kehadiran serta kinerja karyawan sehingga tugas untuk mengelola pekerja remote menjadi semakin mudah. Aplikasi tersebut pada umumnya akan menyediakan beragam fitur yang mampu memberikan solusi lengkap untuk manajemen pekerja remote di perusahaan Anda seperti fitur manajemen kehadiran, pelacak waktu, serta fitur untuk memantau layar desktop karyawan.</p>
+                        <p>Penggunaan teknologi merupakan skenario standar untuk menjalankan strategi WFH yang sukses. Meskipun demikian, pengawasan berkelanjutan tetap perlu dilakukan untuk memperkuat strategi sistem kerja jarak jauh di perusahaan Anda. Saat ini sudah ada banyak aplikasi HRD yang dapat bekerja secara efisien untuk melacak, menganalisis, mencatat daftar kehadiran serta kinerja karyawan sehingga tugas untuk mengelola pekerja remote menjadi semakin mudah. Aplikasi tersebut pada umumnya akan menyediakan beragam fitur yang mampu memberikan solusi lengkap untuk manajemen pekerja remote di perusahaan Anda seperti fitur manajemen kehadiran, pelacak waktu, serta fitur untuk memantau layar desktop karyawan.</p>
                     </div>
                 </div>
             </div>
