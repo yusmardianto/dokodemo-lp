@@ -119,6 +119,21 @@
             </div>
         </section>
 
+        <section class="color--blue pb--60px">
+            <div class="container">
+                <div class="row">
+                    <div class="col-12">
+                        <h2 class="mt-5 font-weight-bold text-center fs-34">
+                        Dokodemo-Kerja: Supporting WFH Systems
+                        </h2>
+
+                        <p class="text-center">Dokodemo-Kerja is the best online attendance application supporting the implementation of successful WFH strategies within your company. The various features we provide will help accurately manage employee data in real time, despite having a remote or WFO based workforce. Monitor the discipline of employees working from home through a system which is designed to provide attendance lists, calculate total hours worked, and monitor overall productivity. Indeed, successful WFH systems are easily made possible with the help of Dokodemo-Kerja.</p>
+                    </div>
+                
+                </div>
+            </div>
+        </section>
+
         <section class="color--blue pb--60px home__schedule">
             <div class="container">
                 <div class="row">
