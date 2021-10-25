@@ -1,13 +1,13 @@
 <?php 
     $page = 'features';
-    $page_title = 'Remote Work Monitoring Software | Dokodemo-Kerja.';
+    $page_title = 'HRIS management & screen monitoring cloud system | Dokodemo-Kerja';
 
-    $meta_description = 'Dokodemo-Kerja is a remote work monitoring software and attendance management tool created for better HR management, developed by LOGIQUE.';
-    $meta_keyword = 'dokodemo, dokodemo features, work monitor, monitor tasks, screenshot employee desktop, screen monitoring, management tool, tool for managers, employee management software, GPS tracking, calculate working hours';
+    $meta_description = 'Dokodemo-Kerja is a HRIS management system with cloud & employee screen monitoring features for better & improved employee attendance.';
+    $meta_keyword = 'employee monitoring, screen monitoring, management system, Manage attendance, Hris system, Hris coud, improve employee attendance';
 
-    $og_title = 'Remote Work Monitoring Software | Dokodemo-Kerja';
+    $og_title = 'HRIS management & screen monitoring cloud system | Dokodemo-Kerja';
     $og_image = 'https://dokodemo-kerja.com/img/og-img/features.jpg';
-    $og_desription = 'Dokodemo-Kerja is a remote work monitoring software and attendance management tool created for better HR management, developed by LOGIQUE.';
+    $og_desription = 'Dokodemo-Kerja is a HRIS management system with cloud & employee screen monitoring features for better & improved employee attendance.';
     $canonical = '/features';
 
     $add_css = '
