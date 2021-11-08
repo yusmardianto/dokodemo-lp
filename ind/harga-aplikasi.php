@@ -32,8 +32,8 @@
             <div class="row justify-content-center">
                 <div class="col-md-10 text-center pricing-page-title">
                     <h2 class="d-none">Hubungi Kami Untuk Informasi Seputar Dokodemo Kerja</h2>
-                    <h1 class="fs-30">Mulai Kerja Remote, Simpan Uang Anda dan Tingkatkan Transparansi dengan Dokodemo Kerja</h1>
-                    <h3 class="fs-26">Harga Aplikasi Absensi Online Dokodemo-Kerja</h3>
+                    <h1 class="fs-30">Harga Aplikasi Absensi Online Dokodemo-Kerja</h1>
+                    <h3 class="fs-26">Mulai Kerja Remote, Simpan Uang Anda dan Tingkatkan Transparansi dengan Dokodemo Kerja</h3>
                 </div>
             </div>
         </div>
