@@ -319,6 +319,54 @@ require '../action/c-trial.php';
 										</div>
 									</div>
 								</div>
+								<div>
+									<h2 class="tab-content-title content-section-title">5. Pengawasan Staf</h2>
+									<div class="pl-4">
+										<div class="row">
+											<div class="col-sm-12 col-md-12 col-lg-12">	
+												<p class="trial-font-size">
+													Sebagai admin, Anda dapat melakukan pengawasan dan pemeriksaan terhadap aktivitas pekerjaan yang sedang dilakukan oleh setiap karyawan. 
+												</p>										
+												<p class="mt-0 trial-font-size"> 
+													<span style="color: var(--primary-main)">●</span> 
+													Cek total jam kerja karyawan.
+												</p>	
+												<p class="mt-0 trial-font-size">
+													Buka menu Work Session, kemudian klik "All" dan sistem akan menampilkan total jam kerja yang telah dicapai oleh seluruh karyawan. Admin dapat melihat total jam kerja karyawan pada periode waktu tertentu yang dapat disesuaikan menggunakan tombol daily (harian), weekly (mingguan) atau monthly (bulanan).
+												</p>																												
+												<img src="/img/trial/fungsi-admin-tab/a1.png" class="mb-3 img-fluid w-100 img-border" alt="pengaturan-task" loading="lazy" />																							
+											</div>										
+										</div>
+										<div class="row mt-4">
+											<div class="col-sm-12 col-md-12 col-lg-12">										
+												<p class="trial-font-size"> 
+													<span style="color: var(--primary-main)">●</span> 
+													Cek Tangkapan Layar Karyawan
+												</p>	
+												<p class="mt-0 trial-font-size">
+												Selain mengawasi waktu kerja, Admin juga dapat melakukan pengawasan aktivitas kerja karyawan melalui fitur tangkapan layar (desktop screenshot). <br>
+												Buka menu Work Session, kemudian klik "All". Selanjutnya pilih tanggal atau sesi kerja yang ingin Anda awasi kemudian klik nama karyawan. Saat halaman detail karyawan ditampilkan, silakan scroll ke bagian bawah halaman dan Anda akan menemukan hasil tangkapan layar pada tab "Screen Record". 
+												</p>																												
+												<img src="/img/trial/fungsi-admin-tab/a2.png" class="mb-3 img-fluid w-100 img-border" alt="pengaturan-task" loading="lazy" />																							
+											</div>										
+										</div>
+										<div class="row mt-4">
+											<div class="col-sm-12 col-md-12 col-lg-12">										
+												<p class="trial-font-size"> 
+													<span style="color: var(--primary-main)">●</span> 
+													3 Tangkapan Layar yang Sama
+												</p>	
+												<p class="mt-0 trial-font-size">
+													Sistem dapat mendeteksi tangkapan layar secara akurat. Jika terdapat 3 tangkapan layar yang sama atau lebih secara berurutan, maka sistem akan menandai hasil tangkapan layar tersebut dengan warna merah dan secara otomatis mengirim pemberitahuan kepada pihak Admin.
+												</p>																												
+												<img src="/img/trial/fungsi-admin-tab/a3.jpg" class="mb-3 img-fluid w-100 img-border" alt="pengaturan-task" loading="lazy" />																							
+												<p class="mt-0 trial-font-size">
+													Melalui fitur ini, Admin dapat mengetahui bahwa pada sesi waktu tersebut karyawan sedang tidak melakukan aktivitas apapun pada perangkat kerjanya. Jika diketahui bahwa pada sesi tersebut karyawan sedang beristirahat dan lupa mematikan Dokodemo-Kerja, maka Admin dapat merubah Work Session karyawan agar perhitungan total jam kerja tetap akurat.
+												</p>
+											</div>										
+										</div>
+									</div>
+								</div>
 
 								<p class="mt-4 " style="font-size: small;">
 									<i>*Saat Anda memutuskan untuk berlangganan Dokodemo-Kerja, user juga akan membutuhkan Company Code untuk login ke aplikasi. Pihak kami akan mengirimkannya kepada pihak PIC perusahaan setelah perusahaan Anda resmi terdaftar.</i>
