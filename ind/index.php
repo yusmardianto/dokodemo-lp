@@ -77,23 +77,32 @@
                     <?php include($_SERVER['DOCUMENT_ROOT'] . '/ind/absensi-app-online-section.php'); ?> -->
                    
                     <div class="col-md-12 ">
-                        <p class="mb-md-2 text-center">
-                            Dokodemo-Kerja merupakan software HRIS berupa aplikasi absensi online untuk kerja jarak jauh (remote working) dengan beragam fitur dan keunggulan. Fungsi utama aplikasi ini adalah sebagai pengelola absensi karyawan yang mampu mencatat waktu masuk, istirahat dan waktu pulang kerja karyawan serta mengakumulasi total waktu kerja secara akurat.
+                        <p class="mb-md-2 text-left">
+                        Dokodemo-Kerja merupakan software HRIS berupa aplikasi absensi online dengan beragam fitur dan keunggulan. Dokodemo-Kerja juga dapat menjadi management tool yang mengubah cara kerja karyawan perusahaan Anda. Dengan aplikasi ini, tim HRD dapat dengan mudah mengelola beragam sistem kerja mulai dari sistem kerja di perkantoran, kerja jarak jauh / remote working / Work From Home (WFH), atau sistem kerja karyawan dengan jangka waktu yang pendek.
+                        </p>
+                        <p class="mb-md-2 text-left">
+                        Dokodemo-Kerja kami sediakan untuk perusahan-perusahaan di Indonesia yang ingin mengelola karyawannya secara efektif dan efisien. Meskipun demikian aplikasi ini juga dapat digunakan di luar negeri.
+                        </p>
+                        <p class="mb-md-2 text-left">
+                        Fitur utama Dokodemo-Kerja adalah pengelola absensi karyawan yang mampu mencatat dan mengelola clock in (absen masuk) dan clock out (absen keluar) karyawan, waktu istirahat, serta mengakumulasi total waktu kerja secara akurat. Fungsionalitas penting Dokodemo-Kerja adalah kemampuan untuk mengambil tangkapan layar (screen capture) dan memeriksa konsistensi antara waktu pengarsipan dengan situasi aktual.
                         </p>
                     </div>
 
                     <div class="col-12">
                         <div class="mt--30px mb-5 py--20px px--30px bg--l-blue border--blue rounded-lg shadow--blue">
                             <div class="row align-items-center">
-                                <div class="col-md-8 col-lg-6">                                   
-                                    <p class="mb-md-0 text-justify text-md-left">
-                                        Aplikasi Dokodemo-Kerja kini hadir dalam Versi 3.0, selain dilengkapi fitur pelacakan GPS untuk mengelola aktivitas para staff yang sering bekerja diluar kantor, Versi 3.0 ini juga telah dilengkapi fitur Announcement dan Calendar Upcoming Day Off untuk menginformasikan pengguna mengenai aktivitas cuti dari seluruh staff / karyawan dan informasi hari libur nasional.
+                                <div class="col-md-8 col-lg-7">                                   
+                                    <p class="text-justify text-md-justify">
+                                    Aplikasi Dokodemo-Kerja kini hadir dalam Versi 3.0, selain dilengkapi fitur pelacakan GPS untuk mengelola aktivitas para staff yang sering bekerja diluar kantor, Versi 3.0 ini juga telah dilengkapi fitur Announcement dan Calendar Upcoming Day Off untuk menginformasikan pengguna mengenai aktivitas cuti dari seluruh staff / karyawan dan informasi hari libur nasional.
+                                    </p>
+                                    <p class="mb-md-0 text-justify text-md-justify">
+                                    Kami menyediakan environment baru dengan mengeluarkan kode perusahaan (Company Code). Dengan demikian, kami dapat mempersiapkan Dokodemo-Kerja versi demo dengan waktu yang singkat. Silakan hubungi kami untuk meminta environment Dokodemo-Kerja versi demo dan Anda bisa menggunakannya secara GRATIS tanpa perlu memberikan info kartu kredit.
                                     </p>
                                 </div>
-                                <div class="col-md-4 col-lg-6 text-center">
+                                <div class="col-md-4 col-lg-5 text-center">
                                     <div class="row justify-content-center">
                                         <div class="col-auto col-lg-6">
-                                            <a href="/ind/demo" class="form-control btn btn--rounded bg--blue fs-14 text-white px-4">Coba Demo Sekarang</a>
+                                            <a href="/contact-us.php" class="form-control btn btn--rounded bg--blue fs-14 text-white px-4">Hubungi Kami</a>
                                         </div>
                                     </div>
                                     <p class="mt-1 mb-0 fs-12">*Tidak perlu Kartu Kredit</p>    
