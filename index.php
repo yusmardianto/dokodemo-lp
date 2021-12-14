@@ -71,7 +71,27 @@
                         </div>
                     </div>
                     <div class="col-md-12 ">
-                        <p class="mb-md-2 text-center">
+                        <ul class="pl-0" style="list-style-type: none;">
+                            <li>
+                                <p class="mb-md-2 text-left">
+                                ※ A tax deduction certificate will be issued monthly for customers residing within Indonesia.
+                                </p>
+                            </li>
+                            <li>
+                                <p class="mb-md-2 text-left">
+                                ※ We provide SaaS services, however we issue invoices every month instead of receiving payments via credit card.
+                                </p>
+                            </li>
+                            <li>
+                                <p class="mb-md-2 text-left">
+                                ※  Customers residing outside Indonesia are requested to pay via Paypal.
+                                </p>
+                            </li>
+                        </ul>                                               
+                    </div>                      
+
+                    <div class="col-md-12 ">
+                        <p class="mb-md-2 text-center mt-3">
                             Dokodemo-Kerja is an effective attendance management tool that aims to reshape the way employee’s conduct their work routines. As a staff management SaaS tool, Dokodemo-Kerja enables the implementation of remote work strategies outside of the workplace, as well as promoting better organization of office based work within the workplace.                            
                         </p>
                         <p class="text-center mt-2">
@@ -323,7 +343,6 @@
 
         <section class="py--70px home__benefit">
             <div class="container">
-
                 <div class="row align-items-end benefit__description">
                     <div class="col-md-12 mb-3 mb-md-5">   
                         <div class="color--blue">
