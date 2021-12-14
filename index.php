@@ -71,7 +71,11 @@
                     </div>
                     <div class="col-md-12 ">
                         <p class="mb-md-2 text-center">
-                            Dokodemo-Kerja is HRIS software that mainly functions as an online attendance application for remote working, with a variety of additional features and advantages. The main function of this application is as an employee attendance management system that is able to record employee starting, resting and leaving times. It is also able to accumulate total working hours in an accurate manner.
+                            <!-- Dokodemo-Kerja is HRIS software that mainly functions as an online attendance application for remote working, with a variety of additional features and advantages. The main function of this application is as an employee attendance management system that is able to record employee starting, resting and leaving times. It is also able to accumulate total working hours in an accurate manner. -->
+                            Dokodemo-Kerja is an effective attendance management tool that aims to reshape the way employee’s conduct their work routines. As a staff management SaaS tool, Dokodemo-Kerja enables the implementation of remote work strategies outside of the workplace, as well as promoting better organization of office based work within the workplace.                            
+                        </p>
+                        <p class="text-center mt-2">
+                            It is a tool manufactured and sold within Indonesia for local businesses, but it can also be used overseas. Its main function regards effectively tracking & monitoring employee working hours, in addition to the flexible administration of leaves, vacations, and late arrivals. Its key feature allows for accurate screen capturing capabilities, allowing managers to check each employee’s rate of work consistency between the recorded intervals of time.
                         </p>
                     </div>
                     <div class="col-12">
@@ -79,7 +83,10 @@
                             <div class="row align-items-center">
                                 <div class="col-md-8 col-lg-6">
                                     <p class="mb-md-0 text-justify text-md-left">
-                                    Since the release of Version 2.0, a GPS tracking function has also been incorporated into the mobile application, so it is therefore possible to manage the actual working conditions of staff who are often tasked with leaving the office.
+                                        Dokodemo-Kerja version 3.0 is now available. Existing users are automatically upgraded. In version 3.0, the user interface has been improved, an auto upgrade function has been implemented, and vacation acquisition workflow & paid vacation management functions have been added. It also informs users of upcoming Indonesian holidays.
+                                    </p>
+                                    <p class="mb-md-0 text-justify text-md-left mt-2">
+                                        Since the only way to build a new environment is to issue a company code, the time in preparing a trial environment has been dramatically shortened. Feel free to request a demo environment. It's free and there is no need to register your credit card information. To begin, please select the “Try The Demo Now” option available on the right hand side of this segment.
                                     </p>
                                 </div>
                                 <div class="col-md-4 col-lg-6 text-center">
