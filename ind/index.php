@@ -1,6 +1,7 @@
 <?php 
     $page = '';
     $page_title = 'Aplikasi Absensi Online Terbaik Untuk Karyawan | Dokodemo-Kerja';
+    $assetVersion = 1.1;
 
     $meta_description = 'Software HRIS berupa Aplikasi absensi online karyawan terbaik berbasis web & mobile untuk sistem kerja remote / jarak jauh (WFH) maupun WFO. Coba Sekarang!';
     $meta_keyword = 'Dokodemo-Kerja, strategi HR, kerja remote, jam kerja karyawan, jadwal kerja';
@@ -13,7 +14,7 @@
     <link rel="stylesheet" href="/js/magnific-popup.css" defer />
     <link rel="stylesheet" href="/css/slick.css" defer />
     <link rel="stylesheet" href="/css/slick-theme.css" defer />
-    <link rel="stylesheet" href="/css/style-home.css" defer />';
+    <link rel="stylesheet" href="/css/style-home.css?v='.$assetVersion.'" defer/>';
 
     include($_SERVER['DOCUMENT_ROOT'].'/ind/component/header.php');
 ?>
@@ -76,37 +77,48 @@
                     <?php include($_SERVER['DOCUMENT_ROOT'] . '/ind/absensi-app-online-section.php'); ?> -->
                    
                     <div class="col-md-12 ">
-                        <p class="mb-md-2 text-center">
-                            Dokodemo-Kerja merupakan software HRIS berupa aplikasi absensi online untuk kerja jarak jauh (remote working) dengan beragam fitur dan keunggulan. Fungsi utama aplikasi ini adalah sebagai pengelola absensi karyawan yang mampu mencatat waktu masuk, istirahat dan waktu pulang kerja karyawan serta mengakumulasi total waktu kerja secara akurat.
+                        <p class="mb-md-2 text-left">
+                        Dokodemo-Kerja merupakan software HRIS berupa aplikasi absensi online dengan beragam fitur dan keunggulan. Dokodemo-Kerja juga dapat menjadi management tool yang mengubah cara kerja karyawan perusahaan Anda. Dengan aplikasi ini, tim HRD dapat dengan mudah mengelola beragam sistem kerja mulai dari sistem kerja di perkantoran, kerja jarak jauh / remote working / Work From Home (WFH), atau sistem kerja karyawan dengan jangka waktu yang pendek.
+                        </p>
+                        <p class="mb-md-2 text-left">
+                        Dokodemo-Kerja kami sediakan untuk perusahan-perusahaan di Indonesia yang ingin mengelola karyawannya secara efektif dan efisien. Meskipun demikian aplikasi ini juga dapat digunakan di luar negeri.
+                        </p>
+                        <p class="mb-md-2 text-left">
+                        Fitur utama Dokodemo-Kerja adalah pengelola absensi karyawan yang mampu mencatat dan mengelola clock in (absen masuk) dan clock out (absen keluar) karyawan, waktu istirahat, serta mengakumulasi total waktu kerja secara akurat. Fungsionalitas penting Dokodemo-Kerja adalah kemampuan untuk mengambil tangkapan layar (screen capture) dan memeriksa konsistensi antara waktu pengarsipan dengan situasi aktual.
                         </p>
                     </div>
 
                     <div class="col-12">
                         <div class="mt--30px mb-5 py--20px px--30px bg--l-blue border--blue rounded-lg shadow--blue">
                             <div class="row align-items-center">
-                                <div class="col-md-8 col-lg-6">                                   
-                                    <p class="mb-md-0 text-justify text-md-left">
-                                        Sejak Versi 2.0, aplikasi Dokodemo-Kerja telah dilengkapi fitur pelacakan GPS, sehingga memungkinkan perusahaan untuk mengelola kondisi kerja para staff yang sering keluar.
+                                <div class="col-md-8 col-lg-7">                                   
+                                    <p class="text-justify text-md-justify">
+                                    Aplikasi Dokodemo-Kerja kini hadir dalam Versi 3.0, selain dilengkapi fitur pelacakan GPS untuk mengelola aktivitas para staff yang sering bekerja diluar kantor, Versi 3.0 ini juga telah dilengkapi fitur Announcement dan Calendar Upcoming Day Off untuk menginformasikan pengguna mengenai aktivitas cuti dari seluruh staff / karyawan dan informasi hari libur nasional.
+                                    </p>
+                                    <p class="mb-md-0 text-justify text-md-justify">
+                                    Kami menyediakan environment baru dengan mengeluarkan kode perusahaan (Company Code). Dengan demikian, kami dapat mempersiapkan Dokodemo-Kerja versi demo dengan waktu yang singkat. Silakan hubungi kami untuk meminta environment Dokodemo-Kerja versi demo dan Anda bisa menggunakannya secara GRATIS tanpa perlu memberikan info kartu kredit.
                                     </p>
                                 </div>
-                                <div class="col-md-4 col-lg-6 text-center">
+                                <div class="col-md-4 col-lg-5 text-center">
                                     <div class="row justify-content-center">
                                         <div class="col-auto col-lg-6">
-                                            <a href="/ind/demo" class="form-control btn btn--rounded bg--blue fs-14 text-white px-4">Coba Demo Sekarang</a>
+                                            <a href="/contact-us.php" class="form-control btn btn--rounded bg--blue fs-14 text-white px-4">Hubungi Kami</a>
                                         </div>
                                     </div>
-                                    <p class="mt-1 mb-0 fs-12">*Tidak perlu Kartu Kredit</p>    
+                                    <!-- <p class="mt-1 mb-0 fs-12">*Tidak perlu Kartu Kredit</p>     -->
                                 </div>
                             </div>
                         </div>
                     </div>
                 </div>
                 <div class="row align-items-center">
-                    <div class="col-md-6 mb-4 mb-lg-0">
+                    <div class="col-md-6 mb-4 mt-2 mb-lg-0">
+                        <h2 class="mb-3 fs-34 font-weight-bold">Keuntungan Dokodemo-Kerja</h2>
                         <ul class="list-unstyled banner__list list--circle list--circle-border">
                             <li>Pantau tugas dan jam kerja karyawan.</li>
                             <li>Fitur tangkapan layar di setting dengan random dan disimpan di dalam server. (Resolusi gambar rendah sehingga tidak mengganggu privasi)</li>
                             <li>Pada aplikasi yang diinstal di handphone, mempermudah Anda untuk mengelola waktu dan lokasi kerja karyawan yang sering dinas keluar kantor.</li>
+                            <li>Pantau tim yang sedang atau akan mengajukan cuti sehingga dapat mengatur tim secara keseluruhan dengan mudah</li>
                         </ul>
                     </div>
                     <div class="col-md-6">
@@ -118,6 +130,38 @@
                                     allowfullscreen></iframe>
                             </div>
                         </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <section class="color--blue pb--60px">
+            <div class="container">
+                <div class="row">
+                    <div class="col-12">
+                        <h2 class="mt-4 font-weight-bold text-center fs-34">
+                        Dokodemo-Kerja Mendukung Sistem WFH
+                        </h2>
+
+                        <p class="text-center">Dokodemo-Kerja adalah aplikasi absensi online terbaik untuk mendukung kesuksesan sistem kerja WFH di perusahaan Anda. Beragam fitur yang kami sediakan akan membantu pengelolaan data karyawan secara akurat dan real time, meskipun mereka berada di lokasi yang jauh dari kantor sekalipun. Anda tidak perlu lagi khawatir dengan kedisiplinan karyawan yang bekerja dari rumah karena sistem mampu mencatat daftar kehadiran, menghitung total jam kerja, serta memantau produktivitas. Melalui Dokodemo-Kerja, keberhasilan sistem WFH menjadi semakin mudah untuk diraih.</p>
+                    </div>
+                    <div class="col-12">
+                        <h3 class="mt-5 font-weight-bold fs-20">
+                        Mengenai WFH
+                        </h3>
+                        <p>Work From Home atau WFH adalah sistem kerja yang mengizinkan tenaga kerja suatu perusahaan untuk bisa melakukan pekerjaannya secara fleksibel dari rumah atau dari lokasi manapun sehingga memungkinkan perusahaan untuk mendapat berbagai keuntungan seperti dapat menghemat biaya operasional di kantor, meningkatkan keseimbangan antara pekerjaan dan kehidupan (work life balance), sampai meningkatkan produktivitas karyawan. Beragam keuntungan tersebut juga telah dibuktikan oleh banyak penelitian terutama riset yang dilakukan oleh Gallup dan Stanford. Sayangnya, tanpa penggunaan teknologi digital untuk melacak produktivitas karyawan, WFH dapat memberikan hasil yang tidak sesuai. Padahal, saat ini sudah ada berbagai macam alat yang dapat membantu perusahaan untuk bisa menjalankan strategi WFH dengan lancar.</p>
+                    </div>
+                    <div class="col-12">
+                        <h3 class="mt-5 font-weight-bold fs-20">
+                        Persiapan WFH
+                        </h3>
+                        <p>WFH memungkinkan karyawan untuk dapat bekerja dari rumah atau lokasi manapun yang mereka inginkan. Jadi,  saat menjalankan sistem kerja WFH perusahaan harus memperhatikan beberapa point penting untuk mendukung sistem kerja jarak jauh ini. Beberapa diantaranya seperti, karyawan harus memiliki laptop yang bekerja dengan optimal serta memiliki koneksi internet yang cukup stabil sehingga koordinasi antar tim tetap dapat berjalan secara efisien. Selain itu, perusahaan juga harus menguraikan kebijakan dengan jelas terkait peraturan-peraturan yang harus dipatuhi karyawan saat mereka bekerja dari jarak jauh. Sebagai contoh, agar karyawan tetap bekerja dengan optimal saat WFH maka perusahaan dapat membuat peraturan dimana karyawan akan menerima konsekuensi tertentu saat mereka tidak bekerja atau gagal menyelesaikan tugas secara tepat waktu.</p>
+                    </div>
+                    <div class="col-12">
+                        <h3 class="mt-5 font-weight-bold fs-20">
+                        Penggunaan Teknologi untuk Manajemen WFH yang Lebih Baik
+                        </h3>
+                        <p>Penggunaan teknologi merupakan skenario standar untuk menjalankan strategi WFH yang sukses. Meskipun demikian, pengawasan berkelanjutan tetap perlu dilakukan untuk memperkuat strategi sistem kerja jarak jauh di perusahaan Anda. Saat ini sudah ada banyak aplikasi HRD yang dapat bekerja secara efisien untuk melacak, menganalisis, mencatat daftar kehadiran serta kinerja karyawan sehingga tugas untuk mengelola pekerja remote menjadi semakin mudah. Aplikasi tersebut pada umumnya akan menyediakan beragam fitur yang mampu memberikan solusi lengkap untuk manajemen pekerja remote di perusahaan Anda seperti fitur manajemen kehadiran, pelacak waktu, serta fitur untuk memantau layar desktop karyawan.</p>
                     </div>
                 </div>
             </div>
@@ -180,7 +224,7 @@
 
                 <div class="row justify-content-center">
                     <div class="col-auto col-md-4">
-                        <a href="/ind/info-hris" class="form-control btn btn--rounded bg--yellow px-4">Info HRIS & Teknologi Pendukung</a>
+                        <a href="https://dokodemo-kerja.com/blog/ind/category/info-hris/" class="form-control btn btn--rounded bg--yellow px-4">Info HRIS & Teknologi Pendukung</a>
                     </div>
                 </div>
             </div>
@@ -232,6 +276,13 @@
                                         </a>
                                     </div>
                                     <div>
+                                        <a href="/img/features/home_05.png" data-source="/img/features/home_05.png" title="Daily Working Screen Capture" aria-label="Daily Working Screen Capture">
+                                        <div class="image--wrapper">
+                                            <img src="/img/features/home_05-com.jpg" class="border border--blue" alt="Screenshot of the Dokodemo-Kerja Application" />
+                                        </div>    
+                                        </a>
+                                    </div>
+                                    <div>
                                         <a href="/img/features/home_tracking.jpg" data-source="/img/features/home_tracking.jpg" title="Dokodemo GPS features" aria-label="Dokodemo GPS features">
                                         <div class="image--wrapper">
                                             <picture>
@@ -258,6 +309,9 @@
                                     <img src="/img/features/home_04-com.jpg" class="img-fluid rounded-lg" alt="Screenshot of the Dokodemo-Kerja Application" loading="lazy" />
                                 </div>
                                 <div class="nav__img">
+                                    <img src="/img/features/home_05-com.jpg" class="img-fluid rounded-lg" alt="Screenshot of the Dokodemo-Kerja Application" loading="lazy" />
+                                </div>
+                                <div class="nav__img">
                                     <img src="/img/features/home_tracking-com.jpg" class="img-fluid rounded-lg" alt="Dokodemo GPS features" loading="lazy" />
                                 </div>
                             </div>
@@ -267,7 +321,7 @@
                         <div class="title--bg title--bg-border title--bg-border-left" data-title-bg="Features">                            
                             <h2 class="mt-3 mb-0 font-weight-bold fs-34">Features</h2>
                         </div>
-                        <p class="mb-4 fs-14">Sebagai aplikasi absensi online, Dokodemo-Kerja telah dilengkapi dengan fitur tangkapan layar monitor (screen capture) untuk mengetahui detail pekerjaan yang sedang dikerjakan karyawan, tanpa mengganggu privasi karyawan tersebut karena hasil tangkapan layar yang dihasilkan memiliki resolusi rendah. Aplikasi Dokodemo-Kerja juga dilengkapi dengan pelacakan GPS sehingga dapat merekam produktivitas karyawan yang bekerja secara mobile.</p>
+                        <p class="mb-4 fs-14">Sebagai aplikasi absensi online, Dokodemo-Kerja telah dilengkapi dengan berbagai fitur menarik, seperti tangkapan layar monitor (screen capture) untuk mengetahui detail pekerjaan yang sedang dikerjakan, pelacakan GPS untuk merekam produktivitas karyawan yang bekerja secara mobile, serta fitur terbaru calendar upcoming day off yang berfungsi untuk memantau tim yang sedang atau akan cuti sehingga membantu untuk memanajemen tim dengan baik.</p>
                         <div class="row justify-content-center justify-content-lg-start">
                             <div class="col-auto col-md-6">
                                 <a href="/ind/features" class="form-control btn btn--rounded bg--yellow px-4">View More</a>
@@ -282,10 +336,61 @@
             <div class="container">
 
                 <div class="row align-items-end benefit__description">
+                    <div class="col-md-12 mb-3 mb-md-5">   
+                        <div class="color--blue">
+                            <div class="title--bg title--bg-border title--bg-border-right" data-title-bg="Bekerja">                            
+                                <h2 class="mb-0 font-weight-bold fs-34 text-center">Jadilah Bagian dari Jutaan Orang yang Bekerja dari Rumah</h2>
+                            </div>
+                            <p class="mb-0 fs-14 text-center">Pada tahun 2019, Biro Tenaga Kerja di Amerika Serikat melakukan penelitian dan menyimpulkan bahwa sekitar 24% karyawan melakukan sebagian besar tugasnya dari rumah. Sistem kerja remote saat ini memang sudah semakin populer dan berhasil menarik perhatian banyak orang. Berdasarkan beberapa penelitian, sistem kerja remote juga dapat berjalan dengan baik dan mampu memberikan dampak yang positif terhadap efisiensi dan produktivitas.</p>
+                        </div>                     
+                    </div>
+                </div>
+                <div class="row align-items-end benefit__description">
+                    <div class="col-md-12 mb-3 mb-md-5">   
+                        <div class="color--blue">
+                            <div class="title--bg title--bg-border title--bg-border-right" data-title-bg="Sistem Kerja">                            
+                                <h4 class="mb-0 font-weight-bold fs-34 text-center">Sistem Kerja Remote Tingkatkan Produktivitas</h4>
+                            </div>
+                            <p class="mb-0 fs-14 text-center">Penelitian lebih lanjut yang dilakukan oleh Upwork menunjukan bahwa 1 dari 4 karyawan di Amerika telah bekerja dengan sistem kerja fleksibel. Angka tersebut diperkirakan akan terus meningkat seiring dengan semakin banyak perusahaan yang menggunakan sistem kerja tersebut semenjak pandemi Covid-19 muncul.</p>
+                        </div>                     
+                    </div>
+                </div>
+                <div class="row align-items-end benefit__description">
+                    <div class="col-md-12 mb-3 mb-md-5">   
+                        <div class="color--blue">
+                            <div class="title--bg title--bg-border title--bg-border-right" data-title-bg="Berkurangnya">                            
+                                <h4 class="mb-0 font-weight-bold fs-34 text-center">Berkurangnya Izin Cuti atau Sakit</h4>
+                            </div>
+                            <p class="mb-0 fs-14 text-center">Sebuah penelitian yang cukup menarik perhatian telah dilakukan oleh Stanford di tahun 2013. Penelitian ini dilakukan selama lebih dari 9 bulan dan melibatkan 16.000 karyawan. Penelitian ini mengharuskan karyawan untuk bekerja di lingkungan kerja yang tenang atau fleksibel dari rumah. Hasilnya, terlihat meningkatkan produktivitas karyawan sebesar 13% serta berkurangnya izin cuti atau izin sakit yang diambil oleh karyawan.</p>
+                        </div>                     
+                    </div>
+                </div>
+                <div class="row align-items-end benefit__description">
+                    <div class="col-md-12 mb-3 mb-md-5">   
+                        <div class="color--blue">
+                            <div class="title--bg title--bg-border title--bg-border-right" data-title-bg="Meningkatkan">                            
+                                <h4 class="mb-0 font-weight-bold fs-34 text-center">Meningkatkan Konsentrasi Karyawan</h4>
+                            </div>
+                            <p class="mb-0 fs-14 text-center">Hasil survei yang dilakukan oleh Connectsolutions menunjukkan bahwa terdapat 77% karyawan yang bekerja dari rumah mengalami peningkatkan produktivitas. Dari angka tersebut, 30% karyawan dapat menyelesaikan tugas dengan lebih cepat, sedangkan 24% lainnya dapat melakukan lebih banyak tugas dalam waktu yang sama. Studi lain juga menunjukkan bahwa sistem kerja remote berpotensi untuk mengurangi 10 menit ketidakproduktifan karyawan sehingga jika diakumulasikan maka dapat menambah satu hari kerja dalam seminggu.</p>
+                        </div>                     
+                    </div>
+                </div>
+                <div class="row align-items-end benefit__description">
+                    <div class="col-md-12 mb-3 mb-md-5">   
+                        <div class="color--blue">
+                            <div class="title--bg title--bg-border title--bg-border-right" data-title-bg="Dokodemo">                            
+                                <h2 class="mb-0 font-weight-bold fs-34 text-center">Dokodemo-Kerja Sebagai Solusi</h2>
+                            </div>
+                            <p class="mb-0 fs-14 text-center">Sebagaimana diketahui, bahwa masa depan bisnis dan industri saat ini sangat erat kaitannya dengan penerapan teknologi, khususnya teknologi digital. Dokodemo-Kerja hadir untuk mendorong terwujudnya beragam dampak positif dari penerapan teknologi terhadap sistem kerja remote dan membantu perusahaan untuk bisa menghemat biaya operasional serta mengelola karyawan secara efektif dan efisien. </p>
+                        </div>                     
+                    </div>
+                </div>
+
+                <div class="row align-items-end benefit__description">
                     <div class="col-md-6 mb-3 mb-md-5">   
                         <div class="color--blue">
-                            <div class="title--bg title--bg-border title--bg-border-right" data-title-bg="Benefit">                            
-                                <h2 class="mb-0 font-weight-bold fs-34">Benefit</h2>
+                            <div class="title--bg title--bg-border title--bg-border-right" data-title-bg="Mengapa">                            
+                                <h2 class="mb-0 font-weight-bold fs-34">Mengapa Dokodemo-Kerja?</h2>
                             </div>
                             <p class="mb-0 fs-14">Perusahaan anda dapat menerapkan strategi-strategi HR yang lebih inovatif dan fleksibel, yang dapat meningkatkan kinerja total perusahaan anda sekaligus memberikan nilai positif bagi kesejahteraan karyawan. Dengan memberikan karyawan pilihan untuk kerja secara remote dan jam kerja yang fleksibel, maka akan membantu mereka untuk menemukan lingkungan kerja mereka yang paling kondusif dan di saat yang sama meningkatkan kinerja. Adanya jam kerja yang tercatat akan membantu perusahaan untuk membuat evaluasi yang lebih adil. Banyak manfaat lain yang bisa didapatkan oleh perusahaan dan karyawan di antaranya :</p>
                         </div>                     
@@ -441,9 +546,9 @@
         <section class="color--blue pt--60px home__testimonial" id="testimony">
             <div class="container">
                 <div class="mb-4 row">
-                    <div class="col-md-6">
-                        <div class="title--bg title--bg-border title--bg-border-right" data-title-bg="Testimoni">                            
-                            <h2 class="mb-0 font-weight-bold fs-34">Testimoni</h2>
+                    <div class="col-md-10">
+                        <div class="title--bg title--bg-border title--bg-border-right" data-title-bg="Apa">                            
+                            <h2 class="mb-0 font-weight-bold fs-34">Kata Mereka tentang E-Absensi Dokodemo-Kerja?</h2>
                         </div>
                     </div>
                 </div>
@@ -500,82 +605,74 @@
             </div>
         </section>
 
-        <section  class="mb--30px news-list-container">
-           <div class="container">
-               <div class="newscontainer">
-                   <div class="row justify-content-md-center">
-                       <div class="col-sm-8">
-                           <h2>Kabar <strong>Terbaru</strong></h2>
-                       </div>
-                   </div>
-                   <?php
-                   $rss = new DOMDocument();
-                   $rss->load('https://www.logique.co.id/blog/category/dokodemo-kerja/feed/');
-                   $feed = array();
-                   foreach ($rss->getElementsByTagName('item') as $node) {
-                   $item = array ( 
-                   'title' => $node->getElementsByTagName('title')->item(0)->nodeValue,
-                   'desc' => $node->getElementsByTagName('description')->item(0)->nodeValue,
-                   'link' => $node->getElementsByTagName('link')->item(0)->nodeValue,
-                   'date' => $node->getElementsByTagName('pubDate')->item(0)->nodeValue,
-                   );
-                   array_push($feed, $item);
-                   }
-                   $limit = 5; 
-    
-                   function tgl_indo($tanggal){
-                       $bulan = array (
-                           1 =>   'Jan',
-                           'Feb',
-                           'Mar',
-                           'Apr',
-                           'Mei',
-                           'Jun',
-                           'Jul',
-                           'Ags',
-                           'Sep',
-                           'Okt',
-                           'Nov',
-                           'Des'
-                       );
-                       $pecahkan = explode('-', $tanggal);
+        <section class="mb--30px news-list-container">
+            <div class="container">
+                <div class="newscontainer">
+                    <div class="row">
+                        <div class="col-12">
+                            <h2>Kabar <strong>Terbaru</strong></h2>
+                        </div>
+                    </div>
+                    <?php
+                    $url = file_get_contents('https://dokodemo-kerja.com/blog/wp-json/wp/v2/posts?categories=63,65,67&per_page=3&_embed');
+                    $remote_posts = json_decode( $url ); 
+
+                    function tgl_indo($tanggal){
+                        $bulan = array (
+                            1 =>  'Januari',
+                            'Februari',
+                            'Maret',
+                            'April',
+                            'Mei',
+                            'Juni',
+                            'Juli',
+                            'Agustus',
+                            'September',
+                            'Oktober',
+                            'November',
+                            'Desember'
+                        );
+                        $pecahkan = explode('-', $tanggal);
                         
                     
-                       return $pecahkan[2] . ' ' . $bulan[ (int)$pecahkan[1] ] . ' ' . $pecahkan[0];
-                   }
-    
-                   ?>
-    
-                   <div class="news-list">
-             <?php 
-               for($x=0;$x<$limit;$x++) {
-               $title = str_replace(' & ', ' &amp; ', $feed[$x]['title']);
-               $link = $feed[$x]['link'];
-               $description = $feed[$x]['desc'];
-               $date = date('F d, Y', strtotime($feed[$x]['date']));
-               // echo '<p><strong><a href="'.$link.'" title="'.$title.'">'.$title.'</a></strong><br />';
-               // echo '<small><em>Posted on '.$date.'</em></small></p>';
-               // echo '<p>'.$description.'</p>';
-              
-             ?>
-             <div class="row justify-content-md-center">
-                
-               <div class="col-sm-8">
-                   <div class="news-item">
-                   <span class="feeddate"> <?php echo tgl_indo(date('Y-m-d', strtotime($feed[$x]['date'])));;?></span><a href="<?php echo $link ?>" target="_blank" rel="noreferrer"><?php echo $title ?></a>
-                   </div>
-               </div>
-                     
-           </div>
-             
-           <?php  } ?>
+                        return $bulan[ (int)$pecahkan[1] ].' '.$pecahkan[2] . ', ' . $pecahkan[0];
+                    }
+
+                    ?>
+
+                    <div class="news-list">
+                        <div class="row">
+                        <?php 
+                            foreach( $remote_posts as $remote_post ) { 
+                            $categories = $remote_post->_embedded->{'wp:term'}[0];
+                        ?>
+                            <div class="col-md-4">
+                                <div class="news-item">
+                                    <img src="<?= $remote_post->yoast_head_json->og_image[0]->url ?>" class="img-news-item" alt="<?= $remote_post->title->rendered ?>">
+                                    <div class="d-flex items-center"> 
+                                        <span class="cat-name">
+                                            <?php foreach($categories as $index => $category){ ?>
+                                                <a href="<?= $category->link ?>"><?= $category->name ?></a> 
+                                                <?= $index+1 < count($categories) ? '|' : null; ?>
+                                            <?php } ?>
+                                        </span>
+                                        <span class="news-date">
+                                            <?= tgl_indo(date('Y-m-d', strtotime($remote_post->date))); ?>
+                                        </span>
+                                    </div>
+                                    <a class="news-link" href="<?= $remote_post->link ?>" target="_blank" rel="noreferrer"><?= $remote_post->title->rendered ?></a>
+                                </div>
+                            </div>
+                        <?php  } ?>
+                        </div>
+                    </div>
+                </div>
             </div>
-               </div>
-           </div>
-       </section>
+        </section>
 
     </div>
 
+<?php include($_SERVER['DOCUMENT_ROOT'].'/ind/component/modal-event-banner.php'); ?>
 <?php include($_SERVER['DOCUMENT_ROOT'].'/ind/component/demo-banner.php'); ?>
 <?php include($_SERVER['DOCUMENT_ROOT'].'/ind/component/modal-meeting.php'); ?>
 <?php 
@@ -584,6 +681,7 @@
 ?>
 <script>
     $(function() {
+        $("#modal-event").modal('show');
 
         // feature slide
         $('.slide__image').slick({
@@ -652,6 +750,7 @@
             }
 
         });
+
 
     }) 
     

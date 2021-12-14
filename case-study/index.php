@@ -1,13 +1,13 @@
 <?php 
     $page = 'case-study/';
-    $page_title = 'Implementing WFH | Work Management Tool | Indonesian Case Study';
+    $page_title = 'HRIS software: better HR management & monitoring results | Case Study';
 
-    $meta_description = 'Through Dokodemo-Kerja, employees could work from home and improve their work habits, which increased productivity and improved HR management.';
-    $meta_keyword = 'dokodemo-kerja, case studies, tool for managers, Logique Digital Indonesia, remote working system, billing system services, accounting firm, screen monitoring, monitor employee, employee monitoring';
+    $meta_description = 'E-Attendance & remote work software allows employees to work from home (WFH) flexibly, increasing productivity and transparency for better evaluation purposes.';
+    $meta_keyword = 'dokodemo kerja case study, remote work case study, remote work example';
 
-    $og_title = 'Dokodemo-Kerja | An Efficient WFH Strategy';
+    $og_title = 'HRIS software: better HR management & monitoring results | Case Study';
     $og_image = 'https://dokodemo-kerja.com/img/og-img/case-study.jpg';
-    $og_desription = 'By using Dokodemo-Kerja, you can get various benefits such as allowing employees to work from home, prevent slacking, and introduce a reduced working hours system.';
+    $og_desription = 'E-Attendance & remote work software allows employees to work from home (WFH) flexibly, increasing productivity and transparency for better evaluation purposes.';
 
     $add_css = '
     <link rel="stylesheet" href="/css/slick.css" />
@@ -210,9 +210,10 @@
                     <p class="fs-18">Easily track everyone's working hours and their activities. Below are some of the example policies for implementing Dokodemo-Kerja</p>
 
                     <ul class="fs-14 list-unstyled list--circle list--circle-border list--circle-border-bottom">
-                        <li>HR can assign one staff member the task of monitoring all Dokodemo-Kerja related activities.</li>
-                        <li>The assigned staff can manage employee work time frames and comments.</li>
-                        <li>If an employee screenshot shows three of the same images consecutively, HR can then take further action, facilitated by evidence.</li>
+                        <li>HR may assign one member of staff to monitor all Dokodemo related activities.</li>
+                        <li>Staff can manage their own work timeframes and post clarifying comments.</li>
+                        <li>If the screenshots taken by the application show three identical images consecutively, HR can then take further action facilitated by this evidence.</li>
+                        <li>Managers can further organize their teams effectively because they can see which employees are on leave so that no team has multiple members on leave at the same time.</li>
                     </ul>
 
                 </div>
@@ -354,7 +355,56 @@
 
 </div>
 
-<?php include($_SERVER['DOCUMENT_ROOT'].'/component/demo-banner.php'); ?>
+<section class="color--blue pb--60px demo__schedule">
+    <div class="container">
+        <div class="row">
+            <div class="col-md-6 mb-3 mb-md-0">
+                <div class="bg--l-blue rounded-lg text-center schedule">
+                    <h5 class="font-weight-bold mb-4 fs-20">Schedule Online Meeting</h5>
+                    <div class="row justify-content-center">
+                        <div class="col-md-8">
+                            <picture>
+                                <source srcset="/img/home/schedule-online.svg">
+                                <img src="/img/home/schedule-online.png" alt="online meeting" class="img-fluid" loading="lazy">
+                            </picture>
+                        </div>
+                        <div class="col-md-8">
+                            <p class="my-4">Set up an online consultation with our team for a software demo</p>
+                        </div>
+                        <div class="col-md-6">
+                            <button type="button" id="btn_online_meet_form_en" class="form-control btn btn--rounded bg--yellow" data-title="online" data-toggle="modal" data-target="#meetingSchedule">
+                                Online
+                            </button>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="col-md-6">
+                <div class="bg--l-blue rounded-lg text-center schedule">
+                    <h5 class="font-weight-bold mb-4 fs-20">Schedule Offline Meeting</h5>
+                    <div class="row justify-content-center">
+                        <div class="col-md-8">
+                            <picture>
+                                <source srcset="/img/home/schedule-offline.svg">
+                                <img src="/img/home/schedule-offline.png" alt="offline meeting" class="img-fluid" loading="lazy">
+                            </picture>
+                        </div>
+                        <div class="col-md-8">
+                            <p class="my-4">Set up an offline consultation with our team for a software demo</p>
+                        </div>
+                        <div class="col-md-6">
+                            <button type="button" id="btn_offline_meet_form_en" class="form-control btn btn--rounded bg--yellow" data-title="offline" data-toggle="modal" data-target="#meetingSchedule">
+                                Offline
+                            </button>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+
+<?php include($_SERVER['DOCUMENT_ROOT'].'/ind/component/modal-meeting.php'); ?>
 <?php include($_SERVER['DOCUMENT_ROOT'].'/component/footer.php'); ?>
 <script>
     $(function() {        

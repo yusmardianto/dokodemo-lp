@@ -40,9 +40,16 @@
 
 	<section class="pb-5">
 		<div class="container">
+			<div class="row">
+				<div class="offset-md-2 col-md-8">
+					<a href="https://docs.google.com/forms/d/e/1FAIpQLScn73Hhf36KQvOGc81WAlmfTOz12E1XKJqfh7uQ2zC6x8wsUQ/viewform" target="_blank">
+						<img src="/img/dokodemo-event-banner.jpg" class="img-fluid" alt="">
+					</a>
+				</div>
+			</div>
 			<div class="row mt-5">
 				<div class="offset-md-1 col-md-10">
-					<h1 class="fs-30 text-center pt-5 mb-3">How to Use the Dokodemo-Kerja Application</h1>
+					<h1 class="fs-30 text-center pt-2 mb-3">How to Use the Dokodemo-Kerja Application</h1>
 					<p class="text-center">
 						As one of the best Human Resource Information System (HRIS) software currently available in Indonesia, Dokodemo-Kerja was made to provide solutions for HR departments of companies that seek to use digital technology for a more effective and efficient Human Resources (HR) management processes.
 					</p>
@@ -112,7 +119,7 @@
 					</a> -->
 					<div class="installation-manual">
 						Download installation manual here:
-						<a class="installation-manual__item" target="_blank" href="https://drive.google.com/file/d/1jZut6Ouhi_HA26QoL4mvty45qZMAgdii/view?usp=sharing">
+						<a class="installation-manual__item" target="_blank" href="/pdf/Dokodemo_Install_Guide_3-0-0.en.pdf">
 							<img src="/img/trial/pdf.svg" alt="">
 							Desktop
 						</a>
@@ -123,7 +130,7 @@
 					</div>
 					<div class="installation-manual">
 						Download user manual here:
-						<a class="installation-manual__item" target="_blank" href="/pdf/user_manual_dokodemo_ver_2-2-2-en.pdf">
+						<a class="installation-manual__item" target="_blank" href="/pdf/User_Manual_Dokodemo_Kerja_ver_3-0-0-en.pdf">
 							<img src="/img/trial/pdf.svg" alt="">
 							Desktop
 						</a>
@@ -131,7 +138,7 @@
 				</div>
 				<div class="offset-md-1 col-md-10 tab-tutor-container">
 					<nav>
-						<div class="nav nav-tabs nav-tabs-trial text-center" id="nav-tab" role="tablist">
+						<div class="nav nav-tabs n.av-tabs-trial text-center" id="nav-tab" role="tablist">
 							<a class="nav-item nav-link trial-tab active" id="nav-home-tab" data-toggle="tab" href="#nav-home" role="tab" aria-controls="nav-home" aria-selected="true">
 								<span class="trial-tabfont">Admin Function</span>
 							</a>
@@ -613,7 +620,7 @@
 	</section>
 
 </div>
-
+<?php include($_SERVER['DOCUMENT_ROOT'].'/component/modal-event-banner.php'); ?>
 <?php include($_SERVER['DOCUMENT_ROOT'].'/component/footer.php'); ?>
 <script>
 	document.getElementById("submit-btn-trial").disabled = true;
@@ -621,7 +628,13 @@
 		document.getElementById("submit-btn-trial").disabled = false;
 	}
 </script>
+<!-- <script id="modal-event-script">
+$(document).ready(function(){
+	$("#modal-event").modal('show')
+})
+</script> -->
 <script>
+$(document).ready(function(){
 	// set border based on active tab
 	$('.trial-tab').click(function(e) {
 		setTimeout(() => {
@@ -638,5 +651,6 @@
 			}
 		}, 5);
 	})
+})
 </script>
 <?php include($_SERVER['DOCUMENT_ROOT'].'/component/footer-end.php') ?>

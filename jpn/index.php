@@ -25,7 +25,7 @@
             <div class="row align-items-center justify-content-center">
                 <div class="col-lg-6">
                     <h4 class="fs-18"><span class="font-weight-bold">Dokodemo-Kerja</span> でリモートワークを実現</h4>
-                    <h1 class="color--yellow fs-34 font-weight-bold">フレキシブルで生産性の高い働き方を可能とします</h1>
+                    <h1 class="color--yellow fs-34 font-weight-bold">勤怠管理ツールDokodemo-Kerjaでリモートワークも可能に！</h1>
                     <div class="row my-4 banner__benefit">
                         <div class="col-4">
                             <div class="text-center">
@@ -69,21 +69,40 @@
                         <div class="loader">Loading...</div>
                     </div>
                 </div>
+                <div class="col-md-12 ">
+                    <br>
+                    <p class="mb-md-2 text-left">
+                    ※ インドネシア国内でご利用のお客様には税金控除証明を毎月発行いたします。
+                    </p>
+                    <p class="mb-md-2 text-left">
+                    ※ SAASとしてサービス提供していますが、クレジットカード払いでなくご請求書を毎月発行しています。
+                    </p>
+                    <p class="mb-md-2 text-left">
+                    ※ インドネシア外のお客様はPaypal支払いをお願いしております。
+                    </p>
+                    <br>
+                    <p class="mb-md-2 text-left">
+                    従業員の働き方を改革する勤怠管理ツールDokodemo-Kerjaは、リモートワークもオフィスワークも、時短ワークも全てを管理可能とする人事管理SaaSツールです。インドネシア企業向けにインドネシアで製造販売されているツールですが国外の使用も可能です。このアプリケーションの主な機能は、従業員の勤務時間、勤務内容、休暇取得、遅刻を記録管理するものです。 スクリーンキャプチャを取得して申告時間と実態の整合性を確認できるところがキーポイントとなっています。
+                    </p>
+                </div>
                 <div class="col-12">
                     <div class="mt--30px mb-5 py--20px px--30px bg--l-blue border--blue rounded-lg shadow--blue">
                         <div class="row align-items-center">
                             <div class="col-md-8 col-lg-6">
                                 <p class="mb-md-0 text-justify text-md-left">
-                                Version 2.0からはGPSトラック機能も実装しましたので、外出が多いスタッフの勤務実態も管理可能となりました。
+                                Dokodemo-Kerjaバージョン3.0が利用可能になりました。既存ユーザー様は自動アップグレードされています。バージョン3.0では、ユーザーインターフェイスを改善し、オートバージョンアップ機能が実装され、休暇取得ワークフロー、有給休暇の管理機能が付加されました。また、今後のインドネシアの祝日に関する情報をユーザーに通知します。
+                                </p>
+                                <p class="mb-md-0 text-justify text-md-left">
+                                新環境の構築は会社コードを発行するのみとなったためトライアル環境の用意までのリードタイムは劇的に短くなりました。お気軽にデモ環境のリクエストいただければと思います。無料でクレジットカード情報の登録なども必要ありません。まずは右のボタンよりリクエストください。
                                 </p>
                             </div>
                             <div class="col-md-4 col-lg-6 text-center">
                                 <div class="row justify-content-center">
                                     <div class="col-auto col-lg-6">
-                                        <a href="/jpn/demo" class="form-control btn btn--rounded bg--blue fs-14 text-white px-4">デモをみる</a>
+                                        <a href="/jpn/demo" class="form-control btn btn--rounded bg--blue fs-14 text-white px-4">トライアル環境をリクエスト</a>
                                     </div>
                                 </div>
-                                <p class="mt-1 mb-0 fs-12">会員登録等、必要ありません</p>    
+                                <p class="mt-1 mb-0 fs-12">会員登録等は不要です</p>    
                             </div>
                         </div>
                     </div>
@@ -91,12 +110,15 @@
             </div>
             <div class="row align-items-center">
                 <div class="col-md-6 mb-4 mb-lg-0">
+                    <h2 class="mb-3 fs-34 font-weight-bold">Dokodemo-Kerjaの主な機能</h2>
                     <ul class="list-unstyled banner__list list--circle list--circle-border">
+                        <li>勤務時間・タスク内容を記録します。日別・週別・月別の労働時間が集計されるので容易に管理できます。</li>
                         <li>勤務時間・タスク内容を記録します。日別・週別・月別の労働時間が集計されるので容易に管理できます。</li>
                         <li>ランダムに作業スクリーンをキャプチャしてサーバーに送信します。（プライバシーに配慮した解像度になっています）</li>
                         <li>外回りの社員に対しては、スマホアプリを使用することで勤務時間と勤務場所（GPSトラッキング)を管理可能です。</li>
                     </ul>
                 </div>
+
                 <div class="col-md-6">
                     <div class="bg--l-blue shadow--blue p-3 rounded-lg">                                    
                         <div class="embed-responsive embed-responsive-16by9 feature-video">
@@ -107,6 +129,42 @@
                         </div>
                     </div>
                 </div>
+
+                <section class="color--blue pb--60px">
+                    <div class="container">
+                        <div class="row">
+                            <div class="col-12">
+                                <h2 class="mt-5 font-weight-bold text-center fs-34">
+                                Dokodemo-Kerjaはリモートワーク導入を簡単にします
+                                </h2>
+
+                                <p class="text-center">Dokodemo-Kerjaが提供するさまざまな機能は、リモートワークとWFO（オフィスワーク）の同時実現を可能にします。従業員がどこでいつ働いても、リアルタイムで正確に管理します。 出席リストを提供し、総労働時間を計算し、全体的な生産性を監視するように設計されているので、自宅で働く従業員の規律を守り、オフィスで働く従業員の長すぎる休憩を防ぐことを可能にします。</p>
+                            </div>
+                            <div class="col-12">
+                                <h3 class="mt-5 font-weight-bold fs-20">
+                                WFH（Work From Home）について
+                                </h3>
+
+                                <p>WFHは一般的になりました。特にインドネシアでIT系の職場では標準的になったと言っても良いかもしれません。従業員はより柔軟に自由に仕事を行うことができるようになり、ワークライフバランスの改善、生産性の向上などのメリットを享受でき、会社はオフィスコストや交通費の節約をできることとなりました。ただし、 残念ながら、従業員とその生産性をしっかりと管理しないと、メリットを帳消しにするデメリットが生まれてしまいます。WFHプロセスを支援するためにDokodemo-Kerjaは最適なツールです。</p>
+                            </div>
+                            <div class="col-12">
+                                <h3 class="mt-5 font-weight-bold fs-20">
+                                必要な要件
+                                </h3>
+
+                                <p>Dokodemo-Kerjaを使うことでリモートワークも時短ワークもフレキシブルな勤務時間も可能になります。従業員は勤務場所を問われなくなります。会社は地域を選ばず優秀な従業員を探して雇用することができます。ただし、従業員は、効率的かつ効果的に勤務可能な場所の確保と十分に安定して早いインターネット回線を用意する必要があります。自由を得るのと引き換えに適切な管理監視を受け入れ、ルール違反が記録されたときには提供された自由を失う覚悟が必要となります。Dokodemo-Kerjaはこのフェアな判断を行うためのエビデンスを提供します。</p>
+                            </div>
+                            <div class="col-12">
+                                <h3 class="mt-5 font-weight-bold fs-20">
+                                デジタルテクノロジーの活用
+                                </h3>
+                                <p>WFHやオンラインワークを成功させるためにDokodemo-Kerja以外にもデジタルツールの活用は必須になるので上記要件はいずれにせよ満たされる必要があります。Dokodemo-Kerjaを使うことで従業員の出席と作業内容、時間、パフォーマンスを追跡、分析することができるようになります。オンラインミーティングツール、プロジェクトマネジメントツールなども導入することでWFHやオンラインワークは完全に実現されます。</p>
+                            </div>
+                        </div>
+                    </div>
+                </section>
+                
+                
             </div>
         </div>
     </section>
@@ -252,6 +310,63 @@
             </div>
         </div>
     </section>
+
+    <section class="py--70px home__benefit">
+            <div class="container">
+
+                <div class="row align-items-end benefit__description">
+                    <div class="col-md-12 mb-3 mb-md-5">   
+                        <div class="color--blue">
+                            <div class="title--bg title--bg-border title--bg-border-right" data-title-bg="リモートワーク導入は怖くない">                            
+                                <h2 class="mb-0 font-weight-bold fs-34 text-center">リモートワーク導入は怖くない</h2>
+                            </div>
+                            <p class="mb-0 fs-14 text-center">米国労働局は2019年の調査で、労働者の最大24％が自宅から主要なタスクの大部分を実行していると結論付けました。2019年時点で24％です。この流れにインドネシアも間違いなくなります。うちの会社では難しいなどと考えていると、気づいたときにはマイノリティになり優秀な人材の採用は難しくなるでしょう。</p>
+                        </div>                     
+                    </div>
+                </div>
+                <div class="row align-items-end benefit__description">
+                    <div class="col-md-12 mb-3 mb-md-5">   
+                        <div class="color--blue">
+                            <div class="title--bg title--bg-border title--bg-border-right" data-title-bg="働き方改革は待ったなし">                            
+                                <h4 class="mb-0 font-weight-bold fs-34 text-center">働き方改革は待ったなし</h4>
+                            </div>
+                            <p class="mb-0 fs-14 text-center">Upworkが実施した調査では、アメリカでは4人に1人の労働者がすでにいままでよりも柔軟な新しい労働形態を採っていることが示されました。Covid-19のパンデミックの影響でこの流れは加速することは間違いないでしょう。</p>
+                        </div>                     
+                    </div>
+                </div>
+                <div class="row align-items-end benefit__description">
+                    <div class="col-md-12 mb-3 mb-md-5">   
+                        <div class="color--blue">
+                            <div class="title--bg title--bg-border title--bg-border-right" data-title-bg="生産性はむしろ向上する">                            
+                                <h4 class="mb-0 font-weight-bold fs-34 text-center">生産性はむしろ向上する</h4>
+                            </div>
+                            <p class="mb-0 fs-14 text-center">2013年にスタンフォード大学が9か月以上にわたって16,000人の労働者を対象に実施したかなり著名な調査では、リモートワークにより生産性が13％もオフィスワークより向上したことが示されました。 この生産性の向上は、自宅でのより柔軟な作業環境のためにもたらされたものであり、他に副次効果として労働者の休暇と病欠が減少することも分かりました。</p>
+                        </div>                     
+                    </div>
+                </div>
+                <div class="row align-items-end benefit__description">
+                    <div class="col-md-12 mb-3 mb-md-5">   
+                        <div class="color--blue">
+                            <div class="title--bg title--bg-border title--bg-border-right" data-title-bg="リモートワー">                            
+                                <h4 class="mb-0 font-weight-bold fs-34 text-center">リモートワークよる生産性向上の他の調査結果</h4>
+                            </div>
+                            <p class="mb-0 fs-14 text-center">Connectsolutionsが実施した調査では、自宅で働く労働者の77％が生産性の向上を示しました。これらのうち、30％の労働者は同じタスクの完了時間が短くなったことを示し、別の24％は同じ時間内により多くの作業を行うことができました。 他の研究でも、自宅で仕事をすることで10分間の非生産的な時間が減少し、累計で1週間に1日分もの非生産的な時間を削減することができる可能性を示唆しました。</p>
+                        </div>                     
+                    </div>
+                </div>
+                <div class="row align-items-end benefit__description">
+                    <div class="col-md-12">   
+                        <div class="color--blue">
+                            <div class="title--bg title--bg-border title--bg-border-right" data-title-bg="Dokodemo">                            
+                                <h2 class="mb-0 font-weight-bold fs-34 text-center">Dokodemo-Kerjaはリモートワーク導入を簡単にします</h2>
+                            </div>
+                            <p class="mb-0 fs-14 text-center">時短勤務制度、フレックスワーク、オンラインワークなど新しい働き方を可能とする新人事制度を導入する際にDokodemo-Kerjaとともに始めると、新しい現代的な働き方のデメリットを消し、メリットを浮き立たせることができます。会社と従業員の双方にフェアなメリットをもたらすクラウドツールです。</p>
+                        </div>                     
+                    </div>
+                </div>
+                
+            </div>
+        </section>
 
     <section class="py--70px home__benefit">
         <div class="container">

@@ -71,7 +71,7 @@
                     <a class="nav-link" href="/about">About Us</a>
                 </li> -->
                 <li class="nav-item <?php active('features') ?>">
-                    <a class="nav-link" href="/features">Work From Home</a>
+                    <a class="nav-link" href="/features">Features</a>
                 </li>
                 <li class="nav-item <?php active_case() ?>">
                     <a class="nav-link" href="/case-study/">Case Study</a>
@@ -84,7 +84,7 @@
                 </li>
                 <li class="nav-item">
                     <a class="nav-link" target="_blank" rel="noopener noreferrer"
-                        href="/hris-info">HRIS Info</a>
+                        href="/blog">Blog</a>
                 </li>
                 <li class="nav-item <?php active('contact-us') ?>">
                     <a class="nav-link" href="/contact-us">Contact Us</a>

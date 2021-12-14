@@ -43,6 +43,13 @@ require '../action/c-trial.php';
 	
 	<section class="pb-5">
 		<div class="container">
+			<div class="row">
+				<div class="offset-md-2 col-md-8">
+					<a href="https://docs.google.com/forms/d/e/1FAIpQLScn73Hhf36KQvOGc81WAlmfTOz12E1XKJqfh7uQ2zC6x8wsUQ/viewform" target="_blank">
+						<img src="/img/dokodemo-event-banner.jpg" class="img-fluid" alt="">
+					</a>
+				</div>
+			</div>
 			<div class="row mt-5">
 				<div class="offset-md-1 col-md-10">
 					<h1 class="fs-30 text-center pt-5 mb-3">Cara Penggunaan Aplikasi Dokodemo-Kerja</h1>
@@ -61,7 +68,7 @@ require '../action/c-trial.php';
 	<section class="intro-section text-center px-4">
 		<h2 class="banner-text-white">Coba Demo Sekarang. Gratis !</h2>
 		<img src="/img/home/arrow-down.svg" class="pt-4 pb-3" width="20" alt="" loading="lazy" />
-		<a href="https://demo.dokodemo-kerja.com" class="btn btn-trial-contact bold uppercase" target="_blank" rel="noopener noreferrer" id="btn-demo-trial-id">Admin Demo</a>
+			
 		<a href="https://drive.google.com/file/d/1itRszKytvu-x6RxoN0Ba1i_dNvtFlEHF/view?usp=sharing" target="_blank" rel="noopener noreferrer">
 			<p class="trial-header-content">Untuk mencoba versi staff, silahkan ikut instruksi dibawah</p>
 		</a>
@@ -131,7 +138,7 @@ require '../action/c-trial.php';
 					</a> -->
 					<div class="installation-manual">
 						Download manual instalasi di sini:
-						<a class="installation-manual__item" target="_blank" href="https://drive.google.com/file/d/1JSkS98_d3fUzaNcVLv0QWtX0eGEVq4HR/view?usp=sharing">
+						<a class="installation-manual__item" target="_blank" href="/pdf/panduan_instalasi-DOKODEMO_Versi_3.0.0.pdf">
 							<img src="/img/trial/pdf.svg" alt="">
 							Desktop
 						</a>
@@ -143,7 +150,7 @@ require '../action/c-trial.php';
 
 					<div class="installation-manual">
 						Download user manual di sini:
-						<a class="installation-manual__item" target="_blank" href="/pdf/user_manual_dokodemo_ver_2-2-2-id.pdf">
+						<a class="installation-manual__item" target="_blank" href="/pdf/USER_GUIDE_LINE_DOKODEMO_VERSI_3.0.0.pdf">
 							<img src="/img/trial/pdf.svg" alt="" loading="lazy" />
 							Desktop
 						</a>
@@ -309,6 +316,54 @@ require '../action/c-trial.php';
 											<div class="col-sm-12 col-md-6 col-lg-6">
 												<img src="/img/trial/fungsi-admin-tab/pengaturan-staff-3.png" class="mb-3 img-fluid w-100 img-border" alt="pengaturan-staff-3" loading="lazy" />
 											</div>
+										</div>
+									</div>
+								</div>
+								<div>
+									<h2 class="tab-content-title content-section-title">5. Pengawasan Staf</h2>
+									<div class="pl-4">
+										<div class="row">
+											<div class="col-sm-12 col-md-12 col-lg-12">	
+												<p class="trial-font-size">
+													Sebagai admin, Anda dapat melakukan pengawasan dan pemeriksaan terhadap aktivitas pekerjaan yang sedang dilakukan oleh setiap karyawan. 
+												</p>										
+												<p class="mt-0 trial-font-size"> 
+													<span style="color: var(--primary-main)">●</span> 
+													Cek total jam kerja karyawan.
+												</p>	
+												<p class="mt-0 trial-font-size">
+													Buka menu Work Session, kemudian klik "All" dan sistem akan menampilkan total jam kerja yang telah dicapai oleh seluruh karyawan. Admin dapat melihat total jam kerja karyawan pada periode waktu tertentu yang dapat disesuaikan menggunakan tombol daily (harian), weekly (mingguan) atau monthly (bulanan).
+												</p>																												
+												<img src="/img/trial/fungsi-admin-tab/a1.png" class="mb-3 img-fluid w-100 img-border" alt="pengaturan-task" loading="lazy" />																							
+											</div>										
+										</div>
+										<div class="row mt-4">
+											<div class="col-sm-12 col-md-12 col-lg-12">										
+												<p class="trial-font-size"> 
+													<span style="color: var(--primary-main)">●</span> 
+													Cek Tangkapan Layar Karyawan
+												</p>	
+												<p class="mt-0 trial-font-size">
+												Selain mengawasi waktu kerja, Admin juga dapat melakukan pengawasan aktivitas kerja karyawan melalui fitur tangkapan layar (desktop screenshot). <br>
+												Buka menu Work Session, kemudian klik "All". Selanjutnya pilih tanggal atau sesi kerja yang ingin Anda awasi kemudian klik nama karyawan. Saat halaman detail karyawan ditampilkan, silakan scroll ke bagian bawah halaman dan Anda akan menemukan hasil tangkapan layar pada tab "Screen Record". 
+												</p>																												
+												<img src="/img/trial/fungsi-admin-tab/a2.png" class="mb-3 img-fluid w-100 img-border" alt="pengaturan-task" loading="lazy" />																							
+											</div>										
+										</div>
+										<div class="row mt-4">
+											<div class="col-sm-12 col-md-12 col-lg-12">										
+												<p class="trial-font-size"> 
+													<span style="color: var(--primary-main)">●</span> 
+													3 Tangkapan Layar yang Sama
+												</p>	
+												<p class="mt-0 trial-font-size">
+													Sistem dapat mendeteksi tangkapan layar secara akurat. Jika terdapat 3 tangkapan layar yang sama atau lebih secara berurutan, maka sistem akan menandai hasil tangkapan layar tersebut dengan warna merah dan secara otomatis mengirim pemberitahuan kepada pihak Admin.
+												</p>																												
+												<img src="/img/trial/fungsi-admin-tab/a3.jpg" class="mb-3 img-fluid w-100 img-border" alt="pengaturan-task" loading="lazy" />																							
+												<p class="mt-0 trial-font-size">
+													Melalui fitur ini, Admin dapat mengetahui bahwa pada sesi waktu tersebut karyawan sedang tidak melakukan aktivitas apapun pada perangkat kerjanya. Jika diketahui bahwa pada sesi tersebut karyawan sedang beristirahat dan lupa mematikan Dokodemo-Kerja, maka Admin dapat merubah Work Session karyawan agar perhitungan total jam kerja tetap akurat.
+												</p>
+											</div>										
 										</div>
 									</div>
 								</div>
@@ -627,7 +682,7 @@ require '../action/c-trial.php';
 	</section>
 
 </div>
-
+<?php include($_SERVER['DOCUMENT_ROOT'].'/ind/component/modal-event-banner.php'); ?>
 <?php include($_SERVER['DOCUMENT_ROOT'].'/ind/component/footer.php'); ?>
 <script>
 	document.getElementById("submit-btn-trial").disabled = true;
@@ -638,6 +693,8 @@ require '../action/c-trial.php';
 </script>
 <script>
 	$(function() {		
+		$("#modal-event").modal('show');
+
 		// set border based on active tab
 		$('.trial-tab').click(function(e) {
 			setTimeout(() => {

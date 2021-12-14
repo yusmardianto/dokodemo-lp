@@ -1,19 +1,20 @@
 <?php 
     $page = '';
-    $page_title = 'Attendance Management Software & Remote Working System';
+    $page_title = 'The Best HR & E-Attendance tool for Remote Work | Dokodemo Kerja';
+    $assetVersion = 1.0;
+    
+    $meta_description = 'Dokodemo-Kerja is a HRIS software with E-Attendance features for better remote work; the best HR tool available to increase employee & workforce productivity.';
+    $meta_keyword = 'Dokodemo-Kerja, wfh system, wfh software, HR management app, E attendance tool, remote work tool, HR tool, HRIS software';
 
-    $meta_description = 'Dokodemo-Kerja is an Indonesian based attendance management software & remote work hr tool, which improves employee productivity both in the office & at home.';
-    $meta_keyword = 'dokodemo, dokodemo-kerja, dokodemo kerja, work everywhere, work whenever, work wherever, project management tool, project management software, human resource tool, human resource software, monitoring software, monitoring tool, monitor desktop, monitor with privacy, low res monitoring, low resolution monitoring, time tracker, logique product, pt logique';
-
-    $og_title = 'Attendance Management & Productivity Tool | Dokodemo-Kerja';
+    $og_title = 'The Best HR & E-Attendance tool for Remote Work | Dokodemo Kerja';
     $og_image = 'https://dokodemo-kerja.com/img/og-img/index.jpg';
-    $og_desription = 'Dokodemo-Kerja is an Indonesian based attendance management software & remote work hr tool, which improves employee productivity both in the office & at home.';
+    $og_desription = 'Dokodemo-Kerja is a HRIS software with E-Attendance features for better remote work; the best HR tool available to increase employee & workforce productivity.';
 
     $add_css = '
     <link rel="stylesheet" href="/js/magnific-popup.css" defer/>
     <link rel="stylesheet" href="/css/slick.css" defer/>
     <link rel="stylesheet" href="/css/slick-theme.css" defer/>
-    <link rel="stylesheet" href="/css/style-home.css" defer/>';
+    <link rel="stylesheet" href="/css/style-home.css?v='.$assetVersion.'" defer/>';
 
     include($_SERVER['DOCUMENT_ROOT'].'/component/header.php');
 ?>
@@ -71,7 +72,6 @@
                     </div>
                     <div class="col-md-12 ">
                         <p class="mb-md-2 text-center">
-                            <!-- Dokodemo-Kerja is HRIS software that mainly functions as an online attendance application for remote working, with a variety of additional features and advantages. The main function of this application is as an employee attendance management system that is able to record employee starting, resting and leaving times. It is also able to accumulate total working hours in an accurate manner. -->
                             Dokodemo-Kerja is an effective attendance management tool that aims to reshape the way employee’s conduct their work routines. As a staff management SaaS tool, Dokodemo-Kerja enables the implementation of remote work strategies outside of the workplace, as well as promoting better organization of office based work within the workplace.                            
                         </p>
                         <p class="text-center mt-2">
@@ -81,21 +81,21 @@
                     <div class="col-12">
                         <div class="mt--30px mb-5 py--20px px--30px bg--l-blue border--blue rounded-lg shadow--blue">
                             <div class="row align-items-center">
-                                <div class="col-md-8 col-lg-6">
-                                    <p class="mb-md-0 text-justify text-md-left">
+                                <div class="col-md-8 col-lg-7">                                                                   
+                                    <p class="text-justify text-md-justify">
                                         Dokodemo-Kerja version 3.0 is now available. Existing users are automatically upgraded. In version 3.0, the user interface has been improved, an auto upgrade function has been implemented, and vacation acquisition workflow & paid vacation management functions have been added. It also informs users of upcoming Indonesian holidays.
                                     </p>
-                                    <p class="mb-md-0 text-justify text-md-left mt-2">
+                                    <p class="mb-md-0 text-justify text-md-justify">
                                         Since the only way to build a new environment is to issue a company code, the time in preparing a trial environment has been dramatically shortened. Feel free to request a demo environment. It's free and there is no need to register your credit card information. To begin, please select the “Try The Demo Now” option available on the right hand side of this segment.
                                     </p>
                                 </div>
-                                <div class="col-md-4 col-lg-6 text-center">
+                                <div class="col-md-4 col-lg-5 text-center">                                
                                     <div class="row justify-content-center">
                                         <div class="col-auto col-lg-6">
-                                            <a href="/demo" class="form-control btn btn--rounded bg--blue fs-14 text-white px-4">Try The Demo Now</a>
+                                            <a href="/demo" class="form-control btn btn--rounded bg--blue fs-14 text-white px-4">Contact Us</a>
                                         </div>
                                     </div>
-                                    <p class="mt-1 mb-0 fs-12">*No credit card required</p>    
+                                    <!-- <p class="mt-1 mb-0 fs-12">*No credit card required</p>     -->
                                 </div>
                             </div>
                         </div>
@@ -103,10 +103,12 @@
                 </div>
                 <div class="row align-items-center">
                     <div class="col-md-6 mb-4 mb-lg-0">
+                        <h2 class="mb-3 fs-34 font-weight-bold">Benefits of Dokodemo-Kerja</h2>
                         <ul class="list-unstyled banner__list list--circle list--circle-border">
-                            <li>Track tasks and calculate overall working hours.</li>
-                            <li>Randomly captures desktop screen activity and sends the screenshots to the server (with resolutions that are privacy-friendly).</li>
-                            <li>Through using the smartphone application, work hours and location management is now easier to manage (Through GPS tracking) for employees travelling outside of the office.</li>
+                            <li>Effectively monitor employee work hours and duties. </li>
+                            <li>The screenshot feature is designed to capture the desktop screen at random intervals and store these pictures on the server (These images are low resolution so as to not interfere with privacy). </li>
+                            <li>Installing the application on one’s cellphone makes it easier for you to manage every employee’s work hours and location, as the app is designed to keep track of staff who often works away from the office.</li>
+                            <li>Monitor team members applying for leave so that you can easily manage them as a whole. </li>
                         </ul>
                     </div>
                     <div class="col-md-6">
@@ -118,6 +120,40 @@
                                     allowfullscreen></iframe>
                             </div>
                         </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <section class="color--blue pb--60px">
+            <div class="container">
+                <div class="row">
+                    <div class="col-12">
+                        <h2 class="mt-5 font-weight-bold text-center fs-34">
+                        Dokodemo-Kerja: Supporting WFH Systems
+                        </h2>
+
+                        <p class="text-center">Dokodemo-Kerja is the best online attendance application supporting the implementation of successful WFH strategies within your company. The various features we provide will help accurately manage employee data in real time, despite having a remote or WFO based workforce. Monitor the discipline of employees working from home through a system which is designed to provide attendance lists, calculate total hours worked, and monitor overall productivity. Indeed, successful WFH systems are easily made possible with the help of Dokodemo-Kerja.</p>
+                    </div>
+                    <div class="col-12">
+                        <h3 class="mt-5 font-weight-bold fs-20">
+                        What are WFH Strategies?
+                        </h3>
+
+                        <p>WFH (Work From Home) strategies allow your company’s workforce to freely conduct their work through flexible means, allowing for a wide variety of benefits , from saving money on office space, improving employee work-life balance to increased productivity, as has been shown through a variety of studies, notably from Gallup and Stanford. Unfortunately, without the use of digital technology to keep track of employees and their productivity, results may vary regarding the outcomes of each strategy. However, there exists a wide variety of tools to assist the WFH process. </p>
+                    </div>
+                    <div class="col-12">
+                        <h3 class="mt-5 font-weight-bold fs-20">
+                        The Standard Setup:
+                        </h3>
+
+                        <p>Working from home allows your workers to conduct their tasks from anywhere. However, this work strategy requires certain key elements to support distance based employment. Specifically, workers must use a fully functional laptop, as well as utilize a stable internet connection so that coordination can be conducted efficiently. Also, within this workframe, rules that outline exactly what is expected of remote working employees must be enforced and must be made clear. For example, more stringent consequences can be upheld for infringements such as for absenteeism or failing to submit projects on time, which balances the relative freedom provided by WFH strategies.</p>
+                    </div>
+                    <div class="col-12">
+                        <h3 class="mt-5 font-weight-bold fs-20">
+                        Better Technology, Better Management:
+                        </h3>
+                        <p>This is the standard scenario for a successful WFH strategy. However, to further reinforce your remote work strategy, further controls must be applied. Technology available today can now efficiently replicate the company’s ability to track, analyze and report on the attendance and overall  performance of a workforce, making the effort of managing one working remotely a simple and straightforward task. Such software provides an all-in-one solution to distance based employment; some features include: attendance management , recording work hours as well as screen and desktop capturing & monitoring features.</p>
                     </div>
                 </div>
             </div>
@@ -170,7 +206,9 @@
                     </div>
                 </div>
                 
-                <p class="pt--60px text-center">Dokodemo-Kerja is both an attendance & remote work management tool that allows for flexible work styles beneficial to both the company and employee alike through recording working hours no matter where the location. Since it is able manage work hours accurately, it makes calculating overtime hours and the number of paid leaves a much more efficient endeavor. Also, by taking and managing screenshots during the work session, one can discourage slacking during working hours.</p>
+                <h2 class="mt-5 mb-4 fs-34 font-weight-bold text-center">Dokodemo-Kerja, the Best HRIS Software in Indonesia</h2>
+
+                <p class="text-center">Dokodemo-Kerja is both an attendance & remote work management tool that allows for flexible work styles beneficial to both the company and employee alike through recording working hours no matter where the location. Since it is able manage work hours accurately, it makes calculating overtime hours and the number of paid leaves a much more efficient endeavor. Also, by taking and managing screenshots during the work session, one can discourage slacking during working hours.</p>
                 <p class="text-center">As one of the best Human Resource Information System (HRIS) software in Indonesia, Dokodemo-Kerja provides solutions for HR departments in any company in the use of digital technology for a more effective and efficient Human Resource (HR) management process.</p>
                 <p class="text-center">How can HRIS software improve the quality of a company's HR? And how much will it benefit the company and employees? Get complete information about HRIS and other HR technologies on the following page:</p>
                 <div class="row justify-content-center">
@@ -227,6 +265,13 @@
                                         </a>
                                     </div>
                                     <div>
+                                        <a href="/img/features/home_05.png" data-source="/img/features/home_05.png" title="Daily Working Screen Capture" aria-label="Daily Working Screen Capture">
+                                        <div class="image--wrapper">
+                                            <img src="/img/features/home_05-com.jpg" class="border border--blue" alt="Attendance Management Software" loading="lazy" />
+                                        </div>    
+                                        </a>
+                                    </div>
+                                    <div>
                                         <a href="/img/features/home_tracking.jpg" data-source="/img/features/home_tracking.jpg" title="Dokodemo GPS features" aria-label="Dokodemo GPS features">
                                         <div class="image--wrapper">
                                             <picture>
@@ -253,6 +298,9 @@
                                     <img src="/img/features/home_04-com.jpg" class="img-fluid rounded-lg" alt="Attendance Management Software" loading="lazy" />
                                 </div>
                                 <div class="nav__img">
+                                    <img src="/img/features/home_05-com.jpg" class="img-fluid rounded-lg" alt="Attendance Management Software" loading="lazy" />
+                                </div>
+                                <div class="nav__img">
                                     <img src="/img/features/home_tracking-com.jpg" class="img-fluid rounded-lg" alt="Dokodemo GPS features" loading="lazy" />
                                 </div>
                             </div>
@@ -262,7 +310,7 @@
                         <div class="title--bg title--bg-border title--bg-border-left" data-title-bg="Features">                            
                             <h2 class="mt-3 mb-0 font-weight-bold fs-34">Features</h2>
                         </div>
-                        <p class="mb-4 fs-14">As with other attendance management tools, employees will have to indicate when starting or stopping their work hours. The difference is that the validity of these recorded work hours can be verified. Through randomly capturing the desktop activities of its users and saving them onto a cloud server, one can see whether workers are doing actual work, playing games, watching YouTube, etc., which in turn can be used as solid evidence to prevent such activities from happening again. We support efficiency within HR operations regarding the calculation of overtime hours, the management of paid leave, task-based & department-based, daily, weekly, and monthly work time analyses.</p>
+                        <p class="mb-4 fs-14">As an online attendance application, Dokodemo-Kerja has been equipped with a variety of interesting features, such as a screen capture function in order to find out the details of the work being conducted, a GPS tracking feature that records overall employee productivity while working via mobile, as well as the latest calendar feature for upcoming days off serve to monitor teams that is or will be on leave so that it helps to manage the team well.</p>
                         <div class="row justify-content-center justify-content-lg-start">
                             <div class="col-auto col-md-6">
                                 <a href="/features" class="form-control btn btn--rounded bg--yellow px-4">View More</a>
@@ -277,12 +325,63 @@
             <div class="container">
 
                 <div class="row align-items-end benefit__description">
+                    <div class="col-md-12 mb-3 mb-md-5">   
+                        <div class="color--blue">
+                            <div class="title--bg title--bg-border title--bg-border-right" data-title-bg="Be A Part">                            
+                                <h2 class="mb-0 font-weight-bold fs-34 text-center">Be a Part of the Millions of Others Working from Home</h2>
+                            </div>
+                            <p class="mb-0 fs-14 text-center">The United States Bureau of Labor had conducted a study in 2019, concluding that up to 24% of workers conduct a majority of key tasks from home. Indeed, the popularity of remote work has always been in the public consciousness, and for good reason: studies reveal that WFH strategies have been popular for a long time, and the results show.</p>
+                        </div>                     
+                    </div>
+                </div>
+                <div class="row align-items-end benefit__description">
+                    <div class="col-md-12 mb-3 mb-md-5">   
+                        <div class="color--blue">
+                            <div class="title--bg title--bg-border title--bg-border-right" data-title-bg="Remote Work Strategy">                            
+                                <h2 class="mb-0 font-weight-bold fs-34 text-center">A Remote Work Strategy in Action</h2>
+                            </div>
+                            <p class="mb-0 fs-14 text-center">For example, a further study conducted by Upwork showed that 1 in 4 workers in America have already been engaged in some form of flexible employment. This figure is expected to continue to rise in the future in line with the growing work culture that has established itself since the Covid-19 pandemic.</p>
+                        </div>                     
+                    </div>
+                </div>
+                <div class="row align-items-end benefit__description">
+                    <div class="col-md-12 mb-3 mb-md-5">   
+                        <div class="color--blue">
+                            <div class="title--bg title--bg-border title--bg-border-right" data-title-bg="Improved Productivity">                            
+                                <h2 class="mb-0 font-weight-bold fs-34 text-center">Stanford Study Reveals Improved Productivity </h2>
+                            </div>
+                            <p class="mb-0 fs-14 text-center">A rather prominent study conducted by Stanford in 2013 on 16 thousand workers for more than 9 months showed an increase in productivity of 13%. This increase in productivity was due to a calmer and more flexible working environment at home, resulting in reduced time off and sick leave taken by workers.</p>
+                        </div>                     
+                    </div>
+                </div>
+                <div class="row align-items-end benefit__description">
+                    <div class="col-md-12 mb-3 mb-md-5">   
+                        <div class="color--blue">
+                            <div class="title--bg title--bg-border title--bg-border-right" data-title-bg="Reduces Unproductivity">                            
+                                <h4 class="mb-0 font-weight-bold fs-34 text-center">Remote Work Reduces Unproductivity, Study Shows</h4>
+                            </div>
+                            <p class="mb-0 fs-14 text-center">Further, in a survey conducted by Connectsolutions, 77% of workers who worked from home displayed an increase in productivity; of these, 30% of workers indicated quicker completion times for the same task, while another 24% were able to do more work in the same time duration. Other studies have also shown that working from home can potentially reduce 10 minutes of unproductivity, and cumulatively add one more day to the week.</p>
+                        </div>                     
+                    </div>
+                </div>
+                <div class="row align-items-end benefit__description">
+                    <div class="col-md-12 mb-3 mb-md-5">   
+                        <div class="color--blue">
+                            <div class="title--bg title--bg-border title--bg-border-right" data-title-bg="Dokodemo">                            
+                                <h2 class="mb-0 font-weight-bold fs-34 text-center">Dokodemo-Kerja Is Here To Help</h2>
+                            </div>
+                            <p class="mb-0 fs-14 text-center">Indeed, it is not hard to realize that the future of business and industry lies in its relationship with technology; Dokodemo-Kerja embodies this relationship and all the benefits that come with it, helping companies save money on office space (if they choose), always effectively managing their workforces in the process.</p>
+                        </div>                     
+                    </div>
+                </div>
+
+                <div class="row align-items-end benefit__description">
                     <div class="col-md-6 mb-3 mb-md-5">   
                         <div class="color--blue">
-                            <div class="title--bg title--bg-border title--bg-border-right" data-title-bg="Benefit">                            
-                                <h2 class="mb-0 font-weight-bold fs-34">Benefit</h2>
+                            <div class="title--bg title--bg-border title--bg-border-right" data-title-bg="Why">                            
+                                <h2 class="mb-0 font-weight-bold fs-34 text-center">Why Choose Dokodemo-Kerja?</h2>
                             </div>
-                            <p class="mb-0 fs-14">Your company will be able to implement innovative and flexible HR strategies, strengthening the overall output of your work force, while enhancing your staff’s wellbeing. Allowing employees to work remotely grants them flexible working hours, giving them the chance to work in a comfortable environment suited to them, while at the same time increasing productivity and improving upon practical management strategies which allow for the fair evaluation of staff. Overall, the advantages are many, for both the Company and Employees alike. These include:</p>
+                            <p class="mb-0 fs-14 text-center">Your company will be able to implement innovative and flexible HR strategies, strengthening the overall output of your work force, while enhancing your staff’s wellbeing. Allowing employees to work remotely grants them flexible working hours, giving them the chance to work in a comfortable environment suited to them, while at the same time increasing productivity and improving upon practical management strategies which allow for the fair evaluation of staff. Overall, the advantages are many, for both the Company and Employees alike. These include:</p>
                         </div>                     
                     </div>
                     <div class="col-md-6 mb-5 description__image">
@@ -438,9 +537,9 @@
         <section class="color--blue pt--60px home__testimonial" id="testimony">
             <div class="container">
                 <div class="mb-4 row">
-                    <div class="col-md-6">
-                        <div class="title--bg title--bg-border title--bg-border-right" data-title-bg="Testimoni">                            
-                            <h2 class="mb-0 font-weight-bold fs-34">Testimoni</h2>
+                    <div class="col-md-10">
+                        <div class="title--bg title--bg-border title--bg-border-right" data-title-bg="What">                            
+                            <h2 class="mb-0 font-weight-bold fs-34">Thoughts on Dokodemo-Kerja's Features</h2>
                         </div>
                     </div>
                 </div>
@@ -528,81 +627,50 @@
         <section class="mb--30px news-list-container">
             <div class="container">
                 <div class="newscontainer">
-                    <div class="row justify-content-md-center">
-                        <div class="col-sm-8">
+                    <div class="row">
+                        <div class="col-12">
                             <h2>Latest <strong>News</strong></h2>
                         </div>
                     </div>
                     <?php
-                    $rss = new DOMDocument();
-                    $rss->load('https://www.logique.co.id/blog/en/category/dokodemo-kerja-en/feed/');
-                    $feed = array();
-                    foreach ($rss->getElementsByTagName('item') as $node) {
-                    $item = array ( 
-                    'title' => $node->getElementsByTagName('title')->item(0)->nodeValue,
-                    'desc' => $node->getElementsByTagName('description')->item(0)->nodeValue,
-                    'link' => $node->getElementsByTagName('link')->item(0)->nodeValue,
-                    'date' => $node->getElementsByTagName('pubDate')->item(0)->nodeValue,
-                    );
-                    array_push($feed, $item);
-                    }
-                    $limit = 4; 
-
-                    function tgl_indo($tanggal){
-                        $bulan = array (
-                            1 =>   'Jan',
-                            'Feb',
-                            'Mar',
-                            'Apr',
-                            'Mei',
-                            'Jun',
-                            'Jul',
-                            'Ags',
-                            'Sep',
-                            'Okt',
-                            'Nov',
-                            'Des'
-                        );
-                        $pecahkan = explode('-', $tanggal);
-                        
-                    
-                        return $pecahkan[2] . ' ' . $bulan[ (int)$pecahkan[1] ] . ' ' . $pecahkan[0];
-                    }
+                    $url = file_get_contents('https://dokodemo-kerja.com/blog/wp-json/wp/v2/posts?categories=15,17,19&per_page=3&_embed');
+                    $remote_posts = json_decode( $url ); 
 
                     ?>
 
                     <div class="news-list">
+                        <div class="row">
                         <?php 
-                            for($x=0;$x<$limit;$x++) {
-                            $title = str_replace(' & ', ' &amp; ', $feed[$x]['title']);
-                            $link = $feed[$x]['link'];
-                            $description = $feed[$x]['desc'];
-                            $date = date('F d, Y', strtotime($feed[$x]['date']));
-                            // echo '<p><strong><a href="'.$link.'" title="'.$title.'">'.$title.'</a></strong><br />';
-                            // echo '<small><em>Posted on '.$date.'</em></small></p>';
-                            // echo '<p>'.$description.'</p>';
+                            foreach( $remote_posts as $post_index => $remote_post ) { 
+                            $categories = $remote_post->_embedded->{'wp:term'}[0];
                         ?>
-                        
-                            <div class="row justify-content-md-center">
-                                
-                                <div class="col-sm-8">
-                                    <div class="news-item">
-                                        <span class="feeddate"> <?php echo tgl_indo(date('Y-m-d', strtotime($feed[$x]['date'])));;?></span><a href="<?php echo $link ?>" target="_blank" rel="noreferrer"><?php echo $title ?></a>
+                            <div class="col-md-4">
+                                <div class="news-item">
+                                    <img src="<?= $remote_post->yoast_head_json->og_image[0]->url ?>" class="img-news-item" alt="<?= $remote_post->title->rendered ?>">
+                                    <div class="d-flex items-center"> 
+                                        <span class="cat-name">
+                                            <?php foreach($categories as $index => $category){ ?>
+                                                <a href="<?= $category->link ?>"><?= $category->name ?></a> 
+                                                <?= $index+1 < count($categories) ? '|' : null; ?>
+                                            <?php } ?>
+                                        </span>
+                                        <span class="news-date">
+                                            <?= date('F d, Y', strtotime($remote_post->date)); ?>
+                                        </span>
                                     </div>
+                                    <a class="news-link" href="<?= $remote_post->link ?>" target="_blank" rel="noreferrer"><?= $remote_post->title->rendered ?></a>
                                 </div>
-                                    
                             </div>
-                        
                         <?php  } ?>
-
+                        </div>
                     </div>
-
                 </div>
             </div>
         </section>
 
     </div>
 
+<?php include($_SERVER['DOCUMENT_ROOT'].'/component/modal-event-banner.php'); ?>
 <?php include($_SERVER['DOCUMENT_ROOT'].'/component/demo-banner.php'); ?>
 <?php include($_SERVER['DOCUMENT_ROOT'].'/component/modal-meeting.php'); ?>
 <?php 
@@ -611,6 +679,7 @@
 ?>
 <script>
     $(function() {
+        $("#modal-event").modal('show');
 
         // feature slide
         $('.slide__image').slick({

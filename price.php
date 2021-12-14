@@ -1,13 +1,13 @@
 <?php 
     $page = 'price';
-    $page_title = 'Attendance Management Software Pricing | Dokodemo-Kerja';
+    $page_title = 'Affordable & Cost Effective Attendance Management Software | Dokodemo Kerja';
 
-    $meta_description = 'Dokodemo-Kerja is an HR management and remote work software that allows for better employee attendance management for a reasonable price. Developed and sold in Indonesia.';
-    $meta_keyword = 'Dokodemo-Kerja, remote working strategies, employee productivity, employee performance, management software, enterprise software, cheap enterprise software, overtime work, human resource tool, cheap management tool';
+    $meta_description = 'Dokodemo-Kerja is a cost effective & affordable & HRIS software available in Indonesia; better organize your workforce with this attendance management HR tool.';
+    $meta_keyword = 'dokodemo kerja cost, dokodemo kerja price';
 
-    $og_title = 'Attendance Management Software Pricing | Dokodemo-Kerja';
+    $og_title = 'Affordable & Cost Effective Attendance Management Software | Dokodemo Kerja';
     $og_image = 'https://dokodemo-kerja.com/img/og-img/price.jpg';
-    $og_desription = 'Dokodemo-Kerja is an HR management and remote work software that allows for better employee attendance management for a reasonable price. Developed and sold in Indonesia.';
+    $og_desription = 'Dokodemo-Kerja is a cost effective & affordable & HRIS software available in Indonesia; better organize your workforce with this attendance management HR tool.';
 
     $add_css = '<link rel="stylesheet" href="/css/style-pricing.css" />';
 
@@ -77,11 +77,14 @@
    <section class="mb-5">
        <div class="container">
            <div class="row">
-               <div class="col-md-12 text-center">
+               <div class="col-md-12 text-center mb-4">
                    <a href="/subscribe.php" class="btn-price-buy-plan" id="btn-price-buy-plan">
                        Buy Plan
                    </a>
                </div>
+               <div class="col-md-12 text-center">
+                <a href="https://demo.dokodemo-kerja.com" class="btn btn-yellow-action bg--yellow uppercase" target="_blank" rel="noopener noreferrer">Try Demo</a>
+            </div>
            </div>
        </div>
    </section>
@@ -201,7 +204,57 @@
        </div>
        </div>
    </section>
-   
+
+   <section class="color--blue pb--60px demo__schedule">
+        <div class="container">
+            <div class="row">
+                <div class="col-md-6 mb-3 mb-md-0">
+                    <div class="bg--l-blue rounded-lg text-center schedule">
+                        <h5 class="font-weight-bold mb-4 fs-20">Schedule Online Meeting</h5>
+                        <div class="row justify-content-center">
+                            <div class="col-md-8">
+                                <picture>
+                                    <source srcset="/img/home/schedule-online.svg">
+                                    <img src="/img/home/schedule-online.png" alt="online meeting" class="img-fluid" loading="lazy">
+                                </picture>
+                            </div>
+                            <div class="col-md-8">
+                                <p class="my-4">Set up an online consultation with our team for a software demo</p>
+                            </div>
+                            <div class="col-md-6">
+                                <button type="button" id="btn_online_meet_form_en" class="form-control btn btn--rounded bg--yellow" data-title="online" data-toggle="modal" data-target="#meetingSchedule">
+                                    Online
+                                </button>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-md-6">
+                    <div class="bg--l-blue rounded-lg text-center schedule">
+                        <h5 class="font-weight-bold mb-4 fs-20">Schedule Offline Meeting</h5>
+                        <div class="row justify-content-center">
+                            <div class="col-md-8">
+                                <picture>
+                                    <source srcset="/img/home/schedule-offline.svg">
+                                    <img src="/img/home/schedule-offline.png" alt="offline meeting" class="img-fluid" loading="lazy">
+                                </picture>
+                            </div>
+                            <div class="col-md-8">
+                                <p class="my-4">Set up an offline consultation with our team for a software demo</p>
+                            </div>
+                            <div class="col-md-6">
+                                <button type="button" id="btn_offline_meet_form_en" class="form-control btn btn--rounded bg--yellow" data-title="offline" data-toggle="modal" data-target="#meetingSchedule">
+                                    Offline
+                                </button>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+    <?php include($_SERVER['DOCUMENT_ROOT'].'/component/modal-meeting.php'); ?>
+    
    <section class="read-testimony">
        <h3>Setup an online meeting with us to see how it works!</h3>
        <a href="/contact-us.php" class="btn-read-testimony" id="btn-read-testimony">
@@ -210,7 +263,6 @@
    </section>
 
 </div>    
-    
 <?php include($_SERVER['DOCUMENT_ROOT'].'/component/footer.php'); ?>
 <script type="application/ld+json">
 {
@@ -267,5 +319,33 @@
     }
   }]
 }
+</script>
+<!-- schedule meeting form -->
+<script type="text/javascript">
+    // Handle Success and Error 
+    <?php if (!is_null($success)) { ?>
+        $('#meetingScheduleSent').modal('show');
+    <?php } else if ($errors) {?>
+          // code handle here
+          window.location.href= "/";
+    <?php }?>
+    // when close modals redirect to home page and kill session
+    $('#meetingScheduleSent').on('hidden.bs.modal', function () {
+        window.location.href= "/";
+    })
+</script>
+
+<script type="text/javascript">
+    $("#meetingSchedule").on('show.bs.modal', function () {
+        grecaptcha.reset();
+    });
+    
+    function enableBtn(){
+		$('#meeting-form-submit').attr('disabled', false);
+	}
+
+	$(document).ready(function() {
+		$('#meeting-form-submit').attr('disabled', true);
+	});
 </script>
 <?php include($_SERVER['DOCUMENT_ROOT'].'/component/footer-end.php') ?>

@@ -28,6 +28,15 @@
 ?>
 
 <div class="">
+	<div class="container">
+		<div class="row my-5">
+			<div class="offset-md-2 col-md-8">
+				<a href="https://docs.google.com/forms/d/e/1FAIpQLScn73Hhf36KQvOGc81WAlmfTOz12E1XKJqfh7uQ2zC6x8wsUQ/viewform" target="_blank">
+					<img src="/img/dokodemo-event-banner.jpg" class="img-fluid" alt="">
+				</a>
+			</div>
+		</div>
+	</div>
 	<section class="intro-section text-center px-4">
 		<h1 class="banner-text-white">無料デモをお試しください</h1>
 		<img src="/img/home/arrow-down.svg" class="pt-4 pb-3" width="20" alt=""/>
@@ -38,6 +47,7 @@
 	</section>
 
 	<section id="trial-content">
+	
 		<div class="container">
 			<div class="row mt-5 mb-5">
 				<div class="offset-md-1 col-md-10 tutor-container mt-4 mb-3">
