@@ -133,103 +133,196 @@
 								<div>
 									<div>
 										<h2 class="tab-content-title content-section-title">1. デモ環境にアクセスする</h2>
-										<p class="trial-tab-content --no-list d-block mt-0"><a class="font-weight-bold" href="https://demo.dokodemo-kerja.com/" target="_blank" rel="noopener noreferrer">このリンク</a>にアクセスしてください</p>
 									</div>
 									<div class="pl-4 mb-5">
 										<div class="row">
-											<div class="col-md-6 col-lg-8">
+											<div class="col-sm-12 col-md-12 col-lg-12">											
+												<p class="trial-tab-content "><a class="font-weight-bold" href="https://demo.dokodemo-kerja.com/" target="_blank" rel="noopener noreferrer">このリンク</a>にアクセスしてください</p>
 												<p class="trial-tab-content">別途ご連絡するIDとパスワードでログインします</p>
-												<picture>
-													<source srcset="/img/trial/admin-1.webp" type="image/webp">
-													<img src="/img/trial/admin-1.jpg" alt="Dokodemo-Kerja Website Login" class="img-fluid img-border mb-3">
+												<picture>													
+													<img src="/img/trial/pengguna-umum/1.png" class="mb-3 img-fluid w-100 img-border" alt="Akses Demo Environment" loading="lazy" />
 												</picture>
 											</div>
 										</div>
+									</div>								
+								</div>
+								<div>
+									<h2 class="tab-content-title content-section-title">2. タスク設定</h2>
+									<div class="pl-4">
+										<p class="trial-font-size mt-3">
+											管理者としてまずはタスクを設定します（Taskマスターを作ります）
+										</p>
+										<p class="trial-tab-content">
+											設定画面アイコンをクリックし、表示されたサブメニューから「Task」を選択します
+											<!-- <strong>Profile</strong> - <strong>Settings</strong> - <strong>Task</strong>から設定できます -->
+										</p>
+										<img src="/img/trial/fungsi-admin-tab/1.png" class="mb-3 img-fluid w-100 img-border" alt="pengaturan-task" loading="lazy" />																							
+									
+
+										<div class="row mt-4">
+											<div class="col-sm-12 col-md-6 col-lg-6">
+												<p class="mt-0 trial-font-size"> 
+													<span style="color: var(--primary-main)">●</span> 
+													<b>「Add New」</b> ボタンをクリックしてください
+												</p>
+											</div>
+											<div class="col-sm-12 col-md-6 col-lg-6">	
+												<img src="/img/trial/fungsi-admin-tab/2.png" class="mb-3 img-fluid w-100 img-border" alt="task-management-add-new" loading="lazy" />												
+											</div>
+										</div>
+
+										<div class="row mt-4">
+											<div class="col-sm-12 col-md-6 col-lg-6">
+												<p class="mt-0 trial-font-size"> 
+													<span style="color: var(--primary-main)">●</span> 													
+													新たに登録するタスクのタスク名、そのタスクを選ぶことができる対象Team、表示色を選択して<b>「Submit」</b>クリックで登録してください
+												</p>												
+											</div>
+											<div class="col-sm-12 col-md-6 col-lg-6">
+												<img src="/img/trial/fungsi-admin-tab/3.png" class="mb-3 img-fluid w-100 img-border" alt="task-management-add-new-button-cancel-submit" loading="lazy" />
+											</div>
+										</div>
+									</div>
+								</div>
+
+								<div>
+									<h2 class="tab-content-title content-section-title mt-5">3.チーム設定</h2>
+									<div class="pl-4">									
+										<p class="trial-font-size mt-3">
+											管理者はチーム設定を行います
+										</p>
+										<p class="trial-tab-content">
+											設定メニューから<b>「Team」</b>を選択します
+										</p>
+										<img src="/img/trial/fungsi-admin-tab/pengaturan-team-1.png" class="mb-3 img-fluid w-100 img-border" alt="pengaturan-team-1" loading="lazy" />																							
+
+										<div class="row mt-4">
+											<div class="col-sm-12 col-md-6 col-lg-6">
+												<p class="mt-0 trial-font-size"> 
+													<span style="color: var(--primary-main)">●</span> 													
+													<b>「Add New」</b> ボタンをクリックして新しいチームを追加登録します
+												</p>
+											</div>
+											<div class="col-sm-12 col-md-6 col-lg-6">
+												<img src="/img/trial/fungsi-admin-tab/pengaturan-team-2.png" class="mb-3 img-fluid w-100 img-border" alt="pengaturan-team-2" loading="lazy" />																							
+											</div>
+										</div>
+										<div class="row mt-4">
+											<div class="col-sm-12 col-md-6 col-lg-6">
+												<p class="mt-0 trial-font-size"> 
+													<span style="color: var(--primary-main)">●</span> 													
+													追加登録するチーム名を入力して <b>「Submit</b> より登録します
+												</p>
+											</div>
+											<div class="col-sm-12 col-md-6 col-lg-6">
+												<img src="/img/trial/fungsi-admin-tab/pengaturan-team-3.png" class="mb-3 img-fluid w-100 img-border" alt="pengaturan-team-3" loading="lazy" />																							
+											</div>
+										</div>
+										
 									</div>
 								</div>
 								<div>
-									<h2 class="tab-content-title content-section-title">2. タスクを設定管理できます</h2>
+									<h2 class="tab-content-title content-section-title">4. 従業員（スタッフ）設定</h2>
 									<div class="pl-4">
-										<p class="trial-tab-content"><strong>Profile</strong> - <strong>Settings</strong> - <strong>Task</strong>から設定できます</p>
-										<picture>
-											<source srcset="/img/trial/admin-3-1.webp" type="image/webp">
-											<img src="/img/trial/admin-3-1.jpg" alt="Dokodemo-Kerja Drop Down Account Access Option" class="mb-3 img-fluid w-100 img-border">
-										</picture>
-										<div class="row">
-											<div class="col-md-6">
-												<p class="trial-tab-content"><strong>Add New</strong>から新規タスクを登録できます</p>
-												<picture>
-													<source srcset="/img/trial/admin-3-2.webp" type="image/webp">
-													<img src="/img/trial/admin-3-2.jpg" alt="Dokodemo-Kerja 'Add New' Button" class="mb-3 img-fluid w-100 img-border">
-												</picture>
+										<p class="trial-font-size mt-3">
+											管理者として従業員を追加変更管理します
+										</p>
+										<p class="trial-tab-content">
+											設定メニューから<b>「Staff」</b> を選択します											
+										</p>
+										<img src="/img/trial/fungsi-admin-tab/pengaturan-staff-1.png" class="mb-3 img-fluid w-100 img-border" alt="pengaturan-staff-1" loading="lazy" />																							
+
+										<div class="row mt-4">
+											<div class="col-sm-12 col-md-6 col-lg-6">
+												<p class="mt-0 trial-font-size"> 
+													<span style="color: var(--primary-main)">●</span> 
+													<b>「Add New」</b> ボタンをクリックして新規スタッフ登録します
+												</p>
 											</div>
-											<div class="col-md-6">
-												<p class="trial-tab-content">入力後、Submitボタンを押してください</p>
-												<picture>
-													<source srcset="/img/trial/admin-3-3.webp" type="image/webp">
-													<img src="/img/trial/admin-3-3.jpg" alt="Dokodemo-Kerja Install Guide" class="mb-5 img-fluid w-100 img-border">
-												</picture>
+											<div class="col-sm-12 col-md-6 col-lg-6">	
+												<img src="/img/trial/fungsi-admin-tab/pengaturan-staff-2.png" class="mb-3 img-fluid w-100 img-border" alt="pengaturan-staff-2" loading="lazy" />	
 											</div>
 										</div>
+
+										<div class="row mt-4">
+											<div class="col-sm-12 col-md-6 col-lg-6">
+												<p class="mt-0 trial-font-size"> 
+													<span style="color: var(--primary-main)">●</span> 													
+													スタッフの情報（メールアドレス、名前、所属チーム、勤務開始時間など）を入力し、<b>「Submit」</b> ボタンをクリックして登録します
+												</p>
+												<p class="mt-0 trial-font-size"> 
+													<span style="color: var(--primary-main)">●</span> 																										
+													入力されたメールアドレスへEmailが送信されます。メール中に自動生成されたパスワードが送信されるので登録された従業員はそのメールアドレスとパスワードを使ってログインすることになります
+												</p>	
+												
+											</div>
+											<div class="col-sm-12 col-md-6 col-lg-6">
+												<img src="/img/trial/fungsi-admin-tab/pengaturan-staff-3.png" class="mb-3 img-fluid w-100 img-border" alt="pengaturan-staff-3" loading="lazy" />
+											</div>
+										</div>																		
 									</div>
 								</div>
+
 								<div>
-									<h2 class="tab-content-title content-section-title">3. 部署・チームを設定管理します</h2>
+									<h2 class="tab-content-title content-section-title">5. 日々の運用（従業員の管理）</h2>
 									<div class="pl-4">
-										<p class="trial-tab-content"><strong>Profile</strong> - <strong>Settings</strong> - <strong>Team</strong>から設定できます</p>
-										<picture>
-											<source srcset="/img/trial/admin-4-1.webp" type="image/webp">
-											<img src="/img/trial/admin-4-1.jpg" alt="Dokodemo-Kerja Drop Down Account Access Option" class="mb-3 img-fluid w-100 img-border">
-										</picture>
 										<div class="row">
-											<div class="col-md-6">
-												<p class="trial-tab-content"><strong>Add New</strong>から新規チームを登録できます<br class="d-none d-md-block d-lg-none d-xl-block"><br class="d-none d-md-block d-lg-none d-xl-block"></p>
-												<picture>
-													<source srcset="/img/trial/admin-4-2.webp" type="image/webp">
-													<img src="/img/trial/admin-4-2.jpg" alt="Dokodemo-Kerja 'Add New' Button" class="mb-5 img-fluid w-100 img-border">
-												</picture>
-											</div>
-											<div class="col-md-6">
-												<p class="trial-tab-content">チーム名、チーム長情報入力して、登録します</p>
-												<picture>
-													<source srcset="/img/trial/admin-4-3.webp" type="image/webp">
-													<img src="/img/trial/admin-4-3.jpg" alt="Dokodemo-Kerja Add Team Management" class="mb-5 img-fluid w-100 img-border">
-												</picture>
-											</div>
+											<div class="col-sm-12 col-md-12 col-lg-12">	
+												<p class="trial-font-size">
+													管理者（HR部門のスタッフや各部門のマネージャ）は日々の従業員の働き方を管理します
+												</p>										
+												<p class="mt-0 trial-font-size"> 
+													<span style="color: var(--primary-main)">●</span> 
+													総労働時間を管理する
+												</p>	
+												<p class="mt-0 trial-font-size">
+													Work SessionメニューからAllを選択すると登録された全ての従業員の勤務状況が表示されます。デフォルトは日次の勤務時間＆ステータス表示画面ですが、「Weekly」「Monthly」ボタンをクリックすることで週次、月次の総労働時間を簡単に把握可能です。
+												</p>																												
+												<img src="/img/trial/fungsi-admin-tab/a1.png" class="mb-3 img-fluid w-100 img-border" alt="pengaturan-task" loading="lazy" />																							
+											</div>										
+										</div>
+										<div class="row mt-4">
+											<div class="col-sm-12 col-md-12 col-lg-12">										
+												<p class="trial-font-size"> 
+													<span style="color: var(--primary-main)">●</span> 
+													スクリーンキャプチャを確認する
+												</p>	
+												<p class="mt-0 trial-font-size">
+												管理者は、従業員の労働時間（いつ働いているかも含め）以外に、スクリーンキャプチャ機能（デスクトップスクリーンショット）を介して従業員がそのタイミングでなにを行っていたのか把握することができます。
+
+												[ワークセッション]メニューを開き、[All]をクリックします。 次に、監視する日付やチームなどでフィルターをかけ、従業員を選択します（従業員の名前をクリックします）。
+
+												従業員の詳細ページが表示されたら、ページの一番下までスクロールすると、[Screen Record]タブに取得されたスクリーンキャプチャが表示されます。
+
+												スクリーンキャプチャは、解像度を粗く取得しておりテキストは解読不可能としています。プライバシーに配慮しています。
+												</p>																												
+												<img src="/img/trial/fungsi-admin-tab/a2.png" class="mb-3 img-fluid w-100 img-border" alt="pengaturan-task" loading="lazy" />																							
+											</div>										
+										</div>
+										<div class="row mt-4">
+											<div class="col-sm-12 col-md-12 col-lg-12">										
+												<p class="trial-font-size"> 
+													<span style="color: var(--primary-main)">●</span> 
+													3枚同じ画面が続いた場合
+												</p>	
+												<p class="mt-0 trial-font-size">
+													Dokodemo-Kerjaが同じ画面を3枚連続で検出した場合、赤文字で時間表示します。さらに管理者宛にNotificationを送信します。
+
+													この機能により、HR担当や上長は、メンバーに確認することができます。Dokodemo-Kerjaの止め忘れ、電話対応をしているなどを確認することを可能にします。
+												</p>																												
+												<img src="/img/trial/fungsi-admin-tab/a3.jpg" class="mb-3 img-fluid w-100 img-border" alt="pengaturan-task" loading="lazy" />																							
+												<p class="mt-0 trial-font-size">
+													この機能を通じて、従業員が労働時間の修正が必要になった場合、My Work Sessionより労働時間修正を送信することができます。
+												</p>
+											</div>										
 										</div>
 									</div>
 								</div>
-								<div>
-									<h2 class="tab-content-title content-section-title">4. スタッフ情報を設定管理します</h2>
-									<div class="pl-4">
-										<p class="trial-tab-content"><strong>Profile</strong> - <strong>Settings</strong> - <strong>Staff</strong>から設定管理します</p>
-										<picture>
-											<source srcset="/img/trial/admin-2-1.webp" type="image/webp">
-											<img src="/img/trial/admin-2-1.jpg" alt="Dokodemo-Kerja Drop Down Account Access Option" class="mb-3 img-fluid w-100 img-border">
-										</picture>
-										<div class="row">
-											<div class="col-md-6">
-												<p class="trial-tab-content"><strong>Add New</strong>から新規スタッフ情報を登録できます</p>
-												<picture>
-													<source srcset="/img/trial/admin-2-2.webp" type="image/webp">
-													<img src="/img/trial/admin-2-2.jpg" alt="Dokodemo-Kerja 'Add New' Button" class="mb-3 img-fluid w-100 img-border">
-												</picture>
-											</div>
-											<div class="col-md-6">
-												<p class="trial-tab-content">スタッフ情報を入力し登録します<br class="d-none d-md-block"><br class="d-none d-md-block"></p>
-												<picture>
-													<source srcset="/img/trial/admin-2-3.webp" type="image/webp">
-													<img src="/img/trial/admin-2-3.jpg" alt="Dokodemo-Kerja's Add Staff option" class="mb-3 img-fluid w-100 img-border">
-												</picture>
-											</div>
-										</div>
-										<p class="trial-tab-content">入力されたEメール宛にログイン情報が送られるので、それを使ってログイン後、ご利用ください</p>
-										<picture>
-											<source srcset="/img/trial/admin-2-4.webp" type="image/webp">
-											<img src="/img/trial/admin-2-4.jpg" alt="Dokodemo-Kerja Staff Management" class="mb-5 img-fluid w-100 img-border">
-										</picture>
-									</div>
-								</div>
+
+								<!-- <p class="mt-4 " style="font-size: small;">
+									<i>*Saat Anda memutuskan untuk berlangganan Dokodemo-Kerja, user juga akan membutuhkan Company Code untuk login ke aplikasi. Pihak kami akan mengirimkannya kepada pihak PIC perusahaan setelah perusahaan Anda resmi terdaftar.</i>
+								</p> -->
+								
 							</div>
 						</div>
 						<div class="tab-pane fade" id="nav-profile" role="tabpanel" aria-labelledby="nav-profile-tab">

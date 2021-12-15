@@ -74,27 +74,7 @@
                         Dokodemo-Kerja merupakan software HRIS berupa aplikasi absensi online untuk kerja jarak jauh (remote working) dengan beragam fitur dan keunggulan. Fungsi utama aplikasi ini adalah sebagai pengelola absensi karyawan yang mampu mencatat waktu masuk, istirahat dan waktu pulang kerja karyawan serta mengakumulasi total waktu kerja secara akurat.
                     </p>
 
-                    <?php include($_SERVER['DOCUMENT_ROOT'] . '/ind/absensi-app-online-section.php'); ?> -->
-                   
-                    <div class="col-md-12 ">
-                        <ul class="pl-0" style="list-style-type: none;">
-                            <li>
-                                <p class="mb-md-2 text-left">
-                                ※ Sertifikat pengurangan pajak akan diterbitkan setiap bulan untuk pelanggan yang tinggal di Indonesia.
-                                </p>
-                            </li>
-                            <li>
-                                <p class="mb-md-2 text-left">
-                                ※ Kami menyediakan layanan SaaS, tetapi kami menerbitkan faktur setiap bulan alih-alih menerima pembayaran dengan kartu kredit.
-                                </p>
-                            </li>
-                            <li>
-                                <p class="mb-md-2 text-left">
-                                ※   Pelanggan di luar Indonesia dimohon untuk membayar dengan Paypal.
-                                </p>
-                            </li>
-                        </ul>                                               
-                    </div>  
+                    <?php include($_SERVER['DOCUMENT_ROOT'] . '/ind/absensi-app-online-section.php'); ?> -->                
 
                     <div class="col-md-12 ">
                         <p class="mb-md-2 text-center mt-3">

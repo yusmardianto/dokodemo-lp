@@ -115,7 +115,7 @@
                                             <a href="/demo" class="form-control btn btn--rounded bg--blue fs-14 text-white px-4">Contact Us</a>
                                         </div>
                                     </div>
-                                    <!-- <p class="mt-1 mb-0 fs-12">*No credit card required</p>     -->
+                                    <p class="mt-1 mb-0 fs-12">*No membership required</p>    
                                 </div>
                             </div>
                         </div>
