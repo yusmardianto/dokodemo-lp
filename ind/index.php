@@ -74,16 +74,16 @@
                         Dokodemo-Kerja merupakan software HRIS berupa aplikasi absensi online untuk kerja jarak jauh (remote working) dengan beragam fitur dan keunggulan. Fungsi utama aplikasi ini adalah sebagai pengelola absensi karyawan yang mampu mencatat waktu masuk, istirahat dan waktu pulang kerja karyawan serta mengakumulasi total waktu kerja secara akurat.
                     </p>
 
-                    <?php include($_SERVER['DOCUMENT_ROOT'] . '/ind/absensi-app-online-section.php'); ?> -->
-                   
+                    <?php include($_SERVER['DOCUMENT_ROOT'] . '/ind/absensi-app-online-section.php'); ?> -->                
+
                     <div class="col-md-12 ">
-                        <p class="mb-md-2 text-left">
+                        <p class="mb-md-2 text-center mt-3">
                         Dokodemo-Kerja merupakan software HRIS berupa aplikasi absensi online dengan beragam fitur dan keunggulan. Dokodemo-Kerja juga dapat menjadi management tool yang mengubah cara kerja karyawan perusahaan Anda. Dengan aplikasi ini, tim HRD dapat dengan mudah mengelola beragam sistem kerja mulai dari sistem kerja di perkantoran, kerja jarak jauh / remote working / Work From Home (WFH), atau sistem kerja karyawan dengan jangka waktu yang pendek.
                         </p>
-                        <p class="mb-md-2 text-left">
+                        <p class="mb-md-2 text-center">
                         Dokodemo-Kerja kami sediakan untuk perusahan-perusahaan di Indonesia yang ingin mengelola karyawannya secara efektif dan efisien. Meskipun demikian aplikasi ini juga dapat digunakan di luar negeri.
                         </p>
-                        <p class="mb-md-2 text-left">
+                        <p class="mb-md-2 text-center">
                         Fitur utama Dokodemo-Kerja adalah pengelola absensi karyawan yang mampu mencatat dan mengelola clock in (absen masuk) dan clock out (absen keluar) karyawan, waktu istirahat, serta mengakumulasi total waktu kerja secara akurat. Fungsionalitas penting Dokodemo-Kerja adalah kemampuan untuk mengambil tangkapan layar (screen capture) dan memeriksa konsistensi antara waktu pengarsipan dengan situasi aktual.
                         </p>
                     </div>
@@ -105,7 +105,7 @@
                                             <a href="/contact-us.php" class="form-control btn btn--rounded bg--blue fs-14 text-white px-4">Hubungi Kami</a>
                                         </div>
                                     </div>
-                                    <p class="mt-1 mb-0 fs-12">*Tidak perlu Kartu Kredit</p>    
+                                    <p class="mt-1 mb-0 fs-12">*Tidak perlu pendaftaran keanggotaan</p>    
                                 </div>
                             </div>
                         </div>

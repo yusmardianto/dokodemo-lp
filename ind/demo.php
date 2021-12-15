@@ -320,7 +320,7 @@ require '../action/c-trial.php';
 									</div>
 								</div>
 								<div>
-									<h2 class="tab-content-title content-section-title">5. Pengawasan Staf</h2>
+									<h2 class="tab-content-title content-section-title mt-3">5. Pengawasan Staf</h2>
 									<div class="pl-4">
 										<div class="row">
 											<div class="col-sm-12 col-md-12 col-lg-12">	

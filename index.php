@@ -71,25 +71,51 @@
                         </div>
                     </div>
                     <div class="col-md-12 ">
-                        <p class="mb-md-2 text-center">
-                            Dokodemo-Kerja is HRIS software that mainly functions as an online attendance application for remote working, with a variety of additional features and advantages. The main function of this application is as an employee attendance management system that is able to record employee starting, resting and leaving times. It is also able to accumulate total working hours in an accurate manner.
+                        <ul class="pl-0" style="list-style-type: none;">
+                            <li>
+                                <p class="mb-md-2 text-left">
+                                ※ A tax deduction certificate will be issued monthly for customers residing within Indonesia.
+                                </p>
+                            </li>
+                            <li>
+                                <p class="mb-md-2 text-left">
+                                ※ We provide SaaS services, however we issue invoices every month instead of receiving payments via credit card.
+                                </p>
+                            </li>
+                            <li>
+                                <p class="mb-md-2 text-left">
+                                ※  Customers residing outside Indonesia are requested to pay via Paypal.
+                                </p>
+                            </li>
+                        </ul>                                               
+                    </div>                      
+
+                    <div class="col-md-12 ">
+                        <p class="mb-md-2 mt-3 text-justify text-md-justify">
+                            Dokodemo-Kerja is an effective attendance management tool that aims to reshape the way employee’s conduct their work routines. As a staff management SaaS tool, Dokodemo-Kerja enables the implementation of remote work strategies outside of the workplace, as well as promoting better organization of office based work within the workplace.                            
+                        </p>
+                        <p class="text-center mt-2 text-justify text-md-justify">
+                            It is a tool manufactured and sold within Indonesia for local businesses, but it can also be used overseas. Its main function regards effectively tracking & monitoring employee working hours, in addition to the flexible administration of leaves, vacations, and late arrivals. Its key feature allows for accurate screen capturing capabilities, allowing managers to check each employee’s rate of work consistency between the recorded intervals of time.
                         </p>
                     </div>
                     <div class="col-12">
                         <div class="mt--30px mb-5 py--20px px--30px bg--l-blue border--blue rounded-lg shadow--blue">
                             <div class="row align-items-center">
-                                <div class="col-md-8 col-lg-6">
-                                    <p class="mb-md-0 text-justify text-md-left">
-                                    The Dokodemo-Kerja application is now available in Version 3.0, besides being equipped with a GPS tracking feature designed to manage the activities of employees working outside of the office, Version 3.0 has also been equipped with Announcement and Upcoming Day off Calendar features so as to inform users about their individual leave activities regarding each employee, as well as information about upcoming national holidays.
+                                <div class="col-md-8 col-lg-7">                                                                   
+                                    <p class="text-justify text-md-justify">
+                                        Dokodemo-Kerja version 3.0 is now available. Existing users are automatically upgraded. In version 3.0, the user interface has been improved, an auto upgrade function has been implemented, and vacation acquisition workflow & paid vacation management functions have been added. It also informs users of upcoming Indonesian holidays.
+                                    </p>
+                                    <p class="mb-md-0 text-justify text-md-justify">
+                                        Since the only way to build a new environment is to issue a company code, the time in preparing a trial environment has been dramatically shortened. Feel free to request a demo environment. It's free and there is no need to register your credit card information. To begin, please select the “Try The Demo Now” option available on the right hand side of this segment.
                                     </p>
                                 </div>
-                                <div class="col-md-4 col-lg-6 text-center">
+                                <div class="col-md-4 col-lg-5 text-center">                                
                                     <div class="row justify-content-center">
                                         <div class="col-auto col-lg-6">
-                                            <a href="/demo" class="form-control btn btn--rounded bg--blue fs-14 text-white px-4">Try The Demo Now</a>
+                                            <a href="/demo" class="form-control btn btn--rounded bg--blue fs-14 text-white px-4">Contact Us</a>
                                         </div>
                                     </div>
-                                    <p class="mt-1 mb-0 fs-12">*No credit card required</p>    
+                                    <p class="mt-1 mb-0 fs-12">*No membership required</p>    
                                 </div>
                             </div>
                         </div>
@@ -317,7 +343,6 @@
 
         <section class="py--70px home__benefit">
             <div class="container">
-
                 <div class="row align-items-end benefit__description">
                     <div class="col-md-12 mb-3 mb-md-5">   
                         <div class="color--blue">
@@ -331,8 +356,8 @@
                 <div class="row align-items-end benefit__description">
                     <div class="col-md-12 mb-3 mb-md-5">   
                         <div class="color--blue">
-                            <div class="title--bg title--bg-border title--bg-border-right" data-title-bg="The Upwork">                            
-                                <h4 class="mb-0 font-weight-bold fs-34 text-center">The Upwork Case Study</h4>
+                            <div class="title--bg title--bg-border title--bg-border-right" data-title-bg="Remote Work Strategy">                            
+                                <h2 class="mb-0 font-weight-bold fs-34 text-center">A Remote Work Strategy in Action</h2>
                             </div>
                             <p class="mb-0 fs-14 text-center">For example, a further study conducted by Upwork showed that 1 in 4 workers in America have already been engaged in some form of flexible employment. This figure is expected to continue to rise in the future in line with the growing work culture that has established itself since the Covid-19 pandemic.</p>
                         </div>                     
@@ -341,8 +366,8 @@
                 <div class="row align-items-end benefit__description">
                     <div class="col-md-12 mb-3 mb-md-5">   
                         <div class="color--blue">
-                            <div class="title--bg title--bg-border title--bg-border-right" data-title-bg="Deeper Insight">                            
-                                <h4 class="mb-0 font-weight-bold fs-34 text-center">Deeper Insight from the Stanford Study</h4>
+                            <div class="title--bg title--bg-border title--bg-border-right" data-title-bg="Improved Productivity">                            
+                                <h2 class="mb-0 font-weight-bold fs-34 text-center">Stanford Study Reveals Improved Productivity </h2>
                             </div>
                             <p class="mb-0 fs-14 text-center">A rather prominent study conducted by Stanford in 2013 on 16 thousand workers for more than 9 months showed an increase in productivity of 13%. This increase in productivity was due to a calmer and more flexible working environment at home, resulting in reduced time off and sick leave taken by workers.</p>
                         </div>                     
@@ -351,8 +376,8 @@
                 <div class="row align-items-end benefit__description">
                     <div class="col-md-12 mb-3 mb-md-5">   
                         <div class="color--blue">
-                            <div class="title--bg title--bg-border title--bg-border-right" data-title-bg="Survey Results">                            
-                                <h4 class="mb-0 font-weight-bold fs-34 text-center">The Connectsolutions Survey Results</h4>
+                            <div class="title--bg title--bg-border title--bg-border-right" data-title-bg="Reduces Unproductivity">                            
+                                <h4 class="mb-0 font-weight-bold fs-34 text-center">Remote Work Reduces Unproductivity, Study Shows</h4>
                             </div>
                             <p class="mb-0 fs-14 text-center">Further, in a survey conducted by Connectsolutions, 77% of workers who worked from home displayed an increase in productivity; of these, 30% of workers indicated quicker completion times for the same task, while another 24% were able to do more work in the same time duration. Other studies have also shown that working from home can potentially reduce 10 minutes of unproductivity, and cumulatively add one more day to the week.</p>
                         </div>                     

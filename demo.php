@@ -297,6 +297,60 @@
 										</div>
 									</div>									
 								</div>
+
+								<div>
+									<h2 class="tab-content-title content-section-title mt-3">5. Staff Supervision</h2>
+									<div class="pl-4">
+										<div class="row">
+											<div class="col-sm-12 col-md-12 col-lg-12">	
+												<p class="trial-font-size">
+													As an administrator, you will be able to supervise and monitor the work activities being carried out by all employees.
+												</p>										
+												<p class="mt-0 trial-font-size"> 
+													<span style="color: var(--primary-main)">●</span> 
+													Checking employee total working hours
+												</p>	
+												<p class="mt-0 trial-font-size">
+													Open the Work Session menu, then click "All" and then the system will display the total working hours achieved by each employee listed. Admins can observe the total working hours of each employee across certain time periods. These time periods are adjustable through the use of the available daily, weekly or monthly options.
+												</p>																												
+												<img src="/img/trial/fungsi-admin-tab/a1.png" class="mb-3 img-fluid w-100 img-border" alt="pengaturan-task" loading="lazy" />																							
+											</div>										
+										</div>
+										<div class="row mt-4">
+											<div class="col-sm-12 col-md-12 col-lg-12">										
+												<p class="trial-font-size"> 
+													<span style="color: var(--primary-main)">●</span> 
+													Monitoring Employee Screenshots
+												</p>	
+												<p class="mt-0 trial-font-size">
+													In addition to monitoring employee working hours, Admins can also monitor every employee’s work activities through the use of the desktop screenshot feature.												
+												</p>							
+												<p class="mt-0 trial-font-size">
+													Open the Work Session menu, and then click "All". Next, select the date or work session you want to monitor and then click on any specific employee's name. When the employee details page is displayed, please scroll down to the bottom of the page where you will find the screenshots on the "Screen Record" tab.
+												</p>
+
+
+												<img src="/img/trial/fungsi-admin-tab/a2.png" class="mb-3 img-fluid w-100 img-border" alt="pengaturan-task" loading="lazy" />																							
+											</div>										
+										</div>
+										<div class="row mt-4">
+											<div class="col-sm-12 col-md-12 col-lg-12">										
+												<p class="trial-font-size"> 
+													<span style="color: var(--primary-main)">●</span> 
+													3. Identical Screenshots
+												</p>	
+												<p class="mt-0 trial-font-size">
+													The system is able to accurately record screenshots. If 3 identical screenshots or more are consecutively recorded, the system will then mark these screenshots in red and automatically send a notification to the Admin.
+												</p>																												
+												<img src="/img/trial/fungsi-admin-tab/a3.jpg" class="mb-3 img-fluid w-100 img-border" alt="pengaturan-task" loading="lazy" />																							
+												<p class="mt-0 trial-font-size">
+													Through this feature, the Admin can then find out why, during that space of time, the employee was inactive while at their computer. If it is known that during that session the employee was at rest and had forgotten to switch off Dokodemo-Kerja, then the Admin can modify the employee's Work Session so that their total working hours adhere to the accurate amount.
+												</p>
+											</div>										
+										</div>
+									</div>
+								</div>
+
 								<p class="mt-4 " style="font-size: small;">
 									<i>*When you decide to subscribe to Dokodemo-Kerja, the user will also need a Company Code in order to login to the application. Our party will then send it to the company PIC after your company is officially registered.</i>
 								</p>
