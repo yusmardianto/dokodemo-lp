@@ -91,10 +91,10 @@
                     </div>                      
 
                     <div class="col-md-12 ">
-                        <p class="mb-md-2 text-center mt-3">
+                        <p class="mb-md-2 mt-3 text-justify text-md-justify">
                             Dokodemo-Kerja is an effective attendance management tool that aims to reshape the way employee’s conduct their work routines. As a staff management SaaS tool, Dokodemo-Kerja enables the implementation of remote work strategies outside of the workplace, as well as promoting better organization of office based work within the workplace.                            
                         </p>
-                        <p class="text-center mt-2">
+                        <p class="text-center mt-2 text-justify text-md-justify">
                             It is a tool manufactured and sold within Indonesia for local businesses, but it can also be used overseas. Its main function regards effectively tracking & monitoring employee working hours, in addition to the flexible administration of leaves, vacations, and late arrivals. Its key feature allows for accurate screen capturing capabilities, allowing managers to check each employee’s rate of work consistency between the recorded intervals of time.
                         </p>
                     </div>
