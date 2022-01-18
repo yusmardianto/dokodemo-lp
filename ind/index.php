@@ -127,7 +127,7 @@
                                 <iframe class="embed-responsive-item" width="811" height="417" title="Dokodemo Youtube Video"
                                     src="https://www.youtube.com/embed/ZRU2cc7lWbw" frameborder="0"
                                     allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
-                                    allowfullscreen></iframe>
+                                    loading="lazy" allowfullscreen></iframe>
                             </div>
                         </div>
                     </div>
@@ -250,35 +250,50 @@
                                     <div>
                                         <a href="/img/features/home_01.png" data-source="/img/features/home_01.png" title="Daily Working Screen Capture" aria-label="Daily Working Screen Capture">
                                         <div class="image--wrapper">
-                                            <img src="/img/features/home_01-com.jpg" class="border border--blue" alt="Aplikasi absensi online Dokodemo-Kerja" />
+                                            <picture>
+                                                <source srcset="/img/features/home_01-com.webp" type="image/webp">
+                                                <img src="img/features/home_01-com.jpg" alt="Aplikasi absensi online Dokodemo-Kerja" class="border border--blue">
+                                            </picture>
                                         </div>    
                                         </a>
                                     </div>
                                     <div>
                                         <a href="/img/features/home_02.png" data-source="/img/features/home_02.png" title="Daily Working Screen Capture" aria-label="Daily Working Screen Capture">
                                         <div class="image--wrapper">
-                                            <img src="/img/features/home_02-com.jpg" class="border border--blue" alt="Aplikasi monitoring waktu kerja karyawan Dokodemo-Kerja" />
+                                            <picture>
+                                                <source srcset="/img/features/home_02-com.webp" type="image/webp">
+                                                <img src="/img/features/home_02-com.jpg" alt="Aplikasi monitoring waktu kerja karyawan Dokodemo-Kerja" class="border border--blue">
+                                            </picture>
                                         </div>    
                                         </a>
                                     </div>
                                     <div>
                                         <a href="/img/features/home_03.png" data-source="/img/features/home_03.png" title="Daily Working Screen Capture" aria-label="Daily Working Screen Capture">
                                         <div class="image--wrapper">
-                                            <img src="/img/features/home_03-com.jpg" class="border border--blue" alt="Screenshot of the Dokodemo-Kerja Application" />
+                                            <picture>
+                                                <source srcset="/img/features/home_03-com.webp" type="image/webp">
+                                                <img src="/img/features/home_03-com.jpg" alt="Screenshot of the Dokodemo-Kerja Application" class="border border--blue">
+                                            </picture>
                                         </div>    
                                         </a>
                                     </div>
                                     <div>
                                         <a href="/img/features/home_04.png" data-source="/img/features/home_04.png" title="Daily Working Screen Capture" aria-label="Daily Working Screen Capture">
                                         <div class="image--wrapper">
-                                            <img src="/img/features/home_04-com.jpg" class="border border--blue" alt="Screenshot of the Dokodemo-Kerja Application" />
+                                            <picture>
+                                                <source srcset="/img/features/home_04-com.webp" type="image/webp">
+                                                <img src="/img/features/home_04-com.jpg" alt="Screenshot of the Dokodemo-Kerja Application" class="border border--blue">
+                                            </picture>  
                                         </div>    
                                         </a>
                                     </div>
                                     <div>
                                         <a href="/img/features/home_05.png" data-source="/img/features/home_05.png" title="Daily Working Screen Capture" aria-label="Daily Working Screen Capture">
                                         <div class="image--wrapper">
-                                            <img src="/img/features/home_05-com.jpg" class="border border--blue" alt="Screenshot of the Dokodemo-Kerja Application" />
+                                            <picture>
+                                                <source srcset="/img/features/home_05-com.webp" type="image/webp">
+                                                <img src="/img/features/home_05-com.jpg" alt="Screenshot of the Dokodemo-Kerja Application" class="border border--blue">
+                                            </picture>  
                                         </div>    
                                         </a>
                                     </div>
@@ -672,9 +687,9 @@
 
     </div>
 
-<?php include($_SERVER['DOCUMENT_ROOT'].'/ind/component/modal-event-banner.php'); ?>
+<!-- <?php include($_SERVER['DOCUMENT_ROOT'].'/ind/component/modal-event-banner.php'); ?> -->
 <?php include($_SERVER['DOCUMENT_ROOT'].'/ind/component/demo-banner.php'); ?>
-<?php include($_SERVER['DOCUMENT_ROOT'].'/ind/component/modal-meeting.php'); ?>
+<!-- <?php include($_SERVER['DOCUMENT_ROOT'].'/ind/component/modal-meeting.php'); ?> -->
 <?php 
     $add_js = '<script async src="/js/jquery.magnific-popup.min.js"></script>';
     include($_SERVER['DOCUMENT_ROOT'].'/ind/component/footer.php'); 
