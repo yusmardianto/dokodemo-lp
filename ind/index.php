@@ -124,7 +124,7 @@
                     <div class="col-md-6">
                         <div class="bg--l-blue shadow--blue p-3 rounded-lg">                                    
                             <div class="embed-responsive embed-responsive-16by9 feature-video">
-                                <iframe class="embed-responsive-item" width="811" height="417" title="Dokodemo Youtube Video"
+                                <iframe class="embed-responsive-item" width="515" height="417" title="Dokodemo Youtube Video"
                                     src="https://www.youtube.com/embed/ZRU2cc7lWbw" frameborder="0"
                                     allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
                                     loading="lazy" allowfullscreen></iframe>
