@@ -134,10 +134,10 @@
                     <div class="col-md-6">
                         <div class="bg--l-blue shadow--blue p-3 rounded-lg">                                    
                             <div class="embed-responsive embed-responsive-16by9 feature-video">
-                                <iframe class="embed-responsive-item" width="811" height="417" title="Dokodemo Youtube Video"
+                                <iframe class="embed-responsive-item" width="515" height="417" title="Dokodemo Youtube Video"
                                     src="https://www.youtube.com/embed/ZRU2cc7lWbw" frameborder="0"
                                     allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
-                                    allowfullscreen></iframe>
+                                    loading="lazy" allowfullscreen></iframe>
                             </div>
                         </div>
                     </div>
@@ -689,7 +689,7 @@
 
     </div>
 
-<?php include($_SERVER['DOCUMENT_ROOT'].'/component/modal-event-banner.php'); ?>
+<!-- <?php include($_SERVER['DOCUMENT_ROOT'].'/component/modal-event-banner.php'); ?> -->
 <?php include($_SERVER['DOCUMENT_ROOT'].'/component/demo-banner.php'); ?>
 <?php include($_SERVER['DOCUMENT_ROOT'].'/component/modal-meeting.php'); ?>
 <?php 
