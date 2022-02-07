@@ -5,8 +5,8 @@
         <span aria-hidden="true">×</span>
       </button>
       <div class="modal-body">
-        <a href="https://docs.google.com/forms/d/e/1FAIpQLScn73Hhf36KQvOGc81WAlmfTOz12E1XKJqfh7uQ2zC6x8wsUQ/viewform" target="_blank">
-          <img src="/img/dokodemo-event-banner.jpg" class="img-fluid" alt="dokodemo event">
+        <a href="https://demo.dokodemo-kerja.com/login" target="_blank">
+          <img src="/img/dokodemo-demo-banner.jpg" class="img-fluid" alt="dokodemo demo">
         </a>
       </div>
     </div>
