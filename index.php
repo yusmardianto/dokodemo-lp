@@ -134,10 +134,15 @@
                     <div class="col-md-6">
                         <div class="bg--l-blue shadow--blue p-3 rounded-lg">                                    
                             <div class="embed-responsive embed-responsive-16by9 feature-video">
-                                <iframe class="embed-responsive-item" width="515" height="417" title="Dokodemo Youtube Video"
+                                <div onclick="this.nextElementSibling.style.display='block'; this.style.display='none'">
+                                    <img class="embed-responsive-item" src="img/home/youtube-thumbnail.jpg" width="515" height="285" style="cursor:pointer" />
+                                </div>
+                                <div style="display:none">
+                                    <iframe class="embed-responsive-item" width="515" height="417" title="Dokodemo Youtube Video"
                                     src="https://www.youtube.com/embed/ZRU2cc7lWbw" frameborder="0"
                                     allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
                                     loading="lazy" allowfullscreen></iframe>
+                                </div>
                             </div>
                         </div>
                     </div>
