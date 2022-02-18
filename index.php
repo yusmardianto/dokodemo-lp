@@ -135,10 +135,11 @@
                         <div class="bg--l-blue shadow--blue p-3 rounded-lg">                                    
                             <div class="embed-responsive embed-responsive-16by9 feature-video">
                                 <div onclick="this.nextElementSibling.style.display='block'; this.style.display='none'">
-                                    <img class="embed-responsive-item" src="img/home/youtube-thumbnail.jpg" width="515" height="285" style="cursor:pointer" />
+                                    <img  id="play" class="embed-responsive-item" src="img/home/youtube-thumbnail.jpg" 
+                                    width="515" height="285" style="cursor:pointer" />
                                 </div>
                                 <div style="display:none">
-                                    <iframe class="embed-responsive-item" width="515" height="417" title="Dokodemo Youtube Video"
+                                    <iframe id="video" class="embed-responsive-item" width="515" height="417"
                                     src="https://www.youtube.com/embed/ZRU2cc7lWbw" frameborder="0"
                                     allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
                                     loading="lazy" allowfullscreen></iframe>
@@ -701,6 +702,15 @@
     $add_js = '<script async src="/js/jquery.magnific-popup.min.js"></script>';
     include($_SERVER['DOCUMENT_ROOT'].'/component/footer.php'); 
 ?>
+<script>
+
+  $('#play').on('click', function(e) {
+    var $video = $('#video');
+    src = $video.attr('src');
+    $video.attr('src', src + '?autoplay=1');
+  });
+</script>
+
 <script>
     $(function() {
         $("#modal-event").modal('show');
