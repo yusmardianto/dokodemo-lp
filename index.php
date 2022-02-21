@@ -134,7 +134,7 @@
                     <div class="col-md-6">
                         <div class="bg--l-blue shadow--blue p-3 rounded-lg">                                    
                             <div class="embed-responsive embed-responsive-16by9 feature-video">
-                                <img class="embed-responsive-item" src="img/home/youtube-thumbnail.jpg" data-video="http://www.youtube.com/embed/zP_D_YKnwi0" width="515" height="417">    
+                                <img class="embed-responsive-item" src="img/home/youtube-thumbnail.jpg" data-video="https://www.youtube.com/embed/ZRU2cc7lWbw" width="515" height="417">    
                                 <!-- <div style="display:none">
                                     <iframe id="video" class="embed-responsive-item" width="515" height="417"
                                     src="https://www.youtube.com/embed/ZRU2cc7lWbw" frameborder="0"
