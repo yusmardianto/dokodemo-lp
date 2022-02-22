@@ -113,21 +113,21 @@
                 </div>
                 <div class="row align-items-center">
                     <div class="col-md-6 mb-4 mt-2 mb-lg-0">
-                        <h2 class="mb-3 fs-34 font-weight-bold">Keuntungan Dokodemo-Kerja</h2>
+                        <h2 class="mb-3 fs-34 font-weight-bold">Benefits of Dokodemo-Kerja</h2>
                         <ul class="list-unstyled banner__list list--circle list--circle-border">
-                            <li>Pantau tugas dan jam kerja karyawan.</li>
-                            <li>Fitur tangkapan layar di setting dengan random dan disimpan di dalam server. (Resolusi gambar rendah sehingga tidak mengganggu privasi)</li>
-                            <li>Pada aplikasi yang diinstal di handphone, mempermudah Anda untuk mengelola waktu dan lokasi kerja karyawan yang sering dinas keluar kantor.</li>
-                            <li>Pantau tim yang sedang atau akan mengajukan cuti sehingga dapat mengatur tim secara keseluruhan dengan mudah</li>
+                            <li>Effectively monitor employee work hours and duties. </li>
+                            <li>The screenshot feature is designed to capture the desktop screen at random intervals and store these pictures on the server (These images are low resolution so as to not interfere with privacy). </li>
+                            <li>Installing the application on one’s cellphone makes it easier for you to manage every employee’s work hours and location, as the app is designed to keep track of staff who often works away from the office.</li>
+                            <li>Monitor team members applying for leave so that you can easily manage them as a whole. </li>
                         </ul>
                     </div>
                     <div class="col-md-6">
                         <div class="bg--l-blue shadow--blue p-3 rounded-lg">                                    
                             <div class="embed-responsive embed-responsive-16by9 feature-video">
-                                <iframe class="embed-responsive-item" width="515" height="417" title="Dokodemo Youtube Video"
-                                    src="https://www.youtube.com/embed/ZRU2cc7lWbw" frameborder="0"
-                                    allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
-                                    loading="lazy" allowfullscreen></iframe>
+                                <picture>
+                                    <source class="embed-responsive-item" srcset="/img/home/youtube-thumbnail.webp" type="image/webp">
+                                    <img class="embed-responsive-item" src="/img/home/youtube-thumbnail.jpg" data-video="https://www.youtube.com/embed/ZRU2cc7lWbw" width="515" height="417" style="cursor:pointer" loading="lazy" />
+                                </picture>
                             </div>
                         </div>
                     </div>
@@ -694,6 +694,12 @@
     $add_js = '<script async src="/js/jquery.magnific-popup.min.js"></script>';
     include($_SERVER['DOCUMENT_ROOT'].'/ind/component/footer.php'); 
 ?>
+<script>
+    $('img').click(function(){
+        video = '<iframe src="'+ $(this).attr('data-video') +'"></iframe>';
+        $(this).replaceWith(video);
+    });
+</script>
 <script>
     $(function() {
         $("#modal-event").modal('show');
