@@ -69,33 +69,11 @@
                             <div class="w-100 mb-4 mb-lg-0 banner__animation" id="homepage_animation"></div>
                             <div class="loader">Loading...</div>
                         </div>
-                    </div>
-                    <div class="col-md-12 ">
-                        <ul class="pl-0" style="list-style-type: none;">
-                            <li>
-                                <p class="mb-md-2 text-left">
-                                ※ A tax deduction certificate will be issued monthly for customers residing within Indonesia.
-                                </p>
-                            </li>
-                            <li>
-                                <p class="mb-md-2 text-left">
-                                ※ We provide SaaS services, however we issue invoices every month instead of receiving payments via credit card.
-                                </p>
-                            </li>
-                            <li>
-                                <p class="mb-md-2 text-left">
-                                ※  Customers residing outside Indonesia are requested to pay via Paypal.
-                                </p>
-                            </li>
-                        </ul>                                               
-                    </div>                      
-
+                    </div>                   
                     <div class="col-md-12 ">
                         <p class="mb-md-2 mt-3 text-justify text-md-justify">
-                            Dokodemo-Kerja is an effective attendance management tool that aims to reshape the way employee’s conduct their work routines. As a staff management SaaS tool, Dokodemo-Kerja enables the implementation of remote work strategies outside of the workplace, as well as promoting better organization of office based work within the workplace.                            
-                        </p>
-                        <p class="text-center mt-2 text-justify text-md-justify">
-                            It is a tool manufactured and sold within Indonesia for local businesses, but it can also be used overseas. Its main function regards effectively tracking & monitoring employee working hours, in addition to the flexible administration of leaves, vacations, and late arrivals. Its key feature allows for accurate screen capturing capabilities, allowing managers to check each employee’s rate of work consistency between the recorded intervals of time.
+                            Dokodemo-Kerja is a Human Resource Information System (HRIS) in the form of an online attendance application, offering a variety of features & advantages. Dokodemo-Kerja can also function as a management tool that implements changes to the way your company's employees work. Through this application, the HRD team can thus more easily manage a variety of key work systems ranging from those found within the office or when working remotely (WFH). We provide Dokodemo-Kerja for companies operating out of Indonesia who seek to manage their employees more effectively and efficiently. However, this application can also be used abroad.<br><br>
+                            The main utility featured through Dokodemo-Kerja is an attendance manager which is able to record and manage employee clock in and clock out times for employees, being also able to record rest periods, accumulating a total number of working hours accurately. An important functionality of Dokodemo-Kerja is the ability to take screenshots, allowing HR to check and analyze the overall consistency between the archived times.
                         </p>
                     </div>
                     <div class="col-12">
@@ -164,10 +142,11 @@
                     </div>
                     <div class="col-12">
                         <h3 class="mt-5 font-weight-bold fs-20">
-                        The Standard Setup:
+                        Preparation for WFH (Working from Home)
                         </h3>
-
-                        <p>Working from home allows your workers to conduct their tasks from anywhere. However, this work strategy requires certain key elements to support distance based employment. Specifically, workers must use a fully functional laptop, as well as utilize a stable internet connection so that coordination can be conducted efficiently. Also, within this workframe, rules that outline exactly what is expected of remote working employees must be enforced and must be made clear. For example, more stringent consequences can be upheld for infringements such as for absenteeism or failing to submit projects on time, which balances the relative freedom provided by WFH strategies.</p>
+                        <p>
+                            WFH strategies allow employees to conduct their employment from their home or indeed from any location that fits them best. However, when running WFH work systems, the company must pay close attention to several important points in order to support these remote work strategies. An important example of this is the fact that all employees must have optimally functioning laptops and a fairly stable internet connection. This is so that coordination between teams can run in an efficient and smooth manner. Additionally, the company must also clearly outline policies regarding the regulations that employees must comply with when working remotely. For example, in order for employees to continue exhibiting an optimal level of productivity when working from home, the company can put forth regulations in which any employee working at inappropriate times or who is constantly clocking in late, or is failing to complete tasks on time will incur certain consequences. Making such rules clear to all employees is a good way to dissuade anybody who might take advantage of these remote work policies to the detriment of the company’s overall productivity.
+                        </p>
                     </div>
                     <div class="col-12">
                         <h3 class="mt-5 font-weight-bold fs-20">
