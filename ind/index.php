@@ -113,12 +113,12 @@
                 </div>
                 <div class="row align-items-center">
                     <div class="col-md-6 mb-4 mt-2 mb-lg-0">
-                        <h2 class="mb-3 fs-34 font-weight-bold">Benefits of Dokodemo-Kerja</h2>
+                        <h2 class="mb-3 fs-34 font-weight-bold">Manfaat Dokodemo-Kerja</h2>
                         <ul class="list-unstyled banner__list list--circle list--circle-border">
-                            <li>Effectively monitor employee work hours and duties. </li>
-                            <li>The screenshot feature is designed to capture the desktop screen at random intervals and store these pictures on the server (These images are low resolution so as to not interfere with privacy). </li>
-                            <li>Installing the application on one’s cellphone makes it easier for you to manage every employee’s work hours and location, as the app is designed to keep track of staff who often works away from the office.</li>
-                            <li>Monitor team members applying for leave so that you can easily manage them as a whole. </li>
+                            <li>Secara efektif dapat memantau jam kerja dan tugas yang dikerjakan karyawan</li>
+                            <li>Fitur screenshot (screen monitoring) dirancang untuk dapat membuat tangkapan layar pada perangkat desktop karyawan secara acak, selanjutnya gambar-gambar tersebut akan disimpan di dalam server (Gambar hasil screenshot akan kami sediakan dalam resolusi rendah untuk menjaga privasi penggunanya)</li>
+                            <li>Menginstal aplikasi pada perangkat ponsel akan memudahkan Anda dalam mengatur jam kerja dan memantau lokasi karyawan, hal ini dikarenakan aplikasi versi mobile dirancang untuk melacak karyawan yang sering bekerja di luar kantor.</li>
+                            <li>Dapat memantau siapa saja karyawan yang sedang mengajukan cuti sehingga proses pengelolaan cuti secara keseluruhan dapat dilakukan dengan lebih mudah.</li>
                         </ul>
                     </div>
                     <div class="col-md-6">
