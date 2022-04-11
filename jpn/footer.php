@@ -32,7 +32,7 @@
                     <li class="list-inline-item"><a href="/privacy">Privacy Policy</a></li>
                 </ul>                
             </div>
-            <div class="col-md-3 col-lg-2 text-center text-md-right">                
+            <div class="col-md-3 col-lg-2 text-center text-md-center">                
                 <a href="https://www.logique.co.id/" target="_blank" rel="noopener noreferrer" aria-label="Homepage Link">
                     <img src="/img/lgq-white.png" class="img-fluid mb--30px logique-logo" alt="" loading="lazy" />
                 </a>
@@ -45,14 +45,14 @@
                             </picture>
                         </a>
                     </li>
-                    <li class="list-inline-item">
-                        <!-- <a href="mailto:sales@dokodemo-kerja.com"> -->
+                    <!-- <li class="list-inline-item">
+                        <a href="mailto:sales@dokodemo-kerja.com">
                             <picture>
                                 <source srcset="/img/icon/icon-email.svg">
                                 <img src="/img/icon/icon-email.png" alt="logique email" class="img-fluid" loading="lazy">
-                            <!-- </picture> -->
+                            </picture>
                         </a>
-                    </li>
+                    </li> -->
                     <li class="list-inline-item">
                         <a href="https://api.whatsapp.com/send?phone=62811870321" target="_blank" rel="noopener noreferrer">
                             <picture>
