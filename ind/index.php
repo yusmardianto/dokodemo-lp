@@ -695,7 +695,7 @@
     include($_SERVER['DOCUMENT_ROOT'].'/ind/component/footer.php'); 
 ?>
 <script>
-    $('img').click(function(){
+    $('yt').click(function(){
         video = '<iframe src="'+ $(this).attr('data-video') +'"></iframe>';
         $(this).replaceWith(video);
     });

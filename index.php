@@ -114,7 +114,7 @@
                             <div class="embed-responsive embed-responsive-16by9 feature-video">
                                 <picture>
                                     <source class="embed-responsive-item" srcset="/img/home/youtube-thumbnail.webp" type="image/webp">
-                                    <img class="embed-responsive-item" src="/img/home/youtube-thumbnail.jpg" data-video="https://www.youtube.com/embed/ZRU2cc7lWbw" width="515" height="417" style="cursor:pointer" loading="lazy" />
+                                    <img id="yt" class="embed-responsive-item" src="/img/home/youtube-thumbnail.jpg" data-video="https://www.youtube.com/embed/ZRU2cc7lWbw" width="515" height="417" style="cursor:pointer" loading="lazy" />
                                 </picture>
                             </div>
                         </div>
@@ -676,7 +676,7 @@
     include($_SERVER['DOCUMENT_ROOT'].'/component/footer.php'); 
 ?>
 <script>
-    $('img').click(function(){
+    $("yt").click(function(){
         video = '<iframe src="'+ $(this).attr('data-video') +'"></iframe>';
         $(this).replaceWith(video);
     });

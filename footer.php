@@ -33,7 +33,7 @@
                     <li class="list-inline-item"><a href="/privacy">Privacy Policy</a></li>
                 </ul>                
             </div>
-            <div class="col-md-3 col-lg-2 text-center text-md-right">                
+            <div class="col-md-3 col-lg-2 text-center text-md-center">                
                 <a href="https://www.logique.co.id/" target="_blank" rel="noopener noreferrer" aria-label="Homepage Link">
                     <img src="/img/lgq-white.png" class="img-fluid mb--30px logique-logo" alt="" loading="lazy" />
                 </a>
@@ -42,31 +42,31 @@
                         <a href="tel:02122708935">
                             <picture>
                                 <source srcset="/img/icon/icon-phone.svg">
-                                <img src="/img/icon/icon-phone.png" alt="logique contact" class="img-fluid" loading="lazy">
+                                <img src="/img/icon/icon-phone.png" alt="logique contact" loading="lazy">
                             </picture>
                         </a>
                     </li>
-                    <li class="list-inline-item">
+                    <!-- <li class="list-inline-item">
                         <a href="mailto:sales@dokodemo-kerja.com">
                             <picture>
                                 <source srcset="/img/icon/icon-email.svg">
                                 <img src="/img/icon/icon-email.png" alt="logique email" class="img-fluid" loading="lazy">
                             </picture>
                         </a>
-                    </li>
+                    </li> -->
                     <li class="list-inline-item">
                         <a href="https://api.whatsapp.com/send?phone=62811870321" target="_blank" rel="noopener noreferrer">
                             <picture>
                                 <source srcset="/img/icon/icon-whatsapp.svg">
-                                <img src="/img/icon/icon-whatsapp.png" alt="logique whatsapp" class="img-fluid" loading="lazy">
+                                <img src="/img/icon/icon-whatsapp.png" alt="logique whatsapp" loading="lazy">
                             </picture>
                         </a>
                     </li>
                     <li class="list-inline-item">
-                        <a target="_blank" href="https://www.instagram.com/dokodemokerja/">
+                        <a href="https://www.instagram.com/dokodemokerja/" target="_blank">
                             <picture>
                                 <source srcset="/img/icon/icon-ig.svg">
-                                <img src="/img/icon/icon-ig.png" alt="logique instagram" class="img-fluid" loading="lazy">
+                                <img src="/img/icon/icon-ig.png" alt="logique instagram" loading="lazy">
                             </picture>
                         </a>
                     </li>

@@ -604,7 +604,7 @@
     include($_SERVER['DOCUMENT_ROOT'].'/jpn/component/footer.php'); 
 ?>
 <script>
-    $('img').click(function(){
+    $('yt').click(function(){
         video = '<iframe src="'+ $(this).attr('data-video') +'"></iframe>';
         $(this).replaceWith(video);
     });
