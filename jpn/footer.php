@@ -46,11 +46,11 @@
                         </a>
                     </li>
                     <li class="list-inline-item">
-                        <a href="mailto:sales@dokodemo-kerja.com">
+                        <!-- <a href="mailto:sales@dokodemo-kerja.com"> -->
                             <picture>
                                 <source srcset="/img/icon/icon-email.svg">
                                 <img src="/img/icon/icon-email.png" alt="logique email" class="img-fluid" loading="lazy">
-                            </picture>
+                            <!-- </picture> -->
                         </a>
                     </li>
                     <li class="list-inline-item">
