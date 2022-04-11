@@ -42,7 +42,7 @@
                         <a href="tel:02122708935">
                             <picture>
                                 <source srcset="/img/icon/icon-phone.svg">
-                                <img src="/img/icon/icon-phone.png" alt="logique contact" class="img-fluid" loading="lazy">
+                                <img src="/img/icon/icon-phone.png" alt="logique contact" loading="lazy">
                             </picture>
                         </a>
                     </li>
@@ -58,15 +58,15 @@
                         <a href="https://api.whatsapp.com/send?phone=62811870321" target="_blank" rel="noopener noreferrer">
                             <picture>
                                 <source srcset="/img/icon/icon-whatsapp.svg">
-                                <img src="/img/icon/icon-whatsapp.png" alt="logique whatsapp" class="img-fluid" loading="lazy">
+                                <img src="/img/icon/icon-whatsapp.png" alt="logique whatsapp" loading="lazy">
                             </picture>
                         </a>
                     </li>
                     <li class="list-inline-item">
-                        <a target="_blank" href="https://www.instagram.com/dokodemokerja/">
+                        <a href="https://www.instagram.com/dokodemokerja/" target="_blank">
                             <picture>
                                 <source srcset="/img/icon/icon-ig.svg">
-                                <img src="/img/icon/icon-ig.png" alt="logique instagram" class="img-fluid" loading="lazy">
+                                <img src="/img/icon/icon-ig.png" alt="logique instagram" loading="lazy">
                             </picture>
                         </a>
                     </li>
