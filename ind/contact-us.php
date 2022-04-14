@@ -151,9 +151,6 @@
 						<a href="tel:+62811870321" aria-label="phone link">
                             <img src="../img/pricing/call.png" alt="" />
 												</a>
-												 <a href="mailto:info@logique.co.id" aria-label="mail link">
-                            <img src="../img/pricing/mail.png" alt="" />
-												</a>
 												<a href="https://api.whatsapp.com/send?phone=62811870321" aria-label="whatsapp link" target="_blank" rel="noopener noreferrer">
                             <img src="../img/pricing/whatsapp.png" alt="" />
                         </a>
